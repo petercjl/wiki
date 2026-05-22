@@ -13,3 +13,13 @@
 - Created: `shared/knowledge-management/llm-wiki.md`
 - Updated: `index.md`
 - Notes: First formal knowledge page. Used to test the LLM Wiki workflow.
+
+## [2026-05-22] ingest | 营销学理论在电商图片中的应用
+- Source: `raw/articles/marketing-theory-for-ecommerce-images-2026-05-22.md`
+- Created: `shared/business-frameworks/marketing-theory-for-ecommerce-images.md`
+- Updated: `shared/business-frameworks/index.md`
+- Updated: `domains/ecommerce-ops/index.md`
+- Updated: `domains/visual-production/index.md`
+- Updated: `domains/brand-strategy/index.md`
+- Updated: `index.md`
+- Notes: 首篇业务方法论 ingest 测试。作为电商运营、视觉制作、品牌策划共享的图片营销理论总纲页。

@@ -2,7 +2,7 @@
 
 > Content catalog. Every formal wiki page should be listed here.
 > Last updated: 2026-05-22
-> Total formal pages: 1
+> Total formal pages: 2
 
 ## Domains
 
@@ -15,6 +15,7 @@
 - [[shared/knowledge-management/llm-wiki|LLM Wiki 个人知识库]]：由多个 AI Agent 共同维护的个人 Markdown 知识库模式。
 - [[shared/knowledge-management/index|知识管理索引]]：知识库维护和知识管理相关页面入口。
 - [[shared/ai-agent-workflows/index|AI Agent 共享工作流]]：多 Agent 协作、提示词、工具链和自动化流程。
+- [[shared/business-frameworks/marketing-theory-for-ecommerce-images|营销学理论在电商图片中的应用]]：将 FABE、USP、STP、AIDA 等营销理论转化为电商图片策划、视觉表达和 AI 生图提示词的方法论。
 
 ## Projects
 
