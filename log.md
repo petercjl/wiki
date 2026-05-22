@@ -23,3 +23,13 @@
 - Updated: `domains/brand-strategy/index.md`
 - Updated: `index.md`
 - Notes: 首篇业务方法论 ingest 测试。作为电商运营、视觉制作、品牌策划共享的图片营销理论总纲页。
+
+## [2026-05-22] ingest | 18期品牌战略课程转写知识萃取
+- Source: `raw/transcripts/brand-strategy-methodology-course-opening-2026-05-22.md`
+- Created: `_meta/extraction-notes/brand-strategy-methodology-course-opening-extraction-2026-05-22.md`
+- Created: `domains/brand-strategy/concepts/brand-building-methodology.md`
+- Created: `domains/brand-strategy/concepts/brand-three-capabilities-model.md`
+- Created: `domains/brand-strategy/concepts/ecommerce-brand-case-analysis-framework.md`
+- Updated: `domains/brand-strategy/index.md`
+- Updated: `index.md`
+- Notes: 使用 course-transcript-to-knowledge skill，从课程录音转写中去课程化提炼品牌战略理论、三能力模型和案例拆解框架。
