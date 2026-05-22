@@ -2,16 +2,17 @@
 
 > Content catalog. Every formal wiki page should be listed here.
 > Last updated: 2026-05-22
-> Total formal pages: 5
+> Total formal pages: 6
 
 ## Domains
 
 - [[domains/ecommerce-ops/index|电商运营知识域]]：电商运营方法论、指标、SOP 和案例。
 - [[domains/visual-production/index|视觉制作知识域]]：主图、详情页、AI 生图、拍摄、版式和视觉转化方法。
 - [[domains/brand-strategy/index|品牌策划知识域]]：品牌定位、人群、心智、内容策略和品牌表达方法。
-- [[domains/brand-strategy/concepts/brand-building-methodology|电商品牌打造方法论]]：从竞争战略、感知系统、产品策略、营销系统四个模块构建可持续溢价与品牌资产。
-- [[domains/brand-strategy/concepts/brand-three-capabilities-model|品牌三能力模型]]：用势能、动能、蓄能判断品牌所处阶段和发力重点。
-- [[domains/brand-strategy/concepts/ecommerce-brand-case-analysis-framework|电商品牌案例拆解框架]]：从原始处境、增长路径、竞争战略、感知系统、产品策略和营销系统拆解品牌案例。
+- [[domains/brand-strategy/concepts/brand-strategy-knowledge-system|电商品牌战略知识体系]]：复现品牌战略课程中的完整理论，解释电商商家为什么必须从卖货能力升级为品牌经营能力。
+- [[domains/brand-strategy/concepts/brand-energy-accumulation-framework|品牌蓄能框架]]：深度复现竞争战略、感知系统、产品策略、营销系统四模块及其承接关系。
+- [[domains/brand-strategy/concepts/brand-case-reconstruction-patterns|电商品牌案例知识化复现]]：将泰兰尼斯、PGGU婚鞋、运动内衣案例重构为可迁移的案例分析模型。
+- [[domains/brand-strategy/concepts/brand-strategy-application-templates|品牌战略应用模板]]：品牌诊断、案例拆解、战略大单品、原点用户和图片品牌化分析的可复用模板。
 
 ## Shared
 

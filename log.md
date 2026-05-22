@@ -33,3 +33,15 @@
 - Updated: `domains/brand-strategy/index.md`
 - Updated: `index.md`
 - Notes: 使用 course-transcript-to-knowledge skill，从课程录音转写中去课程化提炼品牌战略理论、三能力模型和案例拆解框架。
+
+## [2026-05-22] rewrite | 品牌战略课程知识复现重做
+- Source: `raw/transcripts/brand-strategy-methodology-course-opening-2026-05-22.md`
+- Removed: previous over-compressed brand strategy extraction pages.
+- Created: `_meta/extraction-notes/brand-strategy-methodology-course-opening-reconstruction-2026-05-22.md`
+- Created: `domains/brand-strategy/concepts/brand-strategy-knowledge-system.md`
+- Created: `domains/brand-strategy/concepts/brand-energy-accumulation-framework.md`
+- Created: `domains/brand-strategy/concepts/brand-case-reconstruction-patterns.md`
+- Created: `domains/brand-strategy/concepts/brand-strategy-application-templates.md`
+- Updated: `domains/brand-strategy/index.md`
+- Updated: `index.md`
+- Notes: 根据 Peter 反馈，正式知识页应做课堂知识理论复现、分析、归纳和扩充，而不是摘要式提炼。
