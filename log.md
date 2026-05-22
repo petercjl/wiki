@@ -62,3 +62,10 @@
 - Created: `_meta/extraction-notes/brand-strategy-methodology-course-opening/micro-segments/MS-*.md`
 - Updated: selected formal brand strategy pages with micro-segment coverage notes and richer case/action chains.
 - Notes: Skill test iteration. Added knowledge-point-level processing to avoid segment-level tiger-head-snake-tail loss.
+
+## [2026-05-22] create | 泰兰尼斯品牌案例深度复现
+- Created: `domains/brand-strategy/cases/tailanisi-brand-reconstruction.md`
+- Sources: `raw/transcripts/brand-strategy-methodology-course-opening-2026-05-22.md`, micro-segments `MS-027` 至 `MS-037`
+- Updated: `domains/brand-strategy/index.md`
+- Updated: `index.md`
+- Notes: 使用 micro-segment 机制测试案例深度复现，将泰兰尼斯从动作链扩展为完整品牌蓄能案例。

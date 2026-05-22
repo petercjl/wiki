@@ -2,7 +2,7 @@
 
 > Content catalog. Every formal wiki page should be listed here.
 > Last updated: 2026-05-22
-> Total formal pages: 11
+> Total formal pages: 12
 
 ## Domains
 
@@ -35,6 +35,10 @@
 - [[projects/courseware/index|课程项目知识]]：课程设计、HTML-PPT、培训内容和交付工作流。
 
 ## Entities
+
+## Cases
+
+- [[domains/brand-strategy/cases/tailanisi-brand-reconstruction|泰兰尼斯品牌案例深度复现]]：从竞品心智、购买角色、情绪价值、高端定位、战略大单品、原点用户和公益营销完整复现泰兰尼斯品牌蓄能链路。
 
 ## Comparisons
 

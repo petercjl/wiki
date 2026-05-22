@@ -17,3 +17,7 @@
 - [[domains/brand-strategy/concepts/brand-marketing-system-origin-user|营销系统与原点用户]]：说明原点用户、内容传播和渠道承接。
 - [[domains/brand-strategy/concepts/brand-case-library-reconstruction|品牌案例库知识复现]]：重构泰兰尼斯、PGGU婚鞋、运动内衣和宠物品阶案例。
 - [[domains/brand-strategy/concepts/brand-diagnosis-templates|品牌诊断与应用模板]]：提供品牌诊断、案例拆解和图片品牌化分析模板。
+
+## 案例库
+
+- [[domains/brand-strategy/cases/tailanisi-brand-reconstruction|泰兰尼斯品牌案例深度复现]]：从竞品心智、购买角色、情绪价值、高端定位、战略大单品、原点用户和公益营销完整复现泰兰尼斯品牌蓄能链路。
