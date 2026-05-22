@@ -2,7 +2,7 @@
 
 > Content catalog. Every formal wiki page should be listed here.
 > Last updated: 2026-05-22
-> Total formal pages: 12
+> Total formal pages: 15
 
 ## Domains
 
@@ -37,6 +37,12 @@
 ## Entities
 
 ## Cases
+
+- [[domains/brand-strategy/cases/pet-brand-product-tier-strategy-reconstruction|宠物品牌品阶策略案例深度复现]]：从爆品/名品/品阶结构复现宠物品牌产品系统判断逻辑。
+
+- [[domains/brand-strategy/cases/dopamine-sports-bra-brand-reconstruction|多巴胺运动内衣品牌案例深度复现]]：从错开巨头、多巴胺视觉、对对套装命名和女性力量内容复现运动内衣品牌差异化路径。
+
+- [[domains/brand-strategy/cases/pggu-wedding-shoes-brand-reconstruction|PGGU婚鞋品牌案例深度复现]]：从不盲目拓品类、人生大事场景、爱心鞋底内容化和渠道情绪价值承接复现 PGGU 婚鞋增长逻辑。
 
 - [[domains/brand-strategy/cases/tailanisi-brand-reconstruction|泰兰尼斯品牌案例深度复现]]：从竞品心智、购买角色、情绪价值、高端定位、战略大单品、原点用户和公益营销完整复现泰兰尼斯品牌蓄能链路。
 

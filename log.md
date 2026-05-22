@@ -69,3 +69,11 @@
 - Updated: `domains/brand-strategy/index.md`
 - Updated: `index.md`
 - Notes: 使用 micro-segment 机制测试案例深度复现，将泰兰尼斯从动作链扩展为完整品牌蓄能案例。
+
+## [2026-05-22] create | 剩余品牌案例深度复现
+- Created: `domains/brand-strategy/cases/pggu-wedding-shoes-brand-reconstruction.md`
+- Created: `domains/brand-strategy/cases/dopamine-sports-bra-brand-reconstruction.md`
+- Created: `domains/brand-strategy/cases/pet-brand-product-tier-strategy-reconstruction.md`
+- Updated: `domains/brand-strategy/index.md`
+- Updated: `index.md`
+- Notes: 按泰兰尼斯深度复现样式，完成 PGGU、运动内衣、宠物品牌问答三个案例页。
