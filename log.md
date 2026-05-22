@@ -55,3 +55,10 @@
 - Updated: `domains/brand-strategy/index.md`
 - Updated: `index.md`
 - Notes: 按新版 course-transcript-to-knowledge skill 重跑，采用分段复现、覆盖矩阵和总融合机制；正式页已去除来源语气。
+
+## [2026-05-22] update | 品牌战略课程 micro-segment 重跑
+- Created: `_meta/extraction-notes/brand-strategy-methodology-course-opening/micro-segment-plan.md`
+- Created: `_meta/extraction-notes/brand-strategy-methodology-course-opening/micro-coverage-matrix.md`
+- Created: `_meta/extraction-notes/brand-strategy-methodology-course-opening/micro-segments/MS-*.md`
+- Updated: selected formal brand strategy pages with micro-segment coverage notes and richer case/action chains.
+- Notes: Skill test iteration. Added knowledge-point-level processing to avoid segment-level tiger-head-snake-tail loss.

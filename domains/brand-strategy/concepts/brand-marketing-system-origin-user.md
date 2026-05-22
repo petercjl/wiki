@@ -76,3 +76,31 @@ status: active
 
 - [[domains/brand-strategy/concepts/strategic-hero-product-and-product-system|战略大单品与产品系统]]
 - [[domains/brand-strategy/concepts/brand-case-library-reconstruction|品牌案例库知识复现]]
+
+
+## 8. Micro 级传播机制
+
+### 原点用户不是画像，而是扩散起点
+
+原点用户要同时满足三点：高需求、高认同、高表达。只满足购买需求但不愿表达的人群，适合转化但不适合传播；只愿表达但不购买的人群，会带来声量但不一定带来生意。
+
+### 产品特性要转化为内容机制
+
+产品特性本身不会自动传播，必须被设计成用户愿意参与、展示、复述或模仿的内容机制。例如爱心鞋底如果只停留在结构细节，它只是产品设计；被转化为婚礼互动后，它才成为传播内容。
+
+### 社会话题要服务品牌定位
+
+社会话题不是蹭热点。有效的话题必须同时连接品牌定位、产品特性和用户情绪。否则传播越大，越容易偏离品牌。
+
+### 用户共创是内容资产
+
+网易云音乐评论出圈的启发是：品牌不一定总是自己生产内容，也可以设计让用户表达情绪的空间。当用户内容持续沉淀，品牌就拥有了可复用的情绪资产。
+
+
+## Micro-segment 覆盖来源
+
+本页由分段和 micro-segment 复现结果融合生成。相关中间记录见：
+
+- `_meta/extraction-notes/brand-strategy-methodology-course-opening/micro-segment-plan.md`
+- `_meta/extraction-notes/brand-strategy-methodology-course-opening/micro-coverage-matrix.md`
+

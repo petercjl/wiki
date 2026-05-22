@@ -102,3 +102,11 @@ status: active
 
 - [[domains/brand-strategy/concepts/brand-necessity-and-white-label-dilemma|品牌必要性与白牌困境]]
 - [[domains/brand-strategy/concepts/brand-energy-accumulation-framework|品牌蓄能框架]]
+
+## Micro-segment 覆盖来源
+
+本页由分段和 micro-segment 复现结果融合生成。相关中间记录见：
+
+- `_meta/extraction-notes/brand-strategy-methodology-course-opening/micro-segment-plan.md`
+- `_meta/extraction-notes/brand-strategy-methodology-course-opening/micro-coverage-matrix.md`
+

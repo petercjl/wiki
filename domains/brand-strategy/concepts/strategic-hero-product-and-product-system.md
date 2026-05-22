@@ -70,3 +70,11 @@ status: active
 
 - [[domains/brand-strategy/concepts/brand-case-library-reconstruction|品牌案例库知识复现]]
 - [[domains/brand-strategy/concepts/brand-marketing-system-origin-user|营销系统与原点用户]]
+
+## Micro-segment 覆盖来源
+
+本页由分段和 micro-segment 复现结果融合生成。相关中间记录见：
+
+- `_meta/extraction-notes/brand-strategy-methodology-course-opening/micro-segment-plan.md`
+- `_meta/extraction-notes/brand-strategy-methodology-course-opening/micro-coverage-matrix.md`
+

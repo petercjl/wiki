@@ -1,0 +1,56 @@
+# 品牌战略 Micro-segment 覆盖矩阵
+
+| Micro | 知识点 | 目标页 | 状态 |
+| --- | --- | --- | --- |
+| MS-001 | 方法论必须来自实战结果 | brand-necessity-and-white-label-dilemma.md | 已整合 |
+| MS-002 | 定位+美学双驱动 | brand-perception-system-visual.md | 已整合 |
+| MS-003 | 商家做品牌的两类动机 | brand-necessity-and-white-label-dilemma.md | 已整合 |
+| MS-004 | 做品牌的认知障碍 | brand-necessity-and-white-label-dilemma.md | 已整合 |
+| MS-005 | 广域竞争 | brand-necessity-and-white-label-dilemma.md | 已整合 |
+| MS-006 | AI 加速同质化 | brand-necessity-and-white-label-dilemma.md | 已整合 |
+| MS-007 | 广告成本与利润压力 | brand-necessity-and-white-label-dilemma.md | 已整合 |
+| MS-008 | 产品生命周期缩短 | brand-necessity-and-white-label-dilemma.md | 已整合 |
+| MS-009 | 平台扶持品牌商家 | brand-necessity-and-white-label-dilemma.md | 已整合 |
+| MS-010 | 产能过剩导致价格战 | brand-necessity-and-white-label-dilemma.md | 已整合 |
+| MS-011 | 向下卷效率 vs 向上做价值 | brand-necessity-and-white-label-dilemma.md | 已整合 |
+| MS-012 | 品牌词搜索指标 | brand-necessity-and-white-label-dilemma.md | 已整合 |
+| MS-013 | 同品同价高转化指标 | brand-necessity-and-white-label-dilemma.md | 已整合 |
+| MS-014 | 持续溢价指标 | brand-necessity-and-white-label-dilemma.md | 已整合 |
+| MS-015 | 创始人不相信品牌 | brand-necessity-and-white-label-dilemma.md | 已整合 |
+| MS-016 | 认知碎片化导致不敢行动 | brand-necessity-and-white-label-dilemma.md | 已整合 |
+| MS-017 | 成功者路径依赖 | brand-necessity-and-white-label-dilemma.md | 已整合 |
+| MS-018 | 势能定义 | brand-three-capabilities-and-energy.md | 已整合 |
+| MS-019 | 动能定义 | brand-three-capabilities-and-energy.md | 已整合 |
+| MS-020 | 蓄能定义 | brand-three-capabilities-and-energy.md | 已整合 |
+| MS-021 | 德佑启发 | brand-three-capabilities-and-energy.md | 已整合 |
+| MS-022 | 不同品牌不同能力阶段 | brand-three-capabilities-and-energy.md | 已整合 |
+| MS-023 | 蓄能房子结构 | brand-energy-accumulation-framework.md | 已整合 |
+| MS-024 | 竞争战略模块 | brand-competition-strategy-positioning.md | 已整合 |
+| MS-025 | 感知系统模块 | brand-perception-system-visual.md | 已整合 |
+| MS-026 | 营销系统模块 | brand-marketing-system-origin-user.md | 已整合 |
+| MS-027 | 泰兰尼斯竞品位置 | brand-case-library-reconstruction.md | 已整合 |
+| MS-028 | 父母是购买决策者 | brand-competition-strategy-positioning.md;brand-case-library-reconstruction.md | 已整合 |
+| MS-029 | 轻奢高端时尚学步鞋 | brand-case-library-reconstruction.md | 已整合 |
+| MS-030 | 视觉从低幼到精致高端 | brand-perception-system-visual.md;brand-case-library-reconstruction.md | 已整合 |
+| MS-031 | 爱马仕设计师背书 | brand-case-library-reconstruction.md | 已整合 |
+| MS-032 | 稳稳鞋战略大单品 | strategic-hero-product-and-product-system.md | 已整合 |
+| MS-033 | 稳跑鞋扩展 | strategic-hero-product-and-product-system.md | 已整合 |
+| MS-034 | 大单品资源聚焦 | strategic-hero-product-and-product-system.md | 已整合 |
+| MS-035 | 原点用户：高阶宠娃家庭 | brand-marketing-system-origin-user.md | 已整合 |
+| MS-036 | 童鞋中的爱马仕 | brand-case-library-reconstruction.md | 已整合 |
+| MS-037 | 黄色旧鞋回收公益计划 | brand-marketing-system-origin-user.md;brand-case-library-reconstruction.md | 已整合 |
+| MS-038 | PGGU不盲目拓品类 | brand-case-library-reconstruction.md | 已整合 |
+| MS-039 | 人生大事闪耀时刻 | brand-competition-strategy-positioning.md;brand-case-library-reconstruction.md | 已整合 |
+| MS-040 | 爱心鞋底一纸情书 | strategic-hero-product-and-product-system.md;brand-case-library-reconstruction.md | 已整合 |
+| MS-041 | PGGU渠道扩展 | brand-marketing-system-origin-user.md | 已整合 |
+| MS-042 | 运动内衣错开巨头 | brand-case-library-reconstruction.md | 已整合 |
+| MS-043 | 多巴胺运动美学 | brand-perception-system-visual.md | 已整合 |
+| MS-044 | 对对套装命名 | strategic-hero-product-and-product-system.md | 已整合 |
+| MS-045 | 女性力量内容 | brand-marketing-system-origin-user.md;brand-case-library-reconstruction.md | 已整合 |
+| MS-046 | 四模块与规模机会 | brand-energy-accumulation-framework.md | 已整合 |
+| MS-047 | 系统化工程 | brand-energy-accumulation-framework.md | 已整合 |
+| MS-048 | 宠物品牌品阶打法 | strategic-hero-product-and-product-system.md;brand-case-library-reconstruction.md | 已整合 |
+| MS-049 | 内容传播三步 | brand-marketing-system-origin-user.md | 已整合 |
+| MS-050 | 社会话题与网易云评论 | brand-marketing-system-origin-user.md | 已整合 |
+| MS-051 | 定位判断公式待补 | brand-diagnosis-templates.md | 已整合 |
+| MS-052 | 品类适配待补 | brand-diagnosis-templates.md | 已整合 |
