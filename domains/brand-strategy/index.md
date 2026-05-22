@@ -8,7 +8,12 @@
 
 ## 核心概念
 
-- [[domains/brand-strategy/concepts/brand-strategy-knowledge-system|电商品牌战略知识体系]]：复现品牌战略课程中的完整理论，解释电商商家为什么必须从卖货能力升级为品牌经营能力。
-- [[domains/brand-strategy/concepts/brand-energy-accumulation-framework|品牌蓄能框架]]：深度复现竞争战略、感知系统、产品策略、营销系统四模块及其承接关系。
-- [[domains/brand-strategy/concepts/brand-case-reconstruction-patterns|电商品牌案例知识化复现]]：将泰兰尼斯、PGGU婚鞋、运动内衣案例重构为可迁移的案例分析模型。
-- [[domains/brand-strategy/concepts/brand-strategy-application-templates|品牌战略应用模板]]：品牌诊断、案例拆解、战略大单品、原点用户和图片品牌化分析的可复用模板。
+- [[domains/brand-strategy/concepts/brand-necessity-and-white-label-dilemma|品牌必要性与白牌困境]]：解释电商为什么必须从纯卖货走向品牌资产建设。
+- [[domains/brand-strategy/concepts/brand-three-capabilities-and-energy|品牌三能力与蓄能逻辑]]：用势能、动能、蓄能判断品牌阶段和发力顺序。
+- [[domains/brand-strategy/concepts/brand-energy-accumulation-framework|品牌蓄能框架]]：复现竞争战略、感知系统、产品策略、营销系统四模块。
+- [[domains/brand-strategy/concepts/brand-competition-strategy-positioning|竞争战略与心智定位]]：定义品类策略、目标用户、差异化心智和增长路径。
+- [[domains/brand-strategy/concepts/brand-perception-system-visual|感知系统与品牌视觉]]：解释视觉如何承接定位并形成可感知价值。
+- [[domains/brand-strategy/concepts/strategic-hero-product-and-product-system|战略大单品与产品系统]]：说明大单品、品阶和产品细节内容化。
+- [[domains/brand-strategy/concepts/brand-marketing-system-origin-user|营销系统与原点用户]]：说明原点用户、内容传播和渠道承接。
+- [[domains/brand-strategy/concepts/brand-case-library-reconstruction|品牌案例库知识复现]]：重构泰兰尼斯、PGGU婚鞋、运动内衣和宠物品阶案例。
+- [[domains/brand-strategy/concepts/brand-diagnosis-templates|品牌诊断与应用模板]]：提供品牌诊断、案例拆解和图片品牌化分析模板。
