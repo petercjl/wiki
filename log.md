@@ -97,3 +97,9 @@
 - Updated: `domains/brand-strategy/learning-paths/brand-strategy-methodology-reconstructed.md`
 - Updated: `_meta/extraction-notes/brand-strategy-methodology-course-opening-v2/coverage-matrix.md`
 - Notes: 续处理网络中断前的品牌战略长资料，将首版总纲进一步补成更完整的案例推导和方法论文章，补入德佑风险、名品/精品/爆品、泰兰尼斯推导链、PGGU 完整动作链、运动内衣女性议题和四模块优先级诊断。
+## [2026-05-23] validate | course-transcript-to-knowledge Skill 品牌战略案例验收
+- Updated Skill outside wiki: `course-transcript-to-knowledge` now explicitly requires classification map and segment knowledge-unit consolidation before formal synthesis.
+- Created: `_meta/extraction-notes/brand-strategy-methodology-course-opening-v2/segment-knowledge-inventory.md`
+- Created: `_meta/extraction-notes/brand-strategy-methodology-course-opening-v2/skill-test-report.md`
+- Notes: Confirmed the brand strategy transcript workflow: segment, understand, enrich with LLM analysis, form segment knowledge units, classify/merge, then archive into the formal wiki page.
+
