@@ -2,22 +2,13 @@
 
 > Content catalog. Every formal wiki page should be listed here.
 > Last updated: 2026-05-22
-> Total formal pages: 15
+> Total formal pages: 3
 
 ## Domains
 
 - [[domains/ecommerce-ops/index|电商运营知识域]]：电商运营方法论、指标、SOP 和案例。
 - [[domains/visual-production/index|视觉制作知识域]]：主图、详情页、AI 生图、拍摄、版式和视觉转化方法。
 - [[domains/brand-strategy/index|品牌策划知识域]]：品牌定位、人群、心智、内容策略和品牌表达方法。
-- [[domains/brand-strategy/concepts/brand-necessity-and-white-label-dilemma|品牌必要性与白牌困境]]：解释电商为什么必须从纯卖货走向品牌资产建设。
-- [[domains/brand-strategy/concepts/brand-three-capabilities-and-energy|品牌三能力与蓄能逻辑]]：用势能、动能、蓄能判断品牌阶段和发力顺序。
-- [[domains/brand-strategy/concepts/brand-energy-accumulation-framework|品牌蓄能框架]]：复现竞争战略、感知系统、产品策略、营销系统四模块。
-- [[domains/brand-strategy/concepts/brand-competition-strategy-positioning|竞争战略与心智定位]]：定义品类策略、目标用户、差异化心智和增长路径。
-- [[domains/brand-strategy/concepts/brand-perception-system-visual|感知系统与品牌视觉]]：解释视觉如何承接定位并形成可感知价值。
-- [[domains/brand-strategy/concepts/strategic-hero-product-and-product-system|战略大单品与产品系统]]：说明大单品、品阶和产品细节内容化。
-- [[domains/brand-strategy/concepts/brand-marketing-system-origin-user|营销系统与原点用户]]：说明原点用户、内容传播和渠道承接。
-- [[domains/brand-strategy/concepts/brand-case-library-reconstruction|品牌案例库知识复现]]：重构泰兰尼斯、PGGU婚鞋、运动内衣和宠物品阶案例。
-- [[domains/brand-strategy/concepts/brand-diagnosis-templates|品牌诊断与应用模板]]：提供品牌诊断、案例拆解和图片品牌化分析模板。
 
 ## Shared
 
@@ -36,15 +27,15 @@
 
 ## Entities
 
+## Samples
+
+- [[domains/brand-strategy/samples/pggu-strategy-choice-sample|PGGU 战略选择逐段知识复现样本]]：演示“清洗原文→理解含义→大模型扩展分析→沉淀理论”的课程转写处理方式。
+
 ## Cases
 
-- [[domains/brand-strategy/cases/pet-brand-product-tier-strategy-reconstruction|宠物品牌品阶策略案例深度复现]]：从爆品/名品/品阶结构复现宠物品牌产品系统判断逻辑。
 
-- [[domains/brand-strategy/cases/dopamine-sports-bra-brand-reconstruction|多巴胺运动内衣品牌案例深度复现]]：从错开巨头、多巴胺视觉、对对套装命名和女性力量内容复现运动内衣品牌差异化路径。
 
-- [[domains/brand-strategy/cases/pggu-wedding-shoes-brand-reconstruction|PGGU婚鞋品牌案例深度复现]]：从不盲目拓品类、人生大事场景、爱心鞋底内容化和渠道情绪价值承接复现 PGGU 婚鞋增长逻辑。
 
-- [[domains/brand-strategy/cases/tailanisi-brand-reconstruction|泰兰尼斯品牌案例深度复现]]：从竞品心智、购买角色、情绪价值、高端定位、战略大单品、原点用户和公益营销完整复现泰兰尼斯品牌蓄能链路。
 
 ## Comparisons
 

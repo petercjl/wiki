@@ -77,3 +77,10 @@
 - Updated: `domains/brand-strategy/index.md`
 - Updated: `index.md`
 - Notes: 按泰兰尼斯深度复现样式，完成 PGGU、运动内衣、宠物品牌问答三个案例页。
+
+## [2026-05-22] sample | PGGU 战略选择逐段知识复现
+- Deleted: previous over-structured brand strategy transcript outputs, preserving raw transcript.
+- Created: `domains/brand-strategy/samples/pggu-strategy-choice-sample.md`
+- Updated: `domains/brand-strategy/index.md`
+- Updated: `index.md`
+- Notes: 根据 Peter 反馈，测试新版流程：清洗原文、解释含义、用大模型扩展推理、再整理为知识库文章；重点验证“结论如何得出”而不是只保留结论。
