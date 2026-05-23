@@ -1,8 +1,8 @@
 # Wiki Index
 
 > Content catalog. Every formal wiki page should be listed here.
-> Last updated: 2026-05-22
-> Total formal pages: 3
+> Last updated: 2026-05-23
+> Total formal pages: 4
 
 ## Domains
 
@@ -29,7 +29,11 @@
 
 ## Samples
 
-- [[domains/brand-strategy/samples/pggu-strategy-choice-sample|PGGU 战略选择逐段知识复现样本]]：演示“清洗原文→理解含义→大模型扩展分析→沉淀理论”的课程转写处理方式。
+- [[domains/brand-strategy/samples/pggu-strategy-choice-sample|PGGU 战略选择知识复现样本]]：演示外部资料进入知识库时，正式内容应融合为完整、顺序化的品牌战略理论文章。
+
+## Brand Strategy
+
+- [[domains/brand-strategy/learning-paths/brand-strategy-methodology-reconstructed|电商品牌增长方法论：从白牌卖货到持续溢价]]：按知识发展顺序重构电商品牌增长的竞争战略、感知系统、产品系统与营销系统。
 
 ## Cases
 

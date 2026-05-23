@@ -8,9 +8,10 @@
 
 ## 核心概念
 
+- [[domains/brand-strategy/learning-paths/brand-strategy-methodology-reconstructed|电商品牌增长方法论：从白牌卖货到持续溢价]]：系统说明电商品牌如何通过竞争战略、感知系统、产品系统和营销系统获得持续溢价。
 
 ## 案例库
 
 ## 抽样试验
 
-- [[domains/brand-strategy/samples/pggu-strategy-choice-sample|PGGU 战略选择逐段知识复现样本]]：演示“清洗原文→理解含义→大模型扩展分析→沉淀理论”的课程转写处理方式。
+- [[domains/brand-strategy/samples/pggu-strategy-choice-sample|PGGU 战略选择知识复现样本]]：演示外部资料进入知识库时，正式内容应融合为完整、顺序化的品牌战略理论文章。

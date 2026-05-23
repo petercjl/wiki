@@ -84,3 +84,11 @@
 - Updated: `domains/brand-strategy/index.md`
 - Updated: `index.md`
 - Notes: 根据 Peter 反馈，测试新版流程：清洗原文、解释含义、用大模型扩展推理、再整理为知识库文章；重点验证“结论如何得出”而不是只保留结论。
+
+## [2026-05-23] create | 电商品牌增长方法论顺序知识页
+- Source: `raw/transcripts/brand-strategy-methodology-course-opening-2026-05-22.md`
+- Created: `domains/brand-strategy/learning-paths/brand-strategy-methodology-reconstructed.md`
+- Created: `_meta/extraction-notes/brand-strategy-methodology-course-opening-v2/coverage-matrix.md`
+- Updated: `domains/brand-strategy/index.md`
+- Updated: `index.md`
+- Notes: 将品牌战略长资料融合为按知识发展顺序阅读的正式理论文章，并修正 PGGU 样本索引描述。
