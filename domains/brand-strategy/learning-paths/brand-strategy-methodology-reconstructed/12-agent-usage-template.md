@@ -1,0 +1,32 @@
+---
+title: 第十二章：Agent 使用本页的方法
+type: concept
+created: 2026-05-23
+updated: 2026-05-23
+domain: brand-strategy
+tags: [brand-strategy, ecommerce, methodology]
+sources:
+  - raw/transcripts/brand-strategy-methodology-course-opening-2026-05-22.md
+status: active
+chapter_order: 12
+parent: domains/brand-strategy/learning-paths/brand-strategy-methodology-reconstructed.md
+---
+
+# 第十二章：Agent 使用本页的方法
+
+当需要分析一个电商品牌、产品线或视觉方案时，可以按以下顺序调用本页：
+
+1. 先判断企业处于白牌效率、品牌化起步、品牌系统搭建还是势能放大阶段。
+2. 再拆解四模块：竞争战略是否清晰，感知系统是否承接，产品系统是否有代表作，营销系统是否能传播。
+3. 对照案例判断：是更像泰兰尼斯的高端心智问题，PGGU 的场景拓展问题，运动内衣的差异化心智问题，还是宠物品类的产品线分层问题。
+4. 输出优化建议时，不要只给结论，要说明：为什么当前路径不成立，替代路径是什么，替代路径依赖哪些条件，先做哪个动作最可能带来经营结果。
+
+可复用提示词：
+
+> 基于《电商品牌增长方法论：从白牌卖货到持续溢价》，分析这个品牌当前最需要补齐的模块：竞争战略、感知系统、产品系统、营销系统。请说明判断依据、关键短板、优先级、可执行动作和风险。
+
+## 章节导航
+
+- 上一章：[[domains/brand-strategy/learning-paths/brand-strategy-methodology-reconstructed/11-common-brand-strategy-mistakes|上一章]]
+- 下一章：无
+- 总目录：[[domains/brand-strategy/learning-paths/brand-strategy-methodology-reconstructed|电商品牌增长方法论]]

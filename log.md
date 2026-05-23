@@ -102,4 +102,10 @@
 - Created: `_meta/extraction-notes/brand-strategy-methodology-course-opening-v2/segment-knowledge-inventory.md`
 - Created: `_meta/extraction-notes/brand-strategy-methodology-course-opening-v2/skill-test-report.md`
 - Notes: Confirmed the brand strategy transcript workflow: segment, understand, enrich with LLM analysis, form segment knowledge units, classify/merge, then archive into the formal wiki page.
+## [2026-05-23] restructure | 电商品牌增长方法论按章节拆分
+- Updated: `domains/brand-strategy/learning-paths/brand-strategy-methodology-reconstructed.md` as a chapter directory instead of a mega-page.
+- Created: `domains/brand-strategy/learning-paths/brand-strategy-methodology-reconstructed/01-*.md` through `12-*.md`.
+- Updated: `domains/brand-strategy/index.md`
+- Updated: `index.md`
+- Notes: 根据 Peter 反馈，长录音入库应按知识发展顺序拆成带编号的章节文件，避免一个总纲页或无序碎片页影响后续阅读和 Agent 检索。
 

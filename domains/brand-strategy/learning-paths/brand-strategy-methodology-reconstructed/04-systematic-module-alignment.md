@@ -1,0 +1,36 @@
+---
+title: 第四章：四个模块必须系统承接，不能单点花钱
+type: concept
+created: 2026-05-23
+updated: 2026-05-23
+domain: brand-strategy
+tags: [brand-strategy, ecommerce, methodology]
+sources:
+  - raw/transcripts/brand-strategy-methodology-course-opening-2026-05-22.md
+status: active
+chapter_order: 4
+parent: domains/brand-strategy/learning-paths/brand-strategy-methodology-reconstructed.md
+---
+
+# 第四章：四个模块必须系统承接，不能单点花钱
+
+很多企业品牌升级失败，不是因为没有做事，而是因为只做了一个点。
+
+设计公司容易把品牌定义成视觉；营销公司容易把品牌定义成传播；定位服务容易把品牌定义成广告语；产品团队容易把品牌定义成爆品。每个模块都有价值，但任何一个模块单独存在都不构成品牌系统。
+
+正确的承接关系是：
+
+1. 竞争战略决定要占据什么位置。
+2. 感知系统把这个位置变成消费者可见、可记、可感受的信号。
+3. 产品系统让这个位置有商品承接，让消费者真的可以买到。
+4. 营销系统把商品和价值放进传播链路，让更多目标人群理解并行动。
+
+如果定位是多巴胺运动美学，视觉就必须有高饱和色彩和强冲击；产品就必须有撞色、套装、穿搭和身体感；营销就必须围绕女性自信、运动快乐、色彩表达去做内容。如果其中任何一环断裂，品牌主张都会变成口号。
+
+所以，做品牌最怕散点式投入：今天做 VI，明天做广告语，后天拍大片，但每个动作之间没有因果关系。系统化品牌工程要求每个动作都承接上一个动作，并为下一个动作提供素材。
+
+## 章节导航
+
+- 上一章：[[domains/brand-strategy/learning-paths/brand-strategy-methodology-reconstructed/03-brand-accumulation-four-modules|上一章]]
+- 下一章：[[domains/brand-strategy/learning-paths/brand-strategy-methodology-reconstructed/05-tailanisi-childrens-shoes-brand-case|下一章]]
+- 总目录：[[domains/brand-strategy/learning-paths/brand-strategy-methodology-reconstructed|电商品牌增长方法论]]
