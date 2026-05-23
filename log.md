@@ -92,3 +92,8 @@
 - Updated: `domains/brand-strategy/index.md`
 - Updated: `index.md`
 - Notes: 将品牌战略长资料融合为按知识发展顺序阅读的正式理论文章，并修正 PGGU 样本索引描述。
+
+## [2026-05-23] update | 电商品牌增长方法论深度补充
+- Updated: `domains/brand-strategy/learning-paths/brand-strategy-methodology-reconstructed.md`
+- Updated: `_meta/extraction-notes/brand-strategy-methodology-course-opening-v2/coverage-matrix.md`
+- Notes: 续处理网络中断前的品牌战略长资料，将首版总纲进一步补成更完整的案例推导和方法论文章，补入德佑风险、名品/精品/爆品、泰兰尼斯推导链、PGGU 完整动作链、运动内衣女性议题和四模块优先级诊断。
