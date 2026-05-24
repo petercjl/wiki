@@ -36,6 +36,18 @@
 - [[domains/brand-strategy/learning-paths/category-mind-brand-building-afternoon/07-four-module-priority-diagnosis|07｜四模块优先级诊断：定位、视觉、大单品、营销]]
 - [[domains/brand-strategy/learning-paths/category-mind-brand-building-afternoon/08-agent-usage-template|08｜Agent 使用模板：电商品牌竞争战略诊断]]
 
+## 细分品类品牌升级与执行力落地
+
+- [[domains/brand-strategy/learning-paths/niche-category-brand-upgrade-execution|细分品类品牌升级与执行力落地]]：章节目录，按细分品类防守、案例升级、组织执行和私域共创组织。
+- [[domains/brand-strategy/learning-paths/niche-category-brand-upgrade-execution/01-niche-category-six-dimensional-brand-defense|01｜细分品类的六维防守：从单点优势到六边形品牌]]
+- [[domains/brand-strategy/learning-paths/niche-category-brand-upgrade-execution/02-canban-oral-care-case|02｜参半口腔：从漱口水入口到全口腔护理品牌]]
+- [[domains/brand-strategy/learning-paths/niche-category-brand-upgrade-execution/03-mianzhuwu-socks-brand-upgrade|03｜绵竹屋：弱关注品类的三次品牌升级]]
+- [[domains/brand-strategy/learning-paths/niche-category-brand-upgrade-execution/04-simple-executable-effective-organization|04｜执行力定义：简单、可操作、有效果]]
+- [[domains/brand-strategy/learning-paths/niche-category-brand-upgrade-execution/05-positive-management-and-ai-routines|05｜正向管理、选择题日报与 AI 品牌智能体]]
+- [[domains/brand-strategy/learning-paths/niche-category-brand-upgrade-execution/06-yinsumao-niche-positioning|06｜音速猫：在运动鞋红海中切出体考体测鞋]]
+- [[domains/brand-strategy/learning-paths/niche-category-brand-upgrade-execution/07-private-domain-co-creation-system|07｜私域共创：把用户变成产品开发系统]]
+- [[domains/brand-strategy/learning-paths/niche-category-brand-upgrade-execution/08-agent-usage-template|08｜Agent 使用模板：细分品类品牌升级诊断]]
+
 ## 案例库
 
 ## 抽样试验

@@ -124,4 +124,14 @@
 - Updated: `domains/brand-strategy/index.md`
 - Updated: `index.md`
 - Notes: 按 course-transcript-to-knowledge skill 完成下午场长转写分段、微分段、知识单元合并和正式章节化入库；现场事务与服务销售信息按覆盖矩阵说明省略。
+## [2026-05-24] ingest | 细分品类品牌升级与执行力落地知识重构
+- Source: `raw/transcripts/niche-category-brand-upgrade-execution-2026-05-24.md`
+- Created: `_meta/extraction-notes/niche-category-brand-upgrade-execution-2026-05-24/segment-plan.md`
+- Created: `_meta/extraction-notes/niche-category-brand-upgrade-execution-2026-05-24/micro-segment-plan.md`
+- Created: `_meta/extraction-notes/niche-category-brand-upgrade-execution-2026-05-24/coverage-matrix.md`
+- Created: `_meta/extraction-notes/niche-category-brand-upgrade-execution-2026-05-24/segment-knowledge-inventory.md`
+- Created: `domains/brand-strategy/learning-paths/niche-category-brand-upgrade-execution/` index and 8 chapter pages.
+- Updated: `domains/brand-strategy/index.md`
+- Updated: `index.md`
+- Notes: 按 course-transcript-to-knowledge skill 完成分段、微分段、知识单元合并和正式章节化入库；事务信息按覆盖矩阵省略。
 
