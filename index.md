@@ -1,8 +1,8 @@
 # Wiki Index
 
 > Content catalog. Every formal wiki page should be listed here.
-> Last updated: 2026-05-23
-> Total formal pages: 16
+> Last updated: 2026-05-24
+> Total formal pages: 37
 
 ## Domains
 
@@ -46,6 +46,16 @@
 - [[domains/brand-strategy/learning-paths/brand-strategy-methodology-reconstructed/10-brand-stage-priority-selection|10｜第十章：不同阶段企业如何选择优先级]]
 - [[domains/brand-strategy/learning-paths/brand-strategy-methodology-reconstructed/11-common-brand-strategy-mistakes|11｜第十一章：常见误区]]
 - [[domains/brand-strategy/learning-paths/brand-strategy-methodology-reconstructed/12-agent-usage-template|12｜第十二章：Agent 使用本页的方法]]
+
+- [[domains/brand-strategy/learning-paths/category-mind-brand-building-afternoon|电商品牌竞争战略：品类、心智与品牌打造]]：章节目录，按品类路线、心智定位、视觉、大单品、营销传播和优先级诊断组织。
+- [[domains/brand-strategy/learning-paths/category-mind-brand-building-afternoon/01-category-focus-vs-tribe-recognition|01｜品类聚焦与人群认同：两条品牌路线]]
+- [[domains/brand-strategy/learning-paths/category-mind-brand-building-afternoon/02-category-focus-case-patterns|02｜品类聚焦案例：从模糊母品牌到品类首选]]
+- [[domains/brand-strategy/learning-paths/category-mind-brand-building-afternoon/03-mind-positioning-validation|03｜心智定位：三原则与五维度]]
+- [[domains/brand-strategy/learning-paths/category-mind-brand-building-afternoon/04-brand-aesthetic-system|04｜品牌视觉美学：先看起来像品牌]]
+- [[domains/brand-strategy/learning-paths/category-mind-brand-building-afternoon/05-hero-product-strategy|05｜大单品战略：品牌之矛与心智入口]]
+- [[domains/brand-strategy/learning-paths/category-mind-brand-building-afternoon/06-brand-communication-and-endorsement|06｜品牌营销传播：从产品价值到品牌价值]]
+- [[domains/brand-strategy/learning-paths/category-mind-brand-building-afternoon/07-four-module-priority-diagnosis|07｜四模块优先级诊断：定位、视觉、大单品、营销]]
+- [[domains/brand-strategy/learning-paths/category-mind-brand-building-afternoon/08-agent-usage-template|08｜Agent 使用模板：电商品牌竞争战略诊断]]
 
 ## Cases
 

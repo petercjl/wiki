@@ -4,7 +4,8 @@
 
 ## 正式输出
 
-- `domains/brand-strategy/learning-paths/brand-strategy-methodology-reconstructed.md`
+- `domains/brand-strategy/learning-paths/brand-strategy-methodology-reconstructed.md`：章节目录页
+- `domains/brand-strategy/learning-paths/brand-strategy-methodology-reconstructed/01-why-ecommerce-brands-must-rethink-brand.md` 至 `12-agent-usage-template.md`：正式章节页
 
 ## 覆盖矩阵
 
@@ -32,6 +33,7 @@
 - 现场寒暄、人员介绍、拍照、午休、设备沟通等不具备长期知识价值的内容。
 - 个人身份、入场规模、内部班级期数等会误导检索的上下文。
 - 具体未核实的销售数字只在能支撑案例判断时保守使用，不作为独立事实页。
+- 竞争对手举例、高价线命名等少量原词，如果已经被更稳妥的理论表达吸收，可不必逐字保留；但关键论证数字和代表性竞品名应尽量在正式页中留痕。
 
 ## 质量检查
 
@@ -53,3 +55,9 @@
 - 优先级部分补入四模块诊断问题、错误优先级和最大经营瓶颈判断。
 
 结论：正式页已经不只覆盖章节标题和核心结论，而是继续补入关键案例推导、隐含因果和后段方法论总结。
+
+## 2026-05-24 漏项回补复核
+
+- 第一章已补入课程中的生命周期对照数字，作为“论证锚点”而非行业绝对统计使用。
+- 第七章已补入 `安德玛` 这一竞争对手举例，使原录音中的品牌对照更完整。
+- 第八章原先未直接保留“高端款”字样，但其知识已由“高端形象品 / 高价线 / 解决方案型产品”吸收，判定为表达升级而非遗漏。

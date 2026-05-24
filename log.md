@@ -109,3 +109,19 @@
 - Updated: `index.md`
 - Notes: 根据 Peter 反馈，长录音入库应按知识发展顺序拆成带编号的章节文件，避免一个总纲页或无序碎片页影响后续阅读和 Agent 检索。
 
+## [2026-05-24] update | 品牌战略课程知识库漏项回补
+- Updated: `domains/brand-strategy/learning-paths/brand-strategy-methodology-reconstructed/01-why-ecommerce-brands-must-rethink-brand.md`
+- Updated: `domains/brand-strategy/learning-paths/brand-strategy-methodology-reconstructed/07-dopamine-sports-bra-content-strategy.md`
+- Updated: `_meta/extraction-notes/brand-strategy-methodology-course-opening-v2/coverage-matrix.md`
+- Notes: 回补原录音中的生命周期对照数字、安德玛竞品举例，并修正 coverage matrix 对章节化正式输出的说明；确认“高端款”已被更稳妥的理论表达吸收。
+## [2026-05-24] ingest | 电商品牌竞争战略下午场知识重构
+- Source: `raw/transcripts/category-mind-brand-building-afternoon-2026-05-23.md`
+- Created: `_meta/extraction-notes/category-mind-brand-building-afternoon-2026-05-23/segment-plan.md`
+- Created: `_meta/extraction-notes/category-mind-brand-building-afternoon-2026-05-23/micro-segment-plan.md`
+- Created: `_meta/extraction-notes/category-mind-brand-building-afternoon-2026-05-23/coverage-matrix.md`
+- Created: `_meta/extraction-notes/category-mind-brand-building-afternoon-2026-05-23/segment-knowledge-inventory.md`
+- Created: `domains/brand-strategy/learning-paths/category-mind-brand-building-afternoon/` index and 8 chapter pages.
+- Updated: `domains/brand-strategy/index.md`
+- Updated: `index.md`
+- Notes: 按 course-transcript-to-knowledge skill 完成下午场长转写分段、微分段、知识单元合并和正式章节化入库；现场事务与服务销售信息按覆盖矩阵说明省略。
+

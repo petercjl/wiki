@@ -2,7 +2,7 @@
 title: 第七章：案例 3——运动内衣：用多巴胺运动美学错开巨头
 type: concept
 created: 2026-05-23
-updated: 2026-05-23
+updated: 2026-05-24
 domain: brand-strategy
 tags: [brand-strategy, ecommerce, methodology]
 sources:
@@ -16,7 +16,7 @@ parent: domains/brand-strategy/learning-paths/brand-strategy-methodology-reconst
 
 ### 7.1 面对强竞争，先找可避开的心智战场
 
-运动内衣和运动服饰是高度竞争品类，国际品牌、国内头部品牌都已经有深厚积累。新品牌如果正面讲排汗、透气、支撑、塑形，很容易进入巨头已经占据的功能战场。
+运动内衣和运动服饰是高度竞争品类，lululemon、安德玛这类国际品牌，以及国内头部品牌，都已经在专业功能、运动场景和品牌势能上有深厚积累。新品牌如果正面讲排汗、透气、支撑、塑形，很容易进入巨头已经占据的功能战场。
 
 更好的策略是错开主流大众市场，寻找一种更有风格、更有情绪、更适合内容传播的位置。“多巴胺运动美学”就是这种选择。它并不否定功能，但不把功能放在第一表达层，而是把色彩、快乐、自信、身体表达和运动状态放到消费者最先感知的位置。
 
