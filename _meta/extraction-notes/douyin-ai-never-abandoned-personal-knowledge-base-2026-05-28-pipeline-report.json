@@ -1,0 +1,86 @@
+{
+  "input": "/private/tmp/douyin-jason.9vdB3v/video.mp4",
+  "workdir": "/private/tmp/douyin-jason.9vdB3v/pipeline-v2",
+  "backend": "command-template",
+  "dry_run": false,
+  "segment_seconds": 120,
+  "segment_mode": "video",
+  "transcript_suffix": ".txt",
+  "manifest": "/private/tmp/douyin-jason.9vdB3v/pipeline-v2/chunks/manifest.json",
+  "chunks_dir": "/private/tmp/douyin-jason.9vdB3v/pipeline-v2/chunks",
+  "chunk_transcripts_dir": "/private/tmp/douyin-jason.9vdB3v/pipeline-v2/chunk-transcripts",
+  "merged_output": "/private/tmp/douyin-jason.9vdB3v/pipeline-v2/merged/merged-transcript.txt",
+  "merge_report": "/private/tmp/douyin-jason.9vdB3v/pipeline-v2/merged/merged-transcript.merge-report.json",
+  "segments_total": 2,
+  "segment_generation_stdout": "{\n  \"input\": \"/private/tmp/douyin-jason.9vdB3v/video.mp4\",\n  \"output_dir\": \"/private/tmp/douyin-jason.9vdB3v/pipeline-v2/chunks\",\n  \"mode\": \"video\",\n  \"segment_seconds\": 120,\n  \"source_duration_seconds\": 227.112925,\n  \"source_duration\": \"03:47\",\n  \"segments\": [\n    {\n      \"index\": 0,\n      \"file\": \"seg-000.mp4\",\n      \"path\": \"/private/tmp/douyin-jason.9vdB3v/pipeline-v2/chunks/seg-000.mp4\",\n      \"start_seconds\": 0,\n      \"end_seconds\": 120,\n      \"start\": \"00:00\",\n      \"end\": \"02:00\",\n      \"duration_seconds\": 120,\n      \"mode\": \"video\"\n    },\n    {\n      \"index\": 1,\n      \"file\": \"seg-001.mp4\",\n      \"path\": \"/private/tmp/douyin-jason.9vdB3v/pipeline-v2/chunks/seg-001.mp4\",\n      \"start_seconds\": 120,\n      \"end_seconds\": 227.112925,\n      \"start\": \"02:00\",\n      \"end\": \"03:47\",\n      \"duration_seconds\": 107.11292499999999,\n      \"mode\": \"video\"\n    }\n  ]\n}",
+  "transcription": [
+    {
+      "segment_file": "/private/tmp/douyin-jason.9vdB3v/pipeline-v2/chunks/seg-000.mp4",
+      "transcript_file": "/private/tmp/douyin-jason.9vdB3v/pipeline-v2/chunk-transcripts/seg-000.txt",
+      "index": 0,
+      "start": "00:00",
+      "end": "02:00",
+      "status": "ok",
+      "command": "/tmp/douyin-api-venv/bin/python /Users/pechen/.hermes/skills/productivity/douyin-link-to-knowledge/scripts/transcribe_segment_qwen_vl.py --input /private/tmp/douyin-jason.9vdB3v/pipeline-v2/chunks/seg-000.mp4 --output /private/tmp/douyin-jason.9vdB3v/pipeline-v2/chunk-transcripts/seg-000.txt",
+      "stdout": "/private/tmp/douyin-jason.9vdB3v/pipeline-v2/chunk-transcripts/seg-000.txt",
+      "stderr": "",
+      "returncode": 0
+    },
+    {
+      "segment_file": "/private/tmp/douyin-jason.9vdB3v/pipeline-v2/chunks/seg-001.mp4",
+      "transcript_file": "/private/tmp/douyin-jason.9vdB3v/pipeline-v2/chunk-transcripts/seg-001.txt",
+      "index": 1,
+      "start": "02:00",
+      "end": "03:47",
+      "status": "ok",
+      "command": "/tmp/douyin-api-venv/bin/python /Users/pechen/.hermes/skills/productivity/douyin-link-to-knowledge/scripts/transcribe_segment_qwen_vl.py --input /private/tmp/douyin-jason.9vdB3v/pipeline-v2/chunks/seg-001.mp4 --output /private/tmp/douyin-jason.9vdB3v/pipeline-v2/chunk-transcripts/seg-001.txt",
+      "stdout": "/private/tmp/douyin-jason.9vdB3v/pipeline-v2/chunk-transcripts/seg-001.txt",
+      "stderr": "",
+      "returncode": 0
+    }
+  ],
+  "merge_stdout": "{\n  \"manifest\": \"/private/tmp/douyin-jason.9vdB3v/pipeline-v2/chunks/manifest.json\",\n  \"transcript_dir\": \"/private/tmp/douyin-jason.9vdB3v/pipeline-v2/chunk-transcripts\",\n  \"output\": \"/private/tmp/douyin-jason.9vdB3v/pipeline-v2/merged/merged-transcript.txt\",\n  \"segment_seconds\": 120,\n  \"source_duration\": \"03:47\",\n  \"segments_total\": 2,\n  \"segments_merged\": 2,\n  \"segments_missing\": [],\n  \"segment_reports\": [\n    {\n      \"segment_file\": \"seg-000.mp4\",\n      \"transcript_file\": \"/private/tmp/douyin-jason.9vdB3v/pipeline-v2/chunk-transcripts/seg-000.txt\",\n      \"line_count\": 150,\n      \"timed_line_count\": 150,\n      \"plain_line_count\": 0,\n      \"start\": \"00:00\",\n      \"end\": \"02:00\"\n    },\n    {\n      \"segment_file\": \"seg-001.mp4\",\n      \"transcript_file\": \"/private/tmp/douyin-jason.9vdB3v/pipeline-v2/chunk-transcripts/seg-001.txt\",\n      \"line_count\": 43,\n      \"timed_line_count\": 43,\n      \"plain_line_count\": 0,\n      \"start\": \"02:00\",\n      \"end\": \"03:47\"\n    }\n  ],\n  \"qc\": {\n    \"transcript\": \"/private/tmp/douyin-jason.9vdB3v/pipeline-v2/merged/merged-transcript.txt\",\n    \"entry_count\": 193,\n    \"status\": \"ok\",\n    \"suspect_start\": null,\n    \"repeated_runs\": [],\n    \"low_variety_windows\": [],\n    \"summary\": {\n      \"repeated_run_count\": 0,\n      \"low_variety_window_count\": 0\n    }\n  },\n  \"status\": \"ok\"\n}",
+  "merge_result": {
+    "manifest": "/private/tmp/douyin-jason.9vdB3v/pipeline-v2/chunks/manifest.json",
+    "transcript_dir": "/private/tmp/douyin-jason.9vdB3v/pipeline-v2/chunk-transcripts",
+    "output": "/private/tmp/douyin-jason.9vdB3v/pipeline-v2/merged/merged-transcript.txt",
+    "segment_seconds": 120,
+    "source_duration": "03:47",
+    "segments_total": 2,
+    "segments_merged": 2,
+    "segments_missing": [],
+    "segment_reports": [
+      {
+        "segment_file": "seg-000.mp4",
+        "transcript_file": "/private/tmp/douyin-jason.9vdB3v/pipeline-v2/chunk-transcripts/seg-000.txt",
+        "line_count": 150,
+        "timed_line_count": 150,
+        "plain_line_count": 0,
+        "start": "00:00",
+        "end": "02:00"
+      },
+      {
+        "segment_file": "seg-001.mp4",
+        "transcript_file": "/private/tmp/douyin-jason.9vdB3v/pipeline-v2/chunk-transcripts/seg-001.txt",
+        "line_count": 43,
+        "timed_line_count": 43,
+        "plain_line_count": 0,
+        "start": "02:00",
+        "end": "03:47"
+      }
+    ],
+    "qc": {
+      "transcript": "/private/tmp/douyin-jason.9vdB3v/pipeline-v2/merged/merged-transcript.txt",
+      "entry_count": 193,
+      "status": "ok",
+      "suspect_start": null,
+      "repeated_runs": [],
+      "low_variety_windows": [],
+      "summary": {
+        "repeated_run_count": 0,
+        "low_variety_window_count": 0
+      }
+    },
+    "status": "ok"
+  }
+}
