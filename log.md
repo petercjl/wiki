@@ -125,6 +125,26 @@
 - Updated: `index.md`
 - Notes: 按 course-transcript-to-knowledge skill 完成下午场长转写分段、微分段、知识单元合并和正式章节化入库；现场事务与服务销售信息按覆盖矩阵说明省略。
 ## [2026-05-24] ingest | 细分品类品牌升级与执行力落地知识重构
+- Source: `raw/transcripts/niche-category-brand-upgrade-execution-2026-05-23.md`
+- Created: `_meta/extraction-notes/niche-category-brand-upgrade-execution-2026-05-23/segment-plan.md`
+- Created: `_meta/extraction-notes/niche-category-brand-upgrade-execution-2026-05-23/micro-segment-plan.md`
+- Created: `_meta/extraction-notes/niche-category-brand-upgrade-execution-2026-05-23/coverage-matrix.md`
+- Created: `_meta/extraction-notes/niche-category-brand-upgrade-execution-2026-05-23/segment-knowledge-inventory.md`
+- Created: `domains/brand-strategy/learning-paths/niche-category-brand-upgrade-execution/` index and 8 chapter pages.
+- Updated: `domains/brand-strategy/index.md`
+- Updated: `index.md`
+- Notes: 按 course-transcript-to-knowledge skill 完成细分品类品牌升级与执行力课程的长转写重构，保留方法、案例和组织执行机制，省略课堂组织与噪音内容。
+
+## [2026-05-25] ingest | 抖音链接入库：Obsidian 插件武装知识库
+- Source: `raw/webpages/douyin-obsidian-plugin-stack-knowledge-base-2026-05-25.md`
+- Source: `raw/transcripts/douyin-obsidian-plugin-stack-knowledge-base-2026-05-25.md`
+- Created: `_meta/extraction-notes/douyin-obsidian-plugin-stack-knowledge-base-2026-05-25.md`
+- Created: `shared/knowledge-management/obsidian-plugin-stack-for-knowledge-base.md`
+- Updated: `shared/knowledge-management/index.md`
+- Updated: `index.md`
+- Notes: 借鉴 luminote 后端的抖音链接解析与视频处理方式完成第一轮测试；成功解析并下载视频，完成前半段可用转录与正式知识重构，后半段转录重复漂移已在 extraction notes 中标注并纳入 omission audit。
+
+## [2026-05-24] ingest | 细分品类品牌升级与执行力落地知识重构（复跑）
 - Source: `raw/transcripts/niche-category-brand-upgrade-execution-2026-05-24.md`
 - Created: `_meta/extraction-notes/niche-category-brand-upgrade-execution-2026-05-24/segment-plan.md`
 - Created: `_meta/extraction-notes/niche-category-brand-upgrade-execution-2026-05-24/micro-segment-plan.md`
@@ -135,3 +155,34 @@
 - Updated: `index.md`
 - Notes: 按 course-transcript-to-knowledge skill 完成分段、微分段、知识单元合并和正式章节化入库；事务信息按覆盖矩阵省略。
 
+## [2026-05-28] create | AI Agent 工程知识域
+- Created: `domains/ai-agent-engineering/index.md`
+- Created: `domains/ai-agent-engineering/knowledge-systems/index.md`
+- Created directories: `domains/ai-agent-engineering/knowledge-systems/`, `agent-architecture/`, `skill-design/`, `toolchain/`, `prompt-and-context/`, `automation-workflows/`, `evaluation-and-debugging/`
+- Updated: `SCHEMA.md`
+- Updated: `index.md`
+- Updated: `shared/knowledge-management/index.md`
+- Updated: `shared/ai-agent-workflows/index.md`
+- Notes: 将 AI 方法、知识系统、Skill、工具链与自动化工作流从 shared/project 混合状态中抽出为长期能力域，保持个人 Wiki 的一库多域结构。
+
+## [2026-05-28] ingest | 抖音链接入库：用 AI 打造一个永不烂尾的知识库
+- Source: `raw/webpages/douyin-ai-never-abandoned-personal-knowledge-base-2026-05-28.md`
+- Source: `raw/transcripts/douyin-ai-never-abandoned-personal-knowledge-base-2026-05-28.md`
+- Created: `raw/assets/douyin/ai-never-abandoned-personal-knowledge-base-2026-05-28/video.mp4`
+- Created: `_meta/extraction-notes/douyin-ai-never-abandoned-personal-knowledge-base-2026-05-28.md`
+- Created: `_meta/extraction-notes/douyin-ai-never-abandoned-personal-knowledge-base-2026-05-28-pipeline-report.json`
+- Created: `domains/ai-agent-engineering/knowledge-systems/llm-wiki-personal-knowledge-base-operating-loop.md`
+- Updated: `domains/ai-agent-engineering/index.md`
+- Updated: `index.md`
+- Notes: 使用 DashScope qwen-vl-max video chunk pipeline 完成真实 API 转录与 QC，沉淀 LLM Wiki 在个人知识库中的运行闭环、三层结构与 Ingest / Query / Lint 操作模式。
+
+## [2026-06-01] ingest | 咨询逻辑 XMind 知识库化
+- Source: `raw/data/consulting-logic-xmind-2026-03-02.xmind`
+- Source: `raw/data/consulting-logic-xmind-2026-03-02-content.json`
+- Created assets: `raw/assets/consulting-logic-xmind-2026-03-02/`
+- Created: `_meta/extraction-notes/consulting-logic-xmind-2026-06-01/original-outline.md`
+- Created: `_meta/extraction-notes/consulting-logic-xmind-2026-06-01/coverage-matrix.md`
+- Created: `domains/ecommerce-ops/learning-paths/consulting-logic/` index and 11 chapter pages.
+- Updated: `domains/ecommerce-ops/index.md`
+- Updated: `index.md`
+- Notes: 将 770 节点、最大 14 层的 XMind 脑图按 LLM Wiki 方式入库：raw 保留原件与 content.json，正式知识按咨询场景重构为可供 Agent 检索和调用的章节化页面。
