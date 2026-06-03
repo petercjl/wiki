@@ -20,3 +20,19 @@
 | MS-016 | framework | 可识别、可描述、有内涵三个标准；品牌资产属于心智 | 09-memory-perception-three-standards.md | retained |
 | MS-017 | template | 用本课方法做品牌差异化诊断的 Agent 模板 | 10-agent-usage-template.md | retained |
 | CX-001 | omit | 问卷、加分、课堂秩序、课间休息安排 | 不进入正式页 | omitted: classroom logistics |
+
+
+## raw-vs-formal omission audit
+
+| 锚点 | 结论 | 说明 |
+|---|---|---|
+| 太白 / 178家 / 2亿 / 燕之屋 / 海澜之家 / 认养一头牛 | speaker-credential-noise | 讲师履历和服务名单用于建立现场信任，不是本课方法论成立的必要知识。 |
+| 德佑 | preserve-now | 已补入“基础情绪价值”章节，作为“干净”情绪聚焦的证据型案例。 |
+| 棉都屋 / 50%以上 | preserve-now | 已补入免费品牌流量章节，作为品牌搜索流量可以被经营出来的证据锚点。 |
+| 兔头妈妈 | preserve-now | 已补入名称感知章节，作为好名字降低类目理解成本的案例。 |
+| 泰兰尼斯 | preserve-now | 已补入名称感知章节，作为生僻名称提高搜索和拼写成本的反例。 |
+| 声能 | preserve-now | 已补入名称感知章节，作为名称天然具备品类联想优势的案例。 |
+| 蕉内 | preserve-now | 已补入 0-1 阶段统一重复章节，作为成熟品牌可以多轮迭代的对照案例。 |
+| Wonderlife / 克莱因蓝 | preserve-now | 已补入颜色记忆路径章节，作为名称不占优时用颜色进入搜索入口的案例。 |
+| 70%-80% | preserve-now | 已补入花西子相关段落，作为消费者记忆会压缩到最显性锚点的证据。 |
+| 蘑菇头 | preserve-now | 已补入品牌资产结论章节，作为“未必注册但已占领心智”的示例。 |
