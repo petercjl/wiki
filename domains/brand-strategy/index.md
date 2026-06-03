@@ -62,6 +62,54 @@
 - [[domains/brand-strategy/learning-paths/brand-differentiation-perception-system/09-memory-perception-three-standards|09｜记忆感知的三个标准与品牌资产结论]]
 - [[domains/brand-strategy/learning-paths/brand-differentiation-perception-system/10-agent-usage-template|10｜Agent 使用模板：品牌差异化感知系统诊断]]
 
+- [[domains/brand-strategy/learning-paths/brand-visual-memory-perception-and-visualization-system|品牌视觉记忆感知与可视化体系搭建]]：章节目录，按品牌资产传承、记忆感知、ABC 分层与可视化世界观组织。
+- [[domains/brand-strategy/learning-paths/brand-visual-memory-perception-and-visualization-system/01-brand-visual-mainline-in-ai-era|01｜品牌视觉主线：AI时代先做不可替代的品牌资产]]
+- [[domains/brand-strategy/learning-paths/brand-visual-memory-perception-and-visualization-system/02-memory-perception-three-elements|02｜品牌记忆感知三要素：传承、特色、效率]]
+- [[domains/brand-strategy/learning-paths/brand-visual-memory-perception-and-visualization-system/03-no-overthrow-of-existing-assets|03｜品牌升级为什么不能轻易颠覆已有用户记忆资产]]
+- [[domains/brand-strategy/learning-paths/brand-visual-memory-perception-and-visualization-system/04-british-baby-food-step-symbol-case|04｜英式辅食案例：分阶楼梯如何变成品牌记忆符号]]
+- [[domains/brand-strategy/learning-paths/brand-visual-memory-perception-and-visualization-system/05-eye-care-drink-visual-function-case|05｜功能如何被看见：爱眼饮品的视觉直达案例]]
+- [[domains/brand-strategy/learning-paths/brand-visual-memory-perception-and-visualization-system/06-kairuisi-asset-inheritance-and-tiering|06｜凯瑞斯案例：品牌资产传承与六阶营养体系]]
+- [[domains/brand-strategy/learning-paths/brand-visual-memory-perception-and-visualization-system/07-abc-visual-layering-system|07｜ABC视觉分层系统]]
+- [[domains/brand-strategy/learning-paths/brand-visual-memory-perception-and-visualization-system/08-visual-worldbuilding-four-modules|08｜可视化世界观搭建的四个模块]]
+- [[domains/brand-strategy/learning-paths/brand-visual-memory-perception-and-visualization-system/09-case-mleb-f-sports-and-ai-team-rebuild|09｜梦百合与F运动服饰：先建体系，再用AI放大效率]]
+- [[domains/brand-strategy/learning-paths/brand-visual-memory-perception-and-visualization-system/10-agent-usage-template|10｜Agent 使用模板：品牌视觉记忆感知与可视化体系诊断]]
+
+- [[domains/brand-strategy/learning-paths/ecommerce-brand-mindshare-product-power-and-hero-product-strategy|电商品牌心智产品力与大单品战略]]：章节目录，按用户经营、心智产品力、大单品分级与燕之屋企划案例组织。
+- [[domains/brand-strategy/learning-paths/ecommerce-brand-mindshare-product-power-and-hero-product-strategy/01-from-product-commerce-to-user-management|01｜从货品电商到用户经营]]
+- [[domains/brand-strategy/learning-paths/ecommerce-brand-mindshare-product-power-and-hero-product-strategy/02-brand-attracts-product-pleases|02｜品牌负责吸引，产品负责讨好]]
+- [[domains/brand-strategy/learning-paths/ecommerce-brand-mindshare-product-power-and-hero-product-strategy/03-definition-of-mindshare-product-power|03｜什么是心智产品力]]
+- [[domains/brand-strategy/learning-paths/ecommerce-brand-mindshare-product-power-and-hero-product-strategy/04-consumer-cognition-over-facts|04｜消费者认知为什么比事实更重要]]
+- [[domains/brand-strategy/learning-paths/ecommerce-brand-mindshare-product-power-and-hero-product-strategy/05-new-brand-launch-with-high-price-high-commission-koc|05｜高定价、高佣金、KOC起盘模型]]
+- [[domains/brand-strategy/learning-paths/ecommerce-brand-mindshare-product-power-and-hero-product-strategy/06-first-principle-of-hero-products|06｜大单品的第一性原理]]
+- [[domains/brand-strategy/learning-paths/ecommerce-brand-mindshare-product-power-and-hero-product-strategy/07-explosive-product-hero-product-strategic-hero-product|07｜爆品、大单品与战略大单品的分级]]
+- [[domains/brand-strategy/learning-paths/ecommerce-brand-mindshare-product-power-and-hero-product-strategy/08-hero-product-backhand-and-series-assets|08｜大单品的后手与系列资产]]
+- [[domains/brand-strategy/learning-paths/ecommerce-brand-mindshare-product-power-and-hero-product-strategy/09-five-strategic-values-of-hero-products|09｜战略级大单品的五大价值]]
+- [[domains/brand-strategy/learning-paths/ecommerce-brand-mindshare-product-power-and-hero-product-strategy/10-yanzhiwu-young-instant-birds-nest-planning|10｜燕之屋年轻化即食燕窝企划案例]]
+- [[domains/brand-strategy/learning-paths/ecommerce-brand-mindshare-product-power-and-hero-product-strategy/11-agent-usage-template|11｜Agent 使用模板：心智产品力与大单品战略诊断]]
+
+- [[domains/brand-strategy/learning-paths/brand-big-single-product-and-product-planning-marketing|品牌大单品打造与产品企划营销]]：章节目录，按燕之屋防守、第二增长曲线、差异化创新与爆品心智组织。
+- [[domains/brand-strategy/learning-paths/brand-big-single-product-and-product-planning-marketing/01-brand-hero-product-method-overview|01｜品牌大单品方法总览]]
+- [[domains/brand-strategy/learning-paths/brand-big-single-product-and-product-planning-marketing/02-yanzhiwu-defense-through-category-blocking|02｜燕之屋如何用新品类封杀对手]]
+- [[domains/brand-strategy/learning-paths/brand-big-single-product-and-product-planning-marketing/03-second-growth-curve-with-birds-nest-congee|03｜第二增长曲线：燕窝粥的早餐场景切入]]
+- [[domains/brand-strategy/learning-paths/brand-big-single-product-and-product-planning-marketing/04-product-matrix-role-division|04｜产品矩阵的角色分工]]
+- [[domains/brand-strategy/learning-paths/brand-big-single-product-and-product-planning-marketing/05-differentiation-better-different-than-better|05｜预期更好，不如不同]]
+- [[domains/brand-strategy/learning-paths/brand-big-single-product-and-product-planning-marketing/06-add-experience-and-reduce-burden|06｜差异化创新：加体验或减负担]]
+- [[domains/brand-strategy/learning-paths/brand-big-single-product-and-product-planning-marketing/07-visualized-selling-points-and-live-demonstration|07｜卖点可视化与直播演绎]]
+- [[domains/brand-strategy/learning-paths/brand-big-single-product-and-product-planning-marketing/08-nickname-based-naming-and-consumer-language|08｜昵称化命名与消费者语言]]
+- [[domains/brand-strategy/learning-paths/brand-big-single-product-and-product-planning-marketing/09-explosive-product-mindshare-and-stage-strategy|09｜爆品心智与分阶段策略]]
+- [[domains/brand-strategy/learning-paths/brand-big-single-product-and-product-planning-marketing/10-agent-usage-template|10｜Agent 使用模板：品牌大单品与企划营销诊断]]
+
+- [[domains/brand-strategy/learning-paths/brand-product-marketing-and-product-expansion-strategy|品牌产品营销与拓品策略]]：章节目录，按场景营销、拓品路径与品牌心智长期主义组织。
+- [[domains/brand-strategy/learning-paths/brand-product-marketing-and-product-expansion-strategy/01-demand-and-scene-are-the-real-buying-point|01｜需求与场景才是真正的购买点]]
+- [[domains/brand-strategy/learning-paths/brand-product-marketing-and-product-expansion-strategy/02-from-product-features-to-scene-translation|02｜从产品参数到场景翻译]]
+- [[domains/brand-strategy/learning-paths/brand-product-marketing-and-product-expansion-strategy/03-scene-marketing-vs-situation-marketing|03｜场景营销与情景营销]]
+- [[domains/brand-strategy/learning-paths/brand-product-marketing-and-product-expansion-strategy/04-channel-specific-expression-rules|04｜不同渠道的表达规则]]
+- [[domains/brand-strategy/learning-paths/brand-product-marketing-and-product-expansion-strategy/05-wangshanzha-case-scene-reframing|05｜望山楂案例：把产品改写成强场景解决方案]]
+- [[domains/brand-strategy/learning-paths/brand-product-marketing-and-product-expansion-strategy/06-product-expansion-three-valid-paths|06｜合理拓品的三条有效路径]]
+- [[domains/brand-strategy/learning-paths/brand-product-marketing-and-product-expansion-strategy/07-growth-paths-haiguibaba-and-aulaike|07｜海龟爸爸与欧莱克：两种增长路径]]
+- [[domains/brand-strategy/learning-paths/brand-product-marketing-and-product-expansion-strategy/08-brand-mindshare-productization-with-kelu|08｜可露：把品牌心智产品化]]
+- [[domains/brand-strategy/learning-paths/brand-product-marketing-and-product-expansion-strategy/09-agent-usage-template|09｜Agent 使用模板：品牌产品营销与拓品策略诊断]]
+
 ## 案例库
 
 ## 抽样试验

@@ -237,3 +237,44 @@
 - Updated: `domains/brand-strategy/index.md`
 - Updated: `index.md`
 - Notes: 按 course-transcript-to-knowledge skill 将品牌差异化感知系统课程重构为章节化理论路径，重点沉淀免费广告位、心向感知、品类情绪、双品牌差异化案例与记忆感知三标准。
+
+
+## [2026-06-03] ingest | 品牌视觉记忆感知与可视化体系搭建课程知识重构
+- Source: `raw/transcripts/brand-visual-memory-perception-and-visualization-system-2026-06-03.md`
+- Created: `_meta/extraction-notes/brand-visual-memory-perception-and-visualization-system-2026-06-03/` note set
+- Created: `domains/brand-strategy/learning-paths/brand-visual-memory-perception-and-visualization-system/` index and 10 chapter pages.
+- Updated: `domains/brand-strategy/index.md`
+- Updated: `index.md`
+- Notes: 重点沉淀品牌视觉主线、传承/特色/效率三要素、ABC 分层、可视化世界观与 AI 团队重构方法。
+
+## [2026-06-03] ingest | AI在商业视觉设计中的应用方法与实践分享
+- Source: `raw/transcripts/ai-commercial-visual-design-application-methods-and-practice-2026-06-03.md`
+- Created: `_meta/extraction-notes/ai-commercial-visual-design-application-methods-and-practice-2026-06-03/` note set
+- Created: `domains/visual-production/learning-paths/ai-commercial-visual-design-application-methods-and-practice/` index and 7 chapter pages.
+- Updated: `domains/visual-production/index.md`
+- Updated: `index.md`
+- Notes: 重点沉淀 AI 商业视觉的真实降本增效案例、图片/视频工作流、品牌上限与团队重构逻辑。
+
+## [2026-06-03] ingest | 电商品牌心智产品力与大单品战略打造课程
+- Source: `raw/transcripts/ecommerce-brand-mindshare-product-power-and-hero-product-strategy-2026-06-03.md`
+- Created: `_meta/extraction-notes/ecommerce-brand-mindshare-product-power-and-hero-product-strategy-2026-06-03/` note set
+- Created: `domains/brand-strategy/learning-paths/ecommerce-brand-mindshare-product-power-and-hero-product-strategy/` index and 11 chapter pages.
+- Updated: `domains/brand-strategy/index.md`
+- Updated: `index.md`
+- Notes: 重点沉淀用户经营时代、心智产品力、大单品分级、系列资产与燕之屋即食燕窝企划案例。
+
+## [2026-06-03] ingest | 品牌大单品打造与产品企划营销课程分享
+- Source: `raw/transcripts/brand-big-single-product-and-product-planning-marketing-2026-06-03.md`
+- Created: `_meta/extraction-notes/brand-big-single-product-and-product-planning-marketing-2026-06-03/` note set
+- Created: `domains/brand-strategy/learning-paths/brand-big-single-product-and-product-planning-marketing/` index and 10 chapter pages.
+- Updated: `domains/brand-strategy/index.md`
+- Updated: `index.md`
+- Notes: 重点沉淀燕之屋防守战、第二增长曲线、差异化创新、卖点可视化、昵称化命名与爆品心智打造方法。
+
+## [2026-06-03] ingest | 品牌产品营销与拓品策略分享
+- Source: `raw/transcripts/brand-product-marketing-and-product-expansion-strategy-2026-06-03.md`
+- Created: `_meta/extraction-notes/brand-product-marketing-and-product-expansion-strategy-2026-06-03/` note set
+- Created: `domains/brand-strategy/learning-paths/brand-product-marketing-and-product-expansion-strategy/` index and 9 chapter pages.
+- Updated: `domains/brand-strategy/index.md`
+- Updated: `index.md`
+- Notes: 重点沉淀场景营销、渠道表达规则、合理拓品三路径与可露的品牌心智产品化方法。
