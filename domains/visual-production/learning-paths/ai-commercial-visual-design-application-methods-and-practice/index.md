@@ -1,14 +1,21 @@
-# 视觉制作知识域
+---
+title: AI 在商业视觉设计中的应用方法与实践
+type: concept
+created: 2026-06-03
+updated: 2026-06-03
+domain: visual-production
+tags: [visual-production, business-analysis, workflow]
+sources:
+  - raw/transcripts/ai-commercial-visual-design-application-methods-and-practice-2026-06-03.md
+status: active
+---
 
-本目录沉淀主图、详情页、AI 生图、拍摄、版式和视觉转化方法。
+# AI 在商业视觉设计中的应用方法与实践
 
-## 关联共享方法论
+围绕 AI 商业视觉的真实降本增效案例、图片工作流、视频工作流与团队重构的章节化方法论。
 
-- [[shared/business-frameworks/marketing-theory-for-ecommerce-images|营销学理论在电商图片中的应用]]：用于主图、详情页、场景图、证据图和 AI 生图策略。
+## 章节目录
 
-## AI 商业视觉方法论
-
-- [[domains/visual-production/learning-paths/ai-commercial-visual-design-application-methods-and-practice|AI 在商业视觉设计中的应用方法与实践]]：章节目录，按真实案例、图片工作流、视频工作流与团队重构组织。
 - [[domains/visual-production/learning-paths/ai-commercial-visual-design-application-methods-and-practice/01-commercial-value-of-ai-visuals|01｜AI 商业视觉的真实价值]]
 - [[domains/visual-production/learning-paths/ai-commercial-visual-design-application-methods-and-practice/02-real-cost-reduction-cases|02｜真实降本增效案例]]
 - [[domains/visual-production/learning-paths/ai-commercial-visual-design-application-methods-and-practice/03-ai-raises-the-floor-brand-sets-the-ceiling|03｜AI 抬高下限，品牌决定上限]]
