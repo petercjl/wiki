@@ -186,3 +186,54 @@
 - Updated: `domains/ecommerce-ops/index.md`
 - Updated: `index.md`
 - Notes: 将 770 节点、最大 14 层的 XMind 脑图按 LLM Wiki 方式入库：raw 保留原件与 content.json，正式知识按咨询场景重构为可供 Agent 检索和调用的章节化页面。
+
+## [2026-06-03] ingest | Clippings batch: 淘宝营销工具规则
+- Source: `raw/webpages/taobao/taobao-coupon-settings-merchant-ops-2026-06-02.md`
+- Source: `raw/webpages/taobao/taobao-shop-promotion-stacking-rule-upgrade-2026-04-14.md`
+- Source: `raw/webpages/taobao/taobao-super-discount-registration-whitepaper-2026-05-19.md`
+- Created: `domains/ecommerce-ops/marketing-tools/taobao-coupon-tool.md`
+- Created: `domains/ecommerce-ops/marketing-tools/taobao-super-discount.md`
+- Created: `domains/ecommerce-ops/marketing-tools/taobao-promotion-stacking-rules.md`
+- Created: `domains/ecommerce-ops/playbooks/taobao-marketing-tool-selection.md`
+- Created: `queries/taobao-marketing-tool-planning.md`
+- Updated: `index.md`
+- Cleaned: `Clippings/商家服务大厅-淘宝网Taobao.com-淘！我喜欢.md`
+- Cleaned: `Clippings/商家服务大厅-淘宝网Taobao.com-淘！我喜欢 1.md`
+- Cleaned: `Clippings/商家服务大厅-淘宝网Taobao.com-淘！我喜欢 2.md`
+- Notes: 使用 wiki-clippings-ingest 的 rule/reference profile，将淘宝营销工具剪藏编译为工具卡、互斥矩阵、选择 playbook 和 AI 查询入口。
+
+## [2026-06-03] ingest | 旺店通开放平台 API 文档
+- Source: `https://open.wangdian.cn/Y/open/apidoc`
+- Created: `raw/api/wangdian-openapi/wangdian-openapi-full-scrape-2026-06-03.json`
+- Created: `raw/api/wangdian-openapi/wangdian-openapi-full-archive-2026-06-03.md`
+- Created: `raw/api/wangdian-openapi/wangdian-openapi-compact-index-2026-06-03.json`
+- Created: `domains/ecommerce-ops/api/wangdian/index.md`
+- Created: `domains/ecommerce-ops/api/wangdian/capability-map.md`
+- Created: `domains/ecommerce-ops/api/wangdian/skill-building-guide.md`
+- Created: `queries/wangdian-api-skill-creation.md`
+- Updated: `domains/ecommerce-ops/index.md`
+- Updated: `index.md`
+- Notes: 使用 Chrome DevTools MCP 抓取 77 个旺店通 ERP API 详情，按订单、库存、货品、基础、售后、采购编译为接口目录、能力地图和 Skill 创建入口。
+
+## [2026-06-03] update | 旺店通 API 分类使用手册
+- Created: `domains/ecommerce-ops/api/wangdian/reference/order-apis.md`
+- Created: `domains/ecommerce-ops/api/wangdian/reference/stock-apis.md`
+- Created: `domains/ecommerce-ops/api/wangdian/reference/goods-apis.md`
+- Created: `domains/ecommerce-ops/api/wangdian/reference/base-apis.md`
+- Created: `domains/ecommerce-ops/api/wangdian/reference/aftersales-apis.md`
+- Created: `domains/ecommerce-ops/api/wangdian/reference/purchase-apis.md`
+- Updated: `domains/ecommerce-ops/api/wangdian/index.md`
+- Updated: `domains/ecommerce-ops/api/wangdian/skill-building-guide.md`
+- Updated: `index.md`
+- Notes: 将 77 个接口按 6 个业务分类补充为可直接写代码的使用手册，覆盖请求地址、公共参数、业务参数、响应字段和示例。
+
+## [2026-06-03] ingest | 电商品牌差异化感知系统课程知识重构
+- Source: `raw/transcripts/brand-differentiation-perception-system-2026-05-24.md`
+- Created: `_meta/extraction-notes/brand-differentiation-perception-system-2026-05-24/segment-plan.md`
+- Created: `_meta/extraction-notes/brand-differentiation-perception-system-2026-05-24/micro-segment-plan.md`
+- Created: `_meta/extraction-notes/brand-differentiation-perception-system-2026-05-24/coverage-matrix.md`
+- Created: `_meta/extraction-notes/brand-differentiation-perception-system-2026-05-24/segment-knowledge-inventory.md`
+- Created: `domains/brand-strategy/learning-paths/brand-differentiation-perception-system/` index and 10 chapter pages.
+- Updated: `domains/brand-strategy/index.md`
+- Updated: `index.md`
+- Notes: 按 course-transcript-to-knowledge skill 将品牌差异化感知系统课程重构为章节化理论路径，重点沉淀免费广告位、心向感知、品类情绪、双品牌差异化案例与记忆感知三标准。

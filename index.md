@@ -1,8 +1,8 @@
 # Wiki Index
 
 > Content catalog. Every formal wiki page should be listed here.
-> Last updated: 2026-06-01
-> Total formal pages: 47
+> Last updated: 2026-06-03
+> Total formal pages: 73
 
 ## Domains
 
@@ -51,6 +51,27 @@
 - [[domains/ecommerce-ops/learning-paths/consulting-logic/11-agent-usage-template|11｜Agent 使用模板：电商企业咨询诊断]]
 <!-- ecommerce-consulting-logic:end -->
 
+## Ecommerce API
+
+- [[domains/ecommerce-ops/api/wangdian/index|旺店通开放平台 API 知识库]]：77 个旺店通 ERP 开放接口的目录、全局调用约定和 raw 归档入口。
+- [[domains/ecommerce-ops/api/wangdian/capability-map|旺店通 API 能力地图]]：将接口按业务能力映射到订单、库存、货品、基础、售后和采购自动化场景。
+- [[domains/ecommerce-ops/api/wangdian/skill-building-guide|旺店通 API Skill 创建指南]]：根据接口知识库创建 AI skill 的流程、安全规则和库存导出示例。
+- [[queries/wangdian-api-skill-creation|旺店通 API Skill 创建查询入口]]：AI Agent 创建旺店通 API skill 前的读取入口和输出结构。
+- [[domains/ecommerce-ops/api/wangdian/reference/order-apis|旺店通订单类 API 使用手册]]：订单类接口的请求地址、参数、响应字段和示例。
+- [[domains/ecommerce-ops/api/wangdian/reference/stock-apis|旺店通库存类 API 使用手册]]：库存类接口的请求地址、参数、响应字段和示例。
+- [[domains/ecommerce-ops/api/wangdian/reference/goods-apis|旺店通货品类 API 使用手册]]：货品类接口的请求地址、参数、响应字段和示例。
+- [[domains/ecommerce-ops/api/wangdian/reference/base-apis|旺店通基础类 API 使用手册]]：基础类接口的请求地址、参数、响应字段和示例。
+- [[domains/ecommerce-ops/api/wangdian/reference/aftersales-apis|旺店通售后类 API 使用手册]]：售后类接口的请求地址、参数、响应字段和示例。
+- [[domains/ecommerce-ops/api/wangdian/reference/purchase-apis|旺店通采购类 API 使用手册]]：采购类接口的请求地址、参数、响应字段和示例。
+
+## Taobao Marketing Tools
+
+- [[domains/ecommerce-ops/marketing-tools/taobao-coupon-tool|淘宝营销工具：优惠券]]：优惠券的类型、核销、资损、叠加关系和适用场景。
+- [[domains/ecommerce-ops/marketing-tools/taobao-super-discount|淘宝营销工具：超级立减]]：超级立减的报名、价格公式、活动冲突、最低价和大促双报规则。
+- [[domains/ecommerce-ops/marketing-tools/taobao-promotion-stacking-rules|淘宝营销工具叠加与互斥规则]]：优惠券、多件优惠、超级立减、单品立减等工具之间的叠加、互斥和择优规则矩阵。
+- [[domains/ecommerce-ops/playbooks/taobao-marketing-tool-selection|淘宝营销工具选择 Playbook]]：根据目标、活动周期、当前优惠和风险约束选择营销工具的操作流程。
+- [[queries/taobao-marketing-tool-planning|淘宝营销工具规划查询入口]]：AI Agent 回答淘宝营销工具规划问题前的读取入口和输出结构。
+
 ## Brand Strategy
 
 - [[domains/brand-strategy/learning-paths/brand-strategy-methodology-reconstructed|电商品牌增长方法论：从白牌卖货到持续溢价]]：章节目录，按知识发展顺序组织电商品牌增长方法论。
@@ -86,6 +107,18 @@
 - [[domains/brand-strategy/learning-paths/niche-category-brand-upgrade-execution/06-yinsumao-niche-positioning|06｜音速猫：在运动鞋红海中切出体考体测鞋]]
 - [[domains/brand-strategy/learning-paths/niche-category-brand-upgrade-execution/07-private-domain-co-creation-system|07｜私域共创：把用户变成产品开发系统]]
 - [[domains/brand-strategy/learning-paths/niche-category-brand-upgrade-execution/08-agent-usage-template|08｜Agent 使用模板：细分品类品牌升级诊断]]
+
+- [[domains/brand-strategy/learning-paths/brand-differentiation-perception-system|电商品牌差异化感知系统]]：章节目录，按视觉失效根因、感知系统、心向设计、情绪气质与记忆感知组织。
+- [[domains/brand-strategy/learning-paths/brand-differentiation-perception-system/01-why-visual-upgrade-fails-without-perception|01｜为什么很多品牌视觉升级上线后没有效果]]
+- [[domains/brand-strategy/learning-paths/brand-differentiation-perception-system/02-free-brand-traffic-through-perception-assets|02｜如何把电商触点变成免费的品牌流量资产]]
+- [[domains/brand-strategy/learning-paths/brand-differentiation-perception-system/03-heart-oriented-perception-system|03｜品牌差异化感知系统：心向感知的四个入口]]
+- [[domains/brand-strategy/learning-paths/brand-differentiation-perception-system/04-brand-name-slogan-and-symbol-memory|04｜品牌名称、slogan、符号与 0-1 阶段的统一重复]]
+- [[domains/brand-strategy/learning-paths/brand-differentiation-perception-system/05-category-emotion-and-image-temperament|05｜品类情绪与形象气质：品牌感受如何被设计出来]]
+- [[domains/brand-strategy/learning-paths/brand-differentiation-perception-system/06-case-differentiation-zhifan-and-lixu|06｜同品类如何做出两种差异化：芝凡与李旭案例]]
+- [[domains/brand-strategy/learning-paths/brand-differentiation-perception-system/07-memory-perception-strategy|07｜记忆感知：消费者到底会记住什么]]
+- [[domains/brand-strategy/learning-paths/brand-differentiation-perception-system/08-memory-perception-case-patterns|08｜记忆感知案例规律：颜色、符号、故事与触点体验]]
+- [[domains/brand-strategy/learning-paths/brand-differentiation-perception-system/09-memory-perception-three-standards|09｜记忆感知的三个标准与品牌资产结论]]
+- [[domains/brand-strategy/learning-paths/brand-differentiation-perception-system/10-agent-usage-template|10｜Agent 使用模板：品牌差异化感知系统诊断]]
 
 ## Cases
 
