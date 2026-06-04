@@ -2,13 +2,32 @@
 
 本目录沉淀品牌定位、人群、心智、内容策略和品牌表达方法。
 
+## 按品牌策划问题调用（路由表）
+
+> Agent 入口：先按“当前要解决的问题”定位到对应路径，再读该路径 index 和相关章节。
+
+| 你的问题 | 优先调用路径 | 状态 |
+| --- | --- | --- |
+| 要不要做品牌、品牌到底是什么、从白牌到溢价 | 电商品牌增长方法论 | ✅ 已编译 |
+| 选品类聚焦还是人群认同、怎么定位、四模块优先级 | 电商品牌竞争战略：品类、心智与品牌打造 | ✅ 已编译 |
+| 细分品类怎么防守、组织执行力、私域共创 | 细分品类品牌升级与执行力落地 | ✅ 已编译 |
+| 视觉升级没效果、消费者记不住、差异化感知 | 品牌差异化感知系统 | ✅ 已编译 |
+| 视觉资产怎么传承、可视化世界观、ABC 分层 | 品牌视觉记忆感知与可视化体系搭建 | ⚠ 重编译中 |
+| 心智产品力、大单品第一性原理、大单品分级 | 电商品牌心智产品力与大单品战略 | ⚠ 重编译中 |
+| 大单品怎么打、产品矩阵、第二增长曲线、爆品心智 | 品牌大单品打造与产品企划营销 | ⚠ 重编译中 |
+| 场景营销、卖点翻译、怎么拓品、拓品路径 | 品牌产品营销与拓品策略 | ⚠ 重编译中 |
+
+> ⚠ 标注“重编译中”的 4 条路径，正式页当前为占位骨架，未含完整方法/案例/证据。
+> 这些主题暂以原始 transcript（见各页 frontmatter `sources`）为准，正式页正在用
+> course-transcript-to-knowledge 重新深度编译。Agent 在重编译完成前不应依赖这些页面输出结论。
+
 ## 关联共享方法论
 
 - [[shared/business-frameworks/marketing-theory-for-ecommerce-images|营销学理论在电商图片中的应用]]：用于定位表达、人群沟通、品牌调性和视觉价值感设计。
 
-## 核心概念
+## 电商品牌增长方法论
 
-## 电商品牌增长方法论章节
+✅ 已编译
 
 - [[domains/brand-strategy/learning-paths/brand-strategy-methodology-reconstructed|电商品牌增长方法论：从白牌卖货到持续溢价]]：章节目录。
 - [[domains/brand-strategy/learning-paths/brand-strategy-methodology-reconstructed/01-why-ecommerce-brands-must-rethink-brand|01｜第一章：为什么电商企业必须重新理解品牌]]
@@ -26,6 +45,8 @@
 
 ## 电商品牌竞争战略：品类、心智与品牌打造
 
+✅ 已编译
+
 - [[domains/brand-strategy/learning-paths/category-mind-brand-building-afternoon|电商品牌竞争战略：品类、心智与品牌打造]]：章节目录。
 - [[domains/brand-strategy/learning-paths/category-mind-brand-building-afternoon/01-category-focus-vs-tribe-recognition|01｜品类聚焦与人群认同：两条品牌路线]]
 - [[domains/brand-strategy/learning-paths/category-mind-brand-building-afternoon/02-category-focus-case-patterns|02｜品类聚焦案例：从模糊母品牌到品类首选]]
@@ -37,6 +58,8 @@
 - [[domains/brand-strategy/learning-paths/category-mind-brand-building-afternoon/08-agent-usage-template|08｜Agent 使用模板：电商品牌竞争战略诊断]]
 
 ## 细分品类品牌升级与执行力落地
+
+✅ 已编译
 
 - [[domains/brand-strategy/learning-paths/niche-category-brand-upgrade-execution|细分品类品牌升级与执行力落地]]：章节目录，按细分品类防守、案例升级、组织执行和私域共创组织。
 - [[domains/brand-strategy/learning-paths/niche-category-brand-upgrade-execution/01-niche-category-six-dimensional-brand-defense|01｜细分品类的六维防守：从单点优势到六边形品牌]]
@@ -50,6 +73,8 @@
 
 ## 品牌差异化感知系统
 
+✅ 已编译
+
 - [[domains/brand-strategy/learning-paths/brand-differentiation-perception-system|电商品牌差异化感知系统]]：章节目录，按视觉失效根因、感知系统、名称与情绪、案例对比、记忆感知标准组织。
 - [[domains/brand-strategy/learning-paths/brand-differentiation-perception-system/01-why-visual-upgrade-fails-without-perception|01｜为什么很多品牌视觉升级上线后没有效果]]
 - [[domains/brand-strategy/learning-paths/brand-differentiation-perception-system/02-free-brand-traffic-through-perception-assets|02｜如何把电商触点变成免费的品牌流量资产]]
@@ -62,6 +87,10 @@
 - [[domains/brand-strategy/learning-paths/brand-differentiation-perception-system/09-memory-perception-three-standards|09｜记忆感知的三个标准与品牌资产结论]]
 - [[domains/brand-strategy/learning-paths/brand-differentiation-perception-system/10-agent-usage-template|10｜Agent 使用模板：品牌差异化感知系统诊断]]
 
+## 品牌视觉记忆感知与可视化体系搭建
+
+⚠ 重编译中（正式页为占位骨架，暂以 raw transcript 为准）
+
 - [[domains/brand-strategy/learning-paths/brand-visual-memory-perception-and-visualization-system|品牌视觉记忆感知与可视化体系搭建]]：章节目录，按品牌资产传承、记忆感知、ABC 分层与可视化世界观组织。
 - [[domains/brand-strategy/learning-paths/brand-visual-memory-perception-and-visualization-system/01-brand-visual-mainline-in-ai-era|01｜品牌视觉主线：AI时代先做不可替代的品牌资产]]
 - [[domains/brand-strategy/learning-paths/brand-visual-memory-perception-and-visualization-system/02-memory-perception-three-elements|02｜品牌记忆感知三要素：传承、特色、效率]]
@@ -73,6 +102,10 @@
 - [[domains/brand-strategy/learning-paths/brand-visual-memory-perception-and-visualization-system/08-visual-worldbuilding-four-modules|08｜可视化世界观搭建的四个模块]]
 - [[domains/brand-strategy/learning-paths/brand-visual-memory-perception-and-visualization-system/09-case-mleb-f-sports-and-ai-team-rebuild|09｜梦百合与F运动服饰：先建体系，再用AI放大效率]]
 - [[domains/brand-strategy/learning-paths/brand-visual-memory-perception-and-visualization-system/10-agent-usage-template|10｜Agent 使用模板：品牌视觉记忆感知与可视化体系诊断]]
+
+## 电商品牌心智产品力与大单品战略
+
+⚠ 重编译中（正式页为占位骨架，暂以 raw transcript 为准）
 
 - [[domains/brand-strategy/learning-paths/ecommerce-brand-mindshare-product-power-and-hero-product-strategy|电商品牌心智产品力与大单品战略]]：章节目录，按用户经营、心智产品力、大单品分级与燕之屋企划案例组织。
 - [[domains/brand-strategy/learning-paths/ecommerce-brand-mindshare-product-power-and-hero-product-strategy/01-from-product-commerce-to-user-management|01｜从货品电商到用户经营]]
@@ -87,6 +120,10 @@
 - [[domains/brand-strategy/learning-paths/ecommerce-brand-mindshare-product-power-and-hero-product-strategy/10-yanzhiwu-young-instant-birds-nest-planning|10｜燕之屋年轻化即食燕窝企划案例]]
 - [[domains/brand-strategy/learning-paths/ecommerce-brand-mindshare-product-power-and-hero-product-strategy/11-agent-usage-template|11｜Agent 使用模板：心智产品力与大单品战略诊断]]
 
+## 品牌大单品打造与产品企划营销
+
+⚠ 重编译中（正式页为占位骨架，暂以 raw transcript 为准）
+
 - [[domains/brand-strategy/learning-paths/brand-big-single-product-and-product-planning-marketing|品牌大单品打造与产品企划营销]]：章节目录，按燕之屋防守、第二增长曲线、差异化创新与爆品心智组织。
 - [[domains/brand-strategy/learning-paths/brand-big-single-product-and-product-planning-marketing/01-brand-hero-product-method-overview|01｜品牌大单品方法总览]]
 - [[domains/brand-strategy/learning-paths/brand-big-single-product-and-product-planning-marketing/02-yanzhiwu-defense-through-category-blocking|02｜燕之屋如何用新品类封杀对手]]
@@ -99,6 +136,10 @@
 - [[domains/brand-strategy/learning-paths/brand-big-single-product-and-product-planning-marketing/09-explosive-product-mindshare-and-stage-strategy|09｜爆品心智与分阶段策略]]
 - [[domains/brand-strategy/learning-paths/brand-big-single-product-and-product-planning-marketing/10-agent-usage-template|10｜Agent 使用模板：品牌大单品与企划营销诊断]]
 
+## 品牌产品营销与拓品策略
+
+⚠ 重编译中（正式页为占位骨架，暂以 raw transcript 为准）
+
 - [[domains/brand-strategy/learning-paths/brand-product-marketing-and-product-expansion-strategy|品牌产品营销与拓品策略]]：章节目录，按场景营销、拓品路径与品牌心智长期主义组织。
 - [[domains/brand-strategy/learning-paths/brand-product-marketing-and-product-expansion-strategy/01-demand-and-scene-are-the-real-buying-point|01｜需求与场景才是真正的购买点]]
 - [[domains/brand-strategy/learning-paths/brand-product-marketing-and-product-expansion-strategy/02-from-product-features-to-scene-translation|02｜从产品参数到场景翻译]]
@@ -109,8 +150,6 @@
 - [[domains/brand-strategy/learning-paths/brand-product-marketing-and-product-expansion-strategy/07-growth-paths-haiguibaba-and-aulaike|07｜海龟爸爸与欧莱克：两种增长路径]]
 - [[domains/brand-strategy/learning-paths/brand-product-marketing-and-product-expansion-strategy/08-brand-mindshare-productization-with-kelu|08｜可露：把品牌心智产品化]]
 - [[domains/brand-strategy/learning-paths/brand-product-marketing-and-product-expansion-strategy/09-agent-usage-template|09｜Agent 使用模板：品牌产品营销与拓品策略诊断]]
-
-## 案例库
 
 ## 抽样试验
 
