@@ -17,3 +17,12 @@
 - 课堂 logistics -> omitted
 - 讲师履历/闲聊 -> speaker-credential-noise 或 low-knowledge-value
 - 关键案例 / 数字证据 / 方法框架 -> 必须保留或标注 absorbed
+
+## raw-vs-formal omission audit
+
+| 锚点 | 结论 | 说明 |
+|---|---|---|
+| 115度 / 1.8倍 | preserve-now | 已补入燕之屋防守章节，作为传播卖点证据。 |
+| 0.94 / 1亿 | preserve-now | 已补入第二增长曲线章节，作为延伸方向成立证据。 |
+| 100天免费试睡 / 40元 / 140元 | preserve-now | 已补入减负担章节，作为价格带重塑案例。 |
+| 49% / 38.1% / 一部手机价格换十年百变睡眠 | preserve-now | 已补入卖点可视化章节，作为证据型表达。 |
