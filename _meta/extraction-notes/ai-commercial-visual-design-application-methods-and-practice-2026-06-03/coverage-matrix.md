@@ -17,3 +17,14 @@
 - 课堂 logistics -> omitted
 - 讲师履历/闲聊 -> speaker-credential-noise 或 low-knowledge-value
 - 关键案例 / 数字证据 / 方法框架 -> 必须保留或标注 absorbed
+
+## raw-vs-formal omission audit
+
+| 锚点 | 结论 | 说明 |
+|---|---|---|
+| 舒雅 / 800元 | preserve-now | 已补入真实降本增效案例，作为成本改写证据。 |
+| 10分钟 | preserve-now | 已补入商业价值章节，作为成熟流程下的效率锚点。 |
+| 25-30帧 | preserve-now | 已补入视频工作流章节，说明必须拆分镜。 |
+| 左西 / 小火炉 | preserve-now | 已补入视频案例段落，说明单帧微动与首尾帧方法。 |
+| 200-300万 | preserve-now | 已补入团队重构章节，作为经营规模支撑。 |
+| 现场演示口播 | classroom-logistics | 不进入正式知识页。 |
