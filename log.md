@@ -11,6 +11,70 @@
 - Cleaned: `Clippings/Image generation  OpenAI API.md`
 - Notes: 使用 wiki-clippings-ingest 的 Product / Tool Documentation profile，并用 OpenAI 官方 docs MCP 校验当前图像生成文档，将剪藏编译为 API 选择、参数、编辑、流式、错误处理和成本判断指南。
 
+## [2026-06-06] repair | 品牌视觉记忆感知与可视化体系 learning path 重编译修复
+- Source: `raw/transcripts/brand-visual-memory-perception-and-visualization-system-2026-06-03.md`
+- Updated: `domains/brand-strategy/learning-paths/brand-visual-memory-perception-and-visualization-system/` index and 10 chapter pages.
+- Updated: `_meta/extraction-notes/brand-visual-memory-perception-and-visualization-system-2026-06-03/` note set.
+- Created: `_meta/extraction-notes/brand-visual-memory-perception-and-visualization-system-2026-06-03/micro-segments/` 10 micro-segment records.
+- Updated: `domains/brand-strategy/index.md`
+- Updated: `index.md`
+- QA: `placeholder_scan.py` on this learning path returned `SHELL: 0 THIN: 0 OK: 11`; template/process residue grep returned no hits.
+- Notes: 将原占位骨架修复为正式可用知识路径，重点补强视觉资产传承、记忆感知三要素、英式辅食/爱眼饮品/凯瑞斯/梦百合/F 运动服饰案例、ABC 视觉分层、可视化世界观四模块与 AI 生图执行模板。该路径已从 brand-strategy 路由表的“重编译中”移出。
+
+## [2026-06-06] repair | 电商品牌心智产品力与大单品战略 learning path 重编译修复
+- Source: `raw/transcripts/ecommerce-brand-mindshare-product-power-and-hero-product-strategy-2026-06-03.md`
+- Updated: `domains/brand-strategy/learning-paths/ecommerce-brand-mindshare-product-power-and-hero-product-strategy/` index and 11 chapter pages.
+- Updated: `_meta/extraction-notes/ecommerce-brand-mindshare-product-power-and-hero-product-strategy-2026-06-03/` note set.
+- Created: `_meta/extraction-notes/ecommerce-brand-mindshare-product-power-and-hero-product-strategy-2026-06-03/micro-segments/` 11 micro-segment records.
+- Updated: `domains/brand-strategy/index.md`
+- Updated: `index.md`
+- QA: `placeholder_scan.py` on this learning path returned `SHELL: 0 THIN: 0 OK: 12`; template/process residue grep returned no hits.
+- Notes: 将原占位骨架修复为正式可用知识路径，重点沉淀用户经营、心智产品力、高定价高佣金 KOC 起盘、大单品第一性原理、爆品/大单品/战略大单品分级、后手与英雄系列、战略大单品五大价值、燕之屋年轻化即食燕窝企划和 Agent 诊断模板。品牌产品营销与拓品策略经单独扫描也已确认无 shell，路由状态同步改为已编译。
+
+## [2026-06-06] repair | 品牌大单品打造与产品企划营销 learning path 重编译修复
+- Source: `raw/transcripts/brand-big-single-product-and-product-planning-marketing-2026-06-03.md`
+- Updated: `domains/brand-strategy/learning-paths/brand-big-single-product-and-product-planning-marketing/` index and 10 chapter pages.
+- Updated: `_meta/extraction-notes/brand-big-single-product-and-product-planning-marketing-2026-06-03/` note set.
+- Created: `_meta/extraction-notes/brand-big-single-product-and-product-planning-marketing-2026-06-03/micro-segments/` 10 micro-segment records.
+- Updated: `domains/brand-strategy/index.md`
+- Updated: `index.md`
+- QA: `placeholder_scan.py` on this learning path returned `SHELL: 0 THIN: 0 OK: 11`; template/process residue grep returned no hits.
+- Notes: 将原占位骨架修复为正式可用知识路径，重点沉淀大单品企划链路、燕之屋鲜炖防守、小燕农燕窝粥第二增长曲线、产品矩阵角色分工、差异化创新、加体验/减负担、卖点可视化、昵称化命名、爆品心智分阶段策略和 Agent 企划模板。brand-strategy 路由表中的“重编译中”状态已清空。
+
+## [2026-06-05] compile | 重编译 品牌产品营销与拓品策略 04-09 章
+- Updated: `domains/brand-strategy/learning-paths/brand-product-marketing-and-product-expansion-strategy/04-channel-specific-expression-rules.md`
+- Updated: `domains/brand-strategy/learning-paths/brand-product-marketing-and-product-expansion-strategy/05-wangshanzha-case-scene-reframing.md`
+- Updated: `domains/brand-strategy/learning-paths/brand-product-marketing-and-product-expansion-strategy/06-product-line-expansion-logic.md`
+- Updated: `domains/brand-strategy/learning-paths/brand-product-marketing-and-product-expansion-strategy/07-incremental-vs-stock-market-expansion.md`
+- Updated: `domains/brand-strategy/learning-paths/brand-product-marketing-and-product-expansion-strategy/08-non-standard-product-planning.md`
+- Updated: `domains/brand-strategy/learning-paths/brand-product-marketing-and-product-expansion-strategy/09-brand-identity-and-all-channel-coordination.md`
+- Removed: 旧占位骨架 `06-product-expansion-three-valid-paths.md`, `07-growth-paths-haiguibaba-and-aulaike.md`, `08-brand-mindshare-productization-with-kelu.md`, `09-agent-usage-template.md`
+- Updated: 路径 `index.md`、`domains/brand-strategy/index.md`、根 `index.md` 的章节链接与文件名
+- Notes: 按统一标准（摘要/核心问题/方法框架/推导逻辑/判断标准/常见误区/Agent提示词/相关页面/来源）重编译后半段。核对原文锚点：东鹏特饮双人群、王小五追剧、望山楂吃辣场景裂变与谐音梗SKU、活力28乱拓反例 vs 保洁多品牌隔离 + 参半美白拓品、海龟爸爸（增量·以点穿面）vs 欧莱克速简美学（存量·多点渗透）完整品类链、潮趣袜企划（曹老师留学生PM、大成产品课）、freestyle"偏见"独立人格、可露轻珠宝（探索/自我/快乐、Smiley联名、2024探索关系、凯琳/FA奖）。把原 09 Agent 模板拆解到各章的"可用于 Agent 的提示词"小节。
+
+## [2026-06-05] compile | 同步跨 Agent Skill 注册库
+- Updated: `domains/ai-agent-engineering/skill-design/ai-agent-skill-registry.md`
+- Updated: `domains/ai-agent-engineering/skill-design/personal-ai-agent-skill-registry.md`
+- Updated: agent-specific skill registry pages under `domains/ai-agent-engineering/skill-design/`
+- Updated: `index.md`
+- Updated: `domains/ai-agent-engineering/index.md`
+- Notes: 扫描系统中 Codex、Hermes、Lark Agent、OpenClaw、SealSeek、Claude Code 的 `SKILL.md`，当前总计 356 个 skill，其中个人/项目自定义 146 个；Codex 16, Hermes 167, Lark Agent 25, OpenClaw 4, SealSeek 118, Claude Code 26。Touched: domains/ai-agent-engineering/skill-design/ai-agent-skill-registry.md, domains/ai-agent-engineering/skill-design/personal-ai-agent-skill-registry.md, domains/ai-agent-engineering/skill-design/hermes-skill-registry.md。
+
+## [2026-06-05] compile | 同步跨 Agent Skill 注册库
+- Updated: `domains/ai-agent-engineering/skill-design/ai-agent-skill-registry.md`
+- Updated: `domains/ai-agent-engineering/skill-design/personal-ai-agent-skill-registry.md`
+- Updated: agent-specific skill registry pages under `domains/ai-agent-engineering/skill-design/`
+- Updated: `index.md`
+- Updated: `domains/ai-agent-engineering/index.md`
+- Notes: 扫描系统中 Codex、Hermes、Lark Agent、OpenClaw、SealSeek、Claude Code 的 `SKILL.md`，当前总计 356 个 skill，其中个人/项目自定义 167 个；Codex 16, Hermes 167, Lark Agent 25, OpenClaw 4, SealSeek 118, Claude Code 26。Touched: domains/ai-agent-engineering/skill-design/ai-agent-skill-registry.md, domains/ai-agent-engineering/skill-design/personal-ai-agent-skill-registry.md, domains/ai-agent-engineering/skill-design/codex-skill-inventory.md, domains/ai-agent-engineering/skill-design/hermes-skill-registry.md, domains/ai-agent-engineering/skill-design/lark-agent-skill-registry.md, domains/ai-agent-engineering/skill-design/openclaw-skill-registry.md, domains/ai-agent-engineering/skill-design/sealseek-skill-registry.md, domains/ai-agent-engineering/skill-design/claude-code-skill-registry.md, index.md, domains/ai-agent-engineering/index.md。
+
+## [2026-06-05] compile | 同步跨 Agent Skill 注册库
+- Updated: `domains/ai-agent-engineering/skill-design/ai-agent-skill-registry.md`
+- Updated: agent-specific skill registry pages under `domains/ai-agent-engineering/skill-design/`
+- Updated: `index.md`
+- Updated: `domains/ai-agent-engineering/index.md`
+- Notes: 扫描系统中 Codex、Hermes、Lark Agent、OpenClaw、SealSeek、Claude Code 的 `SKILL.md`，当前总计 356 个 skill；Codex 16, Hermes 167, Lark Agent 25, OpenClaw 4, SealSeek 118, Claude Code 26。Touched: domains/ai-agent-engineering/skill-design/ai-agent-skill-registry.md, domains/ai-agent-engineering/skill-design/codex-skill-inventory.md, domains/ai-agent-engineering/skill-design/hermes-skill-registry.md, domains/ai-agent-engineering/skill-design/lark-agent-skill-registry.md, domains/ai-agent-engineering/skill-design/openclaw-skill-registry.md, domains/ai-agent-engineering/skill-design/sealseek-skill-registry.md, domains/ai-agent-engineering/skill-design/claude-code-skill-registry.md。
+
 ## [2026-05-22] create | Wiki initialized
 - Path: `/Users/pechen/wiki`
 - Architecture: one vault, multiple domains, shared layer, projects layer.
@@ -246,6 +310,31 @@
 - Updated: `index.md`
 - Notes: 按 course-transcript-to-knowledge skill 将品牌差异化感知系统课程重构为章节化理论路径，重点沉淀免费广告位、心向感知、品类情绪、双品牌差异化案例与记忆感知三标准。
 
+
+## [2026-06-05] compile | 扩展 SealSeek Skill 注册来源
+- Updated: `domains/ai-agent-engineering/skill-design/ai-agent-skill-registry.md`
+- Updated: `domains/ai-agent-engineering/skill-design/sealseek-skill-registry.md`
+- Updated: `domains/ai-agent-engineering/index.md`
+- Updated: `index.md`
+- Notes: 将 SealSeek skill 来源从单一 `/Users/pechen/.sealseek/skill_pool` 扩展为多来源，新增 `/Users/pechen/.sealseek/workspace/skills`、`/Users/pechen/.sealseek/workspaces/default/skills`、`active_skills`、`customized_skills`、`backups`、`/Users/pechen/sealseek`、`/Users/pechen/hermes/xc-sealseek-aicoding-skill`。SealSeek 记录从 12 增至 118；跨 Agent 注册库总量从 249 增至 355。
+
+## [2026-06-05] compile | 跨 Agent Skill 注册库重构
+- Created: `domains/ai-agent-engineering/skill-design/ai-agent-skill-registry.md`
+- Created: `domains/ai-agent-engineering/skill-design/hermes-skill-registry.md`
+- Created: `domains/ai-agent-engineering/skill-design/lark-agent-skill-registry.md`
+- Created: `domains/ai-agent-engineering/skill-design/openclaw-skill-registry.md`
+- Created: `domains/ai-agent-engineering/skill-design/sealseek-skill-registry.md`
+- Created: `domains/ai-agent-engineering/skill-design/claude-code-skill-registry.md`
+- Updated: `domains/ai-agent-engineering/skill-design/codex-skill-inventory.md`
+- Updated: `domains/ai-agent-engineering/index.md`
+- Updated: `index.md`
+- Notes: 将原 Codex 单页清单升级为跨 Agent skill 注册库，按 agent 分类但支持全局检索；覆盖 Codex 15、Hermes 167、Lark Agent 25、OpenClaw 4、SealSeek 12、Claude Code 26，共 249 个 skill，并记录原始 `SKILL.md` 文件位置。
+
+## [2026-06-04] compile | Codex Skill 清单
+- Created: `domains/ai-agent-engineering/skill-design/codex-skill-inventory.md`
+- Updated: `domains/ai-agent-engineering/index.md`
+- Updated: `index.md`
+- Notes: 按名称、功能介绍和输入方式整理 Codex 本地业务 skill 与系统 skill，并明确不同 AI Agent 的 skill 需要分开维护。
 
 ## [2026-06-03] ingest | 品牌视觉记忆感知与可视化体系搭建课程知识重构
 - Source: `raw/transcripts/brand-visual-memory-perception-and-visualization-system-2026-06-03.md`

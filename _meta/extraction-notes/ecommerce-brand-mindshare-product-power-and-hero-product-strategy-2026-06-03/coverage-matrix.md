@@ -1,33 +1,25 @@
 # coverage-matrix
 
-| ID | 类型 | 锚点 | 结果 |
-|---|---|---|---|
-| A01 | anchor | 一人一面 | retained-or-audited |
-| A02 | anchor | 2024-03起盘 | retained-or-audited |
-| A03 | anchor | 2025-05单月破亿 | retained-or-audited |
-| A04 | anchor | 第一年5亿第二年超10亿 | retained-or-audited |
-| A05 | anchor | 49元与69元 | retained-or-audited |
-| A06 | anchor | 50元全佣 | retained-or-audited |
-| A07 | anchor | 娇内5-6年 | retained-or-audited |
-| A08 | anchor | 卡西米尔13亿 | retained-or-audited |
-| A09 | anchor | 复购率40% | retained-or-audited |
-| A10 | anchor | 爆品6-12个月 | retained-or-audited |
-| A11 | anchor | 大单品1-2年 | retained-or-audited |
-| A12 | anchor | 战略级3-10年以上 | retained-or-audited |
-| A13 | anchor | 花样小蛮腰 | retained-or-audited |
+| ID | 类型 | 原文锚点 | 结果 | 目标页 |
+| --- | --- | --- | --- | --- |
+| A01 | trend | 货品型电商进入用户经营型电商 | absorbed | 01 |
+| A02 | method | 开品前用户洞察、研究、访谈 | absorbed | 01 |
+| A03 | concept | 品牌负责吸引，产品负责讨好 | absorbed | 02 |
+| A04 | concept | 心智产品力：产品带着品牌价值传播 | absorbed | 03 |
+| A05 | case | 娇内热皮、凉皮等系列心智 | absorbed | 03,08 |
+| A06 | warning | 消费者认知大于事实 | absorbed | 04 |
+| A07 | case | 泳镜+水下耳机、亚麻内衣负面赛道判断 | absorbed | 04 |
+| A08 | model | 高定价、高佣金、KOC 起盘 | absorbed | 05 |
+| A09 | case | 中式膏方品牌 69 元定价、高佣金、KOC 渠道 | absorbed-with-caution | 05 |
+| A10 | concept | 大单品第一性原理是传播，不是销量 | absorbed | 06 |
+| A11 | method | 爆品、大单品、战略大单品分级 | absorbed | 07 |
+| A12 | method | 商标、关键词、供应链、内容后手 | absorbed | 08 |
+| A13 | method | 非标品英雄系列与固定系列名 | absorbed | 08 |
+| A14 | method | 战略大单品五大价值 | absorbed | 09 |
+| A15 | case | 燕之屋年轻化即食燕窝企划 | absorbed | 10 |
+| A16 | constraint | 组织意识制约大单品落地 | absorbed | 10 |
+| O01 | omission | 课堂回顾、互动、口头重复 | omitted | none |
 
-## omission policy
+## 数字证据处理
 
-- 课堂 logistics -> omitted
-- 讲师履历/闲聊 -> speaker-credential-noise 或 low-knowledge-value
-- 关键案例 / 数字证据 / 方法框架 -> 必须保留或标注 absorbed
-
-## raw-vs-formal omission audit
-
-| 锚点 | 结论 | 说明 |
-|---|---|---|
-| 一人一面 | preserve-now | 已补入平台环境变化章节。 |
-| 5亿 / 10亿 / 49元 / 69元 / 50元 | preserve-now | 已补入起盘模型章节，作为经营结果与佣金结构证据。 |
-| 蕉内 5-6年 | preserve-now | 已补入系列资产章节。 |
-| 卡西米尔 / 13亿 / 40% / 6-12个月 / 3-10年 | preserve-now | 已补入战略价值章节。 |
-| 花样小蛮腰 / BKT / 近岸 | preserve-now | 已补入燕之屋企划章节，作为命名与后手案例。 |
+案例数字保留为经营锚点或背景，不写成普遍可复现结论。涉及品牌销售额、单品销售量、佣金比例等内容，只用于解释案例机制。

@@ -1,5 +1,25 @@
 # segment-knowledge-inventory
 
-本组课程正式输出位置：`domains/brand-strategy/learning-paths/brand-big-single-product-and-product-planning-marketing`
+## 输出知识页
 
-建议按顺序阅读，并把案例、数字与方法分别纳入同一章节，而不是碎片化散落。
+| 页面 | 类型 | 主要知识 |
+| --- | --- | --- |
+| 01 | concept | 大单品企划完整链路 |
+| 02 | case | 燕之屋鲜炖防守和品类封杀 |
+| 03 | case | 燕窝粥早餐场景第二增长曲线 |
+| 04 | concept | 产品矩阵角色分工 |
+| 05 | concept | 差异化与定价权 |
+| 06 | concept | 加体验或减负担 |
+| 07 | concept | 卖点可视化与直播演绎 |
+| 08 | concept | 昵称化命名与消费者语言 |
+| 09 | concept | 爆品心智与分阶段策略 |
+| 10 | playbook | Agent 使用模板 |
+
+## 关键方法资产
+
+1. 大单品企划要先定义战略任务。
+2. 差异化要让用户感知不同，而不是只证明更好。
+3. 创新可以归纳为加体验或减负担。
+4. 卖点要被可视化，并翻译成买点。
+5. 好名字能降低传播和搜索成本。
+6. 爆品心智需要集中重复一个核心卖点，并先验证再放大。
