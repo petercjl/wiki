@@ -25,6 +25,17 @@
 - [[domains/ai-agent-engineering/knowledge-systems/index|知识系统]]：个人知识库、LLM Wiki、Obsidian、知识编译与维护相关方法入口。
 - [[domains/ai-agent-engineering/knowledge-systems/llm-wiki-personal-knowledge-base-operating-loop|LLM Wiki 个人知识库运行闭环]]：用 Ingest / Query / Lint 三个动作，把知识库从“资料堆”变成持续复利的个人知识系统。
 
+## Skill 设计
+
+- [[domains/ai-agent-engineering/skill-design/personal-ai-agent-skill-registry|个人/项目 Skill 注册库]]：只收录 Peter 自己创建、让 Agent 为项目定制、或明显服务于 Peter 项目/业务流程的 skill，是日常检索“有没有类似 skill”的优先入口。
+- [[domains/ai-agent-engineering/skill-design/ai-agent-skill-registry|跨 Agent Skill 注册库]]：统一检索 Codex、Hermes、Lark Agent、OpenClaw、SealSeek、Claude Code 的 skill，定位原始 `SKILL.md` 并判断复用或迁移可能。
+- [[domains/ai-agent-engineering/skill-design/codex-skill-inventory|Codex Skill 注册页]]：Codex 本地业务 skill 与系统 skill 的检索描述、输入方式、关键词和文件位置。
+- [[domains/ai-agent-engineering/skill-design/hermes-skill-registry|Hermes Skill 注册页]]：Hermes 主 skill 目录的检索描述、输入方式、关键词和文件位置。
+- [[domains/ai-agent-engineering/skill-design/lark-agent-skill-registry|Lark Agent Skill 注册页]]：飞书/Lark 相关 skill 的检索描述、输入方式、关键词和文件位置。
+- [[domains/ai-agent-engineering/skill-design/openclaw-skill-registry|OpenClaw Skill 注册页]]：OpenClaw workspace skill 的检索描述、输入方式、关键词和文件位置。
+- [[domains/ai-agent-engineering/skill-design/sealseek-skill-registry|SealSeek Skill 注册页]]：SealSeek 多来源 skill 的检索描述、输入方式、关键词和文件位置，覆盖 skill_pool、workspace、active/customized、standalone 和迁移包。
+- [[domains/ai-agent-engineering/skill-design/claude-code-skill-registry|Claude Code Skill 注册页]]：Claude Code plugin marketplace skill 的检索描述、输入方式、关键词和文件位置。
+
 ## Toolchain
 
 - [[domains/ai-agent-engineering/toolchain/openai-image-generation-api|OpenAI 图像生成 API 集成指南]]：Image API 与 Responses API 的选择、参数、编辑、流式、错误处理和成本判断。

@@ -1,28 +1,21 @@
 # coverage-matrix
 
-| ID | 类型 | 锚点 | 结果 |
-|---|---|---|---|
-| A01 | anchor | 115度高温杀菌 | retained-or-audited |
-| A02 | anchor | 1.8倍燕窝酸消化率 | retained-or-audited |
-| A03 | anchor | 人群重合度0.94 | retained-or-audited |
-| A04 | anchor | 当年1亿体量 | retained-or-audited |
-| A05 | anchor | 100天免费试睡 | retained-or-audited |
-| A06 | anchor | 40元到140元 | retained-or-audited |
-| A07 | anchor | 入睡时间缩短49% | retained-or-audited |
-| A08 | anchor | 深睡时长增加38.1% | retained-or-audited |
-| A09 | anchor | 一部手机价格换十年百变睡眠 | retained-or-audited |
+| ID | 类型 | 原文锚点 | 结果 | 目标页 |
+| --- | --- | --- | --- | --- |
+| A01 | method | 大单品企划从战略目标到用户验证 | absorbed | 01 |
+| A02 | case | 燕之屋用新一代鲜炖燕窝封杀对手 | absorbed | 02 |
+| A03 | evidence | 115 度高温杀菌、1.8 倍燕窝酸消化率 | absorbed-with-caution | 02 |
+| A04 | case | 小燕农燕窝粥、早餐场景、今晨吃什么 | absorbed | 03 |
+| A05 | method | 即食/鲜炖/燕窝粥/干燕窝产品矩阵分工 | absorbed | 04 |
+| A06 | concept | 预期更好，不如不同 | absorbed | 05 |
+| A07 | method | 差异化围绕人群、场景、感官体验 | absorbed | 05 |
+| A08 | method | 加体验或减负担 | absorbed | 06 |
+| A09 | method | 卖点可视化、直播演绎、卖点转买点 | absorbed | 07 |
+| A10 | method | 昵称化、消费者语言、品牌词搜索 | absorbed | 08 |
+| A11 | method | 爆品心智三前提：市场宽、消费者语言、原点人群 | absorbed | 09 |
+| A12 | method | 先用户洞察和验证，再打样、包装、内容测试和放大 | absorbed | 09 |
+| O01 | omission | 领书、课间、现场提醒 | omitted | none |
 
-## omission policy
+## 数字证据处理
 
-- 课堂 logistics -> omitted
-- 讲师履历/闲聊 -> speaker-credential-noise 或 low-knowledge-value
-- 关键案例 / 数字证据 / 方法框架 -> 必须保留或标注 absorbed
-
-## raw-vs-formal omission audit
-
-| 锚点 | 结论 | 说明 |
-|---|---|---|
-| 115度 / 1.8倍 | preserve-now | 已补入燕之屋防守章节，作为传播卖点证据。 |
-| 0.94 / 1亿 | preserve-now | 已补入第二增长曲线章节，作为延伸方向成立证据。 |
-| 100天免费试睡 / 40元 / 140元 | preserve-now | 已补入减负担章节，作为价格带重塑案例。 |
-| 49% / 38.1% / 一部手机价格换十年百变睡眠 | preserve-now | 已补入卖点可视化章节，作为证据型表达。 |
+燕窝粥 3 个月引爆、当年 1 亿体量、床垫入睡时间和深睡时长等数字仅作为案例锚点，不作为通用预测。
