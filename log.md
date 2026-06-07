@@ -3,6 +3,17 @@
 > Chronological record of all wiki actions. Append-only.
 > Format: `## [YYYY-MM-DD] action | subject`
 
+## [2026-06-07] update | OpenAI image generation API example extraction
+- Updated: `domains/ai-agent-engineering/toolchain/openai-image-generation-api.md`
+- Source: `raw/webpages/openai/openai-image-generation-api-2026-06-07.md`
+- Notes: 补充原文中的代码模板、案例索引、多轮生成、流式 partial images、参考图输入、File ID/base64、mask 编辑、revised prompt、安全错误处理和示例价格表，避免正式页只保留决策摘要。
+
+## [2026-06-07] audit | OpenAI image generation API coverage rerun
+- Source: `raw/webpages/openai/openai-image-generation-api-2026-06-07.md`
+- Created: `_meta/extraction-notes/openai-image-generation-api-2026-06-07/coverage-checklist.md`
+- Updated: `domains/ai-agent-engineering/toolchain/openai-image-generation-api.md`
+- Notes: 按更新后的无遗漏入库标准重跑覆盖审计，并用 OpenAI 官方 docs MCP 补回 raw clipping 未捕获的 JS/curl/CLI 与 Image API direct edit/stream 示例；gallery/decorative images 标为 raw-only。
+
 ## [2026-06-07] ingest | Clippings batch: OpenAI image generation API
 - Source: `raw/webpages/openai/openai-image-generation-api-2026-06-07.md`
 - Created: `domains/ai-agent-engineering/toolchain/openai-image-generation-api.md`
