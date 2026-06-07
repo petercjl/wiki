@@ -25,6 +25,10 @@
 - [[domains/ai-agent-engineering/knowledge-systems/index|知识系统]]：个人知识库、LLM Wiki、Obsidian、知识编译与维护相关方法入口。
 - [[domains/ai-agent-engineering/knowledge-systems/llm-wiki-personal-knowledge-base-operating-loop|LLM Wiki 个人知识库运行闭环]]：用 Ingest / Query / Lint 三个动作，把知识库从“资料堆”变成持续复利的个人知识系统。
 
+## Toolchain
+
+- [[domains/ai-agent-engineering/toolchain/openai-image-generation-api|OpenAI 图像生成 API 集成指南]]：Image API 与 Responses API 的选择、参数、编辑、流式、错误处理和成本判断。
+
 ## 关联共享页面
 
 - [[shared/knowledge-management/llm-wiki|LLM Wiki 个人知识库]]：LLM Wiki 的总模式说明。

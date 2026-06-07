@@ -1,8 +1,8 @@
 # Wiki Index
 
 > Content catalog. Every formal wiki page should be listed here.
-> Last updated: 2026-06-03
-> Total formal pages: 122
+> Last updated: 2026-06-07
+> Total formal pages: 123
 
 ## Domains
 
@@ -19,6 +19,10 @@
 - [[domains/ai-agent-engineering/knowledge-systems/llm-wiki-personal-knowledge-base-operating-loop|LLM Wiki 个人知识库运行闭环]]：围绕 Ingest、Query、Lint 形成知识复利的运行闭环与落地动作。
 - [[shared/ai-agent-workflows/index|AI Agent 共享工作流]]：多 Agent 协作、提示词、工具链和自动化流程。
 - [[shared/business-frameworks/marketing-theory-for-ecommerce-images|营销学理论在电商图片中的应用]]：将 FABE、USP、STP、AIDA 等营销理论转化为电商图片策划、视觉表达和 AI 生图提示词的方法论。
+
+## AI Agent Engineering
+
+- [[domains/ai-agent-engineering/toolchain/openai-image-generation-api|OpenAI 图像生成 API 集成指南]]：Image API 与 Responses API 的选择、参数、编辑、流式、错误处理和成本判断。
 
 ## Projects
 
