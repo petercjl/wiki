@@ -3,6 +3,14 @@
 > Chronological record of all wiki actions. Append-only.
 > Format: `## [YYYY-MM-DD] action | subject`
 
+## [2026-06-07] ingest | Clippings batch: OpenAI image generation API
+- Source: `raw/webpages/openai/openai-image-generation-api-2026-06-07.md`
+- Created: `domains/ai-agent-engineering/toolchain/openai-image-generation-api.md`
+- Updated: `domains/ai-agent-engineering/index.md`
+- Updated: `index.md`
+- Cleaned: `Clippings/Image generation  OpenAI API.md`
+- Notes: 使用 wiki-clippings-ingest 的 Product / Tool Documentation profile，并用 OpenAI 官方 docs MCP 校验当前图像生成文档，将剪藏编译为 API 选择、参数、编辑、流式、错误处理和成本判断指南。
+
 ## [2026-05-22] create | Wiki initialized
 - Path: `/Users/pechen/wiki`
 - Architecture: one vault, multiple domains, shared layer, projects layer.
