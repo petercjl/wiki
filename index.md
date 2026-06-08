@@ -1,8 +1,8 @@
 # Wiki Index
 
 > Content catalog. Every formal wiki page should be listed here.
-> Last updated: 2026-06-07
-> Total formal pages: 131
+> Last updated: 2026-06-08
+> Total formal pages: 159
 
 ## Domains
 
@@ -32,6 +32,23 @@
 - [[domains/ai-agent-engineering/skill-design/claude-code-skill-registry|Claude Code Skill 注册页]]：Claude Code plugin marketplace skill 的检索描述、输入方式、关键词和文件位置。
 - [[domains/ai-agent-engineering/toolchain/openai-image-generation-api|OpenAI 图像生成 API 集成指南]]：Image API 与 Responses API 的选择、参数、编辑、流式、错误处理和成本判断。
 
+## Visual Production
+
+- [[domains/visual-production/ai-video/doubao-seedance-2-0|Doubao-Seedance-2.0 视频生成模型卡]]：火山方舟 Seedance 2.0 的模型 ID、能力、价格快照、API 入口、限制和三类 demo prompt 模式。
+- [[domains/visual-production/visual-styles|AI 生图风格库]]：按“每个风格一个目录”组织风格定义、playbook 和参考图索引，避免多风格资料平铺混乱。
+- [[domains/visual-production/visual-styles/minimal-scandinavian|极简北欧风]]：把北欧极简拆成色彩、材质、光线、空间、构图和边界，供 AI 生图稳定复现。
+- [[domains/visual-production/visual-styles/minimal-scandinavian/playbook|极简北欧风 AI 生图 Playbook]]：面向产品图的 prompt 骨架、场景配方、负向约束、参考图权重和 QA 清单。
+- [[domains/visual-production/visual-styles/minimal-scandinavian/reference-gallery|极简北欧风参考图索引]]：记录用户产品图、站酷空间图和衍生图位 prompt 的调用方式。
+- [[queries/minimal-scandinavian-image-generation|极简北欧风生图查询入口]]：Agent 生成、改写或审核极简北欧风图片前的读取入口。
+- [[domains/visual-production/visual-styles/minimal-scandinavian/variants/shanju-light-kitchen-living|杉居轻厨房生活风]]：极简北欧风的杉居品牌变体，围绕厨房工具、室内厨房、露台庭院和户外轻料理建立品牌化生图规则。
+- [[domains/visual-production/visual-styles/minimal-scandinavian/variants/shanju-light-kitchen-living/moodboard-analysis|杉居情绪板解析]]：解析杉居情绪板中的文字、空间、人物、橘猫、色彩和室内厨房基准。
+- [[domains/visual-production/visual-styles/minimal-scandinavian/variants/shanju-light-kitchen-living/brand-style-system|杉居品牌风格系统]]：沉淀杉居的心向感知、ABC 视觉分层、场景到情景表达和功能卖点转译。
+- [[domains/visual-production/visual-styles/minimal-scandinavian/variants/shanju-light-kitchen-living/visual-worldbook|杉居视觉世界观]]：按空间、人物、元素、版式四模块规定室内厨房、露台庭院和户外轻料理画面规则。
+- [[domains/visual-production/visual-styles/minimal-scandinavian/variants/shanju-light-kitchen-living/playbook|杉居轻厨房生活风生图 Playbook]]：为杉居厨房工具、烧烤盘、调味罐和餐厨小物生成品牌图的 prompt 与 QA。
+- [[domains/visual-production/visual-styles/minimal-scandinavian/variants/shanju-light-kitchen-living/copywriting-voice|杉居文案语气]]：杉居短句、轻声、中英文混排、室内厨房和户外轻料理文案规则。
+- [[domains/visual-production/visual-styles/minimal-scandinavian/variants/shanju-light-kitchen-living/reference-gallery|杉居参考图索引]]：杉居情绪板和未来素材分组、参考权重。
+- [[queries/shanju-light-kitchen-living-image-generation|杉居轻厨房生活风生图查询入口]]：Agent 生成、改写或审核杉居品牌风格图片前的读取入口。
+
 ## Projects
 
 - [[projects/sealseek/index|SealSeek 项目知识]]：SealSeek 产品、功能、文档、技能和交付知识。
@@ -49,6 +66,7 @@
 <!-- ecommerce-consulting-logic:start -->
 ## Ecommerce Ops
 
+- [[domains/ecommerce-ops/finance-accounting/ecommerce-platform-settlement-accounting|电商平台结算时间口径财务核算方法]]：基于三份 XMind 重构的财务核算 playbook，覆盖平台结算口径、快麦成本匹配、保证金、特殊账户、推广费和五个平台账单核对。
 - [[domains/ecommerce-ops/learning-paths/consulting-logic|咨询逻辑：电商企业辅导与咨询交付体系]]：章节目录，按电商企业辅导形势、咨询底层逻辑、谈单带教、满意度、交付体系和专业认知模型组织。
 - [[domains/ecommerce-ops/learning-paths/consulting-logic/01-current-ecommerce-consulting-context|01｜当下的电商企业辅导整体形势]]
 - [[domains/ecommerce-ops/learning-paths/consulting-logic/02-enterprise-consultant-definition|02｜企业咨询师的定义与底层任务]]
@@ -193,3 +211,21 @@
 ## Decisions
 
 ## Playbooks
+
+<!-- taobao-operation-quick-guide:start -->
+## Taobao Operation Book
+
+- [[domains/ecommerce-ops/learning-paths/taobao-operation-quick-guide-81-rules|淘宝运营速成指南：电商军规81讲]]：基于贾真 2018 年图书重构的淘宝店铺运营方法路径。
+- [[domains/ecommerce-ops/learning-paths/taobao-operation-quick-guide-81-rules/01-taobao-operator-strategic-mindset|淘宝运营者的战略心智与经营军规]]
+- [[domains/ecommerce-ops/learning-paths/taobao-operation-quick-guide-81-rules/02-category-positioning-and-product-selection|类目定位、选品与人群切分]]
+- [[domains/ecommerce-ops/learning-paths/taobao-operation-quick-guide-81-rules/03-product-development-and-new-product-testing|新品开发、测款与赛马期]]
+- [[domains/ecommerce-ops/learning-paths/taobao-operation-quick-guide-81-rules/04-search-title-and-keyword-operations|搜索、标题与关键词运营]]
+- [[domains/ecommerce-ops/learning-paths/taobao-operation-quick-guide-81-rules/05-main-image-detail-page-and-selling-point-planning|主图、详情页与卖点策划]]
+- [[domains/ecommerce-ops/learning-paths/taobao-operation-quick-guide-81-rules/06-paid-traffic-and-channel-operations|付费流量与渠道运营]]
+- [[domains/ecommerce-ops/learning-paths/taobao-operation-quick-guide-81-rules/07-customer-service-private-domain-and-repurchase|客服、私域与老客户复购]]
+- [[domains/ecommerce-ops/learning-paths/taobao-operation-quick-guide-81-rules/08-promotion-pricing-and-major-campaigns|促销、定价、价格战与大促]]
+- [[domains/ecommerce-ops/learning-paths/taobao-operation-quick-guide-81-rules/09-supply-chain-warehouse-and-finance|供应链、仓储与财务控制]]
+- [[domains/ecommerce-ops/learning-paths/taobao-operation-quick-guide-81-rules/10-team-organization-and-performance|团队组织、招聘与绩效管理]]
+- [[domains/ecommerce-ops/learning-paths/taobao-operation-quick-guide-81-rules/11-taobao-operation-success-model|淘宝运营成功模型：六部曲]]
+- [[domains/ecommerce-ops/learning-paths/taobao-operation-quick-guide-81-rules/12-agent-usage-template|Agent 使用模板：淘宝店铺运营诊断]]
+<!-- taobao-operation-quick-guide:end -->
