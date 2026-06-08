@@ -1,7 +1,75 @@
+## [2026-06-08] ingest | 淘宝运营速成指南：电商军规81讲
+- Source: `raw/books/taobao-operation-quick-guide-81-rules-2018/source.epub`
+- Adapter: `llm-wiki-ingest/adapters/book.md`
+- Created: `raw/books/taobao-operation-quick-guide-81-rules-2018/` raw EPUB archive and 88 extracted chapter files.
+- Created: `_meta/extraction-notes/taobao-operation-quick-guide-81-rules-2018/` source profile, source inventory, segment plan, chapter inventory, knowledge-unit inventory, coverage matrix, omission audit, formal page plan, source-to-page map, and audit handoff.
+- Created: `domains/ecommerce-ops/learning-paths/taobao-operation-quick-guide-81-rules/` index and 12 formal method pages.
+- Updated: `domains/ecommerce-ops/index.md`
+- Updated: `index.md`
+- Notes: 将 2018 年淘宝平台工具和排名规则标为历史语境/待当前复核；正式页沉淀定位、选品、搜索、视觉、流量、客服、促销、供应链、财务、团队和六部曲成功模型。
+
 # Wiki Log
 
 > Chronological record of all wiki actions. Append-only.
 > Format: `## [YYYY-MM-DD] action | subject`
+
+## [2026-06-08] ingest | 杉居轻厨房生活风品牌变体
+- Source asset: `raw/assets/visual-style/minimal-scandinavian/variants/shanju-light-kitchen-living/shanju-moodboard.png`
+- Source draft: `inbox/notes/shanju-brand-style-variant-draft-2026-06-08.md`
+- Created: `_meta/extraction-notes/shanju-light-kitchen-living-2026-06-08/`
+- Created: `domains/visual-production/visual-styles/minimal-scandinavian/variants/shanju-light-kitchen-living/index.md`
+- Created: `domains/visual-production/visual-styles/minimal-scandinavian/variants/shanju-light-kitchen-living/moodboard-analysis.md`
+- Created: `domains/visual-production/visual-styles/minimal-scandinavian/variants/shanju-light-kitchen-living/brand-style-system.md`
+- Created: `domains/visual-production/visual-styles/minimal-scandinavian/variants/shanju-light-kitchen-living/visual-worldbook.md`
+- Created: `domains/visual-production/visual-styles/minimal-scandinavian/variants/shanju-light-kitchen-living/playbook.md`
+- Created: `domains/visual-production/visual-styles/minimal-scandinavian/variants/shanju-light-kitchen-living/copywriting-voice.md`
+- Created: `domains/visual-production/visual-styles/minimal-scandinavian/variants/shanju-light-kitchen-living/reference-gallery.md`
+- Created: `queries/shanju-light-kitchen-living-image-generation.md`
+- Updated: `domains/visual-production/visual-styles/index.md`
+- Updated: `domains/visual-production/visual-styles/minimal-scandinavian/index.md`
+- Updated: `domains/visual-production/index.md`
+- Updated: `index.md`
+- Notes: 将杉居情绪板与品牌策略推演正式入库为极简北欧风的品牌变体。核心定义为“厨房工具跨室内厨房、露台、庭院、野餐和户外轻料理的北欧轻生活品牌风格”，重点保留浅蓝衬衫女性、橘猫、烧烤盘、调味罐、自然光、鼠尾草绿小物和 `live gently.` 文案系统，并明确排除粗犷露营、夜市烧烤、重烟雾油脂和强促销方向。
+
+## [2026-06-08] ingest | 极简北欧风 AI 生图风格库
+- Source: `raw/webpages/visual-style/minimal-scandinavian-style-image-generation-2026-06-08.md`
+- Source: `raw/webpages/visual-style/minimal-scandinavian-web-research-2026-06-08.md`
+- Assets: `raw/assets/visual-style/minimal-scandinavian/user-product-references/`
+- Assets: `raw/assets/visual-style/minimal-scandinavian/zcool-case/`
+- Created: `_meta/extraction-notes/minimal-scandinavian-style-image-generation-2026-06-08/`
+- Created: `domains/visual-production/visual-styles/minimal-scandinavian/index.md`
+- Created: `domains/visual-production/visual-styles/minimal-scandinavian/playbook.md`
+- Created: `domains/visual-production/visual-styles/minimal-scandinavian/reference-gallery.md`
+- Created: `queries/minimal-scandinavian-image-generation.md`
+- Updated: `domains/visual-production/index.md`
+- Updated: `index.md`
+- Notes: 将站酷“极简北欧风”剪藏、7 张用户产品参考图、25 张站酷案例/相关图和联网理论资料编译成面向 AI 生图的风格知识库，重点沉淀色彩、材质、光线、空间、构图、负向约束、参考图权重和 prompt 模板。生成扩展参考图时生图服务返回服务端错误，本次改为保留可复现 prompt 样例。
+
+## [2026-06-08] refactor | AI 生图风格库目录结构
+- Created: `domains/visual-production/visual-styles/index.md`
+- Moved: `domains/visual-production/visual-styles/minimal-scandinavian-style.md` -> `domains/visual-production/visual-styles/minimal-scandinavian/index.md`
+- Moved: `domains/visual-production/visual-styles/minimal-scandinavian-image-generation-playbook.md` -> `domains/visual-production/visual-styles/minimal-scandinavian/playbook.md`
+- Moved: `domains/visual-production/visual-styles/minimal-scandinavian-reference-gallery.md` -> `domains/visual-production/visual-styles/minimal-scandinavian/reference-gallery.md`
+- Updated: `domains/visual-production/index.md`
+- Updated: `index.md`
+- Updated: `queries/minimal-scandinavian-image-generation.md`
+- Notes: 将风格库从平铺文件改为“每个风格一个目录”的结构，固定 `index.md`、`playbook.md`、`reference-gallery.md` 三件套，便于后续增加更多视觉风格。
+
+## [2026-06-08] ingest | 电商平台结算时间口径财务核算 XMind
+- Source: `raw/data/ecommerce-platform-settlement-accounting-xmind-2026-02-06/`
+- Created: `_meta/extraction-notes/ecommerce-platform-settlement-accounting-xmind-2026-02-06/` note set
+- Created: `domains/ecommerce-ops/finance-accounting/ecommerce-platform-settlement-accounting.md`
+- Updated: `domains/ecommerce-ops/index.md`
+- Updated: `index.md`
+- Notes: 使用 `llm-wiki-ingest` 的 XMind adapter 处理三份核算方法 XMind。先识别淘宝 2.6 为 101 节点 superset，再将碎片重构为平台结算时间确认收入、快麦成本匹配、保证金/特殊账户/推广费处理和抖音、拼多多、小红书、视频号、淘宝平台核对方法。28 个截图节点已归档并标记为待 OCR/视觉审计。
+
+## [2026-06-07] ingest | 火山方舟 Doubao-Seedance-2.0 控制台 clipping
+- Source: `raw/webpages/volcengine/volcengine-ark-doubao-seedance-2-0-2026-06-07.md`
+- Created: `_meta/extraction-notes/volcengine-ark-doubao-seedance-2-0-2026-06-07/` note set
+- Created: `domains/visual-production/ai-video/doubao-seedance-2-0.md`
+- Updated: `domains/visual-production/index.md`
+- Updated: `index.md`
+- Notes: 使用新的 `llm-wiki-ingest` 覆盖契约处理 clipping，保留模型 ID、API endpoint、价格快照、分辨率/帧率、任务类型、能力说明和三段 demo prompt；将无标签数值标记为 unresolved，并生成 audit handoff 供质检 skill 继续检查。
 
 ## [2026-06-07] update | OpenAI image generation API example extraction
 - Updated: `domains/ai-agent-engineering/toolchain/openai-image-generation-api.md`

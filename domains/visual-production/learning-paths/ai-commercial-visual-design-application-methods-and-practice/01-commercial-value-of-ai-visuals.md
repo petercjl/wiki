@@ -4,7 +4,10 @@ type: concept
 created: 2026-06-03
 updated: 2026-06-03
 domain: visual-production
-tags: [visual-production, business-analysis, workflow]
+tags:
+  - visual-production
+  - business-analysis
+  - workflow
 sources:
   - raw/transcripts/ai-commercial-visual-design-application-methods-and-practice-2026-06-03.md
 status: active

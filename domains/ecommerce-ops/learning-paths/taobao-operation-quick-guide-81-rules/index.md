@@ -1,0 +1,47 @@
+---
+title: 淘宝运营速成指南：电商军规81讲
+type: source-summary
+created: 2026-06-08
+updated: 2026-06-08
+domain: ecommerce-ops
+tags: [ecommerce, taobao, book, learning-path]
+sources:
+  - raw/books/taobao-operation-quick-guide-81-rules-2018/source.epub
+  - _meta/extraction-notes/taobao-operation-quick-guide-81-rules-2018/coverage-matrix.md
+status: active
+---
+# 淘宝运营速成指南：电商军规81讲
+
+这组页面来自贾真《淘宝运营速成指南：电商军规81讲》（电子工业出版社，2018）。它不是读书摘要，而是把书中关于淘宝店铺经营、商品、搜索、视觉、流量、客服、促销、供应链、财务和团队的经验，编译成可被 Agent 调用的电商运营方法路径。
+
+## 使用边界
+
+- 书中大量平台工具和规则来自 2018 年淘宝语境。正式页保留它们背后的运营逻辑，但不把历史规则当成当前事实。
+- 任何涉及搜索排序、直通车/钻展、淘客、达人、直播、活动报名、生意参谋指标口径的执行动作，都需要用当前淘宝/天猫后台或官方文档复核。
+- 本路径适合做经营诊断、方法回忆、运营方案拆解，不适合直接生成当前平台 SOP。
+
+## 阅读顺序
+
+1. [[01-taobao-operator-strategic-mindset|淘宝运营者的战略心智与经营军规]] — 从亲力亲为、专注、守正出奇、风险控制到品牌化，沉淀经营者心智。
+2. [[02-category-positioning-and-product-selection|类目定位、选品与人群切分]] — 把定位、数据选品、人群切分、单点卖点和降维竞争重构为选品方法。
+3. [[03-product-development-and-new-product-testing|新品开发、测款与赛马期]] — 把新品权重、赛马期、测款、爆旺平滞和产品迭代沉淀为新品流程。
+4. [[04-search-title-and-keyword-operations|搜索、标题与关键词运营]] — 把标题优化、淘宝搜索、关键词权重和数据异常诊断沉淀为搜索运营框架。
+5. [[05-main-image-detail-page-and-selling-point-planning|主图、详情页与卖点策划]] — 把主图点击、详情页策划、卖点表达和图片绩效沉淀为视觉转化方法。
+6. [[06-paid-traffic-and-channel-operations|付费流量与渠道运营]] — 把直通车、钻展、淘客、达人、直播和内容营销沉淀为渠道选择与投放原则。
+7. [[07-customer-service-private-domain-and-repurchase|客服、私域与老客户复购]] — 把服务体验、售前客服、老客户维护和微信策略沉淀为顾客经营方法。
+8. [[08-promotion-pricing-and-major-campaigns|促销、定价、价格战与大促]] — 把促销关联、定价、价格战、双11 和营销工具选择沉淀为价格与活动策略。
+9. [[09-supply-chain-warehouse-and-finance|供应链、仓储与财务控制]] — 把供应链、仓库发货、财务、成本和包裹价值沉淀为后端运营方法。
+10. [[10-team-organization-and-performance|团队组织、招聘与绩效管理]] — 把招聘、团队管理、客服绩效、美工绩效和刻意练习沉淀为组织方法。
+11. [[11-taobao-operation-success-model|淘宝运营成功模型：六部曲]] — 把榴梿定位、开车理论、佛系运营、赛马思维、刻意练习、荷叶原理重构为全书模型。
+12. [[12-agent-usage-template|Agent 使用模板：淘宝店铺运营诊断]] — 给未来 Agent 使用本 learning path 诊断店铺运营问题的入口。
+
+## Agent 使用方式
+
+先读 [[12-agent-usage-template|Agent 使用模板]] 判断问题属于定位、商品、搜索、视觉、流量、客服、促销、供应链、财务还是团队，再进入对应方法页。需要做品牌或视觉判断时，同时参考 [[shared/business-frameworks/marketing-theory-for-ecommerce-images|营销学理论在电商图片中的应用]]；需要做当前营销工具选择时，同时参考 [[domains/ecommerce-ops/playbooks/taobao-marketing-tool-selection|淘宝营销工具选择 Playbook]]。
+
+## 来源与覆盖
+
+- 覆盖来源章节：ch032 第2篇 运营技巧
+- 覆盖单元示例：ch032-U01
+- 完整覆盖矩阵：`_meta/extraction-notes/taobao-operation-quick-guide-81-rules-2018/coverage-matrix.md`
+- 时间边界：本书出版于 2018 年，平台工具、搜索排序、活动规则和投放产品必须按当前淘宝/天猫官方规则复核。

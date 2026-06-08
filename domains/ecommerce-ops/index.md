@@ -12,6 +12,10 @@
 - [[domains/ecommerce-ops/api/wangdian/capability-map|旺店通 API 能力地图]]：按订单、库存、货品、基础、售后、采购整理接口能力，并映射到 AI 自动化需求。
 - [[domains/ecommerce-ops/api/wangdian/skill-building-guide|旺店通 API Skill 创建指南]]：用旺店通 API 创建查询、导出和 ERP 操作 skill 的设计流程。
 
+## 财务核算
+
+- [[domains/ecommerce-ops/finance-accounting/ecommerce-platform-settlement-accounting|电商平台结算时间口径财务核算方法]]：将 XMind 碎片重构为平台结算时间确认收入、快麦成本匹配、保证金/特殊账户/推广费处理和五个平台账单核对 playbook。
+
 <!-- consulting-logic:start -->
 ## 电商企业咨询与交付
 
@@ -23,3 +27,21 @@
 - [[domains/ecommerce-ops/learning-paths/consulting-logic/07-professional-system-and-gene-models|专业体系与基因模型]]
 - [[domains/ecommerce-ops/learning-paths/consulting-logic/11-agent-usage-template|Agent 使用模板：电商企业咨询诊断]]
 <!-- consulting-logic:end -->
+
+<!-- taobao-operation-quick-guide:start -->
+## 淘宝运营学习路径
+
+- [[domains/ecommerce-ops/learning-paths/taobao-operation-quick-guide-81-rules|淘宝运营速成指南：电商军规81讲]]：基于贾真 2018 年图书重构的淘宝店铺运营 learning path，覆盖定位、选品、搜索、视觉、流量、客服、促销、供应链、财务、团队和成功模型。
+- [[domains/ecommerce-ops/learning-paths/taobao-operation-quick-guide-81-rules/01-taobao-operator-strategic-mindset|淘宝运营者的战略心智与经营军规]]
+- [[domains/ecommerce-ops/learning-paths/taobao-operation-quick-guide-81-rules/02-category-positioning-and-product-selection|类目定位、选品与人群切分]]
+- [[domains/ecommerce-ops/learning-paths/taobao-operation-quick-guide-81-rules/03-product-development-and-new-product-testing|新品开发、测款与赛马期]]
+- [[domains/ecommerce-ops/learning-paths/taobao-operation-quick-guide-81-rules/04-search-title-and-keyword-operations|搜索、标题与关键词运营]]
+- [[domains/ecommerce-ops/learning-paths/taobao-operation-quick-guide-81-rules/05-main-image-detail-page-and-selling-point-planning|主图、详情页与卖点策划]]
+- [[domains/ecommerce-ops/learning-paths/taobao-operation-quick-guide-81-rules/06-paid-traffic-and-channel-operations|付费流量与渠道运营]]
+- [[domains/ecommerce-ops/learning-paths/taobao-operation-quick-guide-81-rules/07-customer-service-private-domain-and-repurchase|客服、私域与老客户复购]]
+- [[domains/ecommerce-ops/learning-paths/taobao-operation-quick-guide-81-rules/08-promotion-pricing-and-major-campaigns|促销、定价、价格战与大促]]
+- [[domains/ecommerce-ops/learning-paths/taobao-operation-quick-guide-81-rules/09-supply-chain-warehouse-and-finance|供应链、仓储与财务控制]]
+- [[domains/ecommerce-ops/learning-paths/taobao-operation-quick-guide-81-rules/10-team-organization-and-performance|团队组织、招聘与绩效管理]]
+- [[domains/ecommerce-ops/learning-paths/taobao-operation-quick-guide-81-rules/11-taobao-operation-success-model|淘宝运营成功模型：六部曲]]
+- [[domains/ecommerce-ops/learning-paths/taobao-operation-quick-guide-81-rules/12-agent-usage-template|Agent 使用模板：淘宝店铺运营诊断]]
+<!-- taobao-operation-quick-guide:end -->
