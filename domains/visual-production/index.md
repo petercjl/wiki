@@ -30,3 +30,7 @@
 ## AI 视频工具与模型
 
 - [[domains/visual-production/ai-video/doubao-seedance-2-0|Doubao-Seedance-2.0 视频生成模型卡]]：火山方舟 Seedance 2.0 的模型 ID、能力、价格快照、API 入口、限制和三类 demo prompt 模式。
+
+## 品牌视觉：可复制的电商视觉终极玩法
+
+- [[domains/visual-production/learning-paths/brand-visual-repeatable-ecommerce-visual-playbook|品牌视觉：可复制的电商视觉终极玩法]]：基于朱华杰 2018 年书籍重构的电商品牌视觉标准化 learning path，覆盖团队协作、三大视觉系统、品牌定位、12 项视觉标准、记忆符号、摄影包装触点和 Agent 诊断模板。

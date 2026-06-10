@@ -1,3 +1,15 @@
+
+## [2026-06-10] ingest | 品牌视觉：可复制的电商视觉终极玩法
+- Source: `raw/books/brand-visual-repeatable-ecommerce-visual-playbook-2018/source.epub`
+- Adapter: `llm-wiki-ingest/adapters/book.md`
+- Created: `raw/books/brand-visual-repeatable-ecommerce-visual-playbook-2018/` raw EPUB archive with 46 extracted chapter files and 249 image assets.
+- Created: `_meta/extraction-notes/brand-visual-repeatable-ecommerce-visual-playbook-2018/` source profile, source inventory, segment plan, knowledge architecture plan, chapter inventory, knowledge-unit inventory, coverage matrix, omission audit, source-to-page map, formal page plan, and audit handoff.
+- Created: `domains/visual-production/learning-paths/brand-visual-repeatable-ecommerce-visual-playbook/` index and 8 formal pages.
+- Updated: `domains/visual-production/index.md`
+- Updated: `domains/brand-strategy/index.md`
+- Updated: `index.md`
+- Notes: 将朱华杰 2018 年电商品牌视觉书籍重构为视觉标准化 learning path，覆盖老板/运营/美工协作、品牌视觉/产品视觉/营销视觉三系统、差异化与统一、12 项品牌视觉标准、记忆符号、摄影包装接触点和 Agent 诊断模板；淘宝/天猫平台工具名均按历史语境处理。
+
 ## [2026-06-08] ingest | 淘宝运营速成指南：电商军规81讲
 - Source: `raw/books/taobao-operation-quick-guide-81-rules-2018/source.epub`
 - Adapter: `llm-wiki-ingest/adapters/book.md`
