@@ -34,6 +34,17 @@
 
 ## Visual Production
 
+- [[domains/visual-production/learning-paths/brand-visual-repeatable-ecommerce-visual-playbook|品牌视觉：可复制的电商视觉终极玩法]]：基于朱华杰 2018 年书籍重构的电商品牌视觉标准化 learning path，覆盖团队协作、三大视觉系统、品牌定位、12 项视觉标准、记忆符号、摄影包装触点和 Agent 诊断模板。
+- [[domains/visual-production/learning-paths/brand-visual-repeatable-ecommerce-visual-playbook/01-visual-standardization-for-ecommerce-teams|01｜视觉标准化如何解决电商团队内耗]]
+- [[domains/visual-production/learning-paths/brand-visual-repeatable-ecommerce-visual-playbook/02-three-visual-systems-click-conversion-repurchase|02｜品牌视觉、产品视觉、营销视觉三系统]]
+- [[domains/visual-production/learning-paths/brand-visual-repeatable-ecommerce-visual-playbook/03-brand-positioning-differentiation-and-unity|03｜品牌定位：差异化与统一]]
+- [[domains/visual-production/learning-paths/brand-visual-repeatable-ecommerce-visual-playbook/04-brand-visual-identity-standard-system|04｜品牌视觉 12 项标准系统]]
+- [[domains/visual-production/learning-paths/brand-visual-repeatable-ecommerce-visual-playbook/05-visual-memory-symbols-and-repetition|05｜视觉记忆符号与重复机制]]
+- [[domains/visual-production/learning-paths/brand-visual-repeatable-ecommerce-visual-playbook/06-photography-packaging-and-touchpoint-standards|06｜摄影、包装与接触点标准]]
+- [[domains/visual-production/learning-paths/brand-visual-repeatable-ecommerce-visual-playbook/07-case-library-kabei-taobrands-and-small-sellers|07｜案例库：卡贝、淘品牌与中小卖家]]
+- [[domains/visual-production/learning-paths/brand-visual-repeatable-ecommerce-visual-playbook/08-agent-usage-template|08｜Agent 使用模板：电商品牌视觉标准诊断]]
+
+
 - [[domains/visual-production/ai-video/doubao-seedance-2-0|Doubao-Seedance-2.0 视频生成模型卡]]：火山方舟 Seedance 2.0 的模型 ID、能力、价格快照、API 入口、限制和三类 demo prompt 模式。
 - [[domains/visual-production/visual-styles|AI 生图风格库]]：按“每个风格一个目录”组织风格定义、playbook 和参考图索引，避免多风格资料平铺混乱。
 - [[domains/visual-production/visual-styles/minimal-scandinavian|极简北欧风]]：把北欧极简拆成色彩、材质、光线、空间、构图和边界，供 AI 生图稳定复现。

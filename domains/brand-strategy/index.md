@@ -152,3 +152,7 @@
 ## 抽样试验
 
 - [[domains/brand-strategy/samples/pggu-strategy-choice-sample|PGGU 战略选择知识复现样本]]：演示外部资料进入知识库时，正式内容应融合为完整、顺序化的品牌战略理论文章。
+
+## 跨域参考：电商品牌视觉标准化
+
+- [[domains/visual-production/learning-paths/brand-visual-repeatable-ecommerce-visual-playbook|品牌视觉：可复制的电商视觉终极玩法]]：作为品牌视觉标准化和记忆符号方法的跨域参考，主页面放在视觉制作域。
