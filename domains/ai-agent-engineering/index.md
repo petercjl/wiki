@@ -36,6 +36,8 @@
 - [[domains/ai-agent-engineering/skill-design/sealseek-skill-registry|SealSeek Skill 注册页]]：SealSeek 多来源 skill 的检索描述、输入方式、关键词和文件位置，覆盖 skill_pool、workspace、active/customized、standalone 和迁移包。
 - [[domains/ai-agent-engineering/skill-design/claude-code-skill-registry|Claude Code Skill 注册页]]：Claude Code plugin marketplace skill 的检索描述、输入方式、关键词和文件位置。
 
+- [[domains/ai-agent-engineering/skill-design/infinite-canvas-skill-writing/index|无限画板 Skill 写作知识库]]：面向无限画板 `skill.md` 创建/优化的规则库、工具规范、任务范式、Prompt 模板、反坑清单和 Agent 使用模板。
+
 ## Toolchain
 
 - [[domains/ai-agent-engineering/toolchain/openai-image-generation-api|OpenAI 图像生成 API 集成指南]]：Image API 与 Responses API 的选择、参数、编辑、流式、错误处理和成本判断。
