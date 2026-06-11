@@ -1,0 +1,85 @@
+---
+title: Agent 使用模板：平台入驻与自营合作诊断
+type: query
+created: 2026-06-09
+updated: 2026-06-09
+domain: ecommerce-ops
+tags: [ecommerce, platform-entry, playbook, query]
+sources:
+  - raw/platforms/tmall-supermarket-introduction-2012/extracted-slides.md
+  - raw/platforms/jd-self-operated-entry-guide-2026/extracted-text.md
+status: active
+---
+
+# Agent 使用模板：平台入驻与自营合作诊断
+
+## 使用前读取
+
+1. [[domains/ecommerce-ops/platform-entry/tmall-supermarket-cooperation-guide|天猫超市合作与入驻说明]]
+2. [[domains/ecommerce-ops/platform-entry/jd-self-operated-entry-guide|京东自营入驻解析]]
+3. [[domains/ecommerce-ops/platform-entry/tmall-supermarket-vs-jd-self-operated-comparison|天猫超市与京东自营合作模式对比]]
+4. [[domains/ecommerce-ops/finance-accounting/ecommerce-platform-settlement-accounting|电商平台结算时间口径财务核算方法]]
+
+## 用户输入
+
+要求用户提供：
+
+- 品类、品牌名、主营 SKU、价格带、毛利率。
+- 公司年限、注册资本、一般纳税人、发票能力。
+- 商标状态、品牌授权链、质检报告、特殊类目资质。
+- 当前平台销售额、天猫/京东/抖音/拼多多店铺数据。
+- 供货能力、库存周期、效期、退货损耗、补货频率。
+- 目标：销量增长、品牌背书、清库存、开渠道、提高履约效率。
+- 是否已接触平台小二或服务商，服务商收费和承诺是什么。
+
+## 诊断步骤
+
+1. 判断品类是否适合平台超市/自营：高频、标准化、履约要求、售后复杂度。
+2. 判断资质是否达标：企业、品牌、商品、发票、行业许可。
+3. 判断毛利是否承压：保证金、毛保/扣点、促销、仓配、损耗、账期。
+4. 判断运营分工是否可承接：库存、补货、账单、发票、活动、商品资料。
+5. 判断平台选择：天猫超市、京东自营、两者都做、先 POP/旗舰店沉淀数据、暂缓。
+6. 判断服务商风险：官方授权、真实案例、资源边界、合同条款、失败退款。
+
+## 输出结构
+
+```markdown
+## 结论
+- 推荐路径：
+- 是否现在入驻：
+- 主要理由：
+
+## 平台适配
+| 平台 | 适配度 | 关键依据 | 主要风险 |
+| --- | --- | --- | --- |
+| 天猫超市 | 高/中/低 | | |
+| 京东自营 | 高/中/低 | | |
+
+## 资质缺口
+- 企业资质：
+- 品牌资质：
+- 商品资质：
+- 财务/发票：
+- 运营/供应链：
+
+## 成本与利润压力
+- 保证金：
+- 毛保/扣点：
+- 促销与损耗：
+- 回款周期：
+- 最低可接受毛利：
+
+## 下一步动作
+1. 官方规则复核：
+2. 资料准备：
+3. 服务商验证：
+4. 财务测算：
+5. 试点 SKU：
+```
+
+## 不可直接输出的内容
+
+- 不可把 PPT/PDF 中的比例、金额、年限、成功率、GMV 和用户数当作当前官方事实。
+- 不可承诺服务商成功率。
+- 不可在未看合同的情况下判断毛保、保证金和回款周期。
+- 不可把平台自营当作“普通开店”解释。

@@ -1,226 +1,40 @@
 ---
 title: 营销学理论在电商图片中的应用
-type: concept
+type: bridge
 created: 2026-05-22
-updated: 2026-05-22
+updated: 2026-06-10
 domain: shared
-tags: [ecommerce, visual-production, brand-strategy, business-analysis, product-design]
+tags: [visual-production, ecommerce, brand-strategy, business-analysis, bridge]
 sources:
   - raw/articles/marketing-theory-for-ecommerce-images-2026-05-22.md
+  - domains/visual-production/concepts/marketing-theory-for-ecommerce-images.md
 status: active
+canonical: domains/visual-production/concepts/marketing-theory-for-ecommerce-images.md
 ---
 
 # 营销学理论在电商图片中的应用
 
-## 摘要
+> 本页是兼容旧链接的桥接页，不再承载完整正文。  
+> 主知识页已迁移到：[[domains/visual-production/concepts/marketing-theory-for-ecommerce-images|营销学理论在电商图片中的应用]]。
 
-电商图片不是单纯的审美作品，而是一个高度压缩的营销沟通系统。一张有效的电商图片，要让用户快速看懂产品、产生兴趣，并降低购买决策成本。
+## 为什么迁移
 
-核心判断：美学是方法，营销是目的。图片的任务不是“做得漂亮”，而是在极短时间内把产品卖点转化为用户可感知的购买理由。
+这套理论虽然调用 FABE、USP、STP、AIDA、营销心理等通用营销框架，但核心落点是：
 
-## 核心观点
+- 电商主图、详情页、场景图、证据图和促销图的视觉表达；
+- 商品卖点到用户购买理由的视觉转译；
+- 图片组策划、图上文案和 AI 生图 prompt 的生产方法。
 
-- 电商图片本质上是“视觉化销售话术”。
-- 主图负责抢注意力，卖点图负责建立兴趣，场景图负责激发想象，对比图负责制造差异，证据图负责增强信任，促销图负责推动行动。
-- 好图片不是把产品特征堆上去，而是把特征翻译成用户利益和可信证据。
-- 文案提出承诺，画面给出证据。
-- 图片策略应先回答：卖给谁、解决什么问题、为什么买你、凭什么相信、为什么现在买。
-- AI 生图提示词不应只写风格词，而应包含目标用户、购买理由、图片任务、视觉策略和信任证据。
+因此它的 canonical home 应归属于 `domains/visual-production/concepts/`，而不是 `shared/business-frameworks/`。
 
-## 适用场景
+## 相关入口
 
-- [[domains/ecommerce-ops/index|电商运营]]：商品卖点提炼、主图点击率优化、详情页转化诊断。
-- [[domains/visual-production/index|视觉制作]]：主图、详情页、场景图、证据图、AI 生图策略。
-- [[domains/brand-strategy/index|品牌策划]]：定位表达、人群沟通、品牌调性与视觉价值感。
-- [[projects/sealseek/index|SealSeek 项目]]：图片诊断、图片优化建议、AI 电商自动化能力设计。
+- 主理论页：[[domains/visual-production/concepts/marketing-theory-for-ecommerce-images|营销学理论在电商图片中的应用]]
+- 执行 Playbook：[[domains/visual-production/playbooks/ecommerce-image-marketing-production-playbook|电商图片营销策划与 AI 生图 Playbook]]
+- 原始归档：[[raw/articles/marketing-theory-for-ecommerce-images-2026-05-22|marketing-theory-for-ecommerce-images-2026-05-22]]
 
-## 电商图片的本质：静态销售话术
+## 跨域使用说明
 
-传统销售会判断用户、找到痛点、介绍利益、证明可信、处理顾虑、推动下单。电商货架场景中，图片承担了大量销售员工作。
-
-因此，设计电商图片前应先问：
-
-> 这张图要替销售员说哪一句最关键的话？
-
-常见图片任务：
-
-| 图片类型 | 核心任务 |
-| --- | --- |
-| 主图 | 抢注意力，传达一个最强购买理由 |
-| 卖点图 | 建立兴趣，解释产品为什么值得买 |
-| 场景图 | 激发代入，让用户想象拥有后的状态 |
-| 对比图 | 放大差异，让优势一眼可见 |
-| 证据图 | 建立信任，降低怀疑和风险感 |
-| 促销图 | 提供行动理由，推动立即购买 |
-
-## 从产品特征到购买理由
-
-很多电商图片的问题不是设计能力差，而是卖点没有被正确翻译。
-
-常见错误：
-
-- 把“316L 不锈钢”当作卖点。
-- 把“1000W 大功率”当作卖点。
-- 把“进口面料”当作卖点。
-- 把“升级款”当作用户语言。
-
-这些首先是产品特征，不一定是用户购买理由。
-
-### FABE：属性、优势、利益、证据
-
-FABE 适合把产品信息转化为图片表达：
-
-| 层级 | 关注点 | 图片中应该怎么用 |
-| --- | --- | --- |
-| Feature 特征 | 产品有什么 | 可作为信息来源，不一定放大 |
-| Advantage 优势 | 比普通产品好在哪里 | 用对比图、结构图表达 |
-| Benefit 利益 | 对用户有什么好处 | 应成为画面和文案重点 |
-| Evidence 证据 | 凭什么相信 | 用检测、数据、口碑、对比证明 |
-
-结论：电商图片中真正应该被放大的，通常是 Benefit 和 Evidence。
-
-### USP：独特销售主张
-
-主图尤其应该聚焦一个最强购买理由，而不是把所有卖点堆满。
-
-好的 USP 应满足：
-
-1. 明确：用户一眼能懂。
-2. 独特：与竞品有明显区隔。
-3. 有力：足以影响购买决策。
-
-### STP：先确定卖给谁
-
-同一个产品面对不同人群，图片表达应完全不同。
-
-| 目标人群 | 核心卖点 | 图片表达 |
-| --- | --- | --- |
-| 上班族 | 通勤方便、颜值高 | 办公桌、电脑、轻商务风 |
-| 学生 | 大容量、防漏、耐摔 | 书包、校园、活力色彩 |
-| 宝妈 | 安全材质、易清洗 | 家庭场景、材质证据 |
-| 户外用户 | 长效保温、坚固 | 露营、登山、性能测试 |
-
-卖点必须回答：对谁来说，这是卖点？在什么场景下，这是卖点？
-
-### AIDA：图片服务决策推进
-
-用户从看到产品到下单，通常经历：
-
-1. Attention：注意，这张图是否让我停下来？
-2. Interest：兴趣，这个产品是否与我有关？
-3. Desire：欲望，它是否能让我变得更好、更轻松、更体面？
-4. Action：行动，现在买是否值得？
-
-详情页图片可按这个顺序组织：首屏主卖点 → 痛点图 → 解决方案图 → 核心优势图 → 场景图 → 证据图 → 规格图 → 保障图 → 促销图。
-
-## 卖点视觉化的五种方法
-
-| 方法 | 作用 | 适合表达 |
-| --- | --- | --- |
-| 场景化 | 让用户看到自己 | 生活方式、使用场景、身份认同、结果画面 |
-| 对比化 | 让差异一眼可见 | 使用前后、竞品差异、升级前后、参数差异 |
-| 证据化 | 把信任做成画面 | 检测报告、数据、结构细节、口碑、认证 |
-| 结构化 | 降低理解成本 | 功能机制、组合套装、步骤流程、参数信息 |
-| 情绪化 | 提升拥有欲 | 体面感、舒适感、治愈感、高级感、礼赠感 |
-
-## 视觉美学的营销作用
-
-美不是目的，而是心理影响工具。
-
-| 视觉要素 | 影响 |
-| --- | --- |
-| 色彩 | 情绪、定位、价格感、人群感 |
-| 光影 | 质感、价值感、真实感 |
-| 构图 | 用户先看什么、后看什么 |
-| 字体与排版 | 信息可信度、专业感、阅读效率 |
-| 材质与细节 | 让用户“看见价值” |
-
-## 电商图片中的经典营销心理
-
-- 注意力经济：先被看到，才有机会被购买。
-- 损失厌恶：用户更害怕失去，风险和痛点能推动行动。
-- 社会认同：别人买过、用过、认可过，会降低风险感。
-- 稀缺与紧迫：给用户现在行动的理由。
-- 锚定效应：用对比和参照让价格显得更值得。
-- 认知流畅性：越容易理解，越容易相信。
-
-## 对 AI 电商图片生成的启示
-
-AI 生图不能只写“高级感、真实摄影、干净背景”等风格词。更好的提示词应先定义营销任务：
-
-1. 目标用户是谁？
-2. 图片要解决哪个决策问题？
-3. 核心购买理由是什么？
-4. 画面要证明什么？
-5. 用户应该先看哪里、再看哪里？
-6. 用什么场景、对比、证据或情绪表达？
-
-可复用提示词结构：
-
-> 为【目标用户】设计一张【图片类型】。核心购买理由是【Benefit】。画面需要通过【场景/对比/证据/结构/情绪】证明【产品优势】。用户第一眼应看到【主视觉】，第二眼看到【关键信息】，整体风格应符合【品牌调性/价格感/平台场景】。
-
-## 电商图片营销分析模板
-
-### 1. 产品与用户
-
-- 产品是什么？
-- 目标用户是谁？
-- 用户当前有什么痛点、欲望或顾虑？
-- 购买场景是什么？
-
-### 2. 卖点分析
-
-- Feature：产品特征是什么？
-- Advantage：相对竞品有什么优势？
-- Benefit：对用户有什么直接好处？
-- Evidence：用什么证明？
-- USP：最值得放大的唯一购买理由是什么？
-
-### 3. 图片策略
-
-- 图片类型：主图 / 卖点图 / 场景图 / 对比图 / 证据图 / 规格图。
-- 图片任务：抢注意、讲利益、建信任、降风险、促行动。
-- 视觉方法：场景化 / 对比化 / 证据化 / 结构化 / 情绪化。
-
-### 4. 视觉检查
-
-- 用户 3 秒内能否看懂？
-- 文案是否是用户语言？
-- 画面是否证明了文案承诺？
-- 是否只堆参数，没有利益？
-- 是否有信任证据？
-- 是否和目标人群、价格带、品牌调性一致？
-
-## 常见误区
-
-1. 把美观当成转化。
-2. 把参数当成利益。
-3. 卖点越多越好。
-4. 场景图只追求氛围，不服务购买理由。
-5. 只讲功能，不解除风险。
-6. AI 生成图只写风格词，不写营销任务。
-
-## 后续可拆分页面
-
-当前先作为跨领域总纲页维护。后续高频使用时，可逐步拆分：
-
-- `shared/business-frameworks/fabe.md`
-- `shared/business-frameworks/usp.md`
-- `shared/business-frameworks/stp.md`
-- `shared/consumer-psychology/aida.md`
-- `domains/visual-production/concepts/ecommerce-image-visualization.md`
-- `domains/ecommerce-ops/concepts/main-image-click-through-rate.md`
-- `domains/visual-production/workflows/ecommerce-image-production-workflow.md`
-
-## 相关页面
-
-- [[domains/ecommerce-ops/index|电商运营知识域]]
-- [[domains/visual-production/index|视觉制作知识域]]
-- [[domains/brand-strategy/index|品牌策划知识域]]
-- [[shared/business-frameworks/index|商业框架索引]]
-- [[projects/sealseek/index|SealSeek 项目知识]]
-
-## 来源
-
-- `raw/articles/marketing-theory-for-ecommerce-images-2026-05-22.md`
-- 原始文件：`/Users/pechen/AI/MarketingTheoryEcomImage/docs/营销学理论在电商图片中的应用.md`
+- `visual-production`：作为主理论页使用。
+- `ecommerce-ops`：用于商品卖点提炼、主图点击率、详情页转化分析。
+- `brand-strategy`：用于定位表达、人群沟通、品牌调性和视觉价值感设计。

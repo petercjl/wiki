@@ -46,7 +46,7 @@ status: active
 
 - [[domains/brand-strategy/index|品牌策划知识域]]
 - [[domains/brand-strategy/samples/pggu-strategy-choice-sample|PGGU 战略选择知识复现样本]]
-- [[shared/business-frameworks/marketing-theory-for-ecommerce-images|营销学理论在电商图片中的应用]]
+- [[domains/visual-production/concepts/marketing-theory-for-ecommerce-images|营销学理论在电商图片中的应用]]
 
 ## 来源
 

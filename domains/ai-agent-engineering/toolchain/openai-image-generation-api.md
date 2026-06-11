@@ -2,13 +2,14 @@
 title: OpenAI 图像生成 API 集成指南
 type: tool
 created: 2026-06-07
-updated: 2026-06-07
+updated: 2026-06-10
 domain: ai-agent-engineering
 tags: [openai, api, image-generation, gpt-image, responses-api, toolchain]
 sources:
   - raw/webpages/openai/openai-image-generation-api-2026-06-07.md
   - _meta/extraction-notes/openai-image-generation-api-2026-06-07/coverage-checklist.md
   - https://developers.openai.com/api/docs/guides/image-generation
+  - https://developers.openai.com/api/docs/guides/tools-image-generation#tool-options
 status: active
 ---
 
@@ -41,15 +42,15 @@ status: active
 
 ## 关键能力
 
-| 能力 | Image API | Responses API |
-| --- | --- | --- |
-| 文生图 | `images.generate(model="gpt-image-2", prompt=...)` | `responses.create(..., tools=[{"type": "image_generation"}])` |
-| 图片编辑 | `images.edit(model="gpt-image-2", image=..., prompt=...)` | 输入里放 `input_image`，tool 使用 `image_generation` |
-| 参考图生成 | `images.edit` 可传单张或多张 image | 可用 URL、base64 data URL 或 File ID |
-| 局部编辑 | `mask` 参数 | `input_image_mask.file_id` |
-| 多轮上下文 | 不适合 | 使用 `previous_response_id` 或复用 `image_generation_call.id` |
-| 流式预览 | 支持 `stream` 和 `partial_images` | 支持 `stream` 和 tool 内 `partial_images` |
-| revised prompt | 不作为主工作流能力 | `image_generation_call.revised_prompt` 可读取 |
+| 能力             | Image API                                                 | Responses API                                                 |
+| -------------- | --------------------------------------------------------- | ------------------------------------------------------------- |
+| 文生图            | `images.generate(model="gpt-image-2", prompt=...)`        | `responses.create(..., tools=[{"type": "image_generation"}])` |
+| 图片编辑           | `images.edit(model="gpt-image-2", image=..., prompt=...)` | 输入里放 `input_image`，tool 使用 `image_generation`                 |
+| 参考图生成          | `images.edit` 可传单张或多张 image                               | 可用 URL、base64 data URL 或 File ID                              |
+| 局部编辑           | `mask` 参数                                                 | `input_image_mask.file_id`                                    |
+| 多轮上下文          | 不适合                                                       | 使用 `previous_response_id` 或复用 `image_generation_call.id`      |
+| 流式预览           | 支持 `stream` 和 `partial_images`                            | 支持 `stream` 和 tool 内 `partial_images`                         |
+| revised prompt | 不作为主工作流能力                                                 | `image_generation_call.revised_prompt` 可读取                    |
 
 ## 原文案例索引
 
@@ -377,7 +378,7 @@ with open("mask_alpha.png", "wb") as f:
 
 | 参数 | 作用 | 实操建议 |
 | --- | --- | --- |
-| `size` | 输出尺寸；`gpt-image-2` 支持满足约束的多种分辨率 | 常用 `1024x1024`、`1536x1024`、`1024x1536`、`2048x2048`、`3840x2160`，也可用 `auto` |
+| `size` | 输出尺寸；`gpt-image-2` 支持满足约束的灵活分辨率，不是固定小枚举 | 常用 `1024x1024`、`1536x1024`、`1024x1536`、`2048x2048`、`2048x1152`、`3840x2160`、`2160x3840`，也可用 `auto` |
 | `quality` | 渲染质量：`low`、`medium`、`high`、`auto` | 草稿/缩略图用 `low`，定稿资产再升到 `medium` 或 `high` |
 | `background` | 背景类型或 `auto` | `gpt-image-2` 当前不支持 `background: "transparent"` |
 | `output_format` | Image API 输出格式 | 默认 `png`，可选 `jpeg`、`webp` |
@@ -387,13 +388,52 @@ with open("mask_alpha.png", "wb") as f:
 
 ## 尺寸约束
 
-`gpt-image-2` 的 `size` 不是只能用固定枚举，但必须满足这些约束：
+`gpt-image-2` 的 `size` 不是只能用固定枚举，也不存在适合人工维护的“完整比例列表”。官方口径是：`gpt-image-2` accepts any resolution in the `size` parameter when it satisfies the constraints below。也就是说，完整支持范围应写成校验规则，而不是写成静态枚举。
+
+`size` 可传：
+
+- `auto`。
+- 字符串格式的 `{width}x{height}`，例如 `1024x1536`。
+
+`{width}x{height}` 必须同时满足这些约束：
 
 - 最大边长不超过 `3840px`。
 - 两条边都必须是 `16px` 的倍数。
 - 长边与短边比例不超过 `3:1`。
 - 总像素数至少 `655,360`，最多 `8,294,400`。
 - 超过 `2560x1440` 的 2K 以上输出在官方文档中标为实验性能力。
+
+按上述约束枚举，当前可用的具体 `WxH` 尺寸约有 `29,146` 个，去重后的宽高比例约 `19,377` 个；因此业务侧应实现尺寸校验函数，而不是把所有尺寸写进配置表。
+
+常用尺寸：
+
+| 尺寸 | 比例 | 说明 |
+| --- | --- | --- |
+| `1024x1024` | `1:1` | square |
+| `1536x1024` | `3:2` | landscape |
+| `1024x1536` | `2:3` | portrait |
+| `2048x2048` | `1:1` | 2K square |
+| `2048x1152` | `16:9` | 2K landscape |
+| `3840x2160` | `16:9` | 4K landscape |
+| `2160x3840` | `9:16` | 4K portrait |
+| `auto` | 自动 | 让模型按 prompt 选择尺寸 |
+
+业务校验函数示例：
+
+```python
+def is_valid_gpt_image_2_size(width: int, height: int) -> bool:
+    pixels = width * height
+    long_edge = max(width, height)
+    short_edge = min(width, height)
+
+    return (
+        width % 16 == 0
+        and height % 16 == 0
+        and long_edge <= 3840
+        and long_edge / short_edge <= 3
+        and 655_360 <= pixels <= 8_294_400
+    )
+```
 
 ## 图片编辑规则
 
