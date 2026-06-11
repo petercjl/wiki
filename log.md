@@ -10,6 +10,26 @@
 - Updated: `index.md`
 - Notes: 将朱华杰 2018 年电商品牌视觉书籍重构为视觉标准化 learning path，覆盖老板/运营/美工协作、品牌视觉/产品视觉/营销视觉三系统、差异化与统一、12 项品牌视觉标准、记忆符号、摄影包装接触点和 Agent 诊断模板；淘宝/天猫平台工具名均按历史语境处理。
 
+## [2026-06-10] refactor | 营销学理论在电商图片中的应用 canonical 迁移
+- Moved canonical concept page to `domains/visual-production/concepts/marketing-theory-for-ecommerce-images.md`.
+- Converted `shared/business-frameworks/marketing-theory-for-ecommerce-images.md` into a bridge page for old-link compatibility and cross-domain orientation.
+- Updated primary index and major cross-domain references to point at the visual-production canonical page.
+- Rationale: the theory uses shared marketing frameworks, but its core application domain is ecommerce image planning, visual conversion, and AI image prompt production.
+
+## [2026-06-09] ingest | 营销学理论在电商图片中的应用补编
+- Source: `raw/articles/marketing-theory-for-ecommerce-images-2026-05-22.md`
+- Requested source: `/Users/pechen/AI/MarketingTheoryEcomImage/docs/营销学理论在电商图片中的应用.md`
+- Created: `_meta/extraction-notes/marketing-theory-for-ecommerce-images-2026-06-09/`
+- Updated: `shared/business-frameworks/marketing-theory-for-ecommerce-images.md`
+- Created: `domains/visual-production/playbooks/ecommerce-image-marketing-production-playbook.md`
+- Created: `queries/ecommerce-image-marketing-planning.md`
+- Updated: `shared/business-frameworks/index.md`
+- Updated: `domains/visual-production/index.md`
+- Updated: `domains/ecommerce-ops/index.md`
+- Updated: `domains/brand-strategy/index.md`
+- Updated: `index.md`
+- Notes: 请求源与 2026-05-22 已归档 raw 文件 SHA256 一致，本次不重复归档 raw，而是将原总纲页补编为更完整的电商图片营销框架，并新增面向主图、详情页、证据图、场景图和 AI 生图 prompt 的执行 Playbook 与查询入口。
+
 ## [2026-06-08] ingest | 淘宝运营速成指南：电商军规81讲
 - Source: `raw/books/taobao-operation-quick-guide-81-rules-2018/source.epub`
 - Adapter: `llm-wiki-ingest/adapters/book.md`
@@ -390,6 +410,21 @@
 - Updated: `index.md`
 - Notes: 将 77 个接口按 6 个业务分类补充为可直接写代码的使用手册，覆盖请求地址、公共参数、业务参数、响应字段和示例。
 
+## [2026-06-09] ingest | 天猫超市介绍与京东自营入驻全解析
+- Sources: `raw/platforms/tmall-supermarket-introduction-2012/source.pptx`, `raw/platforms/jd-self-operated-entry-guide-2026/source.pdf`
+- Created: `raw/platforms/tmall-supermarket-introduction-2012/extracted-slides.md`
+- Created: `raw/platforms/jd-self-operated-entry-guide-2026/extracted-text.md`
+- Created: `_meta/extraction-notes/tmall-supermarket-introduction-2012/` note set
+- Created: `_meta/extraction-notes/jd-self-operated-entry-guide-2026/` note set
+- Created: `domains/ecommerce-ops/platform-entry/index.md`
+- Created: `domains/ecommerce-ops/platform-entry/tmall-supermarket-cooperation-guide.md`
+- Created: `domains/ecommerce-ops/platform-entry/jd-self-operated-entry-guide.md`
+- Created: `domains/ecommerce-ops/platform-entry/tmall-supermarket-vs-jd-self-operated-comparison.md`
+- Created: `domains/ecommerce-ops/platform-entry/platform-entry-agent-usage-template.md`
+- Updated: `domains/ecommerce-ops/index.md`
+- Updated: `index.md`
+- Notes: 将两份平台入驻资料编译为电商平台入驻与自营合作知识库，沉淀天猫超市供应商模式、京东自营 B2B2C 模式、费用/资质来源口径、平台合作对比和 Agent 诊断模板；强时效数据均标注需官方复核。质检时补充识别天猫 PPT 第 8 页 6 个合作案例 Logo，并标注其仅为案例线索。
+
 ## [2026-06-03] ingest | 电商品牌差异化感知系统课程知识重构
 - Source: `raw/transcripts/brand-differentiation-perception-system-2026-05-24.md`
 - Created: `_meta/extraction-notes/brand-differentiation-perception-system-2026-05-24/segment-plan.md`
@@ -466,3 +501,25 @@
 - Updated: `domains/brand-strategy/index.md`
 - Updated: `index.md`
 - Notes: 重点沉淀场景营销、渠道表达规则、合理拓品三路径与可露的品牌心智产品化方法。
+
+## [2026-06-11] collect | 钉钉文档：01-人群推广（原引力魔方）
+- Source: `https://alidocs.dingtalk.com/i/nodes/Obva6QBXJwxNZoMOCgk2GZge8n4qY5Pr`
+- Created: `raw/webpages/taobao/taobao-wanxiang-audience-promotion-yinlimofang-alidocs-2026-06-11.md`
+- Notes: 先按原始网页采集保存，未正式编译入 LLM Wiki；页面为钉钉文档 iframe/虚拟滚动，已标注采集完整性与评论区广告噪声。
+
+## [2026-06-11] clean-test | 钉钉文档：01-人群推广（原引力魔方）
+- Source: `raw/webpages/taobao/taobao-wanxiang-audience-promotion-yinlimofang-alidocs-2026-06-11.md`
+- Created: `raw/webpages/taobao/taobao-wanxiang-audience-promotion-yinlimofang-cleaned-2026-06-11.md`
+- Notes: 手工测试“抓取时清洗理解”的中间层流程：删除虚拟滚动重复、评论广告和字数统计，将正文整理为可等待入脑的干净 raw，并记录图片 URL 未稳定获取时的处理策略。
+
+## [2026-06-11] asset-capture | 钉钉文档：01-人群推广（原引力魔方）截图资产
+- Source: `https://alidocs.dingtalk.com/i/nodes/Obva6QBXJwxNZoMOCgk2GZge8n4qY5Pr`
+- Created: `raw/assets/taobao/taobao-wanxiang-audience-promotion-yinlimofang-2026-06-11/viewport-01.png` through `viewport-10.png`
+- Updated: `raw/webpages/taobao/taobao-wanxiang-audience-promotion-yinlimofang-cleaned-2026-06-11.md`
+- Notes: 原始图片 URL 未稳定暴露，改用内置浏览器逐屏截图保留可展示图片资产，覆盖人群推广概览、竞争突破、信息流资源位、新建流程、选品、预算、人群设置等操作图。
+
+## [2026-06-11] asset-capture-test | 钉钉文档图片预览层裁剪
+- Source: `https://alidocs.dingtalk.com/i/nodes/Obva6QBXJwxNZoMOCgk2GZge8n4qY5Pr`
+- Created: `raw/assets/taobao/taobao-wanxiang-audience-promotion-yinlimofang-2026-06-11/original-image-crops/image-setup-manual-bid-resource-position.png`
+- Updated: `raw/webpages/taobao/taobao-wanxiang-audience-promotion-yinlimofang-cleaned-2026-06-11.md`
+- Notes: 验证更合适的图片采集方式：双击钉钉文档内图片打开预览层，再裁剪预览图片本体；整页截图仅作为调试备份，不作为正式知识库展示图。

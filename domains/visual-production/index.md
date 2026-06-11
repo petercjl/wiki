@@ -4,7 +4,9 @@
 
 ## 关联共享方法论
 
-- [[shared/business-frameworks/marketing-theory-for-ecommerce-images|营销学理论在电商图片中的应用]]：用于主图、详情页、场景图、证据图和 AI 生图策略。
+- [[domains/visual-production/concepts/marketing-theory-for-ecommerce-images|营销学理论在电商图片中的应用]]：用于主图、详情页、场景图、证据图和 AI 生图策略。
+- [[domains/visual-production/playbooks/ecommerce-image-marketing-production-playbook|电商图片营销策划与 AI 生图 Playbook]]：用于把商品信息转成图片组结构、图上文案、视觉表达和 AI 生图提示词。
+- [[queries/ecommerce-image-marketing-planning|电商图片营销策划查询入口]]：Agent 做电商图片策划、诊断或生图 prompt 前的读取入口。
 
 ## AI 商业视觉方法论
 
@@ -30,7 +32,7 @@
 ## AI 视频工具与模型
 
 - [[domains/visual-production/ai-video/doubao-seedance-2-0|Doubao-Seedance-2.0 视频生成模型卡]]：火山方舟 Seedance 2.0 的模型 ID、能力、价格快照、API 入口、限制和三类 demo prompt 模式。
-
 ## 品牌视觉：可复制的电商视觉终极玩法
 
 - [[domains/visual-production/learning-paths/brand-visual-repeatable-ecommerce-visual-playbook|品牌视觉：可复制的电商视觉终极玩法]]：基于朱华杰 2018 年书籍重构的电商品牌视觉标准化 learning path，覆盖团队协作、三大视觉系统、品牌定位、12 项视觉标准、记忆符号、摄影包装触点和 Agent 诊断模板。
+

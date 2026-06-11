@@ -21,7 +21,8 @@
 
 ## 关联共享方法论
 
-- [[shared/business-frameworks/marketing-theory-for-ecommerce-images|营销学理论在电商图片中的应用]]：用于定位表达、人群沟通、品牌调性和视觉价值感设计。
+- [[domains/visual-production/concepts/marketing-theory-for-ecommerce-images|营销学理论在电商图片中的应用]]：用于定位表达、人群沟通、品牌调性和视觉价值感设计。
+- [[domains/visual-production/playbooks/ecommerce-image-marketing-production-playbook|电商图片营销策划与 AI 生图 Playbook]]：用于把品牌定位、目标人群和产品利益转译成图片任务、视觉证据和生图 prompt。
 
 ## 电商品牌增长方法论
 

@@ -26,7 +26,7 @@ status: active
 
 ## 卖点策划
 
-卖点必须从产品事实转译为消费者可感知价值。可以借用 [[shared/business-frameworks/marketing-theory-for-ecommerce-images|FABE、USP、AIDA 等营销框架]]：先讲功能事实，再讲优势，再讲利益，最后给证据。
+卖点必须从产品事实转译为消费者可感知价值。可以借用 [[domains/visual-production/concepts/marketing-theory-for-ecommerce-images|FABE、USP、AIDA 等营销框架]]：先讲功能事实，再讲优势，再讲利益，最后给证据。
 
 ## 美工绩效
 

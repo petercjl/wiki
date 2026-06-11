@@ -1,8 +1,8 @@
 # Wiki Index
 
 > Content catalog. Every formal wiki page should be listed here.
-> Last updated: 2026-06-08
-> Total formal pages: 159
+> Last updated: 2026-06-09
+> Total formal pages: 166
 
 ## Domains
 
@@ -18,7 +18,7 @@
 - [[shared/knowledge-management/obsidian-plugin-stack-for-knowledge-base|Obsidian 插件武装知识库的七件套]]：按四层结构整理适合知识库建设的 Obsidian 插件组合与筛选原则。
 - [[domains/ai-agent-engineering/knowledge-systems/llm-wiki-personal-knowledge-base-operating-loop|LLM Wiki 个人知识库运行闭环]]：围绕 Ingest、Query、Lint 形成知识复利的运行闭环与落地动作。
 - [[shared/ai-agent-workflows/index|AI Agent 共享工作流]]：多 Agent 协作、提示词、工具链和自动化流程。
-- [[shared/business-frameworks/marketing-theory-for-ecommerce-images|营销学理论在电商图片中的应用]]：将 FABE、USP、STP、AIDA 等营销理论转化为电商图片策划、视觉表达和 AI 生图提示词的方法论。
+- [[domains/visual-production/concepts/marketing-theory-for-ecommerce-images|营销学理论在电商图片中的应用]]：将 FABE、USP、STP、AIDA、营销心理和品类策略转化为电商图片策划、视觉表达和 AI 生图提示词的方法论。
 
 ## AI Agent Engineering
 
@@ -44,8 +44,8 @@
 - [[domains/visual-production/learning-paths/brand-visual-repeatable-ecommerce-visual-playbook/07-case-library-kabei-taobrands-and-small-sellers|07｜案例库：卡贝、淘品牌与中小卖家]]
 - [[domains/visual-production/learning-paths/brand-visual-repeatable-ecommerce-visual-playbook/08-agent-usage-template|08｜Agent 使用模板：电商品牌视觉标准诊断]]
 
-
 - [[domains/visual-production/ai-video/doubao-seedance-2-0|Doubao-Seedance-2.0 视频生成模型卡]]：火山方舟 Seedance 2.0 的模型 ID、能力、价格快照、API 入口、限制和三类 demo prompt 模式。
+- [[domains/visual-production/playbooks/ecommerce-image-marketing-production-playbook|电商图片营销策划与 AI 生图 Playbook]]：把电商图片营销理论落地为用户定义、FABE 卖点转译、图位任务、视觉策略、图上文案和生图 prompt 工作流。
 - [[domains/visual-production/visual-styles|AI 生图风格库]]：按“每个风格一个目录”组织风格定义、playbook 和参考图索引，避免多风格资料平铺混乱。
 - [[domains/visual-production/visual-styles/minimal-scandinavian|极简北欧风]]：把北欧极简拆成色彩、材质、光线、空间、构图和边界，供 AI 生图稳定复现。
 - [[domains/visual-production/visual-styles/minimal-scandinavian/playbook|极简北欧风 AI 生图 Playbook]]：面向产品图的 prompt 骨架、场景配方、负向约束、参考图权重和 QA 清单。
@@ -78,6 +78,11 @@
 ## Ecommerce Ops
 
 - [[domains/ecommerce-ops/finance-accounting/ecommerce-platform-settlement-accounting|电商平台结算时间口径财务核算方法]]：基于三份 XMind 重构的财务核算 playbook，覆盖平台结算口径、快麦成本匹配、保证金、特殊账户、推广费和五个平台账单核对。
+- [[domains/ecommerce-ops/platform-entry/index|平台入驻与自营合作知识库]]：天猫超市、京东自营等平台供应商/自营合作模式的入驻判断框架。
+- [[domains/ecommerce-ops/platform-entry/tmall-supermarket-cooperation-guide|天猫超市合作与入驻说明]]：天猫超市供应商模式、费用口径、仓配售后、平台入口、入驻门槛和适配检查清单。
+- [[domains/ecommerce-ops/platform-entry/jd-self-operated-entry-guide|京东自营入驻解析]]：京东自营 B2B2C 模式、货权、采销、毛保、资质、费用和入驻路径。
+- [[domains/ecommerce-ops/platform-entry/tmall-supermarket-vs-jd-self-operated-comparison|天猫超市与京东自营合作模式对比]]：对比两类平台合作在货权、仓配、费用、运营分工和适配商家上的差异。
+- [[domains/ecommerce-ops/platform-entry/platform-entry-agent-usage-template|Agent 使用模板：平台入驻与自营合作诊断]]：用于分析品牌是否适合进入天猫超市、京东自营或类似平台渠道。
 - [[domains/ecommerce-ops/learning-paths/consulting-logic|咨询逻辑：电商企业辅导与咨询交付体系]]：章节目录，按电商企业辅导形势、咨询底层逻辑、谈单带教、满意度、交付体系和专业认知模型组织。
 - [[domains/ecommerce-ops/learning-paths/consulting-logic/01-current-ecommerce-consulting-context|01｜当下的电商企业辅导整体形势]]
 - [[domains/ecommerce-ops/learning-paths/consulting-logic/02-enterprise-consultant-definition|02｜企业咨询师的定义与底层任务]]
@@ -218,6 +223,8 @@
 ## Comparisons
 
 ## Queries
+
+- [[queries/ecommerce-image-marketing-planning|电商图片营销策划查询入口]]：Agent 生成、诊断或优化电商主图、详情页和 AI 生图 prompt 前的读取入口。
 
 ## Decisions
 

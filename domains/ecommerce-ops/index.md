@@ -4,7 +4,8 @@
 
 ## 关联共享方法论
 
-- [[shared/business-frameworks/marketing-theory-for-ecommerce-images|营销学理论在电商图片中的应用]]：用于商品卖点提炼、主图点击率和详情页转化分析。
+- [[domains/visual-production/concepts/marketing-theory-for-ecommerce-images|营销学理论在电商图片中的应用]]：用于商品卖点提炼、主图点击率和详情页转化分析。
+- [[domains/visual-production/playbooks/ecommerce-image-marketing-production-playbook|电商图片营销策划与 AI 生图 Playbook]]：用于将运营侧产品信息、用户痛点和竞品差异转成可执行的图片组方案。
 
 ## ERP 与接口自动化
 
@@ -15,6 +16,14 @@
 ## 财务核算
 
 - [[domains/ecommerce-ops/finance-accounting/ecommerce-platform-settlement-accounting|电商平台结算时间口径财务核算方法]]：将 XMind 碎片重构为平台结算时间确认收入、快麦成本匹配、保证金/特殊账户/推广费处理和五个平台账单核对 playbook。
+
+## 平台入驻与自营合作
+
+- [[domains/ecommerce-ops/platform-entry/index|平台入驻与自营合作知识库]]：沉淀天猫超市、京东自营等平台供应商/自营合作模式的入驻判断框架。
+- [[domains/ecommerce-ops/platform-entry/tmall-supermarket-cooperation-guide|天猫超市合作与入驻说明]]：整理天猫超市供应商模式、费用口径、仓配售后、平台入口、入驻门槛和商家适配检查清单。
+- [[domains/ecommerce-ops/platform-entry/jd-self-operated-entry-guide|京东自营入驻解析]]：整理京东自营 B2B2C 模式、货权、采销、毛保、资质、费用和入驻路径。
+- [[domains/ecommerce-ops/platform-entry/tmall-supermarket-vs-jd-self-operated-comparison|天猫超市与京东自营合作模式对比]]：对比两类平台合作在货权、仓配、费用、运营分工和适配商家上的差异。
+- [[domains/ecommerce-ops/platform-entry/platform-entry-agent-usage-template|Agent 使用模板：平台入驻与自营合作诊断]]：用于分析品牌是否适合进入天猫超市、京东自营或类似平台渠道。
 
 <!-- consulting-logic:start -->
 ## 电商企业咨询与交付

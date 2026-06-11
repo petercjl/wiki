@@ -37,7 +37,7 @@ status: active
 
 ## Agent 使用方式
 
-先读 [[12-agent-usage-template|Agent 使用模板]] 判断问题属于定位、商品、搜索、视觉、流量、客服、促销、供应链、财务还是团队，再进入对应方法页。需要做品牌或视觉判断时，同时参考 [[shared/business-frameworks/marketing-theory-for-ecommerce-images|营销学理论在电商图片中的应用]]；需要做当前营销工具选择时，同时参考 [[domains/ecommerce-ops/playbooks/taobao-marketing-tool-selection|淘宝营销工具选择 Playbook]]。
+先读 [[12-agent-usage-template|Agent 使用模板]] 判断问题属于定位、商品、搜索、视觉、流量、客服、促销、供应链、财务还是团队，再进入对应方法页。需要做品牌或视觉判断时，同时参考 [[domains/visual-production/concepts/marketing-theory-for-ecommerce-images|营销学理论在电商图片中的应用]]；需要做当前营销工具选择时，同时参考 [[domains/ecommerce-ops/playbooks/taobao-marketing-tool-selection|淘宝营销工具选择 Playbook]]。
 
 ## 来源与覆盖
 
