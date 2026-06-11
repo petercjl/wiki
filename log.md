@@ -1,7 +1,16 @@
+# Wiki Log
 
-## [2026-06-10] ingest | 品牌视觉：可复制的电商视觉终极玩法
-- Source: `raw/books/brand-visual-repeatable-ecommerce-visual-playbook-2018/source.epub`
-- Adapter: `llm-wiki-ingest/adapters/book.md`
+> Chronological record of all wiki actions. Append-only.
+> Format: `## [YYYY-MM-DD] action | subject`
+
+
+## [2026-06-11] audit | 无限画板 Skill 写作知识库
+- Target: `domains/ai-agent-engineering/skill-design/infinite-canvas-skill-writing/`
+- Skill: `llm-wiki-audit-and-optimization`
+- Mechanical scan: `SHELL: 0`, `THIN: 0`, `OK: 8`.
+- Verified: raw source exists, extraction notes exist, formal pages exist, main/domain indexes route to the knowledge base, wikilinks have zero missing targets.
+- Patched: corrected `log.md` ordering so the ingest entry is not embedded inside the previous 2026-06-10 book-ingest entry.
+- Remaining issues: no P0/P1 issue found; optional P2 future improvement is to split brand-specific examples such as 杉居/静谧剧场 into visual-production case pages if case-level retrieval becomes necessary.
 
 ## [2026-06-11] ingest | 无限画板 Skill 写作知识库
 - Source: `raw/my-temp-data/infinite-canvas-skill.md`
@@ -11,6 +20,11 @@
 - Updated: `domains/ai-agent-engineering/index.md`
 - Updated: `index.md`
 - Notes: 将 15 个无限画板 skill 汇总从原文案例重构为面向未来 Agent 写 `skill.md` 的可检索规则库，重点沉淀产品保真、风格迁移、营销真实性、批量处理、工具参数和历史反坑项。
+
+## [2026-06-10] ingest | 品牌视觉：可复制的电商视觉终极玩法
+- Source: `raw/books/brand-visual-repeatable-ecommerce-visual-playbook-2018/source.epub`
+- Adapter: `llm-wiki-ingest/adapters/book.md`
+
 - Created: `raw/books/brand-visual-repeatable-ecommerce-visual-playbook-2018/` raw EPUB archive with 46 extracted chapter files and 249 image assets.
 - Created: `_meta/extraction-notes/brand-visual-repeatable-ecommerce-visual-playbook-2018/` source profile, source inventory, segment plan, knowledge architecture plan, chapter inventory, knowledge-unit inventory, coverage matrix, omission audit, source-to-page map, formal page plan, and audit handoff.
 - Created: `domains/visual-production/learning-paths/brand-visual-repeatable-ecommerce-visual-playbook/` index and 8 formal pages.
@@ -48,11 +62,6 @@
 - Updated: `domains/ecommerce-ops/index.md`
 - Updated: `index.md`
 - Notes: 将 2018 年淘宝平台工具和排名规则标为历史语境/待当前复核；正式页沉淀定位、选品、搜索、视觉、流量、客服、促销、供应链、财务、团队和六部曲成功模型。
-
-# Wiki Log
-
-> Chronological record of all wiki actions. Append-only.
-> Format: `## [YYYY-MM-DD] action | subject`
 
 ## [2026-06-08] ingest | 杉居轻厨房生活风品牌变体
 - Source asset: `raw/assets/visual-style/minimal-scandinavian/variants/shanju-light-kitchen-living/shanju-moodboard.png`
