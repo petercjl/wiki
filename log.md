@@ -2,6 +2,15 @@
 ## [2026-06-10] ingest | 品牌视觉：可复制的电商视觉终极玩法
 - Source: `raw/books/brand-visual-repeatable-ecommerce-visual-playbook-2018/source.epub`
 - Adapter: `llm-wiki-ingest/adapters/book.md`
+
+## [2026-06-11] ingest | 无限画板 Skill 写作知识库
+- Source: `raw/my-temp-data/infinite-canvas-skill.md`
+- Adapter: `llm-wiki-ingest/adapters/markdown-doc.md`
+- Created: `_meta/extraction-notes/infinite-canvas-skill-writing-2026-06-11/` source profile, source inventory, knowledge-unit inventory, coverage matrix, omission audit, formal page plan, and audit handoff.
+- Created: `domains/ai-agent-engineering/skill-design/infinite-canvas-skill-writing/` index and 7 formal pages covering core rules, tool specs, task patterns, prompt patterns, common pitfalls, quality checklist, and Agent usage template.
+- Updated: `domains/ai-agent-engineering/index.md`
+- Updated: `index.md`
+- Notes: 将 15 个无限画板 skill 汇总从原文案例重构为面向未来 Agent 写 `skill.md` 的可检索规则库，重点沉淀产品保真、风格迁移、营销真实性、批量处理、工具参数和历史反坑项。
 - Created: `raw/books/brand-visual-repeatable-ecommerce-visual-playbook-2018/` raw EPUB archive with 46 extracted chapter files and 249 image assets.
 - Created: `_meta/extraction-notes/brand-visual-repeatable-ecommerce-visual-playbook-2018/` source profile, source inventory, segment plan, knowledge architecture plan, chapter inventory, knowledge-unit inventory, coverage matrix, omission audit, source-to-page map, formal page plan, and audit handoff.
 - Created: `domains/visual-production/learning-paths/brand-visual-repeatable-ecommerce-visual-playbook/` index and 8 formal pages.

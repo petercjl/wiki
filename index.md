@@ -1,8 +1,8 @@
 # Wiki Index
 
 > Content catalog. Every formal wiki page should be listed here.
-> Last updated: 2026-06-09
-> Total formal pages: 166
+> Last updated: 2026-06-11
+> Total formal pages: 174
 
 ## Domains
 
@@ -22,6 +22,7 @@
 
 ## AI Agent Engineering
 
+- [[domains/ai-agent-engineering/skill-design/infinite-canvas-skill-writing/index|无限画板 Skill 写作知识库]]：从 15 个无限画板 skill 汇总中提炼的创建/优化规则、工具规范、任务范式、Prompt 模板、反坑清单和 Agent 使用模板。
 - [[domains/ai-agent-engineering/skill-design/personal-ai-agent-skill-registry|个人/项目 Skill 注册库]]：只收录 Peter 自己创建、让 Agent 为项目定制、或明显服务于 Peter 项目/业务流程的 skill，是日常检索“有没有类似 skill”的优先入口。
 - [[domains/ai-agent-engineering/skill-design/ai-agent-skill-registry|跨 Agent Skill 注册库]]：统一检索 Codex、Hermes、Lark Agent、OpenClaw、SealSeek、Claude Code 的 skill，定位原始 `SKILL.md` 并判断复用或迁移可能。
 - [[domains/ai-agent-engineering/skill-design/codex-skill-inventory|Codex Skill 注册页]]：Codex 本地业务 skill 与系统 skill 的检索描述、输入方式、关键词和文件位置。
