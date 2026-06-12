@@ -1,0 +1,102 @@
+# EPUB Manifest Summary
+
+- OPF path: `content.opf`
+- NCX path: `toc.ncx`
+- ZIP file count: 98
+
+## HTML Files
+
+- `titlepage.xhtml`
+- `index_split_000.html`
+- `index_split_001.html`
+- `index_split_002.html`
+- `index_split_003.html`
+- `index_split_004.html`
+- `index_split_005.html`
+- `index_split_006.html`
+- `index_split_007.html`
+
+## Image Files
+
+- `cover_image.jpg`
+- `index-1_1.jpg`
+- `index-2_1.jpg`
+- `index-3_1.jpg`
+- `index-7_1.jpg`
+- `index-13_1.jpg`
+- `index-14_1.jpg`
+- `index-16_1.jpg`
+- `index-18_1.jpg`
+- `index-20_1.jpg`
+- `index-23_1.jpg`
+- `index-24_1.jpg`
+- `index-26_1.jpg`
+- `index-30_1.jpg`
+- `index-31_1.jpg`
+- `index-32_1.jpg`
+- `index-33_1.jpg`
+- `index-35_1.jpg`
+- `index-37_1.jpg`
+- `index-40_1.jpg`
+- `index-41_1.jpg`
+- `index-43_1.jpg`
+- `index-51_1.jpg`
+- `index-56_1.jpg`
+- `index-57_1.jpg`
+- `index-59_1.jpg`
+- `index-65_1.jpg`
+- `index-66_1.jpg`
+- `index-68_1.jpg`
+- `index-70_1.jpg`
+- `index-71_1.jpg`
+- `index-81_1.jpg`
+- `index-82_1.jpg`
+- `index-84_1.jpg`
+- `index-85_1.jpg`
+- `index-86_1.jpg`
+- `index-88_1.jpg`
+- `index-89_1.jpg`
+- `index-90_1.jpg`
+- `index-93_1.jpg`
+- `index-95_1.jpg`
+- `index-96_1.jpg`
+- `index-108_1.jpg`
+- `index-110_1.jpg`
+- `index-111_1.jpg`
+- `index-112_1.jpg`
+- `index-113_1.jpg`
+- `index-115_1.jpg`
+- `index-117_1.jpg`
+- `index-118_1.jpg`
+- `index-120_1.jpg`
+- `index-121_1.jpg`
+- `index-123_1.jpg`
+- `index-126_1.jpg`
+- `index-134_1.jpg`
+- `index-136_1.jpg`
+- `index-143_1.jpg`
+- `index-151_1.jpg`
+- `index-152_1.jpg`
+- `index-155_1.jpg`
+- `index-157_1.jpg`
+- `index-161_1.jpg`
+- `index-162_1.jpg`
+- `index-164_1.jpg`
+- `index-166_1.jpg`
+- `index-175_1.jpg`
+- `index-177_1.jpg`
+- `index-179_1.jpg`
+- `index-182_1.jpg`
+- `index-184_1.jpg`
+- `index-186_1.jpg`
+- `index-188_1.jpg`
+- `index-190_1.jpg`
+- `index-192_1.jpg`
+- `index-200_1.jpg`
+- `index-202_1.jpg`
+- `index-204_1.jpg`
+- `index-207_1.jpg`
+- `index-208_1.jpg`
+- `index-210_1.jpg`
+- `index-212_1.jpg`
+- `index-215_1.jpg`

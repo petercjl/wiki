@@ -54,3 +54,17 @@
 - [[domains/ecommerce-ops/learning-paths/taobao-operation-quick-guide-81-rules/11-taobao-operation-success-model|淘宝运营成功模型：六部曲]]
 - [[domains/ecommerce-ops/learning-paths/taobao-operation-quick-guide-81-rules/12-agent-usage-template|Agent 使用模板：淘宝店铺运营诊断]]
 <!-- taobao-operation-quick-guide:end -->
+
+<!-- cross-border-ecommerce-sme-globalization:start -->
+## 跨境电商出海学习路径
+
+- [[domains/ecommerce-ops/learning-paths/cross-border-ecommerce-sme-globalization|跨境电商赋能中小企业出海]]：基于洪勇 2026 年书籍重构的中小企业跨境出海 learning path，覆盖机会判断、市场调研、产品本地化、数字营销、物流、本地化运营、知识产权、支付、合规和风险管理。
+- [[domains/ecommerce-ops/learning-paths/cross-border-ecommerce-sme-globalization/01-cross-border-ecommerce-opportunity-and-entry-model|跨境电商黄金时代与进入模式]]
+- [[domains/ecommerce-ops/learning-paths/cross-border-ecommerce-sme-globalization/02-market-research-product-localization-and-brand-entry|市场调研、产品本地化与品牌进入]]
+- [[domains/ecommerce-ops/learning-paths/cross-border-ecommerce-sme-globalization/03-digital-marketing-growth-system|数字化营销增长系统]]
+- [[domains/ecommerce-ops/learning-paths/cross-border-ecommerce-sme-globalization/04-cross-border-logistics-capability-system|跨境物流能力系统]]
+- [[domains/ecommerce-ops/learning-paths/cross-border-ecommerce-sme-globalization/05-localization-operation-and-user-retention|本地化运营与用户留存]]
+- [[domains/ecommerce-ops/learning-paths/cross-border-ecommerce-sme-globalization/06-ip-payment-compliance-and-risk-protection|知识产权、支付、合规与风险防护]]
+- [[domains/ecommerce-ops/learning-paths/cross-border-ecommerce-sme-globalization/07-cross-border-platform-and-service-provider-case-library|跨境平台与服务商案例库]]
+- [[domains/ecommerce-ops/learning-paths/cross-border-ecommerce-sme-globalization/08-agent-usage-template|Agent 使用模板：中小企业跨境出海诊断]]
+<!-- cross-border-ecommerce-sme-globalization:end -->

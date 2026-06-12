@@ -3,6 +3,24 @@
 > Chronological record of all wiki actions. Append-only.
 > Format: `## [YYYY-MM-DD] action | subject`
 
+## [2026-06-13] ingest | 跨境电商赋能中小企业出海
+- Source: `raw/books/cross-border-ecommerce-sme-globalization-2026/source.epub`
+- Adapter: `llm-wiki-ingest/adapters/book.md`
+- Created: `raw/books/cross-border-ecommerce-sme-globalization-2026/` raw EPUB archive with 9 extracted chapter files and 82 image assets.
+- Created: `_meta/extraction-notes/cross-border-ecommerce-sme-globalization-2026/` source profile, source inventory, segment plan, knowledge architecture plan, chapter inventory, knowledge-unit inventory, coverage matrix, omission audit, source-to-page map, formal page plan, and audit handoff.
+- Created: `domains/ecommerce-ops/learning-paths/cross-border-ecommerce-sme-globalization/` index and 8 formal pages.
+- Updated: `domains/ecommerce-ops/index.md`
+- Updated: `index.md`
+- Notes: 将洪勇 2026 年《跨境电商：赋能中小企业出海》重构为中小企业跨境出海 learning path，覆盖机会判断、市场调研、产品本地化、数字营销、物流、本地化运营、知识产权、支付、合规和风险管理；平台、支付、物流与合规规则均标注为当前执行前需实时复核。
+
+
+## [2026-06-12] compile | 同步跨 Agent Skill 注册库
+- Updated: `domains/ai-agent-engineering/skill-design/ai-agent-skill-registry.md`
+- Updated: `domains/ai-agent-engineering/skill-design/personal-ai-agent-skill-registry.md`
+- Updated: agent-specific skill registry pages under `domains/ai-agent-engineering/skill-design/`
+- Updated: `index.md`
+- Updated: `domains/ai-agent-engineering/index.md`
+- Notes: 扫描系统中 Codex、Hermes、Lark Agent、OpenClaw、SealSeek、Claude Code 的 `SKILL.md`，当前总计 363 个 skill，其中个人/项目自定义 153 个；Codex 18, Hermes 166, Lark Agent 25, OpenClaw 4, SealSeek 124, Claude Code 26。Touched: domains/ai-agent-engineering/skill-design/ai-agent-skill-registry.md, domains/ai-agent-engineering/skill-design/personal-ai-agent-skill-registry.md, domains/ai-agent-engineering/skill-design/codex-skill-inventory.md, domains/ai-agent-engineering/skill-design/hermes-skill-registry.md, domains/ai-agent-engineering/skill-design/lark-agent-skill-registry.md, domains/ai-agent-engineering/skill-design/openclaw-skill-registry.md, domains/ai-agent-engineering/skill-design/sealseek-skill-registry.md, domains/ai-agent-engineering/skill-design/claude-code-skill-registry.md, index.md, domains/ai-agent-engineering/index.md。
 
 ## [2026-06-11] audit | 无限画板 Skill 写作知识库
 - Target: `domains/ai-agent-engineering/skill-design/infinite-canvas-skill-writing/`
@@ -461,6 +479,17 @@
 - Updated: `domains/ai-agent-engineering/index.md`
 - Updated: `index.md`
 - Notes: 将 SealSeek skill 来源从单一 `/Users/pechen/.sealseek/skill_pool` 扩展为多来源，新增 `/Users/pechen/.sealseek/workspace/skills`、`/Users/pechen/.sealseek/workspaces/default/skills`、`active_skills`、`customized_skills`、`backups`、`/Users/pechen/sealseek`、`/Users/pechen/hermes/xc-sealseek-aicoding-skill`。SealSeek 记录从 12 增至 118；跨 Agent 注册库总量从 249 增至 355。
+
+## [2026-06-12] refactor | LLM Wiki Skill 同源化与 Obsidian CLI 集成
+- Source: `/Users/pechen/.codex/skills/.llmwiki-source`
+- Source: `git@github.com:petercjl/LLMWiki.git`
+- Created: `domains/ai-agent-engineering/skill-design/llm-wiki-skill-source-package.md`
+- Updated: `domains/ai-agent-engineering/skill-design/personal-ai-agent-skill-registry.md`
+- Updated: `domains/ai-agent-engineering/skill-design/ai-agent-skill-registry.md`
+- Updated: `domains/ai-agent-engineering/skill-design/codex-skill-inventory.md`
+- Updated: `domains/ai-agent-engineering/index.md`
+- Updated: `index.md`
+- Notes: 将 LLM Wiki skill 收敛为 Codex 源头维护、GitHub 分发的 5 个发布入口；API docs、web clipping、book、course transcript 的旧独立入口并入 `llm-wiki-ingest` adapters；新增 Obsidian CLI query-pack、route-audit、health-check 协议与脚本。SealSeek/Hermes 旧副本不在本次直接清理，应后续从 GitHub 重新安装同源包。
 
 ## [2026-06-05] compile | 跨 Agent Skill 注册库重构
 - Created: `domains/ai-agent-engineering/skill-design/ai-agent-skill-registry.md`

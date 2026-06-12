@@ -1,8 +1,8 @@
 # Wiki Index
 
 > Content catalog. Every formal wiki page should be listed here.
-> Last updated: 2026-06-11
-> Total formal pages: 174
+> Last updated: 2026-06-13
+> Total formal pages: 183
 
 ## Domains
 
@@ -22,8 +22,8 @@
 
 ## AI Agent Engineering
 
-- [[domains/ai-agent-engineering/skill-design/infinite-canvas-skill-writing/index|无限画板 Skill 写作知识库]]：从 15 个无限画板 skill 汇总中提炼的创建/优化规则、工具规范、任务范式、Prompt 模板、反坑清单和 Agent 使用模板。
 - [[domains/ai-agent-engineering/skill-design/personal-ai-agent-skill-registry|个人/项目 Skill 注册库]]：只收录 Peter 自己创建、让 Agent 为项目定制、或明显服务于 Peter 项目/业务流程的 skill，是日常检索“有没有类似 skill”的优先入口。
+- [[domains/ai-agent-engineering/skill-design/llm-wiki-skill-source-package|LLM Wiki Skill 同源包]]：Codex 维护、GitHub 分发、SealSeek/Hermes 安装使用的 LLM Wiki skill 收敛规则与发布入口。
 - [[domains/ai-agent-engineering/skill-design/ai-agent-skill-registry|跨 Agent Skill 注册库]]：统一检索 Codex、Hermes、Lark Agent、OpenClaw、SealSeek、Claude Code 的 skill，定位原始 `SKILL.md` 并判断复用或迁移可能。
 - [[domains/ai-agent-engineering/skill-design/codex-skill-inventory|Codex Skill 注册页]]：Codex 本地业务 skill 与系统 skill 的检索描述、输入方式、关键词和文件位置。
 - [[domains/ai-agent-engineering/skill-design/hermes-skill-registry|Hermes Skill 注册页]]：Hermes 主 skill 目录的检索描述、输入方式、关键词和文件位置。
@@ -31,7 +31,6 @@
 - [[domains/ai-agent-engineering/skill-design/openclaw-skill-registry|OpenClaw Skill 注册页]]：OpenClaw workspace skill 的检索描述、输入方式、关键词和文件位置。
 - [[domains/ai-agent-engineering/skill-design/sealseek-skill-registry|SealSeek Skill 注册页]]：SealSeek 多来源 skill 的检索描述、输入方式、关键词和文件位置，覆盖 skill_pool、workspace、active/customized、standalone 和迁移包。
 - [[domains/ai-agent-engineering/skill-design/claude-code-skill-registry|Claude Code Skill 注册页]]：Claude Code plugin marketplace skill 的检索描述、输入方式、关键词和文件位置。
-- [[domains/ai-agent-engineering/toolchain/openai-image-generation-api|OpenAI 图像生成 API 集成指南]]：Image API 与 Responses API 的选择、参数、编辑、流式、错误处理和成本判断。
 
 ## Visual Production
 
@@ -97,6 +96,20 @@
 - [[domains/ecommerce-ops/learning-paths/consulting-logic/10-founder-life-guidance|10｜创始人人生引领]]
 - [[domains/ecommerce-ops/learning-paths/consulting-logic/11-agent-usage-template|11｜Agent 使用模板：电商企业咨询诊断]]
 <!-- ecommerce-consulting-logic:end -->
+
+<!-- cross-border-ecommerce-sme-globalization:start -->
+## 跨境电商出海学习路径
+
+- [[domains/ecommerce-ops/learning-paths/cross-border-ecommerce-sme-globalization|跨境电商赋能中小企业出海]]：基于洪勇 2026 年书籍重构的中小企业跨境出海 learning path，覆盖机会判断、市场调研、产品本地化、数字营销、物流、本地化运营、知识产权、支付、合规和风险管理。
+- [[domains/ecommerce-ops/learning-paths/cross-border-ecommerce-sme-globalization/01-cross-border-ecommerce-opportunity-and-entry-model|跨境电商黄金时代与进入模式]]
+- [[domains/ecommerce-ops/learning-paths/cross-border-ecommerce-sme-globalization/02-market-research-product-localization-and-brand-entry|市场调研、产品本地化与品牌进入]]
+- [[domains/ecommerce-ops/learning-paths/cross-border-ecommerce-sme-globalization/03-digital-marketing-growth-system|数字化营销增长系统]]
+- [[domains/ecommerce-ops/learning-paths/cross-border-ecommerce-sme-globalization/04-cross-border-logistics-capability-system|跨境物流能力系统]]
+- [[domains/ecommerce-ops/learning-paths/cross-border-ecommerce-sme-globalization/05-localization-operation-and-user-retention|本地化运营与用户留存]]
+- [[domains/ecommerce-ops/learning-paths/cross-border-ecommerce-sme-globalization/06-ip-payment-compliance-and-risk-protection|知识产权、支付、合规与风险防护]]
+- [[domains/ecommerce-ops/learning-paths/cross-border-ecommerce-sme-globalization/07-cross-border-platform-and-service-provider-case-library|跨境平台与服务商案例库]]
+- [[domains/ecommerce-ops/learning-paths/cross-border-ecommerce-sme-globalization/08-agent-usage-template|Agent 使用模板：中小企业跨境出海诊断]]
+<!-- cross-border-ecommerce-sme-globalization:end -->
 
 ## Ecommerce API
 
