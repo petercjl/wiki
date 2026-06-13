@@ -17,6 +17,16 @@
 
 - [[domains/ecommerce-ops/finance-accounting/ecommerce-platform-settlement-accounting|电商平台结算时间口径财务核算方法]]：将 XMind 碎片重构为平台结算时间确认收入、快麦成本匹配、保证金/特殊账户/推广费处理和五个平台账单核对 playbook。
 
+<!-- ecommerce-tax-equity-strategic-finance:start -->
+## 电商财税股权与战略财务
+
+- [[domains/ecommerce-ops/learning-paths/ecommerce-tax-equity-strategic-finance|电商企业财税股权与战略财务管理]]：基于财税股权 28 期 4 份课程转写重构的系统课，覆盖税务合规、四本账、税负模型、多主体架构、业财一体、股权控制、激励治理和战略财务。
+- [[domains/ecommerce-ops/learning-paths/ecommerce-tax-equity-strategic-finance/03-tax-compliance-path-and-red-lines|电商税务合规路径与红线]]
+- [[domains/ecommerce-ops/learning-paths/ecommerce-tax-equity-strategic-finance/06-business-finance-integration-profit-accounting|业财一体与利润核算体系]]
+- [[domains/ecommerce-ops/learning-paths/ecommerce-tax-equity-strategic-finance/07-equity-structure-shareholder-control|股权结构、持股主体与控制权设计]]
+- [[domains/ecommerce-ops/learning-paths/ecommerce-tax-equity-strategic-finance/11-agent-usage-template|电商企业财税股权诊断 Agent 模板]]
+<!-- ecommerce-tax-equity-strategic-finance:end -->
+
 ## 平台入驻与自营合作
 
 - [[domains/ecommerce-ops/platform-entry/index|平台入驻与自营合作知识库]]：沉淀天猫超市、京东自营等平台供应商/自营合作模式的入驻判断框架。

@@ -100,6 +100,23 @@
 <!-- ecommerce-consulting-logic:end -->
 
 <!-- cross-border-ecommerce-sme-globalization:start -->
+<!-- ecommerce-tax-equity-strategic-finance:start -->
+## 电商财税股权与战略财务
+
+- [[domains/ecommerce-ops/learning-paths/ecommerce-tax-equity-strategic-finance|电商企业财税股权与战略财务管理]]：基于财税股权 28 期 4 份课程转写重构的系统课，覆盖税务合规、四本账、税负模型、多主体架构、业财一体、股权控制、激励治理和战略财务。
+- [[domains/ecommerce-ops/learning-paths/ecommerce-tax-equity-strategic-finance/01-ecommerce-tax-risk-business-genes|电商企业财税风险的经营基因]]
+- [[domains/ecommerce-ops/learning-paths/ecommerce-tax-equity-strategic-finance/02-four-account-system|电商企业四本账：股东账、业务账、管理账、风险账]]
+- [[domains/ecommerce-ops/learning-paths/ecommerce-tax-equity-strategic-finance/03-tax-compliance-path-and-red-lines|电商税务合规路径与红线]]
+- [[domains/ecommerce-ops/learning-paths/ecommerce-tax-equity-strategic-finance/04-tax-burden-model-vat-income-tax-personal-tax|增值税、所得税与个税的电商税负模型]]
+- [[domains/ecommerce-ops/learning-paths/ecommerce-tax-equity-strategic-finance/05-multi-company-store-fund-separation|多公司、多店铺与资金隔离的合规架构]]
+- [[domains/ecommerce-ops/learning-paths/ecommerce-tax-equity-strategic-finance/06-business-finance-integration-profit-accounting|业财一体与利润核算体系]]
+- [[domains/ecommerce-ops/learning-paths/ecommerce-tax-equity-strategic-finance/07-equity-structure-shareholder-control|股权结构、持股主体与控制权设计]]
+- [[domains/ecommerce-ops/learning-paths/ecommerce-tax-equity-strategic-finance/08-incentive-dividend-budget-system|电商团队激励、分红与预算联动]]
+- [[domains/ecommerce-ops/learning-paths/ecommerce-tax-equity-strategic-finance/09-equity-as-resource-integration-tool|股权作为资源整合工具]]
+- [[domains/ecommerce-ops/learning-paths/ecommerce-tax-equity-strategic-finance/10-strategic-finance-competition-indicators|战略财务：用财务指标支撑竞争战略]]
+- [[domains/ecommerce-ops/learning-paths/ecommerce-tax-equity-strategic-finance/11-agent-usage-template|电商企业财税股权诊断 Agent 模板]]
+<!-- ecommerce-tax-equity-strategic-finance:end -->
+
 ## 跨境电商出海学习路径
 
 - [[domains/ecommerce-ops/learning-paths/cross-border-ecommerce-sme-globalization|跨境电商赋能中小企业出海]]：基于洪勇 2026 年书籍重构的中小企业跨境出海 learning path，覆盖机会判断、市场调研、产品本地化、数字营销、物流、本地化运营、知识产权、支付、合规和风险管理。
