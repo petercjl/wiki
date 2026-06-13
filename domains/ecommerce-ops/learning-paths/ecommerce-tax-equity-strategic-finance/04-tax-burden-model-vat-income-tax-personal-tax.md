@@ -1,0 +1,56 @@
+---
+title: 增值税、所得税与个税的电商税负模型
+type: concept
+created: 2026-06-13
+updated: 2026-06-13
+domain: ecommerce-ops
+tags: [ecommerce, finance-accounting, tax-compliance, equity, business-analysis, courseware]
+sources:
+  - raw/transcripts/ecommerce-tax-equity-course-28-2026-04/01-d1-morning-tax-equity-original.md
+  - raw/transcripts/ecommerce-tax-equity-course-28-2026-04/02-d1-afternoon-tax-original.md
+  - raw/transcripts/ecommerce-tax-equity-course-28-2026-04/03-d2-morning-finance-equity-original.md
+  - raw/transcripts/ecommerce-tax-equity-course-28-2026-04/04-d2-afternoon-strategy-finance-original.md
+  - _meta/extraction-notes/ecommerce-tax-equity-course-28-2026-04/coverage-matrix.md
+status: active
+---
+
+
+# 增值税、所得税与个税的电商税负模型
+
+## 结论
+
+电商税负不能只看收入规模，要看收入结构、毛利结构、推广结构、发票取得能力、主体类型和利润分配方式。合规后，不同经营模型会出现真实税负差异。
+
+## 增值税逻辑
+
+一般模型是：销项税额减进项税额。课程强调一个关键误区：企业不是简单按“利润”交增值税，而是先按销售产生销项，再用取得的进项抵扣。
+
+影响因素：
+
+- 采购、推广、快递、平台服务等是否能取得合规发票。
+- 人工成本通常不能作为增值税进项抵扣。
+- 内账收入若未做价税分离，会高估收入和利润。
+- 高毛利、高推广模型与低毛利、低推广模型，在利润相同情况下税负可能不同。
+
+## 企业所得税逻辑
+
+企业所得税基于应纳税所得额，即收入减成本费用后的利润口径。课程中涉及小型微利企业、普通企业等不同税率口径，正式执行前需按最新政策复核。
+
+## 个税与分红
+
+自然人股东分红通常涉及分红个税；股东借款长期不还、公司替股东承担个人消费等，也可能被税务机关关注。公司持公司分红是否免税，需要满足居民企业直接投资等条件，不能脱离条件泛化。
+
+## 税负测算框架
+
+测算电商税负时，至少拆以下项目：
+
+1. 含税收入与不含税收入。
+2. 货品成本与可抵扣进项。
+3. 推广费、平台费、快递费、仓储费进项。
+4. 人工、房租、无票成本。
+5. 企业所得税前利润。
+6. 股东分红或再投资安排。
+
+## Agent 使用提示
+
+不要直接问“税点是多少”。应先问：类目毛利、推广占比、票据取得率、主体类型、收入确认口径、利润分配方式。

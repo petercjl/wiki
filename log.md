@@ -13,6 +13,15 @@
 - Updated: `index.md`
 - Notes: 将洪勇 2026 年《跨境电商：赋能中小企业出海》重构为中小企业跨境出海 learning path，覆盖机会判断、市场调研、产品本地化、数字营销、物流、本地化运营、知识产权、支付、合规和风险管理；平台、支付、物流与合规规则均标注为当前执行前需实时复核。
 
+## [2026-06-13] ingest | 电商企业财税股权与战略财务管理
+- Source: `raw/transcripts/ecommerce-tax-equity-course-28-2026-04/` four transcript raw files from 财税股权 28 期.
+- Adapter: `llm-wiki-ingest/adapters/transcript.md`
+- Created: `_meta/extraction-notes/ecommerce-tax-equity-course-28-2026-04/` source profile, inventory, segment plan, micro-segment plan, knowledge-unit inventory, coverage matrix, omission audit, formal page plan, and audit handoff.
+- Created: `domains/ecommerce-ops/learning-paths/ecommerce-tax-equity-strategic-finance/` index and 11 formal pages.
+- Updated: `domains/ecommerce-ops/index.md`
+- Updated: `index.md`
+- Notes: 将 4 份录音转写作为一个课程源包重构，不按 D1/D2 时间顺序归档，而按税务合规、四本账、税负模型、多主体架构、业财一体、股权控制、激励治理、股权资源整合和战略财务组织；税率、政策阈值、股权架构、代持和税务整改动作均标注为执行前需专业复核。
+
 
 ## [2026-06-12] compile | 同步跨 Agent Skill 注册库
 - Updated: `domains/ai-agent-engineering/skill-design/ai-agent-skill-registry.md`
