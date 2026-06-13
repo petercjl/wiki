@@ -22,6 +22,15 @@
 - Updated: `index.md`
 - Notes: 将 4 份录音转写作为一个课程源包重构，不按 D1/D2 时间顺序归档，而按税务合规、四本账、税负模型、多主体架构、业财一体、股权控制、激励治理、股权资源整合和战略财务组织；税率、政策阈值、股权架构、代持和税务整改动作均标注为执行前需专业复核。
 
+## [2026-06-14] recompile | 电商企业财税股权与战略财务管理反浓缩修复
+- Trigger: Peter reviewed the first compile and pointed out that the two-day transcript had been over-compressed into outline-like knowledge.
+- Created: `_meta/extraction-notes/ecommerce-tax-equity-course-28-2026-04/recompile-standard.md`
+- Created: `_meta/extraction-notes/ecommerce-tax-equity-course-28-2026-04/recompile-audit-2026-06-14.md`
+- Rewritten: all 12 formal pages under `domains/ecommerce-ops/learning-paths/ecommerce-tax-equity-strategic-finance/` as expanded method-article style pages.
+- Added back detailed reasoning chains and anchors: 股东借款/注册资本/违规分红、收入确认/退货/好评返现、刷单/恶意分拆/服务费代销、价税分离/2026 新增值税法/滚动12个月/追溯登记、小型微利/汇算清缴、奖金包/阿米巴/虚拟股、四层架构/资金池、河北低价模型/涨价能力/供应链地位/存货虚增等。
+- QA: placeholder scan remains `SHELL: 0`, `THIN: 0`, `OK: 12`.
+- Note: This correction establishes a durable rule for transcript ingest: do not condense course transcripts into outline pages; compile them into expanded, evidence-backed, Agent-callable knowledge.
+
 ## [2026-06-13] audit | 电商企业财税股权与战略财务管理
 - Skill: `llm-wiki-audit-and-optimization`
 - Target: `domains/ecommerce-ops/learning-paths/ecommerce-tax-equity-strategic-finance/`
