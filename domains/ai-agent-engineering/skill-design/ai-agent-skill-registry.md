@@ -1,8 +1,8 @@
 ---
 title: 跨 Agent Skill 注册库
 type: concept
-created: 2026-06-05
-updated: 2026-06-05
+created: 2026-06-12
+updated: 2026-06-12
 domain: ai-agent-engineering
 tags: [ai-agent, skill, registry, toolchain, knowledge-base]
 sources:
@@ -25,7 +25,7 @@ status: active
 
 本页是所有 AI Agent skill 的统一检索入口。目标不是只记录“某个 agent 当前能不能直接调用”，而是帮助任何 Agent 回答：我们以前有没有写过类似 skill？它在哪个文件夹？是否可以复用、迁移或改造？
 
-当前覆盖 6 个 Agent / 环境，共 356 个 skill；其中个人/项目自定义 146 个。
+当前覆盖 6 个 Agent / 环境，共 363 个 skill；其中个人/项目自定义 153 个。
 
 ## 检索协议
 
@@ -40,7 +40,7 @@ status: active
 
 ## 归属分类统计
 
-- 个人/项目自定义: 146
+- 个人/项目自定义: 153
 - 系统/内置: 42
 - 运行时副本: 26
 - 归档/备份: 28
@@ -48,12 +48,12 @@ status: active
 
 ## Agent 分类入口
 
-- [[domains/ai-agent-engineering/skill-design/personal-ai-agent-skill-registry|个人/项目 Skill 注册库]]：146 个个人或项目定制 skill，日常优先检索。
-- [[domains/ai-agent-engineering/skill-design/codex-skill-inventory|Codex Skill 注册页]]：16 个 skill。来源：`/Users/pechen/.codex/skills`
-- [[domains/ai-agent-engineering/skill-design/hermes-skill-registry|Hermes Skill 注册页]]：167 个 skill。来源：`/Users/pechen/.hermes/skills`
+- [[domains/ai-agent-engineering/skill-design/personal-ai-agent-skill-registry|个人/项目 Skill 注册库]]：153 个个人或项目定制 skill，日常优先检索。
+- [[domains/ai-agent-engineering/skill-design/codex-skill-inventory|Codex Skill 注册页]]：18 个 skill。来源：`/Users/pechen/.codex/skills`
+- [[domains/ai-agent-engineering/skill-design/hermes-skill-registry|Hermes Skill 注册页]]：166 个 skill。来源：`/Users/pechen/.hermes/skills`
 - [[domains/ai-agent-engineering/skill-design/lark-agent-skill-registry|Lark Agent Skill 注册页]]：25 个 skill。来源：`/Users/pechen/.agents/skills`
 - [[domains/ai-agent-engineering/skill-design/openclaw-skill-registry|OpenClaw Skill 注册页]]：4 个 skill。来源：`/Users/pechen/.openclaw/workspace/skills`
-- [[domains/ai-agent-engineering/skill-design/sealseek-skill-registry|SealSeek Skill 注册页]]：118 个 skill。来源：`/Users/pechen/.sealseek/skill_pool`、`/Users/pechen/.sealseek/workspace/skills`、`/Users/pechen/.sealseek/workspaces/default/skills`、`/Users/pechen/.sealseek/workspaces/default/active_skills`、`/Users/pechen/.sealseek/workspaces/default/customized_skills`、`/Users/pechen/.sealseek/backups`、`/Users/pechen/sealseek`、`/Users/pechen/hermes/xc-sealseek-aicoding-skill`
+- [[domains/ai-agent-engineering/skill-design/sealseek-skill-registry|SealSeek Skill 注册页]]：124 个 skill。来源：`/Users/pechen/.sealseek/skill_pool`、`/Users/pechen/.sealseek/workspace/skills`、`/Users/pechen/.sealseek/workspaces/default/skills`、`/Users/pechen/.sealseek/workspaces/default/active_skills`、`/Users/pechen/.sealseek/workspaces/default/customized_skills`、`/Users/pechen/.sealseek/backups`、`/Users/pechen/sealseek`、`/Users/pechen/hermes/xc-sealseek-aicoding-skill`
 - [[domains/ai-agent-engineering/skill-design/claude-code-skill-registry|Claude Code Skill 注册页]]：26 个 skill。来源：`/Users/pechen/.claude/plugins/marketplaces/claude-plugins-official.bak`
 
 ## 全局能力索引
@@ -62,18 +62,24 @@ status: active
 
 - `skill-creator` (Codex, 系统/内置, system)：Guide for creating effective skills. This skill should be used when users want to create a new skill (or update an existing skill) that extends Codex'… 位置：`/Users/pechen/.codex/skills/.system/skill-creator/SKILL.md`
 - `ai-agent-skill-registry-sync` (Codex, 个人/项目自定义, local)：Scan Peter's local AI agent skill directories across Codex, Hermes, Lark Agent, OpenClaw, SealSeek, and Claude Code, then update the LLM Wiki skill re… 位置：`/Users/pechen/.codex/skills/ai-agent-skill-registry-sync/SKILL.md`
-- `api-docs-wiki-ingest` (Codex, 个人/项目自定义, local)：Ingest online API documentation into Peter's Obsidian LLM Wiki. Use when the user asks to collect, scrape, compile, classify, or "入脑" API docs from we… 位置：`/Users/pechen/.codex/skills/api-docs-wiki-ingest/SKILL.md`
+- `brand-planning-report` (Codex, 个人/项目自定义, local)：Generate a user-facing ecommerce brand planning HTML report from a standard 店铺商品 Excel workbook, using Peter's brand-strategy LLM Wiki for positioning… 位置：`/Users/pechen/.codex/skills/brand-planning-report/SKILL.md`
 - `llm-wiki` (Codex, 个人/项目自定义, local)：Karpathy's LLM Wiki — build and maintain a persistent, interlinked markdown knowledge base. Ingest sources, query compiled knowledge, and lint for con… 位置：`/Users/pechen/.codex/skills/llm-wiki/SKILL.md`
 - `llm-wiki-audit-and-optimization` (Codex, 个人/项目自定义, local)：Audit and optimize an LLM Wiki's compile-routing-reasoning quality. Use after a wiki/domain/learning path is built, or when a question-answer result n… 位置：`/Users/pechen/.codex/skills/llm-wiki-audit-and-optimization/SKILL.md`
-- `wiki-clippings-ingest` (Codex, 个人/项目自定义, local)：Ingest Peter's Obsidian Web Clipper notes from /Users/pechen/wiki/Clippings into the personal LLM Wiki. Use when the user asks to process Clippings, m… 位置：`/Users/pechen/.codex/skills/wiki-clippings-ingest/SKILL.md`
+- `llm-wiki-ingest` (Codex, 个人/项目自定义, local)：Unified and only LLM Wiki ingestion skill for Peter's /Users/pechen/wiki. Use for any source that should be compiled into the wiki, including Obsidian… 位置：`/Users/pechen/.codex/skills/llm-wiki-ingest/SKILL.md`
+- `llm-wiki-recompile-runner` (Codex, 个人/项目自定义, local)：Orchestrate repair of existing LLM Wiki domains or learning paths that contain shell/thin pages. Use after an audit finds placeholder pages, incomplet… 位置：`/Users/pechen/.codex/skills/llm-wiki-recompile-runner/SKILL.md`
 - `baoyu-comic` (Hermes, 个人/项目自定义, local)：Knowledge comics (知识漫画): educational, biography, tutorial. 位置：`/Users/pechen/.hermes/skills/creative/baoyu-comic/SKILL.md`
 - `obsidian` (Hermes, 通用安装/不确定, local)：Read, search, create, and edit notes in the Obsidian vault. 位置：`/Users/pechen/.hermes/skills/note-taking/obsidian/SKILL.md`
-- `course-transcript-to-knowledge` (Hermes, 个人/项目自定义, local)：Reconstruct, analyze, and enrich full knowledge systems from course/audio transcripts into Peter's LLM Wiki. Use for class recordings, Get/Feishu note… 位置：`/Users/pechen/.hermes/skills/productivity/course-transcript-to-knowledge/SKILL.md`
 - `douyin-link-to-knowledge` (Hermes, 个人/项目自定义, local)：Ingest a Douyin video link into Peter's LLM Wiki by resolving the share URL, downloading the video with luminote-style backend logic, transcribing/val… 位置：`/Users/pechen/.hermes/skills/productivity/douyin-link-to-knowledge/SKILL.md`
 - `llm-wiki` (Hermes, 个人/项目自定义, local)：Karpathy's LLM Wiki — build and maintain a persistent, interlinked markdown knowledge base. Ingest sources, query compiled knowledge, and lint for con… 位置：`/Users/pechen/.hermes/skills/research/llm-wiki/SKILL.md`
 - `llm-wiki-audit-and-optimization` (Hermes, 个人/项目自定义, local)：Audit and optimize an LLM Wiki's compile-routing-reasoning quality. Use after a wiki/domain/learning path is built, or when a question-answer result n… 位置：`/Users/pechen/.hermes/skills/research/llm-wiki-audit-and-optimization/SKILL.md`
 - `lark-drive` (Lark Agent, 系统/内置, local)：飞书云空间：管理云空间中的文件和文件夹。上传和下载文件、创建文件夹、复制/移动/删除文件、查看文件元数据、管理文档评论、管理文档权限、订阅用户评论变更事件、修改文件标题（docx、sheet、bitable、file、folder、wiki）；也负责把本地 Word/Markdown/Excel/C… 位置：`/Users/pechen/.agents/skills/lark-drive/SKILL.md`
 - `lark-wiki` (Lark Agent, 系统/内置, local)：飞书知识库：管理知识空间、空间成员和文档节点。创建和查询知识空间、查看和管理空间成员、管理节点层级结构、在知识库中组织文档和快捷方式。当用户需要在知识库中查找或创建文档、浏览知识空间结构、查看或管理空间成员、移动或复制节点时使用。 位置：`/Users/pechen/.agents/skills/lark-wiki/SKILL.md`
+- `lark-cli-doc-reader` (SealSeek, 个人/项目自定义, workspace-skills)：使用用户本机 /opt/homebrew/bin/lark-cli 读取飞书云文档。适用于按文档标题/文件名搜索并读取飞书 Docx/Doc/Wiki，或用户给出飞书文档 URL/token 时读取内容。重点规避 OpenClaw/SealClaw 环境变量导致的 lark-cli config b… 位置：`/Users/pechen/.sealseek/workspace/skills/lark-cli-doc-reader/SKILL.md`
+- `ai-agent-skill-registry-sync` (SealSeek, 个人/项目自定义, default-workspace-skills)：Scan Peter's local AI agent skill directories across Codex, Hermes, Lark Agent, OpenClaw, SealSeek, and Claude Code, then update the LLM Wiki skill re… 位置：`/Users/pechen/.sealseek/workspaces/default/skills/ai-agent-skill-registry-sync/SKILL.md`
+- `llm-wiki` (SealSeek, 个人/项目自定义, default-workspace-skills)：Karpathy's LLM Wiki — build and maintain a persistent, interlinked markdown knowledge base. Ingest sources, query compiled knowledge, and lint for con… 位置：`/Users/pechen/.sealseek/workspaces/default/skills/llm-wiki/SKILL.md`
+- `llm-wiki-audit-and-optimization` (SealSeek, 个人/项目自定义, default-workspace-skills)：Audit and optimize an LLM Wiki's compile-routing-reasoning quality. Use after a wiki/domain/learning path is built, or when a question-answer result n… 位置：`/Users/pechen/.sealseek/workspaces/default/skills/llm-wiki-audit-and-optimization/SKILL.md`
+- `llm-wiki-ingest` (SealSeek, 个人/项目自定义, default-workspace-skills)：Unified LLM Wiki ingestion skill for Peter's /Users/pechen/wiki. Use for any source that should be compiled into the wiki, including Obsidian Clipping… 位置：`/Users/pechen/.sealseek/workspaces/default/skills/llm-wiki-ingest/SKILL.md`
+- `llm-wiki-recompile-runner` (SealSeek, 个人/项目自定义, default-workspace-skills)：Orchestrate repair of existing LLM Wiki domains or learning paths that contain shell/thin pages. Use after an audit finds placeholder pages, incomplet… 位置：`/Users/pechen/.sealseek/workspaces/default/skills/llm-wiki-recompile-runner/SKILL.md`
 - `outline-paper-builder` (SealSeek, 个人/项目自定义, migration-bundle)：Reconstruct complete teaching-grade knowledge from mm/xmind outlines and output reviewable artifacts: lecture notes, optional long-form paper, and lec… 位置：`/Users/pechen/hermes/xc-sealseek-aicoding-skill/outline-paper-builder/SKILL.md`
 
 ### 视觉 / 内容 / 课件生产
@@ -169,6 +175,7 @@ status: active
 - `web-image-extractor` (SealSeek, 个人/项目自定义, workspace-skills)：网页图片批量采集 Skill。输入网页链接，自动识别并下载页面中的图片。 核心特性： 1. 复用 work-browser 浏览器实例，自动处理登录态 2. 支持已知网站的专用解析器（高效） 3. 支持未知网站的自动探索（自适应） 4. **自动进化**：探索成功后自动生成解析器代码并写入 skil… 位置：`/Users/pechen/.sealseek/workspace/skills/web-image-extractor/SKILL.md`
 - `xmind-cli` (SealSeek, 个人/项目自定义, workspace-skills)：XMind 脑图输出助手 — 把结构化内容或分析框架生成 .xmind 文件。 适合“帮我做成脑图”“输出成 XMind”“把这个方案整理成导图”“生成脑图文件”这类需求。 默认风格：向右展开、商务简洁、结构清晰。 位置：`/Users/pechen/.sealseek/workspace/skills/xmind-cli/SKILL.md`
 - `成套视觉生成` (SealSeek, 个人/项目自定义, workspace-skills)：基于 ecommerce-visual-plan 输出的规划 Excel，选择某一套方案，读取生图衔接表与图片展开表， 生成该方案下全部图位的逐图 prompt、参考图映射、一致性约束与执行清单，并在用户确认后调用 GPT Image 2 / gpt-image-2 完成整套图片生成。 位置：`/Users/pechen/.sealseek/workspace/skills/成套视觉生成/SKILL.md`
+- `无限画板 Skill 生成器` (SealSeek, 个人/项目自定义, workspace-skills)：根据用户的生图、生视频、图像编辑、分镜、视觉工作流等自然语言需求，先理解需求并输出规划，待用户确认后，生成无限画板中可直接使用的唯一 skill.md 文件内容，并同步维护 skill.md 文件与 README.md 迭代记录。 触发：生成无限画板 skill、做一个无限画板 skill.md、优… 位置：`/Users/pechen/.sealseek/workspace/skills/无限画板 Skill 生成器.backup-20260609-1118/SKILL.md`
 - `淘宝商品助手` (SealSeek, 个人/项目自定义, workspace-skills)：淘宝/天猫单品详情查询工具。输入商品ID或链接，获取商品完整信息： 标题、价格（原价/券后价）、销量、SKU列表（属性/价格/库存）、店铺信息、店铺评分、物流、评价数、主图等。 触发：用户要查某个商品的详情、查竞品信息、查商品价格/SKU/销量、提到"查商品/看商品/商品详情/竞品分析" 位置：`/Users/pechen/.sealseek/workspace/skills/淘宝商品助手/SKILL.md`
 - `电商视觉全套生成` (SealSeek, 个人/项目自定义, workspace-skills)：电商视觉全套生成 skill。输入产品参考图，按三个模块依次规划并生成完整电商视觉： 模块一：5张主图（3:4，含情绪文案）； 模块二：1张SKU场景图（1:1，含产品名称与尺寸规格标注）+ 1张白底图（1:1）； 模块三：10张详情页（3:4，场景叙事，含情绪文案）。 每个模块先规划、用户确认后再… 位置：`/Users/pechen/.sealseek/workspace/skills/电商视觉全套生成/SKILL.md`
 - `docx` (SealSeek, 运行时副本, active-skills)：Use this skill whenever the user wants to create, read, edit, or manipulate Word documents (.docx files). Triggers include: any mention of \"Word doc\… 位置：`/Users/pechen/.sealseek/workspaces/default/active_skills/docx/SKILL.md`
@@ -187,6 +194,7 @@ status: active
 - `search-term-relevance-scorer` (SealSeek, 个人/项目自定义, default-workspace-skills)：搜索词相关度评分器 — 输入一个搜索词排行 Excel 和一个产品图片目录，由系统 Agent 按既定流程完成搜索词预扫描、图片观察任务清单生成、产品画像抽取、逐词相关度评分、结构化依据生成与自然语言解释，再由脚本负责输入整理与结果导出。 适合“根据产品图判断哪些搜索词更相关”“给搜索词表做相关度评… 位置：`/Users/pechen/.sealseek/workspaces/default/skills/search-term-relevance-scorer/SKILL.md`
 - `shop-product-diagnosis` (SealSeek, 个人/项目自定义, default-workspace-skills)：Diagnose an ecommerce shop from a 商品列表 Excel workbook and produce a consulting-style HTML report plus an XMind action map. Use when Codex receives a s… 位置：`/Users/pechen/.sealseek/workspaces/default/skills/shop-product-diagnosis/SKILL.md`
 - `single-image-optimization` (SealSeek, 个人/项目自定义, default-workspace-skills)：Optimize one e-commerce image at a time through a structured workflow: analyze the image, extract page intent/product/style, propose optimization rout… 位置：`/Users/pechen/.sealseek/workspaces/default/skills/single-image-optimization/SKILL.md`
+- `无限画板 Skill 生成器` (SealSeek, 个人/项目自定义, default-workspace-skills)：根据用户的生图、生视频、图像编辑、分镜、视觉工作流等自然语言需求，先理解需求并输出规划，待用户确认后，生成无限画板中可直接使用的唯一 skill.md 文件内容，并同步维护 skill.md 文件与 README.md 迭代记录。 触发：生成无限画板 skill、做一个无限画板 skill.md、优… 位置：`/Users/pechen/.sealseek/workspaces/default/skills/skill-builder/SKILL.md`
 - `taobao-item` (SealSeek, 个人/项目自定义, default-workspace-skills)：淘宝商品助手 — 淘宝/天猫单品详情查询工具。输入商品ID或链接，获取商品完整信息： 标题、价格（原价/券后价）、销量、SKU列表（属性/价格/库存）、店铺信息、店铺评分、物流、评价数、主图等。 触发：用户要查某个商品的详情、查竞品信息、查商品价格/SKU/销量、提到"查商品/看商品/商品详情/竞品… 位置：`/Users/pechen/.sealseek/workspaces/default/skills/taobao-item/SKILL.md`
 - `web-image-extractor` (SealSeek, 个人/项目自定义, default-workspace-skills)：网页图片批量采集 Skill。输入网页链接，自动识别并下载页面中的图片。 核心特性： 1. 复用 work-browser 浏览器实例，自动处理登录态 2. 支持已知网站的专用解析器（高效） 3. 支持未知网站的自动探索（自适应） 4. **自动进化**：探索成功后自动生成解析器代码并写入 skil… 位置：`/Users/pechen/.sealseek/workspaces/default/skills/web-image-extractor/SKILL.md`
 - `xmind-cli` (SealSeek, 个人/项目自定义, default-workspace-skills)：XMind 脑图输出助手 — 把结构化内容或分析框架生成 .xmind 文件。 适合“帮我做成脑图”“输出成 XMind”“把这个方案整理成导图”“生成脑图文件”这类需求。 默认风格：向右展开、商务简洁、结构清晰。 位置：`/Users/pechen/.sealseek/workspaces/default/skills/xmind-cli/SKILL.md`
@@ -203,6 +211,7 @@ status: active
 
 ### 电商 / 商品 / 品牌运营
 
+- `ecommerce-profit-statement-automation` (Codex, 个人/项目自定义, local)：Automate ecommerce platform profit statement workbooks from settlement/funds/account bills. Use when the user wants to turn Taobao or other ecommerce … 位置：`/Users/pechen/.codex/skills/ecommerce-profit-statement-automation/SKILL.md`
 - `yuce-product-list-export` (Codex, 个人/项目自定义, local)：Use when the user wants to export 行情高手/预策平台 “商品列表” data after they have already logged in and manually navigated to the target report page. The skill … 位置：`/Users/pechen/.codex/skills/yuce-product-list-export/SKILL.md`
 - `real-chrome-web-reader` (Hermes, 个人/项目自定义, local)：使用本机真实 Chrome（保留登录态）+ Playwright 附加 + DOM 压缩读取网页。适合淘宝、生意参谋、千牛等需要登录态且反爬较强的网站。优先用于读取页面、压缩 DOM、点击、输入、滚动、截图。 位置：`/Users/pechen/.hermes/skills/productivity/real-chrome-web-reader/SKILL.md`
 - `taobao-native-search-to-excel` (Hermes, 个人/项目自定义, local)：使用淘宝桌面版（taobao-native / cli-rpc）搜索指定关键词，支持综合/销量排序与多页翻页，导出 Excel 到 ~/hermes/skills/taobao-native-search-to-excel/<搜索词>_<排序方式>_<页数>_<时间戳>/。 位置：`/Users/pechen/.hermes/skills/productivity/taobao-native-search-to-excel/SKILL.md`
@@ -270,7 +279,7 @@ status: active
 ### Agent 工程 / Skill / Plugin / MCP
 
 - `openai-docs` (Codex, 系统/内置, system)：Use when the user asks how to build with OpenAI products or APIs and needs up-to-date official documentation with citations, help choosing the latest … 位置：`/Users/pechen/.codex/skills/.system/openai-docs/SKILL.md`
-- `plugin-creator` (Codex, 系统/内置, system)：Create and scaffold plugin directories for Codex with a required `.codex-plugin/plugin.json`, optional plugin folders/files, and baseline placeholders… 位置：`/Users/pechen/.codex/skills/.system/plugin-creator/SKILL.md`
+- `plugin-creator` (Codex, 系统/内置, system)：Create and scaffold plugin directories for Codex with a required `.codex-plugin/plugin.json`, optional plugin folders/files, valid manifest defaults, … 位置：`/Users/pechen/.codex/skills/.system/plugin-creator/SKILL.md`
 - `skill-installer` (Codex, 系统/内置, system)：Install Codex skills into $CODEX_HOME/skills from a curated list or a GitHub repo path. Use when a user asks to list installable skills, install a cur… 位置：`/Users/pechen/.codex/skills/.system/skill-installer/SKILL.md`
 - `internal-plugin-workflow` (Codex, 个人/项目自定义, local)：Use when the user wants to build or iterate an internal Chrome browser extension against a page they have already opened, especially when the work inc… 位置：`/Users/pechen/.codex/skills/internal-plugin-workflow/SKILL.md`
 - `apple-notes` (Hermes, 通用安装/不确定, local)：Manage Apple Notes via memo CLI: create, search, edit. 位置：`/Users/pechen/.hermes/skills/apple/apple-notes/SKILL.md`
@@ -391,7 +400,6 @@ status: active
 - `全局脚本工具集` (SealSeek, 系统/内置, global-skill-pool)：Skill 基础设施脚本，提供环境初始化、依赖自动安装和跨平台启动能力。 包含：全局依赖安装（macOS/Linux/Windows）、Skill 运行时自动依赖引导（bootstrap）、Windows 嵌入式 Python 部署。 触发：首次部署环境、依赖缺失、新 Skill 开发时需要集成 b… 位置：`/Users/pechen/.sealseek/skill_pool/scripts/SKILL.md`
 - `智能数据分析` (SealSeek, 系统/内置, global-skill-pool)：基于 DuckDB 引擎的高效数据分析工具；当用户需要对 CSV/JSON/Parquet/Excel 等数据文件进行 SQL 查询、数据分析、数据抽样或需要自动纠错的查询执行时使用 位置：`/Users/pechen/.sealseek/skill_pool/smart-data-analyzer/SKILL.md`
 - `xlsx` (SealSeek, 系统/内置, global-skill-pool)：Use this skill any time a spreadsheet file is the primary input or output. This means any task where the user wants to: open, read, edit, or fix an ex… 位置：`/Users/pechen/.sealseek/skill_pool/xlsx/SKILL.md`
-- `无限画板 Skill 生成器` (SealSeek, 个人/项目自定义, workspace-skills)：根据用户的自然语言描述，按照无限画板的格式规范和工具规范，生成或修改 skill 文件。 支持两种模式：新建（从零生成）和修改（用户粘贴现有 skill 内容，按需求定向修改）。 输出文件：${name}_skill.md（skill 主体）和 README.md（名称与介绍）。 触发：帮我创建一个… 位置：`/Users/pechen/.sealseek/workspace/skills/无限画板 Skill 生成器/SKILL.md`
 - `browser_visible` (SealSeek, 运行时副本, active-skills)：当用户希望打开真实可见的浏览器窗口（而非后台无头模式）时，使用 browser_use 的 headed 参数启动浏览器，随后可正常 open/snapshot/click 等。适用于用户想亲眼看到页面、演示或调试场景。 位置：`/Users/pechen/.sealseek/workspaces/default/active_skills/browser_visible/SKILL.md`
 - `cron` (SealSeek, 运行时副本, active-skills)：通过 sealclaw 命令管理定时任务 - 创建、查询、暂停、恢复、删除任务 位置：`/Users/pechen/.sealseek/workspaces/default/active_skills/cron/SKILL.md`
 - `dingtalk_channel_connect` (SealSeek, 运行时副本, active-skills)：使用可视浏览器自动完成 SealClaw 的钉钉频道接入。适用于用户提到钉钉、DingTalk、开发者后台、Client ID、Client Secret、机器人、Stream 模式、绑定或配置 channel 的场景；支持遇到登录页时暂停，等待用户登录后继续。 位置：`/Users/pechen/.sealseek/workspaces/default/active_skills/dingtalk_channel/SKILL.md`
@@ -401,7 +409,6 @@ status: active
 - `全局脚本工具集` (SealSeek, 运行时副本, active-skills)：Skill 基础设施脚本，提供环境初始化、依赖自动安装和跨平台启动能力。 包含：全局依赖安装（macOS/Linux/Windows）、Skill 运行时自动依赖引导（bootstrap）、Windows 嵌入式 Python 部署。 触发：首次部署环境、依赖缺失、新 Skill 开发时需要集成 b… 位置：`/Users/pechen/.sealseek/workspaces/default/active_skills/scripts/SKILL.md`
 - `智能数据分析` (SealSeek, 运行时副本, active-skills)：基于 DuckDB 引擎的高效数据分析工具；当用户需要对 CSV/JSON/Parquet/Excel 等数据文件进行 SQL 查询、数据分析、数据抽样或需要自动纠错的查询执行时使用 位置：`/Users/pechen/.sealseek/workspaces/default/active_skills/smart-data-analyzer/SKILL.md`
 - `xlsx` (SealSeek, 运行时副本, active-skills)：Use this skill any time a spreadsheet file is the primary input or output. This means any task where the user wants to: open, read, edit, or fix an ex… 位置：`/Users/pechen/.sealseek/workspaces/default/active_skills/xlsx/SKILL.md`
-- `无限画板 Skill 生成器` (SealSeek, 个人/项目自定义, default-workspace-skills)：根据用户的自然语言描述，按照无限画板的格式规范和工具规范，生成或修改 skill 文件。 支持两种模式：新建（从零生成）和修改（用户粘贴现有 skill 内容，按需求定向修改）。 输出文件：${name}_skill.md（skill 主体）和 README.md（名称与介绍）。 触发：帮我创建一个… 位置：`/Users/pechen/.sealseek/workspaces/default/skills/skill-builder/SKILL.md`
 - `access` (Claude Code, 归档/备份, archived-or-backup)：Manage Discord channel access — approve pairings, edit allowlists, set DM/group policy. Use when the user asks to pair, approve someone, check who's a… 位置：`/Users/pechen/.claude/plugins/marketplaces/claude-plugins-official.bak/external_plugins/discord/skills/access/SKILL.md`
 - `configure` (Claude Code, 归档/备份, archived-or-backup)：Set up the Discord channel — save the bot token and review access policy. Use when the user pastes a Discord bot token, asks to configure Discord, ask… 位置：`/Users/pechen/.claude/plugins/marketplaces/claude-plugins-official.bak/external_plugins/discord/skills/configure/SKILL.md`
 - `access` (Claude Code, 归档/备份, archived-or-backup)：Manage iMessage channel access — approve pairings, edit allowlists, set DM/group policy. Use when the user asks to pair, approve someone, check who's … 位置：`/Users/pechen/.claude/plugins/marketplaces/claude-plugins-official.bak/external_plugins/imessage/skills/access/SKILL.md`

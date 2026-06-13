@@ -1,8 +1,8 @@
 ---
 title: OpenClaw Skill 注册页
 type: concept
-created: 2026-06-05
-updated: 2026-06-05
+created: 2026-06-12
+updated: 2026-06-12
 domain: ai-agent-engineering
 tags: [ai-agent, openclaw, skill, registry]
 sources:

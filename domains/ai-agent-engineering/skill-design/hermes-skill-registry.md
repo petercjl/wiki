@@ -1,8 +1,8 @@
 ---
 title: Hermes Skill 注册页
 type: concept
-created: 2026-06-05
-updated: 2026-06-05
+created: 2026-06-12
+updated: 2026-06-12
 domain: ai-agent-engineering
 tags: [ai-agent, hermes, skill, registry]
 sources:
@@ -20,11 +20,11 @@ status: active
 - `/Users/pechen/.hermes/skills`
 
 - 说明：Hermes main skills directory, excluding duplicated hermes-agent optional skill trees.
-- 当前记录数量：167
+- 当前记录数量：166
 
 归属分类统计：
 
-- 个人/项目自定义: 52
+- 个人/项目自定义: 51
 - 归档/备份: 1
 - 通用安装/不确定: 114
 
@@ -41,7 +41,6 @@ status: active
 
 - `baoyu-comic` (个人/项目自定义 / local)：Knowledge comics (知识漫画): educational, biography, tutorial.
 - `obsidian` (通用安装/不确定 / local)：Read, search, create, and edit notes in the Obsidian vault.
-- `course-transcript-to-knowledge` (个人/项目自定义 / local)：Reconstruct, analyze, and enrich full knowledge systems from course/audio transcripts into Peter's LLM Wiki. Use for cla…
 - `douyin-link-to-knowledge` (个人/项目自定义 / local)：Ingest a Douyin video link into Peter's LLM Wiki by resolving the share URL, downloading the video with luminote-style b…
 - `llm-wiki` (个人/项目自定义 / local)：Karpathy's LLM Wiki — build and maintain a persistent, interlinked markdown knowledge base. Ingest sources, query compil…
 - `llm-wiki-audit-and-optimization` (个人/项目自定义 / local)：Audit and optimize an LLM Wiki's compile-routing-reasoning quality. Use after a wiki/domain/learning path is built, or w…
@@ -1345,18 +1344,6 @@ status: active
 - 功能检索描述：Build and debug chapterized course HTML-PPT pages with a centered 16:9 stage, shared assets, and reliable image-heavy slide layouts.
 - 输入 / 触发方式：课程大纲、逐页内容、PPT/XMind/课件制作或修改需求；图片路径、视觉目标、品类/风格/生成或编辑要求；代码仓库、文件路径、PR/Issue、调试或开发任务
 - 检索关键词：course-html-ppt-16x9-image-pages Build and debug chapterized course HTML-PPT pages with a centered 16:9 stage, shared assets, and reliable image-heavy slide layouts. productivity/course-html-ppt-16x9-image-pages/SKILL.md local
-
-### `course-transcript-to-knowledge`
-
-- Agent / 环境：Hermes
-- 归属分类：个人/项目自定义
-- 归属依据：Hermes skill 命中 Peter 项目/业务/知识库/电商/课程/视觉等定制关键词。
-- 来源类型：local
-- 能力分类：知识库 / 知识管理 / LLM Wiki
-- Skill 文件位置：`/Users/pechen/.hermes/skills/productivity/course-transcript-to-knowledge/SKILL.md`
-- 功能检索描述：Reconstruct, analyze, and enrich full knowledge systems from course/audio transcripts into Peter's LLM Wiki. Use for class recordings, Get/Feishu notes, or noisy spoken-course material. The goal is NOT summary or simple extraction; it is segmented knowledge reconstruction with coverage tracking and source-language removal.
-- 输入 / 触发方式：wiki 路径、资料来源、剪藏文件、知识库查询或维护需求；飞书/钉钉资源 URL/ID、文档/表格/日程/消息等操作需求；音视频链接/文件、转录稿、会议纪要或内容处理需求
-- 检索关键词：course-transcript-to-knowledge Course Transcript to Knowledge Reconstruction Reconstruct, analyze, and enrich full knowledge systems from course/audio transcripts into Peter's LLM Wiki. Use for class recordings, Get/Feishu notes, or noisy spoken-course material. The goal is NOT summary or simple extraction; it is segmented knowledge reconstruction with coverage tracking and source-language removal. productivity/course-transcript-to-knowledge/SKILL.md local
 
 ### `douyin-link-to-knowledge`
 
