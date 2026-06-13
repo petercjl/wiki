@@ -570,3 +570,11 @@
 - Created: `raw/assets/taobao/taobao-wanxiang-audience-promotion-yinlimofang-2026-06-11/original-image-crops/image-setup-manual-bid-resource-position.png`
 - Updated: `raw/webpages/taobao/taobao-wanxiang-audience-promotion-yinlimofang-cleaned-2026-06-11.md`
 - Notes: 验证更合适的图片采集方式：双击钉钉文档内图片打开预览层，再裁剪预览图片本体；整页截图仅作为调试备份，不作为正式知识库展示图。
+## [2026-06-13] ingest | 小红书生图提示词库
+- Source: `raw/articles/xiaohongshu-image-prompt-library-2026-06-13.md`
+- Created: `_meta/extraction-notes/xiaohongshu-image-prompt-library-2026-06-13/` note set.
+- Created: `domains/visual-production/xiaohongshu-image-generation/` index and 9 formal pages.
+- Created: `queries/xiaohongshu-image-generation.md`.
+- Updated: `domains/visual-production/index.md`.
+- Updated: `index.md`.
+- Notes: 将小红书生图提示词库编译为内容场景、封面类型、组图结构、卖点转译、变量库、模板库、QA 和 Agent 使用入口。

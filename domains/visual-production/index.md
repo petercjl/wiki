@@ -29,6 +29,12 @@
 - [[domains/visual-production/visual-styles/minimal-scandinavian/variants/shanju-light-kitchen-living|杉居轻厨房生活风]]：极简北欧风的杉居品牌变体，围绕厨房工具、室内厨房、露台庭院和户外轻料理建立品牌化生图规则。
 - [[queries/shanju-light-kitchen-living-image-generation|杉居轻厨房生活风生图查询入口]]：Agent 生成、改写或审核杉居品牌风格图片前的读取入口。
 
+
+## 小红书风格 AI 生图
+
+- [[domains/visual-production/xiaohongshu-image-generation/index|小红书风格 AI 生图知识库]]：把小红书内容逻辑转化为 AI 生图方法，覆盖封面类型、组图结构、卖点转译、信息流/搜索承接、prompt 模板和 QA。
+- [[queries/xiaohongshu-image-generation|小红书风格生图查询入口]]：Agent 生成、改写或审核小红书图片 prompt 前的读取入口。
+
 ## AI 视频工具与模型
 
 - [[domains/visual-production/ai-video/doubao-seedance-2-0|Doubao-Seedance-2.0 视频生成模型卡]]：火山方舟 Seedance 2.0 的模型 ID、能力、价格快照、API 入口、限制和三类 demo prompt 模式。
