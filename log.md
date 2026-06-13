@@ -22,6 +22,15 @@
 - Updated: `index.md`
 - Notes: 将 4 份录音转写作为一个课程源包重构，不按 D1/D2 时间顺序归档，而按税务合规、四本账、税负模型、多主体架构、业财一体、股权控制、激励治理、股权资源整合和战略财务组织；税率、政策阈值、股权架构、代持和税务整改动作均标注为执行前需专业复核。
 
+## [2026-06-13] audit | 电商企业财税股权与战略财务管理
+- Skill: `llm-wiki-audit-and-optimization`
+- Target: `domains/ecommerce-ops/learning-paths/ecommerce-tax-equity-strategic-finance/`
+- Mechanical scan: `SHELL: 0`, `THIN: 0`, `OK: 12`.
+- Audited: compile quality, route quality, reasoning readiness, raw/formal evidence-anchor coverage.
+- Patched: added missing case and number anchors into formal pages 03/04/06/07/08/09/10, including 山东暖宝宝补税、小规模天猫 1100 万/350 万、四平台边际贡献、2.5 亿/4 万单/13% 退货率、李子柒/微念、罗振宇/申音、雷士照明、良品铺子、石家庄 200 万供应链绑定、代理型业务财务风险等。
+- Created: `_meta/extraction-notes/ecommerce-tax-equity-course-28-2026-04/qa-audit-report.md`
+- Verdict: no P0 blockers; post-patch state is usable as a structured Agent-callable learning path. Remaining improvements are optional P2 route conveniences such as a dedicated query entry and cross-linking with platform settlement accounting.
+
 
 ## [2026-06-12] compile | 同步跨 Agent Skill 注册库
 - Updated: `domains/ai-agent-engineering/skill-design/ai-agent-skill-registry.md`
