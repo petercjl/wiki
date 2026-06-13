@@ -2,7 +2,7 @@
 
 > Content catalog. Every formal wiki page should be listed here.
 > Last updated: 2026-06-13
-> Total formal pages: 183
+> Total formal pages: 194
 
 ## Domains
 
@@ -46,6 +46,8 @@
 
 - [[domains/visual-production/ai-video/doubao-seedance-2-0|Doubao-Seedance-2.0 视频生成模型卡]]：火山方舟 Seedance 2.0 的模型 ID、能力、价格快照、API 入口、限制和三类 demo prompt 模式。
 - [[domains/visual-production/playbooks/ecommerce-image-marketing-production-playbook|电商图片营销策划与 AI 生图 Playbook]]：把电商图片营销理论落地为用户定义、FABE 卖点转译、图位任务、视觉策略、图上文案和生图 prompt 工作流。
+- [[domains/visual-production/xiaohongshu-image-generation/index|小红书风格 AI 生图知识库]]：把小红书内容逻辑编译为可复用的 AI 生图知识库，覆盖内容场景、封面类型、组图结构、卖点转译、prompt 模板和 QA。
+- [[queries/xiaohongshu-image-generation|小红书风格生图查询入口]]：Agent 生成、改写或审核小红书图片 prompt 前的读取入口。
 - [[domains/visual-production/visual-styles|AI 生图风格库]]：按“每个风格一个目录”组织风格定义、playbook 和参考图索引，避免多风格资料平铺混乱。
 - [[domains/visual-production/visual-styles/minimal-scandinavian|极简北欧风]]：把北欧极简拆成色彩、材质、光线、空间、构图和边界，供 AI 生图稳定复现。
 - [[domains/visual-production/visual-styles/minimal-scandinavian/playbook|极简北欧风 AI 生图 Playbook]]：面向产品图的 prompt 骨架、场景配方、负向约束、参考图权重和 QA 清单。
