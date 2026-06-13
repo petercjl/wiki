@@ -1,8 +1,8 @@
 ---
 title: SealSeek Skill 注册页
 type: concept
-created: 2026-06-05
-updated: 2026-06-05
+created: 2026-06-12
+updated: 2026-06-12
 domain: ai-agent-engineering
 tags: [ai-agent, sealseek, skill, registry]
 sources:
@@ -34,11 +34,11 @@ status: active
 - `/Users/pechen/hermes/xc-sealseek-aicoding-skill`
 
 - 说明：SealSeek multi-source skills: global skill_pool, workspace skills, default workspace, active/customized skills, local standalone skills, backups, and migration bundles.
-- 当前记录数量：118
+- 当前记录数量：124
 
 归属分类统计：
 
-- 个人/项目自定义: 79
+- 个人/项目自定义: 85
 - 系统/内置: 12
 - 运行时副本: 26
 - 归档/备份: 1
@@ -48,11 +48,11 @@ SealSeek 来源类型统计：
 - active-skills: 26
 - backup: 1
 - customized-skills: 6
-- default-workspace-skills: 26
+- default-workspace-skills: 31
 - global-skill-pool: 12
 - migration-bundle: 7
 - standalone-local: 4
-- workspace-skills: 36
+- workspace-skills: 37
 
 ## 使用规则
 
@@ -65,6 +65,12 @@ SealSeek 来源类型统计：
 
 ### 知识库 / 知识管理 / LLM Wiki
 
+- `lark-cli-doc-reader` (个人/项目自定义 / workspace-skills)：使用用户本机 /opt/homebrew/bin/lark-cli 读取飞书云文档。适用于按文档标题/文件名搜索并读取飞书 Docx/Doc/Wiki，或用户给出飞书文档 URL/token 时读取内容。重点规避 OpenClaw/Seal…
+- `ai-agent-skill-registry-sync` (个人/项目自定义 / default-workspace-skills)：Scan Peter's local AI agent skill directories across Codex, Hermes, Lark Agent, OpenClaw, SealSeek, and Claude Code, the…
+- `llm-wiki` (个人/项目自定义 / default-workspace-skills)：Karpathy's LLM Wiki — build and maintain a persistent, interlinked markdown knowledge base. Ingest sources, query compil…
+- `llm-wiki-audit-and-optimization` (个人/项目自定义 / default-workspace-skills)：Audit and optimize an LLM Wiki's compile-routing-reasoning quality. Use after a wiki/domain/learning path is built, or w…
+- `llm-wiki-ingest` (个人/项目自定义 / default-workspace-skills)：Unified LLM Wiki ingestion skill for Peter's /Users/pechen/wiki. Use for any source that should be compiled into the wik…
+- `llm-wiki-recompile-runner` (个人/项目自定义 / default-workspace-skills)：Orchestrate repair of existing LLM Wiki domains or learning paths that contain shell/thin pages. Use after an audit find…
 - `outline-paper-builder` (个人/项目自定义 / migration-bundle)：Reconstruct complete teaching-grade knowledge from mm/xmind outlines and output reviewable artifacts: lecture notes, opt…
 
 ### 视觉 / 内容 / 课件生产
@@ -85,6 +91,7 @@ SealSeek 来源类型统计：
 - `web-image-extractor` (个人/项目自定义 / workspace-skills)：网页图片批量采集 Skill。输入网页链接，自动识别并下载页面中的图片。 核心特性： 1. 复用 work-browser 浏览器实例，自动处理登录态 2. 支持已知网站的专用解析器（高效） 3. 支持未知网站的自动探索（自适应） 4. *…
 - `xmind-cli` (个人/项目自定义 / workspace-skills)：XMind 脑图输出助手 — 把结构化内容或分析框架生成 .xmind 文件。 适合“帮我做成脑图”“输出成 XMind”“把这个方案整理成导图”“生成脑图文件”这类需求。 默认风格：向右展开、商务简洁、结构清晰。
 - `成套视觉生成` (个人/项目自定义 / workspace-skills)：基于 ecommerce-visual-plan 输出的规划 Excel，选择某一套方案，读取生图衔接表与图片展开表， 生成该方案下全部图位的逐图 prompt、参考图映射、一致性约束与执行清单，并在用户确认后调用 GPT Image 2 …
+- `无限画板 Skill 生成器` (个人/项目自定义 / workspace-skills)：根据用户的生图、生视频、图像编辑、分镜、视觉工作流等自然语言需求，先理解需求并输出规划，待用户确认后，生成无限画板中可直接使用的唯一 skill.md 文件内容，并同步维护 skill.md 文件与 README.md 迭代记录。 触发：生…
 - `淘宝商品助手` (个人/项目自定义 / workspace-skills)：淘宝/天猫单品详情查询工具。输入商品ID或链接，获取商品完整信息： 标题、价格（原价/券后价）、销量、SKU列表（属性/价格/库存）、店铺信息、店铺评分、物流、评价数、主图等。 触发：用户要查某个商品的详情、查竞品信息、查商品价格/SKU/…
 - `电商视觉全套生成` (个人/项目自定义 / workspace-skills)：电商视觉全套生成 skill。输入产品参考图，按三个模块依次规划并生成完整电商视觉： 模块一：5张主图（3:4，含情绪文案）； 模块二：1张SKU场景图（1:1，含产品名称与尺寸规格标注）+ 1张白底图（1:1）； 模块三：10张详情页（3…
 - `docx` (运行时副本 / active-skills)：Use this skill whenever the user wants to create, read, edit, or manipulate Word documents (.docx files). Triggers inclu…
@@ -103,6 +110,7 @@ SealSeek 来源类型统计：
 - `search-term-relevance-scorer` (个人/项目自定义 / default-workspace-skills)：搜索词相关度评分器 — 输入一个搜索词排行 Excel 和一个产品图片目录，由系统 Agent 按既定流程完成搜索词预扫描、图片观察任务清单生成、产品画像抽取、逐词相关度评分、结构化依据生成与自然语言解释，再由脚本负责输入整理与结果导出。 …
 - `shop-product-diagnosis` (个人/项目自定义 / default-workspace-skills)：Diagnose an ecommerce shop from a 商品列表 Excel workbook and produce a consulting-style HTML report plus an XMind action ma…
 - `single-image-optimization` (个人/项目自定义 / default-workspace-skills)：Optimize one e-commerce image at a time through a structured workflow: analyze the image, extract page intent/product/st…
+- `无限画板 Skill 生成器` (个人/项目自定义 / default-workspace-skills)：根据用户的生图、生视频、图像编辑、分镜、视觉工作流等自然语言需求，先理解需求并输出规划，待用户确认后，生成无限画板中可直接使用的唯一 skill.md 文件内容，并同步维护 skill.md 文件与 README.md 迭代记录。 触发：生…
 - `taobao-item` (个人/项目自定义 / default-workspace-skills)：淘宝商品助手 — 淘宝/天猫单品详情查询工具。输入商品ID或链接，获取商品完整信息： 标题、价格（原价/券后价）、销量、SKU列表（属性/价格/库存）、店铺信息、店铺评分、物流、评价数、主图等。 触发：用户要查某个商品的详情、查竞品信息、查…
 - `web-image-extractor` (个人/项目自定义 / default-workspace-skills)：网页图片批量采集 Skill。输入网页链接，自动识别并下载页面中的图片。 核心特性： 1. 复用 work-browser 浏览器实例，自动处理登录态 2. 支持已知网站的专用解析器（高效） 3. 支持未知网站的自动探索（自适应） 4. *…
 - `xmind-cli` (个人/项目自定义 / default-workspace-skills)：XMind 脑图输出助手 — 把结构化内容或分析框架生成 .xmind 文件。 适合“帮我做成脑图”“输出成 XMind”“把这个方案整理成导图”“生成脑图文件”这类需求。 默认风格：向右展开、商务简洁、结构清晰。
@@ -181,7 +189,6 @@ SealSeek 来源类型统计：
 - `全局脚本工具集` (系统/内置 / global-skill-pool)：Skill 基础设施脚本，提供环境初始化、依赖自动安装和跨平台启动能力。 包含：全局依赖安装（macOS/Linux/Windows）、Skill 运行时自动依赖引导（bootstrap）、Windows 嵌入式 Python 部署。 触发…
 - `智能数据分析` (系统/内置 / global-skill-pool)：基于 DuckDB 引擎的高效数据分析工具；当用户需要对 CSV/JSON/Parquet/Excel 等数据文件进行 SQL 查询、数据分析、数据抽样或需要自动纠错的查询执行时使用
 - `xlsx` (系统/内置 / global-skill-pool)：Use this skill any time a spreadsheet file is the primary input or output. This means any task where the user wants to: …
-- `无限画板 Skill 生成器` (个人/项目自定义 / workspace-skills)：根据用户的自然语言描述，按照无限画板的格式规范和工具规范，生成或修改 skill 文件。 支持两种模式：新建（从零生成）和修改（用户粘贴现有 skill 内容，按需求定向修改）。 输出文件：${name}_skill.md（skill 主体…
 - `browser_visible` (运行时副本 / active-skills)：当用户希望打开真实可见的浏览器窗口（而非后台无头模式）时，使用 browser_use 的 headed 参数启动浏览器，随后可正常 open/snapshot/click 等。适用于用户想亲眼看到页面、演示或调试场景。
 - `cron` (运行时副本 / active-skills)：通过 sealclaw 命令管理定时任务 - 创建、查询、暂停、恢复、删除任务
 - `dingtalk_channel_connect` (运行时副本 / active-skills)：使用可视浏览器自动完成 SealClaw 的钉钉频道接入。适用于用户提到钉钉、DingTalk、开发者后台、Client ID、Client Secret、机器人、Stream 模式、绑定或配置 channel 的场景；支持遇到登录页时暂停…
@@ -191,7 +198,6 @@ SealSeek 来源类型统计：
 - `全局脚本工具集` (运行时副本 / active-skills)：Skill 基础设施脚本，提供环境初始化、依赖自动安装和跨平台启动能力。 包含：全局依赖安装（macOS/Linux/Windows）、Skill 运行时自动依赖引导（bootstrap）、Windows 嵌入式 Python 部署。 触发…
 - `智能数据分析` (运行时副本 / active-skills)：基于 DuckDB 引擎的高效数据分析工具；当用户需要对 CSV/JSON/Parquet/Excel 等数据文件进行 SQL 查询、数据分析、数据抽样或需要自动纠错的查询执行时使用
 - `xlsx` (运行时副本 / active-skills)：Use this skill any time a spreadsheet file is the primary input or output. This means any task where the user wants to: …
-- `无限画板 Skill 生成器` (个人/项目自定义 / default-workspace-skills)：根据用户的自然语言描述，按照无限画板的格式规范和工具规范，生成或修改 skill 文件。 支持两种模式：新建（从零生成）和修改（用户粘贴现有 skill 内容，按需求定向修改）。 输出文件：${name}_skill.md（skill 主体…
 
 ## Skill 详情
 
@@ -446,6 +452,18 @@ SealSeek 来源类型统计：
 - 功能检索描述：关键词流量解析 — 万相台无界版关键词流量趋势分析工具。查询指定关键词在付费搜索场景下的长期市场数据趋势（最多13个月），包括： - 展现指数、点击指数、点击率、点击转化率、竞争指数、市场均价 - 自动匹配关键词所属行业类目 - 市场数据总结（词特性、流量趋势、竞争情况、人群/时间特征） 触发：用户提到"关键词趋势/流量趋势/13个月数据/月度趋势/展现指数/竞争指数/市场均价"，或在使用关键词分析助手后想深入分析某个词的长期走势。 排除：关键词拓展/排行榜（用关键词助手）、创建推广计划（用推广管理助手）。
 - 输入 / 触发方式：电商平台页面、商品/店铺/关键词数据、运营规则或视觉策划需求
 - 检索关键词：keyword-traffic Step 0: 登录获取 Cookie（首次使用必做） 关键词流量解析 — 万相台无界版关键词流量趋势分析工具。查询指定关键词在付费搜索场景下的长期市场数据趋势（最多13个月），包括： - 展现指数、点击指数、点击率、点击转化率、竞争指数、市场均价 - 自动匹配关键词所属行业类目 - 市场数据总结（词特性、流量趋势、竞争情况、人群/时间特征） 触发：用户提到"关键词趋势/流量趋势/13个月数据/月度趋势/展现指数/竞争指数/市场均价"，或在使用关键词分析助手后想深入分析某个词的长期走势。 排除：关键词拓展/排行榜（用关键词助手）、创建推广计划（用推广管理助手）。 keyword-traffic/SKILL.md workspace-skills
+
+### `lark-cli-doc-reader`
+
+- Agent / 环境：SealSeek
+- 归属分类：个人/项目自定义
+- 归属依据：SealSeek workspace/customized/standalone/migration skill，按个人/项目自定义处理。
+- 来源类型：workspace-skills
+- 能力分类：知识库 / 知识管理 / LLM Wiki
+- Skill 文件位置：`/Users/pechen/.sealseek/workspace/skills/lark-cli-doc-reader/SKILL.md`
+- 功能检索描述：使用用户本机 /opt/homebrew/bin/lark-cli 读取飞书云文档。适用于按文档标题/文件名搜索并读取飞书 Docx/Doc/Wiki，或用户给出飞书文档 URL/token 时读取内容。重点规避 OpenClaw/SealClaw 环境变量导致的 lark-cli config bind 误判。
+- 输入 / 触发方式：API 文档 URL、接口规格、鉴权/参数/示例需求；wiki 路径、资料来源、剪藏文件、知识库查询或维护需求；飞书/钉钉资源 URL/ID、文档/表格/日程/消息等操作需求；agent/skill/plugin 名称、目标能力、运行环境或迁移需求
+- 检索关键词：lark-cli-doc-reader Lark CLI Doc Reader 使用用户本机 /opt/homebrew/bin/lark-cli 读取飞书云文档。适用于按文档标题/文件名搜索并读取飞书 Docx/Doc/Wiki，或用户给出飞书文档 URL/token 时读取内容。重点规避 OpenClaw/SealClaw 环境变量导致的 lark-cli config bind 误判。 lark-cli-doc-reader/SKILL.md workspace-skills
 
 ### `market-analysis`
 
@@ -729,11 +747,11 @@ SealSeek 来源类型统计：
 - 归属分类：个人/项目自定义
 - 归属依据：SealSeek workspace/customized/standalone/migration skill，按个人/项目自定义处理。
 - 来源类型：workspace-skills
-- 能力分类：Agent 工程 / Skill / Plugin / MCP
-- Skill 文件位置：`/Users/pechen/.sealseek/workspace/skills/无限画板 Skill 生成器/SKILL.md`
-- 功能检索描述：根据用户的自然语言描述，按照无限画板的格式规范和工具规范，生成或修改 skill 文件。 支持两种模式：新建（从零生成）和修改（用户粘贴现有 skill 内容，按需求定向修改）。 输出文件：${name}_skill.md（skill 主体）和 README.md（名称与介绍）。 触发：帮我创建一个 skill、我想做一个新 skill、帮我修改这个 skill、优化这个 skill 文件。
-- 输入 / 触发方式：agent/skill/plugin 名称、目标能力、运行环境或迁移需求
-- 检索关键词：无限画板 Skill 生成器 无限画板 · Skill 生成器 根据用户的自然语言描述，按照无限画板的格式规范和工具规范，生成或修改 skill 文件。 支持两种模式：新建（从零生成）和修改（用户粘贴现有 skill 内容，按需求定向修改）。 输出文件：${name}_skill.md（skill 主体）和 README.md（名称与介绍）。 触发：帮我创建一个 skill、我想做一个新 skill、帮我修改这个 skill、优化这个 skill 文件。 无限画板 Skill 生成器/SKILL.md workspace-skills
+- 能力分类：视觉 / 内容 / 课件生产
+- Skill 文件位置：`/Users/pechen/.sealseek/workspace/skills/无限画板 Skill 生成器.backup-20260609-1118/SKILL.md`
+- 功能检索描述：根据用户的生图、生视频、图像编辑、分镜、视觉工作流等自然语言需求，先理解需求并输出规划，待用户确认后，生成无限画板中可直接使用的唯一 skill.md 文件内容，并同步维护 skill.md 文件与 README.md 迭代记录。 触发：生成无限画板 skill、做一个无限画板 skill.md、优化这个无限画板 skill、根据反馈修改 skill.md。
+- 输入 / 触发方式：图片路径、视觉目标、品类/风格/生成或编辑要求；agent/skill/plugin 名称、目标能力、运行环境或迁移需求；音视频链接/文件、转录稿、会议纪要或内容处理需求
+- 检索关键词：无限画板 Skill 生成器 无限画板 · Skill 生成器 根据用户的生图、生视频、图像编辑、分镜、视觉工作流等自然语言需求，先理解需求并输出规划，待用户确认后，生成无限画板中可直接使用的唯一 skill.md 文件内容，并同步维护 skill.md 文件与 README.md 迭代记录。 触发：生成无限画板 skill、做一个无限画板 skill.md、优化这个无限画板 skill、根据反馈修改 skill.md。 无限画板 Skill 生成器.backup-20260609-1118/SKILL.md workspace-skills
 
 ### `淘宝商品助手`
 
@@ -1167,6 +1185,18 @@ SealSeek 来源类型统计：
 - 输入 / 触发方式：agent/skill/plugin 名称、目标能力、运行环境或迁移需求；电商平台页面、商品/店铺/关键词数据、运营规则或视觉策划需求
 - 检索关键词：taobao-market-analysis 默认方式：综合排序 + 发货地不限 淘宝商品市场分析 skill。通过淘宝搜索页获取指定关键词下的商品市场数据，分析价格分布、标题统计以及商品多维度信息。 适合”帮我看看手机的趋势””分析耳机市场””查下女装在浙江发货的情况”这类需求。 淘宝商品市场分析_原始备份/SKILL.md customized-skills
 
+### `ai-agent-skill-registry-sync`
+
+- Agent / 环境：SealSeek
+- 归属分类：个人/项目自定义
+- 归属依据：SealSeek workspace/customized/standalone/migration skill，按个人/项目自定义处理。
+- 来源类型：default-workspace-skills
+- 能力分类：知识库 / 知识管理 / LLM Wiki
+- Skill 文件位置：`/Users/pechen/.sealseek/workspaces/default/skills/ai-agent-skill-registry-sync/SKILL.md`
+- 功能检索描述：Scan Peter's local AI agent skill directories across Codex, Hermes, Lark Agent, OpenClaw, SealSeek, and Claude Code, then update the LLM Wiki skill registry pages under /Users/pechen/wiki. Use when the user asks to find newly created skills, refresh the cross-agent skill registry, add agent skills to the wiki, check whether skill inventory is up to date, or make skills discoverable for future AI agents.
+- 输入 / 触发方式：wiki 路径、资料来源、剪藏文件、知识库查询或维护需求；飞书/钉钉资源 URL/ID、文档/表格/日程/消息等操作需求；代码仓库、文件路径、PR/Issue、调试或开发任务；agent/skill/plugin 名称、目标能力、运行环境或迁移需求
+- 检索关键词：ai-agent-skill-registry-sync AI Agent Skill Registry Sync Scan Peter's local AI agent skill directories across Codex, Hermes, Lark Agent, OpenClaw, SealSeek, and Claude Code, then update the LLM Wiki skill registry pages under /Users/pechen/wiki. Use when the user asks to find newly created skills, refresh the cross-agent skill registry, add agent skills to the wiki, check whether skill inventory is up to date, or make skills discoverable for future AI agents. ai-agent-skill-registry-sync/SKILL.md default-workspace-skills
+
 ### `detail-page-batch-optimization`
 
 - Agent / 环境：SealSeek
@@ -1275,6 +1305,54 @@ SealSeek 来源类型统计：
 - 输入 / 触发方式：电商平台页面、商品/店铺/关键词数据、运营规则或视觉策划需求
 - 检索关键词：keyword-traffic Step 0: 登录获取 Cookie（首次使用必做） 关键词流量解析 — 万相台无界版关键词流量趋势分析工具。查询指定关键词在付费搜索场景下的长期市场数据趋势（最多13个月），包括： - 展现指数、点击指数、点击率、点击转化率、竞争指数、市场均价 - 自动匹配关键词所属行业类目 - 市场数据总结（词特性、流量趋势、竞争情况、人群/时间特征） 触发：用户提到"关键词趋势/流量趋势/13个月数据/月度趋势/展现指数/竞争指数/市场均价"，或在使用关键词分析助手后想深入分析某个词的长期走势。 排除：关键词拓展/排行榜（用关键词助手）、创建推广计划（用推广管理助手）。 keyword-traffic/SKILL.md default-workspace-skills
 
+### `llm-wiki`
+
+- Agent / 环境：SealSeek
+- 归属分类：个人/项目自定义
+- 归属依据：SealSeek workspace/customized/standalone/migration skill，按个人/项目自定义处理。
+- 来源类型：default-workspace-skills
+- 能力分类：知识库 / 知识管理 / LLM Wiki
+- Skill 文件位置：`/Users/pechen/.sealseek/workspaces/default/skills/llm-wiki/SKILL.md`
+- 功能检索描述：Karpathy's LLM Wiki — build and maintain a persistent, interlinked markdown knowledge base. Ingest sources, query compiled knowledge, and lint for consistency.
+- 输入 / 触发方式：wiki 路径、资料来源、剪藏文件、知识库查询或维护需求；飞书/钉钉资源 URL/ID、文档/表格/日程/消息等操作需求
+- 检索关键词：llm-wiki Karpathy's LLM Wiki Karpathy's LLM Wiki — build and maintain a persistent, interlinked markdown knowledge base. Ingest sources, query compiled knowledge, and lint for consistency. llm-wiki/SKILL.md default-workspace-skills
+
+### `llm-wiki-audit-and-optimization`
+
+- Agent / 环境：SealSeek
+- 归属分类：个人/项目自定义
+- 归属依据：SealSeek workspace/customized/standalone/migration skill，按个人/项目自定义处理。
+- 来源类型：default-workspace-skills
+- 能力分类：知识库 / 知识管理 / LLM Wiki
+- Skill 文件位置：`/Users/pechen/.sealseek/workspaces/default/skills/llm-wiki-audit-and-optimization/SKILL.md`
+- 功能检索描述：Audit and optimize an LLM Wiki's compile-routing-reasoning quality. Use after a wiki/domain/learning path is built, or when a question-answer result needs diagnosis against the wiki, to find whether issues come from compilation, routing, or reasoning and to patch the knowledge base.
+- 输入 / 触发方式：wiki 路径、资料来源、剪藏文件、知识库查询或维护需求；飞书/钉钉资源 URL/ID、文档/表格/日程/消息等操作需求
+- 检索关键词：llm-wiki-audit-and-optimization LLM Wiki Audit and Optimization Audit and optimize an LLM Wiki's compile-routing-reasoning quality. Use after a wiki/domain/learning path is built, or when a question-answer result needs diagnosis against the wiki, to find whether issues come from compilation, routing, or reasoning and to patch the knowledge base. llm-wiki-audit-and-optimization/SKILL.md default-workspace-skills
+
+### `llm-wiki-ingest`
+
+- Agent / 环境：SealSeek
+- 归属分类：个人/项目自定义
+- 归属依据：SealSeek workspace/customized/standalone/migration skill，按个人/项目自定义处理。
+- 来源类型：default-workspace-skills
+- 能力分类：知识库 / 知识管理 / LLM Wiki
+- Skill 文件位置：`/Users/pechen/.sealseek/workspaces/default/skills/llm-wiki-ingest/SKILL.md`
+- 功能检索描述：Unified LLM Wiki ingestion skill for Peter's /Users/pechen/wiki. Use for any source that should be compiled into the wiki, including Obsidian Clippings, webpages, books, EPUB/PDF, course transcripts, meeting transcripts, API docs, XMind files, spreadsheets, markdown docs, product/tool docs, and unknown source types. Enforces lossless knowledge-unit coverage, raw preservation, extraction notes, formal knowledge pages, index/log updates, and audit handoff.
+- 输入 / 触发方式：Excel/CSV/表格文件、字段信息或数据分析需求；课程大纲、逐页内容、PPT/XMind/课件制作或修改需求；API 文档 URL、接口规格、鉴权/参数/示例需求；wiki 路径、资料来源、剪藏文件、知识库查询或维护需求
+- 检索关键词：llm-wiki-ingest LLM Wiki Ingest Unified LLM Wiki ingestion skill for Peter's /Users/pechen/wiki. Use for any source that should be compiled into the wiki, including Obsidian Clippings, webpages, books, EPUB/PDF, course transcripts, meeting transcripts, API docs, XMind files, spreadsheets, markdown docs, product/tool docs, and unknown source types. Enforces lossless knowledge-unit coverage, raw preservation, extraction notes, formal knowledge pages, index/log updates, and audit handoff. llm-wiki-ingest/SKILL.md default-workspace-skills
+
+### `llm-wiki-recompile-runner`
+
+- Agent / 环境：SealSeek
+- 归属分类：个人/项目自定义
+- 归属依据：SealSeek workspace/customized/standalone/migration skill，按个人/项目自定义处理。
+- 来源类型：default-workspace-skills
+- 能力分类：知识库 / 知识管理 / LLM Wiki
+- Skill 文件位置：`/Users/pechen/.sealseek/workspaces/default/skills/llm-wiki-recompile-runner/SKILL.md`
+- 功能检索描述：Orchestrate repair of existing LLM Wiki domains or learning paths that contain shell/thin pages. Use after an audit finds placeholder pages, incomplete extraction notes, stale index status, or raw transcripts that need to be recompiled into usable formal knowledge pages. Coordinates llm-wiki-audit-and-optimization and course-transcript-to-knowledge, then verifies post-ingest quality.
+- 输入 / 触发方式：wiki 路径、资料来源、剪藏文件、知识库查询或维护需求；音视频链接/文件、转录稿、会议纪要或内容处理需求
+- 检索关键词：llm-wiki-recompile-runner LLM Wiki Recompile Runner Orchestrate repair of existing LLM Wiki domains or learning paths that contain shell/thin pages. Use after an audit finds placeholder pages, incomplete extraction notes, stale index status, or raw transcripts that need to be recompiled into usable formal knowledge pages. Coordinates llm-wiki-audit-and-optimization and course-transcript-to-knowledge, then verifies post-ingest quality. llm-wiki-recompile-runner/SKILL.md default-workspace-skills
+
 ### `market-analysis`
 
 - Agent / 环境：SealSeek
@@ -1377,11 +1455,11 @@ SealSeek 来源类型统计：
 - 归属分类：个人/项目自定义
 - 归属依据：SealSeek workspace/customized/standalone/migration skill，按个人/项目自定义处理。
 - 来源类型：default-workspace-skills
-- 能力分类：Agent 工程 / Skill / Plugin / MCP
+- 能力分类：视觉 / 内容 / 课件生产
 - Skill 文件位置：`/Users/pechen/.sealseek/workspaces/default/skills/skill-builder/SKILL.md`
-- 功能检索描述：根据用户的自然语言描述，按照无限画板的格式规范和工具规范，生成或修改 skill 文件。 支持两种模式：新建（从零生成）和修改（用户粘贴现有 skill 内容，按需求定向修改）。 输出文件：${name}_skill.md（skill 主体）和 README.md（名称与介绍）。 触发：帮我创建一个 skill、我想做一个新 skill、帮我修改这个 skill、优化这个 skill 文件。
-- 输入 / 触发方式：agent/skill/plugin 名称、目标能力、运行环境或迁移需求
-- 检索关键词：无限画板 Skill 生成器 无限画板 · Skill 生成器 根据用户的自然语言描述，按照无限画板的格式规范和工具规范，生成或修改 skill 文件。 支持两种模式：新建（从零生成）和修改（用户粘贴现有 skill 内容，按需求定向修改）。 输出文件：${name}_skill.md（skill 主体）和 README.md（名称与介绍）。 触发：帮我创建一个 skill、我想做一个新 skill、帮我修改这个 skill、优化这个 skill 文件。 skill-builder/SKILL.md default-workspace-skills
+- 功能检索描述：根据用户的生图、生视频、图像编辑、分镜、视觉工作流等自然语言需求，先理解需求并输出规划，待用户确认后，生成无限画板中可直接使用的唯一 skill.md 文件内容，并同步维护 skill.md 文件与 README.md 迭代记录。 触发：生成无限画板 skill、做一个无限画板 skill.md、优化这个无限画板 skill、根据反馈修改 skill.md。
+- 输入 / 触发方式：图片路径、视觉目标、品类/风格/生成或编辑要求；agent/skill/plugin 名称、目标能力、运行环境或迁移需求；音视频链接/文件、转录稿、会议纪要或内容处理需求
+- 检索关键词：无限画板 Skill 生成器 无限画板 · Skill 生成器 根据用户的生图、生视频、图像编辑、分镜、视觉工作流等自然语言需求，先理解需求并输出规划，待用户确认后，生成无限画板中可直接使用的唯一 skill.md 文件内容，并同步维护 skill.md 文件与 README.md 迭代记录。 触发：生成无限画板 skill、做一个无限画板 skill.md、优化这个无限画板 skill、根据反馈修改 skill.md。 skill-builder/SKILL.md default-workspace-skills
 
 ### `生意参谋搜索词排行下载`
 
