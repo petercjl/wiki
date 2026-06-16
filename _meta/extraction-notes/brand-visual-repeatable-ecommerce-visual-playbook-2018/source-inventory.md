@@ -2,12 +2,12 @@
 
 ## 原始文件
 
-- `raw/books/brand-visual-repeatable-ecommerce-visual-playbook-2018/source.epub`
-- `raw/books/brand-visual-repeatable-ecommerce-visual-playbook-2018/metadata.md`
-- `raw/books/brand-visual-repeatable-ecommerce-visual-playbook-2018/toc.md`
-- `raw/books/brand-visual-repeatable-ecommerce-visual-playbook-2018/manifest.md`
-- `raw/books/brand-visual-repeatable-ecommerce-visual-playbook-2018/chapters/`：46 个章节 Markdown
-- `raw/books/brand-visual-repeatable-ecommerce-visual-playbook-2018/assets/`：249 张 EPUB 图片资产
+- `raw/books/domains/视觉制作/domains/视觉制作/05-小红书风格AI生图/index/02-品牌视觉标准化/01-可复制的电商品牌视觉玩法/domains/视觉制作/05-小红书风格AI生图/index-2018/source.epub`
+- `raw/books/domains/视觉制作/domains/视觉制作/05-小红书风格AI生图/index/02-品牌视觉标准化/01-可复制的电商品牌视觉玩法/domains/视觉制作/05-小红书风格AI生图/index-2018/metadata.md`
+- `raw/books/domains/视觉制作/domains/视觉制作/05-小红书风格AI生图/index/02-品牌视觉标准化/01-可复制的电商品牌视觉玩法/domains/视觉制作/05-小红书风格AI生图/index-2018/toc.md`
+- `raw/books/domains/视觉制作/domains/视觉制作/05-小红书风格AI生图/index/02-品牌视觉标准化/01-可复制的电商品牌视觉玩法/domains/视觉制作/05-小红书风格AI生图/index-2018/manifest.md`
+- `raw/books/domains/视觉制作/domains/视觉制作/05-小红书风格AI生图/index/02-品牌视觉标准化/01-可复制的电商品牌视觉玩法/domains/视觉制作/05-小红书风格AI生图/index-2018/chapters/`：46 个章节 Markdown
+- `raw/books/domains/视觉制作/domains/视觉制作/05-小红书风格AI生图/index/02-品牌视觉标准化/01-可复制的电商品牌视觉玩法/domains/视觉制作/05-小红书风格AI生图/index-2018/assets/`：249 张 EPUB 图片资产
 
 ## TOC 覆盖
 

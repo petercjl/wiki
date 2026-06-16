@@ -1,42 +1,44 @@
 # Formal Page Plan｜财税股权 28 期课程知识系统
 
-## Compilation Principle
+## Architecture
 
-4 个 transcript 作为一个课程源包处理。正式页不按 D1/D2 课堂时间顺序组织，而按电商企业可复用的经营、财税、股权和战略财务知识结构组织。
+This recompile uses a two-layer learning path:
 
-## Proposed Learning Path
+- `01-11`: existing overview pages for route stability and high-level Agent use.
+- `12-27`: new topical pages for knowledge-unit fidelity.
 
-- title: 电商企业财税股权与战略财务管理
-- path: `domains/ecommerce-ops/learning-paths/ecommerce-tax-equity-strategic-finance/`
-- type: learning path
-- domain: ecommerce-ops
+## Formal Targets
 
-## Proposed Formal Pages
+| page | role | covered source units |
+| --- | --- | --- |
+| `01-ecommerce-tax-risk-business-genes.md` | risk gene overview | S1-KU001-KU007 |
+| `02-four-account-system.md` | four-account map | S1-KU003, S1-KU013-KU021 |
+| `03-tax-compliance-path-and-red-lines.md` | compliance red lines | S2-KU001-KU007, S2-KU011-KU013 |
+| `04-tax-burden-model-vat-income-tax-personal-tax.md` | tax burden overview | S2-KU008-KU010 |
+| `05-multi-company-store-fund-separation.md` | multi-entity overview | S1-KU020, S2-KU014-KU016 |
+| `06-business-finance-integration-profit-accounting.md` | profit accounting overview | S1-KU022-KU033 |
+| `07-equity-structure-shareholder-control.md` | equity control overview | S1-KU009-KU011, S3-KU012-KU016 |
+| `08-incentive-dividend-budget-system.md` | incentive overview | S3-KU001-KU005 |
+| `09-equity-as-resource-integration-tool.md` | equity resource overview | S3-KU008-KU011 |
+| `10-strategic-finance-competition-indicators.md` | strategy finance overview | S4-KU001-KU017 |
+| `domains/品牌策略/03-产品战略与大单品/01-电商品牌心智产品力与大单品战略/11-Agent使用模板：心智产品力与大单品诊断.md` | diagnosis template | all formalized units |
+| `12-revenue-recognition-refunds-and-subsidies.md` | revenue/refund/subsidy detail | S1-KU022-KU028 |
+| `13-platform-profit-and-marginal-contribution.md` | platform profit model | S1-KU029-KU033, S3-KU018-KU019 |
+| `14-internal-control-funds-inventory-authority.md` | internal control | S1-KU034-KU041 |
+| `15-vat-input-output-and-invoice-management.md` | VAT and invoice detail | S2-KU008-KU010, S2-KU025-KU026, S2-KU029 |
+| `16-income-tax-profit-adjustment-and-cost-deduction.md` | income tax detail | S2-KU025-KU029, S4-KU013 |
+| `17-subject-splitting-consignment-and-income-nature.md` | split/consignment/income nature | S2-KU014-KU020, S4-KU025 |
+| `18-shareholder-money-in-out-and-dividend-tax.md` | shareholder money and dividends | S1-KU013-KU018 |
+| `19-holding-company-project-company-and-partnership-platform.md` | architecture detail | S2-KU021-KU024, S3-KU014-KU016 |
+| `20-incentive-mechanism-bonus-pool-and-equity-conditions.md` | incentive detail | S3-KU001-KU005, S3-KU017-KU025 |
+| `21-business-model-selection-and-tax-bearing-capacity.md` | model and tax capacity | S3-KU028-KU034, S4-KU001-KU011, S4-KU017-KU027 |
+| `22-budget-operating-plan-and-monthly-review.md` | budget/review | S4-KU003, S4-KU012, S4-KU023, S4-KU035 |
+| `23-finance-team-bp-and-organization-capability.md` | finance org | S3-KU035-KU036, S4-KU030-KU037 |
+| `24-business-type-tax-planning-scenarios.md` | business type scenarios | S2-KU030-KU034, S4-KU020-KU024 |
+| `25-inventory-turnover-cashflow-and-roe.md` | inventory/cashflow/ROE | S4-KU006, S4-KU013-KU016, S4-KU028-KU029 |
+| `26-case-anchor-library.md` | case domains/视觉制作/05-小红书风格AI生图/index | major cases across S1-S4 |
+| `27-compliance-transition-roadmap.md` | staged domains/视觉制作/04-AI生图风格库/01-极简北欧风/variants/shanju-light-kitchen-living/playbook | S2-KU001-KU007, S3/S4 finance management units |
 
-| order | page title | slug | core purpose | primary source signals |
-| ---: | --- | --- | --- | --- |
-| 00 | 电商企业财税股权与战略财务管理 | index | 课程知识系统入口，说明适用场景、学习顺序、风险边界和 Agent 调用方式 | all |
-| 01 | 电商企业财税风险的经营基因 | 01-ecommerce-tax-risk-business-genes | 从多平台、多店铺、投流、快速迭代、人员混用、资金分散解释风险来源 | S1 |
-| 02 | 电商企业四本账：股东账、业务账、管理账、风险账 | 02-four-account-system | 建立老板视角的财务管理框架，连接分钱、利润、效率和合规 | S1/S2 |
-| 03 | 电商税务合规路径与红线 | 03-tax-compliance-path-and-red-lines | 收入申报、刷单、私户收款、分拆收入、收入性质转换、数据同步风险 | S2 |
-| 04 | 增值税、所得税与个税的电商税负模型 | 04-tax-burden-model-vat-income-tax-personal-tax | 价税分离、进项抵扣、毛利/推广结构对税负影响、小规模与一般纳税人差异 | S2 |
-| 05 | 多公司、多店铺与资金隔离的合规架构 | 05-multi-company-store-fund-separation | 多主体、人员混用、关联交易、资金交叉、公私不分、合并纳税风险 | S1/S2 |
-| 06 | 业财一体与利润核算体系 | 06-business-finance-integration-profit-accounting | 渠道利润、推广费、供应链成本、产销定价、内账外账、标准化核算 | S1/S4 |
-| 07 | 股权结构、持股主体与控制权设计 | 07-equity-structure-shareholder-control | 自然人持股/法人持股、平分股权、控制权、代持、退出机制、分红税负 | S1/S3 |
-| 08 | 电商团队激励、分红与预算联动 | 08-incentive-dividend-budget-system | 销售额/利润导向激励、奖金包、虚拟股、内部合伙、预算约束 | S3 |
-| 09 | 股权作为资源整合工具 | 09-equity-as-resource-integration-tool | 用股权聚人才、聚供应链、聚渠道、聚资本，及外部机构合作边界 | S3 |
-| 10 | 战略财务：用财务指标支撑竞争战略 | 10-strategic-finance-competition-indicators | 成本领先、差异化、集中化战略与毛利率、存货周转、现金回收、ROE | S4 |
-| 11 | 电商企业财税股权诊断 Agent 模板 | 11-agent-usage-template | 面向未来 Agent 的诊断流程、问题清单、风险分层、输出模板 | all |
+## Remaining Improvement Option
 
-## Batch Execution Order
-
-1. Batch A：raw archive + extraction framework + coverage skeleton。
-2. Batch B：正式页 01-05，先完成风险、税务和合规主链路。
-3. Batch C：正式页 06-10，完成财务核算、股权激励和战略财务。
-4. Batch D：正式页 00、11、domain index、root index、log、audit handoff、validation。
-
-## Risk Boundary
-
-- 课程中涉及税务、股权、代持、公司架构、分红、合并纳税等执行建议，正式页必须标注“需结合最新法规和专业财税/法律意见复核”。
-- 课堂口语中未经核验的政策编号、税率、监管口径不能写成绝对结论。
-- 财务模型可保留为经营测算框架，但不能替代具体企业申报意见。
+If this path is later used as a full courseware replacement, the next expansion can split `26-case-anchor-library.md` into dedicated case pages. Current state keeps cases integrated into method pages plus one anchor library for route efficiency.

@@ -2,11 +2,11 @@
 
 ## Created
 
-- `domains/ecommerce-ops/finance-accounting/ecommerce-platform-settlement-accounting.md`
+- `domains/电商运营/01-通用电商方法/03-平台结算与经营财务/01-电商平台结算时间口径财务核算方法.md`
 
 ## Artifact Choice
 
-The three XMind files are versions of the same accounting method map, not three independent essays. A single playbook is the correct first formal artifact because the root decision and shared accounting workflow must be read before the platform-specific branches.
+The three XMind files are versions of the same accounting method map, not three independent essays. A single domains/视觉制作/04-AI生图风格库/01-极简北欧风/variants/shanju-light-kitchen-living/playbook is the correct first formal artifact because the root decision and shared accounting workflow must be read before the platform-specific branches.
 
 ## Formal Structure
 

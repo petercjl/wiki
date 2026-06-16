@@ -13,8 +13,8 @@
 | import_date | 2026-06-13 |
 | sha256 | `b0ef16f0933c6bf4fa863259a7de718256fc62e583d3a79dc38758cf404f9f98` |
 | adapter | `llm-wiki-ingest/adapters/book.md` |
-| target_domain | `domains/ecommerce-ops/` |
-| formal_path | `domains/ecommerce-ops/learning-paths/cross-border-ecommerce-sme-globalization/` |
+| target_domain | `domains/电商运营/` |
+| formal_path | `domains/电商运营/20-跨境电商/01-中小企业跨境出海/domains/视觉制作/05-小红书风格AI生图/index/` |
 | extraction_issue | EPUB TOC 仅识别为 Start，章节依据正文标题重建；部分章节源文件标题为临时 PDF 路径；图片仅按图号和上下文保留，不逐张复刻。 |
 | time_sensitivity | medium：平台、支付、物流、合规和营销工具具有当前规则复核需求。 |
 

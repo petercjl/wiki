@@ -2,7 +2,7 @@
 
 ## 1. Basic Info
 
-- Target path: `domains/visual-production/learning-paths/brand-visual-repeatable-ecommerce-visual-playbook/`
+- Target path: `domains/视觉制作/domains/视觉制作/05-小红书风格AI生图/index/02-品牌视觉标准化/01-可复制的电商品牌视觉玩法/domains/视觉制作/05-小红书风格AI生图/index/`
 - Audit date: 2026-06-10
 - Audit mode: post-ingest learning-path audit
 - Pages inspected: 9 formal pages
@@ -24,8 +24,8 @@
 | Depth of reasoning | 4 | 各页包含问题定义、模型、流程、判断标准和边界。 | pages 01-06 | 可在未来结合真实店铺案例继续增强。 |
 | Evidence preservation | 4 | 关键案例和书中指标逻辑已保留；图片未逐张 OCR。 | coverage matrix, case page | P2：未来可抽样 OCR 图片案例。 |
 | Case transferability | 5 | 案例页已转为可迁移规则。 | `07-case-library...md` | None |
-| Module boundaries | 5 | 8 个模块边界清晰。 | learning path index | None |
-| Decision process | 5 | Agent 模板提供诊断步骤与输出结构。 | `08-agent-usage-template.md` | None |
+| Module boundaries | 5 | 8 个模块边界清晰。 | learning path domains/视觉制作/05-小红书风格AI生图/index | None |
+| Decision process | 5 | Agent 模板提供诊断步骤与输出结构。 | `domains/视觉制作/domains/视觉制作/05-小红书风格AI生图/index/02-品牌视觉标准化/01-可复制的电商品牌视觉玩法/08-Agent使用模板：电商品牌视觉标准诊断.md` | None |
 | Template readiness | 5 | 有 Agent 使用模板和 prompt 模板。 | page 08 | None |
 | Traceability | 5 | Raw、notes、coverage、formal pages 均互相引用；正式页补充覆盖单元 ID。 | coverage matrix, formal pages | None |
 | Noise removal | 5 | 封面、版权、推荐语、后记、二维码导流已 raw-only/merged。 | omission audit | None |
@@ -33,11 +33,11 @@
 
 ## 4. Route Audit
 
-- Main index quality: root `index.md` 已新增 learning path 和 8 个页面入口。
-- Domain index quality: `domains/visual-production/index.md` 已新增主入口；`domains/brand-strategy/index.md` 已增加跨域参考。
-- Learning-path quality: `index.md` 有阅读顺序、用途、现有知识关系和平台时间边界。
-- Agent template availability: `08-agent-usage-template.md` 已提供输入、步骤、输出结构、不得推断和复核项。
-- Duplicate / overlapping routes: 与既有“品牌视觉记忆感知与可视化体系搭建”有交叉，但 index 已说明互补关系。
+- Main domains/视觉制作/05-小红书风格AI生图/index quality: root `domains/视觉制作/05-小红书风格AI生图/index.md` 已新增 learning path 和 8 个页面入口。
+- Domain domains/视觉制作/05-小红书风格AI生图/index quality: `domains/视觉制作/domains/视觉制作/05-小红书风格AI生图/index/domains/视觉制作/05-小红书风格AI生图/index.md` 已新增主入口；`domains/品牌策略/domains/视觉制作/05-小红书风格AI生图/index.md` 已增加跨域参考。
+- Learning-path quality: `domains/视觉制作/05-小红书风格AI生图/index.md` 有阅读顺序、用途、现有知识关系和平台时间边界。
+- Agent template availability: `domains/视觉制作/domains/视觉制作/05-小红书风格AI生图/index/02-品牌视觉标准化/01-可复制的电商品牌视觉玩法/08-Agent使用模板：电商品牌视觉标准诊断.md` 已提供输入、步骤、输出结构、不得推断和复核项。
+- Duplicate / overlapping routes: 与既有“品牌视觉记忆感知与可视化体系搭建”有交叉，但 domains/视觉制作/05-小红书风格AI生图/index 已说明互补关系。
 - Missing route maps: 无 P0/P1 缺口。
 
 ## 5. Reasoning Readiness
@@ -72,7 +72,7 @@
 | P0 | None | 无阻塞问题。 | - | - |
 | P1 | None | 无高优先级问题。 | - | - |
 | P2 | Image OCR | EPUB 249 张图片未逐张 OCR；当前依赖章节文字和图片说明提炼图意。 | `raw/books/.../assets/` | 后续如要做视觉案例深描，可抽样 OCR/vision 分析关键案例图。 |
-| P2 | Current platform rules | 2018 年平台工具语境已历史化，但真实执行仍需实时复核。 | pages index/02/03/08 | 查询当前平台规则时另走实时搜索或平台文档。 |
+| P2 | Current platform rules | 2018 年平台工具语境已历史化，但真实执行仍需实时复核。 | pages domains/视觉制作/05-小红书风格AI生图/index/02/03/08 | 查询当前平台规则时另走实时搜索或平台文档。 |
 
 ## 7. Optimization Plan
 
@@ -92,7 +92,7 @@ None.
 ## 8. Patches Applied
 
 - Added formal learning path and 8 pages.
-- Updated root/domain indexes and log.
+- Updated root/domain domains/视觉制作/05-小红书风格AI生图/indexes and log.
 - Added coverage-unit IDs to formal pages to satisfy traceability validation.
 - Created this audit report.
 

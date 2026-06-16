@@ -1,6 +1,6 @@
 # segment-plan
 
-源文件：`raw/transcripts/ecommerce-brand-mindshare-product-power-and-hero-product-strategy-2026-06-03.md`
+源文件：`raw/transcripts/domains/品牌策略/03-产品战略与大单品/01-电商品牌心智产品力与大单品战略/domains/视觉制作/05-小红书风格AI生图/index-2026-06-03.md`
 
 处理日期：2026-06-06
 

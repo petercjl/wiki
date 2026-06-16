@@ -6,7 +6,7 @@
 
 - Raw source: `raw/transcripts/brand-strategy-methodology-course-opening-2026-05-22.md`
 - Raw size: 1017 lines / 75310 chars
-- Formal page: `domains/brand-strategy/learning-paths/brand-strategy-methodology-reconstructed.md`
+- Formal page: `domains/品牌策略/01-品牌基础与增长方法/01-电商品牌增长方法论/domains/视觉制作/05-小红书风格AI生图/index.md`
 - Formal size: 459 lines / 14566 chars
 - Coverage matrix: `_meta/extraction-notes/brand-strategy-methodology-course-opening-v2/coverage-matrix.md`
 
@@ -24,7 +24,7 @@
 | 战略大单品与品牌代表作 | concept / analogy | 正式页第四章 | 已入库 |
 | 泰兰尼斯案例 | case / process / decision-chain | 正式页第五章 | 已入库 |
 | 泰兰尼斯原点用户与旧鞋回收 | case / operating-method | 正式页第五章 | 已入库 |
-| PGGU 婚鞋案例 | case / strategic-choice | 正式页第六章；样本页 `domains/brand-strategy/samples/pggu-strategy-choice-sample.md` | 已入库 |
+| PGGU 婚鞋案例 | case / strategic-choice | 正式页第六章；样本页 `domains/品牌策略/90-样本/01-PGGU战略选择知识复现样本.md` | 已入库 |
 | 运动内衣案例 | case / content-strategy | 正式页第七章 | 已入库 |
 | 宠物产品线判断 | Q&A insight / decision-criterion | 正式页第八章 | 已入库 |
 | 原点用户案例组 | case-cluster | 正式页第五章 | 已入库 |
@@ -75,7 +75,7 @@
 
 ## 5. 禁止词检查
 
-- 检查范围：正式页 `domains/brand-strategy/learning-paths/brand-strategy-methodology-reconstructed.md`
+- 检查范围：正式页 `domains/品牌策略/01-品牌基础与增长方法/01-电商品牌增长方法论/domains/视觉制作/05-小红书风格AI生图/index.md`
 - 命中结果：`{}`
 - 结论：通过
 

@@ -2,7 +2,7 @@
 
 | knowledge_unit_id | source_units | role | extracted knowledge |
 | --- | --- | --- | --- |
-| KU-SD20-IDENTITY | SD20-AVAIL-001, SD20-ID-001 | entity identity | Doubao-Seedance-2.0 is a fully open Volcengine Ark/Doubao video generation model series entry as captured on 2026-06-07. Main Model ID is `doubao-seedance-2-0-260128`. |
+| KU-SD20-IDENTITY | SD20-AVAIL-001, SD20-ID-001 | entity identity | Doubao-Seedance-2.0 is a fully open Volcengine Ark/Doubao video generation model series entry as captured on 2026-06-07. Main Model ID is `domains/视觉制作/domains/视觉制作/05-小红书风格AI生图/index/06-AI视频/01-Doubao-Seedance-2.0视频生成模型卡-260128`. |
 | KU-SD20-FAMILY | SD20-VARIANT-001 | model selection | The source distinguishes standard 2.0 from `2.0-fast`; Fast inherits core 2.0 advantages and prioritizes speed. |
 | KU-SD20-MODALITY | SD20-CAP-001, SD20-IO-001, SD20-TASK-001 | capability | The model accepts text, image, video, and audio and outputs video; supported tasks include multimodal generation, editing, extension, and first/last-frame generation. |
 | KU-SD20-API | SD20-API-001 | API routing | Ark exposes the capability through `Contents Generations` and `/v3/contents/generations`; full request schema must be taken from official API docs, not inferred from this clipping. |

@@ -12,7 +12,7 @@ case
 
 ## 输出页
 
-`06-kairuisi-asset-inheritance-and-tiering.md`
+`domains/品牌策略/04-品牌视觉资产/01-品牌视觉记忆感知与可视化体系/06-凯瑞斯资产传承与分层.md`
 
 ## 处理说明
 

@@ -12,7 +12,7 @@
 | 领先的专业认知 / 增长引领体系 | `08-growth-guidance-system.md` |
 | 领先的专业认知 / 战略框架引领体系 / 赚钱的等级规律 | `09-strategy-framework-and-profit-levels.md` |
 | 领先的专业认知 / 人生引领 | `10-founder-life-guidance.md` |
-| 全部知识体系 | `11-agent-usage-template.md` |
+| 全部知识体系 | `domains/品牌策略/03-产品战略与大单品/01-电商品牌心智产品力与大单品战略/11-Agent使用模板：心智产品力与大单品诊断.md` |
 
 ## 保留策略
 

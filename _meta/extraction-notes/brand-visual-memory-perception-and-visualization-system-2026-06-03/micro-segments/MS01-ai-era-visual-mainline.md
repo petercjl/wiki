@@ -12,7 +12,7 @@ concept
 
 ## 输出页
 
-`01-brand-visual-mainline-in-ai-era.md`
+`domains/品牌策略/04-品牌视觉资产/01-品牌视觉记忆感知与可视化体系/01-AI时代的品牌视觉主线.md`
 
 ## 处理说明
 

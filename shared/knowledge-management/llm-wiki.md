@@ -36,7 +36,7 @@ LLM Wiki 的做法是：
 1. 新资料进入时，Agent 先阅读和理解。
 2. Agent 将资料中的知识更新到已有页面。
 3. 如果出现新概念、新实体或新方法，Agent 创建新页面。
-4. Agent 更新 `index.md` 和 `log.md`。
+4. Agent 更新 `domains/视觉制作/index.md` 和 `log.md`。
 5. 后续提问先读取 Wiki，再必要时追溯 raw source。
 
 ## Peter 的一库多域架构
@@ -45,9 +45,9 @@ Peter 的知识不应按工具拆分，也不应过早拆成多个 Vault。
 
 推荐结构是：
 
-- [[domains/ecommerce-ops/index|电商运营知识域]]
-- [[domains/visual-production/index|视觉制作知识域]]
-- [[domains/brand-strategy/index|品牌策划知识域]]
+- [[domains/电商运营/index|电商运营知识域]]
+- [[domains/视觉制作/index|视觉制作知识域]]
+- [[domains/品牌策略/index|品牌策划知识域]]
 - [[shared/ai-agent-workflows/index|AI Agent 共享工作流]]
 - [[projects/sealseek/index|SealSeek 项目知识]]
 
@@ -62,12 +62,12 @@ Peter 的知识不应按工具拆分，也不应过早拆成多个 Vault。
 3. 搜索已有页面，避免重复。
 4. 创建或更新正式页面。
 5. 添加 wikilink。
-6. 更新 `index.md`。
+6. 更新 `domains/视觉制作/index.md`。
 7. 追加 `log.md`。
 
 ### Query
 
-1. 先读 `index.md`。
+1. 先读 `domains/视觉制作/index.md`。
 2. 搜索相关页面。
 3. 阅读相关页面。
 4. 综合回答并引用页面。
@@ -78,7 +78,7 @@ Peter 的知识不应按工具拆分，也不应过早拆成多个 Vault。
 - 坏链接。
 - 孤岛页。
 - 重复页。
-- 缺少 index 登记。
+- 缺少 domains/视觉制作/05-小红书风格AI生图/index 登记。
 - 缺少 frontmatter。
 - 标签不规范。
 - 过期或冲突信息。
@@ -89,7 +89,7 @@ Peter 的知识不应按工具拆分，也不应过早拆成多个 Vault。
 - 不放在当前项目目录下。
 - 使用 `AGENTS.md` 作为多 Agent 通用协议。
 - 使用 `SCHEMA.md` 作为结构和写作规则。
-- 使用 `index.md` 和 `log.md` 作为导航与操作记录。
+- 使用 `domains/视觉制作/index.md` 和 `log.md` 作为导航与操作记录。
 
 ## 相关页面
 

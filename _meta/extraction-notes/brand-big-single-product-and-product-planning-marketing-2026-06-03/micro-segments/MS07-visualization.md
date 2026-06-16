@@ -6,4 +6,4 @@
 
 知识类型：concept
 
-输出页：`07-visualized-selling-points-and-live-demonstration.md`
+输出页：`domains/品牌策略/03-产品战略与大单品/02-品牌大单品打造与产品企划营销/07-卖点可视化与直播演绎.md`

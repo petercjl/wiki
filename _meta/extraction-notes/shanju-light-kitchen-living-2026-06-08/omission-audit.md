@@ -4,9 +4,9 @@ type: source-summary
 created: 2026-06-08
 updated: 2026-06-08
 domain: meta
-tags: [visual-production, brand-strategy, knowledge-base]
+tags: [domains/视觉制作/domains/视觉制作/05-小红书风格AI生图/index/domains/视觉制作/05-小红书风格AI生图/index, brand-strategy, knowledge-base]
 sources:
-  - raw/assets/visual-style/minimal-scandinavian/variants/shanju-light-kitchen-living/shanju-moodboard.png
+  - raw/assets/visual-style/domains/视觉制作/domains/视觉制作/05-小红书风格AI生图/index/04-AI生图风格库/01-极简北欧风/domains/视觉制作/05-小红书风格AI生图/index/variants/domains/视觉制作/domains/视觉制作/05-小红书风格AI生图/index/04-AI生图风格库/01-极简北欧风/variants/shanju-light-kitchen-living/domains/视觉制作/05-小红书风格AI生图/index/shanju-moodboard.png
   - inbox/notes/shanju-brand-style-variant-draft-2026-06-08.md
 status: active
 ---

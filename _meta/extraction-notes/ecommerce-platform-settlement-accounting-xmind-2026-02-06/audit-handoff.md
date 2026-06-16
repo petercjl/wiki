@@ -3,7 +3,7 @@
 - Source slug: `ecommerce-platform-settlement-accounting-xmind-2026-02-06`
 - Adapter used: `llm-wiki-ingest/adapters/xmind.md`
 - Raw source directory: `raw/data/ecommerce-platform-settlement-accounting-xmind-2026-02-06/`
-- Formal page: `domains/ecommerce-ops/finance-accounting/ecommerce-platform-settlement-accounting.md`
+- Formal page: `domains/电商运营/01-通用电商方法/03-平台结算与经营财务/01-电商平台结算时间口径财务核算方法.md`
 - Source inventory: `_meta/extraction-notes/ecommerce-platform-settlement-accounting-xmind-2026-02-06/source-inventory.md`
 - Coverage matrix: `_meta/extraction-notes/ecommerce-platform-settlement-accounting-xmind-2026-02-06/coverage-matrix.md`
 - Image asset inventory: `_meta/extraction-notes/ecommerce-platform-settlement-accounting-xmind-2026-02-06/image-asset-inventory.md`
@@ -15,7 +15,7 @@
 - Are all five platform branches represented: Douyin, Pinduoduo, Xiaohongshu, Video Account, Taobao?
 - Are the Kuaimai/ERP coupon/refund and after-sale sync risks preserved?
 - Are screenshot-only UI path nodes properly treated as unresolved rather than omitted?
-- Is this playbook useful for future finance/accounting agents without forcing them to read the raw XMind for normal conceptual use?
+- Is this domains/视觉制作/04-AI生图风格库/01-极简北欧风/variants/shanju-light-kitchen-living/playbook useful for future finance/accounting agents without forcing them to read the raw XMind for normal conceptual use?
 
 ## Known Unresolved Items
 

@@ -12,7 +12,7 @@ concept
 
 ## 输出页
 
-`08-visual-worldbuilding-four-modules.md`
+`domains/品牌策略/04-品牌视觉资产/01-品牌视觉记忆感知与可视化体系/08-可视化世界观四模块.md`
 
 ## 处理说明
 

@@ -2,7 +2,7 @@
 
 ## Created
 
-- `domains/visual-production/ai-video/doubao-seedance-2-0.md`
+- `domains/视觉制作/domains/视觉制作/05-小红书风格AI生图/index/06-AI视频/01-Doubao-Seedance-2.0视频生成模型卡.md`
 
 ## Page Role
 

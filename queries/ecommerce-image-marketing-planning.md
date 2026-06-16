@@ -6,8 +6,8 @@ updated: 2026-06-09
 domain: shared
 tags: [query, ecommerce, visual-production, ai-image-generation, playbook]
 sources:
-  - domains/visual-production/concepts/marketing-theory-for-ecommerce-images.md
-  - domains/visual-production/playbooks/ecommerce-image-marketing-production-playbook.md
+  - domains/视觉制作/01-电商视觉基础/01-营销学理论在电商图片中的应用.md
+  - domains/视觉制作/01-电商视觉基础/02-电商图片营销策划与AI生图Playbook.md
 status: active
 ---
 
@@ -23,13 +23,13 @@ status: active
 
 ## 必读顺序
 
-1. [[domains/visual-production/concepts/marketing-theory-for-ecommerce-images|营销学理论在电商图片中的应用]]
-2. [[domains/visual-production/playbooks/ecommerce-image-marketing-production-playbook|电商图片营销策划与 AI 生图 Playbook]]
+1. [[domains/视觉制作/01-电商视觉基础/01-营销学理论在电商图片中的应用|营销学理论在电商图片中的应用]]
+2. [[domains/视觉制作/01-电商视觉基础/02-电商图片营销策划与AI生图Playbook|电商图片营销策划与 AI 生图 Playbook]]
 
 如果涉及品牌风格或长期视觉资产，再读：
 
-3. [[domains/brand-strategy/learning-paths/brand-visual-memory-perception-and-visualization-system|品牌视觉记忆感知与可视化体系搭建]]
-4. [[domains/visual-production/visual-styles|AI 生图风格库]]
+3. [[domains/品牌策略/04-品牌视觉资产/01-品牌视觉记忆感知与可视化体系/index|品牌视觉记忆感知与可视化体系搭建]]
+4. [[domains/视觉制作/04-AI生图风格库/index|AI 生图风格库]]
 
 ## 推荐输出结构
 

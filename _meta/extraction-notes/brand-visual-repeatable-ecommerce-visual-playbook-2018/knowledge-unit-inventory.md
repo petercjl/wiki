@@ -2,7 +2,7 @@
 
 | source_unit_id | chapter_id | source_location | source_unit | knowledge_role | evidence_or_example | time_sensitivity | target_pages |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| BV-U001 | ch003,ch005 | 内容简介/前言 | 没有统一品牌视觉标准，店铺就难以形成品牌感、难以摆脱价格战，也难以被消费者记住。 | core-claim | 品牌视觉统一标准 | low | index.md;01;05 |
+| BV-U001 | ch003,ch005 | 内容简介/前言 | 没有统一品牌视觉标准，店铺就难以形成品牌感、难以摆脱价格战，也难以被消费者记住。 | core-claim | 品牌视觉统一标准 | low | domains/视觉制作/05-小红书风格AI生图/index.md;01;05 |
 | BV-U002 | ch005 | 前言 | 视觉营销的终极目标是在买家心中形成强烈记忆符号，以降低传播成本。 | principle | 三只松鼠、花笙记、阿芙、茵曼 | low | 05 |
 | BV-U003 | ch005 | 前言 | 视觉标准是公司标准化的一部分，公司越大越不能依赖一两个人的主观经验。 | organization-rule | 良品铺子 2012 年电商指导案例 | medium | 01 |
 | BV-U004 | ch007 | 1.1 | 美工只懂审美不懂营销，会把页面做得花哨但无法表达卖点；视觉只是营销手段。 | role-boundary | 转化率低不能全归因美工 | low | 01 |

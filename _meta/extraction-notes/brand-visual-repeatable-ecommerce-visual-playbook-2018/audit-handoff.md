@@ -2,34 +2,34 @@
 
 ## Ingest summary
 
-- Source: `raw/books/brand-visual-repeatable-ecommerce-visual-playbook-2018/source.epub`
+- Source: `raw/books/domains/视觉制作/domains/视觉制作/05-小红书风格AI生图/index/02-品牌视觉标准化/01-可复制的电商品牌视觉玩法/domains/视觉制作/05-小红书风格AI生图/index-2018/source.epub`
 - Adapter: `llm-wiki-ingest/adapters/book.md`
-- Raw archive: `raw/books/brand-visual-repeatable-ecommerce-visual-playbook-2018/`
-- Extraction notes: `_meta/extraction-notes/brand-visual-repeatable-ecommerce-visual-playbook-2018/`
-- Formal path: `domains/visual-production/learning-paths/brand-visual-repeatable-ecommerce-visual-playbook/`
+- Raw archive: `raw/books/domains/视觉制作/domains/视觉制作/05-小红书风格AI生图/index/02-品牌视觉标准化/01-可复制的电商品牌视觉玩法/domains/视觉制作/05-小红书风格AI生图/index-2018/`
+- Extraction notes: `_meta/extraction-notes/domains/视觉制作/domains/视觉制作/05-小红书风格AI生图/index/02-品牌视觉标准化/01-可复制的电商品牌视觉玩法/domains/视觉制作/05-小红书风格AI生图/index-2018/`
+- Formal path: `domains/视觉制作/domains/视觉制作/05-小红书风格AI生图/index/02-品牌视觉标准化/01-可复制的电商品牌视觉玩法/domains/视觉制作/05-小红书风格AI生图/index/`
 
 ## Formal pages
 
-- `domains/visual-production/learning-paths/brand-visual-repeatable-ecommerce-visual-playbook/index.md`
-- `domains/visual-production/learning-paths/brand-visual-repeatable-ecommerce-visual-playbook/01-visual-standardization-for-ecommerce-teams.md`
-- `domains/visual-production/learning-paths/brand-visual-repeatable-ecommerce-visual-playbook/02-three-visual-systems-click-conversion-repurchase.md`
-- `domains/visual-production/learning-paths/brand-visual-repeatable-ecommerce-visual-playbook/03-brand-positioning-differentiation-and-unity.md`
-- `domains/visual-production/learning-paths/brand-visual-repeatable-ecommerce-visual-playbook/04-brand-visual-identity-standard-system.md`
-- `domains/visual-production/learning-paths/brand-visual-repeatable-ecommerce-visual-playbook/05-visual-memory-symbols-and-repetition.md`
-- `domains/visual-production/learning-paths/brand-visual-repeatable-ecommerce-visual-playbook/06-photography-packaging-and-touchpoint-standards.md`
-- `domains/visual-production/learning-paths/brand-visual-repeatable-ecommerce-visual-playbook/07-case-library-kabei-taobrands-and-small-sellers.md`
-- `domains/visual-production/learning-paths/brand-visual-repeatable-ecommerce-visual-playbook/08-agent-usage-template.md`
+- `domains/视觉制作/domains/视觉制作/05-小红书风格AI生图/index/02-品牌视觉标准化/01-可复制的电商品牌视觉玩法/domains/视觉制作/05-小红书风格AI生图/index.md`
+- `domains/视觉制作/domains/视觉制作/05-小红书风格AI生图/index/02-品牌视觉标准化/01-可复制的电商品牌视觉玩法/01-视觉标准化如何解决团队内耗.md`
+- `domains/视觉制作/domains/视觉制作/05-小红书风格AI生图/index/02-品牌视觉标准化/01-可复制的电商品牌视觉玩法/02-品牌视觉、产品视觉、营销视觉三系统.md`
+- `domains/视觉制作/domains/视觉制作/05-小红书风格AI生图/index/02-品牌视觉标准化/01-可复制的电商品牌视觉玩法/03-品牌定位：差异化与统一.md`
+- `domains/视觉制作/domains/视觉制作/05-小红书风格AI生图/index/02-品牌视觉标准化/01-可复制的电商品牌视觉玩法/04-品牌视觉12项标准系统.md`
+- `domains/视觉制作/domains/视觉制作/05-小红书风格AI生图/index/02-品牌视觉标准化/01-可复制的电商品牌视觉玩法/05-视觉记忆符号与重复机制.md`
+- `domains/视觉制作/domains/视觉制作/05-小红书风格AI生图/index/02-品牌视觉标准化/01-可复制的电商品牌视觉玩法/06-摄影、包装与触点标准.md`
+- `domains/视觉制作/domains/视觉制作/05-小红书风格AI生图/index/02-品牌视觉标准化/01-可复制的电商品牌视觉玩法/07-案例库：卡贝、淘品牌与中小卖家.md`
+- `domains/视觉制作/domains/视觉制作/05-小红书风格AI生图/index/02-品牌视觉标准化/01-可复制的电商品牌视觉玩法/08-Agent使用模板：电商品牌视觉标准诊断.md`
 
 ## Coverage artifacts
 
-- Source profile: `_meta/extraction-notes/brand-visual-repeatable-ecommerce-visual-playbook-2018/source-profile.md`
-- Source inventory: `_meta/extraction-notes/brand-visual-repeatable-ecommerce-visual-playbook-2018/source-inventory.md`
-- Segment plan: `_meta/extraction-notes/brand-visual-repeatable-ecommerce-visual-playbook-2018/segment-plan.md`
-- Chapter inventory: `_meta/extraction-notes/brand-visual-repeatable-ecommerce-visual-playbook-2018/chapter-inventory.md`
-- Knowledge unit inventory: `_meta/extraction-notes/brand-visual-repeatable-ecommerce-visual-playbook-2018/knowledge-unit-inventory.md`
-- Coverage matrix: `_meta/extraction-notes/brand-visual-repeatable-ecommerce-visual-playbook-2018/coverage-matrix.md`
-- Omission audit: `_meta/extraction-notes/brand-visual-repeatable-ecommerce-visual-playbook-2018/omission-audit.md`
-- Source-to-page map: `_meta/extraction-notes/brand-visual-repeatable-ecommerce-visual-playbook-2018/source-to-page-map.json`
+- Source profile: `_meta/extraction-notes/domains/视觉制作/domains/视觉制作/05-小红书风格AI生图/index/02-品牌视觉标准化/01-可复制的电商品牌视觉玩法/domains/视觉制作/05-小红书风格AI生图/index-2018/source-profile.md`
+- Source inventory: `_meta/extraction-notes/domains/视觉制作/domains/视觉制作/05-小红书风格AI生图/index/02-品牌视觉标准化/01-可复制的电商品牌视觉玩法/domains/视觉制作/05-小红书风格AI生图/index-2018/source-inventory.md`
+- Segment plan: `_meta/extraction-notes/domains/视觉制作/domains/视觉制作/05-小红书风格AI生图/index/02-品牌视觉标准化/01-可复制的电商品牌视觉玩法/domains/视觉制作/05-小红书风格AI生图/index-2018/segment-plan.md`
+- Chapter inventory: `_meta/extraction-notes/domains/视觉制作/domains/视觉制作/05-小红书风格AI生图/index/02-品牌视觉标准化/01-可复制的电商品牌视觉玩法/domains/视觉制作/05-小红书风格AI生图/index-2018/chapter-inventory.md`
+- Knowledge unit inventory: `_meta/extraction-notes/domains/视觉制作/domains/视觉制作/05-小红书风格AI生图/index/02-品牌视觉标准化/01-可复制的电商品牌视觉玩法/domains/视觉制作/05-小红书风格AI生图/index-2018/knowledge-unit-inventory.md`
+- Coverage matrix: `_meta/extraction-notes/domains/视觉制作/domains/视觉制作/05-小红书风格AI生图/index/02-品牌视觉标准化/01-可复制的电商品牌视觉玩法/domains/视觉制作/05-小红书风格AI生图/index-2018/coverage-matrix.md`
+- Omission audit: `_meta/extraction-notes/domains/视觉制作/domains/视觉制作/05-小红书风格AI生图/index/02-品牌视觉标准化/01-可复制的电商品牌视觉玩法/domains/视觉制作/05-小红书风格AI生图/index-2018/omission-audit.md`
+- Source-to-page map: `_meta/extraction-notes/domains/视觉制作/domains/视觉制作/05-小红书风格AI生图/index/02-品牌视觉标准化/01-可复制的电商品牌视觉玩法/domains/视觉制作/05-小红书风格AI生图/index-2018/source-to-page-map.json`
 
 ## Known unresolved / audit focus
 

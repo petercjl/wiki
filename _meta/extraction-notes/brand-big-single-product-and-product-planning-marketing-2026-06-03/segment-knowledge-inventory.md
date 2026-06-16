@@ -13,7 +13,7 @@
 | 07 | concept | 卖点可视化与直播演绎 |
 | 08 | concept | 昵称化命名与消费者语言 |
 | 09 | concept | 爆品心智与分阶段策略 |
-| 10 | playbook | Agent 使用模板 |
+| 10 | domains/视觉制作/04-AI生图风格库/01-极简北欧风/variants/shanju-light-kitchen-living/playbook | Agent 使用模板 |
 
 ## 关键方法资产
 

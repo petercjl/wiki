@@ -16,12 +16,12 @@
 
 ## Formal pages
 
-- `domains/brand-strategy/learning-paths/category-mind-brand-building-afternoon/index.md`
-- `domains/brand-strategy/learning-paths/category-mind-brand-building-afternoon/01-category-focus-vs-tribe-recognition.md`
-- `domains/brand-strategy/learning-paths/category-mind-brand-building-afternoon/02-category-focus-case-patterns.md`
-- `domains/brand-strategy/learning-paths/category-mind-brand-building-afternoon/03-mind-positioning-validation.md`
-- `domains/brand-strategy/learning-paths/category-mind-brand-building-afternoon/04-brand-aesthetic-system.md`
-- `domains/brand-strategy/learning-paths/category-mind-brand-building-afternoon/05-hero-product-strategy.md`
-- `domains/brand-strategy/learning-paths/category-mind-brand-building-afternoon/06-brand-communication-and-endorsement.md`
-- `domains/brand-strategy/learning-paths/category-mind-brand-building-afternoon/07-four-module-priority-diagnosis.md`
-- `domains/brand-strategy/learning-paths/category-mind-brand-building-afternoon/08-agent-usage-template.md`
+- `domains/品牌策略/02-品类心智与差异化/01-电商品牌竞争战略：品类心智与品牌打造/domains/视觉制作/05-小红书风格AI生图/index.md`
+- `domains/品牌策略/02-品类心智与差异化/01-电商品牌竞争战略：品类心智与品牌打造/01-品类聚焦与人群认同.md`
+- `domains/品牌策略/02-品类心智与差异化/01-电商品牌竞争战略：品类心智与品牌打造/02-品类聚焦案例模式.md`
+- `domains/品牌策略/02-品类心智与差异化/01-电商品牌竞争战略：品类心智与品牌打造/03-心智定位验证.md`
+- `domains/品牌策略/02-品类心智与差异化/01-电商品牌竞争战略：品类心智与品牌打造/04-品牌视觉美学系统.md`
+- `domains/品牌策略/02-品类心智与差异化/01-电商品牌竞争战略：品类心智与品牌打造/05-大单品战略.md`
+- `domains/品牌策略/02-品类心智与差异化/01-电商品牌竞争战略：品类心智与品牌打造/06-品牌传播与背书.md`
+- `domains/品牌策略/02-品类心智与差异化/01-电商品牌竞争战略：品类心智与品牌打造/07-四模块优先级诊断.md`
+- `domains/品牌策略/02-品类心智与差异化/01-电商品牌竞争战略：品类心智与品牌打造/08-Agent使用模板：电商品牌竞争战略诊断.md`

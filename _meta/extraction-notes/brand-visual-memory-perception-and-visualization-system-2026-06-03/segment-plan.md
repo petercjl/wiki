@@ -1,6 +1,6 @@
 # segment-plan
 
-源文件：`raw/transcripts/brand-visual-memory-perception-and-visualization-system-2026-06-03.md`
+源文件：`raw/transcripts/domains/品牌策略/04-品牌视觉资产/01-品牌视觉记忆感知与可视化体系/domains/视觉制作/05-小红书风格AI生图/index-2026-06-03.md`
 
 处理日期：2026-06-06
 

@@ -3,7 +3,7 @@ title: 淘宝营销工具规划查询入口
 type: query
 created: 2026-06-03
 updated: 2026-06-03
-domain: ecommerce-ops
+domain: 电商运营
 tags: [ecommerce, taobao, marketing-tool]
 sources:
   - raw/webpages/taobao/taobao-coupon-settings-merchant-ops-2026-06-02.md
@@ -20,10 +20,10 @@ status: active
 
 ## 回答前必须读取
 
-- [[domains/ecommerce-ops/playbooks/taobao-marketing-tool-selection|淘宝营销工具选择 Playbook]]
-- [[domains/ecommerce-ops/marketing-tools/taobao-promotion-stacking-rules|淘宝营销工具叠加与互斥规则]]
-- [[domains/ecommerce-ops/marketing-tools/taobao-coupon-tool|淘宝营销工具：优惠券]]
-- [[domains/ecommerce-ops/marketing-tools/taobao-super-discount|淘宝营销工具：超级立减]]
+- [[domains/电商运营/02-淘宝天猫/02-淘宝营销工具/04-淘宝营销工具选择Playbook|淘宝营销工具选择 Playbook]]
+- [[domains/电商运营/02-淘宝天猫/02-淘宝营销工具/03-淘宝营销工具叠加与互斥规则|淘宝营销工具叠加与互斥规则]]
+- [[domains/电商运营/02-淘宝天猫/02-淘宝营销工具/01-淘宝营销工具：优惠券|淘宝营销工具：优惠券]]
+- [[domains/电商运营/02-淘宝天猫/02-淘宝营销工具/02-淘宝营销工具：超级立减|淘宝营销工具：超级立减]]
 
 必要时再回到 raw source 核对官方原文：
 

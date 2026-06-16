@@ -3,7 +3,7 @@ title: 旺店通 API Skill 创建查询入口
 type: query
 created: 2026-06-03
 updated: 2026-06-03
-domain: ecommerce-ops
+domain: 电商运营
 tags: [ecommerce, erp, wangdian, api, skill]
 sources:
   - raw/api/wangdian-openapi/wangdian-openapi-full-scrape-2026-06-03.json
@@ -18,15 +18,15 @@ status: active
 
 ## 回答前必须读取
 
-- [[domains/ecommerce-ops/api/wangdian/index|旺店通开放平台 API 知识库]]
-- [[domains/ecommerce-ops/api/wangdian/capability-map|旺店通 API 能力地图]]
-- [[domains/ecommerce-ops/api/wangdian/skill-building-guide|旺店通 API Skill 创建指南]]
+- [[domains/电商运营/30-ERP与系统工具/01-旺店通开放平台API/index|旺店通开放平台 API 知识库]]
+- [[domains/电商运营/30-ERP与系统工具/01-旺店通开放平台API/01-旺店通API能力地图|旺店通 API 能力地图]]
+- [[domains/电商运营/30-ERP与系统工具/01-旺店通开放平台API/02-旺店通API Skill创建指南|旺店通 API Skill 创建指南]]
 
 字段细节必须回到 raw：
 
 - `raw/api/wangdian-openapi/wangdian-openapi-full-archive-2026-06-03.md`
 - `raw/api/wangdian-openapi/wangdian-openapi-full-scrape-2026-06-03.json`
-- `raw/api/wangdian-openapi/wangdian-openapi-compact-index-2026-06-03.json`
+- `raw/api/wangdian-openapi/wangdian-openapi-compact-domains/视觉制作/05-小红书风格AI生图/index-2026-06-03.json`
 
 ## 需要向用户确认的信息
 

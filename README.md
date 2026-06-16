@@ -12,6 +12,6 @@
 - `raw/`：原始资料，只读，不直接修改。
 - `inbox/`：Web Clipper、临时笔记和待整理资料。
 
-所有 Agent 在修改前必须先读 `AGENTS.md`、`SCHEMA.md`、`index.md`、`log.md` 最近记录。
+所有 Agent 在修改前必须先读 `AGENTS.md`、`SCHEMA.md`、`domains/视觉制作/05-小红书风格AI生图/index.md`、`log.md` 最近记录。
 
 Obsidian 可以直接打开本目录作为 Vault。

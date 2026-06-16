@@ -6,4 +6,4 @@
 
 知识类型：concept
 
-输出页：`06-first-principle-of-hero-products.md`
+输出页：`domains/品牌策略/03-产品战略与大单品/01-电商品牌心智产品力与大单品战略/06-大单品第一性原理.md`

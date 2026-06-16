@@ -3,12 +3,12 @@ title: 极简北欧风生图查询入口
 type: query
 created: 2026-06-08
 updated: 2026-06-08
-domain: visual-production
+domain: 视觉制作
 tags: [visual-production, prompt-engineering, workflow]
 sources:
-  - domains/visual-production/visual-styles/minimal-scandinavian/index.md
-  - domains/visual-production/visual-styles/minimal-scandinavian/playbook.md
-  - domains/visual-production/visual-styles/minimal-scandinavian/reference-gallery.md
+  - domains/视觉制作/04-AI生图风格库/01-极简北欧风/index.md
+  - domains/视觉制作/04-AI生图风格库/01-极简北欧风/01-极简北欧风AI生图Playbook.md
+  - domains/视觉制作/04-AI生图风格库/01-极简北欧风/02-极简北欧风参考图索引.md
 status: active
 ---
 
@@ -16,9 +16,9 @@ status: active
 
 当 Agent 需要生成、改写或审核“极简北欧风”图片时，先读取：
 
-1. [[domains/visual-production/visual-styles/minimal-scandinavian|极简北欧风视觉风格]]
-2. [[domains/visual-production/visual-styles/minimal-scandinavian/playbook|极简北欧风 AI 生图 Playbook]]
-3. [[domains/visual-production/visual-styles/minimal-scandinavian/reference-gallery|极简北欧风参考图索引]]
+1. [[domains/视觉制作/04-AI生图风格库/01-极简北欧风/index|极简北欧风视觉风格]]
+2. [[domains/视觉制作/04-AI生图风格库/01-极简北欧风/01-极简北欧风AI生图Playbook|极简北欧风 AI 生图 Playbook]]
+3. [[domains/视觉制作/04-AI生图风格库/01-极简北欧风/02-极简北欧风参考图索引|极简北欧风参考图索引]]
 
 ## Agent 输出结构
 
@@ -35,7 +35,7 @@ status: active
 
 ```text
 请为【产品】生成极简北欧风【图位】。
-先使用 [[domains/visual-production/visual-styles/minimal-scandinavian]] 判断风格边界，
-再使用 [[domains/visual-production/visual-styles/minimal-scandinavian/playbook]] 输出 prompt。
+先使用 [[domains/视觉制作/04-AI生图风格库/01-极简北欧风/index]] 判断风格边界，
+再使用 [[domains/视觉制作/04-AI生图风格库/01-极简北欧风/01-极简北欧风AI生图Playbook]] 输出 prompt。
 如果产品是藤编收纳篮，优先参考 U03/U04/U06/U07 的产品陈列逻辑。
 ```

@@ -2,17 +2,17 @@
 
 - audit date: 2026-06-13
 - skill: llm-wiki-audit-and-optimization
-- target: `domains/ecommerce-ops/learning-paths/ecommerce-tax-equity-strategic-finance/`
+- target: `domains/财税与经营财务/90-课程包/01-财税股权28期/`
 - mode: Post-Ingest QA + Compile/Route Audit
 
 ## 1. Target Map
 
-- formal path: `domains/ecommerce-ops/learning-paths/ecommerce-tax-equity-strategic-finance/`
-- formal pages: 12 Markdown files, including index and Agent usage template.
+- formal path: `domains/财税与经营财务/90-课程包/01-财税股权28期/`
+- formal pages: 12 Markdown files, including domains/视觉制作/05-小红书风格AI生图/index and Agent usage template.
 - raw archive: `raw/transcripts/ecommerce-tax-equity-course-28-2026-04/`
 - extraction notes: `_meta/extraction-notes/ecommerce-tax-equity-course-28-2026-04/`
-- domain index route: `domains/ecommerce-ops/index.md`
-- root index route: `index.md`
+- domain domains/视觉制作/05-小红书风格AI生图/index route: `domains/电商运营/domains/视觉制作/05-小红书风格AI生图/index.md`
+- root domains/视觉制作/05-小红书风格AI生图/index route: `domains/视觉制作/05-小红书风格AI生图/index.md`
 
 ## 2. Placeholder / Shell Scan
 
@@ -58,15 +58,15 @@ Added case, number, and risk anchors into formal pages:
 
 ### Strengths
 
-- Root index includes the learning path and all 11 formal chapter links.
-- Domain index includes a concise module-level route to the path and key pages.
-- Learning path index is ordered and readable.
+- Root domains/视觉制作/05-小红书风格AI生图/index includes the learning path and all 11 formal chapter links.
+- Domain domains/视觉制作/05-小红书风格AI生图/index includes a concise module-level route to the path and key pages.
+- Learning path domains/视觉制作/05-小红书风格AI生图/index is ordered and readable.
 - Chapter titles are Chinese, human-readable, and problem-oriented.
 - Agent usage template exists.
 
 ### Remaining Route Notes
 
-- P2: could later add a query entry such as `queries/ecommerce-tax-equity-diagnosis.md` if Peter often asks direct diagnostic questions. Not required for current usability because the root/domain/path indexes already route correctly.
+- P2: could later add a query entry such as `queries/ecommerce-tax-equity-diagnosis.md` if Peter often asks direct diagnostic questions. Not required for current usability because the root/domain/path domains/视觉制作/05-小红书风格AI生图/indexes already route correctly.
 - P2: could cross-link `finance-accounting/ecommerce-platform-settlement-accounting` with page 06 if platform settlement and tax-equity diagnosis are often used together.
 
 ## 5. Reasoning Readiness Audit

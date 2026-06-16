@@ -12,7 +12,7 @@ case
 
 ## 输出页
 
-`09-case-mleb-f-sports-and-ai-team-rebuild.md`
+`domains/品牌策略/04-品牌视觉资产/01-品牌视觉记忆感知与可视化体系/09-梦百合与F运动服饰案例.md`
 
 ## 处理说明
 

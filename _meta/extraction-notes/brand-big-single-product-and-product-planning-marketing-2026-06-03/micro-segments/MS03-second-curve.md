@@ -6,4 +6,4 @@
 
 知识类型：case
 
-输出页：`03-second-growth-curve-with-birds-nest-congee.md`
+输出页：`domains/品牌策略/03-产品战略与大单品/02-品牌大单品打造与产品企划营销/03-第二增长曲线：燕窝粥早餐场景.md`

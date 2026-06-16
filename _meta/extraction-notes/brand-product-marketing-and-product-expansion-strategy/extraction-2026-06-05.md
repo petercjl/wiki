@@ -1,8 +1,8 @@
 # 提取笔记：品牌产品营销与拓品策略
 
-- 源文件：`raw/transcripts/brand-product-marketing-and-product-expansion-strategy-2026-06-03.md`（441 行 / 约 30.7k 字正文 + 原文）
+- 源文件：`raw/transcripts/domains/品牌策略/03-产品战略与大单品/03-品牌产品营销与拓品策略/domains/视觉制作/05-小红书风格AI生图/index-2026-06-03.md`（441 行 / 约 30.7k 字正文 + 原文）
 - 处理日期：2026-06-05
-- 目标路径：`domains/brand-strategy/learning-paths/brand-product-marketing-and-product-expansion-strategy/`
+- 目标路径：`domains/品牌策略/03-产品战略与大单品/03-品牌产品营销与拓品策略/domains/视觉制作/05-小红书风格AI生图/index/`
 - 本次为重编译（原 9 页为模板占位空壳，已被 placeholder_scan 标记为 SHELL）。
 
 ## 转写质量评估
@@ -25,7 +25,7 @@
 | 06 | product-expansion-three-valid-paths | 块9(31:15) 乱拓品危害 + 三条拓品路径 |
 | 07 | growth-paths-haiguibaba-and-aulaike | 块10(38:33)+块11(45:24) 增量/存量；海龟爸爸/欧莱克 |
 | 08 | brand-mindshare-productization-with-kelu | 块12(55:16) 非标品企划 + 块13(63:24) 可露 |
-| 09 | agent-usage-template | 全局综合 + 块14(69:18) 总结 |
+| 09 | domains/视觉制作/domains/视觉制作/05-小红书风格AI生图/index/05-小红书风格AI生图/09-Agent使用模板：小红书风格生图 | 全局综合 + 块14(69:18) 总结 |
 
 ## 必保留锚点清单（omission audit 基线，≥12）
 

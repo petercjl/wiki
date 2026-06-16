@@ -6,4 +6,4 @@
 
 知识类型：concept
 
-输出页：`04-product-matrix-role-division.md`
+输出页：`domains/品牌策略/03-产品战略与大单品/02-品牌大单品打造与产品企划营销/04-产品矩阵的角色分工.md`

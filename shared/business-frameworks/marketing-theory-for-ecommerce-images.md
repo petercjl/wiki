@@ -7,15 +7,15 @@ domain: shared
 tags: [visual-production, ecommerce, brand-strategy, business-analysis, bridge]
 sources:
   - raw/articles/marketing-theory-for-ecommerce-images-2026-05-22.md
-  - domains/visual-production/concepts/marketing-theory-for-ecommerce-images.md
+  - domains/视觉制作/01-电商视觉基础/01-营销学理论在电商图片中的应用.md
 status: active
-canonical: domains/visual-production/concepts/marketing-theory-for-ecommerce-images.md
+canonical: domains/视觉制作/01-电商视觉基础/01-营销学理论在电商图片中的应用.md
 ---
 
 # 营销学理论在电商图片中的应用
 
 > 本页是兼容旧链接的桥接页，不再承载完整正文。  
-> 主知识页已迁移到：[[domains/visual-production/concepts/marketing-theory-for-ecommerce-images|营销学理论在电商图片中的应用]]。
+> 主知识页已迁移到：[[domains/视觉制作/01-电商视觉基础/01-营销学理论在电商图片中的应用|营销学理论在电商图片中的应用]]。
 
 ## 为什么迁移
 
@@ -25,16 +25,16 @@ canonical: domains/visual-production/concepts/marketing-theory-for-ecommerce-ima
 - 商品卖点到用户购买理由的视觉转译；
 - 图片组策划、图上文案和 AI 生图 prompt 的生产方法。
 
-因此它的 canonical home 应归属于 `domains/visual-production/concepts/`，而不是 `shared/business-frameworks/`。
+因此它的 canonical home 应归属于 `domains/视觉制作/01-电商视觉基础/`，而不是 `shared/business-frameworks/`。
 
 ## 相关入口
 
-- 主理论页：[[domains/visual-production/concepts/marketing-theory-for-ecommerce-images|营销学理论在电商图片中的应用]]
-- 执行 Playbook：[[domains/visual-production/playbooks/ecommerce-image-marketing-production-playbook|电商图片营销策划与 AI 生图 Playbook]]
-- 原始归档：[[raw/articles/marketing-theory-for-ecommerce-images-2026-05-22|marketing-theory-for-ecommerce-images-2026-05-22]]
+- 主理论页：[[domains/视觉制作/01-电商视觉基础/01-营销学理论在电商图片中的应用|营销学理论在电商图片中的应用]]
+- 执行 Playbook：[[domains/视觉制作/01-电商视觉基础/02-电商图片营销策划与AI生图Playbook|电商图片营销策划与 AI 生图 Playbook]]
+- 原始归档：[[raw/articles/marketing-theory-for-ecommerce-images-2026-05-22|domains/视觉制作/01-电商视觉基础/01-营销学理论在电商图片中的应用-2026-05-22]]
 
 ## 跨域使用说明
 
-- `visual-production`：作为主理论页使用。
+- `domains/视觉制作/01-电商视觉基础/01-营销学理论在电商图片中的应用`：作为主理论页使用。
 - `ecommerce-ops`：用于商品卖点提炼、主图点击率、详情页转化分析。
 - `brand-strategy`：用于定位表达、人群沟通、品牌调性和视觉价值感设计。

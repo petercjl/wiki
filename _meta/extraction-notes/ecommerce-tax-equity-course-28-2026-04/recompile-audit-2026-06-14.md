@@ -9,7 +9,7 @@ Formal synthesis repair. Existing learning-path route is retained, but all 12 fo
 
 ## Files Rewritten
 
-- `domains/ecommerce-ops/learning-paths/ecommerce-tax-equity-strategic-finance/index.md`
+- `domains/财税与经营财务/90-课程包/01-财税股权28期/domains/视觉制作/05-小红书风格AI生图/index.md`
 - `01-ecommerce-tax-risk-business-genes.md`
 - `02-four-account-system.md`
 - `03-tax-compliance-path-and-red-lines.md`
@@ -20,7 +20,7 @@ Formal synthesis repair. Existing learning-path route is retained, but all 12 fo
 - `08-incentive-dividend-budget-system.md`
 - `09-equity-as-resource-integration-tool.md`
 - `10-strategic-finance-competition-indicators.md`
-- `11-agent-usage-template.md`
+- `domains/品牌策略/03-产品战略与大单品/01-电商品牌心智产品力与大单品战略/11-Agent使用模板：心智产品力与大单品诊断.md`
 
 ## Content Standard Applied
 

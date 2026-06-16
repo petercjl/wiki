@@ -1,6 +1,6 @@
 # segment-plan
 
-源文件：`raw/transcripts/ai-commercial-visual-design-application-methods-and-practice-2026-06-03.md`
+源文件：`raw/transcripts/domains/视觉制作/domains/视觉制作/05-小红书风格AI生图/index/03-AI商业视觉/01-AI在商业视觉设计中的应用方法与实践/domains/视觉制作/05-小红书风格AI生图/index-2026-06-03.md`
 
 - 正式输出采用章节化 learning path。
 - 课堂组织、签到、休息、互动、加分、闲聊等内容不进入正式页。

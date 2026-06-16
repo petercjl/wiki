@@ -23,7 +23,7 @@
 ## 3. 本案例处理结果
 
 - Raw source: `raw/transcripts/brand-strategy-methodology-course-opening-2026-05-22.md`
-- Formal wiki page: `domains/brand-strategy/learning-paths/brand-strategy-methodology-reconstructed.md`
+- Formal wiki page: `domains/品牌策略/01-品牌基础与增长方法/01-电商品牌增长方法论/domains/视觉制作/05-小红书风格AI生图/index.md`
 - Segment knowledge inventory: `_meta/extraction-notes/brand-strategy-methodology-course-opening-v2/segment-knowledge-inventory.md`
 - Coverage matrix: `_meta/extraction-notes/brand-strategy-methodology-course-opening-v2/coverage-matrix.md`
 
@@ -35,7 +35,7 @@
 | 分段/片段处理 | 通过 | 通过 coverage matrix 与 segment knowledge inventory 记录分段覆盖和归类结果 |
 | 大模型分析与理解 | 通过 | 正式页补入因果链、决策标准、案例推导、适用边界和误区 |
 | 片段知识库 | 通过 | `segment-knowledge-inventory.md` 记录知识单元分类和入库位置 |
-| 归类入库 | 通过 | 片段知识合并为顺序化正式理论页，并列入 `index.md` |
+| 归类入库 | 通过 | 片段知识合并为顺序化正式理论页，并列入 `domains/视觉制作/05-小红书风格AI生图/index.md` |
 | 正式页去来源化 | 通过 | 禁止词命中：`{}` |
 | 关键词覆盖 | 通过 | 德佑、红牛、lululemon、始祖鸟、北面、科颜氏、麻辣王子、周黑鸭等均已覆盖 |
 | 长输出处理 | 通过 | 长内容写入 Markdown 文件，不在聊天中输出大段内容 |

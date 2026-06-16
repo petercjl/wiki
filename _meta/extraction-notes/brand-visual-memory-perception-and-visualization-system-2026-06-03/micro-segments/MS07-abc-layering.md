@@ -12,7 +12,7 @@ concept
 
 ## 输出页
 
-`07-abc-visual-layering-system.md`
+`domains/品牌策略/04-品牌视觉资产/01-品牌视觉记忆感知与可视化体系/07-ABC视觉分层系统.md`
 
 ## 处理说明
 

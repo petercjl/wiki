@@ -13,7 +13,7 @@
 | 07 | concept | ABC 视觉分层和详情页/主图编排 |
 | 08 | concept | 可视化世界观四模块 |
 | 09 | case | 梦百合、F 运动服饰和 AI 执行体系 |
-| 10 | playbook | Agent 品牌视觉诊断模板 |
+| 10 | domains/视觉制作/04-AI生图风格库/01-极简北欧风/variants/shanju-light-kitchen-living/playbook | Agent 品牌视觉诊断模板 |
 
 ## 关键方法资产
 

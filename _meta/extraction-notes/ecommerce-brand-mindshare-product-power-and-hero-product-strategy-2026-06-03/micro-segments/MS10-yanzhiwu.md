@@ -6,4 +6,4 @@
 
 知识类型：case
 
-输出页：`10-yanzhiwu-young-instant-birds-nest-planning.md`
+输出页：`domains/品牌策略/03-产品战略与大单品/01-电商品牌心智产品力与大单品战略/10-燕之屋年轻化即食燕窝企划案例.md`

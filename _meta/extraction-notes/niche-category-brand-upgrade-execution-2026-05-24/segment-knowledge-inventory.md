@@ -2,15 +2,15 @@
 
 ## Formal pages
 
-- `domains/brand-strategy/learning-paths/niche-category-brand-upgrade-execution/01-niche-category-six-dimensional-brand-defense.md`
-- `domains/brand-strategy/learning-paths/niche-category-brand-upgrade-execution/02-canban-oral-care-case.md`
-- `domains/brand-strategy/learning-paths/niche-category-brand-upgrade-execution/03-mianzhuwu-socks-brand-upgrade.md`
-- `domains/brand-strategy/learning-paths/niche-category-brand-upgrade-execution/04-simple-executable-effective-organization.md`
-- `domains/brand-strategy/learning-paths/niche-category-brand-upgrade-execution/05-positive-management-and-ai-routines.md`
-- `domains/brand-strategy/learning-paths/niche-category-brand-upgrade-execution/06-yinsumao-niche-positioning.md`
-- `domains/brand-strategy/learning-paths/niche-category-brand-upgrade-execution/07-private-domain-co-creation-system.md`
-- `domains/brand-strategy/learning-paths/niche-category-brand-upgrade-execution/08-agent-usage-template.md`
-- `domains/brand-strategy/learning-paths/niche-category-brand-upgrade-execution/index.md`
+- `domains/品牌策略/02-品类心智与差异化/03-细分品类品牌升级与执行力落地/01-细分品类六维品牌防守.md`
+- `domains/品牌策略/02-品类心智与差异化/03-细分品类品牌升级与执行力落地/02-参半口腔护理案例.md`
+- `domains/品牌策略/02-品类心智与差异化/03-细分品类品牌升级与执行力落地/03-绵竹屋袜子品牌升级.md`
+- `domains/品牌策略/02-品类心智与差异化/03-细分品类品牌升级与执行力落地/04-简单、可操作、有效果的组织执行.md`
+- `domains/品牌策略/02-品类心智与差异化/03-细分品类品牌升级与执行力落地/05-正向管理与AI套路.md`
+- `domains/品牌策略/02-品类心智与差异化/03-细分品类品牌升级与执行力落地/06-音速猫细分定位.md`
+- `domains/品牌策略/02-品类心智与差异化/03-细分品类品牌升级与执行力落地/07-私域共创系统.md`
+- `domains/品牌策略/02-品类心智与差异化/03-细分品类品牌升级与执行力落地/08-Agent使用模板：细分品类品牌升级诊断.md`
+- `domains/品牌策略/02-品类心智与差异化/03-细分品类品牌升级与执行力落地/domains/视觉制作/05-小红书风格AI生图/index.md`
 
 ## Consolidated units
 

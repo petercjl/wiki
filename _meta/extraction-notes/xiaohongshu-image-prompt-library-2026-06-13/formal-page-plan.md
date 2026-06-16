@@ -14,25 +14,25 @@ status: active
 
 ## Domain placement
 
-`domains/visual-production/xiaohongshu-image-generation/`
+`domains/视觉制作/domains/视觉制作/05-小红书风格AI生图/index/05-小红书风格AI生图/domains/视觉制作/05-小红书风格AI生图/index/`
 
 ## Formal pages
 
-- `domains/visual-production/xiaohongshu-image-generation/index.md`
-- `domains/visual-production/xiaohongshu-image-generation/xiaohongshu-image-generation-principles.md`
-- `domains/visual-production/xiaohongshu-image-generation/feed-vs-search-image-strategy.md`
-- `domains/visual-production/xiaohongshu-image-generation/cover-image-types.md`
-- `domains/visual-production/xiaohongshu-image-generation/image-set-structure.md`
-- `domains/visual-production/xiaohongshu-image-generation/selling-point-translation.md`
-- `domains/visual-production/xiaohongshu-image-generation/prompt-formula-and-variable-library.md`
-- `domains/visual-production/xiaohongshu-image-generation/prompt-templates.md`
-- `domains/visual-production/xiaohongshu-image-generation/qa-checklist.md`
-- `domains/visual-production/xiaohongshu-image-generation/agent-usage-template.md`
-- `queries/xiaohongshu-image-generation.md`
+- `domains/视觉制作/domains/视觉制作/05-小红书风格AI生图/index/05-小红书风格AI生图/domains/视觉制作/05-小红书风格AI生图/index/domains/视觉制作/05-小红书风格AI生图/index.md`
+- `domains/视觉制作/domains/视觉制作/05-小红书风格AI生图/index/05-小红书风格AI生图/domains/视觉制作/05-小红书风格AI生图/index/domains/视觉制作/domains/视觉制作/05-小红书风格AI生图/index/05-小红书风格AI生图/01-小红书风格生图原则.md`
+- `domains/视觉制作/domains/视觉制作/05-小红书风格AI生图/index/05-小红书风格AI生图/domains/视觉制作/05-小红书风格AI生图/index/domains/视觉制作/domains/视觉制作/05-小红书风格AI生图/index/05-小红书风格AI生图/05-信息流与搜索承接图片策略.md`
+- `domains/视觉制作/domains/视觉制作/05-小红书风格AI生图/index/05-小红书风格AI生图/domains/视觉制作/05-小红书风格AI生图/index/domains/视觉制作/domains/视觉制作/05-小红书风格AI生图/index/05-小红书风格AI生图/02-封面图类型.md`
+- `domains/视觉制作/domains/视觉制作/05-小红书风格AI生图/index/05-小红书风格AI生图/domains/视觉制作/05-小红书风格AI生图/index/domains/视觉制作/domains/视觉制作/05-小红书风格AI生图/index/05-小红书风格AI生图/03-组图结构.md`
+- `domains/视觉制作/domains/视觉制作/05-小红书风格AI生图/index/05-小红书风格AI生图/domains/视觉制作/05-小红书风格AI生图/index/domains/视觉制作/domains/视觉制作/05-小红书风格AI生图/index/05-小红书风格AI生图/04-卖点转译.md`
+- `domains/视觉制作/domains/视觉制作/05-小红书风格AI生图/index/05-小红书风格AI生图/domains/视觉制作/05-小红书风格AI生图/index/domains/视觉制作/domains/视觉制作/05-小红书风格AI生图/index/05-小红书风格AI生图/06-Prompt公式与变量库.md`
+- `domains/视觉制作/domains/视觉制作/05-小红书风格AI生图/index/05-小红书风格AI生图/domains/视觉制作/05-小红书风格AI生图/index/domains/视觉制作/domains/视觉制作/05-小红书风格AI生图/index/05-小红书风格AI生图/07-Prompt模板.md`
+- `domains/视觉制作/domains/视觉制作/05-小红书风格AI生图/index/05-小红书风格AI生图/domains/视觉制作/05-小红书风格AI生图/index/domains/视觉制作/05-小红书风格AI生图/08-QA检查清单.md`
+- `domains/视觉制作/domains/视觉制作/05-小红书风格AI生图/index/05-小红书风格AI生图/domains/视觉制作/05-小红书风格AI生图/index/domains/视觉制作/domains/视觉制作/05-小红书风格AI生图/index/05-小红书风格AI生图/09-Agent使用模板：小红书风格生图.md`
+- `queries/domains/视觉制作/domains/视觉制作/05-小红书风格AI生图/index/05-小红书风格AI生图/domains/视觉制作/05-小红书风格AI生图/index.md`
 
 ## Routing updates
 
-- Update `domains/visual-production/index.md`.
-- Update root `index.md`.
-- Add `queries/xiaohongshu-image-generation.md`.
+- Update `domains/视觉制作/domains/视觉制作/05-小红书风格AI生图/index/domains/视觉制作/05-小红书风格AI生图/index.md`.
+- Update root `domains/视觉制作/05-小红书风格AI生图/index.md`.
+- Add `queries/domains/视觉制作/domains/视觉制作/05-小红书风格AI生图/index/05-小红书风格AI生图/domains/视觉制作/05-小红书风格AI生图/index.md`.
 - Append `log.md`.
