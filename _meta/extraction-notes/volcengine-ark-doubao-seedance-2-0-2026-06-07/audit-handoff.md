@@ -1,12 +1,12 @@
 # Audit Handoff
 
-- Source slug: `volcengine-ark-doubao-seedance-2-0-2026-06-07`
+- Source slug: `volcengine-ark-domains/视觉制作/domains/视觉制作/05-小红书风格AI生图/index/06-AI视频/01-Doubao-Seedance-2.0视频生成模型卡-2026-06-07`
 - Adapter used: `llm-wiki-ingest/adapters/web-clipping.md`; API-doc modeling applied only to endpoint/model-ID facts.
-- Raw source: `raw/webpages/volcengine/volcengine-ark-doubao-seedance-2-0-2026-06-07.md`
-- Formal page: `domains/visual-production/ai-video/doubao-seedance-2-0.md`
-- Source inventory: `_meta/extraction-notes/volcengine-ark-doubao-seedance-2-0-2026-06-07/source-inventory.md`
-- Coverage matrix: `_meta/extraction-notes/volcengine-ark-doubao-seedance-2-0-2026-06-07/coverage-matrix.md`
-- Omission audit: `_meta/extraction-notes/volcengine-ark-doubao-seedance-2-0-2026-06-07/omission-audit.md`
+- Raw source: `raw/webpages/volcengine/volcengine-ark-domains/视觉制作/domains/视觉制作/05-小红书风格AI生图/index/06-AI视频/01-Doubao-Seedance-2.0视频生成模型卡-2026-06-07.md`
+- Formal page: `domains/视觉制作/domains/视觉制作/05-小红书风格AI生图/index/06-AI视频/01-Doubao-Seedance-2.0视频生成模型卡.md`
+- Source inventory: `_meta/extraction-notes/volcengine-ark-domains/视觉制作/domains/视觉制作/05-小红书风格AI生图/index/06-AI视频/01-Doubao-Seedance-2.0视频生成模型卡-2026-06-07/source-inventory.md`
+- Coverage matrix: `_meta/extraction-notes/volcengine-ark-domains/视觉制作/domains/视觉制作/05-小红书风格AI生图/index/06-AI视频/01-Doubao-Seedance-2.0视频生成模型卡-2026-06-07/coverage-matrix.md`
+- Omission audit: `_meta/extraction-notes/volcengine-ark-domains/视觉制作/domains/视觉制作/05-小红书风格AI生图/index/06-AI视频/01-Doubao-Seedance-2.0视频生成模型卡-2026-06-07/omission-audit.md`
 
 ## Audit Questions
 

@@ -1,65 +1,73 @@
 # Wiki Index
 
 > Content catalog. Every formal wiki page should be listed here.
-> Last updated: 2026-06-13
-> Total formal pages: 194
+> Last updated: 2026-06-16
+> Total formal pages: 286
 
 ## Domains
 
-- [[domains/ecommerce-ops/index|电商运营知识域]]：电商运营方法论、指标、SOP 和案例。
-- [[domains/visual-production/index|视觉制作知识域]]：主图、详情页、AI 生图、拍摄、版式和视觉转化方法。
-- [[domains/brand-strategy/index|品牌策划知识域]]：品牌定位、人群、心智、内容策略和品牌表达方法。
-- [[domains/ai-agent-engineering/index|AI Agent 工程知识域]]：LLM Wiki、Skill、工具链、自动化工作流与多 Agent 工程方法。
+- [[domains/电商运营/index|电商运营知识域]]：电商运营方法论、指标、SOP 和案例。
+- [[domains/财税与经营财务/index|财税与经营财务知识域]]：企业财税、经营财务、业财一体、股权激励、战略财务、内控和财务组织能力。
+- [[domains/视觉制作/index|视觉制作知识域]]：主图、详情页、AI 生图、拍摄、版式和视觉转化方法。
+- [[domains/品牌策略/index|品牌策划知识域]]：品牌定位、人群、心智、内容策略和品牌表达方法。
+- [[domains/AI Agent工程/index|AI Agent 工程知识域]]：LLM Wiki、Skill、工具链、自动化工作流与多 Agent 工程方法。
 
 ## Shared
 
 - [[shared/knowledge-management/llm-wiki|LLM Wiki 个人知识库]]：由多个 AI Agent 共同维护的个人 Markdown 知识库模式。
 - [[shared/knowledge-management/index|知识管理索引]]：知识库维护和知识管理相关页面入口。
 - [[shared/knowledge-management/obsidian-plugin-stack-for-knowledge-base|Obsidian 插件武装知识库的七件套]]：按四层结构整理适合知识库建设的 Obsidian 插件组合与筛选原则。
-- [[domains/ai-agent-engineering/knowledge-systems/llm-wiki-personal-knowledge-base-operating-loop|LLM Wiki 个人知识库运行闭环]]：围绕 Ingest、Query、Lint 形成知识复利的运行闭环与落地动作。
+- [[domains/AI Agent工程/01-知识系统/01-LLM Wiki个人知识库运行闭环|LLM Wiki 个人知识库运行闭环]]：围绕 Ingest、Query、Lint 形成知识复利的运行闭环与落地动作。
 - [[shared/ai-agent-workflows/index|AI Agent 共享工作流]]：多 Agent 协作、提示词、工具链和自动化流程。
-- [[domains/visual-production/concepts/marketing-theory-for-ecommerce-images|营销学理论在电商图片中的应用]]：将 FABE、USP、STP、AIDA、营销心理和品类策略转化为电商图片策划、视觉表达和 AI 生图提示词的方法论。
+- [[domains/视觉制作/01-电商视觉基础/01-营销学理论在电商图片中的应用|营销学理论在电商图片中的应用]]：将 FABE、USP、STP、AIDA、营销心理和品类策略转化为电商图片策划、视觉表达和 AI 生图提示词的方法论。
 
 ## AI Agent Engineering
 
-- [[domains/ai-agent-engineering/skill-design/personal-ai-agent-skill-registry|个人/项目 Skill 注册库]]：只收录 Peter 自己创建、让 Agent 为项目定制、或明显服务于 Peter 项目/业务流程的 skill，是日常检索“有没有类似 skill”的优先入口。
-- [[domains/ai-agent-engineering/skill-design/llm-wiki-skill-source-package|LLM Wiki Skill 同源包]]：Codex 维护、GitHub 分发、SealSeek/Hermes 安装使用的 LLM Wiki skill 收敛规则与发布入口。
-- [[domains/ai-agent-engineering/skill-design/ai-agent-skill-registry|跨 Agent Skill 注册库]]：统一检索 Codex、Hermes、Lark Agent、OpenClaw、SealSeek、Claude Code 的 skill，定位原始 `SKILL.md` 并判断复用或迁移可能。
-- [[domains/ai-agent-engineering/skill-design/codex-skill-inventory|Codex Skill 注册页]]：Codex 本地业务 skill 与系统 skill 的检索描述、输入方式、关键词和文件位置。
-- [[domains/ai-agent-engineering/skill-design/hermes-skill-registry|Hermes Skill 注册页]]：Hermes 主 skill 目录的检索描述、输入方式、关键词和文件位置。
-- [[domains/ai-agent-engineering/skill-design/lark-agent-skill-registry|Lark Agent Skill 注册页]]：飞书/Lark 相关 skill 的检索描述、输入方式、关键词和文件位置。
-- [[domains/ai-agent-engineering/skill-design/openclaw-skill-registry|OpenClaw Skill 注册页]]：OpenClaw workspace skill 的检索描述、输入方式、关键词和文件位置。
-- [[domains/ai-agent-engineering/skill-design/sealseek-skill-registry|SealSeek Skill 注册页]]：SealSeek 多来源 skill 的检索描述、输入方式、关键词和文件位置，覆盖 skill_pool、workspace、active/customized、standalone 和迁移包。
-- [[domains/ai-agent-engineering/skill-design/claude-code-skill-registry|Claude Code Skill 注册页]]：Claude Code plugin marketplace skill 的检索描述、输入方式、关键词和文件位置。
+- [[domains/AI Agent工程/index|AI Agent 工程知识域]]：LLM Wiki、Skill、工具链、自动化工作流与多 Agent 工程方法。
+- [[domains/AI Agent工程/01-知识系统/01-LLM Wiki个人知识库运行闭环|LLM Wiki 个人知识库运行闭环]]：用 Ingest / Query / Lint 三个动作，把知识库从“资料堆”变成持续复利的个人知识系统。
+- [[domains/AI Agent工程/03-Skill设计/01-LLM Wiki Skill同源包|LLM Wiki Skill 同源包]]：Codex 维护、GitHub 分发、SealSeek/Hermes 安装使用的 LLM Wiki skill 收敛规则与发布入口。
+- [[domains/AI Agent工程/03-Skill设计/02-无限画板Skill写作知识库/index|无限画板 Skill 写作知识库]]：从历史无限画板 skill 中沉淀出的写作规则、工具规范、任务范式、prompt 模板、反坑清单和质量检查。
+- [[domains/AI Agent工程/05-工具链/01-OpenAI图像生成API集成指南|OpenAI 图像生成 API 集成指南]]：Image API 与 Responses API 的选择、参数、编辑、流式、错误处理和成本判断。
+- [[domains/视觉制作/03-AI商业视觉/02-Codex与Photoshop协作自动化能力边界|Codex 与 Photoshop 协作自动化能力边界]]：本机验证 Codex 控制 Photoshop、Apple Vision OCR、PSD 检查和批量视觉生产的能力边界。
+- [[domains/视觉制作/03-AI商业视觉/03-可编辑海报PSD重建Skill|可编辑海报 PSD 重建 Skill]]：Codex skill `editable-poster-psd-rebuild`，将 AI 带字电商海报重建为无文案底图、隐藏参考图和授权字体可编辑文字层 PSD。
+- [[domains/AI Agent工程/90-Skill注册表/01-个人与项目Skill注册库|个人/项目 Skill 注册库]]：只收录 Peter 自己创建、让 Agent 为项目定制、或明显服务于 Peter 项目/业务流程的 skill，是日常检索“有没有类似 skill”的优先入口。
+- [[domains/AI Agent工程/90-Skill注册表/02-跨Agent Skill注册库|跨 Agent Skill 注册库]]：统一检索 Codex、Hermes、Lark Agent、OpenClaw、SealSeek、Claude Code 的 skill，定位原始 `SKILL.md` 并判断复用或迁移可能。
+- [[domains/AI Agent工程/90-Skill注册表/03-Codex Skill注册页|Codex Skill 注册页]]：Codex 本地业务 skill 与系统 skill 的检索描述、输入方式、关键词和文件位置。
+- [[domains/AI Agent工程/90-Skill注册表/04-Hermes Skill注册页|Hermes Skill 注册页]]：Hermes 主 skill 目录的检索描述、输入方式、关键词和文件位置。
+- [[domains/AI Agent工程/90-Skill注册表/05-Lark Agent Skill注册页|Lark Agent Skill 注册页]]：飞书/Lark 相关 skill 的检索描述、输入方式、关键词和文件位置。
+- [[domains/AI Agent工程/90-Skill注册表/06-OpenClaw Skill注册页|OpenClaw Skill 注册页]]：OpenClaw workspace skill 的检索描述、输入方式、关键词和文件位置。
+- [[domains/AI Agent工程/90-Skill注册表/07-SealSeek Skill注册页|SealSeek Skill 注册页]]：SealSeek 多来源 skill 的检索描述、输入方式、关键词和文件位置，覆盖 skill_pool、workspace、active/customized、standalone 和迁移包。
+- [[domains/AI Agent工程/90-Skill注册表/08-Claude Code Skill注册页|Claude Code Skill 注册页]]：Claude Code plugin marketplace skill 的检索描述、输入方式、关键词和文件位置。
 
 ## Visual Production
 
-- [[domains/visual-production/learning-paths/brand-visual-repeatable-ecommerce-visual-playbook|品牌视觉：可复制的电商视觉终极玩法]]：基于朱华杰 2018 年书籍重构的电商品牌视觉标准化 learning path，覆盖团队协作、三大视觉系统、品牌定位、12 项视觉标准、记忆符号、摄影包装触点和 Agent 诊断模板。
-- [[domains/visual-production/learning-paths/brand-visual-repeatable-ecommerce-visual-playbook/01-visual-standardization-for-ecommerce-teams|01｜视觉标准化如何解决电商团队内耗]]
-- [[domains/visual-production/learning-paths/brand-visual-repeatable-ecommerce-visual-playbook/02-three-visual-systems-click-conversion-repurchase|02｜品牌视觉、产品视觉、营销视觉三系统]]
-- [[domains/visual-production/learning-paths/brand-visual-repeatable-ecommerce-visual-playbook/03-brand-positioning-differentiation-and-unity|03｜品牌定位：差异化与统一]]
-- [[domains/visual-production/learning-paths/brand-visual-repeatable-ecommerce-visual-playbook/04-brand-visual-identity-standard-system|04｜品牌视觉 12 项标准系统]]
-- [[domains/visual-production/learning-paths/brand-visual-repeatable-ecommerce-visual-playbook/05-visual-memory-symbols-and-repetition|05｜视觉记忆符号与重复机制]]
-- [[domains/visual-production/learning-paths/brand-visual-repeatable-ecommerce-visual-playbook/06-photography-packaging-and-touchpoint-standards|06｜摄影、包装与接触点标准]]
-- [[domains/visual-production/learning-paths/brand-visual-repeatable-ecommerce-visual-playbook/07-case-library-kabei-taobrands-and-small-sellers|07｜案例库：卡贝、淘品牌与中小卖家]]
-- [[domains/visual-production/learning-paths/brand-visual-repeatable-ecommerce-visual-playbook/08-agent-usage-template|08｜Agent 使用模板：电商品牌视觉标准诊断]]
+- [[domains/视觉制作/03-AI商业视觉/02-Codex与Photoshop协作自动化能力边界|Codex 与 Photoshop 协作自动化能力边界]]：本机验证 Codex 控制 Photoshop、Apple Vision OCR、PSD 检查和批量视觉生产的能力边界。
+- [[domains/视觉制作/02-品牌视觉标准化/01-可复制的电商品牌视觉玩法/index|品牌视觉：可复制的电商视觉终极玩法]]：基于朱华杰 2018 年书籍重构的电商品牌视觉标准化 learning path，覆盖团队协作、三大视觉系统、品牌定位、12 项视觉标准、记忆符号、摄影包装触点和 Agent 诊断模板。
+- [[domains/视觉制作/02-品牌视觉标准化/01-可复制的电商品牌视觉玩法/01-视觉标准化如何解决团队内耗|01｜视觉标准化如何解决电商团队内耗]]
+- [[domains/视觉制作/02-品牌视觉标准化/01-可复制的电商品牌视觉玩法/02-品牌视觉、产品视觉、营销视觉三系统|02｜品牌视觉、产品视觉、营销视觉三系统]]
+- [[domains/视觉制作/02-品牌视觉标准化/01-可复制的电商品牌视觉玩法/03-品牌定位：差异化与统一|03｜品牌定位：差异化与统一]]
+- [[domains/视觉制作/02-品牌视觉标准化/01-可复制的电商品牌视觉玩法/04-品牌视觉12项标准系统|04｜品牌视觉 12 项标准系统]]
+- [[domains/视觉制作/02-品牌视觉标准化/01-可复制的电商品牌视觉玩法/05-视觉记忆符号与重复机制|05｜视觉记忆符号与重复机制]]
+- [[domains/视觉制作/02-品牌视觉标准化/01-可复制的电商品牌视觉玩法/06-摄影、包装与触点标准|06｜摄影、包装与接触点标准]]
+- [[domains/视觉制作/02-品牌视觉标准化/01-可复制的电商品牌视觉玩法/07-案例库：卡贝、淘品牌与中小卖家|07｜案例库：卡贝、淘品牌与中小卖家]]
+- [[domains/视觉制作/02-品牌视觉标准化/01-可复制的电商品牌视觉玩法/08-Agent使用模板：电商品牌视觉标准诊断|08｜Agent 使用模板：电商品牌视觉标准诊断]]
 
-- [[domains/visual-production/ai-video/doubao-seedance-2-0|Doubao-Seedance-2.0 视频生成模型卡]]：火山方舟 Seedance 2.0 的模型 ID、能力、价格快照、API 入口、限制和三类 demo prompt 模式。
-- [[domains/visual-production/playbooks/ecommerce-image-marketing-production-playbook|电商图片营销策划与 AI 生图 Playbook]]：把电商图片营销理论落地为用户定义、FABE 卖点转译、图位任务、视觉策略、图上文案和生图 prompt 工作流。
-- [[domains/visual-production/xiaohongshu-image-generation/index|小红书风格 AI 生图知识库]]：把小红书内容逻辑编译为可复用的 AI 生图知识库，覆盖内容场景、封面类型、组图结构、卖点转译、prompt 模板和 QA。
+- [[domains/视觉制作/06-AI视频/01-Doubao-Seedance-2.0视频生成模型卡|Doubao-Seedance-2.0 视频生成模型卡]]：火山方舟 Seedance 2.0 的模型 ID、能力、价格快照、API 入口、限制和三类 demo prompt 模式。
+- [[domains/视觉制作/01-电商视觉基础/02-电商图片营销策划与AI生图Playbook|电商图片营销策划与 AI 生图 Playbook]]：把电商图片营销理论落地为用户定义、FABE 卖点转译、图位任务、视觉策略、图上文案和生图 prompt 工作流。
+- [[domains/视觉制作/05-小红书风格AI生图/index|小红书风格 AI 生图知识库]]：把小红书内容逻辑编译为可复用的 AI 生图知识库，覆盖内容场景、封面类型、组图结构、卖点转译、prompt 模板和 QA。
 - [[queries/xiaohongshu-image-generation|小红书风格生图查询入口]]：Agent 生成、改写或审核小红书图片 prompt 前的读取入口。
-- [[domains/visual-production/visual-styles|AI 生图风格库]]：按“每个风格一个目录”组织风格定义、playbook 和参考图索引，避免多风格资料平铺混乱。
-- [[domains/visual-production/visual-styles/minimal-scandinavian|极简北欧风]]：把北欧极简拆成色彩、材质、光线、空间、构图和边界，供 AI 生图稳定复现。
-- [[domains/visual-production/visual-styles/minimal-scandinavian/playbook|极简北欧风 AI 生图 Playbook]]：面向产品图的 prompt 骨架、场景配方、负向约束、参考图权重和 QA 清单。
-- [[domains/visual-production/visual-styles/minimal-scandinavian/reference-gallery|极简北欧风参考图索引]]：记录用户产品图、站酷空间图和衍生图位 prompt 的调用方式。
+- [[domains/视觉制作/04-AI生图风格库/index|AI 生图风格库]]：按“每个风格一个目录”组织风格定义、playbook 和参考图索引，避免多风格资料平铺混乱。
+- [[domains/视觉制作/04-AI生图风格库/01-极简北欧风/index|极简北欧风]]：把北欧极简拆成色彩、材质、光线、空间、构图和边界，供 AI 生图稳定复现。
+- [[domains/视觉制作/04-AI生图风格库/01-极简北欧风/01-极简北欧风AI生图Playbook|极简北欧风 AI 生图 Playbook]]：面向产品图的 prompt 骨架、场景配方、负向约束、参考图权重和 QA 清单。
+- [[domains/视觉制作/04-AI生图风格库/01-极简北欧风/02-极简北欧风参考图索引|极简北欧风参考图索引]]：记录用户产品图、站酷空间图和衍生图位 prompt 的调用方式。
 - [[queries/minimal-scandinavian-image-generation|极简北欧风生图查询入口]]：Agent 生成、改写或审核极简北欧风图片前的读取入口。
-- [[domains/visual-production/visual-styles/minimal-scandinavian/variants/shanju-light-kitchen-living|杉居轻厨房生活风]]：极简北欧风的杉居品牌变体，围绕厨房工具、室内厨房、露台庭院和户外轻料理建立品牌化生图规则。
-- [[domains/visual-production/visual-styles/minimal-scandinavian/variants/shanju-light-kitchen-living/moodboard-analysis|杉居情绪板解析]]：解析杉居情绪板中的文字、空间、人物、橘猫、色彩和室内厨房基准。
-- [[domains/visual-production/visual-styles/minimal-scandinavian/variants/shanju-light-kitchen-living/brand-style-system|杉居品牌风格系统]]：沉淀杉居的心向感知、ABC 视觉分层、场景到情景表达和功能卖点转译。
-- [[domains/visual-production/visual-styles/minimal-scandinavian/variants/shanju-light-kitchen-living/visual-worldbook|杉居视觉世界观]]：按空间、人物、元素、版式四模块规定室内厨房、露台庭院和户外轻料理画面规则。
-- [[domains/visual-production/visual-styles/minimal-scandinavian/variants/shanju-light-kitchen-living/playbook|杉居轻厨房生活风生图 Playbook]]：为杉居厨房工具、烧烤盘、调味罐和餐厨小物生成品牌图的 prompt 与 QA。
-- [[domains/visual-production/visual-styles/minimal-scandinavian/variants/shanju-light-kitchen-living/copywriting-voice|杉居文案语气]]：杉居短句、轻声、中英文混排、室内厨房和户外轻料理文案规则。
-- [[domains/visual-production/visual-styles/minimal-scandinavian/variants/shanju-light-kitchen-living/reference-gallery|杉居参考图索引]]：杉居情绪板和未来素材分组、参考权重。
+- [[domains/视觉制作/04-AI生图风格库/01-极简北欧风/variants/shanju-light-kitchen-living/index|杉居轻厨房生活风]]：极简北欧风的杉居品牌变体，围绕厨房工具、室内厨房、露台庭院和户外轻料理建立品牌化生图规则。
+- [[domains/视觉制作/04-AI生图风格库/01-极简北欧风/variants/shanju-light-kitchen-living/moodboard-analysis|杉居情绪板解析]]：解析杉居情绪板中的文字、空间、人物、橘猫、色彩和室内厨房基准。
+- [[domains/视觉制作/04-AI生图风格库/01-极简北欧风/variants/shanju-light-kitchen-living/brand-style-system|杉居品牌风格系统]]：沉淀杉居的心向感知、ABC 视觉分层、场景到情景表达和功能卖点转译。
+- [[domains/视觉制作/04-AI生图风格库/01-极简北欧风/variants/shanju-light-kitchen-living/visual-worldbook|杉居视觉世界观]]：按空间、人物、元素、版式四模块规定室内厨房、露台庭院和户外轻料理画面规则。
+- [[domains/视觉制作/04-AI生图风格库/01-极简北欧风/variants/shanju-light-kitchen-living/playbook|杉居轻厨房生活风生图 Playbook]]：为杉居厨房工具、烧烤盘、调味罐和餐厨小物生成品牌图的 prompt 与 QA。
+- [[domains/视觉制作/04-AI生图风格库/01-极简北欧风/variants/shanju-light-kitchen-living/copywriting-voice|杉居文案语气]]：杉居短句、轻声、中英文混排、室内厨房和户外轻料理文案规则。
+- [[domains/视觉制作/04-AI生图风格库/01-极简北欧风/variants/shanju-light-kitchen-living/reference-gallery|杉居参考图索引]]：杉居情绪板和未来素材分组、参考权重。
 - [[queries/shanju-light-kitchen-living-image-generation|杉居轻厨房生活风生图查询入口]]：Agent 生成、改写或审核杉居品牌风格图片前的读取入口。
 
 ## Projects
@@ -72,180 +80,209 @@
 
 ## Entities
 
-## Samples
+## Brand Case Library
 
-- [[domains/brand-strategy/samples/pggu-strategy-choice-sample|PGGU 战略选择知识复现样本]]：演示外部资料进入知识库时，正式内容应融合为完整、顺序化的品牌战略理论文章。
+- [[domains/品牌策略/90-样本/index|品牌案例库]]：按品牌问题调用课程案例，覆盖高端化、场景扩张、细分定位、弱关注品类、年轻化、视觉资产和 AI 视觉体系。
+- [[domains/品牌策略/90-样本/01-PGGU战略选择知识复现样本|PGGU 战略选择知识复现样本]]：演示窄品类品牌如何从拓品类转向拓场景。
+- [[domains/品牌策略/90-样本/02-泰兰尼斯：从学步鞋到高端儿童鞋|泰兰尼斯案例]]：学步鞋品牌如何通过高端心智和稳稳鞋战略大单品拉升势能。
+- [[domains/品牌策略/90-样本/11-望山楂：从模糊需求到吃辣场景|望山楂案例]]：饮品品牌如何从模糊需求改写为强场景心智。
 
 <!-- ecommerce-consulting-logic:start -->
-## Ecommerce Ops
+## 电商运营
 
-- [[domains/ecommerce-ops/finance-accounting/ecommerce-platform-settlement-accounting|电商平台结算时间口径财务核算方法]]：基于三份 XMind 重构的财务核算 playbook，覆盖平台结算口径、快麦成本匹配、保证金、特殊账户、推广费和五个平台账单核对。
-- [[domains/ecommerce-ops/platform-entry/index|平台入驻与自营合作知识库]]：天猫超市、京东自营等平台供应商/自营合作模式的入驻判断框架。
-- [[domains/ecommerce-ops/platform-entry/tmall-supermarket-cooperation-guide|天猫超市合作与入驻说明]]：天猫超市供应商模式、费用口径、仓配售后、平台入口、入驻门槛和适配检查清单。
-- [[domains/ecommerce-ops/platform-entry/jd-self-operated-entry-guide|京东自营入驻解析]]：京东自营 B2B2C 模式、货权、采销、毛保、资质、费用和入驻路径。
-- [[domains/ecommerce-ops/platform-entry/tmall-supermarket-vs-jd-self-operated-comparison|天猫超市与京东自营合作模式对比]]：对比两类平台合作在货权、仓配、费用、运营分工和适配商家上的差异。
-- [[domains/ecommerce-ops/platform-entry/platform-entry-agent-usage-template|Agent 使用模板：平台入驻与自营合作诊断]]：用于分析品牌是否适合进入天猫超市、京东自营或类似平台渠道。
-- [[domains/ecommerce-ops/learning-paths/consulting-logic|咨询逻辑：电商企业辅导与咨询交付体系]]：章节目录，按电商企业辅导形势、咨询底层逻辑、谈单带教、满意度、交付体系和专业认知模型组织。
-- [[domains/ecommerce-ops/learning-paths/consulting-logic/01-current-ecommerce-consulting-context|01｜当下的电商企业辅导整体形势]]
-- [[domains/ecommerce-ops/learning-paths/consulting-logic/02-enterprise-consultant-definition|02｜企业咨询师的定义与底层任务]]
-- [[domains/ecommerce-ops/learning-paths/consulting-logic/03-sales-conversation-five-laws|03｜谈单五大铁律]]
-- [[domains/ecommerce-ops/learning-paths/consulting-logic/04-coaching-five-principles|04｜带教五大原则]]
-- [[domains/ecommerce-ops/learning-paths/consulting-logic/05-satisfaction-expectation-management|05｜满意度与预期管理]]
-- [[domains/ecommerce-ops/learning-paths/consulting-logic/06-delivery-system|06｜咨询交付节奏]]
-- [[domains/ecommerce-ops/learning-paths/consulting-logic/07-professional-system-and-gene-models|07｜专业体系与基因模型]]
-- [[domains/ecommerce-ops/learning-paths/consulting-logic/08-growth-guidance-system|08｜增长引领体系]]
-- [[domains/ecommerce-ops/learning-paths/consulting-logic/09-strategy-framework-and-profit-levels|09｜战略框架与赚钱等级]]
-- [[domains/ecommerce-ops/learning-paths/consulting-logic/10-founder-life-guidance|10｜创始人人生引领]]
-- [[domains/ecommerce-ops/learning-paths/consulting-logic/11-agent-usage-template|11｜Agent 使用模板：电商企业咨询诊断]]
+- [[domains/电商运营/01-通用电商方法/index|通用电商方法]]：平台无关或跨平台可复用的电商经营、咨询、渠道、结算和财务接口方法。
+- [[domains/电商运营/01-通用电商方法/03-平台结算与经营财务/01-电商平台结算时间口径财务核算方法|电商平台结算时间口径财务核算方法]]：基于三份 XMind 重构的财务核算 playbook，覆盖平台结算口径、快麦成本匹配、保证金、特殊账户、推广费和五个平台账单核对。
+- [[domains/电商运营/01-通用电商方法/02-平台渠道与入驻合作/index|平台入驻与自营合作知识库]]：天猫超市、京东自营等平台供应商/自营合作模式的入驻判断框架。
+- [[domains/电商运营/02-淘宝天猫/03-天猫超市入驻合作/01-天猫超市合作与入驻说明|天猫超市合作与入驻说明]]：天猫超市供应商模式、费用口径、仓配售后、平台入口、入驻门槛和适配检查清单。
+- [[domains/电商运营/02-淘宝天猫/index|淘宝天猫知识入口]]：淘宝/天猫平台规则、店铺运营、营销工具和天猫超市合作。
+- [[domains/电商运营/03-京东/index|京东知识入口]]：京东平台专属的入驻、采销、自营、运营规则和案例。
+- [[domains/电商运营/03-京东/01-京东自营入驻解析|京东自营入驻解析]]：京东自营 B2B2C 模式、货权、采销、毛保、资质、费用和入驻路径。
+- [[domains/电商运营/04-拼多多/index|拼多多知识入口]]：未来承接拼多多平台专属规则、运营方法和案例。
+- [[domains/电商运营/05-抖音/index|抖音电商知识入口]]：未来承接抖音电商平台规则、内容电商、达人合作和投放方法。
+- [[domains/电商运营/06-小红书/index|小红书电商知识入口]]：未来承接小红书电商、内容种草、店铺和交易闭环知识。
+- [[domains/电商运营/01-通用电商方法/02-平台渠道与入驻合作/01-天猫超市与京东自营合作模式对比|天猫超市与京东自营合作模式对比]]：对比两类平台合作在货权、仓配、费用、运营分工和适配商家上的差异。
+- [[domains/电商运营/01-通用电商方法/02-平台渠道与入驻合作/02-平台入驻与自营合作诊断模板|Agent 使用模板：平台入驻与自营合作诊断]]：用于分析品牌是否适合进入天猫超市、京东自营或类似平台渠道。
+- [[domains/电商运营/01-通用电商方法/01-电商企业咨询与交付/index|咨询逻辑：电商企业辅导与咨询交付体系]]：章节目录，按电商企业辅导形势、咨询底层逻辑、谈单带教、满意度、交付体系和专业认知模型组织。
+- [[domains/电商运营/01-通用电商方法/01-电商企业咨询与交付/01-当下的电商企业辅导整体形势|01｜当下的电商企业辅导整体形势]]
+- [[domains/电商运营/01-通用电商方法/01-电商企业咨询与交付/02-企业咨询师的定义与底层任务|02｜企业咨询师的定义与底层任务]]
+- [[domains/电商运营/01-通用电商方法/01-电商企业咨询与交付/03-谈单五大铁律|03｜谈单五大铁律]]
+- [[domains/电商运营/01-通用电商方法/01-电商企业咨询与交付/04-带教五大原则|04｜带教五大原则]]
+- [[domains/电商运营/01-通用电商方法/01-电商企业咨询与交付/05-满意度与预期管理|05｜满意度与预期管理]]
+- [[domains/电商运营/01-通用电商方法/01-电商企业咨询与交付/06-咨询交付节奏|06｜咨询交付节奏]]
+- [[domains/电商运营/01-通用电商方法/01-电商企业咨询与交付/07-专业体系与基因模型|07｜专业体系与基因模型]]
+- [[domains/电商运营/01-通用电商方法/01-电商企业咨询与交付/08-增长引领体系|08｜增长引领体系]]
+- [[domains/电商运营/01-通用电商方法/01-电商企业咨询与交付/09-战略框架与赚钱等级|09｜战略框架与赚钱等级]]
+- [[domains/电商运营/01-通用电商方法/01-电商企业咨询与交付/10-创始人人生引领|10｜创始人人生引领]]
+- [[domains/电商运营/01-通用电商方法/01-电商企业咨询与交付/11-Agent使用模板：电商企业咨询诊断|11｜Agent 使用模板：电商企业咨询诊断]]
 <!-- ecommerce-consulting-logic:end -->
 
 <!-- cross-border-ecommerce-sme-globalization:start -->
 <!-- ecommerce-tax-equity-strategic-finance:start -->
-## 电商财税股权与战略财务
+## Tax Finance
 
-- [[domains/ecommerce-ops/learning-paths/ecommerce-tax-equity-strategic-finance|电商企业财税股权与战略财务管理]]：基于财税股权 28 期 4 份课程转写重构的系统课，覆盖税务合规、四本账、税负模型、多主体架构、业财一体、股权控制、激励治理和战略财务。
-- [[domains/ecommerce-ops/learning-paths/ecommerce-tax-equity-strategic-finance/01-ecommerce-tax-risk-business-genes|电商企业财税风险的经营基因]]
-- [[domains/ecommerce-ops/learning-paths/ecommerce-tax-equity-strategic-finance/02-four-account-system|电商企业四本账：股东账、业务账、管理账、风险账]]
-- [[domains/ecommerce-ops/learning-paths/ecommerce-tax-equity-strategic-finance/03-tax-compliance-path-and-red-lines|电商税务合规路径与红线]]
-- [[domains/ecommerce-ops/learning-paths/ecommerce-tax-equity-strategic-finance/04-tax-burden-model-vat-income-tax-personal-tax|增值税、所得税与个税的电商税负模型]]
-- [[domains/ecommerce-ops/learning-paths/ecommerce-tax-equity-strategic-finance/05-multi-company-store-fund-separation|多公司、多店铺与资金隔离的合规架构]]
-- [[domains/ecommerce-ops/learning-paths/ecommerce-tax-equity-strategic-finance/06-business-finance-integration-profit-accounting|业财一体与利润核算体系]]
-- [[domains/ecommerce-ops/learning-paths/ecommerce-tax-equity-strategic-finance/07-equity-structure-shareholder-control|股权结构、持股主体与控制权设计]]
-- [[domains/ecommerce-ops/learning-paths/ecommerce-tax-equity-strategic-finance/08-incentive-dividend-budget-system|电商团队激励、分红与预算联动]]
-- [[domains/ecommerce-ops/learning-paths/ecommerce-tax-equity-strategic-finance/09-equity-as-resource-integration-tool|股权作为资源整合工具]]
-- [[domains/ecommerce-ops/learning-paths/ecommerce-tax-equity-strategic-finance/10-strategic-finance-competition-indicators|战略财务：用财务指标支撑竞争战略]]
-- [[domains/ecommerce-ops/learning-paths/ecommerce-tax-equity-strategic-finance/11-agent-usage-template|电商企业财税股权诊断 Agent 模板]]
+- [[domains/财税与经营财务/index|财税与经营财务知识域]]：企业财税、经营财务、业财一体、股权激励、战略财务、内控和财务组织能力。
+- [[domains/财税与经营财务/90-课程包/01-财税股权28期|财税股权28期课程包]]：保留财税股权 28 期课程来源、raw 转写、coverage matrix 和正式知识导航。
+- [[domains/财税与经营财务/01-电商财税合规/01-电商企业财税风险的经营基因|电商企业财税风险的经营基因]]
+- [[domains/财税与经营财务/02-经营财务与业财一体/01-电商企业四本账|电商企业四本账：股东账、业务账、管理账、风险账]]
+- [[domains/财税与经营财务/01-电商财税合规/02-电商税务合规路径与红线|电商税务合规路径与红线]]
+- [[domains/财税与经营财务/01-电商财税合规/03-增值税、所得税与个税的电商税负模型|增值税、所得税与个税的电商税负模型]]
+- [[domains/财税与经营财务/05-内控与组织能力/01-多公司、多店铺与资金隔离的合规架构|多公司、多店铺与资金隔离的合规架构]]
+- [[domains/财税与经营财务/02-经营财务与业财一体/04-业财一体与利润核算体系|业财一体与利润核算体系]]
+- [[domains/财税与经营财务/03-股权与激励/01-股权结构、持股主体与控制权设计|股权结构、持股主体与控制权设计]]
+- [[domains/财税与经营财务/03-股权与激励/04-电商团队激励、分红与预算联动|电商团队激励、分红与预算联动]]
+- [[domains/财税与经营财务/03-股权与激励/05-股权作为资源整合工具|股权作为资源整合工具]]
+- [[domains/财税与经营财务/04-战略财务/01-战略财务：用财务指标支撑竞争战略|战略财务：用财务指标支撑竞争战略]]
+- [[queries/电商企业财税股权诊断|电商企业财税股权诊断 Agent 模板]]
+- [[domains/财税与经营财务/02-经营财务与业财一体/02-收入确认、退货、补偿与平台补贴口径|收入确认、退货、补偿与平台补贴口径]]
+- [[domains/财税与经营财务/02-经营财务与业财一体/03-平台利润表与边际贡献率|平台利润表与边际贡献率]]
+- [[domains/财税与经营财务/05-内控与组织能力/02-资金、库存与权限内控|资金、库存与权限内控]]
+- [[domains/财税与经营财务/01-电商财税合规/04-增值税进销项与发票管理|增值税进销项与发票管理]]
+- [[domains/财税与经营财务/01-电商财税合规/05-企业所得税、税务利润与成本扣除|企业所得税、税务利润与成本扣除]]
+- [[domains/财税与经营财务/01-电商财税合规/06-主体拆分、代销与收入性质转换|主体拆分、代销与收入性质转换]]
+- [[domains/财税与经营财务/03-股权与激励/02-股东投钱、取钱与分红税负|股东投钱、取钱与分红税负]]
+- [[domains/财税与经营财务/03-股权与激励/03-控股公司、项目公司与有限合伙平台|控股公司、项目公司与有限合伙平台]]
+- [[domains/财税与经营财务/04-战略财务/02-商业模式选择与税负承载能力|商业模式选择与税负承载能力]]
+- [[domains/财税与经营财务/02-经营财务与业财一体/05-预算、经营计划与月度经营分析|预算、经营计划与月度经营分析]]
+- [[domains/财税与经营财务/05-内控与组织能力/03-电商财务团队、BP 与组织能力|电商财务团队、BP 与组织能力]]
+- [[domains/财税与经营财务/01-电商财税合规/07-工贸、拿货、代理、品牌四类业务的税务规划|工贸、拿货、代理、品牌四类业务的税务规划]]
+- [[domains/财税与经营财务/02-经营财务与业财一体/06-存货周转、现金流与 ROE|存货周转、现金流与 ROE]]
+- [[domains/财税与经营财务/90-课程包/01-财税股权28期/01-课程案例锚点库|课程案例锚点库]]
+- [[domains/财税与经营财务/01-电商财税合规/08-合规转型路线图|合规转型路线图]]
+- [[domains/财税与经营财务/01-电商财税合规/09-成品油零售交易即开票规则|成品油零售交易即开票规则]]
 <!-- ecommerce-tax-equity-strategic-finance:end -->
 
-## 跨境电商出海学习路径
+## 跨境电商
 
-- [[domains/ecommerce-ops/learning-paths/cross-border-ecommerce-sme-globalization|跨境电商赋能中小企业出海]]：基于洪勇 2026 年书籍重构的中小企业跨境出海 learning path，覆盖机会判断、市场调研、产品本地化、数字营销、物流、本地化运营、知识产权、支付、合规和风险管理。
-- [[domains/ecommerce-ops/learning-paths/cross-border-ecommerce-sme-globalization/01-cross-border-ecommerce-opportunity-and-entry-model|跨境电商黄金时代与进入模式]]
-- [[domains/ecommerce-ops/learning-paths/cross-border-ecommerce-sme-globalization/02-market-research-product-localization-and-brand-entry|市场调研、产品本地化与品牌进入]]
-- [[domains/ecommerce-ops/learning-paths/cross-border-ecommerce-sme-globalization/03-digital-marketing-growth-system|数字化营销增长系统]]
-- [[domains/ecommerce-ops/learning-paths/cross-border-ecommerce-sme-globalization/04-cross-border-logistics-capability-system|跨境物流能力系统]]
-- [[domains/ecommerce-ops/learning-paths/cross-border-ecommerce-sme-globalization/05-localization-operation-and-user-retention|本地化运营与用户留存]]
-- [[domains/ecommerce-ops/learning-paths/cross-border-ecommerce-sme-globalization/06-ip-payment-compliance-and-risk-protection|知识产权、支付、合规与风险防护]]
-- [[domains/ecommerce-ops/learning-paths/cross-border-ecommerce-sme-globalization/07-cross-border-platform-and-service-provider-case-library|跨境平台与服务商案例库]]
-- [[domains/ecommerce-ops/learning-paths/cross-border-ecommerce-sme-globalization/08-agent-usage-template|Agent 使用模板：中小企业跨境出海诊断]]
+- [[domains/电商运营/20-跨境电商/index|跨境电商知识入口]]：跨境电商、出海、海外平台、本地化运营、物流、支付、知识产权和合规风险知识。
+- [[domains/电商运营/20-跨境电商/01-中小企业跨境出海/index|跨境电商赋能中小企业出海]]：基于洪勇 2026 年书籍重构的中小企业跨境出海 learning path，覆盖机会判断、市场调研、产品本地化、数字营销、物流、本地化运营、知识产权、支付、合规和风险管理。
+- [[domains/电商运营/20-跨境电商/01-中小企业跨境出海/01-跨境电商机会与入局模型|跨境电商黄金时代与进入模式]]
+- [[domains/电商运营/20-跨境电商/01-中小企业跨境出海/02-市场研究、产品本地化与品牌进入|市场调研、产品本地化与品牌进入]]
+- [[domains/电商运营/20-跨境电商/01-中小企业跨境出海/03-数字营销增长体系|数字化营销增长系统]]
+- [[domains/电商运营/20-跨境电商/01-中小企业跨境出海/04-跨境物流能力体系|跨境物流能力系统]]
+- [[domains/电商运营/20-跨境电商/01-中小企业跨境出海/05-本地化运营与用户留存|本地化运营与用户留存]]
+- [[domains/电商运营/20-跨境电商/01-中小企业跨境出海/06-IP、支付、合规与风险保护|知识产权、支付、合规与风险防护]]
+- [[domains/电商运营/20-跨境电商/01-中小企业跨境出海/07-跨境平台与服务商案例库|跨境平台与服务商案例库]]
+- [[domains/电商运营/20-跨境电商/01-中小企业跨境出海/08-Agent使用模板：中小企业跨境出海诊断|Agent 使用模板：中小企业跨境出海诊断]]
 <!-- cross-border-ecommerce-sme-globalization:end -->
 
-## Ecommerce API
+## 电商 ERP 与系统工具
 
-- [[domains/ecommerce-ops/api/wangdian/index|旺店通开放平台 API 知识库]]：77 个旺店通 ERP 开放接口的目录、全局调用约定和 raw 归档入口。
-- [[domains/ecommerce-ops/api/wangdian/capability-map|旺店通 API 能力地图]]：将接口按业务能力映射到订单、库存、货品、基础、售后和采购自动化场景。
-- [[domains/ecommerce-ops/api/wangdian/skill-building-guide|旺店通 API Skill 创建指南]]：根据接口知识库创建 AI skill 的流程、安全规则和库存导出示例。
+- [[domains/电商运营/30-ERP与系统工具/index|ERP 与系统工具入口]]：电商经营中的系统工具、ERP、开放 API、自动化接口和 Agent 可调用能力。
+- [[domains/电商运营/30-ERP与系统工具/01-旺店通开放平台API/index|旺店通开放平台 API 知识库]]：77 个旺店通 ERP 开放接口的目录、全局调用约定和 raw 归档入口。
+- [[domains/电商运营/30-ERP与系统工具/01-旺店通开放平台API/01-旺店通API能力地图|旺店通 API 能力地图]]：将接口按业务能力映射到订单、库存、货品、基础、售后和采购自动化场景。
+- [[domains/电商运营/30-ERP与系统工具/01-旺店通开放平台API/02-旺店通API Skill创建指南|旺店通 API Skill 创建指南]]：根据接口知识库创建 AI skill 的流程、安全规则和库存导出示例。
 - [[queries/wangdian-api-skill-creation|旺店通 API Skill 创建查询入口]]：AI Agent 创建旺店通 API skill 前的读取入口和输出结构。
-- [[domains/ecommerce-ops/api/wangdian/reference/order-apis|旺店通订单类 API 使用手册]]：订单类接口的请求地址、参数、响应字段和示例。
-- [[domains/ecommerce-ops/api/wangdian/reference/stock-apis|旺店通库存类 API 使用手册]]：库存类接口的请求地址、参数、响应字段和示例。
-- [[domains/ecommerce-ops/api/wangdian/reference/goods-apis|旺店通货品类 API 使用手册]]：货品类接口的请求地址、参数、响应字段和示例。
-- [[domains/ecommerce-ops/api/wangdian/reference/base-apis|旺店通基础类 API 使用手册]]：基础类接口的请求地址、参数、响应字段和示例。
-- [[domains/ecommerce-ops/api/wangdian/reference/aftersales-apis|旺店通售后类 API 使用手册]]：售后类接口的请求地址、参数、响应字段和示例。
-- [[domains/ecommerce-ops/api/wangdian/reference/purchase-apis|旺店通采购类 API 使用手册]]：采购类接口的请求地址、参数、响应字段和示例。
+- [[domains/电商运营/30-ERP与系统工具/01-旺店通开放平台API/03-旺店通订单类API使用手册|旺店通订单类 API 使用手册]]：订单类接口的请求地址、参数、响应字段和示例。
+- [[domains/电商运营/30-ERP与系统工具/01-旺店通开放平台API/04-旺店通库存类API使用手册|旺店通库存类 API 使用手册]]：库存类接口的请求地址、参数、响应字段和示例。
+- [[domains/电商运营/30-ERP与系统工具/01-旺店通开放平台API/05-旺店通货品类API使用手册|旺店通货品类 API 使用手册]]：货品类接口的请求地址、参数、响应字段和示例。
+- [[domains/电商运营/30-ERP与系统工具/01-旺店通开放平台API/06-旺店通基础类API使用手册|旺店通基础类 API 使用手册]]：基础类接口的请求地址、参数、响应字段和示例。
+- [[domains/电商运营/30-ERP与系统工具/01-旺店通开放平台API/07-旺店通售后类API使用手册|旺店通售后类 API 使用手册]]：售后类接口的请求地址、参数、响应字段和示例。
+- [[domains/电商运营/30-ERP与系统工具/01-旺店通开放平台API/08-旺店通采购类API使用手册|旺店通采购类 API 使用手册]]：采购类接口的请求地址、参数、响应字段和示例。
 
-## Taobao Marketing Tools
+## 淘宝营销工具
 
-- [[domains/ecommerce-ops/marketing-tools/taobao-coupon-tool|淘宝营销工具：优惠券]]：优惠券的类型、核销、资损、叠加关系和适用场景。
-- [[domains/ecommerce-ops/marketing-tools/taobao-super-discount|淘宝营销工具：超级立减]]：超级立减的报名、价格公式、活动冲突、最低价和大促双报规则。
-- [[domains/ecommerce-ops/marketing-tools/taobao-promotion-stacking-rules|淘宝营销工具叠加与互斥规则]]：优惠券、多件优惠、超级立减、单品立减等工具之间的叠加、互斥和择优规则矩阵。
-- [[domains/ecommerce-ops/playbooks/taobao-marketing-tool-selection|淘宝营销工具选择 Playbook]]：根据目标、活动周期、当前优惠和风险约束选择营销工具的操作流程。
+- [[domains/电商运营/02-淘宝天猫/02-淘宝营销工具/index|淘宝营销工具入口]]：淘宝/天猫营销工具的工具卡、叠加互斥规则、资损风险和选择流程。
+- [[domains/电商运营/02-淘宝天猫/02-淘宝营销工具/01-淘宝营销工具：优惠券|淘宝营销工具：优惠券]]：优惠券的类型、核销、资损、叠加关系和适用场景。
+- [[domains/电商运营/02-淘宝天猫/02-淘宝营销工具/02-淘宝营销工具：超级立减|淘宝营销工具：超级立减]]：超级立减的报名、价格公式、活动冲突、最低价和大促双报规则。
+- [[domains/电商运营/02-淘宝天猫/02-淘宝营销工具/03-淘宝营销工具叠加与互斥规则|淘宝营销工具叠加与互斥规则]]：优惠券、多件优惠、超级立减、单品立减等工具之间的叠加、互斥和择优规则矩阵。
+- [[domains/电商运营/02-淘宝天猫/02-淘宝营销工具/04-淘宝营销工具选择Playbook|淘宝营销工具选择 Playbook]]：根据目标、活动周期、当前优惠和风险约束选择营销工具的操作流程。
 - [[queries/taobao-marketing-tool-planning|淘宝营销工具规划查询入口]]：AI Agent 回答淘宝营销工具规划问题前的读取入口和输出结构。
 
 ## Brand Strategy
 
-- [[domains/brand-strategy/learning-paths/brand-strategy-methodology-reconstructed|电商品牌增长方法论：从白牌卖货到持续溢价]]：章节目录，按知识发展顺序组织电商品牌增长方法论。
-- [[domains/brand-strategy/learning-paths/brand-strategy-methodology-reconstructed/01-why-ecommerce-brands-must-rethink-brand|01｜第一章：为什么电商企业必须重新理解品牌]]
-- [[domains/brand-strategy/learning-paths/brand-strategy-methodology-reconstructed/02-brand-energy-momentum-accumulation|02｜第二章：真正的品牌能力：势能、动能、蓄能]]
-- [[domains/brand-strategy/learning-paths/brand-strategy-methodology-reconstructed/03-brand-accumulation-four-modules|03｜第三章：品牌蓄能的四个模块]]
-- [[domains/brand-strategy/learning-paths/brand-strategy-methodology-reconstructed/04-systematic-module-alignment|04｜第四章：四个模块必须系统承接，不能单点花钱]]
-- [[domains/brand-strategy/learning-paths/brand-strategy-methodology-reconstructed/05-tailanisi-childrens-shoes-brand-case|05｜第五章：案例 1——泰兰尼斯：从学步鞋到高端儿童鞋心智]]
-- [[domains/brand-strategy/learning-paths/brand-strategy-methodology-reconstructed/06-pggu-wedding-shoes-scenario-strategy|06｜第六章：案例 2——PGGU 婚鞋：从拓品类到拓场景]]
-- [[domains/brand-strategy/learning-paths/brand-strategy-methodology-reconstructed/07-dopamine-sports-bra-content-strategy|07｜第七章：案例 3——运动内衣：用多巴胺运动美学错开巨头]]
-- [[domains/brand-strategy/learning-paths/brand-strategy-methodology-reconstructed/08-pet-category-product-line-decision|08｜第八章：宠物品类问答沉淀出的产品线判断]]
-- [[domains/brand-strategy/learning-paths/brand-strategy-methodology-reconstructed/09-content-spread-transferable-principles|09｜第九章：内容传播的可迁移原则]]
-- [[domains/brand-strategy/learning-paths/brand-strategy-methodology-reconstructed/10-brand-stage-priority-selection|10｜第十章：不同阶段企业如何选择优先级]]
-- [[domains/brand-strategy/learning-paths/brand-strategy-methodology-reconstructed/11-common-brand-strategy-mistakes|11｜第十一章：常见误区]]
-- [[domains/brand-strategy/learning-paths/brand-strategy-methodology-reconstructed/12-agent-usage-template|12｜第十二章：Agent 使用本页的方法]]
+- [[domains/品牌策略/01-品牌基础与增长方法/01-电商品牌增长方法论/index|电商品牌增长方法论：从白牌卖货到持续溢价]]：章节目录，按知识发展顺序组织电商品牌增长方法论。
+- [[domains/品牌策略/01-品牌基础与增长方法/01-电商品牌增长方法论/01-为什么电商企业必须重新理解品牌|01｜第一章：为什么电商企业必须重新理解品牌]]
+- [[domains/品牌策略/01-品牌基础与增长方法/01-电商品牌增长方法论/02-真正的品牌能力：势能、动能、蓄能|02｜第二章：真正的品牌能力：势能、动能、蓄能]]
+- [[domains/品牌策略/01-品牌基础与增长方法/01-电商品牌增长方法论/03-品牌蓄能的四个模块|03｜第三章：品牌蓄能的四个模块]]
+- [[domains/品牌策略/01-品牌基础与增长方法/01-电商品牌增长方法论/04-四个模块必须系统承接|04｜第四章：四个模块必须系统承接，不能单点花钱]]
+- [[domains/品牌策略/01-品牌基础与增长方法/01-电商品牌增长方法论/05-泰兰尼斯：从学步鞋到高端儿童鞋心智|05｜第五章：案例 1——泰兰尼斯：从学步鞋到高端儿童鞋心智]]
+- [[domains/品牌策略/01-品牌基础与增长方法/01-电商品牌增长方法论/06-PGGU婚鞋：从拓品类到拓场景|06｜第六章：案例 2——PGGU 婚鞋：从拓品类到拓场景]]
+- [[domains/品牌策略/01-品牌基础与增长方法/01-电商品牌增长方法论/07-运动内衣：用多巴胺运动美学错开巨头|07｜第七章：案例 3——运动内衣：用多巴胺运动美学错开巨头]]
+- [[domains/品牌策略/01-品牌基础与增长方法/01-电商品牌增长方法论/08-宠物品类问答沉淀出的产品线判断|08｜第八章：宠物品类问答沉淀出的产品线判断]]
+- [[domains/品牌策略/01-品牌基础与增长方法/01-电商品牌增长方法论/09-内容传播的可迁移原则|09｜第九章：内容传播的可迁移原则]]
+- [[domains/品牌策略/01-品牌基础与增长方法/01-电商品牌增长方法论/10-不同阶段企业如何选择优先级|10｜第十章：不同阶段企业如何选择优先级]]
+- [[domains/品牌策略/01-品牌基础与增长方法/01-电商品牌增长方法论/11-常见品牌战略误区|11｜第十一章：常见误区]]
+- [[domains/品牌策略/01-品牌基础与增长方法/01-电商品牌增长方法论/12-Agent使用模板：电商品牌增长诊断|12｜第十二章：Agent 使用本页的方法]]
 
-- [[domains/brand-strategy/learning-paths/category-mind-brand-building-afternoon|电商品牌竞争战略：品类、心智与品牌打造]]：章节目录，按品类路线、心智定位、视觉、大单品、营销传播和优先级诊断组织。
-- [[domains/brand-strategy/learning-paths/category-mind-brand-building-afternoon/01-category-focus-vs-tribe-recognition|01｜品类聚焦与人群认同：两条品牌路线]]
-- [[domains/brand-strategy/learning-paths/category-mind-brand-building-afternoon/02-category-focus-case-patterns|02｜品类聚焦案例：从模糊母品牌到品类首选]]
-- [[domains/brand-strategy/learning-paths/category-mind-brand-building-afternoon/03-mind-positioning-validation|03｜心智定位：三原则与五维度]]
-- [[domains/brand-strategy/learning-paths/category-mind-brand-building-afternoon/04-brand-aesthetic-system|04｜品牌视觉美学：先看起来像品牌]]
-- [[domains/brand-strategy/learning-paths/category-mind-brand-building-afternoon/05-hero-product-strategy|05｜大单品战略：品牌之矛与心智入口]]
-- [[domains/brand-strategy/learning-paths/category-mind-brand-building-afternoon/06-brand-communication-and-endorsement|06｜品牌营销传播：从产品价值到品牌价值]]
-- [[domains/brand-strategy/learning-paths/category-mind-brand-building-afternoon/07-four-module-priority-diagnosis|07｜四模块优先级诊断：定位、视觉、大单品、营销]]
-- [[domains/brand-strategy/learning-paths/category-mind-brand-building-afternoon/08-agent-usage-template|08｜Agent 使用模板：电商品牌竞争战略诊断]]
+- [[domains/品牌策略/02-品类心智与差异化/01-电商品牌竞争战略：品类心智与品牌打造/index|电商品牌竞争战略：品类、心智与品牌打造]]：章节目录，按品类路线、心智定位、视觉、大单品、营销传播和优先级诊断组织。
+- [[domains/品牌策略/02-品类心智与差异化/01-电商品牌竞争战略：品类心智与品牌打造/01-品类聚焦与人群认同|01｜品类聚焦与人群认同：两条品牌路线]]
+- [[domains/品牌策略/02-品类心智与差异化/01-电商品牌竞争战略：品类心智与品牌打造/02-品类聚焦案例模式|02｜品类聚焦案例：从模糊母品牌到品类首选]]
+- [[domains/品牌策略/02-品类心智与差异化/01-电商品牌竞争战略：品类心智与品牌打造/03-心智定位验证|03｜心智定位：三原则与五维度]]
+- [[domains/品牌策略/02-品类心智与差异化/01-电商品牌竞争战略：品类心智与品牌打造/04-品牌视觉美学系统|04｜品牌视觉美学：先看起来像品牌]]
+- [[domains/品牌策略/02-品类心智与差异化/01-电商品牌竞争战略：品类心智与品牌打造/05-大单品战略|05｜大单品战略：品牌之矛与心智入口]]
+- [[domains/品牌策略/02-品类心智与差异化/01-电商品牌竞争战略：品类心智与品牌打造/06-品牌传播与背书|06｜品牌营销传播：从产品价值到品牌价值]]
+- [[domains/品牌策略/02-品类心智与差异化/01-电商品牌竞争战略：品类心智与品牌打造/07-四模块优先级诊断|07｜四模块优先级诊断：定位、视觉、大单品、营销]]
+- [[domains/品牌策略/02-品类心智与差异化/01-电商品牌竞争战略：品类心智与品牌打造/08-Agent使用模板：电商品牌竞争战略诊断|08｜Agent 使用模板：电商品牌竞争战略诊断]]
 
-- [[domains/brand-strategy/learning-paths/niche-category-brand-upgrade-execution|细分品类品牌升级与执行力落地]]：章节目录，按细分品类防守、案例升级、组织执行和私域共创组织。
-- [[domains/brand-strategy/learning-paths/niche-category-brand-upgrade-execution/01-niche-category-six-dimensional-brand-defense|01｜细分品类的六维防守：从单点优势到六边形品牌]]
-- [[domains/brand-strategy/learning-paths/niche-category-brand-upgrade-execution/02-canban-oral-care-case|02｜参半口腔：从漱口水入口到全口腔护理品牌]]
-- [[domains/brand-strategy/learning-paths/niche-category-brand-upgrade-execution/03-mianzhuwu-socks-brand-upgrade|03｜绵竹屋：弱关注品类的三次品牌升级]]
-- [[domains/brand-strategy/learning-paths/niche-category-brand-upgrade-execution/04-simple-executable-effective-organization|04｜执行力定义：简单、可操作、有效果]]
-- [[domains/brand-strategy/learning-paths/niche-category-brand-upgrade-execution/05-positive-management-and-ai-routines|05｜正向管理、选择题日报与 AI 品牌智能体]]
-- [[domains/brand-strategy/learning-paths/niche-category-brand-upgrade-execution/06-yinsumao-niche-positioning|06｜音速猫：在运动鞋红海中切出体考体测鞋]]
-- [[domains/brand-strategy/learning-paths/niche-category-brand-upgrade-execution/07-private-domain-co-creation-system|07｜私域共创：把用户变成产品开发系统]]
-- [[domains/brand-strategy/learning-paths/niche-category-brand-upgrade-execution/08-agent-usage-template|08｜Agent 使用模板：细分品类品牌升级诊断]]
+- [[domains/品牌策略/02-品类心智与差异化/03-细分品类品牌升级与执行力落地/index|细分品类品牌升级与执行力落地]]：章节目录，按细分品类防守、案例升级、组织执行和私域共创组织。
+- [[domains/品牌策略/02-品类心智与差异化/03-细分品类品牌升级与执行力落地/01-细分品类六维品牌防守|01｜细分品类的六维防守：从单点优势到六边形品牌]]
+- [[domains/品牌策略/02-品类心智与差异化/03-细分品类品牌升级与执行力落地/02-参半口腔护理案例|02｜参半口腔：从漱口水入口到全口腔护理品牌]]
+- [[domains/品牌策略/02-品类心智与差异化/03-细分品类品牌升级与执行力落地/03-绵竹屋袜子品牌升级|03｜绵竹屋：弱关注品类的三次品牌升级]]
+- [[domains/品牌策略/02-品类心智与差异化/03-细分品类品牌升级与执行力落地/04-简单、可操作、有效果的组织执行|04｜执行力定义：简单、可操作、有效果]]
+- [[domains/品牌策略/02-品类心智与差异化/03-细分品类品牌升级与执行力落地/05-正向管理与AI套路|05｜正向管理、选择题日报与 AI 品牌智能体]]
+- [[domains/品牌策略/02-品类心智与差异化/03-细分品类品牌升级与执行力落地/06-音速猫细分定位|06｜音速猫：在运动鞋红海中切出体考体测鞋]]
+- [[domains/品牌策略/02-品类心智与差异化/03-细分品类品牌升级与执行力落地/07-私域共创系统|07｜私域共创：把用户变成产品开发系统]]
+- [[domains/品牌策略/02-品类心智与差异化/03-细分品类品牌升级与执行力落地/08-Agent使用模板：细分品类品牌升级诊断|08｜Agent 使用模板：细分品类品牌升级诊断]]
 
-- [[domains/brand-strategy/learning-paths/brand-differentiation-perception-system|电商品牌差异化感知系统]]：章节目录，按视觉失效根因、感知系统、心向设计、情绪气质与记忆感知组织。
-- [[domains/brand-strategy/learning-paths/brand-differentiation-perception-system/01-why-visual-upgrade-fails-without-perception|01｜为什么很多品牌视觉升级上线后没有效果]]
-- [[domains/brand-strategy/learning-paths/brand-differentiation-perception-system/02-free-brand-traffic-through-perception-assets|02｜如何把电商触点变成免费的品牌流量资产]]
-- [[domains/brand-strategy/learning-paths/brand-differentiation-perception-system/03-heart-oriented-perception-system|03｜品牌差异化感知系统：心向感知的四个入口]]
-- [[domains/brand-strategy/learning-paths/brand-differentiation-perception-system/04-brand-name-slogan-and-symbol-memory|04｜品牌名称、slogan、符号与 0-1 阶段的统一重复]]
-- [[domains/brand-strategy/learning-paths/brand-differentiation-perception-system/05-category-emotion-and-image-temperament|05｜品类情绪与形象气质：品牌感受如何被设计出来]]
-- [[domains/brand-strategy/learning-paths/brand-differentiation-perception-system/06-case-differentiation-zhifan-and-lixu|06｜同品类如何做出两种差异化：芝凡与李旭案例]]
-- [[domains/brand-strategy/learning-paths/brand-differentiation-perception-system/07-memory-perception-strategy|07｜记忆感知：消费者到底会记住什么]]
-- [[domains/brand-strategy/learning-paths/brand-differentiation-perception-system/08-memory-perception-case-patterns|08｜记忆感知案例规律：颜色、符号、故事与触点体验]]
-- [[domains/brand-strategy/learning-paths/brand-differentiation-perception-system/09-memory-perception-three-standards|09｜记忆感知的三个标准与品牌资产结论]]
-- [[domains/brand-strategy/learning-paths/brand-differentiation-perception-system/10-agent-usage-template|10｜Agent 使用模板：品牌差异化感知系统诊断]]
+- [[domains/品牌策略/02-品类心智与差异化/02-品牌差异化感知系统/index|电商品牌差异化感知系统]]：章节目录，按视觉失效根因、感知系统、心向设计、情绪气质与记忆感知组织。
+- [[domains/品牌策略/02-品类心智与差异化/02-品牌差异化感知系统/01-为什么视觉升级没有效果|01｜为什么很多品牌视觉升级上线后没有效果]]
+- [[domains/品牌策略/02-品类心智与差异化/02-品牌差异化感知系统/02-用感知资产获得免费品牌流量|02｜如何把电商触点变成免费的品牌流量资产]]
+- [[domains/品牌策略/02-品类心智与差异化/02-品牌差异化感知系统/03-心向感知系统|03｜品牌差异化感知系统：心向感知的四个入口]]
+- [[domains/品牌策略/02-品类心智与差异化/02-品牌差异化感知系统/04-品牌名称、Slogan与符号记忆|04｜品牌名称、slogan、符号与 0-1 阶段的统一重复]]
+- [[domains/品牌策略/02-品类心智与差异化/02-品牌差异化感知系统/05-品类情绪与形象气质|05｜品类情绪与形象气质：品牌感受如何被设计出来]]
+- [[domains/品牌策略/02-品类心智与差异化/02-品牌差异化感知系统/06-芝凡与李旭差异化案例|06｜同品类如何做出两种差异化：芝凡与李旭案例]]
+- [[domains/品牌策略/02-品类心智与差异化/02-品牌差异化感知系统/07-记忆感知策略|07｜记忆感知：消费者到底会记住什么]]
+- [[domains/品牌策略/02-品类心智与差异化/02-品牌差异化感知系统/08-记忆感知案例规律|08｜记忆感知案例规律：颜色、符号、故事与触点体验]]
+- [[domains/品牌策略/02-品类心智与差异化/02-品牌差异化感知系统/09-记忆感知的三个标准|09｜记忆感知的三个标准与品牌资产结论]]
+- [[domains/品牌策略/02-品类心智与差异化/02-品牌差异化感知系统/10-Agent使用模板：品牌差异化感知诊断|10｜Agent 使用模板：品牌差异化感知系统诊断]]
 
-- [[domains/brand-strategy/learning-paths/brand-visual-memory-perception-and-visualization-system|品牌视觉记忆感知与可视化体系搭建]]：章节目录，按视觉资产传承、记忆感知、ABC 分层、可视化世界观与 AI 生图执行规则组织。
-- [[domains/brand-strategy/learning-paths/brand-visual-memory-perception-and-visualization-system/01-brand-visual-mainline-in-ai-era|01｜品牌视觉主线：AI 时代先做不可替代的品牌资产]]
-- [[domains/brand-strategy/learning-paths/brand-visual-memory-perception-and-visualization-system/02-memory-perception-three-elements|02｜品牌记忆感知三要素：传承、特色、效率]]
-- [[domains/brand-strategy/learning-paths/brand-visual-memory-perception-and-visualization-system/03-no-overthrow-of-existing-assets|03｜品牌升级为什么不能轻易颠覆已有用户记忆资产]]
-- [[domains/brand-strategy/learning-paths/brand-visual-memory-perception-and-visualization-system/04-british-baby-food-step-symbol-case|04｜英式辅食案例：分阶楼梯如何变成品牌记忆符号]]
-- [[domains/brand-strategy/learning-paths/brand-visual-memory-perception-and-visualization-system/05-eye-care-drink-visual-function-case|05｜功能如何被看见：爱眼饮品的视觉直达案例]]
-- [[domains/brand-strategy/learning-paths/brand-visual-memory-perception-and-visualization-system/06-kairuisi-asset-inheritance-and-tiering|06｜凯瑞斯案例：资产传承与六阶营养体系]]
-- [[domains/brand-strategy/learning-paths/brand-visual-memory-perception-and-visualization-system/07-abc-visual-layering-system|07｜ABC 视觉分层系统]]
-- [[domains/brand-strategy/learning-paths/brand-visual-memory-perception-and-visualization-system/08-visual-worldbuilding-four-modules|08｜可视化世界观的四个模块]]
-- [[domains/brand-strategy/learning-paths/brand-visual-memory-perception-and-visualization-system/09-case-mleb-f-sports-and-ai-team-rebuild|09｜梦百合与 F 运动服饰：先建体系，再用 AI 放大效率]]
-- [[domains/brand-strategy/learning-paths/brand-visual-memory-perception-and-visualization-system/10-agent-usage-template|10｜Agent 使用模板：品牌视觉记忆与可视化体系诊断]]
+- [[domains/品牌策略/04-品牌视觉资产/01-品牌视觉记忆感知与可视化体系/index|品牌视觉记忆感知与可视化体系搭建]]：章节目录，按视觉资产传承、记忆感知、ABC 分层、可视化世界观与 AI 生图执行规则组织。
+- [[domains/品牌策略/04-品牌视觉资产/01-品牌视觉记忆感知与可视化体系/01-AI时代的品牌视觉主线|01｜品牌视觉主线：AI 时代先做不可替代的品牌资产]]
+- [[domains/品牌策略/04-品牌视觉资产/01-品牌视觉记忆感知与可视化体系/02-记忆感知三要素|02｜品牌记忆感知三要素：传承、特色、效率]]
+- [[domains/品牌策略/04-品牌视觉资产/01-品牌视觉记忆感知与可视化体系/03-为什么不能轻易颠覆已有资产|03｜品牌升级为什么不能轻易颠覆已有用户记忆资产]]
+- [[domains/品牌策略/04-品牌视觉资产/01-品牌视觉记忆感知与可视化体系/04-英式辅食分阶符号案例|04｜英式辅食案例：分阶楼梯如何变成品牌记忆符号]]
+- [[domains/品牌策略/04-品牌视觉资产/01-品牌视觉记忆感知与可视化体系/05-爱眼饮品功能可视化案例|05｜功能如何被看见：爱眼饮品的视觉直达案例]]
+- [[domains/品牌策略/04-品牌视觉资产/01-品牌视觉记忆感知与可视化体系/06-凯瑞斯资产传承与分层|06｜凯瑞斯案例：资产传承与六阶营养体系]]
+- [[domains/品牌策略/04-品牌视觉资产/01-品牌视觉记忆感知与可视化体系/07-ABC视觉分层系统|07｜ABC 视觉分层系统]]
+- [[domains/品牌策略/04-品牌视觉资产/01-品牌视觉记忆感知与可视化体系/08-可视化世界观四模块|08｜可视化世界观的四个模块]]
+- [[domains/品牌策略/04-品牌视觉资产/01-品牌视觉记忆感知与可视化体系/09-梦百合与F运动服饰案例|09｜梦百合与 F 运动服饰：先建体系，再用 AI 放大效率]]
+- [[domains/品牌策略/04-品牌视觉资产/01-品牌视觉记忆感知与可视化体系/10-Agent使用模板：品牌视觉记忆诊断|10｜Agent 使用模板：品牌视觉记忆与可视化体系诊断]]
 
-- [[domains/brand-strategy/learning-paths/ecommerce-brand-mindshare-product-power-and-hero-product-strategy|电商品牌心智产品力与大单品战略]]：章节目录，按用户经营、心智产品力、大单品分级、英雄系列与燕之屋企划案例组织。
-- [[domains/brand-strategy/learning-paths/ecommerce-brand-mindshare-product-power-and-hero-product-strategy/01-from-product-commerce-to-user-management|01｜从货品电商到用户经营]]
-- [[domains/brand-strategy/learning-paths/ecommerce-brand-mindshare-product-power-and-hero-product-strategy/02-brand-attracts-product-pleases|02｜品牌负责吸引，产品负责讨好]]
-- [[domains/brand-strategy/learning-paths/ecommerce-brand-mindshare-product-power-and-hero-product-strategy/03-definition-of-mindshare-product-power|03｜什么是心智产品力]]
-- [[domains/brand-strategy/learning-paths/ecommerce-brand-mindshare-product-power-and-hero-product-strategy/04-consumer-cognition-over-facts|04｜消费者认知为什么比事实更重要]]
-- [[domains/brand-strategy/learning-paths/ecommerce-brand-mindshare-product-power-and-hero-product-strategy/05-new-brand-launch-with-high-price-high-commission-koc|05｜高定价、高佣金、KOC起盘模型]]
-- [[domains/brand-strategy/learning-paths/ecommerce-brand-mindshare-product-power-and-hero-product-strategy/06-first-principle-of-hero-products|06｜大单品的第一性原理]]
-- [[domains/brand-strategy/learning-paths/ecommerce-brand-mindshare-product-power-and-hero-product-strategy/07-explosive-product-hero-product-strategic-hero-product|07｜爆品、大单品与战略大单品的分级]]
-- [[domains/brand-strategy/learning-paths/ecommerce-brand-mindshare-product-power-and-hero-product-strategy/08-hero-product-backhand-and-series-assets|08｜大单品的后手与系列资产]]
-- [[domains/brand-strategy/learning-paths/ecommerce-brand-mindshare-product-power-and-hero-product-strategy/09-five-strategic-values-of-hero-products|09｜战略级大单品的五大价值]]
-- [[domains/brand-strategy/learning-paths/ecommerce-brand-mindshare-product-power-and-hero-product-strategy/10-yanzhiwu-young-instant-birds-nest-planning|10｜燕之屋年轻化即食燕窝企划案例]]
-- [[domains/brand-strategy/learning-paths/ecommerce-brand-mindshare-product-power-and-hero-product-strategy/11-agent-usage-template|11｜Agent 使用模板：心智产品力与大单品战略诊断]]
+- [[domains/品牌策略/03-产品战略与大单品/01-电商品牌心智产品力与大单品战略/index|电商品牌心智产品力与大单品战略]]：章节目录，按用户经营、心智产品力、大单品分级、英雄系列与燕之屋企划案例组织。
+- [[domains/品牌策略/03-产品战略与大单品/01-电商品牌心智产品力与大单品战略/01-从货品电商到用户经营|01｜从货品电商到用户经营]]
+- [[domains/品牌策略/03-产品战略与大单品/01-电商品牌心智产品力与大单品战略/02-品牌负责吸引，产品负责讨好|02｜品牌负责吸引，产品负责讨好]]
+- [[domains/品牌策略/03-产品战略与大单品/01-电商品牌心智产品力与大单品战略/03-什么是心智产品力|03｜什么是心智产品力]]
+- [[domains/品牌策略/03-产品战略与大单品/01-电商品牌心智产品力与大单品战略/04-消费者认知大于事实|04｜消费者认知为什么比事实更重要]]
+- [[domains/品牌策略/03-产品战略与大单品/01-电商品牌心智产品力与大单品战略/05-高定价、高佣金、KOC起盘模型|05｜高定价、高佣金、KOC起盘模型]]
+- [[domains/品牌策略/03-产品战略与大单品/01-电商品牌心智产品力与大单品战略/06-大单品第一性原理|06｜大单品的第一性原理]]
+- [[domains/品牌策略/03-产品战略与大单品/01-电商品牌心智产品力与大单品战略/07-爆品、大单品与战略大单品|07｜爆品、大单品与战略大单品的分级]]
+- [[domains/品牌策略/03-产品战略与大单品/01-电商品牌心智产品力与大单品战略/08-大单品后手与系列资产|08｜大单品的后手与系列资产]]
+- [[domains/品牌策略/03-产品战略与大单品/01-电商品牌心智产品力与大单品战略/09-战略级大单品的五大价值|09｜战略级大单品的五大价值]]
+- [[domains/品牌策略/03-产品战略与大单品/01-电商品牌心智产品力与大单品战略/10-燕之屋年轻化即食燕窝企划案例|10｜燕之屋年轻化即食燕窝企划案例]]
+- [[domains/品牌策略/03-产品战略与大单品/01-电商品牌心智产品力与大单品战略/11-Agent使用模板：心智产品力与大单品诊断|11｜Agent 使用模板：心智产品力与大单品战略诊断]]
 
-- [[domains/brand-strategy/learning-paths/brand-big-single-product-and-product-planning-marketing|品牌大单品打造与产品企划营销]]：章节目录，按大单品企划、燕之屋防守、第二增长曲线、产品矩阵、差异化创新、卖点可视化、昵称化与爆品心智组织。
-- [[domains/brand-strategy/learning-paths/brand-big-single-product-and-product-planning-marketing/01-brand-hero-product-method-overview|01｜品牌大单品方法总览]]
-- [[domains/brand-strategy/learning-paths/brand-big-single-product-and-product-planning-marketing/02-yanzhiwu-defense-through-category-blocking|02｜燕之屋如何用新品类封杀对手]]
-- [[domains/brand-strategy/learning-paths/brand-big-single-product-and-product-planning-marketing/03-second-growth-curve-with-birds-nest-congee|03｜第二增长曲线：燕窝粥的早餐场景切入]]
-- [[domains/brand-strategy/learning-paths/brand-big-single-product-and-product-planning-marketing/04-product-matrix-role-division|04｜产品矩阵的角色分工]]
-- [[domains/brand-strategy/learning-paths/brand-big-single-product-and-product-planning-marketing/05-differentiation-better-different-than-better|05｜预期更好，不如不同]]
-- [[domains/brand-strategy/learning-paths/brand-big-single-product-and-product-planning-marketing/06-add-experience-and-reduce-burden|06｜差异化创新：加体验或减负担]]
-- [[domains/brand-strategy/learning-paths/brand-big-single-product-and-product-planning-marketing/07-visualized-selling-points-and-live-demonstration|07｜卖点可视化与直播演绎]]
-- [[domains/brand-strategy/learning-paths/brand-big-single-product-and-product-planning-marketing/08-nickname-based-naming-and-consumer-language|08｜昵称化命名与消费者语言]]
-- [[domains/brand-strategy/learning-paths/brand-big-single-product-and-product-planning-marketing/09-explosive-product-mindshare-and-stage-strategy|09｜爆品心智与分阶段策略]]
-- [[domains/brand-strategy/learning-paths/brand-big-single-product-and-product-planning-marketing/10-agent-usage-template|10｜Agent 使用模板：品牌大单品与企划营销诊断]]
+- [[domains/品牌策略/03-产品战略与大单品/02-品牌大单品打造与产品企划营销/index|品牌大单品打造与产品企划营销]]：章节目录，按大单品企划、燕之屋防守、第二增长曲线、产品矩阵、差异化创新、卖点可视化、昵称化与爆品心智组织。
+- [[domains/品牌策略/03-产品战略与大单品/02-品牌大单品打造与产品企划营销/01-品牌大单品方法总览|01｜品牌大单品方法总览]]
+- [[domains/品牌策略/03-产品战略与大单品/02-品牌大单品打造与产品企划营销/02-燕之屋如何用新品类封杀对手|02｜燕之屋如何用新品类封杀对手]]
+- [[domains/品牌策略/03-产品战略与大单品/02-品牌大单品打造与产品企划营销/03-第二增长曲线：燕窝粥早餐场景|03｜第二增长曲线：燕窝粥的早餐场景切入]]
+- [[domains/品牌策略/03-产品战略与大单品/02-品牌大单品打造与产品企划营销/04-产品矩阵的角色分工|04｜产品矩阵的角色分工]]
+- [[domains/品牌策略/03-产品战略与大单品/02-品牌大单品打造与产品企划营销/05-预期更好不如不同|05｜预期更好，不如不同]]
+- [[domains/品牌策略/03-产品战略与大单品/02-品牌大单品打造与产品企划营销/06-差异化创新：加体验或减负担|06｜差异化创新：加体验或减负担]]
+- [[domains/品牌策略/03-产品战略与大单品/02-品牌大单品打造与产品企划营销/07-卖点可视化与直播演绎|07｜卖点可视化与直播演绎]]
+- [[domains/品牌策略/03-产品战略与大单品/02-品牌大单品打造与产品企划营销/08-昵称化命名与消费者语言|08｜昵称化命名与消费者语言]]
+- [[domains/品牌策略/03-产品战略与大单品/02-品牌大单品打造与产品企划营销/09-爆品心智与分阶段策略|09｜爆品心智与分阶段策略]]
+- [[domains/品牌策略/03-产品战略与大单品/02-品牌大单品打造与产品企划营销/10-Agent使用模板：品牌大单品与企划营销诊断|10｜Agent 使用模板：品牌大单品与企划营销诊断]]
 
-- [[domains/brand-strategy/learning-paths/brand-product-marketing-and-product-expansion-strategy|品牌产品营销与拓品策略]]：章节目录，按场景营销、拓品路径与品牌心智长期主义组织。
-- [[domains/brand-strategy/learning-paths/brand-product-marketing-and-product-expansion-strategy/01-demand-and-scene-are-the-real-buying-point|01｜需求与场景才是真正的购买点]]
-- [[domains/brand-strategy/learning-paths/brand-product-marketing-and-product-expansion-strategy/02-from-product-features-to-scene-translation|02｜从产品参数到场景翻译]]
-- [[domains/brand-strategy/learning-paths/brand-product-marketing-and-product-expansion-strategy/03-scene-marketing-vs-situation-marketing|03｜场景营销与情景营销]]
-- [[domains/brand-strategy/learning-paths/brand-product-marketing-and-product-expansion-strategy/04-channel-specific-expression-rules|04｜不同渠道的表达规则]]
-- [[domains/brand-strategy/learning-paths/brand-product-marketing-and-product-expansion-strategy/05-wangshanzha-case-scene-reframing|05｜望山楂案例：把产品改写成强场景解决方案]]
-- [[domains/brand-strategy/learning-paths/brand-product-marketing-and-product-expansion-strategy/06-product-line-expansion-logic|06｜拓品的逻辑与边界]]
-- [[domains/brand-strategy/learning-paths/brand-product-marketing-and-product-expansion-strategy/07-incremental-vs-stock-market-expansion|07｜增量市场 vs 存量市场的拓品路径]]
-- [[domains/brand-strategy/learning-paths/brand-product-marketing-and-product-expansion-strategy/08-non-standard-product-planning|08｜非标品的企划先行逻辑]]
-- [[domains/brand-strategy/learning-paths/brand-product-marketing-and-product-expansion-strategy/09-brand-identity-and-all-channel-coordination|09｜品牌识别统一与全渠道协同]]
+- [[domains/品牌策略/03-产品战略与大单品/03-品牌产品营销与拓品策略/index|品牌产品营销与拓品策略]]：章节目录，按场景营销、拓品路径与品牌心智长期主义组织。
+- [[domains/品牌策略/03-产品战略与大单品/03-品牌产品营销与拓品策略/01-需求与场景才是真正购买点|01｜需求与场景才是真正的购买点]]
+- [[domains/品牌策略/03-产品战略与大单品/03-品牌产品营销与拓品策略/02-从产品参数到场景翻译|02｜从产品参数到场景翻译]]
+- [[domains/品牌策略/03-产品战略与大单品/03-品牌产品营销与拓品策略/03-场景营销与情景营销|03｜场景营销与情景营销]]
+- [[domains/品牌策略/03-产品战略与大单品/03-品牌产品营销与拓品策略/04-不同渠道表达规则|04｜不同渠道的表达规则]]
+- [[domains/品牌策略/03-产品战略与大单品/03-品牌产品营销与拓品策略/05-望山楂案例：场景重构|05｜望山楂案例：把产品改写成强场景解决方案]]
+- [[domains/品牌策略/03-产品战略与大单品/03-品牌产品营销与拓品策略/06-拓品逻辑与边界|06｜拓品的逻辑与边界]]
+- [[domains/品牌策略/03-产品战略与大单品/03-品牌产品营销与拓品策略/07-增量市场与存量市场拓品路径|07｜增量市场 vs 存量市场的拓品路径]]
+- [[domains/品牌策略/03-产品战略与大单品/03-品牌产品营销与拓品策略/08-非标品企划先行逻辑|08｜非标品的企划先行逻辑]]
+- [[domains/品牌策略/03-产品战略与大单品/03-品牌产品营销与拓品策略/09-品牌识别统一与全渠道协同|09｜品牌识别统一与全渠道协同]]
 
 ## Cases
 
@@ -264,19 +301,19 @@
 ## Playbooks
 
 <!-- taobao-operation-quick-guide:start -->
-## Taobao Operation Book
+## 淘宝运营
 
-- [[domains/ecommerce-ops/learning-paths/taobao-operation-quick-guide-81-rules|淘宝运营速成指南：电商军规81讲]]：基于贾真 2018 年图书重构的淘宝店铺运营方法路径。
-- [[domains/ecommerce-ops/learning-paths/taobao-operation-quick-guide-81-rules/01-taobao-operator-strategic-mindset|淘宝运营者的战略心智与经营军规]]
-- [[domains/ecommerce-ops/learning-paths/taobao-operation-quick-guide-81-rules/02-category-positioning-and-product-selection|类目定位、选品与人群切分]]
-- [[domains/ecommerce-ops/learning-paths/taobao-operation-quick-guide-81-rules/03-product-development-and-new-product-testing|新品开发、测款与赛马期]]
-- [[domains/ecommerce-ops/learning-paths/taobao-operation-quick-guide-81-rules/04-search-title-and-keyword-operations|搜索、标题与关键词运营]]
-- [[domains/ecommerce-ops/learning-paths/taobao-operation-quick-guide-81-rules/05-main-image-detail-page-and-selling-point-planning|主图、详情页与卖点策划]]
-- [[domains/ecommerce-ops/learning-paths/taobao-operation-quick-guide-81-rules/06-paid-traffic-and-channel-operations|付费流量与渠道运营]]
-- [[domains/ecommerce-ops/learning-paths/taobao-operation-quick-guide-81-rules/07-customer-service-private-domain-and-repurchase|客服、私域与老客户复购]]
-- [[domains/ecommerce-ops/learning-paths/taobao-operation-quick-guide-81-rules/08-promotion-pricing-and-major-campaigns|促销、定价、价格战与大促]]
-- [[domains/ecommerce-ops/learning-paths/taobao-operation-quick-guide-81-rules/09-supply-chain-warehouse-and-finance|供应链、仓储与财务控制]]
-- [[domains/ecommerce-ops/learning-paths/taobao-operation-quick-guide-81-rules/10-team-organization-and-performance|团队组织、招聘与绩效管理]]
-- [[domains/ecommerce-ops/learning-paths/taobao-operation-quick-guide-81-rules/11-taobao-operation-success-model|淘宝运营成功模型：六部曲]]
-- [[domains/ecommerce-ops/learning-paths/taobao-operation-quick-guide-81-rules/12-agent-usage-template|Agent 使用模板：淘宝店铺运营诊断]]
+- [[domains/电商运营/02-淘宝天猫/01-淘宝运营速成指南/index|淘宝运营速成指南：电商军规81讲]]：基于贾真 2018 年图书重构的淘宝店铺运营方法路径。
+- [[domains/电商运营/02-淘宝天猫/01-淘宝运营速成指南/01-淘宝运营者的战略心智与经营军规|淘宝运营者的战略心智与经营军规]]
+- [[domains/电商运营/02-淘宝天猫/01-淘宝运营速成指南/02-类目定位、选品与人群切分|类目定位、选品与人群切分]]
+- [[domains/电商运营/02-淘宝天猫/01-淘宝运营速成指南/03-新品开发、测款与赛马期|新品开发、测款与赛马期]]
+- [[domains/电商运营/02-淘宝天猫/01-淘宝运营速成指南/04-搜索、标题与关键词运营|搜索、标题与关键词运营]]
+- [[domains/电商运营/02-淘宝天猫/01-淘宝运营速成指南/05-主图、详情页与卖点策划|主图、详情页与卖点策划]]
+- [[domains/电商运营/02-淘宝天猫/01-淘宝运营速成指南/06-付费流量与渠道运营|付费流量与渠道运营]]
+- [[domains/电商运营/02-淘宝天猫/01-淘宝运营速成指南/07-客服、私域与老客户复购|客服、私域与老客户复购]]
+- [[domains/电商运营/02-淘宝天猫/01-淘宝运营速成指南/08-促销、定价、价格战与大促|促销、定价、价格战与大促]]
+- [[domains/电商运营/02-淘宝天猫/01-淘宝运营速成指南/09-供应链、仓储与财务控制|供应链、仓储与财务控制]]
+- [[domains/电商运营/02-淘宝天猫/01-淘宝运营速成指南/10-团队组织、招聘与绩效管理|团队组织、招聘与绩效管理]]
+- [[domains/电商运营/02-淘宝天猫/01-淘宝运营速成指南/11-淘宝运营成功模型：六部曲|淘宝运营成功模型：六部曲]]
+- [[domains/电商运营/02-淘宝天猫/01-淘宝运营速成指南/12-Agent使用模板：淘宝店铺运营诊断|Agent 使用模板：淘宝店铺运营诊断]]
 <!-- taobao-operation-quick-guide:end -->

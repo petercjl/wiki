@@ -12,7 +12,7 @@ case
 
 ## 输出页
 
-`04-british-baby-food-step-symbol-case.md`
+`domains/品牌策略/04-品牌视觉资产/01-品牌视觉记忆感知与可视化体系/04-英式辅食分阶符号案例.md`
 
 ## 处理说明
 

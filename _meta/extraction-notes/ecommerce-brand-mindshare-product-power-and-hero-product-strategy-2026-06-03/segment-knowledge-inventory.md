@@ -14,7 +14,7 @@
 | 08 | concept | 后手准备与英雄系列资产 |
 | 09 | concept | 战略大单品五大经营价值 |
 | 10 | case | 燕之屋年轻化即食燕窝企划 |
-| 11 | playbook | Agent 诊断模板 |
+| 11 | domains/视觉制作/04-AI生图风格库/01-极简北欧风/variants/shanju-light-kitchen-living/playbook | Agent 诊断模板 |
 
 ## 关键方法资产
 

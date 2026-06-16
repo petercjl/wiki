@@ -6,4 +6,4 @@
 
 知识类型：concept
 
-输出页：`05-new-brand-launch-with-high-price-high-commission-koc.md`
+输出页：`domains/品牌策略/03-产品战略与大单品/01-电商品牌心智产品力与大单品战略/05-高定价、高佣金、KOC起盘模型.md`

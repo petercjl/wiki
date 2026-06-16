@@ -13,7 +13,7 @@
 - transcript dates in source: 2026-04-12 to 2026-04-13
 - ingest date: 2026-06-13
 - language: Chinese
-- domain placement candidate: domains/ecommerce-ops/finance-accounting/ and domains/ecommerce-ops/learning-paths/
+- domain placement candidate: domains/电商运营/finance-accounting/ and domains/电商运营/learning-paths/
 - sensitivity: contains tax, equity, compliance, incentives, and finance-management advice; formal pages must mark tax/legal-equity claims as requiring professional review before execution.
 - time sensitivity: high for tax policy thresholds, platform data-sync practice, listing/company structuring, and compliance enforcement claims.
 - formal artifact target: a systemized learning path for ecommerce tax, finance, equity, incentive, and strategic finance management.

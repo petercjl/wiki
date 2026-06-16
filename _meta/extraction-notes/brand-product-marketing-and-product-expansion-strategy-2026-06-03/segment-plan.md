@@ -1,6 +1,6 @@
 # segment-plan
 
-源文件：`raw/transcripts/brand-product-marketing-and-product-expansion-strategy-2026-06-03.md`
+源文件：`raw/transcripts/domains/品牌策略/03-产品战略与大单品/03-品牌产品营销与拓品策略/domains/视觉制作/05-小红书风格AI生图/index-2026-06-03.md`
 
 - 正式输出采用章节化 learning path。
 - 课堂组织、签到、休息、互动、加分、闲聊等内容不进入正式页。

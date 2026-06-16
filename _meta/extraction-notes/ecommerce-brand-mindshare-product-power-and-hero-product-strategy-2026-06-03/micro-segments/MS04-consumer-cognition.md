@@ -6,4 +6,4 @@
 
 知识类型：concept
 
-输出页：`04-consumer-cognition-over-facts.md`
+输出页：`domains/品牌策略/03-产品战略与大单品/01-电商品牌心智产品力与大单品战略/04-消费者认知大于事实.md`

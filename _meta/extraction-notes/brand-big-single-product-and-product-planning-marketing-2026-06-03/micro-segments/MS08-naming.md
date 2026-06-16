@@ -6,4 +6,4 @@
 
 知识类型：concept
 
-输出页：`08-nickname-based-naming-and-consumer-language.md`
+输出页：`domains/品牌策略/03-产品战略与大单品/02-品牌大单品打造与产品企划营销/08-昵称化命名与消费者语言.md`

@@ -1,6 +1,6 @@
 # Chapter Inventory
 
-- Source directory: `/Users/pechen/wiki/raw/books/brand-visual-repeatable-ecommerce-visual-playbook-2018`
+- Source directory: `/Users/pechen/wiki/raw/books/domains/视觉制作/domains/视觉制作/05-小红书风格AI生图/index/02-品牌视觉标准化/01-可复制的电商品牌视觉玩法/domains/视觉制作/05-小红书风格AI生图/index-2018`
 - Chapters: 46
 
 | source_id | source_title | source_file | char_count | topic_groups | knowledge_units | cases | tools_metrics | time_sensitivity | target_pages |

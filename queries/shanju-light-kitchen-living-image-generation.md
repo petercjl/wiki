@@ -3,10 +3,10 @@ title: 杉居轻厨房生活风生图查询入口
 type: query
 created: 2026-06-08
 updated: 2026-06-08
-domain: visual-production
+domain: 视觉制作
 tags: [visual-production, prompt-engineering, brand-strategy]
 sources:
-  - domains/visual-production/visual-styles/minimal-scandinavian/variants/shanju-light-kitchen-living/
+  - domains/视觉制作/04-AI生图风格库/01-极简北欧风/variants/shanju-light-kitchen-living/
 status: active
 ---
 
@@ -14,11 +14,11 @@ status: active
 
 当 Agent 需要生成、改写或审核杉居品牌风格图片时，先读取：
 
-1. [[domains/visual-production/visual-styles/minimal-scandinavian/variants/shanju-light-kitchen-living|杉居轻厨房生活风]]
-2. [[domains/visual-production/visual-styles/minimal-scandinavian/variants/shanju-light-kitchen-living/visual-worldbook|杉居视觉世界观]]
-3. [[domains/visual-production/visual-styles/minimal-scandinavian/variants/shanju-light-kitchen-living/playbook|杉居轻厨房生活风生图 Playbook]]
-4. [[domains/visual-production/visual-styles/minimal-scandinavian/variants/shanju-light-kitchen-living/copywriting-voice|杉居文案语气]]
-5. [[domains/visual-production/visual-styles/minimal-scandinavian|极简北欧风]]
+1. [[domains/视觉制作/04-AI生图风格库/01-极简北欧风/variants/shanju-light-kitchen-living/index|杉居轻厨房生活风]]
+2. [[domains/视觉制作/04-AI生图风格库/01-极简北欧风/variants/shanju-light-kitchen-living/visual-worldbook|杉居视觉世界观]]
+3. [[domains/视觉制作/04-AI生图风格库/01-极简北欧风/variants/shanju-light-kitchen-living/playbook|杉居轻厨房生活风生图 Playbook]]
+4. [[domains/视觉制作/04-AI生图风格库/01-极简北欧风/variants/shanju-light-kitchen-living/copywriting-voice|杉居文案语气]]
+5. [[domains/视觉制作/04-AI生图风格库/01-极简北欧风/index|极简北欧风]]
 
 ## 输出结构
 

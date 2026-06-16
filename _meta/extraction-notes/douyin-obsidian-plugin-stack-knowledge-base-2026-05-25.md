@@ -12,7 +12,7 @@
 
 - 主题：Obsidian 插件选型与知识库增强
 - 适合落点：`shared/knowledge-management/obsidian-plugin-stack-for-knowledge-base.md`
-- 页面类型：`playbook`
+- 页面类型：`domains/视觉制作/04-AI生图风格库/01-极简北欧风/variants/shanju-light-kitchen-living/playbook`
 
 ## 可稳定提取的核心知识
 

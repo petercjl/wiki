@@ -6,4 +6,4 @@
 
 知识类型：concept
 
-输出页：`07-explosive-product-hero-product-strategic-hero-product.md`
+输出页：`domains/品牌策略/03-产品战略与大单品/01-电商品牌心智产品力与大单品战略/07-爆品、大单品与战略大单品.md`

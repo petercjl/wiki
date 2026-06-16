@@ -5,8 +5,8 @@ created: 2026-06-08
 status: review
 source_image: /Users/pechen/Downloads/杉居风格情绪板.png
 based_on:
-  - domains/visual-production/visual-styles/minimal-scandinavian/
-  - domains/brand-strategy/
+  - domains/视觉制作/domains/视觉制作/05-小红书风格AI生图/index/04-AI生图风格库/01-极简北欧风/domains/视觉制作/05-小红书风格AI生图/index/
+  - domains/品牌策略/
 ---
 
 # 杉居品牌风格变体推演草稿
@@ -120,7 +120,7 @@ based_on:
 
 ## 3. 用品牌策略方法推演
 
-本节使用 `/Users/pechen/wiki/domains/brand-strategy` 中的几个方法：
+本节使用 `/Users/pechen/wiki/domains/品牌策略` 中的几个方法：
 
 - ABC 视觉分层系统：A 层品牌态度、B 层使用场景、C 层功能卖点。
 - 可视化世界观四模块：空间、人物、元素、版式。
@@ -413,36 +413,36 @@ C 层不能消失，但要被 B 层包住。
 推荐结构：
 
 ```text
-domains/visual-production/visual-styles/
-├── index.md
-└── minimal-scandinavian/
-    ├── index.md
-    ├── playbook.md
-    ├── reference-gallery.md
+domains/视觉制作/domains/视觉制作/05-小红书风格AI生图/index/04-AI生图风格库/domains/视觉制作/05-小红书风格AI生图/index/
+├── domains/视觉制作/05-小红书风格AI生图/index.md
+└── domains/视觉制作/domains/视觉制作/05-小红书风格AI生图/index/04-AI生图风格库/01-极简北欧风/domains/视觉制作/05-小红书风格AI生图/index/
+    ├── domains/视觉制作/05-小红书风格AI生图/index.md
+    ├── domains/视觉制作/04-AI生图风格库/01-极简北欧风/variants/shanju-light-kitchen-living/playbook.md
+    ├── domains/视觉制作/domains/视觉制作/05-小红书风格AI生图/index/04-AI生图风格库/01-极简北欧风/variants/shanju-light-kitchen-living/reference-gallery.md
     └── variants/
-        └── shanju-light-kitchen-living/
-            ├── index.md
-            ├── moodboard-analysis.md
-            ├── brand-style-system.md
-            ├── visual-worldbook.md
-            ├── playbook.md
-            ├── copywriting-voice.md
-            └── reference-gallery.md
+        └── domains/视觉制作/domains/视觉制作/05-小红书风格AI生图/index/04-AI生图风格库/01-极简北欧风/variants/shanju-light-kitchen-living/domains/视觉制作/05-小红书风格AI生图/index/
+            ├── domains/视觉制作/05-小红书风格AI生图/index.md
+            ├── domains/视觉制作/domains/视觉制作/05-小红书风格AI生图/index/04-AI生图风格库/01-极简北欧风/variants/shanju-light-kitchen-living/moodboard-analysis.md
+            ├── domains/视觉制作/domains/视觉制作/05-小红书风格AI生图/index/04-AI生图风格库/01-极简北欧风/variants/shanju-light-kitchen-living/brand-style-system.md
+            ├── domains/视觉制作/domains/视觉制作/05-小红书风格AI生图/index/04-AI生图风格库/01-极简北欧风/variants/shanju-light-kitchen-living/visual-worldbook.md
+            ├── domains/视觉制作/04-AI生图风格库/01-极简北欧风/variants/shanju-light-kitchen-living/playbook.md
+            ├── domains/视觉制作/domains/视觉制作/05-小红书风格AI生图/index/04-AI生图风格库/01-极简北欧风/variants/shanju-light-kitchen-living/copywriting-voice.md
+            └── domains/视觉制作/domains/视觉制作/05-小红书风格AI生图/index/04-AI生图风格库/01-极简北欧风/variants/shanju-light-kitchen-living/reference-gallery.md
 ```
 
 ### 9.1 每个页面的职责
 
 | 页面 | 作用 |
 | --- | --- |
-| `index.md` | 杉居品牌变体总入口，说明它继承了哪些极简北欧风规则，又新增了哪些品牌规则。 |
-| `moodboard-analysis.md` | 解析当前情绪板，保留画面观察、文字系统、色彩、人物、猫、空间、版式。 |
-| `brand-style-system.md` | 从品牌策略角度沉淀杉居的心向感知、ABC 视觉分层、品牌资产和禁忌。 |
-| `visual-worldbook.md` | 专门维护空间、人物、元素、版式四模块，尤其区分室内厨房、露台庭院、户外轻料理三类空间，给摄影/设计/AI 生图共用。 |
-| `playbook.md` | 面向生图工具的 prompt 骨架、图位配方、参考图权重、负向约束和 QA，覆盖厨房工具在室内与户外的使用场景。 |
-| `copywriting-voice.md` | 杉居的短句系统、中英文混排、生活语气、禁用文案风格。 |
-| `reference-gallery.md` | 情绪板、产品图、生成图、竞品图、未来品牌资料的索引和权重。 |
+| `domains/视觉制作/05-小红书风格AI生图/index.md` | 杉居品牌变体总入口，说明它继承了哪些极简北欧风规则，又新增了哪些品牌规则。 |
+| `domains/视觉制作/domains/视觉制作/05-小红书风格AI生图/index/04-AI生图风格库/01-极简北欧风/variants/shanju-light-kitchen-living/moodboard-analysis.md` | 解析当前情绪板，保留画面观察、文字系统、色彩、人物、猫、空间、版式。 |
+| `domains/视觉制作/domains/视觉制作/05-小红书风格AI生图/index/04-AI生图风格库/01-极简北欧风/variants/shanju-light-kitchen-living/brand-style-system.md` | 从品牌策略角度沉淀杉居的心向感知、ABC 视觉分层、品牌资产和禁忌。 |
+| `domains/视觉制作/domains/视觉制作/05-小红书风格AI生图/index/04-AI生图风格库/01-极简北欧风/variants/shanju-light-kitchen-living/visual-worldbook.md` | 专门维护空间、人物、元素、版式四模块，尤其区分室内厨房、露台庭院、户外轻料理三类空间，给摄影/设计/AI 生图共用。 |
+| `domains/视觉制作/04-AI生图风格库/01-极简北欧风/variants/shanju-light-kitchen-living/playbook.md` | 面向生图工具的 prompt 骨架、图位配方、参考图权重、负向约束和 QA，覆盖厨房工具在室内与户外的使用场景。 |
+| `domains/视觉制作/domains/视觉制作/05-小红书风格AI生图/index/04-AI生图风格库/01-极简北欧风/variants/shanju-light-kitchen-living/copywriting-voice.md` | 杉居的短句系统、中英文混排、生活语气、禁用文案风格。 |
+| `domains/视觉制作/domains/视觉制作/05-小红书风格AI生图/index/04-AI生图风格库/01-极简北欧风/variants/shanju-light-kitchen-living/reference-gallery.md` | 情绪板、产品图、生成图、竞品图、未来品牌资料的索引和权重。 |
 
-### 9.2 为什么要放在 `minimal-scandinavian/variants/`
+### 9.2 为什么要放在 `domains/视觉制作/domains/视觉制作/05-小红书风格AI生图/index/04-AI生图风格库/01-极简北欧风/domains/视觉制作/05-小红书风格AI生图/index/variants/`
 
 因为杉居不是独立于极简北欧风之外的新风格，它继承了母体的：
 

@@ -12,7 +12,7 @@ concept
 
 ## 输出页
 
-`02-memory-perception-three-elements.md`
+`domains/品牌策略/04-品牌视觉资产/01-品牌视觉记忆感知与可视化体系/02-记忆感知三要素.md`
 
 ## 处理说明
 

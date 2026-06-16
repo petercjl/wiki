@@ -21,8 +21,8 @@
 ## 初步判断
 
 - 主题：LLM Wiki / 个人知识库运行闭环 / AI 维护知识系统
-- 适合落点：`domains/ai-agent-engineering/knowledge-systems/llm-wiki-personal-knowledge-base-operating-loop.md`
-- 页面类型：`playbook`
+- 适合落点：`domains/AI Agent工程/01-知识系统/01-LLM Wiki个人知识库运行闭环.md`
+- 页面类型：`domains/视觉制作/04-AI生图风格库/01-极简北欧风/variants/shanju-light-kitchen-living/playbook`
 
 ## 可稳定提取的核心知识
 

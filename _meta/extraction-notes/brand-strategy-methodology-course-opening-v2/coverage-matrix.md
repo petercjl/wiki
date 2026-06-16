@@ -4,8 +4,8 @@
 
 ## 正式输出
 
-- `domains/brand-strategy/learning-paths/brand-strategy-methodology-reconstructed.md`：章节目录页
-- `domains/brand-strategy/learning-paths/brand-strategy-methodology-reconstructed/01-why-ecommerce-brands-must-rethink-brand.md` 至 `12-agent-usage-template.md`：正式章节页
+- `domains/品牌策略/01-品牌基础与增长方法/01-电商品牌增长方法论/domains/视觉制作/05-小红书风格AI生图/index.md`：章节目录页
+- `domains/品牌策略/01-品牌基础与增长方法/01-电商品牌增长方法论/01-为什么电商企业必须重新理解品牌.md` 至 `domains/品牌策略/01-品牌基础与增长方法/01-电商品牌增长方法论/12-Agent使用模板：电商品牌增长诊断.md`：正式章节页
 
 ## 覆盖矩阵
 

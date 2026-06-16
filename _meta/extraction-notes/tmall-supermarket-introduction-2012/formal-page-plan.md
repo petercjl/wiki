@@ -2,6 +2,6 @@
 
 | Page | Purpose |
 | --- | --- |
-| domains/ecommerce-ops/platform-entry/tmall-supermarket-cooperation-guide.md | 编译天猫超市合作模式、费用口径、平台价值、入驻门槛、适配商家和检查清单。 |
-| domains/ecommerce-ops/platform-entry/tmall-supermarket-vs-jd-self-operated-comparison.md | 与京东自营进行模式对比，帮助 Agent 做平台选择。 |
-| domains/ecommerce-ops/platform-entry/platform-entry-agent-usage-template.md | 提供平台入驻诊断模板。 |
+| domains/电商运营/02-淘宝天猫/03-天猫超市入驻合作/01-天猫超市合作与入驻说明.md | 编译天猫超市合作模式、费用口径、平台价值、入驻门槛、适配商家和检查清单。 |
+| domains/电商运营/01-通用电商方法/02-平台渠道与入驻合作/01-天猫超市与京东自营合作模式对比.md | 与京东自营进行模式对比，帮助 Agent 做平台选择。 |
+| domains/电商运营/01-通用电商方法/02-平台渠道与入驻合作/02-平台入驻与自营合作诊断模板.md | 提供平台入驻诊断模板。 |

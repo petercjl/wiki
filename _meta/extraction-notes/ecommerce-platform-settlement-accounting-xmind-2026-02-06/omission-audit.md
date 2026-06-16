@@ -6,7 +6,7 @@ All 101 unique XMind nodes are present in `source-inventory.md` and `coverage-ma
 
 ## Merged Nodes
 
-Most text nodes are marked `merged` because XMind fragments were compiled into a continuous playbook rather than copied one node per paragraph. This is intentional: the formal page preserves the accounting logic, branch hierarchy, platform-specific distinctions, and examples while avoiding a raw node dump.
+Most text nodes are marked `merged` because XMind fragments were compiled into a continuous domains/视觉制作/04-AI生图风格库/01-极简北欧风/variants/shanju-light-kitchen-living/playbook rather than copied one node per paragraph. This is intentional: the formal page preserves the accounting logic, branch hierarchy, platform-specific distinctions, and examples while avoiding a raw node dump.
 
 ## Unresolved Image Nodes
 

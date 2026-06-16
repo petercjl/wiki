@@ -12,7 +12,7 @@ concept
 
 ## 输出页
 
-`03-no-overthrow-of-existing-assets.md`
+`domains/品牌策略/04-品牌视觉资产/01-品牌视觉记忆感知与可视化体系/03-为什么不能轻易颠覆已有资产.md`
 
 ## 处理说明
 

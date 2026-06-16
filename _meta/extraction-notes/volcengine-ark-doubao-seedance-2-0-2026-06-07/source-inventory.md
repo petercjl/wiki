@@ -7,7 +7,7 @@
 | SD20-AVAIL-001 | lines 19-21 | Model series is marked `全面开放`. | Time-sensitive availability. |
 | SD20-DESC-001 | lines 21-23 | Duplicate short model description: professional multimodal creative video model; supports image/video/audio references, generation, editing, extension, detail/character stability, advertising/film/social use cases. | Duplicate paragraph appears twice; merged into formal capability summary. |
 | SD20-VARIANT-001 | lines 25-31 | Two variants: `Doubao-Seedance-2.0` and `Doubao-Seedance-2.0-fast`; fast is faster and inherits 2.0 core advantages. | Formalized as model-family comparison. |
-| SD20-ID-001 | lines 33-39 | Main model entry: `Doubao-Seedance-2.0`, code/version `260128`, `首推`, Model ID `doubao-seedance-2-0-260128`. | Formalized. |
+| SD20-ID-001 | lines 33-39 | Main model entry: `Doubao-Seedance-2.0`, code/version `260128`, `首推`, Model ID `domains/视觉制作/domains/视觉制作/05-小红书风格AI生图/index/06-AI视频/01-Doubao-Seedance-2.0视频生成模型卡-260128`. | Formalized. |
 | SD20-CAP-001 | lines 41-43 | Capability phrase repeated: reference image/video/audio to generate video, edit video, extend video, first/last-frame video generation. | Formalized. |
 | SD20-IO-001 | lines 45-55 | Input/output: input text, image, video, audio; output video. | Formalized. |
 | SD20-PRICE-001 | lines 59-73 | Pricing section for output resolution 480P; token display toggle; includes video input 28 yuan/million tokens; excludes video input 46 yuan/million tokens. | Formalized with time-sensitive warning. |

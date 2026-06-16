@@ -20,11 +20,11 @@
 - Unique node count: 101.
 - Image node count: 28.
 - Version relationship: `淘宝-核算方法的解答-2.6.xmind` contains every unique node found in the three files; the other two files are subsets.
-- Domain placement: `domains/ecommerce-ops/finance-accounting/`
+- Domain placement: `domains/电商运营/finance-accounting/`
 - Time sensitivity: high. Platform backend paths, bill names, and account behavior may change. Treat UI path screenshots as source-date evidence, not current platform guarantees.
 
 ## Reconstruction Reading
 
 The XMind root question is not "what are the node titles"; it is: how should ecommerce finance choose an income recognition basis and reconcile platform settlement, ERP order cost, deposits, promotion expenses, and special accounts across Douyin, Pinduoduo, Xiaohongshu, Video Account, and Taobao?
 
-The formal page compiles this as a financial accounting playbook, while the coverage matrix preserves every node and screenshot reference.
+The formal page compiles this as a financial accounting domains/视觉制作/04-AI生图风格库/01-极简北欧风/variants/shanju-light-kitchen-living/playbook, while the coverage matrix preserves every node and screenshot reference.

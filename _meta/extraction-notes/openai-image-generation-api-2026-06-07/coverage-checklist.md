@@ -3,7 +3,7 @@ title: OpenAI image generation API coverage checklist
 type: source-summary
 created: 2026-06-07
 updated: 2026-06-07
-domain: ai-agent-engineering
+domain: AI Agent工程
 tags: [openai, api, image-generation, coverage]
 sources:
   - raw/webpages/openai/openai-image-generation-api-2026-06-07.md
@@ -17,7 +17,7 @@ status: active
 
 This checklist audits the raw Obsidian clipping and the current official OpenAI image generation guide against:
 
-- `domains/ai-agent-engineering/toolchain/openai-image-generation-api.md`
+- `domains/AI Agent工程/05-工具链/01-OpenAI图像生成API集成指南.md`
 
 Goal: no source knowledge unit should be lost. Source units are either formalized, preserved as raw-only, or called out as current-doc supplementation because the clipping missed language-switcher examples.
 

@@ -9,5 +9,5 @@
 | Prompt 模板 | prompt-patterns.md | formalized | 以可复用模板呈现。 |
 | 历史踩坑和禁止项 | common-pitfalls.md | formalized | 转成自检规则。 |
 | QA/检查清单 | quality-checklist.md | formalized | 用于生成前后检查。 |
-| 后续 Agent 使用方式 | agent-usage-template.md | formalized | 新增面向未来使用的操作层。 |
+| 后续 Agent 使用方式 | domains/视觉制作/domains/视觉制作/05-小红书风格AI生图/index/05-小红书风格AI生图/09-Agent使用模板：小红书风格生图.md | formalized | 新增面向未来使用的操作层。 |
 | 各 skill 全文 | raw/my-temp-data/infinite-canvas-skill.md | raw-only | 全文保留，不在正式页重复粘贴。 |

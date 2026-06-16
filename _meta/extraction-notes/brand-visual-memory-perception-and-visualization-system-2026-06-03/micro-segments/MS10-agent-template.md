@@ -8,11 +8,11 @@
 
 ## 知识类型
 
-playbook
+domains/视觉制作/04-AI生图风格库/01-极简北欧风/variants/shanju-light-kitchen-living/playbook
 
 ## 输出页
 
-`10-agent-usage-template.md`
+`domains/品牌策略/04-品牌视觉资产/01-品牌视觉记忆感知与可视化体系/10-Agent使用模板：品牌视觉记忆诊断.md`
 
 ## 处理说明
 

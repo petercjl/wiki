@@ -6,4 +6,4 @@
 
 知识类型：concept
 
-输出页：`09-explosive-product-mindshare-and-stage-strategy.md`
+输出页：`domains/品牌策略/03-产品战略与大单品/02-品牌大单品打造与产品企划营销/09-爆品心智与分阶段策略.md`

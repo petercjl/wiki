@@ -2,7 +2,7 @@
 
 | source_unit_id | source_location | source_unit | knowledge_role | target_pages | status | reason_or_notes | chapter_id | chapter_title | page_or_section |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| BV-U001 | 内容简介/前言 | 没有统一品牌视觉标准，店铺就难以形成品牌感、难以摆脱价格战，也难以被消费者记住。 | core-claim | index.md;01;05 | merged | 已编入正式页面或合并进主题页 | ch003,ch005 | 内容简介/前言 | 内容简介/前言 |
+| BV-U001 | 内容简介/前言 | 没有统一品牌视觉标准，店铺就难以形成品牌感、难以摆脱价格战，也难以被消费者记住。 | core-claim | domains/视觉制作/05-小红书风格AI生图/index.md;01;05 | merged | 已编入正式页面或合并进主题页 | ch003,ch005 | 内容简介/前言 | 内容简介/前言 |
 | BV-U002 | 前言 | 视觉营销的终极目标是在买家心中形成强烈记忆符号，以降低传播成本。 | principle | 05 | formalized | 已编入正式页面或合并进主题页 | ch005 | 前言 | 前言 |
 | BV-U003 | 前言 | 视觉标准是公司标准化的一部分，公司越大越不能依赖一两个人的主观经验。 | organization-rule | 01 | formalized | 已编入正式页面或合并进主题页 | ch005 | 前言 | 前言 |
 | BV-U004 | 1.1 | 美工只懂审美不懂营销，会把页面做得花哨但无法表达卖点；视觉只是营销手段。 | role-boundary | 01 | formalized | 已编入正式页面或合并进主题页 | ch007 | 1.1 | 1.1 |

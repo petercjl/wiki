@@ -12,7 +12,7 @@ case
 
 ## 输出页
 
-`05-eye-care-drink-visual-function-case.md`
+`domains/品牌策略/04-品牌视觉资产/01-品牌视觉记忆感知与可视化体系/05-爱眼饮品功能可视化案例.md`
 
 ## 处理说明
 

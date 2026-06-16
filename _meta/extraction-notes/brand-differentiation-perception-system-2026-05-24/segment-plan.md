@@ -1,6 +1,6 @@
 # segment-plan
 
-源文件：`raw/transcripts/brand-differentiation-perception-system-2026-05-24.md`
+源文件：`raw/transcripts/domains/品牌策略/02-品类心智与差异化/02-品牌差异化感知系统/domains/视觉制作/05-小红书风格AI生图/index-2026-05-24.md`
 主题：电商品牌差异化感知系统
 处理日期：2026-06-03
 

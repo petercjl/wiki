@@ -29,17 +29,17 @@ status: active
 - Omission audit: `_meta/extraction-notes/xiaohongshu-image-prompt-library-2026-06-13/omission-audit.md`
 - Formal page plan: `_meta/extraction-notes/xiaohongshu-image-prompt-library-2026-06-13/formal-page-plan.md`
 - Formal pages:
-  - `domains/visual-production/xiaohongshu-image-generation/index.md`
-  - `domains/visual-production/xiaohongshu-image-generation/xiaohongshu-image-generation-principles.md`
-  - `domains/visual-production/xiaohongshu-image-generation/feed-vs-search-image-strategy.md`
-  - `domains/visual-production/xiaohongshu-image-generation/cover-image-types.md`
-  - `domains/visual-production/xiaohongshu-image-generation/image-set-structure.md`
-  - `domains/visual-production/xiaohongshu-image-generation/selling-point-translation.md`
-  - `domains/visual-production/xiaohongshu-image-generation/prompt-formula-and-variable-library.md`
-  - `domains/visual-production/xiaohongshu-image-generation/prompt-templates.md`
-  - `domains/visual-production/xiaohongshu-image-generation/qa-checklist.md`
-  - `domains/visual-production/xiaohongshu-image-generation/agent-usage-template.md`
-  - `queries/xiaohongshu-image-generation.md`
+  - `domains/视觉制作/domains/视觉制作/05-小红书风格AI生图/index/05-小红书风格AI生图/domains/视觉制作/05-小红书风格AI生图/index/domains/视觉制作/05-小红书风格AI生图/index.md`
+  - `domains/视觉制作/domains/视觉制作/05-小红书风格AI生图/index/05-小红书风格AI生图/domains/视觉制作/05-小红书风格AI生图/index/domains/视觉制作/domains/视觉制作/05-小红书风格AI生图/index/05-小红书风格AI生图/01-小红书风格生图原则.md`
+  - `domains/视觉制作/domains/视觉制作/05-小红书风格AI生图/index/05-小红书风格AI生图/domains/视觉制作/05-小红书风格AI生图/index/domains/视觉制作/domains/视觉制作/05-小红书风格AI生图/index/05-小红书风格AI生图/05-信息流与搜索承接图片策略.md`
+  - `domains/视觉制作/domains/视觉制作/05-小红书风格AI生图/index/05-小红书风格AI生图/domains/视觉制作/05-小红书风格AI生图/index/domains/视觉制作/domains/视觉制作/05-小红书风格AI生图/index/05-小红书风格AI生图/02-封面图类型.md`
+  - `domains/视觉制作/domains/视觉制作/05-小红书风格AI生图/index/05-小红书风格AI生图/domains/视觉制作/05-小红书风格AI生图/index/domains/视觉制作/domains/视觉制作/05-小红书风格AI生图/index/05-小红书风格AI生图/03-组图结构.md`
+  - `domains/视觉制作/domains/视觉制作/05-小红书风格AI生图/index/05-小红书风格AI生图/domains/视觉制作/05-小红书风格AI生图/index/domains/视觉制作/domains/视觉制作/05-小红书风格AI生图/index/05-小红书风格AI生图/04-卖点转译.md`
+  - `domains/视觉制作/domains/视觉制作/05-小红书风格AI生图/index/05-小红书风格AI生图/domains/视觉制作/05-小红书风格AI生图/index/domains/视觉制作/domains/视觉制作/05-小红书风格AI生图/index/05-小红书风格AI生图/06-Prompt公式与变量库.md`
+  - `domains/视觉制作/domains/视觉制作/05-小红书风格AI生图/index/05-小红书风格AI生图/domains/视觉制作/05-小红书风格AI生图/index/domains/视觉制作/domains/视觉制作/05-小红书风格AI生图/index/05-小红书风格AI生图/07-Prompt模板.md`
+  - `domains/视觉制作/domains/视觉制作/05-小红书风格AI生图/index/05-小红书风格AI生图/domains/视觉制作/05-小红书风格AI生图/index/domains/视觉制作/05-小红书风格AI生图/08-QA检查清单.md`
+  - `domains/视觉制作/domains/视觉制作/05-小红书风格AI生图/index/05-小红书风格AI生图/domains/视觉制作/05-小红书风格AI生图/index/domains/视觉制作/domains/视觉制作/05-小红书风格AI生图/index/05-小红书风格AI生图/09-Agent使用模板：小红书风格生图.md`
+  - `queries/domains/视觉制作/domains/视觉制作/05-小红书风格AI生图/index/05-小红书风格AI生图/domains/视觉制作/05-小红书风格AI生图/index.md`
 
 ## Coverage Summary
 
@@ -59,11 +59,11 @@ status: active
   - Decide feed vs search image strategy.
   - Audit Xiaohongshu generated images.
 - Pages an Agent should read first:
-  - `queries/xiaohongshu-image-generation.md`
-  - `domains/visual-production/xiaohongshu-image-generation/index.md`
-  - `domains/visual-production/xiaohongshu-image-generation/agent-usage-template.md`
-- Query/playbook entries:
-  - `queries/xiaohongshu-image-generation.md`
+  - `queries/domains/视觉制作/domains/视觉制作/05-小红书风格AI生图/index/05-小红书风格AI生图/domains/视觉制作/05-小红书风格AI生图/index.md`
+  - `domains/视觉制作/domains/视觉制作/05-小红书风格AI生图/index/05-小红书风格AI生图/domains/视觉制作/05-小红书风格AI生图/index/domains/视觉制作/05-小红书风格AI生图/index.md`
+  - `domains/视觉制作/domains/视觉制作/05-小红书风格AI生图/index/05-小红书风格AI生图/domains/视觉制作/05-小红书风格AI生图/index/domains/视觉制作/domains/视觉制作/05-小红书风格AI生图/index/05-小红书风格AI生图/09-Agent使用模板：小红书风格生图.md`
+- Query/domains/视觉制作/04-AI生图风格库/01-极简北欧风/variants/shanju-light-kitchen-living/playbook entries:
+  - `queries/domains/视觉制作/domains/视觉制作/05-小红书风格AI生图/index/05-小红书风格AI生图/domains/视觉制作/05-小红书风格AI生图/index.md`
 
 ## Known Risks
 
@@ -74,9 +74,9 @@ status: active
 
 ## Self-Validation
 
-- Placeholder scan: passed for `domains/visual-production/xiaohongshu-image-generation/` and `queries/` (no mechanical shells detected).
+- Placeholder scan: passed for `domains/视觉制作/domains/视觉制作/05-小红书风格AI生图/index/05-小红书风格AI生图/domains/视觉制作/05-小红书风格AI生图/index/` and `queries/` (no mechanical shells detected).
 - Ingest contract: passed; validator produced non-blocking warnings because source unit IDs are not intended to appear verbatim in formal pages.
 - Representative term search: passed for 信息流、搜索承接、痛点型封面、关键词封面、评论区转化.
-- Obsidian route audit: target query page has backlinks from root index, visual-production index, directory index, and Agent usage template; outgoing links resolve in active `/Users/pechen/wiki` vault, with global pre-existing unresolved warnings outside this ingest.
-- Index/log check: root index, visual-production index, and log updated.
+- Obsidian route audit: target query page has backlinks from root domains/视觉制作/05-小红书风格AI生图/index, domains/视觉制作/domains/视觉制作/05-小红书风格AI生图/index/domains/视觉制作/05-小红书风格AI生图/index domains/视觉制作/05-小红书风格AI生图/index, directory domains/视觉制作/05-小红书风格AI生图/index, and Agent usage template; outgoing links resolve in active `/Users/pechen/wiki` vault, with global pre-existing unresolved warnings outside this ingest.
+- Index/log check: root domains/视觉制作/05-小红书风格AI生图/index, domains/视觉制作/domains/视觉制作/05-小红书风格AI生图/index/domains/视觉制作/05-小红书风格AI生图/index domains/视觉制作/05-小红书风格AI生图/index, and log updated.
 - Remaining gaps: no source coverage gaps known; future enrichment can add product-category examples and performance-tested 小红书 case data.

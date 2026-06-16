@@ -2,7 +2,7 @@
 
 - Raw source: `raw/books/cross-border-ecommerce-sme-globalization-2026/source.epub`
 - Adapter: `llm-wiki-ingest/adapters/book.md`
-- Formal directory: `domains/ecommerce-ops/learning-paths/cross-border-ecommerce-sme-globalization/`
+- Formal directory: `domains/电商运营/20-跨境电商/01-中小企业跨境出海/domains/视觉制作/05-小红书风格AI生图/index/`
 - Source profile: `_meta/extraction-notes/cross-border-ecommerce-sme-globalization-2026/source-profile.md`
 - Source inventory: `_meta/extraction-notes/cross-border-ecommerce-sme-globalization-2026/source-inventory.md`
 - Chapter inventory: `_meta/extraction-notes/cross-border-ecommerce-sme-globalization-2026/chapter-inventory.md`
@@ -13,15 +13,15 @@
 
 ## Formal pages created/updated
 
-- `domains/ecommerce-ops/learning-paths/cross-border-ecommerce-sme-globalization/index.md`
-- `domains/ecommerce-ops/learning-paths/cross-border-ecommerce-sme-globalization/01-cross-border-ecommerce-opportunity-and-entry-model.md`
-- `domains/ecommerce-ops/learning-paths/cross-border-ecommerce-sme-globalization/02-market-research-product-localization-and-brand-entry.md`
-- `domains/ecommerce-ops/learning-paths/cross-border-ecommerce-sme-globalization/03-digital-marketing-growth-system.md`
-- `domains/ecommerce-ops/learning-paths/cross-border-ecommerce-sme-globalization/04-cross-border-logistics-capability-system.md`
-- `domains/ecommerce-ops/learning-paths/cross-border-ecommerce-sme-globalization/05-localization-operation-and-user-retention.md`
-- `domains/ecommerce-ops/learning-paths/cross-border-ecommerce-sme-globalization/06-ip-payment-compliance-and-risk-protection.md`
-- `domains/ecommerce-ops/learning-paths/cross-border-ecommerce-sme-globalization/07-cross-border-platform-and-service-provider-case-library.md`
-- `domains/ecommerce-ops/learning-paths/cross-border-ecommerce-sme-globalization/08-agent-usage-template.md`
+- `domains/电商运营/20-跨境电商/01-中小企业跨境出海/domains/视觉制作/05-小红书风格AI生图/index/domains/视觉制作/05-小红书风格AI生图/index.md`
+- `domains/电商运营/20-跨境电商/01-中小企业跨境出海/01-跨境电商机会与入局模型.md`
+- `domains/电商运营/20-跨境电商/01-中小企业跨境出海/02-市场研究、产品本地化与品牌进入.md`
+- `domains/电商运营/20-跨境电商/01-中小企业跨境出海/03-数字营销增长体系.md`
+- `domains/电商运营/20-跨境电商/01-中小企业跨境出海/04-跨境物流能力体系.md`
+- `domains/电商运营/20-跨境电商/01-中小企业跨境出海/05-本地化运营与用户留存.md`
+- `domains/电商运营/20-跨境电商/01-中小企业跨境出海/06-IP、支付、合规与风险保护.md`
+- `domains/电商运营/20-跨境电商/01-中小企业跨境出海/07-跨境平台与服务商案例库.md`
+- `domains/电商运营/20-跨境电商/01-中小企业跨境出海/08-Agent使用模板：中小企业跨境出海诊断.md`
 
 ## Known unresolved items
 
