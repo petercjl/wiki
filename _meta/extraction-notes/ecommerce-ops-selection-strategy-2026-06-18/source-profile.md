@@ -1,0 +1,23 @@
+# Source Profile｜电商运营与选品策略深度解析
+
+- source title: 原文_电商运营与选品策略深度解析
+- source slug: `ecommerce-ops-selection-strategy-2026-06-18`
+- raw source:
+  - `raw/transcripts/ecommerce-ops-selection-strategy-2026-06-18/transcript.md`
+  - `raw/transcripts/ecommerce-ops-selection-strategy-2026-06-18/source.docx`
+- source type: course/workshop transcript, noisy ASR, Chinese
+- adapter: `llm-wiki-ingest/adapters/transcript.md`
+- extracted length: about 40k Chinese characters, 333 timestamped paragraphs
+- timestamp range: 00:01-171:22
+- domain placement: `domains/电商运营/01-通用电商方法/04-选品与运营增长/`
+- alternative domains: `domains/视觉制作/01-电商视觉基础/`, `domains/品牌策略/03-产品战略与大单品/`
+- fusion disposition: create new learning path; cross-link existing visual and brand/product-strategy memories instead of destructive merge
+- sensitivity: contains merchant/classroom examples and names after ASR; formal pages neutralize identities and keep source trace in raw
+- time sensitivity: business method is durable; platform traffic and current market data require live validation before execution
+- expected formal artifacts:
+  - learning path index
+  - main-image diagnosis and selling-point proof page
+  - selection market grading page
+  - selection database and AB/S款 operating page
+  - assistant/operation team training SOP page
+  - Agent-use template
