@@ -719,3 +719,27 @@
 - Created: `domains/财税与经营财务/01-电商财税合规/09-成品油零售交易即开票规则.md`
 - Updated: `domains/财税与经营财务/index.md`, `index.md`
 - Notes: 将官方 Q&A 编译为发票合规与系统需求拆解 playbook，覆盖乐企自用/联用、交易/支付即开票、加油卡、现金/对公交易、换开、汇总开票和 2026-11-01 过渡期；执行前需复核最新税务机关口径。
+
+## [2026-06-16] optimize | 成品油零售交易即开票入库记录按 Memory-First 规则补强
+- Updated: `_meta/extraction-notes/chinatax-refined-oil-retail-transaction-invoice-2026/source-profile.md`
+- Updated: `_meta/extraction-notes/chinatax-refined-oil-retail-transaction-invoice-2026/formal-page-plan.md`
+- Updated: `_meta/extraction-notes/chinatax-refined-oil-retail-transaction-invoice-2026/audit-handoff.md`
+- Notes: 根据新版 `llm-wiki-ingest` 的 Memory-First Placement And Fusion 约束，补充知识域分类、备选域判断、既有记忆搜索结果、`create-new` 融合处置、关联式融合说明和 audit handoff contract 字段；正式页路径和正文结构无需调整。
+
+## [2026-06-17] compile | Peter 的 Skill 世界观
+- Created: `domains/AI Agent工程/03-Skill设计/00-Peter的Skill世界观.md`
+- Updated: `domains/AI Agent工程/index.md`
+- Updated: `index.md`
+- Notes: 沉淀 Peter 对 skill 的上位理解：skill 是大模型执行复杂任务的说明书、定向知识库和可演化执行知识体；其结构应包含主线、节点、分支、工具/脚本、补丁、QA 和回主线机制，并明确 skill 与固定工作流的差异和组合关系。
+
+## [2026-06-17] optimize | Peter 的 Skill 世界观补充测试原则
+- Updated: `domains/AI Agent工程/03-Skill设计/00-Peter的Skill世界观.md`
+- Notes: 增补 skill 测试世界观：区分设计会话冒烟测试、落盘验证、干净会话回归测试和问题回写，防止上下文污染与“对话中手动补救但未修改 SKILL.md”的假阳性。
+
+## [2026-06-18] ingest | 电商运营与选品策略深度解析
+- Source: `raw/transcripts/ecommerce-ops-selection-strategy-2026-06-18/transcript.md` and original docx archive.
+- Adapter: `llm-wiki-ingest/adapters/transcript.md`.
+- Created: `_meta/extraction-notes/ecommerce-ops-selection-strategy-2026-06-18/` source profile, segment plan, micro-segment plan, inventory, coverage matrix, omission audit, formal page plan, and audit handoff.
+- Created: `domains/电商运营/01-通用电商方法/04-选品与运营增长/` index and `01-电商运营与选品策略深度解析/` learning path with 5 formal pages.
+- Updated: `domains/电商运营/index.md`, `index.md`.
+- Notes: 将 171 分钟左右的噪声课程转写重构为主图诊断、卖点证据链、市场分层、选品库、AB/S款、运营助理三个月训练和 Agent 诊断模板；课堂组织和不可还原 ASR 噪声仅保留 raw。

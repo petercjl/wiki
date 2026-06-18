@@ -1,7 +1,7 @@
 # Wiki Index
 
 > Content catalog. Every formal wiki page should be listed here.
-> Last updated: 2026-06-16
+> Last updated: 2026-06-18
 > Total formal pages: 286
 
 ## Domains
@@ -25,6 +25,7 @@
 
 - [[domains/AI Agent工程/index|AI Agent 工程知识域]]：LLM Wiki、Skill、工具链、自动化工作流与多 Agent 工程方法。
 - [[domains/AI Agent工程/01-知识系统/01-LLM Wiki个人知识库运行闭环|LLM Wiki 个人知识库运行闭环]]：用 Ingest / Query / Lint 三个动作，把知识库从“资料堆”变成持续复利的个人知识系统。
+- [[domains/AI Agent工程/03-Skill设计/00-Peter的Skill世界观|Peter 的 Skill 世界观]]：将 skill 定义为大模型执行复杂任务的说明书、定向知识库和可演化执行知识体，强调主线清晰、异常补丁、工作流节点和回主线机制。
 - [[domains/AI Agent工程/03-Skill设计/01-LLM Wiki Skill同源包|LLM Wiki Skill 同源包]]：Codex 维护、GitHub 分发、SealSeek/Hermes 安装使用的 LLM Wiki skill 收敛规则与发布入口。
 - [[domains/AI Agent工程/03-Skill设计/02-无限画板Skill写作知识库/index|无限画板 Skill 写作知识库]]：从历史无限画板 skill 中沉淀出的写作规则、工具规范、任务范式、prompt 模板、反坑清单和质量检查。
 - [[domains/AI Agent工程/05-工具链/01-OpenAI图像生成API集成指南|OpenAI 图像生成 API 集成指南]]：Image API 与 Responses API 的选择、参数、编辑、流式、错误处理和成本判断。
@@ -91,6 +92,7 @@
 ## 电商运营
 
 - [[domains/电商运营/01-通用电商方法/index|通用电商方法]]：平台无关或跨平台可复用的电商经营、咨询、渠道、结算和财务接口方法。
+- [[domains/电商运营/01-通用电商方法/04-选品与运营增长/index|选品与运营增长]]：平台无关的选品库、打款机制、主图卖点、运营组织训练和增长诊断方法。
 - [[domains/电商运营/01-通用电商方法/03-平台结算与经营财务/01-电商平台结算时间口径财务核算方法|电商平台结算时间口径财务核算方法]]：基于三份 XMind 重构的财务核算 playbook，覆盖平台结算口径、快麦成本匹配、保证金、特殊账户、推广费和五个平台账单核对。
 - [[domains/电商运营/01-通用电商方法/02-平台渠道与入驻合作/index|平台入驻与自营合作知识库]]：天猫超市、京东自营等平台供应商/自营合作模式的入驻判断框架。
 - [[domains/电商运营/02-淘宝天猫/03-天猫超市入驻合作/01-天猫超市合作与入驻说明|天猫超市合作与入驻说明]]：天猫超市供应商模式、费用口径、仓配售后、平台入口、入驻门槛和适配检查清单。
