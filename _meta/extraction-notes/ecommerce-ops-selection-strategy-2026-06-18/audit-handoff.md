@@ -27,3 +27,18 @@
   - 诊断主图点击率/转化率低的原因。
   - 设计运营助理三个月训练计划。
   - 基于竞品和用户评价拆解选品机会、卖点和打款路径。
+
+
+## Audit addendum 2026-06-18
+
+After Peter reminded that the ingest principle is non-omission and constructive enrichment, the first compile was re-audited against raw transcript terms and timestamp anchors. The following missing or under-expanded units were patched into formal pages:
+
+- Marketing force / 营销力 as a core concept, including research, product support, proof expression and conversion explanation.
+- Customer definition as scenario + pain point + price willingness + solution, not demographic profile.
+- Free-search decline, paid ratio pressure, compliance/complaint pressure and the need to improve product quality and marketing force.
+- Numeric anchors: 1000万-1500万 annual operator efficiency, 150万/month enterprise/operator opportunity pool, 5-10万/day before S款 competition, S款 10万+ as source-context threshold.
+- S/A/B款 selection library layering and role split between main operator and assistant.
+- Old product and competitor data fields: sales, gross margin, channel data, store base, category-line completeness and link count.
+- Fee-ratio control and SKU price-combination logic: entry SKU lowers threshold, higher-value SKU/combination lifts gross margin.
+- Double-rate rule: click/conversion readiness before traffic amplification.
+- AI research must return to concrete selection, image, selling-point, review and AB-test actions.

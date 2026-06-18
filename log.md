@@ -743,3 +743,13 @@
 - Created: `domains/电商运营/01-通用电商方法/04-选品与运营增长/` index and `01-电商运营与选品策略深度解析/` learning path with 5 formal pages.
 - Updated: `domains/电商运营/index.md`, `index.md`.
 - Notes: 将 171 分钟左右的噪声课程转写重构为主图诊断、卖点证据链、市场分层、选品库、AB/S款、运营助理三个月训练和 Agent 诊断模板；课堂组织和不可还原 ASR 噪声仅保留 raw。
+
+## [2026-06-18] audit-patch | 电商运营与选品策略深度解析反浓缩补强
+- Trigger: Peter reminded that LLM Wiki ingest must not omit information and should enrich unclear source logic rather than condense it.
+- Patched: `domains/电商运营/01-通用电商方法/04-选品与运营增长/01-电商运营与选品策略深度解析/01-主图诊断与卖点证据链.md` with 营销力 and 客户定义 sections.
+- Patched: `02-市场分层与选品策略.md` with 免费搜索变少、付费占比、双率达标 and numeric anchors including 1000万-1500万, 150万, 5-10万/day, S款 10万+.
+- Patched: `03-选品库与月度打款机制.md` with S/A/B 款分层、选品库体量、渠道数据、店铺基数、品类线完善度、费比 and 毛利率 logic.
+- Patched: `04-运营助理三个月训练SOP.md` with annual SOP and operator/assistant responsibility split.
+- Patched: `05-Agent使用模板：选品与运营增长诊断.md` with SKU price-combination and AI research-to-action checks.
+- Updated: coverage matrix, knowledge-unit inventory, omission audit, and audit handoff with audit addendum.
+- QA: placeholder scan remains `SHELL: 0`, `THIN: 0`, `OK: 7`; route audit target has no warnings.

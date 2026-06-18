@@ -20,3 +20,18 @@
 | KU16 | 164:32-170:06 | Operation role growth path and selection library responsibility | organization method | 04-运营助理三个月训练SOP.md | formalized | 组织训练 |
 | NOISE01 | multiple | classroom logistics, food, seat, paper cup, repeated confirmations | noise | raw/transcripts/ecommerce-ops-selection-strategy-2026-06-18/transcript.md | raw-only | 无业务知识价值 |
 | UNK01 | multiple | uncertain names/shop names/product names from ASR | uncertain | _meta/extraction-notes/ecommerce-ops-selection-strategy-2026-06-18/omission-audit.md | omitted-with-reason | 不可可靠还原，正式页中性化 |
+
+
+## Audit addendum 2026-06-18
+
+After Peter reminded that the ingest principle is non-omission and constructive enrichment, the first compile was re-audited against raw transcript terms and timestamp anchors. The following missing or under-expanded units were patched into formal pages:
+
+- Marketing force / 营销力 as a core concept, including research, product support, proof expression and conversion explanation.
+- Customer definition as scenario + pain point + price willingness + solution, not demographic profile.
+- Free-search decline, paid ratio pressure, compliance/complaint pressure and the need to improve product quality and marketing force.
+- Numeric anchors: 1000万-1500万 annual operator efficiency, 150万/month enterprise/operator opportunity pool, 5-10万/day before S款 competition, S款 10万+ as source-context threshold.
+- S/A/B款 selection library layering and role split between main operator and assistant.
+- Old product and competitor data fields: sales, gross margin, channel data, store base, category-line completeness and link count.
+- Fee-ratio control and SKU price-combination logic: entry SKU lowers threshold, higher-value SKU/combination lifts gross margin.
+- Double-rate rule: click/conversion readiness before traffic amplification.
+- AI research must return to concrete selection, image, selling-point, review and AB-test actions.
