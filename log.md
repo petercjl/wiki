@@ -762,3 +762,17 @@
 - Created: Codex skill `/Users/pechen/.codex/skills/joinquant-strategy` with rules reference and static checker script.
 - Updated: `SCHEMA.md`, `index.md`.
 - Notes: 将聚宽 API 文档编译为“本地写策略后复制到聚宽回测”的执行层，覆盖策略生命周期、调度函数、真实价格、防未来函数、数据 API、交易 API、研究/回测环境边界和常见报错；详细期货/Tick/融资融券手册待真实策略需求触发后继续拆分。
+
+## [2026-06-19] ingest | JoinQuant 凯利公式与量化仓位管理
+- Source: `raw/webpages/joinquant/joinquant-kelly-position-sizing-2026-06-19.md` from JoinQuant 量化课堂 clipping.
+- Adapter: `llm-wiki-ingest/adapters/web-clipping.md`.
+- Created: `_meta/extraction-notes/joinquant-kelly-position-sizing-2026-06-19/` source profile, source inventory, knowledge-unit inventory, coverage matrix, omission audit, formal page plan, and audit handoff.
+- Created: `domains/量化交易/02-策略风控与资金管理/index.md`.
+- Created: `domains/量化交易/02-策略风控与资金管理/01-凯利公式与量化仓位管理.md`.
+- Updated: `domains/量化交易/index.md`, `index.md`.
+- Notes: 将凯利公式文章编译为量化仓位管理 playbook，覆盖赌博特殊公式、交易一般公式、股票信号到下注模型的转换、信号频率、杠杆折扣、黑天鹅与止损执行、可承受损失本金口径，以及年度高低点等错误强假设的审计。
+
+## [2026-06-19] compile | 股票量化知识地图与社区策略入库框架
+- Created: `domains/量化交易/00-股票量化知识地图.md`.
+- Updated: `domains/量化交易/index.md`, `index.md`.
+- Notes: 为后续聚宽社区策略入库建立股票量化知识槽位，覆盖市场与标的池、数据与特征、信号假设、组合构建、交易执行、风控资金管理、回测评估和工程可复现；明确社区 `.py` 策略应先原始保留、语义冻结、只增强 `HUMAN|`/`JQ_AUDIT|` 日志，经聚宽回测日志验证后再沉淀为策略卡、方法页、平台经验或评估样本。

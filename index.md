@@ -2,7 +2,7 @@
 
 > Content catalog. Every formal wiki page should be listed here.
 > Last updated: 2026-06-19
-> Total formal pages: 292
+> Total formal pages: 295
 
 ## Domains
 
@@ -11,7 +11,7 @@
 - [[domains/视觉制作/index|视觉制作知识域]]：主图、详情页、AI 生图、拍摄、版式和视觉转化方法。
 - [[domains/品牌策略/index|品牌策划知识域]]：品牌定位、人群、心智、内容策略和品牌表达方法。
 - [[domains/AI Agent工程/index|AI Agent 工程知识域]]：LLM Wiki、Skill、工具链、自动化工作流与多 Agent 工程方法。
-- [[domains/量化交易/index|量化交易知识域]]：量化交易平台、策略实现、回测兼容、数据 API 和交易 API。
+- [[domains/量化交易/index|量化交易知识域]]：量化交易平台、策略实现、回测兼容、数据 API、交易 API 和资金管理。
 
 ## Shared
 
@@ -44,10 +44,13 @@
 ## Quant Trading
 
 - [[domains/量化交易/index|量化交易知识域]]：量化平台、策略、回测兼容和交易 API 的长期知识入口。
+- [[domains/量化交易/00-股票量化知识地图|股票量化知识地图]]：股票量化策略的市场、数据、信号、组合、执行、风控、评估和社区策略入库框架。
 - [[domains/量化交易/01-聚宽/index|聚宽 JoinQuant]]：面向聚宽回测/模拟环境的策略写作、API 能力地图和报错排查。
 - [[domains/量化交易/01-聚宽/01-聚宽策略写作与回测兼容规范|聚宽策略写作与回测兼容规范]]：Codex 编写可复制到聚宽平台运行策略时必须遵守的结构、取数、下单和本地检查规则。
 - [[domains/量化交易/01-聚宽/02-聚宽API能力地图|聚宽 API 能力地图]]：按生命周期、调度、设置、数据、交易、文件和资产类别组织聚宽 API。
 - [[domains/量化交易/01-聚宽/03-聚宽策略报错与排查|聚宽策略报错与排查]]：聚宽编译、回测、取数、下单和模拟盘常见错误的诊断矩阵。
+- [[domains/量化交易/02-策略风控与资金管理/index|策略风控与资金管理]]：量化策略中的仓位、资金管理、止盈止损、黑天鹅和模型假设审计。
+- [[domains/量化交易/02-策略风控与资金管理/01-凯利公式与量化仓位管理|凯利公式与量化仓位管理]]：把交易信号转成可下注模型，并用凯利公式估算理论仓位和实盘折扣。
 - [[queries/joinquant-strategy-agent-entry|聚宽策略 Agent 使用入口]]：未来 Agent 写、审、改聚宽策略时的读取入口和交付标准。
 
 ## Visual Production
