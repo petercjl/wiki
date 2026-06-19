@@ -28,6 +28,7 @@
 
 ## Skill 设计
 
+- [[domains/AI Agent工程/03-Skill设计/00-Peter的Skill世界观|Peter 的 Skill 世界观]]：把 skill 定义为大模型执行复杂任务的说明书、定向知识库和可演化执行知识体，强调主线、补丁、工作流节点和回主线机制。
 - [[domains/AI Agent工程/90-Skill注册表/01-个人与项目Skill注册库|个人/项目 Skill 注册库]]：只收录 Peter 自己创建、让 Agent 为项目定制、或明显服务于 Peter 项目/业务流程的 skill，是日常检索“有没有类似 skill”的优先入口。
 - [[domains/AI Agent工程/90-Skill注册表/02-跨Agent Skill注册库|跨 Agent Skill 注册库]]：统一检索 Codex、Hermes、Lark Agent、OpenClaw、SealSeek、Claude Code 的 skill，定位原始 `SKILL.md` 并判断复用或迁移可能。
 - [[domains/AI Agent工程/90-Skill注册表/03-Codex Skill注册页|Codex Skill 注册页]]：Codex 本地业务 skill 与系统 skill 的检索描述、输入方式、关键词和文件位置。

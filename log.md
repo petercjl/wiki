@@ -753,3 +753,12 @@
 - Patched: `05-Agent使用模板：选品与运营增长诊断.md` with SKU price-combination and AI research-to-action checks.
 - Updated: coverage matrix, knowledge-unit inventory, omission audit, and audit handoff with audit addendum.
 - QA: placeholder scan remains `SHELL: 0`, `THIN: 0`, `OK: 7`; route audit target has no warnings.
+
+## [2026-06-19] ingest | 聚宽 API 文档与策略写作 Skill
+- Source: `raw/webpages/joinquant/joinquant-api-2026-06-19.md` and `raw/api/joinquant/joinquant-api-2026-06-19.md` from JoinQuant official API clipping.
+- Adapter: `llm-wiki-ingest/adapters/web-clipping.md` plus `llm-wiki-ingest/adapters/api-docs.md`.
+- Created: `_meta/extraction-notes/joinquant-api-2026-06-19/` source profile, source inventory, knowledge-unit inventory, coverage matrix, omission audit, formal page plan, and audit handoff.
+- Created: `domains/量化交易/index.md`, `domains/量化交易/01-聚宽/index.md`, `01-聚宽策略写作与回测兼容规范.md`, `02-聚宽API能力地图.md`, `03-聚宽策略报错与排查.md`, and `queries/joinquant-strategy-agent-entry.md`.
+- Created: Codex skill `/Users/pechen/.codex/skills/joinquant-strategy` with rules reference and static checker script.
+- Updated: `SCHEMA.md`, `index.md`.
+- Notes: 将聚宽 API 文档编译为“本地写策略后复制到聚宽回测”的执行层，覆盖策略生命周期、调度函数、真实价格、防未来函数、数据 API、交易 API、研究/回测环境边界和常见报错；详细期货/Tick/融资融券手册待真实策略需求触发后继续拆分。
