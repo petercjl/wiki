@@ -50,6 +50,13 @@
 - [[domains/AI Agent工程/90-Skill注册表/07-SealSeek Skill注册页|SealSeek Skill 注册页]]：SealSeek 多来源 skill 的检索描述、输入方式、关键词和文件位置，覆盖 skill_pool、workspace、active/customized、standalone 和迁移包。
 - [[domains/AI Agent工程/90-Skill注册表/08-Claude Code Skill注册页|Claude Code Skill 注册页]]：Claude Code plugin marketplace skill 的检索描述、输入方式、关键词和文件位置。
 
+## 自动化工作流
+
+- [[domains/AI Agent工程/06-自动化工作流/index|AI Agent 自动化工作流]]：沉淀目标、工具、证据、评审、循环、停止条件和经验回写组成的执行系统。
+- [[domains/AI Agent工程/06-自动化工作流/01-Loop Engineering个人方法论|Loop Engineering 个人方法论]]：把 loop engineering 定义为围绕可证据化目标设计 Agent 执行、评审、修正、记录和停止的循环系统。
+- [[domains/AI Agent工程/06-自动化工作流/02-Loop项目规划模板|Loop 项目规划模板]]：新建 loop 项目前，要求 Agent 先定义目标契约、证据面、工作基座、执行节点、评审节点、轮数预算和入库规则。
+- [[queries/Loop项目启动入口|Loop 项目启动入口]]：Peter 要求“做一个 loop”“循环优化”“多轮自动改进”时，Agent 应优先读取的执行入口。
+
 ## Toolchain
 
 - [[domains/AI Agent工程/05-工具链/01-OpenAI图像生成API集成指南|OpenAI 图像生成 API 集成指南]]：Image API 与 Responses API 的选择、参数、编辑、流式、错误处理和成本判断。
