@@ -754,6 +754,18 @@
 - Updated: coverage matrix, knowledge-unit inventory, omission audit, and audit handoff with audit addendum.
 - QA: placeholder scan remains `SHELL: 0`, `THIN: 0`, `OK: 7`; route audit target has no warnings.
 
+## [2026-06-21] ingest | Loop Engineering 个人方法论
+- Source: `raw/articles/loop-engineering-2026-06-21/loop-engineering-research-2026-06-21.md` from local research notes and current web/doc research on loop engineering, evaluator-optimizer, agent harnesses, Codex Goals, telemetry/eval loops, and token-cost risks.
+- Adapter: `llm-wiki-ingest/adapters/web-clipping.md` plus `llm-wiki-ingest/adapters/unknown-source.md`.
+- Created: `_meta/extraction-notes/loop-engineering-2026-06-21/` source profile, source inventory, knowledge-unit inventory, coverage matrix, omission audit, formal page plan, and audit handoff.
+- Created: `domains/AI Agent工程/06-自动化工作流/index.md`.
+- Created: `domains/AI Agent工程/06-自动化工作流/01-Loop Engineering个人方法论.md`.
+- Created: `domains/AI Agent工程/06-自动化工作流/02-Loop项目规划模板.md`.
+- Created: `queries/Loop项目启动入口.md`.
+- Updated: `domains/AI Agent工程/index.md`, `index.md`.
+- Notes: 将 Peter 已在使用的代码工具开发、DMP 竞品分析、聚宽策略优化三类循环统一抽象为“目标契约 -> 工作基座 -> 执行 -> 证据采集 -> 独立评审 -> 决策 -> 下一轮或停止 -> 总结入库”的个人 loop engineering 方法论；新增启动入口要求未来 Agent 先规划 loop 场景、证据面、轮数预算、停止条件和经验回写，再开始项目。
+- Patch: 根据 Peter 反馈补充范围规则，明确代码工具、DMP、电商运营、聚宽量化和视觉制作只是案例/线索，不限制知识库和方法论的使用范围；新领域仍按目标、证据、执行、评审、回流和停止条件抽象 loop。
+
 ## [2026-06-19] ingest | 聚宽 API 文档与策略写作 Skill
 - Source: `raw/webpages/joinquant/joinquant-api-2026-06-19.md` and `raw/api/joinquant/joinquant-api-2026-06-19.md` from JoinQuant official API clipping.
 - Adapter: `llm-wiki-ingest/adapters/web-clipping.md` plus `llm-wiki-ingest/adapters/api-docs.md`.
@@ -776,3 +788,56 @@
 - Created: `domains/量化交易/00-股票量化知识地图.md`.
 - Updated: `domains/量化交易/index.md`, `index.md`.
 - Notes: 为后续聚宽社区策略入库建立股票量化知识槽位，覆盖市场与标的池、数据与特征、信号假设、组合构建、交易执行、风控资金管理、回测评估和工程可复现；明确社区 `.py` 策略应先原始保留、语义冻结、只增强 `HUMAN|`/`JQ_AUDIT|` 日志，经聚宽回测日志验证后再沉淀为策略卡、方法页、平台经验或评估样本。
+
+## [2026-06-19] ingest | QMT四季发财v3 ETF轮动策略案例
+- Source: `raw/quant-strategies/qmt-four-seasons-v3/` from local JoinQuant strategy workspace, r3 summary script, exported backtest summaries, transaction/position-derived analysis, and log completeness check.
+- Adapter: `llm-wiki-ingest/adapters/markdown-doc.md` plus `llm-wiki-ingest/adapters/spreadsheet-report.md`.
+- Created: `_meta/extraction-notes/qmt-four-seasons-v3/` source profile, coverage matrix, omission audit, formal page plan, and audit handoff.
+- Created: `domains/量化交易/03-策略案例/index.md`.
+- Created: `domains/量化交易/03-策略案例/01-QMT四季发财ETF轮动策略案例.md`.
+- Created: `domains/量化交易/01-聚宽/04-聚宽社区策略取证与日志瘦身方法.md`.
+- Updated: `domains/量化交易/index.md`, `domains/量化交易/01-聚宽/index.md`, `index.md`.
+- Notes: 将 QMT四季发财v3 编译为可复用策略案例，覆盖 ETF 单标的轮动、长期动量稳定性得分、短期动量/RSI/ATR 风控、2020-2025 回测绩效、标的贡献、订单失败边界；同时沉淀 r3 summary-only 日志方法，明确收益/交易/持仓导出负责结果，`JQ_AUDIT` 只负责关键决策路径。
+
+## [2026-06-19] audit-patch | QMT四季发财v3 策略规则反浓缩补强
+- Patched: `domains/量化交易/03-策略案例/01-QMT四季发财ETF轮动策略案例.md`.
+- Patched: `_meta/extraction-notes/qmt-four-seasons-v3/coverage-matrix.md`.
+- Patched: `_meta/extraction-notes/qmt-four-seasons-v3/knowledge-unit-inventory.md`.
+- Notes: 根据 Peter 反馈补强策略页，新增实际 ETF 池、信号计算顺序、候选过滤顺序、买入策略、卖出策略、固定止损、ATR 止损、止盈边界、仓位资金管理、下单保护、已实现但未启用模块和复盘问题清单，避免知识页只保留绩效摘要。
+
+## [2026-06-20] ingest | GitHub 量化理论资料与 ETF 策略研究方法
+- Source: `raw/github/quant-theory-github-sources-2026-06-20/` from GitHub repositories including Alphalens, Pyfolio, Qlib, PyPortfolioOpt, ml4t/backtest, and purged-cross-validation.
+- Adapter: `llm-wiki-ingest` web/GitHub source capture plus markdown formal compilation.
+- Created: `_meta/extraction-notes/quant-theory-github-sources-2026-06-20/` source profile, source inventory, coverage matrix, omission audit, formal page plan, and audit handoff.
+- Created: `domains/量化交易/04-量化理论基础/` index plus five formal pages on 策略收益来源分解、选池/信号/组合构建、买卖器执行风控、策略评估归因、避免过拟合与回测陷阱.
+- Updated: `domains/量化交易/index.md`, `index.md`.
+- Notes: 将开源量化工具背后的方法论编译为 Peter ETF 策略研究主线：先验证动态 ETF 池和 alpha 信号，再优化买卖器；实验必须记录历史时点选池、成本前后、换手、分组收益、IC、参数搜索空间和样本外/滚动验证，避免人工预选 ETF 池和多重试验带来的回测幻觉。
+
+## [2026-06-20] audit-patch | 量化理论基础从 ETF 研究提示升级为完整基础框架
+- Trigger: Peter 指出上一版知识库过于粗糙，且不应只围绕 ETF，应先补完整量化基础知识。
+- Source: `raw/github/quant-foundations-github-sources-2026-06-20/` with 12 shallow-cloned GitHub repositories: Zipline, Backtrader, bt, Alphalens, Pyfolio, Empyrical, ffn, PyPortfolioOpt, Riskfolio-Lib, Qlib, Machine Learning for Trading, and purged-cross-validation.
+- Created: `_meta/extraction-notes/quant-foundations-github-sources-2026-06-20/` source profile, source inventory, knowledge-unit inventory, coverage matrix, omission audit, formal page plan, and audit handoff.
+- Replaced: `domains/量化交易/04-量化理论基础/` old ETF-centered five-page structure with a 12-page quant foundations sequence covering market/assets, data/features, return/risk statistics, strategy hypotheses, alpha research, portfolio construction, execution/costs, backtesting, performance attribution, overfitting/leakage, and research workflow.
+- Updated: `domains/量化交易/index.md`, root `index.md`, and `queries/joinquant-strategy-agent-entry.md`.
+- QA: ingest contract OK; placeholder scan `SHELL:0 THIN:0 OK:13`; route audit target warnings none.
+- Notes: 新结构把 ETF 轮动降级为策略类型中的一个案例，不再作为理论基础的中心；后续策略研究必须先明确市场资产、数据口径、信号假设、组合/仓位、执行成本、回测真实性和样本外验证。
+
+## [2026-06-20] ingest | 市场状态识别、策略失效与状态自适应
+- Source: `raw/github/regime-adaptation-sources-2026-06-20/`, `raw/articles/quant-regime-adaptation-2026-06-20/`, and `raw/papers/quant-regime-adaptation-2026-06-20/`.
+- Adapter: `llm-wiki-ingest` with GitHub/Markdown and web clipping source handling.
+- Created: `_meta/extraction-notes/regime-adaptation-sources-2026-06-20/` source profile, inventory, coverage matrix, omission audit, formal page plan, and audit handoff.
+- Created: `domains/量化交易/04-量化理论基础/13-市场状态识别与策略失效.md`.
+- Created: `domains/量化交易/04-量化理论基础/14-状态自适应策略与动态资产配置.md`.
+- Created: `domains/量化交易/04-量化理论基础/15-策略失效监控与滚动验证.md`.
+- Updated: `domains/量化交易/04-量化理论基础/index.md`, `domains/量化交易/index.md`, `index.md`.
+- Notes: 将固定策略在某些年份失效的问题从项目语境中抽离，编译为通用量化方法论，覆盖 HMM/GMM/KMeans/Jump Model、regime filter、strategy router、expert models、dynamic allocation、no-trade regime、现金替代资产、主评估周期和 walk-forward 验证纪律；MDPI 页面下载返回 403，记录为 unresolved，未作为正式来源。
+
+## [2026-06-20] ingest | 达摩盘 AI 内部工具与竞品数据挖掘能力
+- Source: `raw/data/dmp-ai-internal-tools-2026-06-20/DMP_AI_internal_tools.md` from local research document `/Users/pechen/AI/Research/DMP_AI_internal_tools.md`.
+- Adapter: `llm-wiki-ingest/adapters/markdown-doc.md`.
+- Created: `_meta/extraction-notes/dmp-ai-internal-tools-2026-06-20/` source profile, source inventory, knowledge-unit inventory, coverage matrix, omission audit, formal page plan, and audit handoff.
+- Created: `domains/电商运营/02-淘宝天猫/04-达摩盘AI/index.md`.
+- Created: `domains/电商运营/02-淘宝天猫/04-达摩盘AI/01-达摩盘AI内部工具与竞品数据挖掘手册.md`.
+- Created: `queries/达摩盘AI竞品数据挖掘.md`.
+- Updated: `domains/电商运营/index.md`, `domains/电商运营/02-淘宝天猫/index.md`, `domains/电商运营/02-淘宝天猫/02-淘宝营销工具/index.md`, `index.md`.
+- Notes: 将 3627 行 DMP AI 内部工具研究文档完整保留到 raw，并在正式手册中嵌入完整原文结构，覆盖 `tool_item_benchmark_dataquery`、`tool_crowd_audience_insight`、`tool_e_commerce_crowd_advertising_dataquery`、`tool_sql_query` 等工具及 VIEW/DEEPLINK 数据资产；新增查询入口用于未来继续挖掘竞品销售、搜索词、推广和人群数据。

@@ -1,0 +1,1305 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta content="text/html; charset=utf-8" http-equiv="content-type"/>
+<title>AI-Powered Energy Algorithmic Trading: Integrating Hidden Markov Models with Neural Networks</title>
+<!--Generated on Sun Nov  2 02:14:23 2025 by LaTeXML (version 0.8.8) http://dlmf.nist.gov/LaTeXML/.-->
+<meta content="width=device-width, initial-scale=1, shrink-to-fit=no" name="viewport"/>
+<link href="/static/browse/0.3.4/css/arxiv-html-papers-20250916.css" rel="stylesheet" type="text/css"/>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/1.3.3/html2canvas.min.js"></script>
+<script src="/static/browse/0.3.4/js/addons_new.js"></script>
+<script src="/static/browse/0.3.4/js/feedbackOverlay.js"></script>
+<base href="/html/2407.19858v6/"/></head>
+<body>
+<nav class="ltx_page_navbar">
+<nav class="ltx_TOC">
+<ol class="ltx_toclist">
+<li class="ltx_tocentry ltx_tocentry_section"><a class="ltx_ref" href="https://arxiv.org/html/2407.19858v6#S1" title="In AI-Powered Energy Algorithmic Trading: Integrating Hidden Markov Models with Neural Networks"><span class="ltx_text ltx_ref_title"><span class="ltx_tag ltx_tag_ref">1 </span>Introduction</span></a></li>
+<li class="ltx_tocentry ltx_tocentry_section">
+<a class="ltx_ref" href="https://arxiv.org/html/2407.19858v6#S2" title="In AI-Powered Energy Algorithmic Trading: Integrating Hidden Markov Models with Neural Networks"><span class="ltx_text ltx_ref_title"><span class="ltx_tag ltx_tag_ref">2 </span>Background</span></a>
+<ol class="ltx_toclist ltx_toclist_section">
+<li class="ltx_tocentry ltx_tocentry_subsection"><a class="ltx_ref" href="https://arxiv.org/html/2407.19858v6#S2.SS1" title="In 2 Background ‣ AI-Powered Energy Algorithmic Trading: Integrating Hidden Markov Models with Neural Networks"><span class="ltx_text ltx_ref_title"><span class="ltx_tag ltx_tag_ref">2.1 </span>Previous Research</span></a></li>
+<li class="ltx_tocentry ltx_tocentry_subsection"><a class="ltx_ref" href="https://arxiv.org/html/2407.19858v6#S2.SS2" title="In 2 Background ‣ AI-Powered Energy Algorithmic Trading: Integrating Hidden Markov Models with Neural Networks"><span class="ltx_text ltx_ref_title"><span class="ltx_tag ltx_tag_ref">2.2 </span>Challenges</span></a></li>
+<li class="ltx_tocentry ltx_tocentry_subsection"><a class="ltx_ref" href="https://arxiv.org/html/2407.19858v6#S2.SS3" title="In 2 Background ‣ AI-Powered Energy Algorithmic Trading: Integrating Hidden Markov Models with Neural Networks"><span class="ltx_text ltx_ref_title"><span class="ltx_tag ltx_tag_ref">2.3 </span>Research Gaps and Future Directions</span></a></li>
+<li class="ltx_tocentry ltx_tocentry_subsection"><a class="ltx_ref" href="https://arxiv.org/html/2407.19858v6#S2.SS4" title="In 2 Background ‣ AI-Powered Energy Algorithmic Trading: Integrating Hidden Markov Models with Neural Networks"><span class="ltx_text ltx_ref_title"><span class="ltx_tag ltx_tag_ref">2.4 </span>Tools and Hypotheses</span></a></li>
+</ol>
+</li>
+<li class="ltx_tocentry ltx_tocentry_section">
+<a class="ltx_ref" href="https://arxiv.org/html/2407.19858v6#S3" title="In AI-Powered Energy Algorithmic Trading: Integrating Hidden Markov Models with Neural Networks"><span class="ltx_text ltx_ref_title"><span class="ltx_tag ltx_tag_ref">3 </span>Methodology</span></a>
+<ol class="ltx_toclist ltx_toclist_section">
+<li class="ltx_tocentry ltx_tocentry_subsection"><a class="ltx_ref" href="https://arxiv.org/html/2407.19858v6#S3.SS1" title="In 3 Methodology ‣ AI-Powered Energy Algorithmic Trading: Integrating Hidden Markov Models with Neural Networks"><span class="ltx_text ltx_ref_title"><span class="ltx_tag ltx_tag_ref">3.1 </span>Universe Selection</span></a></li>
+<li class="ltx_tocentry ltx_tocentry_subsection">
+<a class="ltx_ref" href="https://arxiv.org/html/2407.19858v6#S3.SS2" title="In 3 Methodology ‣ AI-Powered Energy Algorithmic Trading: Integrating Hidden Markov Models with Neural Networks"><span class="ltx_text ltx_ref_title"><span class="ltx_tag ltx_tag_ref">3.2 </span>Alpha Generation</span></a>
+<ol class="ltx_toclist ltx_toclist_subsection">
+<li class="ltx_tocentry ltx_tocentry_subsubsection">
+<a class="ltx_ref" href="https://arxiv.org/html/2407.19858v6#S3.SS2.SSS1" title="In 3.2 Alpha Generation ‣ 3 Methodology ‣ AI-Powered Energy Algorithmic Trading: Integrating Hidden Markov Models with Neural Networks"><span class="ltx_text ltx_ref_title"><span class="ltx_tag ltx_tag_ref">3.2.1 </span>Model Architecture</span></a>
+<ol class="ltx_toclist ltx_toclist_subsubsection">
+<li class="ltx_tocentry ltx_tocentry_paragraph"><a class="ltx_ref" href="https://arxiv.org/html/2407.19858v6#S3.SS2.SSS1.Px1" title="In 3.2.1 Model Architecture ‣ 3.2 Alpha Generation ‣ 3 Methodology ‣ AI-Powered Energy Algorithmic Trading: Integrating Hidden Markov Models with Neural Networks"><span class="ltx_text ltx_ref_title">Hidden Markov Model</span></a></li>
+<li class="ltx_tocentry ltx_tocentry_paragraph"><a class="ltx_ref" href="https://arxiv.org/html/2407.19858v6#S3.SS2.SSS1.Px2" title="In 3.2.1 Model Architecture ‣ 3.2 Alpha Generation ‣ 3 Methodology ‣ AI-Powered Energy Algorithmic Trading: Integrating Hidden Markov Models with Neural Networks"><span class="ltx_text ltx_ref_title">PyTorch-Based Neural Network</span></a></li>
+</ol>
+</li>
+<li class="ltx_tocentry ltx_tocentry_subsubsection"><a class="ltx_ref" href="https://arxiv.org/html/2407.19858v6#S3.SS2.SSS2" title="In 3.2 Alpha Generation ‣ 3 Methodology ‣ AI-Powered Energy Algorithmic Trading: Integrating Hidden Markov Models with Neural Networks"><span class="ltx_text ltx_ref_title"><span class="ltx_tag ltx_tag_ref">3.2.2 </span>Data Management</span></a></li>
+<li class="ltx_tocentry ltx_tocentry_subsubsection"><a class="ltx_ref" href="https://arxiv.org/html/2407.19858v6#S3.SS2.SSS3" title="In 3.2 Alpha Generation ‣ 3 Methodology ‣ AI-Powered Energy Algorithmic Trading: Integrating Hidden Markov Models with Neural Networks"><span class="ltx_text ltx_ref_title"><span class="ltx_tag ltx_tag_ref">3.2.3 </span>Models Training</span></a></li>
+<li class="ltx_tocentry ltx_tocentry_subsubsection"><a class="ltx_ref" href="https://arxiv.org/html/2407.19858v6#S3.SS2.SSS4" title="In 3.2 Alpha Generation ‣ 3 Methodology ‣ AI-Powered Energy Algorithmic Trading: Integrating Hidden Markov Models with Neural Networks"><span class="ltx_text ltx_ref_title"><span class="ltx_tag ltx_tag_ref">3.2.4 </span>Insight Generation</span></a></li>
+</ol>
+</li>
+<li class="ltx_tocentry ltx_tocentry_subsection"><a class="ltx_ref" href="https://arxiv.org/html/2407.19858v6#S3.SS3" title="In 3 Methodology ‣ AI-Powered Energy Algorithmic Trading: Integrating Hidden Markov Models with Neural Networks"><span class="ltx_text ltx_ref_title"><span class="ltx_tag ltx_tag_ref">3.3 </span>Portfolio Construction</span></a></li>
+<li class="ltx_tocentry ltx_tocentry_subsection">
+<a class="ltx_ref" href="https://arxiv.org/html/2407.19858v6#S3.SS4" title="In 3 Methodology ‣ AI-Powered Energy Algorithmic Trading: Integrating Hidden Markov Models with Neural Networks"><span class="ltx_text ltx_ref_title"><span class="ltx_tag ltx_tag_ref">3.4 </span>Risk Management and Execution Models</span></a>
+<ol class="ltx_toclist ltx_toclist_subsection">
+<li class="ltx_tocentry ltx_tocentry_subsubsection"><a class="ltx_ref" href="https://arxiv.org/html/2407.19858v6#S3.SS4.SSS1" title="In 3.4 Risk Management and Execution Models ‣ 3 Methodology ‣ AI-Powered Energy Algorithmic Trading: Integrating Hidden Markov Models with Neural Networks"><span class="ltx_text ltx_ref_title"><span class="ltx_tag ltx_tag_ref">3.4.1 </span>Maximum Drawdown Model</span></a></li>
+<li class="ltx_tocentry ltx_tocentry_subsubsection"><a class="ltx_ref" href="https://arxiv.org/html/2407.19858v6#S3.SS4.SSS2" title="In 3.4 Risk Management and Execution Models ‣ 3 Methodology ‣ AI-Powered Energy Algorithmic Trading: Integrating Hidden Markov Models with Neural Networks"><span class="ltx_text ltx_ref_title"><span class="ltx_tag ltx_tag_ref">3.4.2 </span>Trailing Stop Model</span></a></li>
+</ol>
+</li>
+</ol>
+</li>
+<li class="ltx_tocentry ltx_tocentry_section">
+<a class="ltx_ref" href="https://arxiv.org/html/2407.19858v6#S4" title="In AI-Powered Energy Algorithmic Trading: Integrating Hidden Markov Models with Neural Networks"><span class="ltx_text ltx_ref_title"><span class="ltx_tag ltx_tag_ref">4 </span>Results and Discussion</span></a>
+<ol class="ltx_toclist ltx_toclist_section">
+<li class="ltx_tocentry ltx_tocentry_subsection"><a class="ltx_ref" href="https://arxiv.org/html/2407.19858v6#S4.SS1" title="In 4 Results and Discussion ‣ AI-Powered Energy Algorithmic Trading: Integrating Hidden Markov Models with Neural Networks"><span class="ltx_text ltx_ref_title"><span class="ltx_tag ltx_tag_ref">4.1 </span>Key Statistics</span></a></li>
+<li class="ltx_tocentry ltx_tocentry_subsection"><a class="ltx_ref" href="https://arxiv.org/html/2407.19858v6#S4.SS2" title="In 4 Results and Discussion ‣ AI-Powered Energy Algorithmic Trading: Integrating Hidden Markov Models with Neural Networks"><span class="ltx_text ltx_ref_title"><span class="ltx_tag ltx_tag_ref">4.2 </span>Detailed Trading Metrics</span></a></li>
+<li class="ltx_tocentry ltx_tocentry_subsection"><a class="ltx_ref" href="https://arxiv.org/html/2407.19858v6#S4.SS3" title="In 4 Results and Discussion ‣ AI-Powered Energy Algorithmic Trading: Integrating Hidden Markov Models with Neural Networks"><span class="ltx_text ltx_ref_title"><span class="ltx_tag ltx_tag_ref">4.3 </span>Cumulative Returns</span></a></li>
+<li class="ltx_tocentry ltx_tocentry_subsection"><a class="ltx_ref" href="https://arxiv.org/html/2407.19858v6#S4.SS4" title="In 4 Results and Discussion ‣ AI-Powered Energy Algorithmic Trading: Integrating Hidden Markov Models with Neural Networks"><span class="ltx_text ltx_ref_title"><span class="ltx_tag ltx_tag_ref">4.4 </span>Advantages of the Approach</span></a></li>
+<li class="ltx_tocentry ltx_tocentry_subsection">
+<a class="ltx_ref" href="https://arxiv.org/html/2407.19858v6#S4.SS5" title="In 4 Results and Discussion ‣ AI-Powered Energy Algorithmic Trading: Integrating Hidden Markov Models with Neural Networks"><span class="ltx_text ltx_ref_title"><span class="ltx_tag ltx_tag_ref">4.5 </span>Future Research Directions</span></a>
+<ol class="ltx_toclist ltx_toclist_subsection">
+<li class="ltx_tocentry ltx_tocentry_subsubsection"><a class="ltx_ref" href="https://arxiv.org/html/2407.19858v6#S4.SS5.SSS1" title="In 4.5 Future Research Directions ‣ 4 Results and Discussion ‣ AI-Powered Energy Algorithmic Trading: Integrating Hidden Markov Models with Neural Networks"><span class="ltx_text ltx_ref_title"><span class="ltx_tag ltx_tag_ref">4.5.1 </span>Wavelet Transform for Enhanced Market Pattern Recognition</span></a></li>
+<li class="ltx_tocentry ltx_tocentry_subsubsection"><a class="ltx_ref" href="https://arxiv.org/html/2407.19858v6#S4.SS5.SSS2" title="In 4.5 Future Research Directions ‣ 4 Results and Discussion ‣ AI-Powered Energy Algorithmic Trading: Integrating Hidden Markov Models with Neural Networks"><span class="ltx_text ltx_ref_title"><span class="ltx_tag ltx_tag_ref">4.5.2 </span>Monte Carlo Simulations for Model Generalizability</span></a></li>
+<li class="ltx_tocentry ltx_tocentry_subsubsection"><a class="ltx_ref" href="https://arxiv.org/html/2407.19858v6#S4.SS5.SSS3" title="In 4.5 Future Research Directions ‣ 4 Results and Discussion ‣ AI-Powered Energy Algorithmic Trading: Integrating Hidden Markov Models with Neural Networks"><span class="ltx_text ltx_ref_title"><span class="ltx_tag ltx_tag_ref">4.5.3 </span>Hyperparameter Tuning and Ensemble Methods</span></a></li>
+<li class="ltx_tocentry ltx_tocentry_subsubsection"><a class="ltx_ref" href="https://arxiv.org/html/2407.19858v6#S4.SS5.SSS4" title="In 4.5 Future Research Directions ‣ 4 Results and Discussion ‣ AI-Powered Energy Algorithmic Trading: Integrating Hidden Markov Models with Neural Networks"><span class="ltx_text ltx_ref_title"><span class="ltx_tag ltx_tag_ref">4.5.4 </span>Diversifying Equities for Growth and Stability</span></a></li>
+</ol>
+</li>
+<li class="ltx_tocentry ltx_tocentry_subsection"><a class="ltx_ref" href="https://arxiv.org/html/2407.19858v6#S4.SS6" title="In 4 Results and Discussion ‣ AI-Powered Energy Algorithmic Trading: Integrating Hidden Markov Models with Neural Networks"><span class="ltx_text ltx_ref_title"><span class="ltx_tag ltx_tag_ref">4.6 </span>QuantConnect for Reproducibility</span></a></li>
+</ol>
+</li>
+<li class="ltx_tocentry ltx_tocentry_section"><a class="ltx_ref" href="https://arxiv.org/html/2407.19858v6#S5" title="In AI-Powered Energy Algorithmic Trading: Integrating Hidden Markov Models with Neural Networks"><span class="ltx_text ltx_ref_title"><span class="ltx_tag ltx_tag_ref">5 </span>Conclusion</span></a></li>
+</ol></nav>
+</nav>
+<div class="ltx_page_main">
+<div class="ltx_page_content">
+<article class="ltx_document ltx_authors_1line">
+<div class="ltx_para" id="p1">
+<span class="ltx_ERROR undefined">\corraddr</span>
+<p class="ltx_p">Email: monteiro.t@northeastern.edu</p>
+</div>
+<h1 class="ltx_title ltx_title_document">AI-Powered Energy Algorithmic Trading: Integrating Hidden Markov Models with Neural Networks</h1>
+<div class="ltx_authors">
+<span class="ltx_creator ltx_role_author">
+<span class="ltx_personname">Tiago Monteiro<span class="ltx_ERROR undefined">\corrauth</span>
+</span><span class="ltx_author_notes">
+<span class="ltx_contact ltx_role_address"><span class="ltx_ERROR undefined">\addr</span><span class="ltx_note ltx_role_affiliationmark"><sup class="ltx_note_mark">1</sup><span class="ltx_note_outer"><span class="ltx_note_content"><sup class="ltx_note_mark">1</sup><span class="ltx_note_type">affiliationmark: </span></span></span></span> Northeastern University Silicon Valley, 225 Bush Street, San Jose, CA 95134, United States
+
+</span></span></span>
+</div>
+<div class="ltx_abstract">
+<h6 class="ltx_title ltx_title_abstract">Abstract</h6>
+<p class="ltx_p">In quantitative finance, machine-learning methods are key for alpha generation. This study introduces a refreshing approach that combines Hidden Markov Models (HMM) and neural networks integrated with Black-Litterman portfolio optimization. The approach was tested during the COVID period (2019-2022), where it achieved an 83% return with a Sharpe ratio of 0.77. Two risk models were incorporated to enhance risk management, particularly during the volatile periods. The methodology was implemented on the QuantConnect platform, which was chosen for its robust framework and experimental reproducibility. The system is designed to predict future price movements and includes a three-year warm-up period to ensure the proper use of the algorithm. It focuses on highly liquid, large-cap energy stocks to ensure stable and reliable results, while also accounting for broker payments. The dual-model alpha system utilizes log returns to select the optimal state based on historical performance. It combines state predictions with neural network outputs derived from historical data to generate trading signals. This study presents an in-depth examination of the trading system’s architecture, data pre-processing, training, and performance. The full code and backtesting data are available under QuantConnect’s terms.</p>
+</div>
+<div class="ltx_classification">
+<h6 class="ltx_title ltx_title_classification">keywords: </h6>Hidden Markov Models; Neural Networks; Algorithmic Trading; Machine Learning; Energy Sector; Portfolio Optimization
+
+<br class="ltx_break"/>
+<span class="ltx_text ltx_font_bold">JEL Codes:</span> C45, C53, G11, G17
+</div>
+<section class="ltx_section ltx_indent_first" id="S1">
+<h2 class="ltx_title ltx_title_section">
+<span class="ltx_tag ltx_tag_section">1 </span>Introduction</h2>
+<div class="ltx_para" id="S1.p1">
+<p class="ltx_p">Algorithmic trading influences financial markets by enabling the rapid and exact execution of trading strategies beyond human capability <cite class="ltx_cite ltx_citemacro_cite">Dananjayan et al. (<a class="ltx_ref" href="https://arxiv.org/html/2407.19858v6#bib.bib1" title="">2023</a>)</cite>. Machine learning integration has further reinvented this field by providing novel techniques for pattern recognition and predictive modeling <cite class="ltx_cite ltx_citemacro_cite">Afua et al. (<a class="ltx_ref" href="https://arxiv.org/html/2407.19858v6#bib.bib2" title="">2024</a>)</cite>.</p>
+</div>
+<div class="ltx_para" id="S1.p2">
+<p class="ltx_p">QuantConnect, chosen for this study, offers data access, back-testing, and a powerful algorithmic trading framework. This simplifies the development, testing, and deployment of trading strategies. The environment also ensures result replication, which is crucial for assessing the advanced trading algorithms.</p>
+</div>
+<div class="ltx_para" id="S1.p3">
+<p class="ltx_p">This study outlines a novel methodology that fuses the HMM and neural networks to create a dual-model alpha generation system. The aim is to leverage the HMM’s ability to capture temporal dependencies and market regimes, along with the power of neural networks to learn subtle patterns from historical price data <cite class="ltx_cite ltx_citemacro_cite">Oelschlager and Adam (<a class="ltx_ref" href="https://arxiv.org/html/2407.19858v6#bib.bib3" title="">2020</a>); El Morr et al. (<a class="ltx_ref" href="https://arxiv.org/html/2407.19858v6#bib.bib4" title="">2022</a>)</cite>. The strategy uses Black-Litterman portfolio optimization combined with two risk management models.</p>
+</div>
+<div class="ltx_para" id="S1.p4">
+<p class="ltx_p">The system employs a low-frequency buying strategy that is activated by converging signals from various AI models. A buy decision is made only when different model signals align.</p>
+</div>
+<div class="ltx_para" id="S1.p5">
+<p class="ltx_p">The main objective is to develop an adaptable trading strategy that predicts price fluctuations and optimizes trading decisions. The results indicate the potential of this unified approach, with the algorithm achieving a 83% return and a Sharpe ratio of 0.77 during the COVID period (2019-2022).</p>
+</div>
+</section>
+<section class="ltx_section ltx_indent_first" id="S2">
+<h2 class="ltx_title ltx_title_section">
+<span class="ltx_tag ltx_tag_section">2 </span>Background</h2>
+<div class="ltx_para" id="S2.p1">
+<p class="ltx_p">HMMs, deep learning, and multi-model AI are crucial for optimizing algorithmic trading strategies. HMMs simulate systems with partially observable states, whereas deep learning utilizes neural networks to capture complex patterns. Multi-model AI integrates various machine learning models to improve robustness and accuracy <cite class="ltx_cite ltx_citemacro_cite">Giudici et al. (<a class="ltx_ref" href="https://arxiv.org/html/2407.19858v6#bib.bib5" title="">2024</a>)</cite>.</p>
+</div>
+<div class="ltx_para" id="S2.p2">
+<p class="ltx_p">The use of HMMs in financial markets has evolved from simple regime-switching models to advanced volatility modeling methods <cite class="ltx_cite ltx_citemacro_cite">Gorynin et al. (<a class="ltx_ref" href="https://arxiv.org/html/2407.19858v6#bib.bib6" title="">2017</a>)</cite>. Deep learning has progressed from basic neural networks to sophisticated architectures, such as LSTM, CNN, and transformer-based models <cite class="ltx_cite ltx_citemacro_cite">Shiri et al. (<a class="ltx_ref" href="https://arxiv.org/html/2407.19858v6#bib.bib7" title="">2023</a>)</cite>. Multi-model AI, employing ensemble methods, surpasses single ML algorithms in terms of robustness <cite class="ltx_cite ltx_citemacro_cite">Aelgani and Vadlakonda (<a class="ltx_ref" href="https://arxiv.org/html/2407.19858v6#bib.bib8" title="">2023</a>)</cite>. These theories form the basis for advanced trading strategies. HMMs provide insights into market regimes and volatility, deep learning models forecast price movements, and multi-model AI enhances the overall performance.</p>
+</div>
+<section class="ltx_subsection ltx_indent_first" id="S2.SS1">
+<h3 class="ltx_title ltx_title_subsection">
+<span class="ltx_tag ltx_tag_subsection">2.1 </span>Previous Research</h3>
+<div class="ltx_para" id="S2.SS1.p1">
+<p class="ltx_p">Previous research has highlighted the utility of HMMs in identifying market regimes and in volatility modeling. In addition, deep learning techniques have shown potential for time-series forecasting and sentiment analysis <cite class="ltx_cite ltx_citemacro_cite">Lara-Benitez et al. (<a class="ltx_ref" href="https://arxiv.org/html/2407.19858v6#bib.bib9" title="">2021</a>)</cite>. Multi-model AI approaches, such as stacking and boosting, have improved prediction accuracy across various fields <cite class="ltx_cite ltx_citemacro_cite">Odegua (<a class="ltx_ref" href="https://arxiv.org/html/2407.19858v6#bib.bib10" title="">2019</a>)</cite>. HMM studies often use regime-switching models and probabilistic analysis, whereas deep learning focuses on neural network architectures and training methods. Multi-model AI research combines different algorithms through ensemble techniques to leverage their unique strengths.</p>
+</div>
+</section>
+<section class="ltx_subsection ltx_indent_first" id="S2.SS2">
+<h3 class="ltx_title ltx_title_subsection">
+<span class="ltx_tag ltx_tag_subsection">2.2 </span>Challenges</h3>
+<div class="ltx_para" id="S2.SS2.p1">
+<p class="ltx_p">Despite their advantages, HMMs face challenges in capturing the market complexity. Simple HMMs may not ideally interpret market dynamics because of their inability to capture both immediate and extended trends <cite class="ltx_cite ltx_citemacro_cite">Oelschlager and Adam (<a class="ltx_ref" href="https://arxiv.org/html/2407.19858v6#bib.bib11" title="">2021</a>)</cite>. Deep learning models capture nonlinear relationships but require substantial data and computational resources. Although they often outperform traditional methods, their benefits can be modest and context-dependent, especially when data are limited or computational costs are high <cite class="ltx_cite ltx_citemacro_cite">Jiang (<a class="ltx_ref" href="https://arxiv.org/html/2407.19858v6#bib.bib12" title="">2020</a>)</cite>. Multi-model AI approaches offer enhanced robustness and predictive performance but are more complex to implement <cite class="ltx_cite ltx_citemacro_cite">Wang et al. (<a class="ltx_ref" href="https://arxiv.org/html/2407.19858v6#bib.bib13" title="">2021</a>)</cite>. Variability in data, methods, and implementation can lead to inconsistencies, complicating the reproduction of results <cite class="ltx_cite ltx_citemacro_cite">Chen et al. (<a class="ltx_ref" href="https://arxiv.org/html/2407.19858v6#bib.bib14" title="">2022</a>)</cite>.</p>
+</div>
+</section>
+<section class="ltx_subsection ltx_indent_first" id="S2.SS3">
+<h3 class="ltx_title ltx_title_subsection">
+<span class="ltx_tag ltx_tag_subsection">2.3 </span>Research Gaps and Future Directions</h3>
+<div class="ltx_para" id="S2.SS3.p1">
+<p class="ltx_p">Researchers often downplay the benefits of HMMs, deep learning, and multi-model AI in trading strategies owing to the lack of standardized frameworks for strategy standardization and data pre-processing. This absence challenges the creation of single and multi-model systems <cite class="ltx_cite ltx_citemacro_cite">Afua et al. (<a class="ltx_ref" href="https://arxiv.org/html/2407.19858v6#bib.bib15" title="">2024b</a>)</cite>. Bridging these gaps is essential to craft trading strategies capable of traversing complex financial markets. Future studies should explore integrating techniques to capture both linear and nonlinear market behavior, and investigate the impact of real-time market conditions on model performance <cite class="ltx_cite ltx_citemacro_cite">Bharath et al. (<a class="ltx_ref" href="https://arxiv.org/html/2407.19858v6#bib.bib16" title="">2023</a>)</cite>.</p>
+</div>
+</section>
+<section class="ltx_subsection ltx_indent_first" id="S2.SS4">
+<h3 class="ltx_title ltx_title_subsection">
+<span class="ltx_tag ltx_tag_subsection">2.4 </span>Tools and Hypotheses</h3>
+<div class="ltx_para" id="S2.SS4.p1">
+<p class="ltx_p">QuantConnect facilitates advanced trading by supporting multi-model deployment using the LEAN open-source engine. It standardizes data and algorithm development, improving efficiency and reproducibility, while addressing current limitations <cite class="ltx_cite ltx_citemacro_cite">Rashid (<a class="ltx_ref" href="https://arxiv.org/html/2407.19858v6#bib.bib17" title="">2010</a>)</cite>.</p>
+</div>
+<div class="ltx_para" id="S2.SS4.p2">
+<p class="ltx_p">The execution of the hypotheses depends on incorporating HMM, deep learning, and multi-model AI to optimize algorithmic trading strategies. A comprehensive literature review clarifies each approach’s advantages and limitations, forming the following research questions: How does integrating HMM, deep learning, and multi-model AI affect the effectiveness of algorithmic trading strategies? What computational challenges does this integration present, and how can they be mitigated? How does the unified model perform under market conditions compared with the S&amp;P 500, a standard benchmark for evaluating equity trading algorithms?</p>
+</div>
+<div class="ltx_para" id="S2.SS4.p3">
+<p class="ltx_p">These hypotheses and research questions aim to develop an adaptive trading strategy that addresses the stated research gaps and takes advantage of HMM, deep learning, and multi-model AI strengths.</p>
+</div>
+</section>
+</section>
+<section class="ltx_section ltx_indent_first" id="S3">
+<h2 class="ltx_title ltx_title_section">
+<span class="ltx_tag ltx_tag_section">3 </span>Methodology</h2>
+<figure class="ltx_figure" id="S3.F1"><img alt="Refer to caption" class="ltx_graphics ltx_centering ltx_img_landscape" height="41" id="S3.F1.g1" src="workflow.png" width="405"/>
+<figcaption class="ltx_caption ltx_centering"><span class="ltx_tag ltx_tag_figure">Figure 1: </span>Workflow of Algorithmic Trading System</figcaption>
+</figure>
+<div class="ltx_para" id="S3.p1">
+<p class="ltx_p">This section explains how the dual-model system for generating trading signals was created using the HMM and neural networks. The QuantConnect platform was used in this project because it provides significant market data and streamlines strategy testing and deployment. Since 2013, it has been refined through over two million algorithms, ensuring reproducibility and transparency <cite class="ltx_cite ltx_citemacro_cite">QuantConnect (<a class="ltx_ref" href="https://arxiv.org/html/2407.19858v6#bib.bib18" title="">2024</a>)</cite>.</p>
+</div>
+<div class="ltx_para" id="S3.p2">
+<p class="ltx_p">However, QuantConnect has limitations, such as data availability, which might lead to missing market scenarios required for training deep learning models. Future studies can use distributed computing to address these limitations. This study covers aspects such as model design, data management, training, signal generation, and portfolio strategies, as illustrated in Figure <a class="ltx_ref" href="https://arxiv.org/html/2407.19858v6#S3.F1" title="Figure 1 ‣ 3 Methodology ‣ AI-Powered Energy Algorithmic Trading: Integrating Hidden Markov Models with Neural Networks"><span class="ltx_text ltx_ref_tag">1</span></a>. A transparent and reproducible approach was used to confirm the reliability and success of the system.</p>
+</div>
+<div class="ltx_para" id="S3.p3">
+<p class="ltx_p">Full code and backtesting data are available and licensed under the QuantConnect terms.</p>
+</div>
+<section class="ltx_subsection ltx_indent_first" id="S3.SS1">
+<h3 class="ltx_title ltx_title_subsection">
+<span class="ltx_tag ltx_tag_subsection">3.1 </span>Universe Selection</h3>
+<div class="ltx_para" id="S3.SS1.p1">
+<p class="ltx_p">This study used a dynamic universe with two filters to select tradable securities. The first filter evaluates liquidity through the dollar volume by selecting stocks with the highest total traded value. The second filter focuses on energy sector stocks based on market capitalization and identifies the top 20 companies in this sector. Larger companies typically exhibit more stable and predictable performance, beneficial for analysis <cite class="ltx_cite ltx_citemacro_cite">Sauberschwarz and Weiss (<a class="ltx_ref" href="https://arxiv.org/html/2407.19858v6#bib.bib19" title="">2017</a>)</cite>. This way, this dynamic universe prioritizes liquidity and market capitalization. Establishing a solid foundation for scientific models to operate effectively without artificial complexity <cite class="ltx_cite ltx_citemacro_cite">Rakovic (<a class="ltx_ref" href="https://arxiv.org/html/2407.19858v6#bib.bib20" title="">2018</a>)</cite>.</p>
+</div>
+</section>
+<section class="ltx_subsection ltx_indent_first" id="S3.SS2">
+<h3 class="ltx_title ltx_title_subsection">
+<span class="ltx_tag ltx_tag_subsection">3.2 </span>Alpha Generation</h3>
+<section class="ltx_subsubsection ltx_indent_first" id="S3.SS2.SSS1">
+<h4 class="ltx_title ltx_title_subsubsection">
+<span class="ltx_tag ltx_tag_subsubsection">3.2.1 </span>Model Architecture</h4>
+<div class="ltx_para" id="S3.SS2.SSS1.p1">
+<p class="ltx_p">The system leverages the fusion of an HMM and a neural network based on PyTorch to examine the historical price data, generate trading insights, and facilitate their integration.</p>
+</div>
+<section class="ltx_paragraph ltx_indentfirst" id="S3.SS2.SSS1.Px1">
+<h5 class="ltx_title ltx_title_paragraph">Hidden Markov Model</h5>
+<figure class="ltx_figure" id="S3.F2"><img alt="Refer to caption" class="ltx_graphics ltx_centering ltx_img_landscape" height="204" id="S3.F2.g1" src="hmm.png" width="405"/>
+<figcaption class="ltx_caption ltx_centering"><span class="ltx_tag ltx_tag_figure">Figure 2: </span>HMM Architecture for Simulating Stock Price Fluctuations</figcaption>
+</figure>
+<div class="ltx_para" id="S3.SS2.SSS1.Px1.p1">
+<p class="ltx_p">The HMM is a stochastic framework for simulating stock price fluctuations (Figure <a class="ltx_ref" href="https://arxiv.org/html/2407.19858v6#S3.F2" title="Figure 2 ‣ Hidden Markov Model ‣ 3.2.1 Model Architecture ‣ 3.2 Alpha Generation ‣ 3 Methodology ‣ AI-Powered Energy Algorithmic Trading: Integrating Hidden Markov Models with Neural Networks"><span class="ltx_text ltx_ref_tag">2</span></a>). An HMM is formally defined by the tuple <math alttext="\lambda=(S,O,A,B,\pi)" class="ltx_Math" display="inline" id="S3.SS2.SSS1.Px1.p1.m1" intent=":literal"><semantics><mrow><mi>λ</mi><mo>=</mo><mrow><mo stretchy="false">(</mo><mi>S</mi><mo>,</mo><mi>O</mi><mo>,</mo><mi>A</mi><mo>,</mo><mi>B</mi><mo>,</mo><mi>π</mi><mo stretchy="false">)</mo></mrow></mrow><annotation encoding="application/x-tex">\lambda=(S,O,A,B,\pi)</annotation></semantics></math> where:</p>
+</div>
+<div class="ltx_para" id="S3.SS2.SSS1.Px1.p2">
+<ul class="ltx_itemize" id="S3.I1">
+<li class="ltx_item" id="S3.I1.i1" style="list-style-type:none;">
+<span class="ltx_tag ltx_tag_item">•</span>
+<div class="ltx_para" id="S3.I1.i1.p1">
+<p class="ltx_p"><math alttext="S=\{s_{1},s_{2},\ldots,s_{N}\}" class="ltx_Math" display="inline" id="S3.I1.i1.p1.m1" intent=":literal"><semantics><mrow><mi>S</mi><mo>=</mo><mrow><mo stretchy="false">{</mo><msub><mi>s</mi><mn>1</mn></msub><mo>,</mo><msub><mi>s</mi><mn>2</mn></msub><mo>,</mo><mi mathvariant="normal">…</mi><mo>,</mo><msub><mi>s</mi><mi>N</mi></msub><mo stretchy="false">}</mo></mrow></mrow><annotation encoding="application/x-tex">S=\{s_{1},s_{2},\ldots,s_{N}\}</annotation></semantics></math> is the set of <math alttext="N" class="ltx_Math" display="inline" id="S3.I1.i1.p1.m2" intent=":literal"><semantics><mi>N</mi><annotation encoding="application/x-tex">N</annotation></semantics></math> hidden states (in this study, <math alttext="N=5" class="ltx_Math" display="inline" id="S3.I1.i1.p1.m3" intent=":literal"><semantics><mrow><mi>N</mi><mo>=</mo><mn>5</mn></mrow><annotation encoding="application/x-tex">N=5</annotation></semantics></math>)</p>
+</div>
+</li>
+<li class="ltx_item" id="S3.I1.i2" style="list-style-type:none;">
+<span class="ltx_tag ltx_tag_item">•</span>
+<div class="ltx_para" id="S3.I1.i2.p1">
+<p class="ltx_p"><math alttext="O=\{o_{1},o_{2},\ldots,o_{T}\}" class="ltx_Math" display="inline" id="S3.I1.i2.p1.m1" intent=":literal"><semantics><mrow><mi>O</mi><mo>=</mo><mrow><mo stretchy="false">{</mo><msub><mi>o</mi><mn>1</mn></msub><mo>,</mo><msub><mi>o</mi><mn>2</mn></msub><mo>,</mo><mi mathvariant="normal">…</mi><mo>,</mo><msub><mi>o</mi><mi>T</mi></msub><mo stretchy="false">}</mo></mrow></mrow><annotation encoding="application/x-tex">O=\{o_{1},o_{2},\ldots,o_{T}\}</annotation></semantics></math> is the sequence of observations (log returns)</p>
+</div>
+</li>
+<li class="ltx_item" id="S3.I1.i3" style="list-style-type:none;">
+<span class="ltx_tag ltx_tag_item">•</span>
+<div class="ltx_para" id="S3.I1.i3.p1">
+<p class="ltx_p"><math alttext="A=\{a_{ij}\}" class="ltx_Math" display="inline" id="S3.I1.i3.p1.m1" intent=":literal"><semantics><mrow><mi>A</mi><mo>=</mo><mrow><mo stretchy="false">{</mo><msub><mi>a</mi><mrow><mi>i</mi><mo lspace="0em" rspace="0em">​</mo><mi>j</mi></mrow></msub><mo stretchy="false">}</mo></mrow></mrow><annotation encoding="application/x-tex">A=\{a_{ij}\}</annotation></semantics></math> is the state transition probability matrix, where</p>
+<table class="ltx_equation ltx_eqn_table" id="S3.E1">
+<tbody><tr class="ltx_equation ltx_eqn_row ltx_align_baseline">
+<td class="ltx_eqn_cell ltx_eqn_center_padleft"></td>
+<td class="ltx_eqn_cell ltx_align_center"><math alttext="a_{ij}=P(s_{t}=j|s_{t-1}=i),\quad\sum_{j=1}^{N}a_{ij}=1" class="ltx_Math" display="block" id="S3.E1.m1" intent=":literal"><semantics><mrow><mrow><msub><mi>a</mi><mrow><mi>i</mi><mo lspace="0em" rspace="0em">​</mo><mi>j</mi></mrow></msub><mo>=</mo><mrow><mi>P</mi><mo lspace="0em" rspace="0em">​</mo><mrow><mo stretchy="false">(</mo><mrow><msub><mi>s</mi><mi>t</mi></msub><mo>=</mo><mrow><mi>j</mi><mo fence="false">|</mo><msub><mi>s</mi><mrow><mi>t</mi><mo>−</mo><mn>1</mn></mrow></msub></mrow><mo>=</mo><mi>i</mi></mrow><mo stretchy="false">)</mo></mrow></mrow></mrow><mo rspace="1.000em">,</mo><mrow><mrow><munderover><mo movablelimits="false">∑</mo><mrow><mi>j</mi><mo>=</mo><mn>1</mn></mrow><mi>N</mi></munderover><msub><mi>a</mi><mrow><mi>i</mi><mo lspace="0em" rspace="0em">​</mo><mi>j</mi></mrow></msub></mrow><mo>=</mo><mn>1</mn></mrow></mrow><annotation encoding="application/x-tex">a_{ij}=P(s_{t}=j|s_{t-1}=i),\quad\sum_{j=1}^{N}a_{ij}=1</annotation></semantics></math></td>
+<td class="ltx_eqn_cell ltx_eqn_center_padright"></td>
+<td class="ltx_eqn_cell ltx_eqn_eqno ltx_align_middle ltx_align_right" rowspan="1"><span class="ltx_tag ltx_tag_equation ltx_align_right">(1)</span></td>
+</tr></tbody>
+</table>
+</div>
+</li>
+<li class="ltx_item" id="S3.I1.i4" style="list-style-type:none;">
+<span class="ltx_tag ltx_tag_item">•</span>
+<div class="ltx_para" id="S3.I1.i4.p1">
+<p class="ltx_p"><math alttext="B=\{b_{j}(o_{t})\}" class="ltx_Math" display="inline" id="S3.I1.i4.p1.m1" intent=":literal"><semantics><mrow><mi>B</mi><mo>=</mo><mrow><mo stretchy="false">{</mo><mrow><msub><mi>b</mi><mi>j</mi></msub><mo lspace="0em" rspace="0em">​</mo><mrow><mo stretchy="false">(</mo><msub><mi>o</mi><mi>t</mi></msub><mo stretchy="false">)</mo></mrow></mrow><mo stretchy="false">}</mo></mrow></mrow><annotation encoding="application/x-tex">B=\{b_{j}(o_{t})\}</annotation></semantics></math> is the observation probability distribution</p>
+</div>
+</li>
+<li class="ltx_item" id="S3.I1.i5" style="list-style-type:none;">
+<span class="ltx_tag ltx_tag_item">•</span>
+<div class="ltx_para" id="S3.I1.i5.p1">
+<p class="ltx_p"><math alttext="\pi=\{\pi_{i}\}" class="ltx_Math" display="inline" id="S3.I1.i5.p1.m1" intent=":literal"><semantics><mrow><mi>π</mi><mo>=</mo><mrow><mo stretchy="false">{</mo><msub><mi>π</mi><mi>i</mi></msub><mo stretchy="false">}</mo></mrow></mrow><annotation encoding="application/x-tex">\pi=\{\pi_{i}\}</annotation></semantics></math> is the initial state distribution, where <math alttext="\pi_{i}=P(s_{1}=i)" class="ltx_Math" display="inline" id="S3.I1.i5.p1.m2" intent=":literal"><semantics><mrow><msub><mi>π</mi><mi>i</mi></msub><mo>=</mo><mrow><mi>P</mi><mo lspace="0em" rspace="0em">​</mo><mrow><mo stretchy="false">(</mo><mrow><msub><mi>s</mi><mn>1</mn></msub><mo>=</mo><mi>i</mi></mrow><mo stretchy="false">)</mo></mrow></mrow></mrow><annotation encoding="application/x-tex">\pi_{i}=P(s_{1}=i)</annotation></semantics></math></p>
+</div>
+</li>
+</ul>
+</div>
+<div class="ltx_para" id="S3.SS2.SSS1.Px1.p3">
+<p class="ltx_p">The model is trained on log returns, calculated as:</p>
+<table class="ltx_equation ltx_eqn_table" id="S3.E2">
+<tbody><tr class="ltx_equation ltx_eqn_row ltx_align_baseline">
+<td class="ltx_eqn_cell ltx_eqn_center_padleft"></td>
+<td class="ltx_eqn_cell ltx_align_center"><math alttext="r_{t}=\ln\left(\frac{P_{t}}{P_{t-1}}\right)" class="ltx_Math" display="block" id="S3.E2.m1" intent=":literal"><semantics><mrow><msub><mi>r</mi><mi>t</mi></msub><mo>=</mo><mrow><mi>ln</mi><mo>⁡</mo><mrow><mo>(</mo><mfrac><msub><mi>P</mi><mi>t</mi></msub><msub><mi>P</mi><mrow><mi>t</mi><mo>−</mo><mn>1</mn></mrow></msub></mfrac><mo>)</mo></mrow></mrow></mrow><annotation encoding="application/x-tex">r_{t}=\ln\left(\frac{P_{t}}{P_{t-1}}\right)</annotation></semantics></math></td>
+<td class="ltx_eqn_cell ltx_eqn_center_padright"></td>
+<td class="ltx_eqn_cell ltx_eqn_eqno ltx_align_middle ltx_align_right" rowspan="1"><span class="ltx_tag ltx_tag_equation ltx_align_right">(2)</span></td>
+</tr></tbody>
+</table>
+<p class="ltx_p">where <math alttext="P_{t}" class="ltx_Math" display="inline" id="S3.SS2.SSS1.Px1.p3.m1" intent=":literal"><semantics><msub><mi>P</mi><mi>t</mi></msub><annotation encoding="application/x-tex">P_{t}</annotation></semantics></math> is the closing price at time <math alttext="t" class="ltx_Math" display="inline" id="S3.SS2.SSS1.Px1.p3.m2" intent=":literal"><semantics><mi>t</mi><annotation encoding="application/x-tex">t</annotation></semantics></math>.</p>
+</div>
+<div class="ltx_para" id="S3.SS2.SSS1.Px1.p4">
+<p class="ltx_p">For a Gaussian HMM with full covariance, the emission probability is:</p>
+<table class="ltx_equation ltx_eqn_table" id="S3.E3">
+<tbody><tr class="ltx_equation ltx_eqn_row ltx_align_baseline">
+<td class="ltx_eqn_cell ltx_eqn_center_padleft"></td>
+<td class="ltx_eqn_cell ltx_align_center"><math alttext="b_{j}(o_{t})=\mathcal{N}(o_{t};\mu_{j},\Sigma_{j})=\frac{1}{\sqrt{(2\pi)^{d}|\Sigma_{j}|}}\exp\left(-\frac{1}{2}(o_{t}-\mu_{j})^{T}\Sigma_{j}^{-1}(o_{t}-\mu_{j})\right)" class="ltx_Math" display="block" id="S3.E3.m1" intent=":literal"><semantics><mrow><mrow><msub><mi>b</mi><mi>j</mi></msub><mo lspace="0em" rspace="0em">​</mo><mrow><mo stretchy="false">(</mo><msub><mi>o</mi><mi>t</mi></msub><mo stretchy="false">)</mo></mrow></mrow><mo>=</mo><mrow><mi class="ltx_font_mathcaligraphic">𝒩</mi><mo lspace="0em" rspace="0em">​</mo><mrow><mo stretchy="false">(</mo><msub><mi>o</mi><mi>t</mi></msub><mo>;</mo><msub><mi>μ</mi><mi>j</mi></msub><mo>,</mo><msub><mi mathvariant="normal">Σ</mi><mi>j</mi></msub><mo stretchy="false">)</mo></mrow></mrow><mo>=</mo><mrow><mfrac><mn>1</mn><msqrt><mrow><msup><mrow><mo stretchy="false">(</mo><mrow><mn>2</mn><mo lspace="0em" rspace="0em">​</mo><mi>π</mi></mrow><mo stretchy="false">)</mo></mrow><mi>d</mi></msup><mo lspace="0em" rspace="0em">​</mo><mrow><mo stretchy="false">|</mo><msub><mi mathvariant="normal">Σ</mi><mi>j</mi></msub><mo stretchy="false">|</mo></mrow></mrow></msqrt></mfrac><mo lspace="0.167em" rspace="0em">​</mo><mrow><mi>exp</mi><mo>⁡</mo><mrow><mo>(</mo><mrow><mo>−</mo><mrow><mfrac><mn>1</mn><mn>2</mn></mfrac><mo lspace="0em" rspace="0em">​</mo><msup><mrow><mo stretchy="false">(</mo><mrow><msub><mi>o</mi><mi>t</mi></msub><mo>−</mo><msub><mi>μ</mi><mi>j</mi></msub></mrow><mo stretchy="false">)</mo></mrow><mi>T</mi></msup><mo lspace="0em" rspace="0em">​</mo><msubsup><mi mathvariant="normal">Σ</mi><mi>j</mi><mrow><mo>−</mo><mn>1</mn></mrow></msubsup><mo lspace="0em" rspace="0em">​</mo><mrow><mo stretchy="false">(</mo><mrow><msub><mi>o</mi><mi>t</mi></msub><mo>−</mo><msub><mi>μ</mi><mi>j</mi></msub></mrow><mo stretchy="false">)</mo></mrow></mrow></mrow><mo>)</mo></mrow></mrow></mrow></mrow><annotation encoding="application/x-tex">b_{j}(o_{t})=\mathcal{N}(o_{t};\mu_{j},\Sigma_{j})=\frac{1}{\sqrt{(2\pi)^{d}|\Sigma_{j}|}}\exp\left(-\frac{1}{2}(o_{t}-\mu_{j})^{T}\Sigma_{j}^{-1}(o_{t}-\mu_{j})\right)</annotation></semantics></math></td>
+<td class="ltx_eqn_cell ltx_eqn_center_padright"></td>
+<td class="ltx_eqn_cell ltx_eqn_eqno ltx_align_middle ltx_align_right" rowspan="1"><span class="ltx_tag ltx_tag_equation ltx_align_right">(3)</span></td>
+</tr></tbody>
+</table>
+<p class="ltx_p">where <math alttext="\mu_{j}" class="ltx_Math" display="inline" id="S3.SS2.SSS1.Px1.p4.m1" intent=":literal"><semantics><msub><mi>μ</mi><mi>j</mi></msub><annotation encoding="application/x-tex">\mu_{j}</annotation></semantics></math> and <math alttext="\Sigma_{j}" class="ltx_Math" display="inline" id="S3.SS2.SSS1.Px1.p4.m2" intent=":literal"><semantics><msub><mi mathvariant="normal">Σ</mi><mi>j</mi></msub><annotation encoding="application/x-tex">\Sigma_{j}</annotation></semantics></math> are the mean vector and covariance matrix for state <math alttext="j" class="ltx_Math" display="inline" id="S3.SS2.SSS1.Px1.p4.m3" intent=":literal"><semantics><mi>j</mi><annotation encoding="application/x-tex">j</annotation></semantics></math>.</p>
+</div>
+<div class="ltx_para" id="S3.SS2.SSS1.Px1.p5">
+<p class="ltx_p">The optimal state sequence is determined using the Viterbi algorithm, which finds:</p>
+<table class="ltx_equation ltx_eqn_table" id="S3.E4">
+<tbody><tr class="ltx_equation ltx_eqn_row ltx_align_baseline">
+<td class="ltx_eqn_cell ltx_eqn_center_padleft"></td>
+<td class="ltx_eqn_cell ltx_align_center"><math alttext="s^{*}=\arg\max_{s_{1:T}}P(s_{1:T}|o_{1:T},\lambda)" class="ltx_Math" display="block" id="S3.E4.m1" intent=":literal"><semantics><mrow><msup><mi>s</mi><mo>∗</mo></msup><mo>=</mo><mrow><mrow><mi>arg</mi><mo lspace="0.167em">⁡</mo><mrow><munder><mi>max</mi><msub><mi>s</mi><mrow><mn>1</mn><mo lspace="0.278em" rspace="0.278em">:</mo><mi>T</mi></mrow></msub></munder><mo lspace="0.167em">⁡</mo><mi>P</mi></mrow></mrow><mo lspace="0em" rspace="0em">​</mo><mrow><mo stretchy="false">(</mo><mrow><msub><mi>s</mi><mrow><mn>1</mn><mo lspace="0.278em" rspace="0.278em">:</mo><mi>T</mi></mrow></msub><mo fence="false">|</mo><mrow><msub><mi>o</mi><mrow><mn>1</mn><mo lspace="0.278em" rspace="0.278em">:</mo><mi>T</mi></mrow></msub><mo>,</mo><mi>λ</mi></mrow></mrow><mo stretchy="false">)</mo></mrow></mrow></mrow><annotation encoding="application/x-tex">s^{*}=\arg\max_{s_{1:T}}P(s_{1:T}|o_{1:T},\lambda)</annotation></semantics></math></td>
+<td class="ltx_eqn_cell ltx_eqn_center_padright"></td>
+<td class="ltx_eqn_cell ltx_eqn_eqno ltx_align_middle ltx_align_right" rowspan="1"><span class="ltx_tag ltx_tag_equation ltx_align_right">(4)</span></td>
+</tr></tbody>
+</table>
+</div>
+<div class="ltx_para" id="S3.SS2.SSS1.Px1.p6">
+<p class="ltx_p">The best state for prediction is selected based on historical mean return:</p>
+<table class="ltx_equation ltx_eqn_table" id="S3.E5">
+<tbody><tr class="ltx_equation ltx_eqn_row ltx_align_baseline">
+<td class="ltx_eqn_cell ltx_eqn_center_padleft"></td>
+<td class="ltx_eqn_cell ltx_align_center"><math alttext="s_{\text{best}}=\arg\max_{j}\mathbb{E}[r_{t}|s_{t}=j]" class="ltx_Math" display="block" id="S3.E5.m1" intent=":literal"><semantics><mrow><msub><mi>s</mi><mtext>best</mtext></msub><mo>=</mo><mrow><mrow><mi>arg</mi><mo lspace="0.167em">⁡</mo><mrow><munder><mi>max</mi><mi>j</mi></munder><mo lspace="0.167em">⁡</mo><mi>𝔼</mi></mrow></mrow><mo lspace="0em" rspace="0em">​</mo><mrow><mo stretchy="false">[</mo><mrow><mrow><msub><mi>r</mi><mi>t</mi></msub><mo fence="false">|</mo><msub><mi>s</mi><mi>t</mi></msub></mrow><mo>=</mo><mi>j</mi></mrow><mo stretchy="false">]</mo></mrow></mrow></mrow><annotation encoding="application/x-tex">s_{\text{best}}=\arg\max_{j}\mathbb{E}[r_{t}|s_{t}=j]</annotation></semantics></math></td>
+<td class="ltx_eqn_cell ltx_eqn_center_padright"></td>
+<td class="ltx_eqn_cell ltx_eqn_eqno ltx_align_middle ltx_align_right" rowspan="1"><span class="ltx_tag ltx_tag_equation ltx_align_right">(5)</span></td>
+</tr></tbody>
+</table>
+</div>
+<div class="ltx_para" id="S3.SS2.SSS1.Px1.p7">
+<p class="ltx_p">The model runs for up to 10 iterations during fitting to ensure convergence while preserving computational efficiency. The five hidden states represent various market conditions, such as bull, bear, and transitional phases, offering a broader market view.</p>
+</div>
+<div class="ltx_para" id="S3.SS2.SSS1.Px1.p8">
+<p class="ltx_p">The HMM can overfit past data, affecting the prediction accuracy with respect to abrupt market changes. Future research should explore regularization techniques and hybrid models that combine HMM with unsupervised machine learning to navigate market transitions.</p>
+</div>
+</section>
+<section class="ltx_paragraph ltx_indentfirst" id="S3.SS2.SSS1.Px2">
+<h5 class="ltx_title ltx_title_paragraph">PyTorch-Based Neural Network</h5>
+<figure class="ltx_figure" id="S3.F3"><img alt="Refer to caption" class="ltx_graphics ltx_centering ltx_img_landscape" height="141" id="S3.F3.g1" src="nn.png" width="381"/>
+<figcaption class="ltx_caption ltx_centering"><span class="ltx_tag ltx_tag_figure">Figure 3: </span>Neural Network Architecture for Detecting Complex Patterns in Historical Price Data</figcaption>
+</figure>
+<div class="ltx_para" id="S3.SS2.SSS1.Px2.p1">
+<p class="ltx_p">The neural network aims to detect complex patterns in the historical price data, as shown in Figure <a class="ltx_ref" href="https://arxiv.org/html/2407.19858v6#S3.F3" title="Figure 3 ‣ PyTorch-Based Neural Network ‣ 3.2.1 Model Architecture ‣ 3.2 Alpha Generation ‣ 3 Methodology ‣ AI-Powered Energy Algorithmic Trading: Integrating Hidden Markov Models with Neural Networks"><span class="ltx_text ltx_ref_tag">3</span></a>. The architecture is a fully connected feedforward neural network with the following mathematical formulation:</p>
+</div>
+<div class="ltx_para" id="S3.SS2.SSS1.Px2.p2">
+<p class="ltx_p">The input layer receives a feature vector <math alttext="\mathbf{x}\in\mathbb{R}^{5}" class="ltx_Math" display="inline" id="S3.SS2.SSS1.Px2.p2.m1" intent=":literal"><semantics><mrow><mi>𝐱</mi><mo>∈</mo><msup><mi>ℝ</mi><mn>5</mn></msup></mrow><annotation encoding="application/x-tex">\mathbf{x}\in\mathbb{R}^{5}</annotation></semantics></math> representing five consecutive historical price differences:</p>
+<table class="ltx_equation ltx_eqn_table" id="S3.E6">
+<tbody><tr class="ltx_equation ltx_eqn_row ltx_align_baseline">
+<td class="ltx_eqn_cell ltx_eqn_center_padleft"></td>
+<td class="ltx_eqn_cell ltx_align_center"><math alttext="\mathbf{x}=[P_{t-4}-P_{t-5},P_{t-3}-P_{t-4},\ldots,P_{t}-P_{t-1}]^{T}" class="ltx_Math" display="block" id="S3.E6.m1" intent=":literal"><semantics><mrow><mi>𝐱</mi><mo>=</mo><msup><mrow><mo stretchy="false">[</mo><mrow><msub><mi>P</mi><mrow><mi>t</mi><mo>−</mo><mn>4</mn></mrow></msub><mo>−</mo><msub><mi>P</mi><mrow><mi>t</mi><mo>−</mo><mn>5</mn></mrow></msub></mrow><mo>,</mo><mrow><msub><mi>P</mi><mrow><mi>t</mi><mo>−</mo><mn>3</mn></mrow></msub><mo>−</mo><msub><mi>P</mi><mrow><mi>t</mi><mo>−</mo><mn>4</mn></mrow></msub></mrow><mo>,</mo><mi mathvariant="normal">…</mi><mo>,</mo><mrow><msub><mi>P</mi><mi>t</mi></msub><mo>−</mo><msub><mi>P</mi><mrow><mi>t</mi><mo>−</mo><mn>1</mn></mrow></msub></mrow><mo stretchy="false">]</mo></mrow><mi>T</mi></msup></mrow><annotation encoding="application/x-tex">\mathbf{x}=[P_{t-4}-P_{t-5},P_{t-3}-P_{t-4},\ldots,P_{t}-P_{t-1}]^{T}</annotation></semantics></math></td>
+<td class="ltx_eqn_cell ltx_eqn_center_padright"></td>
+<td class="ltx_eqn_cell ltx_eqn_eqno ltx_align_middle ltx_align_right" rowspan="1"><span class="ltx_tag ltx_tag_equation ltx_align_right">(6)</span></td>
+</tr></tbody>
+</table>
+</div>
+<div class="ltx_para" id="S3.SS2.SSS1.Px2.p3">
+<p class="ltx_p">The network architecture consists of four hidden layers with ReLU activation functions and one output layer:</p>
+</div>
+<div class="ltx_para" id="S3.SS2.SSS1.Px2.p4">
+<table class="ltx_equationgroup ltx_eqn_align ltx_eqn_table" id="Sx3.EGx1">
+<tbody id="S3.E7"><tr class="ltx_equation ltx_eqn_row ltx_align_baseline">
+<td class="ltx_eqn_cell ltx_eqn_center_padleft"></td>
+<td class="ltx_td ltx_align_right ltx_eqn_cell"><math alttext="\displaystyle\mathbf{h}_{1}" class="ltx_Math" display="inline" id="S3.E7.m1" intent=":literal"><semantics><msub><mi>𝐡</mi><mn>1</mn></msub><annotation encoding="application/x-tex">\displaystyle\mathbf{h}_{1}</annotation></semantics></math></td>
+<td class="ltx_td ltx_align_left ltx_eqn_cell"><math alttext="\displaystyle=\text{ReLU}(W_{1}\mathbf{x}+\mathbf{b}_{1}),\quad\mathbf{h}_{1}\in\mathbb{R}^{10}" class="ltx_Math" display="inline" id="S3.E7.m2" intent=":literal"><semantics><mrow><mrow><mi></mi><mo>=</mo><mrow><mtext>ReLU</mtext><mo lspace="0em" rspace="0em">​</mo><mrow><mo stretchy="false">(</mo><mrow><mrow><msub><mi>W</mi><mn>1</mn></msub><mo lspace="0em" rspace="0em">​</mo><mi>𝐱</mi></mrow><mo>+</mo><msub><mi>𝐛</mi><mn>1</mn></msub></mrow><mo stretchy="false">)</mo></mrow></mrow></mrow><mo rspace="1.167em">,</mo><mrow><msub><mi>𝐡</mi><mn>1</mn></msub><mo>∈</mo><msup><mi>ℝ</mi><mn>10</mn></msup></mrow></mrow><annotation encoding="application/x-tex">\displaystyle=\text{ReLU}(W_{1}\mathbf{x}+\mathbf{b}_{1}),\quad\mathbf{h}_{1}\in\mathbb{R}^{10}</annotation></semantics></math></td>
+<td class="ltx_eqn_cell ltx_eqn_center_padright"></td>
+<td class="ltx_eqn_cell ltx_eqn_eqno ltx_align_middle ltx_align_right" rowspan="1"><span class="ltx_tag ltx_tag_equation ltx_align_right">(7)</span></td>
+</tr></tbody>
+<tbody id="S3.E8"><tr class="ltx_equation ltx_eqn_row ltx_align_baseline">
+<td class="ltx_eqn_cell ltx_eqn_center_padleft"></td>
+<td class="ltx_td ltx_align_right ltx_eqn_cell"><math alttext="\displaystyle\mathbf{h}_{2}" class="ltx_Math" display="inline" id="S3.E8.m1" intent=":literal"><semantics><msub><mi>𝐡</mi><mn>2</mn></msub><annotation encoding="application/x-tex">\displaystyle\mathbf{h}_{2}</annotation></semantics></math></td>
+<td class="ltx_td ltx_align_left ltx_eqn_cell"><math alttext="\displaystyle=\text{ReLU}(W_{2}\mathbf{h}_{1}+\mathbf{b}_{2}),\quad\mathbf{h}_{2}\in\mathbb{R}^{10}" class="ltx_Math" display="inline" id="S3.E8.m2" intent=":literal"><semantics><mrow><mrow><mi></mi><mo>=</mo><mrow><mtext>ReLU</mtext><mo lspace="0em" rspace="0em">​</mo><mrow><mo stretchy="false">(</mo><mrow><mrow><msub><mi>W</mi><mn>2</mn></msub><mo lspace="0em" rspace="0em">​</mo><msub><mi>𝐡</mi><mn>1</mn></msub></mrow><mo>+</mo><msub><mi>𝐛</mi><mn>2</mn></msub></mrow><mo stretchy="false">)</mo></mrow></mrow></mrow><mo rspace="1.167em">,</mo><mrow><msub><mi>𝐡</mi><mn>2</mn></msub><mo>∈</mo><msup><mi>ℝ</mi><mn>10</mn></msup></mrow></mrow><annotation encoding="application/x-tex">\displaystyle=\text{ReLU}(W_{2}\mathbf{h}_{1}+\mathbf{b}_{2}),\quad\mathbf{h}_{2}\in\mathbb{R}^{10}</annotation></semantics></math></td>
+<td class="ltx_eqn_cell ltx_eqn_center_padright"></td>
+<td class="ltx_eqn_cell ltx_eqn_eqno ltx_align_middle ltx_align_right" rowspan="1"><span class="ltx_tag ltx_tag_equation ltx_align_right">(8)</span></td>
+</tr></tbody>
+<tbody id="S3.E9"><tr class="ltx_equation ltx_eqn_row ltx_align_baseline">
+<td class="ltx_eqn_cell ltx_eqn_center_padleft"></td>
+<td class="ltx_td ltx_align_right ltx_eqn_cell"><math alttext="\displaystyle\mathbf{h}_{3}" class="ltx_Math" display="inline" id="S3.E9.m1" intent=":literal"><semantics><msub><mi>𝐡</mi><mn>3</mn></msub><annotation encoding="application/x-tex">\displaystyle\mathbf{h}_{3}</annotation></semantics></math></td>
+<td class="ltx_td ltx_align_left ltx_eqn_cell"><math alttext="\displaystyle=\text{ReLU}(W_{3}\mathbf{h}_{2}+\mathbf{b}_{3}),\quad\mathbf{h}_{3}\in\mathbb{R}^{10}" class="ltx_Math" display="inline" id="S3.E9.m2" intent=":literal"><semantics><mrow><mrow><mi></mi><mo>=</mo><mrow><mtext>ReLU</mtext><mo lspace="0em" rspace="0em">​</mo><mrow><mo stretchy="false">(</mo><mrow><mrow><msub><mi>W</mi><mn>3</mn></msub><mo lspace="0em" rspace="0em">​</mo><msub><mi>𝐡</mi><mn>2</mn></msub></mrow><mo>+</mo><msub><mi>𝐛</mi><mn>3</mn></msub></mrow><mo stretchy="false">)</mo></mrow></mrow></mrow><mo rspace="1.167em">,</mo><mrow><msub><mi>𝐡</mi><mn>3</mn></msub><mo>∈</mo><msup><mi>ℝ</mi><mn>10</mn></msup></mrow></mrow><annotation encoding="application/x-tex">\displaystyle=\text{ReLU}(W_{3}\mathbf{h}_{2}+\mathbf{b}_{3}),\quad\mathbf{h}_{3}\in\mathbb{R}^{10}</annotation></semantics></math></td>
+<td class="ltx_eqn_cell ltx_eqn_center_padright"></td>
+<td class="ltx_eqn_cell ltx_eqn_eqno ltx_align_middle ltx_align_right" rowspan="1"><span class="ltx_tag ltx_tag_equation ltx_align_right">(9)</span></td>
+</tr></tbody>
+<tbody id="S3.E10"><tr class="ltx_equation ltx_eqn_row ltx_align_baseline">
+<td class="ltx_eqn_cell ltx_eqn_center_padleft"></td>
+<td class="ltx_td ltx_align_right ltx_eqn_cell"><math alttext="\displaystyle\mathbf{h}_{4}" class="ltx_Math" display="inline" id="S3.E10.m1" intent=":literal"><semantics><msub><mi>𝐡</mi><mn>4</mn></msub><annotation encoding="application/x-tex">\displaystyle\mathbf{h}_{4}</annotation></semantics></math></td>
+<td class="ltx_td ltx_align_left ltx_eqn_cell"><math alttext="\displaystyle=\text{ReLU}(W_{4}\mathbf{h}_{3}+\mathbf{b}_{4}),\quad\mathbf{h}_{4}\in\mathbb{R}^{5}" class="ltx_Math" display="inline" id="S3.E10.m2" intent=":literal"><semantics><mrow><mrow><mi></mi><mo>=</mo><mrow><mtext>ReLU</mtext><mo lspace="0em" rspace="0em">​</mo><mrow><mo stretchy="false">(</mo><mrow><mrow><msub><mi>W</mi><mn>4</mn></msub><mo lspace="0em" rspace="0em">​</mo><msub><mi>𝐡</mi><mn>3</mn></msub></mrow><mo>+</mo><msub><mi>𝐛</mi><mn>4</mn></msub></mrow><mo stretchy="false">)</mo></mrow></mrow></mrow><mo rspace="1.167em">,</mo><mrow><msub><mi>𝐡</mi><mn>4</mn></msub><mo>∈</mo><msup><mi>ℝ</mi><mn>5</mn></msup></mrow></mrow><annotation encoding="application/x-tex">\displaystyle=\text{ReLU}(W_{4}\mathbf{h}_{3}+\mathbf{b}_{4}),\quad\mathbf{h}_{4}\in\mathbb{R}^{5}</annotation></semantics></math></td>
+<td class="ltx_eqn_cell ltx_eqn_center_padright"></td>
+<td class="ltx_eqn_cell ltx_eqn_eqno ltx_align_middle ltx_align_right" rowspan="1"><span class="ltx_tag ltx_tag_equation ltx_align_right">(10)</span></td>
+</tr></tbody>
+<tbody id="S3.E11"><tr class="ltx_equation ltx_eqn_row ltx_align_baseline">
+<td class="ltx_eqn_cell ltx_eqn_center_padleft"></td>
+<td class="ltx_td ltx_align_right ltx_eqn_cell"><math alttext="\displaystyle\hat{y}" class="ltx_Math" display="inline" id="S3.E11.m1" intent=":literal"><semantics><mover accent="true"><mi>y</mi><mo>^</mo></mover><annotation encoding="application/x-tex">\displaystyle\hat{y}</annotation></semantics></math></td>
+<td class="ltx_td ltx_align_left ltx_eqn_cell"><math alttext="\displaystyle=W_{5}\mathbf{h}_{4}+b_{5},\quad\hat{y}\in\mathbb{R}" class="ltx_Math" display="inline" id="S3.E11.m2" intent=":literal"><semantics><mrow><mrow><mi></mi><mo>=</mo><mrow><mrow><msub><mi>W</mi><mn>5</mn></msub><mo lspace="0em" rspace="0em">​</mo><msub><mi>𝐡</mi><mn>4</mn></msub></mrow><mo>+</mo><msub><mi>b</mi><mn>5</mn></msub></mrow></mrow><mo rspace="1.167em">,</mo><mrow><mover accent="true"><mi>y</mi><mo>^</mo></mover><mo>∈</mo><mi>ℝ</mi></mrow></mrow><annotation encoding="application/x-tex">\displaystyle=W_{5}\mathbf{h}_{4}+b_{5},\quad\hat{y}\in\mathbb{R}</annotation></semantics></math></td>
+<td class="ltx_eqn_cell ltx_eqn_center_padright"></td>
+<td class="ltx_eqn_cell ltx_eqn_eqno ltx_align_middle ltx_align_right" rowspan="1"><span class="ltx_tag ltx_tag_equation ltx_align_right">(11)</span></td>
+</tr></tbody>
+</table>
+</div>
+<div class="ltx_para" id="S3.SS2.SSS1.Px2.p5">
+<p class="ltx_p">where <math alttext="W_{i}" class="ltx_Math" display="inline" id="S3.SS2.SSS1.Px2.p5.m1" intent=":literal"><semantics><msub><mi>W</mi><mi>i</mi></msub><annotation encoding="application/x-tex">W_{i}</annotation></semantics></math> and <math alttext="\mathbf{b}_{i}" class="ltx_Math" display="inline" id="S3.SS2.SSS1.Px2.p5.m2" intent=":literal"><semantics><msub><mi>𝐛</mi><mi>i</mi></msub><annotation encoding="application/x-tex">\mathbf{b}_{i}</annotation></semantics></math> are the weight matrices and bias vectors for layer <math alttext="i" class="ltx_Math" display="inline" id="S3.SS2.SSS1.Px2.p5.m3" intent=":literal"><semantics><mi>i</mi><annotation encoding="application/x-tex">i</annotation></semantics></math>, and <math alttext="\text{ReLU}(z)=\max(0,z)" class="ltx_Math" display="inline" id="S3.SS2.SSS1.Px2.p5.m4" intent=":literal"><semantics><mrow><mrow><mtext>ReLU</mtext><mo lspace="0em" rspace="0em">​</mo><mrow><mo stretchy="false">(</mo><mi>z</mi><mo stretchy="false">)</mo></mrow></mrow><mo>=</mo><mrow><mi>max</mi><mo>⁡</mo><mrow><mo stretchy="false">(</mo><mn>0</mn><mo>,</mo><mi>z</mi><mo stretchy="false">)</mo></mrow></mrow></mrow><annotation encoding="application/x-tex">\text{ReLU}(z)=\max(0,z)</annotation></semantics></math> is the Rectified Linear Unit activation function.</p>
+</div>
+<div class="ltx_para" id="S3.SS2.SSS1.Px2.p6">
+<p class="ltx_p">The network is trained to minimize the mean squared error (MSE) loss function:</p>
+<table class="ltx_equation ltx_eqn_table" id="S3.E12">
+<tbody><tr class="ltx_equation ltx_eqn_row ltx_align_baseline">
+<td class="ltx_eqn_cell ltx_eqn_center_padleft"></td>
+<td class="ltx_eqn_cell ltx_align_center"><math alttext="\mathcal{L}(\theta)=\frac{1}{n}\sum_{i=1}^{n}(y_{i}-\hat{y}_{i})^{2}" class="ltx_Math" display="block" id="S3.E12.m1" intent=":literal"><semantics><mrow><mrow><mi class="ltx_font_mathcaligraphic">ℒ</mi><mo lspace="0em" rspace="0em">​</mo><mrow><mo stretchy="false">(</mo><mi>θ</mi><mo stretchy="false">)</mo></mrow></mrow><mo>=</mo><mrow><mfrac><mn>1</mn><mi>n</mi></mfrac><mo lspace="0em" rspace="0em">​</mo><mrow><munderover><mo movablelimits="false" rspace="0em">∑</mo><mrow><mi>i</mi><mo>=</mo><mn>1</mn></mrow><mi>n</mi></munderover><msup><mrow><mo stretchy="false">(</mo><mrow><msub><mi>y</mi><mi>i</mi></msub><mo>−</mo><msub><mover accent="true"><mi>y</mi><mo>^</mo></mover><mi>i</mi></msub></mrow><mo stretchy="false">)</mo></mrow><mn>2</mn></msup></mrow></mrow></mrow><annotation encoding="application/x-tex">\mathcal{L}(\theta)=\frac{1}{n}\sum_{i=1}^{n}(y_{i}-\hat{y}_{i})^{2}</annotation></semantics></math></td>
+<td class="ltx_eqn_cell ltx_eqn_center_padright"></td>
+<td class="ltx_eqn_cell ltx_eqn_eqno ltx_align_middle ltx_align_right" rowspan="1"><span class="ltx_tag ltx_tag_equation ltx_align_right">(12)</span></td>
+</tr></tbody>
+</table>
+<p class="ltx_p">where <math alttext="\theta=\{W_{1},\mathbf{b}_{1},\ldots,W_{5},b_{5}\}" class="ltx_Math" display="inline" id="S3.SS2.SSS1.Px2.p6.m1" intent=":literal"><semantics><mrow><mi>θ</mi><mo>=</mo><mrow><mo stretchy="false">{</mo><msub><mi>W</mi><mn>1</mn></msub><mo>,</mo><msub><mi>𝐛</mi><mn>1</mn></msub><mo>,</mo><mi mathvariant="normal">…</mi><mo>,</mo><msub><mi>W</mi><mn>5</mn></msub><mo>,</mo><msub><mi>b</mi><mn>5</mn></msub><mo stretchy="false">}</mo></mrow></mrow><annotation encoding="application/x-tex">\theta=\{W_{1},\mathbf{b}_{1},\ldots,W_{5},b_{5}\}</annotation></semantics></math> represents all trainable parameters, <math alttext="y_{i}" class="ltx_Math" display="inline" id="S3.SS2.SSS1.Px2.p6.m2" intent=":literal"><semantics><msub><mi>y</mi><mi>i</mi></msub><annotation encoding="application/x-tex">y_{i}</annotation></semantics></math> is the actual price change, and <math alttext="\hat{y}_{i}" class="ltx_Math" display="inline" id="S3.SS2.SSS1.Px2.p6.m3" intent=":literal"><semantics><msub><mover accent="true"><mi>y</mi><mo>^</mo></mover><mi>i</mi></msub><annotation encoding="application/x-tex">\hat{y}_{i}</annotation></semantics></math> is the predicted price change.</p>
+</div>
+<div class="ltx_para" id="S3.SS2.SSS1.Px2.p7">
+<p class="ltx_p">The Adam optimizer is employed for parameter updates with adaptive learning rates:</p>
+<table class="ltx_equationgroup ltx_eqn_align ltx_eqn_table" id="Sx3.EGx2">
+<tbody id="S3.E13"><tr class="ltx_equation ltx_eqn_row ltx_align_baseline">
+<td class="ltx_eqn_cell ltx_eqn_center_padleft"></td>
+<td class="ltx_td ltx_align_right ltx_eqn_cell"><math alttext="\displaystyle m_{t}" class="ltx_Math" display="inline" id="S3.E13.m1" intent=":literal"><semantics><msub><mi>m</mi><mi>t</mi></msub><annotation encoding="application/x-tex">\displaystyle m_{t}</annotation></semantics></math></td>
+<td class="ltx_td ltx_align_left ltx_eqn_cell"><math alttext="\displaystyle=\beta_{1}m_{t-1}+(1-\beta_{1})\nabla_{\theta}\mathcal{L}_{t}" class="ltx_Math" display="inline" id="S3.E13.m2" intent=":literal"><semantics><mrow><mi></mi><mo>=</mo><mrow><mrow><msub><mi>β</mi><mn>1</mn></msub><mo lspace="0em" rspace="0em">​</mo><msub><mi>m</mi><mrow><mi>t</mi><mo>−</mo><mn>1</mn></mrow></msub></mrow><mo>+</mo><mrow><mrow><mo stretchy="false">(</mo><mrow><mn>1</mn><mo>−</mo><msub><mi>β</mi><mn>1</mn></msub></mrow><mo stretchy="false">)</mo></mrow><mo lspace="0.167em" rspace="0em">​</mo><mrow><msub><mo rspace="0.167em">∇</mo><mi>θ</mi></msub><msub><mi class="ltx_font_mathcaligraphic">ℒ</mi><mi>t</mi></msub></mrow></mrow></mrow></mrow><annotation encoding="application/x-tex">\displaystyle=\beta_{1}m_{t-1}+(1-\beta_{1})\nabla_{\theta}\mathcal{L}_{t}</annotation></semantics></math></td>
+<td class="ltx_eqn_cell ltx_eqn_center_padright"></td>
+<td class="ltx_eqn_cell ltx_eqn_eqno ltx_align_middle ltx_align_right" rowspan="1"><span class="ltx_tag ltx_tag_equation ltx_align_right">(13)</span></td>
+</tr></tbody>
+<tbody id="S3.E14"><tr class="ltx_equation ltx_eqn_row ltx_align_baseline">
+<td class="ltx_eqn_cell ltx_eqn_center_padleft"></td>
+<td class="ltx_td ltx_align_right ltx_eqn_cell"><math alttext="\displaystyle v_{t}" class="ltx_Math" display="inline" id="S3.E14.m1" intent=":literal"><semantics><msub><mi>v</mi><mi>t</mi></msub><annotation encoding="application/x-tex">\displaystyle v_{t}</annotation></semantics></math></td>
+<td class="ltx_td ltx_align_left ltx_eqn_cell"><math alttext="\displaystyle=\beta_{2}v_{t-1}+(1-\beta_{2})(\nabla_{\theta}\mathcal{L}_{t})^{2}" class="ltx_Math" display="inline" id="S3.E14.m2" intent=":literal"><semantics><mrow><mi></mi><mo>=</mo><mrow><mrow><msub><mi>β</mi><mn>2</mn></msub><mo lspace="0em" rspace="0em">​</mo><msub><mi>v</mi><mrow><mi>t</mi><mo>−</mo><mn>1</mn></mrow></msub></mrow><mo>+</mo><mrow><mrow><mo stretchy="false">(</mo><mrow><mn>1</mn><mo>−</mo><msub><mi>β</mi><mn>2</mn></msub></mrow><mo stretchy="false">)</mo></mrow><mo lspace="0em" rspace="0em">​</mo><msup><mrow><mo stretchy="false">(</mo><mrow><msub><mo rspace="0.167em">∇</mo><mi>θ</mi></msub><msub><mi class="ltx_font_mathcaligraphic">ℒ</mi><mi>t</mi></msub></mrow><mo stretchy="false">)</mo></mrow><mn>2</mn></msup></mrow></mrow></mrow><annotation encoding="application/x-tex">\displaystyle=\beta_{2}v_{t-1}+(1-\beta_{2})(\nabla_{\theta}\mathcal{L}_{t})^{2}</annotation></semantics></math></td>
+<td class="ltx_eqn_cell ltx_eqn_center_padright"></td>
+<td class="ltx_eqn_cell ltx_eqn_eqno ltx_align_middle ltx_align_right" rowspan="1"><span class="ltx_tag ltx_tag_equation ltx_align_right">(14)</span></td>
+</tr></tbody>
+<tbody id="S3.E15"><tr class="ltx_equation ltx_eqn_row ltx_align_baseline">
+<td class="ltx_eqn_cell ltx_eqn_center_padleft"></td>
+<td class="ltx_td ltx_align_right ltx_eqn_cell"><math alttext="\displaystyle\hat{m}_{t}" class="ltx_Math" display="inline" id="S3.E15.m1" intent=":literal"><semantics><msub><mover accent="true"><mi>m</mi><mo>^</mo></mover><mi>t</mi></msub><annotation encoding="application/x-tex">\displaystyle\hat{m}_{t}</annotation></semantics></math></td>
+<td class="ltx_td ltx_align_left ltx_eqn_cell"><math alttext="\displaystyle=\frac{m_{t}}{1-\beta_{1}^{t}},\quad\hat{v}_{t}=\frac{v_{t}}{1-\beta_{2}^{t}}" class="ltx_Math" display="inline" id="S3.E15.m2" intent=":literal"><semantics><mrow><mrow><mi></mi><mo>=</mo><mstyle displaystyle="true"><mfrac><msub><mi>m</mi><mi>t</mi></msub><mrow><mn>1</mn><mo>−</mo><msubsup><mi>β</mi><mn>1</mn><mi>t</mi></msubsup></mrow></mfrac></mstyle></mrow><mo rspace="1.167em">,</mo><mrow><msub><mover accent="true"><mi>v</mi><mo>^</mo></mover><mi>t</mi></msub><mo>=</mo><mstyle displaystyle="true"><mfrac><msub><mi>v</mi><mi>t</mi></msub><mrow><mn>1</mn><mo>−</mo><msubsup><mi>β</mi><mn>2</mn><mi>t</mi></msubsup></mrow></mfrac></mstyle></mrow></mrow><annotation encoding="application/x-tex">\displaystyle=\frac{m_{t}}{1-\beta_{1}^{t}},\quad\hat{v}_{t}=\frac{v_{t}}{1-\beta_{2}^{t}}</annotation></semantics></math></td>
+<td class="ltx_eqn_cell ltx_eqn_center_padright"></td>
+<td class="ltx_eqn_cell ltx_eqn_eqno ltx_align_middle ltx_align_right" rowspan="1"><span class="ltx_tag ltx_tag_equation ltx_align_right">(15)</span></td>
+</tr></tbody>
+<tbody id="S3.E16"><tr class="ltx_equation ltx_eqn_row ltx_align_baseline">
+<td class="ltx_eqn_cell ltx_eqn_center_padleft"></td>
+<td class="ltx_td ltx_align_right ltx_eqn_cell"><math alttext="\displaystyle\theta_{t+1}" class="ltx_Math" display="inline" id="S3.E16.m1" intent=":literal"><semantics><msub><mi>θ</mi><mrow><mi>t</mi><mo>+</mo><mn>1</mn></mrow></msub><annotation encoding="application/x-tex">\displaystyle\theta_{t+1}</annotation></semantics></math></td>
+<td class="ltx_td ltx_align_left ltx_eqn_cell"><math alttext="\displaystyle=\theta_{t}-\alpha\frac{\hat{m}_{t}}{\sqrt{\hat{v}_{t}}+\epsilon}" class="ltx_Math" display="inline" id="S3.E16.m2" intent=":literal"><semantics><mrow><mi></mi><mo>=</mo><mrow><msub><mi>θ</mi><mi>t</mi></msub><mo>−</mo><mrow><mi>α</mi><mo lspace="0em" rspace="0em">​</mo><mstyle displaystyle="true"><mfrac><msub><mover accent="true"><mi>m</mi><mo>^</mo></mover><mi>t</mi></msub><mrow><msqrt><msub><mover accent="true"><mi>v</mi><mo>^</mo></mover><mi>t</mi></msub></msqrt><mo>+</mo><mi>ϵ</mi></mrow></mfrac></mstyle></mrow></mrow></mrow><annotation encoding="application/x-tex">\displaystyle=\theta_{t}-\alpha\frac{\hat{m}_{t}}{\sqrt{\hat{v}_{t}}+\epsilon}</annotation></semantics></math></td>
+<td class="ltx_eqn_cell ltx_eqn_center_padright"></td>
+<td class="ltx_eqn_cell ltx_eqn_eqno ltx_align_middle ltx_align_right" rowspan="1"><span class="ltx_tag ltx_tag_equation ltx_align_right">(16)</span></td>
+</tr></tbody>
+</table>
+</div>
+<div class="ltx_para" id="S3.SS2.SSS1.Px2.p8">
+<p class="ltx_p">where <math alttext="\alpha=0.001" class="ltx_Math" display="inline" id="S3.SS2.SSS1.Px2.p8.m1" intent=":literal"><semantics><mrow><mi>α</mi><mo>=</mo><mn>0.001</mn></mrow><annotation encoding="application/x-tex">\alpha=0.001</annotation></semantics></math> is the learning rate, <math alttext="\beta_{1}=0.9" class="ltx_Math" display="inline" id="S3.SS2.SSS1.Px2.p8.m2" intent=":literal"><semantics><mrow><msub><mi>β</mi><mn>1</mn></msub><mo>=</mo><mn>0.9</mn></mrow><annotation encoding="application/x-tex">\beta_{1}=0.9</annotation></semantics></math> and <math alttext="\beta_{2}=0.999" class="ltx_Math" display="inline" id="S3.SS2.SSS1.Px2.p8.m3" intent=":literal"><semantics><mrow><msub><mi>β</mi><mn>2</mn></msub><mo>=</mo><mn>0.999</mn></mrow><annotation encoding="application/x-tex">\beta_{2}=0.999</annotation></semantics></math> are the exponential decay rates, and <math alttext="\epsilon=10^{-8}" class="ltx_Math" display="inline" id="S3.SS2.SSS1.Px2.p8.m4" intent=":literal"><semantics><mrow><mi>ϵ</mi><mo>=</mo><msup><mn>10</mn><mrow><mo>−</mo><mn>8</mn></mrow></msup></mrow><annotation encoding="application/x-tex">\epsilon=10^{-8}</annotation></semantics></math> is a small constant for numerical stability. The model was trained for five epochs to balance training time and risk of overfitting.</p>
+</div>
+<div class="ltx_para" id="S3.SS2.SSS1.Px2.p9">
+<p class="ltx_p">The complete network architecture can be represented as:</p>
+<table class="ltx_equation ltx_eqn_table" id="S3.E17">
+<tbody><tr class="ltx_equation ltx_eqn_row ltx_align_baseline">
+<td class="ltx_eqn_cell ltx_eqn_center_padleft"></td>
+<td class="ltx_eqn_cell ltx_align_center"><math alttext="f_{NN}:\mathbb{R}^{5}\xrightarrow{W_{1}}\mathbb{R}^{10}\xrightarrow{W_{2}}\mathbb{R}^{10}\xrightarrow{W_{3}}\mathbb{R}^{10}\xrightarrow{W_{4}}\mathbb{R}^{5}\xrightarrow{W_{5}}\mathbb{R}" class="ltx_Math" display="block" id="S3.E17.m1" intent=":literal"><semantics><mrow><msub><mi>f</mi><mrow><mi>N</mi><mo lspace="0em" rspace="0em">​</mo><mi>N</mi></mrow></msub><mo lspace="0.278em" rspace="0.278em">:</mo><mrow><msup><mi>ℝ</mi><mn>5</mn></msup><mover accent="true"><mo stretchy="false">→</mo><msub><mi>W</mi><mn>1</mn></msub></mover><msup><mi>ℝ</mi><mn>10</mn></msup><mover accent="true"><mo stretchy="false">→</mo><msub><mi>W</mi><mn>2</mn></msub></mover><msup><mi>ℝ</mi><mn>10</mn></msup><mover accent="true"><mo stretchy="false">→</mo><msub><mi>W</mi><mn>3</mn></msub></mover><msup><mi>ℝ</mi><mn>10</mn></msup><mover accent="true"><mo stretchy="false">→</mo><msub><mi>W</mi><mn>4</mn></msub></mover><msup><mi>ℝ</mi><mn>5</mn></msup><mover accent="true"><mo stretchy="false">→</mo><msub><mi>W</mi><mn>5</mn></msub></mover><mi>ℝ</mi></mrow></mrow><annotation encoding="application/x-tex">f_{NN}:\mathbb{R}^{5}\xrightarrow{W_{1}}\mathbb{R}^{10}\xrightarrow{W_{2}}\mathbb{R}^{10}\xrightarrow{W_{3}}\mathbb{R}^{10}\xrightarrow{W_{4}}\mathbb{R}^{5}\xrightarrow{W_{5}}\mathbb{R}</annotation></semantics></math></td>
+<td class="ltx_eqn_cell ltx_eqn_center_padright"></td>
+<td class="ltx_eqn_cell ltx_eqn_eqno ltx_align_middle ltx_align_right" rowspan="1"><span class="ltx_tag ltx_tag_equation ltx_align_right">(17)</span></td>
+</tr></tbody>
+</table>
+</div>
+<div class="ltx_para" id="S3.SS2.SSS1.Px2.p10">
+<p class="ltx_p">Neural networks can encounter challenges in hyperparameter tuning and overfitting. Overcoming these challenges can be achieved by cross-validation and automated hyperparameter optimization.</p>
+</div>
+</section>
+</section>
+<section class="ltx_subsubsection ltx_indent_first" id="S3.SS2.SSS2">
+<h4 class="ltx_title ltx_title_subsubsection">
+<span class="ltx_tag ltx_tag_subsubsection">3.2.2 </span>Data Management</h4>
+<div class="ltx_para" id="S3.SS2.SSS2.p1">
+<p class="ltx_p">Effective data management is crucial for optimizing the model’s forecasting performance. The algorithm uses a rolling window approach to update historical price data continuously. At each time step <math alttext="t" class="ltx_Math" display="inline" id="S3.SS2.SSS2.p1.m1" intent=":literal"><semantics><mi>t</mi><annotation encoding="application/x-tex">t</annotation></semantics></math>, a window of size <math alttext="k" class="ltx_Math" display="inline" id="S3.SS2.SSS2.p1.m2" intent=":literal"><semantics><mi>k</mi><annotation encoding="application/x-tex">k</annotation></semantics></math> is maintained:</p>
+<table class="ltx_equation ltx_eqn_table" id="S3.E18">
+<tbody><tr class="ltx_equation ltx_eqn_row ltx_align_baseline">
+<td class="ltx_eqn_cell ltx_eqn_center_padleft"></td>
+<td class="ltx_eqn_cell ltx_align_center"><math alttext="\mathcal{W}_{t}=\{P_{t-k+1},P_{t-k+2},\ldots,P_{t}\}" class="ltx_Math" display="block" id="S3.E18.m1" intent=":literal"><semantics><mrow><msub><mi class="ltx_font_mathcaligraphic">𝒲</mi><mi>t</mi></msub><mo>=</mo><mrow><mo stretchy="false">{</mo><msub><mi>P</mi><mrow><mrow><mi>t</mi><mo>−</mo><mi>k</mi></mrow><mo>+</mo><mn>1</mn></mrow></msub><mo>,</mo><msub><mi>P</mi><mrow><mrow><mi>t</mi><mo>−</mo><mi>k</mi></mrow><mo>+</mo><mn>2</mn></mrow></msub><mo>,</mo><mi mathvariant="normal">…</mi><mo>,</mo><msub><mi>P</mi><mi>t</mi></msub><mo stretchy="false">}</mo></mrow></mrow><annotation encoding="application/x-tex">\mathcal{W}_{t}=\{P_{t-k+1},P_{t-k+2},\ldots,P_{t}\}</annotation></semantics></math></td>
+<td class="ltx_eqn_cell ltx_eqn_center_padright"></td>
+<td class="ltx_eqn_cell ltx_eqn_eqno ltx_align_middle ltx_align_right" rowspan="1"><span class="ltx_tag ltx_tag_equation ltx_align_right">(18)</span></td>
+</tr></tbody>
+</table>
+</div>
+<div class="ltx_para" id="S3.SS2.SSS2.p2">
+<p class="ltx_p">Feature extraction differs between the two models to leverage their respective strengths:</p>
+</div>
+<div class="ltx_para" id="S3.SS2.SSS2.p3">
+<p class="ltx_p">For the HMM, log returns are computed as:</p>
+<table class="ltx_equation ltx_eqn_table" id="S3.E19">
+<tbody><tr class="ltx_equation ltx_eqn_row ltx_align_baseline">
+<td class="ltx_eqn_cell ltx_eqn_center_padleft"></td>
+<td class="ltx_eqn_cell ltx_align_center"><math alttext="r_{t}=\ln\left(\frac{P_{t}}{P_{t-1}}\right)" class="ltx_Math" display="block" id="S3.E19.m1" intent=":literal"><semantics><mrow><msub><mi>r</mi><mi>t</mi></msub><mo>=</mo><mrow><mi>ln</mi><mo>⁡</mo><mrow><mo>(</mo><mfrac><msub><mi>P</mi><mi>t</mi></msub><msub><mi>P</mi><mrow><mi>t</mi><mo>−</mo><mn>1</mn></mrow></msub></mfrac><mo>)</mo></mrow></mrow></mrow><annotation encoding="application/x-tex">r_{t}=\ln\left(\frac{P_{t}}{P_{t-1}}\right)</annotation></semantics></math></td>
+<td class="ltx_eqn_cell ltx_eqn_center_padright"></td>
+<td class="ltx_eqn_cell ltx_eqn_eqno ltx_align_middle ltx_align_right" rowspan="1"><span class="ltx_tag ltx_tag_equation ltx_align_right">(19)</span></td>
+</tr></tbody>
+</table>
+</div>
+<div class="ltx_para" id="S3.SS2.SSS2.p4">
+<p class="ltx_p">For the neural network, price differences are used as features:</p>
+<table class="ltx_equation ltx_eqn_table" id="S3.E20">
+<tbody><tr class="ltx_equation ltx_eqn_row ltx_align_baseline">
+<td class="ltx_eqn_cell ltx_eqn_center_padleft"></td>
+<td class="ltx_eqn_cell ltx_align_center"><math alttext="\Delta P_{t}=P_{t}-P_{t-1}" class="ltx_Math" display="block" id="S3.E20.m1" intent=":literal"><semantics><mrow><mrow><mi mathvariant="normal">Δ</mi><mo lspace="0em" rspace="0em">​</mo><msub><mi>P</mi><mi>t</mi></msub></mrow><mo>=</mo><mrow><msub><mi>P</mi><mi>t</mi></msub><mo>−</mo><msub><mi>P</mi><mrow><mi>t</mi><mo>−</mo><mn>1</mn></mrow></msub></mrow></mrow><annotation encoding="application/x-tex">\Delta P_{t}=P_{t}-P_{t-1}</annotation></semantics></math></td>
+<td class="ltx_eqn_cell ltx_eqn_center_padright"></td>
+<td class="ltx_eqn_cell ltx_eqn_eqno ltx_align_middle ltx_align_right" rowspan="1"><span class="ltx_tag ltx_tag_equation ltx_align_right">(20)</span></td>
+</tr></tbody>
+</table>
+</div>
+<div class="ltx_para" id="S3.SS2.SSS2.p5">
+<p class="ltx_p">Data normalization is applied to ensure numerical stability:</p>
+<table class="ltx_equation ltx_eqn_table" id="S3.E21">
+<tbody><tr class="ltx_equation ltx_eqn_row ltx_align_baseline">
+<td class="ltx_eqn_cell ltx_eqn_center_padleft"></td>
+<td class="ltx_eqn_cell ltx_align_center"><math alttext="x_{\text{norm}}=\frac{x-\mu}{\sigma}" class="ltx_Math" display="block" id="S3.E21.m1" intent=":literal"><semantics><mrow><msub><mi>x</mi><mtext>norm</mtext></msub><mo>=</mo><mfrac><mrow><mi>x</mi><mo>−</mo><mi>μ</mi></mrow><mi>σ</mi></mfrac></mrow><annotation encoding="application/x-tex">x_{\text{norm}}=\frac{x-\mu}{\sigma}</annotation></semantics></math></td>
+<td class="ltx_eqn_cell ltx_eqn_center_padright"></td>
+<td class="ltx_eqn_cell ltx_eqn_eqno ltx_align_middle ltx_align_right" rowspan="1"><span class="ltx_tag ltx_tag_equation ltx_align_right">(21)</span></td>
+</tr></tbody>
+</table>
+<p class="ltx_p">where <math alttext="\mu" class="ltx_Math" display="inline" id="S3.SS2.SSS2.p5.m1" intent=":literal"><semantics><mi>μ</mi><annotation encoding="application/x-tex">\mu</annotation></semantics></math> and <math alttext="\sigma" class="ltx_Math" display="inline" id="S3.SS2.SSS2.p5.m2" intent=":literal"><semantics><mi>σ</mi><annotation encoding="application/x-tex">\sigma</annotation></semantics></math> are the mean and standard deviation computed over the rolling window.</p>
+</div>
+<div class="ltx_para" id="S3.SS2.SSS2.p6">
+<p class="ltx_p">Data integrity was ensured through validation, adding only trade bars with valid closing prices, and using QuantConnect’s infrastructure for data consistency. The validation criterion requires:</p>
+<table class="ltx_equation ltx_eqn_table" id="S3.E22">
+<tbody><tr class="ltx_equation ltx_eqn_row ltx_align_baseline">
+<td class="ltx_eqn_cell ltx_eqn_center_padleft"></td>
+<td class="ltx_eqn_cell ltx_align_center"><math alttext="P_{t}&gt;0\quad\text{and}\quad|r_{t}|&lt;\tau" class="ltx_Math" display="block" id="S3.E22.m1" intent=":literal"><semantics><mrow><mrow><msub><mi>P</mi><mi>t</mi></msub><mo>&gt;</mo><mrow><mn>0</mn><mspace style="width:1em;" width="1em"></mspace><mtext>and</mtext></mrow></mrow><mspace style="width:1em;" width="1em"></mspace><mrow><mrow><mo stretchy="false">|</mo><msub><mi>r</mi><mi>t</mi></msub><mo stretchy="false">|</mo></mrow><mo>&lt;</mo><mi>τ</mi></mrow></mrow><annotation encoding="application/x-tex">P_{t}&gt;0\quad\text{and}\quad|r_{t}|&lt;\tau</annotation></semantics></math></td>
+<td class="ltx_eqn_cell ltx_eqn_center_padright"></td>
+<td class="ltx_eqn_cell ltx_eqn_eqno ltx_align_middle ltx_align_right" rowspan="1"><span class="ltx_tag ltx_tag_equation ltx_align_right">(22)</span></td>
+</tr></tbody>
+</table>
+<p class="ltx_p">where <math alttext="\tau" class="ltx_Math" display="inline" id="S3.SS2.SSS2.p6.m1" intent=":literal"><semantics><mi>τ</mi><annotation encoding="application/x-tex">\tau</annotation></semantics></math> is a threshold for detecting anomalous returns (e.g., <math alttext="\tau=0.5" class="ltx_Math" display="inline" id="S3.SS2.SSS2.p6.m2" intent=":literal"><semantics><mrow><mi>τ</mi><mo>=</mo><mn>0.5</mn></mrow><annotation encoding="application/x-tex">\tau=0.5</annotation></semantics></math> representing 50% change).</p>
+</div>
+<div class="ltx_para" id="S3.SS2.SSS2.p7">
+<p class="ltx_p">Regular retraining occurs at frequency <math alttext="f" class="ltx_Math" display="inline" id="S3.SS2.SSS2.p7.m1" intent=":literal"><semantics><mi>f</mi><annotation encoding="application/x-tex">f</annotation></semantics></math> (measured in days) to ensure the models adapt to evolving market conditions:</p>
+<table class="ltx_equation ltx_eqn_table" id="S3.E23">
+<tbody><tr class="ltx_equation ltx_eqn_row ltx_align_baseline">
+<td class="ltx_eqn_cell ltx_eqn_center_padleft"></td>
+<td class="ltx_eqn_cell ltx_align_center"><math alttext="\text{Retrain at }t\text{ if }t\mod f=0" class="ltx_Math" display="block" id="S3.E23.m1" intent=":literal"><semantics><mrow><mrow><mrow><mtext>Retrain at </mtext><mo lspace="0em" rspace="0em">​</mo><mi>t</mi><mo lspace="0em" rspace="0em">​</mo><mtext> if </mtext><mo lspace="0em" rspace="0em">​</mo><mi>t</mi></mrow><mo>mod</mo><mi>f</mi></mrow><mo>=</mo><mn>0</mn></mrow><annotation encoding="application/x-tex">\text{Retrain at }t\text{ if }t\mod f=0</annotation></semantics></math></td>
+<td class="ltx_eqn_cell ltx_eqn_center_padright"></td>
+<td class="ltx_eqn_cell ltx_eqn_eqno ltx_align_middle ltx_align_right" rowspan="1"><span class="ltx_tag ltx_tag_equation ltx_align_right">(23)</span></td>
+</tr></tbody>
+</table>
+</div>
+<div class="ltx_para" id="S3.SS2.SSS2.p8">
+<p class="ltx_p">This approach ensures that models have fresh data for predictions while maintaining computational efficiency via error handling and robust data validation across market conditions.</p>
+</div>
+</section>
+<section class="ltx_subsubsection ltx_indent_first" id="S3.SS2.SSS3">
+<h4 class="ltx_title ltx_title_subsubsection">
+<span class="ltx_tag ltx_tag_subsubsection">3.2.3 </span>Models Training</h4>
+<div class="ltx_para" id="S3.SS2.SSS3.p1">
+<p class="ltx_p">HMM training uses a Gaussian HMM with several components to capture and adapt to different market regimes. Neural network training occurs in mini-batches over multiple epochs and involves forward propagation, loss calculation, backpropagation, and parameter updates. This repeatable process enables the network to learn from data, refine parameters, and improve accuracy. A three-year preparation period provides historical data to help models recognize patterns before making predictions.</p>
+</div>
+<div class="ltx_para" id="S3.SS2.SSS3.p2">
+<p class="ltx_p">Cross-validation and regularization techniques are essential for preventing underfitting and overfitting. Incorporating validation metrics and evaluation methods further enhances model performance assessment.</p>
+</div>
+</section>
+<section class="ltx_subsubsection ltx_indent_first" id="S3.SS2.SSS4">
+<h4 class="ltx_title ltx_title_subsubsection">
+<span class="ltx_tag ltx_tag_subsubsection">3.2.4 </span>Insight Generation</h4>
+<div class="ltx_para" id="S3.SS2.SSS4.p1">
+<p class="ltx_p">The dual-model system generates trading insights by integrating predictions from both the HMM and neural network through a consensus-based decision framework.</p>
+</div>
+<div class="ltx_para" id="S3.SS2.SSS4.p2">
+<p class="ltx_p">The HMM produces a state prediction for the next time step using the forward algorithm:</p>
+<table class="ltx_equation ltx_eqn_table" id="S3.E24">
+<tbody><tr class="ltx_equation ltx_eqn_row ltx_align_baseline">
+<td class="ltx_eqn_cell ltx_eqn_center_padleft"></td>
+<td class="ltx_eqn_cell ltx_align_center"><math alttext="\hat{s}_{t+1}=\arg\max_{j\in S}P(s_{t+1}=j|o_{1:t},\lambda)" class="ltx_Math" display="block" id="S3.E24.m1" intent=":literal"><semantics><mrow><msub><mover accent="true"><mi>s</mi><mo>^</mo></mover><mrow><mi>t</mi><mo>+</mo><mn>1</mn></mrow></msub><mo>=</mo><mrow><mrow><mi>arg</mi><mo lspace="0.167em">⁡</mo><mrow><munder><mi>max</mi><mrow><mi>j</mi><mo>∈</mo><mi>S</mi></mrow></munder><mo lspace="0.167em">⁡</mo><mi>P</mi></mrow></mrow><mo lspace="0em" rspace="0em">​</mo><mrow><mo stretchy="false">(</mo><mrow><msub><mi>s</mi><mrow><mi>t</mi><mo>+</mo><mn>1</mn></mrow></msub><mo>=</mo><mrow><mi>j</mi><mo fence="false">|</mo><mrow><msub><mi>o</mi><mrow><mn>1</mn><mo lspace="0.278em" rspace="0.278em">:</mo><mi>t</mi></mrow></msub><mo>,</mo><mi>λ</mi></mrow></mrow></mrow><mo stretchy="false">)</mo></mrow></mrow></mrow><annotation encoding="application/x-tex">\hat{s}_{t+1}=\arg\max_{j\in S}P(s_{t+1}=j|o_{1:t},\lambda)</annotation></semantics></math></td>
+<td class="ltx_eqn_cell ltx_eqn_center_padright"></td>
+<td class="ltx_eqn_cell ltx_eqn_eqno ltx_align_middle ltx_align_right" rowspan="1"><span class="ltx_tag ltx_tag_equation ltx_align_right">(24)</span></td>
+</tr></tbody>
+</table>
+</div>
+<div class="ltx_para" id="S3.SS2.SSS4.p3">
+<p class="ltx_p">For each state <math alttext="j" class="ltx_Math" display="inline" id="S3.SS2.SSS4.p3.m1" intent=":literal"><semantics><mi>j</mi><annotation encoding="application/x-tex">j</annotation></semantics></math>, the expected return is computed from historical data:</p>
+<table class="ltx_equation ltx_eqn_table" id="S3.E25">
+<tbody><tr class="ltx_equation ltx_eqn_row ltx_align_baseline">
+<td class="ltx_eqn_cell ltx_eqn_center_padleft"></td>
+<td class="ltx_eqn_cell ltx_align_center"><math alttext="\mathbb{E}[r|s=j]=\frac{1}{|T_{j}|}\sum_{t\in T_{j}}r_{t}" class="ltx_Math" display="block" id="S3.E25.m1" intent=":literal"><semantics><mrow><mrow><mi>𝔼</mi><mo lspace="0em" rspace="0em">​</mo><mrow><mo stretchy="false">[</mo><mrow><mrow><mi>r</mi><mo fence="false">|</mo><mi>s</mi></mrow><mo>=</mo><mi>j</mi></mrow><mo stretchy="false">]</mo></mrow></mrow><mo>=</mo><mrow><mfrac><mn>1</mn><mrow><mo stretchy="false">|</mo><msub><mi>T</mi><mi>j</mi></msub><mo stretchy="false">|</mo></mrow></mfrac><mo lspace="0em" rspace="0em">​</mo><mrow><munder><mo movablelimits="false">∑</mo><mrow><mi>t</mi><mo>∈</mo><msub><mi>T</mi><mi>j</mi></msub></mrow></munder><msub><mi>r</mi><mi>t</mi></msub></mrow></mrow></mrow><annotation encoding="application/x-tex">\mathbb{E}[r|s=j]=\frac{1}{|T_{j}|}\sum_{t\in T_{j}}r_{t}</annotation></semantics></math></td>
+<td class="ltx_eqn_cell ltx_eqn_center_padright"></td>
+<td class="ltx_eqn_cell ltx_eqn_eqno ltx_align_middle ltx_align_right" rowspan="1"><span class="ltx_tag ltx_tag_equation ltx_align_right">(25)</span></td>
+</tr></tbody>
+</table>
+<p class="ltx_p">where <math alttext="T_{j}=\{t:s_{t}=j\}" class="ltx_Math" display="inline" id="S3.SS2.SSS4.p3.m2" intent=":literal"><semantics><mrow><msub><mi>T</mi><mi>j</mi></msub><mo>=</mo><mrow><mo stretchy="false">{</mo><mi>t</mi><mo lspace="0.278em" rspace="0.278em">:</mo><mrow><msub><mi>s</mi><mi>t</mi></msub><mo>=</mo><mi>j</mi></mrow><mo stretchy="false">}</mo></mrow></mrow><annotation encoding="application/x-tex">T_{j}=\{t:s_{t}=j\}</annotation></semantics></math> is the set of time steps when the system was in state <math alttext="j" class="ltx_Math" display="inline" id="S3.SS2.SSS4.p3.m3" intent=":literal"><semantics><mi>j</mi><annotation encoding="application/x-tex">j</annotation></semantics></math>.</p>
+</div>
+<div class="ltx_para" id="S3.SS2.SSS4.p4">
+<p class="ltx_p">The Neural Network predicts the next price change:</p>
+<table class="ltx_equation ltx_eqn_table" id="S3.E26">
+<tbody><tr class="ltx_equation ltx_eqn_row ltx_align_baseline">
+<td class="ltx_eqn_cell ltx_eqn_center_padleft"></td>
+<td class="ltx_eqn_cell ltx_align_center"><math alttext="\hat{P}_{t+1}=P_{t}+f_{NN}(\mathbf{x}_{t};\theta)" class="ltx_Math" display="block" id="S3.E26.m1" intent=":literal"><semantics><mrow><msub><mover accent="true"><mi>P</mi><mo>^</mo></mover><mrow><mi>t</mi><mo>+</mo><mn>1</mn></mrow></msub><mo>=</mo><mrow><msub><mi>P</mi><mi>t</mi></msub><mo>+</mo><mrow><msub><mi>f</mi><mrow><mi>N</mi><mo lspace="0em" rspace="0em">​</mo><mi>N</mi></mrow></msub><mo lspace="0em" rspace="0em">​</mo><mrow><mo stretchy="false">(</mo><msub><mi>𝐱</mi><mi>t</mi></msub><mo>;</mo><mi>θ</mi><mo stretchy="false">)</mo></mrow></mrow></mrow></mrow><annotation encoding="application/x-tex">\hat{P}_{t+1}=P_{t}+f_{NN}(\mathbf{x}_{t};\theta)</annotation></semantics></math></td>
+<td class="ltx_eqn_cell ltx_eqn_center_padright"></td>
+<td class="ltx_eqn_cell ltx_eqn_eqno ltx_align_middle ltx_align_right" rowspan="1"><span class="ltx_tag ltx_tag_equation ltx_align_right">(26)</span></td>
+</tr></tbody>
+</table>
+<p class="ltx_p">where <math alttext="f_{NN}" class="ltx_Math" display="inline" id="S3.SS2.SSS4.p4.m1" intent=":literal"><semantics><msub><mi>f</mi><mrow><mi>N</mi><mo lspace="0em" rspace="0em">​</mo><mi>N</mi></mrow></msub><annotation encoding="application/x-tex">f_{NN}</annotation></semantics></math> is the trained neural network function with parameters <math alttext="\theta" class="ltx_Math" display="inline" id="S3.SS2.SSS4.p4.m2" intent=":literal"><semantics><mi>θ</mi><annotation encoding="application/x-tex">\theta</annotation></semantics></math>.</p>
+</div>
+<div class="ltx_para" id="S3.SS2.SSS4.p5">
+<p class="ltx_p">The trading signal is generated by combining both predictions through the following decision rule:</p>
+<table class="ltx_equation ltx_eqn_table" id="S3.E27">
+<tbody><tr class="ltx_equation ltx_eqn_row ltx_align_baseline">
+<td class="ltx_eqn_cell ltx_eqn_center_padleft"></td>
+<td class="ltx_eqn_cell ltx_align_center"><math alttext="\text{Signal}_{t}=\begin{cases}+1&amp;\text{(Buy) if }\mathbb{E}[r|s=\hat{s}_{t+1}]&gt;\epsilon\text{ AND }\hat{P}_{t+1}&gt;P_{t}\\
+-1&amp;\text{(Sell) if }\mathbb{E}[r|s=\hat{s}_{t+1}]&lt;-\epsilon\text{ AND }\hat{P}_{t+1}&lt;P_{t}\\
+0&amp;\text{(Hold) otherwise}\end{cases}" class="ltx_Math" display="block" id="S3.E27.m1" intent=":literal"><semantics><mrow><msub><mtext>Signal</mtext><mi>t</mi></msub><mo>=</mo><mrow><mo>{</mo><mtable columnspacing="5pt" displaystyle="true" rowspacing="0pt"><mtr><mtd class="ltx_align_left" columnalign="left"><mrow><mo>+</mo><mn>1</mn></mrow></mtd><mtd class="ltx_align_left" columnalign="left"><mrow><mrow><mtext>(Buy) if </mtext><mo lspace="0em" rspace="0em">​</mo><mi>𝔼</mi><mo lspace="0em" rspace="0em">​</mo><mrow><mo stretchy="false">[</mo><mrow><mrow><mi>r</mi><mo fence="false">|</mo><mi>s</mi></mrow><mo>=</mo><msub><mover accent="true"><mi>s</mi><mo>^</mo></mover><mrow><mi>t</mi><mo>+</mo><mn>1</mn></mrow></msub></mrow><mo stretchy="false">]</mo></mrow></mrow><mo>&gt;</mo><mrow><mi>ϵ</mi><mo lspace="0em" rspace="0em">​</mo><mtext> AND </mtext><mo lspace="0em" rspace="0em">​</mo><msub><mover accent="true"><mi>P</mi><mo>^</mo></mover><mrow><mi>t</mi><mo>+</mo><mn>1</mn></mrow></msub></mrow><mo>&gt;</mo><msub><mi>P</mi><mi>t</mi></msub></mrow></mtd></mtr><mtr><mtd class="ltx_align_left" columnalign="left"><mrow><mo>−</mo><mn>1</mn></mrow></mtd><mtd class="ltx_align_left" columnalign="left"><mrow><mrow><mtext>(Sell) if </mtext><mo lspace="0em" rspace="0em">​</mo><mi>𝔼</mi><mo lspace="0em" rspace="0em">​</mo><mrow><mo stretchy="false">[</mo><mrow><mrow><mi>r</mi><mo fence="false">|</mo><mi>s</mi></mrow><mo>=</mo><msub><mover accent="true"><mi>s</mi><mo>^</mo></mover><mrow><mi>t</mi><mo>+</mo><mn>1</mn></mrow></msub></mrow><mo stretchy="false">]</mo></mrow></mrow><mo>&lt;</mo><mrow><mo>−</mo><mrow><mi>ϵ</mi><mo lspace="0em" rspace="0em">​</mo><mtext> AND </mtext><mo lspace="0em" rspace="0em">​</mo><msub><mover accent="true"><mi>P</mi><mo>^</mo></mover><mrow><mi>t</mi><mo>+</mo><mn>1</mn></mrow></msub></mrow></mrow><mo>&lt;</mo><msub><mi>P</mi><mi>t</mi></msub></mrow></mtd></mtr><mtr><mtd class="ltx_align_left" columnalign="left"><mn>0</mn></mtd><mtd class="ltx_align_left" columnalign="left"><mtext>(Hold) otherwise</mtext></mtd></mtr></mtable></mrow></mrow><annotation encoding="application/x-tex">\text{Signal}_{t}=\begin{cases}+1&amp;\text{(Buy) if }\mathbb{E}[r|s=\hat{s}_{t+1}]&gt;\epsilon\text{ AND }\hat{P}_{t+1}&gt;P_{t}\\
+-1&amp;\text{(Sell) if }\mathbb{E}[r|s=\hat{s}_{t+1}]&lt;-\epsilon\text{ AND }\hat{P}_{t+1}&lt;P_{t}\\
+0&amp;\text{(Hold) otherwise}\end{cases}</annotation></semantics></math></td>
+<td class="ltx_eqn_cell ltx_eqn_center_padright"></td>
+<td class="ltx_eqn_cell ltx_eqn_eqno ltx_align_middle ltx_align_right" rowspan="1"><span class="ltx_tag ltx_tag_equation ltx_align_right">(27)</span></td>
+</tr></tbody>
+</table>
+<p class="ltx_p">where <math alttext="\epsilon" class="ltx_Math" display="inline" id="S3.SS2.SSS4.p5.m1" intent=":literal"><semantics><mi>ϵ</mi><annotation encoding="application/x-tex">\epsilon</annotation></semantics></math> is a threshold parameter that filters out weak signals (typically <math alttext="\epsilon=0.001" class="ltx_Math" display="inline" id="S3.SS2.SSS4.p5.m2" intent=":literal"><semantics><mrow><mi>ϵ</mi><mo>=</mo><mn>0.001</mn></mrow><annotation encoding="application/x-tex">\epsilon=0.001</annotation></semantics></math> or 0.1%).</p>
+</div>
+<div class="ltx_para" id="S3.SS2.SSS4.p6">
+<p class="ltx_p">The confidence level of the signal can be quantified as:</p>
+<table class="ltx_equation ltx_eqn_table" id="S3.E28">
+<tbody><tr class="ltx_equation ltx_eqn_row ltx_align_baseline">
+<td class="ltx_eqn_cell ltx_eqn_center_padleft"></td>
+<td class="ltx_eqn_cell ltx_align_center"><math alttext="\text{Confidence}_{t}=\left|\mathbb{E}[r|s=\hat{s}_{t+1}]\right|\times P(s_{t+1}=\hat{s}_{t+1}|o_{1:t})" class="ltx_math_unparsed" display="block" id="S3.E28.m1" intent=":literal"><semantics><mrow><msub><mtext>Confidence</mtext><mi>t</mi></msub><mo rspace="0em">=</mo><mo fence="false" rspace="0.167em">|</mo><mi>𝔼</mi><mrow><mo stretchy="false">[</mo><mi>r</mi><mo fence="false" rspace="0.167em" stretchy="false">|</mo><mi>s</mi><mo>=</mo><msub><mover accent="true"><mi>s</mi><mo>^</mo></mover><mrow><mi>t</mi><mo>+</mo><mn>1</mn></mrow></msub><mo stretchy="false">]</mo></mrow><mo fence="false">|</mo><mo lspace="0em" rspace="0.222em">×</mo><mi>P</mi><mrow><mo stretchy="false">(</mo><msub><mi>s</mi><mrow><mi>t</mi><mo>+</mo><mn>1</mn></mrow></msub><mo>=</mo><msub><mover accent="true"><mi>s</mi><mo>^</mo></mover><mrow><mi>t</mi><mo>+</mo><mn>1</mn></mrow></msub><mo fence="false" rspace="0.167em" stretchy="false">|</mo><msub><mi>o</mi><mrow><mn>1</mn><mo lspace="0.278em" rspace="0.278em">:</mo><mi>t</mi></mrow></msub><mo stretchy="false">)</mo></mrow></mrow><annotation encoding="application/x-tex">\text{Confidence}_{t}=\left|\mathbb{E}[r|s=\hat{s}_{t+1}]\right|\times P(s_{t+1}=\hat{s}_{t+1}|o_{1:t})</annotation></semantics></math></td>
+<td class="ltx_eqn_cell ltx_eqn_center_padright"></td>
+<td class="ltx_eqn_cell ltx_eqn_eqno ltx_align_middle ltx_align_right" rowspan="1"><span class="ltx_tag ltx_tag_equation ltx_align_right">(28)</span></td>
+</tr></tbody>
+</table>
+</div>
+<div class="ltx_para" id="S3.SS2.SSS4.p7">
+<p class="ltx_p">This consensus mechanism ensures that a trading signal is only generated when both models agree on the direction of price movement, thereby reducing false signals and improving overall strategy reliability. The approach can be formalized as:</p>
+<table class="ltx_equation ltx_eqn_table" id="S3.E29">
+<tbody><tr class="ltx_equation ltx_eqn_row ltx_align_baseline">
+<td class="ltx_eqn_cell ltx_eqn_center_padleft"></td>
+<td class="ltx_eqn_cell ltx_align_center"><math alttext="\text{Execute}_{t}=\begin{cases}\text{True}&amp;\text{if }\text{sign}(\mathbb{E}[r|s=\hat{s}_{t+1}])=\text{sign}(\hat{P}_{t+1}-P_{t})\\
+\text{False}&amp;\text{otherwise}\end{cases}" class="ltx_Math" display="block" id="S3.E29.m1" intent=":literal"><semantics><mrow><msub><mtext>Execute</mtext><mi>t</mi></msub><mo>=</mo><mrow><mo>{</mo><mtable columnspacing="5pt" displaystyle="true" rowspacing="0pt"><mtr><mtd class="ltx_align_left" columnalign="left"><mtext>True</mtext></mtd><mtd class="ltx_align_left" columnalign="left"><mrow><mrow><mrow><mtext>if </mtext><mtext>sign</mtext></mrow><mo lspace="0em" rspace="0em">​</mo><mrow><mo stretchy="false">(</mo><mrow><mi>𝔼</mi><mo lspace="0em" rspace="0em">​</mo><mrow><mo stretchy="false">[</mo><mrow><mrow><mi>r</mi><mo fence="false">|</mo><mi>s</mi></mrow><mo>=</mo><msub><mover accent="true"><mi>s</mi><mo>^</mo></mover><mrow><mi>t</mi><mo>+</mo><mn>1</mn></mrow></msub></mrow><mo stretchy="false">]</mo></mrow></mrow><mo stretchy="false">)</mo></mrow></mrow><mo>=</mo><mrow><mtext>sign</mtext><mo lspace="0em" rspace="0em">​</mo><mrow><mo stretchy="false">(</mo><mrow><msub><mover accent="true"><mi>P</mi><mo>^</mo></mover><mrow><mi>t</mi><mo>+</mo><mn>1</mn></mrow></msub><mo>−</mo><msub><mi>P</mi><mi>t</mi></msub></mrow><mo stretchy="false">)</mo></mrow></mrow></mrow></mtd></mtr><mtr><mtd class="ltx_align_left" columnalign="left"><mtext>False</mtext></mtd><mtd class="ltx_align_left" columnalign="left"><mtext>otherwise</mtext></mtd></mtr></mtable></mrow></mrow><annotation encoding="application/x-tex">\text{Execute}_{t}=\begin{cases}\text{True}&amp;\text{if }\text{sign}(\mathbb{E}[r|s=\hat{s}_{t+1}])=\text{sign}(\hat{P}_{t+1}-P_{t})\\
+\text{False}&amp;\text{otherwise}\end{cases}</annotation></semantics></math></td>
+<td class="ltx_eqn_cell ltx_eqn_center_padright"></td>
+<td class="ltx_eqn_cell ltx_eqn_eqno ltx_align_middle ltx_align_right" rowspan="1"><span class="ltx_tag ltx_tag_equation ltx_align_right">(29)</span></td>
+</tr></tbody>
+</table>
+</div>
+<div class="ltx_para" id="S3.SS2.SSS4.p8">
+<p class="ltx_p">Possible conflicts between model predictions can be addressed using ensemble techniques, such as stacking, weighted voting, and gradient boosting, which enhance prediction accuracy and resilience by leveraging the strengths of each model.</p>
+</div>
+</section>
+</section>
+<section class="ltx_subsection ltx_indent_first" id="S3.SS3">
+<h3 class="ltx_title ltx_title_subsection">
+<span class="ltx_tag ltx_tag_subsection">3.3 </span>Portfolio Construction</h3>
+<div class="ltx_para" id="S3.SS3.p1">
+<p class="ltx_p">Proper portfolio construction is crucial for the success of the algorithm. The Black-Litterman model was chosen for its innovative approach, combining expected returns and risk. Created by Fischer Black and Robert Litterman, this model merges investor views with market equilibrium for better asset allocation <cite class="ltx_cite ltx_citemacro_cite">Cayirli (<a class="ltx_ref" href="https://arxiv.org/html/2407.19858v6#bib.bib21" title="">2019</a>)</cite>.</p>
+</div>
+<div class="ltx_para" id="S3.SS3.p2">
+<p class="ltx_p">The Black-Litterman model combines market equilibrium returns with investor views to produce posterior expected returns. The model starts with the market equilibrium return vector <math alttext="\Pi" class="ltx_Math" display="inline" id="S3.SS3.p2.m1" intent=":literal"><semantics><mi mathvariant="normal">Π</mi><annotation encoding="application/x-tex">\Pi</annotation></semantics></math>, derived from market capitalization weights:</p>
+<table class="ltx_equation ltx_eqn_table" id="S3.E30">
+<tbody><tr class="ltx_equation ltx_eqn_row ltx_align_baseline">
+<td class="ltx_eqn_cell ltx_eqn_center_padleft"></td>
+<td class="ltx_eqn_cell ltx_align_center"><math alttext="\Pi=\lambda\Sigma w_{\text{mkt}}" class="ltx_Math" display="block" id="S3.E30.m1" intent=":literal"><semantics><mrow><mi mathvariant="normal">Π</mi><mo>=</mo><mrow><mi>λ</mi><mo lspace="0em" rspace="0em">​</mo><mi mathvariant="normal">Σ</mi><mo lspace="0em" rspace="0em">​</mo><msub><mi>w</mi><mtext>mkt</mtext></msub></mrow></mrow><annotation encoding="application/x-tex">\Pi=\lambda\Sigma w_{\text{mkt}}</annotation></semantics></math></td>
+<td class="ltx_eqn_cell ltx_eqn_center_padright"></td>
+<td class="ltx_eqn_cell ltx_eqn_eqno ltx_align_middle ltx_align_right" rowspan="1"><span class="ltx_tag ltx_tag_equation ltx_align_right">(30)</span></td>
+</tr></tbody>
+</table>
+<p class="ltx_p">where <math alttext="\lambda" class="ltx_Math" display="inline" id="S3.SS3.p2.m2" intent=":literal"><semantics><mi>λ</mi><annotation encoding="application/x-tex">\lambda</annotation></semantics></math> is the risk aversion coefficient, <math alttext="\Sigma" class="ltx_Math" display="inline" id="S3.SS3.p2.m3" intent=":literal"><semantics><mi mathvariant="normal">Σ</mi><annotation encoding="application/x-tex">\Sigma</annotation></semantics></math> is the covariance matrix of asset returns, and <math alttext="w_{\text{mkt}}" class="ltx_Math" display="inline" id="S3.SS3.p2.m4" intent=":literal"><semantics><msub><mi>w</mi><mtext>mkt</mtext></msub><annotation encoding="application/x-tex">w_{\text{mkt}}</annotation></semantics></math> is the market capitalization weight vector.</p>
+</div>
+<div class="ltx_para" id="S3.SS3.p3">
+<p class="ltx_p">The investor views are expressed through a picking matrix <math alttext="P" class="ltx_Math" display="inline" id="S3.SS3.p3.m1" intent=":literal"><semantics><mi>P</mi><annotation encoding="application/x-tex">P</annotation></semantics></math> and view portfolio returns <math alttext="Q" class="ltx_Math" display="inline" id="S3.SS3.p3.m2" intent=":literal"><semantics><mi>Q</mi><annotation encoding="application/x-tex">Q</annotation></semantics></math>, with uncertainty in the views captured by the diagonal matrix <math alttext="\Omega" class="ltx_Math" display="inline" id="S3.SS3.p3.m3" intent=":literal"><semantics><mi mathvariant="normal">Ω</mi><annotation encoding="application/x-tex">\Omega</annotation></semantics></math>. The posterior expected return is then computed as:</p>
+<table class="ltx_equation ltx_eqn_table" id="S3.E31">
+<tbody><tr class="ltx_equation ltx_eqn_row ltx_align_baseline">
+<td class="ltx_eqn_cell ltx_eqn_center_padleft"></td>
+<td class="ltx_eqn_cell ltx_align_center"><math alttext="\mathbb{E}[R]=\left[(\tau\Sigma)^{-1}+P^{T}\Omega^{-1}P\right]^{-1}\left[(\tau\Sigma)^{-1}\Pi+P^{T}\Omega^{-1}Q\right]" class="ltx_Math" display="block" id="S3.E31.m1" intent=":literal"><semantics><mrow><mrow><mi>𝔼</mi><mo lspace="0em" rspace="0em">​</mo><mrow><mo stretchy="false">[</mo><mi>R</mi><mo stretchy="false">]</mo></mrow></mrow><mo>=</mo><mrow><msup><mrow><mo>[</mo><mrow><msup><mrow><mo stretchy="false">(</mo><mrow><mi>τ</mi><mo lspace="0em" rspace="0em">​</mo><mi mathvariant="normal">Σ</mi></mrow><mo stretchy="false">)</mo></mrow><mrow><mo>−</mo><mn>1</mn></mrow></msup><mo>+</mo><mrow><msup><mi>P</mi><mi>T</mi></msup><mo lspace="0em" rspace="0em">​</mo><msup><mi mathvariant="normal">Ω</mi><mrow><mo>−</mo><mn>1</mn></mrow></msup><mo lspace="0em" rspace="0em">​</mo><mi>P</mi></mrow></mrow><mo>]</mo></mrow><mrow><mo>−</mo><mn>1</mn></mrow></msup><mo lspace="0em" rspace="0em">​</mo><mrow><mo>[</mo><mrow><mrow><msup><mrow><mo stretchy="false">(</mo><mrow><mi>τ</mi><mo lspace="0em" rspace="0em">​</mo><mi mathvariant="normal">Σ</mi></mrow><mo stretchy="false">)</mo></mrow><mrow><mo>−</mo><mn>1</mn></mrow></msup><mo lspace="0em" rspace="0em">​</mo><mi mathvariant="normal">Π</mi></mrow><mo>+</mo><mrow><msup><mi>P</mi><mi>T</mi></msup><mo lspace="0em" rspace="0em">​</mo><msup><mi mathvariant="normal">Ω</mi><mrow><mo>−</mo><mn>1</mn></mrow></msup><mo lspace="0em" rspace="0em">​</mo><mi>Q</mi></mrow></mrow><mo>]</mo></mrow></mrow></mrow><annotation encoding="application/x-tex">\mathbb{E}[R]=\left[(\tau\Sigma)^{-1}+P^{T}\Omega^{-1}P\right]^{-1}\left[(\tau\Sigma)^{-1}\Pi+P^{T}\Omega^{-1}Q\right]</annotation></semantics></math></td>
+<td class="ltx_eqn_cell ltx_eqn_center_padright"></td>
+<td class="ltx_eqn_cell ltx_eqn_eqno ltx_align_middle ltx_align_right" rowspan="1"><span class="ltx_tag ltx_tag_equation ltx_align_right">(31)</span></td>
+</tr></tbody>
+</table>
+<p class="ltx_p">where <math alttext="\tau" class="ltx_Math" display="inline" id="S3.SS3.p3.m4" intent=":literal"><semantics><mi>τ</mi><annotation encoding="application/x-tex">\tau</annotation></semantics></math> is a scalar parameter representing the uncertainty in the prior (typically <math alttext="\tau\in[0.01,0.05]" class="ltx_Math" display="inline" id="S3.SS3.p3.m5" intent=":literal"><semantics><mrow><mi>τ</mi><mo>∈</mo><mrow><mo stretchy="false">[</mo><mn>0.01</mn><mo>,</mo><mn>0.05</mn><mo stretchy="false">]</mo></mrow></mrow><annotation encoding="application/x-tex">\tau\in[0.01,0.05]</annotation></semantics></math>).</p>
+</div>
+<div class="ltx_para" id="S3.SS3.p4">
+<p class="ltx_p">The posterior covariance matrix is:</p>
+<table class="ltx_equation ltx_eqn_table" id="S3.E32">
+<tbody><tr class="ltx_equation ltx_eqn_row ltx_align_baseline">
+<td class="ltx_eqn_cell ltx_eqn_center_padleft"></td>
+<td class="ltx_eqn_cell ltx_align_center"><math alttext="\Sigma_{\text{post}}=\Sigma+\left[(\tau\Sigma)^{-1}+P^{T}\Omega^{-1}P\right]^{-1}" class="ltx_Math" display="block" id="S3.E32.m1" intent=":literal"><semantics><mrow><msub><mi mathvariant="normal">Σ</mi><mtext>post</mtext></msub><mo>=</mo><mrow><mi mathvariant="normal">Σ</mi><mo>+</mo><msup><mrow><mo>[</mo><mrow><msup><mrow><mo stretchy="false">(</mo><mrow><mi>τ</mi><mo lspace="0em" rspace="0em">​</mo><mi mathvariant="normal">Σ</mi></mrow><mo stretchy="false">)</mo></mrow><mrow><mo>−</mo><mn>1</mn></mrow></msup><mo>+</mo><mrow><msup><mi>P</mi><mi>T</mi></msup><mo lspace="0em" rspace="0em">​</mo><msup><mi mathvariant="normal">Ω</mi><mrow><mo>−</mo><mn>1</mn></mrow></msup><mo lspace="0em" rspace="0em">​</mo><mi>P</mi></mrow></mrow><mo>]</mo></mrow><mrow><mo>−</mo><mn>1</mn></mrow></msup></mrow></mrow><annotation encoding="application/x-tex">\Sigma_{\text{post}}=\Sigma+\left[(\tau\Sigma)^{-1}+P^{T}\Omega^{-1}P\right]^{-1}</annotation></semantics></math></td>
+<td class="ltx_eqn_cell ltx_eqn_center_padright"></td>
+<td class="ltx_eqn_cell ltx_eqn_eqno ltx_align_middle ltx_align_right" rowspan="1"><span class="ltx_tag ltx_tag_equation ltx_align_right">(32)</span></td>
+</tr></tbody>
+</table>
+</div>
+<div class="ltx_para" id="S3.SS3.p5">
+<p class="ltx_p">Optimal portfolio weights are determined by maximizing the expected utility:</p>
+<table class="ltx_equation ltx_eqn_table" id="S3.E33">
+<tbody><tr class="ltx_equation ltx_eqn_row ltx_align_baseline">
+<td class="ltx_eqn_cell ltx_eqn_center_padleft"></td>
+<td class="ltx_eqn_cell ltx_align_center"><math alttext="w^{*}=\arg\max_{w}\left\{w^{T}\mathbb{E}[R]-\frac{\lambda}{2}w^{T}\Sigma_{\text{post}}w\right\}" class="ltx_Math" display="block" id="S3.E33.m1" intent=":literal"><semantics><mrow><msup><mi>w</mi><mo>∗</mo></msup><mo>=</mo><mrow><mi>arg</mi><mo lspace="0.167em">⁡</mo><mrow><munder><mi>max</mi><mi>w</mi></munder><mo>⁡</mo><mrow><mo>{</mo><mrow><mrow><msup><mi>w</mi><mi>T</mi></msup><mo lspace="0em" rspace="0em">​</mo><mi>𝔼</mi><mo lspace="0em" rspace="0em">​</mo><mrow><mo stretchy="false">[</mo><mi>R</mi><mo stretchy="false">]</mo></mrow></mrow><mo>−</mo><mrow><mfrac><mi>λ</mi><mn>2</mn></mfrac><mo lspace="0em" rspace="0em">​</mo><msup><mi>w</mi><mi>T</mi></msup><mo lspace="0em" rspace="0em">​</mo><msub><mi mathvariant="normal">Σ</mi><mtext>post</mtext></msub><mo lspace="0em" rspace="0em">​</mo><mi>w</mi></mrow></mrow><mo>}</mo></mrow></mrow></mrow></mrow><annotation encoding="application/x-tex">w^{*}=\arg\max_{w}\left\{w^{T}\mathbb{E}[R]-\frac{\lambda}{2}w^{T}\Sigma_{\text{post}}w\right\}</annotation></semantics></math></td>
+<td class="ltx_eqn_cell ltx_eqn_center_padright"></td>
+<td class="ltx_eqn_cell ltx_eqn_eqno ltx_align_middle ltx_align_right" rowspan="1"><span class="ltx_tag ltx_tag_equation ltx_align_right">(33)</span></td>
+</tr></tbody>
+</table>
+</div>
+<div class="ltx_para" id="S3.SS3.p6">
+<p class="ltx_p">This yields the optimal weight vector:</p>
+<table class="ltx_equation ltx_eqn_table" id="S3.E34">
+<tbody><tr class="ltx_equation ltx_eqn_row ltx_align_baseline">
+<td class="ltx_eqn_cell ltx_eqn_center_padleft"></td>
+<td class="ltx_eqn_cell ltx_align_center"><math alttext="w^{*}=\frac{1}{\lambda}(\Sigma_{\text{post}})^{-1}\mathbb{E}[R]" class="ltx_Math" display="block" id="S3.E34.m1" intent=":literal"><semantics><mrow><msup><mi>w</mi><mo>∗</mo></msup><mo>=</mo><mrow><mfrac><mn>1</mn><mi>λ</mi></mfrac><mo lspace="0em" rspace="0em">​</mo><msup><mrow><mo stretchy="false">(</mo><msub><mi mathvariant="normal">Σ</mi><mtext>post</mtext></msub><mo stretchy="false">)</mo></mrow><mrow><mo>−</mo><mn>1</mn></mrow></msup><mo lspace="0em" rspace="0em">​</mo><mi>𝔼</mi><mo lspace="0em" rspace="0em">​</mo><mrow><mo stretchy="false">[</mo><mi>R</mi><mo stretchy="false">]</mo></mrow></mrow></mrow><annotation encoding="application/x-tex">w^{*}=\frac{1}{\lambda}(\Sigma_{\text{post}})^{-1}\mathbb{E}[R]</annotation></semantics></math></td>
+<td class="ltx_eqn_cell ltx_eqn_center_padright"></td>
+<td class="ltx_eqn_cell ltx_eqn_eqno ltx_align_middle ltx_align_right" rowspan="1"><span class="ltx_tag ltx_tag_equation ltx_align_right">(34)</span></td>
+</tr></tbody>
+</table>
+</div>
+<div class="ltx_para" id="S3.SS3.p7">
+<p class="ltx_p">subject to the constraint <math alttext="\sum_{i=1}^{N}w_{i}=1" class="ltx_Math" display="inline" id="S3.SS3.p7.m1" intent=":literal"><semantics><mrow><mrow><msubsup><mo>∑</mo><mrow><mi>i</mi><mo>=</mo><mn>1</mn></mrow><mi>N</mi></msubsup><msub><mi>w</mi><mi>i</mi></msub></mrow><mo>=</mo><mn>1</mn></mrow><annotation encoding="application/x-tex">\sum_{i=1}^{N}w_{i}=1</annotation></semantics></math> (fully invested portfolio).</p>
+</div>
+<div class="ltx_para" id="S3.SS3.p8">
+<p class="ltx_p">The expected portfolio return and variance are:</p>
+<table class="ltx_equationgroup ltx_eqn_align ltx_eqn_table" id="Sx3.EGx3">
+<tbody id="S3.E35"><tr class="ltx_equation ltx_eqn_row ltx_align_baseline">
+<td class="ltx_eqn_cell ltx_eqn_center_padleft"></td>
+<td class="ltx_td ltx_align_right ltx_eqn_cell"><math alttext="\displaystyle R_{p}" class="ltx_Math" display="inline" id="S3.E35.m1" intent=":literal"><semantics><msub><mi>R</mi><mi>p</mi></msub><annotation encoding="application/x-tex">\displaystyle R_{p}</annotation></semantics></math></td>
+<td class="ltx_td ltx_align_left ltx_eqn_cell"><math alttext="\displaystyle=\sum_{i=1}^{N}w_{i}^{*}R_{i}=(w^{*})^{T}\mathbb{E}[R]" class="ltx_Math" display="inline" id="S3.E35.m2" intent=":literal"><semantics><mrow><mi></mi><mo>=</mo><mrow><mstyle displaystyle="true"><munderover><mo movablelimits="false">∑</mo><mrow><mi>i</mi><mo>=</mo><mn>1</mn></mrow><mi>N</mi></munderover></mstyle><mrow><msubsup><mi>w</mi><mi>i</mi><mo>∗</mo></msubsup><mo lspace="0em" rspace="0em">​</mo><msub><mi>R</mi><mi>i</mi></msub></mrow></mrow><mo>=</mo><mrow><msup><mrow><mo stretchy="false">(</mo><msup><mi>w</mi><mo>∗</mo></msup><mo stretchy="false">)</mo></mrow><mi>T</mi></msup><mo lspace="0em" rspace="0em">​</mo><mi>𝔼</mi><mo lspace="0em" rspace="0em">​</mo><mrow><mo stretchy="false">[</mo><mi>R</mi><mo stretchy="false">]</mo></mrow></mrow></mrow><annotation encoding="application/x-tex">\displaystyle=\sum_{i=1}^{N}w_{i}^{*}R_{i}=(w^{*})^{T}\mathbb{E}[R]</annotation></semantics></math></td>
+<td class="ltx_eqn_cell ltx_eqn_center_padright"></td>
+<td class="ltx_eqn_cell ltx_eqn_eqno ltx_align_middle ltx_align_right" rowspan="1"><span class="ltx_tag ltx_tag_equation ltx_align_right">(35)</span></td>
+</tr></tbody>
+<tbody id="S3.E36"><tr class="ltx_equation ltx_eqn_row ltx_align_baseline">
+<td class="ltx_eqn_cell ltx_eqn_center_padleft"></td>
+<td class="ltx_td ltx_align_right ltx_eqn_cell"><math alttext="\displaystyle\sigma_{p}^{2}" class="ltx_Math" display="inline" id="S3.E36.m1" intent=":literal"><semantics><msubsup><mi>σ</mi><mi>p</mi><mn>2</mn></msubsup><annotation encoding="application/x-tex">\displaystyle\sigma_{p}^{2}</annotation></semantics></math></td>
+<td class="ltx_td ltx_align_left ltx_eqn_cell"><math alttext="\displaystyle=(w^{*})^{T}\Sigma_{\text{post}}w^{*}" class="ltx_Math" display="inline" id="S3.E36.m2" intent=":literal"><semantics><mrow><mi></mi><mo>=</mo><mrow><msup><mrow><mo stretchy="false">(</mo><msup><mi>w</mi><mo>∗</mo></msup><mo stretchy="false">)</mo></mrow><mi>T</mi></msup><mo lspace="0em" rspace="0em">​</mo><msub><mi mathvariant="normal">Σ</mi><mtext>post</mtext></msub><mo lspace="0em" rspace="0em">​</mo><msup><mi>w</mi><mo>∗</mo></msup></mrow></mrow><annotation encoding="application/x-tex">\displaystyle=(w^{*})^{T}\Sigma_{\text{post}}w^{*}</annotation></semantics></math></td>
+<td class="ltx_eqn_cell ltx_eqn_center_padright"></td>
+<td class="ltx_eqn_cell ltx_eqn_eqno ltx_align_middle ltx_align_right" rowspan="1"><span class="ltx_tag ltx_tag_equation ltx_align_right">(36)</span></td>
+</tr></tbody>
+</table>
+</div>
+<div class="ltx_para" id="S3.SS3.p9">
+<p class="ltx_p">This model increases algorithm modularity, separating alpha generation from portfolio management <cite class="ltx_cite ltx_citemacro_cite">Tzang et al. (<a class="ltx_ref" href="https://arxiv.org/html/2407.19858v6#bib.bib22" title="">2020</a>)</cite>. Unlike signal-based portfolio construction, it reduces the probability of inaccurate signals, preventing inefficient management in achieving the optimal Sharpe ratio. The Black-Litterman model improves system reliability by clearly dividing alpha generation and portfolio management. It directs alpha model insights into risk management and execution models and minimizes unnecessary trades and risks.</p>
+</div>
+</section>
+<section class="ltx_subsection ltx_indent_first" id="S3.SS4">
+<h3 class="ltx_title ltx_title_subsection">
+<span class="ltx_tag ltx_tag_subsection">3.4 </span>Risk Management and Execution Models</h3>
+<div class="ltx_para" id="S3.SS4.p1">
+<p class="ltx_p">This study integrates two risk management models to enhance portfolio robustness. The selected models are the Maximum Drawdown Percent per security and the trailing-stop risk management model.</p>
+</div>
+<section class="ltx_subsubsection ltx_indent_first" id="S3.SS4.SSS1">
+<h4 class="ltx_title ltx_title_subsubsection">
+<span class="ltx_tag ltx_tag_subsubsection">3.4.1 </span>Maximum Drawdown Model</h4>
+<div class="ltx_para" id="S3.SS4.SSS1.p1">
+<p class="ltx_p">The maximum drawdown (MDD) for a security measures the largest peak-to-trough decline in portfolio value. For a given security <math alttext="i" class="ltx_Math" display="inline" id="S3.SS4.SSS1.p1.m1" intent=":literal"><semantics><mi>i</mi><annotation encoding="application/x-tex">i</annotation></semantics></math>, the drawdown at time <math alttext="t" class="ltx_Math" display="inline" id="S3.SS4.SSS1.p1.m2" intent=":literal"><semantics><mi>t</mi><annotation encoding="application/x-tex">t</annotation></semantics></math> is:</p>
+<table class="ltx_equation ltx_eqn_table" id="S3.E37">
+<tbody><tr class="ltx_equation ltx_eqn_row ltx_align_baseline">
+<td class="ltx_eqn_cell ltx_eqn_center_padleft"></td>
+<td class="ltx_eqn_cell ltx_align_center"><math alttext="DD_{i}(t)=\frac{\max_{s\in[0,t]}V_{i}(s)-V_{i}(t)}{\max_{s\in[0,t]}V_{i}(s)}" class="ltx_Math" display="block" id="S3.E37.m1" intent=":literal"><semantics><mrow><mrow><mi>D</mi><mo lspace="0em" rspace="0em">​</mo><msub><mi>D</mi><mi>i</mi></msub><mo lspace="0em" rspace="0em">​</mo><mrow><mo stretchy="false">(</mo><mi>t</mi><mo stretchy="false">)</mo></mrow></mrow><mo>=</mo><mfrac><mrow><mrow><mrow><msub><mi>max</mi><mrow><mi>s</mi><mo>∈</mo><mrow><mo stretchy="false">[</mo><mn>0</mn><mo>,</mo><mi>t</mi><mo stretchy="false">]</mo></mrow></mrow></msub><mo lspace="0.167em">⁡</mo><msub><mi>V</mi><mi>i</mi></msub></mrow><mo lspace="0em" rspace="0em">​</mo><mrow><mo stretchy="false">(</mo><mi>s</mi><mo stretchy="false">)</mo></mrow></mrow><mo>−</mo><mrow><msub><mi>V</mi><mi>i</mi></msub><mo lspace="0em" rspace="0em">​</mo><mrow><mo stretchy="false">(</mo><mi>t</mi><mo stretchy="false">)</mo></mrow></mrow></mrow><mrow><mrow><msub><mi>max</mi><mrow><mi>s</mi><mo>∈</mo><mrow><mo stretchy="false">[</mo><mn>0</mn><mo>,</mo><mi>t</mi><mo stretchy="false">]</mo></mrow></mrow></msub><mo lspace="0.167em">⁡</mo><msub><mi>V</mi><mi>i</mi></msub></mrow><mo lspace="0em" rspace="0em">​</mo><mrow><mo stretchy="false">(</mo><mi>s</mi><mo stretchy="false">)</mo></mrow></mrow></mfrac></mrow><annotation encoding="application/x-tex">DD_{i}(t)=\frac{\max_{s\in[0,t]}V_{i}(s)-V_{i}(t)}{\max_{s\in[0,t]}V_{i}(s)}</annotation></semantics></math></td>
+<td class="ltx_eqn_cell ltx_eqn_center_padright"></td>
+<td class="ltx_eqn_cell ltx_eqn_eqno ltx_align_middle ltx_align_right" rowspan="1"><span class="ltx_tag ltx_tag_equation ltx_align_right">(37)</span></td>
+</tr></tbody>
+</table>
+<p class="ltx_p">where <math alttext="V_{i}(t)" class="ltx_Math" display="inline" id="S3.SS4.SSS1.p1.m3" intent=":literal"><semantics><mrow><msub><mi>V</mi><mi>i</mi></msub><mo lspace="0em" rspace="0em">​</mo><mrow><mo stretchy="false">(</mo><mi>t</mi><mo stretchy="false">)</mo></mrow></mrow><annotation encoding="application/x-tex">V_{i}(t)</annotation></semantics></math> is the value of security <math alttext="i" class="ltx_Math" display="inline" id="S3.SS4.SSS1.p1.m4" intent=":literal"><semantics><mi>i</mi><annotation encoding="application/x-tex">i</annotation></semantics></math> at time <math alttext="t" class="ltx_Math" display="inline" id="S3.SS4.SSS1.p1.m5" intent=":literal"><semantics><mi>t</mi><annotation encoding="application/x-tex">t</annotation></semantics></math>.</p>
+</div>
+<div class="ltx_para" id="S3.SS4.SSS1.p2">
+<p class="ltx_p">The maximum drawdown over the entire period is:</p>
+<table class="ltx_equation ltx_eqn_table" id="S3.E38">
+<tbody><tr class="ltx_equation ltx_eqn_row ltx_align_baseline">
+<td class="ltx_eqn_cell ltx_eqn_center_padleft"></td>
+<td class="ltx_eqn_cell ltx_align_center"><math alttext="\text{MDD}_{i}=\max_{t\in[0,T]}DD_{i}(t)" class="ltx_Math" display="block" id="S3.E38.m1" intent=":literal"><semantics><mrow><msub><mtext>MDD</mtext><mi>i</mi></msub><mo>=</mo><mrow><mrow><munder><mi>max</mi><mrow><mi>t</mi><mo>∈</mo><mrow><mo stretchy="false">[</mo><mn>0</mn><mo>,</mo><mi>T</mi><mo stretchy="false">]</mo></mrow></mrow></munder><mo lspace="0.167em">⁡</mo><mrow><mi>D</mi><mo lspace="0em" rspace="0em">​</mo><msub><mi>D</mi><mi>i</mi></msub></mrow></mrow><mo lspace="0em" rspace="0em">​</mo><mrow><mo stretchy="false">(</mo><mi>t</mi><mo stretchy="false">)</mo></mrow></mrow></mrow><annotation encoding="application/x-tex">\text{MDD}_{i}=\max_{t\in[0,T]}DD_{i}(t)</annotation></semantics></math></td>
+<td class="ltx_eqn_cell ltx_eqn_center_padright"></td>
+<td class="ltx_eqn_cell ltx_eqn_eqno ltx_align_middle ltx_align_right" rowspan="1"><span class="ltx_tag ltx_tag_equation ltx_align_right">(38)</span></td>
+</tr></tbody>
+</table>
+</div>
+<div class="ltx_para" id="S3.SS4.SSS1.p3">
+<p class="ltx_p">A position in security <math alttext="i" class="ltx_Math" display="inline" id="S3.SS4.SSS1.p3.m1" intent=":literal"><semantics><mi>i</mi><annotation encoding="application/x-tex">i</annotation></semantics></math> is automatically closed if:</p>
+<table class="ltx_equation ltx_eqn_table" id="S3.E39">
+<tbody><tr class="ltx_equation ltx_eqn_row ltx_align_baseline">
+<td class="ltx_eqn_cell ltx_eqn_center_padleft"></td>
+<td class="ltx_eqn_cell ltx_align_center"><math alttext="DD_{i}(t)&gt;\text{MDD}_{\text{threshold}}" class="ltx_Math" display="block" id="S3.E39.m1" intent=":literal"><semantics><mrow><mrow><mi>D</mi><mo lspace="0em" rspace="0em">​</mo><msub><mi>D</mi><mi>i</mi></msub><mo lspace="0em" rspace="0em">​</mo><mrow><mo stretchy="false">(</mo><mi>t</mi><mo stretchy="false">)</mo></mrow></mrow><mo>&gt;</mo><msub><mtext>MDD</mtext><mtext>threshold</mtext></msub></mrow><annotation encoding="application/x-tex">DD_{i}(t)&gt;\text{MDD}_{\text{threshold}}</annotation></semantics></math></td>
+<td class="ltx_eqn_cell ltx_eqn_center_padright"></td>
+<td class="ltx_eqn_cell ltx_eqn_eqno ltx_align_middle ltx_align_right" rowspan="1"><span class="ltx_tag ltx_tag_equation ltx_align_right">(39)</span></td>
+</tr></tbody>
+</table>
+<p class="ltx_p">where <math alttext="\text{MDD}_{\text{threshold}}" class="ltx_Math" display="inline" id="S3.SS4.SSS1.p3.m2" intent=":literal"><semantics><msub><mtext>MDD</mtext><mtext>threshold</mtext></msub><annotation encoding="application/x-tex">\text{MDD}_{\text{threshold}}</annotation></semantics></math> is typically set between 10% and 20%, depending on risk tolerance. This model protects investor capital by automatically exiting positions with excessive losses, thereby ensuring disciplined risk controls.</p>
+</div>
+</section>
+<section class="ltx_subsubsection ltx_indent_first" id="S3.SS4.SSS2">
+<h4 class="ltx_title ltx_title_subsubsection">
+<span class="ltx_tag ltx_tag_subsubsection">3.4.2 </span>Trailing Stop Model</h4>
+<div class="ltx_para" id="S3.SS4.SSS2.p1">
+<p class="ltx_p">The trailing-stop model dynamically adjusts stop-loss levels to capture gains while protecting against losses. For a long position in security <math alttext="i" class="ltx_Math" display="inline" id="S3.SS4.SSS2.p1.m1" intent=":literal"><semantics><mi>i</mi><annotation encoding="application/x-tex">i</annotation></semantics></math>, the trailing stop price is updated as:</p>
+<table class="ltx_equation ltx_eqn_table" id="S3.E40">
+<tbody><tr class="ltx_equation ltx_eqn_row ltx_align_baseline">
+<td class="ltx_eqn_cell ltx_eqn_center_padleft"></td>
+<td class="ltx_eqn_cell ltx_align_center"><math alttext="\text{Stop}_{i}(t)=\max\left(P_{i}(t)\times(1-\delta),\text{Stop}_{i}(t-1)\right)" class="ltx_Math" display="block" id="S3.E40.m1" intent=":literal"><semantics><mrow><mrow><msub><mtext>Stop</mtext><mi>i</mi></msub><mo lspace="0em" rspace="0em">​</mo><mrow><mo stretchy="false">(</mo><mi>t</mi><mo stretchy="false">)</mo></mrow></mrow><mo>=</mo><mrow><mi>max</mi><mo>⁡</mo><mrow><mo>(</mo><mrow><mrow><msub><mi>P</mi><mi>i</mi></msub><mo lspace="0em" rspace="0em">​</mo><mrow><mo stretchy="false">(</mo><mi>t</mi><mo rspace="0.055em" stretchy="false">)</mo></mrow></mrow><mo rspace="0.222em">×</mo><mrow><mo stretchy="false">(</mo><mrow><mn>1</mn><mo>−</mo><mi>δ</mi></mrow><mo stretchy="false">)</mo></mrow></mrow><mo>,</mo><mrow><msub><mtext>Stop</mtext><mi>i</mi></msub><mo lspace="0em" rspace="0em">​</mo><mrow><mo stretchy="false">(</mo><mrow><mi>t</mi><mo>−</mo><mn>1</mn></mrow><mo stretchy="false">)</mo></mrow></mrow><mo>)</mo></mrow></mrow></mrow><annotation encoding="application/x-tex">\text{Stop}_{i}(t)=\max\left(P_{i}(t)\times(1-\delta),\text{Stop}_{i}(t-1)\right)</annotation></semantics></math></td>
+<td class="ltx_eqn_cell ltx_eqn_center_padright"></td>
+<td class="ltx_eqn_cell ltx_eqn_eqno ltx_align_middle ltx_align_right" rowspan="1"><span class="ltx_tag ltx_tag_equation ltx_align_right">(40)</span></td>
+</tr></tbody>
+</table>
+<p class="ltx_p">where <math alttext="\delta" class="ltx_Math" display="inline" id="S3.SS4.SSS2.p1.m2" intent=":literal"><semantics><mi>δ</mi><annotation encoding="application/x-tex">\delta</annotation></semantics></math> is the trailing stop percentage (typically <math alttext="\delta\in[0.05,0.15]" class="ltx_Math" display="inline" id="S3.SS4.SSS2.p1.m3" intent=":literal"><semantics><mrow><mi>δ</mi><mo>∈</mo><mrow><mo stretchy="false">[</mo><mn>0.05</mn><mo>,</mo><mn>0.15</mn><mo stretchy="false">]</mo></mrow></mrow><annotation encoding="application/x-tex">\delta\in[0.05,0.15]</annotation></semantics></math>), and <math alttext="P_{i}(t)" class="ltx_Math" display="inline" id="S3.SS4.SSS2.p1.m4" intent=":literal"><semantics><mrow><msub><mi>P</mi><mi>i</mi></msub><mo lspace="0em" rspace="0em">​</mo><mrow><mo stretchy="false">(</mo><mi>t</mi><mo stretchy="false">)</mo></mrow></mrow><annotation encoding="application/x-tex">P_{i}(t)</annotation></semantics></math> is the current price.</p>
+</div>
+<div class="ltx_para" id="S3.SS4.SSS2.p2">
+<p class="ltx_p">The position is closed if:</p>
+<table class="ltx_equation ltx_eqn_table" id="S3.E41">
+<tbody><tr class="ltx_equation ltx_eqn_row ltx_align_baseline">
+<td class="ltx_eqn_cell ltx_eqn_center_padleft"></td>
+<td class="ltx_eqn_cell ltx_align_center"><math alttext="P_{i}(t)\leq\text{Stop}_{i}(t)" class="ltx_Math" display="block" id="S3.E41.m1" intent=":literal"><semantics><mrow><mrow><msub><mi>P</mi><mi>i</mi></msub><mo lspace="0em" rspace="0em">​</mo><mrow><mo stretchy="false">(</mo><mi>t</mi><mo stretchy="false">)</mo></mrow></mrow><mo>≤</mo><mrow><msub><mtext>Stop</mtext><mi>i</mi></msub><mo lspace="0em" rspace="0em">​</mo><mrow><mo stretchy="false">(</mo><mi>t</mi><mo stretchy="false">)</mo></mrow></mrow></mrow><annotation encoding="application/x-tex">P_{i}(t)\leq\text{Stop}_{i}(t)</annotation></semantics></math></td>
+<td class="ltx_eqn_cell ltx_eqn_center_padright"></td>
+<td class="ltx_eqn_cell ltx_eqn_eqno ltx_align_middle ltx_align_right" rowspan="1"><span class="ltx_tag ltx_tag_equation ltx_align_right">(41)</span></td>
+</tr></tbody>
+</table>
+</div>
+<div class="ltx_para" id="S3.SS4.SSS2.p3">
+<p class="ltx_p">For short positions, the trailing stop is computed as:</p>
+<table class="ltx_equation ltx_eqn_table" id="S3.E42">
+<tbody><tr class="ltx_equation ltx_eqn_row ltx_align_baseline">
+<td class="ltx_eqn_cell ltx_eqn_center_padleft"></td>
+<td class="ltx_eqn_cell ltx_align_center"><math alttext="\text{Stop}_{i}(t)=\min\left(P_{i}(t)\times(1+\delta),\text{Stop}_{i}(t-1)\right)" class="ltx_Math" display="block" id="S3.E42.m1" intent=":literal"><semantics><mrow><mrow><msub><mtext>Stop</mtext><mi>i</mi></msub><mo lspace="0em" rspace="0em">​</mo><mrow><mo stretchy="false">(</mo><mi>t</mi><mo stretchy="false">)</mo></mrow></mrow><mo>=</mo><mrow><mi>min</mi><mo>⁡</mo><mrow><mo>(</mo><mrow><mrow><msub><mi>P</mi><mi>i</mi></msub><mo lspace="0em" rspace="0em">​</mo><mrow><mo stretchy="false">(</mo><mi>t</mi><mo rspace="0.055em" stretchy="false">)</mo></mrow></mrow><mo rspace="0.222em">×</mo><mrow><mo stretchy="false">(</mo><mrow><mn>1</mn><mo>+</mo><mi>δ</mi></mrow><mo stretchy="false">)</mo></mrow></mrow><mo>,</mo><mrow><msub><mtext>Stop</mtext><mi>i</mi></msub><mo lspace="0em" rspace="0em">​</mo><mrow><mo stretchy="false">(</mo><mrow><mi>t</mi><mo>−</mo><mn>1</mn></mrow><mo stretchy="false">)</mo></mrow></mrow><mo>)</mo></mrow></mrow></mrow><annotation encoding="application/x-tex">\text{Stop}_{i}(t)=\min\left(P_{i}(t)\times(1+\delta),\text{Stop}_{i}(t-1)\right)</annotation></semantics></math></td>
+<td class="ltx_eqn_cell ltx_eqn_center_padright"></td>
+<td class="ltx_eqn_cell ltx_eqn_eqno ltx_align_middle ltx_align_right" rowspan="1"><span class="ltx_tag ltx_tag_equation ltx_align_right">(42)</span></td>
+</tr></tbody>
+</table>
+</div>
+<div class="ltx_para" id="S3.SS4.SSS2.p4">
+<p class="ltx_p">The trailing-stop model locks in profits in trending markets while providing downside protection. The expected profit captured by the trailing stop can be approximated as:</p>
+<table class="ltx_equation ltx_eqn_table" id="S3.E43">
+<tbody><tr class="ltx_equation ltx_eqn_row ltx_align_baseline">
+<td class="ltx_eqn_cell ltx_eqn_center_padleft"></td>
+<td class="ltx_eqn_cell ltx_align_center"><math alttext="\mathbb{E}[\text{Profit}]\approx\max_{t\in[t_{\text{entry}},t_{\text{exit}}]}\left[P_{i}(t)-P_{i}(t_{\text{entry}})\right]\times(1-\delta)" class="ltx_Math" display="block" id="S3.E43.m1" intent=":literal"><semantics><mrow><mrow><mi>𝔼</mi><mo lspace="0em" rspace="0em">​</mo><mrow><mo stretchy="false">[</mo><mtext>Profit</mtext><mo stretchy="false">]</mo></mrow></mrow><mo>≈</mo><mrow><mrow><munder><mi>max</mi><mrow><mi>t</mi><mo>∈</mo><mrow><mo stretchy="false">[</mo><msub><mi>t</mi><mtext>entry</mtext></msub><mo>,</mo><msub><mi>t</mi><mtext>exit</mtext></msub><mo stretchy="false">]</mo></mrow></mrow></munder><mo>⁡</mo><mrow><mo>[</mo><mrow><mrow><msub><mi>P</mi><mi>i</mi></msub><mo lspace="0em" rspace="0em">​</mo><mrow><mo stretchy="false">(</mo><mi>t</mi><mo stretchy="false">)</mo></mrow></mrow><mo>−</mo><mrow><msub><mi>P</mi><mi>i</mi></msub><mo lspace="0em" rspace="0em">​</mo><mrow><mo stretchy="false">(</mo><msub><mi>t</mi><mtext>entry</mtext></msub><mo stretchy="false">)</mo></mrow></mrow></mrow><mo rspace="0.055em">]</mo></mrow></mrow><mo rspace="0.222em">×</mo><mrow><mo stretchy="false">(</mo><mrow><mn>1</mn><mo>−</mo><mi>δ</mi></mrow><mo stretchy="false">)</mo></mrow></mrow></mrow><annotation encoding="application/x-tex">\mathbb{E}[\text{Profit}]\approx\max_{t\in[t_{\text{entry}},t_{\text{exit}}]}\left[P_{i}(t)-P_{i}(t_{\text{entry}})\right]\times(1-\delta)</annotation></semantics></math></td>
+<td class="ltx_eqn_cell ltx_eqn_center_padright"></td>
+<td class="ltx_eqn_cell ltx_eqn_eqno ltx_align_middle ltx_align_right" rowspan="1"><span class="ltx_tag ltx_tag_equation ltx_align_right">(43)</span></td>
+</tr></tbody>
+</table>
+</div>
+<div class="ltx_para" id="S3.SS4.SSS2.p5">
+<p class="ltx_p">These risk management models, combined with the lean engine’s execution model, ensure timely trade execution and capitalize on market opportunities. This approach supports robust prediction models and effective asset allocation, balancing the alpha generation with disciplined risk management. The combined risk-adjusted return can be expressed as:</p>
+<table class="ltx_equation ltx_eqn_table" id="S3.E44">
+<tbody><tr class="ltx_equation ltx_eqn_row ltx_align_baseline">
+<td class="ltx_eqn_cell ltx_eqn_center_padleft"></td>
+<td class="ltx_eqn_cell ltx_align_center"><math alttext="R_{\text{adj}}=R_{p}-\lambda_{\text{risk}}\times\text{Risk}_{\text{penalty}}" class="ltx_Math" display="block" id="S3.E44.m1" intent=":literal"><semantics><mrow><msub><mi>R</mi><mtext>adj</mtext></msub><mo>=</mo><mrow><msub><mi>R</mi><mi>p</mi></msub><mo>−</mo><mrow><msub><mi>λ</mi><mtext>risk</mtext></msub><mo lspace="0.222em" rspace="0.222em">×</mo><msub><mtext>Risk</mtext><mtext>penalty</mtext></msub></mrow></mrow></mrow><annotation encoding="application/x-tex">R_{\text{adj}}=R_{p}-\lambda_{\text{risk}}\times\text{Risk}_{\text{penalty}}</annotation></semantics></math></td>
+<td class="ltx_eqn_cell ltx_eqn_center_padright"></td>
+<td class="ltx_eqn_cell ltx_eqn_eqno ltx_align_middle ltx_align_right" rowspan="1"><span class="ltx_tag ltx_tag_equation ltx_align_right">(44)</span></td>
+</tr></tbody>
+</table>
+<p class="ltx_p">where <math alttext="\lambda_{\text{risk}}" class="ltx_Math" display="inline" id="S3.SS4.SSS2.p5.m1" intent=":literal"><semantics><msub><mi>λ</mi><mtext>risk</mtext></msub><annotation encoding="application/x-tex">\lambda_{\text{risk}}</annotation></semantics></math> is the risk aversion parameter and <math alttext="\text{Risk}_{\text{penalty}}" class="ltx_Math" display="inline" id="S3.SS4.SSS2.p5.m2" intent=":literal"><semantics><msub><mtext>Risk</mtext><mtext>penalty</mtext></msub><annotation encoding="application/x-tex">\text{Risk}_{\text{penalty}}</annotation></semantics></math> captures drawdown and volatility concerns.</p>
+</div>
+</section>
+</section>
+</section>
+<section class="ltx_section ltx_indent_first" id="S4">
+<h2 class="ltx_title ltx_title_section">
+<span class="ltx_tag ltx_tag_section">4 </span>Results and Discussion</h2>
+<section class="ltx_subsection ltx_indent_first" id="S4.SS1">
+<h3 class="ltx_title ltx_title_subsection">
+<span class="ltx_tag ltx_tag_subsection">4.1 </span>Key Statistics</h3>
+<figure class="ltx_table" id="S4.T1">
+<figcaption class="ltx_caption ltx_centering"><span class="ltx_tag ltx_tag_table">Table 1: </span>Key Trading Metrics</figcaption>
+<table class="ltx_tabular ltx_centering ltx_guessed_headers ltx_align_middle">
+<thead class="ltx_thead">
+<tr class="ltx_tr">
+<th class="ltx_td ltx_align_left ltx_th ltx_th_column ltx_th_row ltx_border_t"><span class="ltx_text ltx_font_bold">Metric</span></th>
+<th class="ltx_td ltx_align_center ltx_th ltx_th_column ltx_border_t"><span class="ltx_text ltx_font_bold">Value</span></th>
+</tr>
+<tr class="ltx_tr">
+<th class="ltx_td ltx_align_left ltx_th ltx_th_row ltx_border_t" colspan="2"><span class="ltx_text ltx_font_italic">Performance Metrics</span></th>
+</tr>
+</thead>
+<tbody class="ltx_tbody">
+<tr class="ltx_tr">
+<th class="ltx_td ltx_align_left ltx_th ltx_th_row">   Runtime Days</th>
+<td class="ltx_td ltx_align_center">1,096</td>
+</tr>
+<tr class="ltx_tr">
+<th class="ltx_td ltx_align_left ltx_th ltx_th_row">   Compounded Annual Growth Rate (CAGR)</th>
+<td class="ltx_td ltx_align_center">22.2%</td>
+</tr>
+<tr class="ltx_tr">
+<th class="ltx_td ltx_align_left ltx_th ltx_th_row">   Sharpe Ratio (Probabilistic)</th>
+<td class="ltx_td ltx_align_center">30%</td>
+</tr>
+<tr class="ltx_tr">
+<th class="ltx_td ltx_align_left ltx_th ltx_th_row">   Sortino Ratio</th>
+<td class="ltx_td ltx_align_center">0.6</td>
+</tr>
+<tr class="ltx_tr">
+<th class="ltx_td ltx_align_left ltx_th ltx_th_row">   Information Ratio</th>
+<td class="ltx_td ltx_align_center"><math alttext="-0.1" class="ltx_Math" display="inline" id="S4.T1.m1" intent=":literal"><semantics><mrow><mo>−</mo><mn>0.1</mn></mrow><annotation encoding="application/x-tex">-0.1</annotation></semantics></math></td>
+</tr>
+<tr class="ltx_tr">
+<th class="ltx_td ltx_align_left ltx_th ltx_th_row" colspan="2"><span class="ltx_text ltx_font_italic">Risk Metrics</span></th>
+</tr>
+<tr class="ltx_tr">
+<th class="ltx_td ltx_align_left ltx_th ltx_th_row">   Maximum Drawdown</th>
+<td class="ltx_td ltx_align_center">17.1%</td>
+</tr>
+<tr class="ltx_tr">
+<th class="ltx_td ltx_align_left ltx_th ltx_th_row">   Portfolio Turnover</th>
+<td class="ltx_td ltx_align_center">3.29%</td>
+</tr>
+<tr class="ltx_tr">
+<th class="ltx_td ltx_align_left ltx_th ltx_th_row" colspan="2"><span class="ltx_text ltx_font_italic">Capacity</span></th>
+</tr>
+<tr class="ltx_tr">
+<th class="ltx_td ltx_align_left ltx_th ltx_th_row ltx_border_b">   Optimal Investment Level (USD)</th>
+<td class="ltx_td ltx_align_center ltx_border_b">$10M</td>
+</tr>
+</tbody>
+</table>
+</figure>
+<div class="ltx_para" id="S4.SS1.p1">
+<p class="ltx_p">This table presents the essential metrics used to evaluate the performance and risk of an investment portfolio. It covers Runtime Days over a period of 1096 days to assess performance sustainability and volatility. The Drawdown indicates a maximum loss from peak to trough of 17.1%, reflecting the risk of potential declines. A Portfolio Turnover of 3.29% signifies trading frequency, with lower figures suggesting a more passive management strategy aimed at minimizing transaction costs.</p>
+</div>
+<div class="ltx_para" id="S4.SS1.p2">
+<p class="ltx_p">Risk-adjusted performance was assessed using several ratios, as summarized in Table <a class="ltx_ref" href="https://arxiv.org/html/2407.19858v6#S4.T1" title="Table 1 ‣ 4.1 Key Statistics ‣ 4 Results and Discussion ‣ AI-Powered Energy Algorithmic Trading: Integrating Hidden Markov Models with Neural Networks"><span class="ltx_text ltx_ref_tag">1</span></a>. These metrics provide a comprehensive evaluation of the trading strategy’s effectiveness:</p>
+</div>
+<div class="ltx_para" id="S4.SS1.p3">
+<p class="ltx_p">The Sharpe Ratio measures risk-adjusted returns:</p>
+<table class="ltx_equation ltx_eqn_table" id="S4.E45">
+<tbody><tr class="ltx_equation ltx_eqn_row ltx_align_baseline">
+<td class="ltx_eqn_cell ltx_eqn_center_padleft"></td>
+<td class="ltx_eqn_cell ltx_align_center"><math alttext="S=\frac{\mathbb{E}[R_{p}-R_{f}]}{\sigma_{p}}" class="ltx_Math" display="block" id="S4.E45.m1" intent=":literal"><semantics><mrow><mi>S</mi><mo>=</mo><mfrac><mrow><mi>𝔼</mi><mo lspace="0em" rspace="0em">​</mo><mrow><mo stretchy="false">[</mo><mrow><msub><mi>R</mi><mi>p</mi></msub><mo>−</mo><msub><mi>R</mi><mi>f</mi></msub></mrow><mo stretchy="false">]</mo></mrow></mrow><msub><mi>σ</mi><mi>p</mi></msub></mfrac></mrow><annotation encoding="application/x-tex">S=\frac{\mathbb{E}[R_{p}-R_{f}]}{\sigma_{p}}</annotation></semantics></math></td>
+<td class="ltx_eqn_cell ltx_eqn_center_padright"></td>
+<td class="ltx_eqn_cell ltx_eqn_eqno ltx_align_middle ltx_align_right" rowspan="1"><span class="ltx_tag ltx_tag_equation ltx_align_right">(45)</span></td>
+</tr></tbody>
+</table>
+<p class="ltx_p">where <math alttext="R_{p}" class="ltx_Math" display="inline" id="S4.SS1.p3.m1" intent=":literal"><semantics><msub><mi>R</mi><mi>p</mi></msub><annotation encoding="application/x-tex">R_{p}</annotation></semantics></math> is the portfolio return, <math alttext="R_{f}" class="ltx_Math" display="inline" id="S4.SS1.p3.m2" intent=":literal"><semantics><msub><mi>R</mi><mi>f</mi></msub><annotation encoding="application/x-tex">R_{f}</annotation></semantics></math> is the risk-free rate, and <math alttext="\sigma_{p}" class="ltx_Math" display="inline" id="S4.SS1.p3.m3" intent=":literal"><semantics><msub><mi>σ</mi><mi>p</mi></msub><annotation encoding="application/x-tex">\sigma_{p}</annotation></semantics></math> is the portfolio standard deviation. The probabilistic Sharpe ratio at 41% quantifies returns relative to risk, with higher ratios denoting more efficient risk management.</p>
+</div>
+<div class="ltx_para" id="S4.SS1.p4">
+<p class="ltx_p">The Compounded Annual Growth Rate (CAGR) at 22.2% represents the geometric mean return:</p>
+<table class="ltx_equation ltx_eqn_table" id="S4.E46">
+<tbody><tr class="ltx_equation ltx_eqn_row ltx_align_baseline">
+<td class="ltx_eqn_cell ltx_eqn_center_padleft"></td>
+<td class="ltx_eqn_cell ltx_align_center"><math alttext="\text{CAGR}=\left(\frac{V_{\text{final}}}{V_{\text{initial}}}\right)^{\frac{1}{n}}-1" class="ltx_Math" display="block" id="S4.E46.m1" intent=":literal"><semantics><mrow><mtext>CAGR</mtext><mo>=</mo><mrow><msup><mrow><mo>(</mo><mfrac><msub><mi>V</mi><mtext>final</mtext></msub><msub><mi>V</mi><mtext>initial</mtext></msub></mfrac><mo>)</mo></mrow><mfrac><mn>1</mn><mi>n</mi></mfrac></msup><mo>−</mo><mn>1</mn></mrow></mrow><annotation encoding="application/x-tex">\text{CAGR}=\left(\frac{V_{\text{final}}}{V_{\text{initial}}}\right)^{\frac{1}{n}}-1</annotation></semantics></math></td>
+<td class="ltx_eqn_cell ltx_eqn_center_padright"></td>
+<td class="ltx_eqn_cell ltx_eqn_eqno ltx_align_middle ltx_align_right" rowspan="1"><span class="ltx_tag ltx_tag_equation ltx_align_right">(46)</span></td>
+</tr></tbody>
+</table>
+<p class="ltx_p">where <math alttext="V_{\text{final}}=\mathdollar 182,761" class="ltx_Math" display="inline" id="S4.SS1.p4.m1" intent=":literal"><semantics><mrow><msub><mi>V</mi><mtext>final</mtext></msub><mo>=</mo><mrow><mrow><mi mathvariant="normal">$</mi><mo lspace="0em" rspace="0em">​</mo><mn>182</mn></mrow><mo>,</mo><mn>761</mn></mrow></mrow><annotation encoding="application/x-tex">V_{\text{final}}=\mathdollar 182,761</annotation></semantics></math>, <math alttext="V_{\text{initial}}=\mathdollar 100,000" class="ltx_Math" display="inline" id="S4.SS1.p4.m2" intent=":literal"><semantics><mrow><msub><mi>V</mi><mtext>initial</mtext></msub><mo>=</mo><mrow><mrow><mi mathvariant="normal">$</mi><mo lspace="0em" rspace="0em">​</mo><mn>100</mn></mrow><mo>,</mo><mn>000</mn></mrow></mrow><annotation encoding="application/x-tex">V_{\text{initial}}=\mathdollar 100,000</annotation></semantics></math>, and <math alttext="n=1096/365=3" class="ltx_Math" display="inline" id="S4.SS1.p4.m3" intent=":literal"><semantics><mrow><mi>n</mi><mo>=</mo><mrow><mn>1096</mn><mo>/</mo><mn>365</mn></mrow><mo>=</mo><mn>3</mn></mrow><annotation encoding="application/x-tex">n=1096/365=3</annotation></semantics></math> years.</p>
+</div>
+<div class="ltx_para" id="S4.SS1.p5">
+<p class="ltx_p">The Sortino Ratio of 0.6 focuses on downside risk:</p>
+<table class="ltx_equation ltx_eqn_table" id="S4.E47">
+<tbody><tr class="ltx_equation ltx_eqn_row ltx_align_baseline">
+<td class="ltx_eqn_cell ltx_eqn_center_padleft"></td>
+<td class="ltx_eqn_cell ltx_align_center"><math alttext="S_{\text{sortino}}=\frac{\mathbb{E}[R_{p}-R_{f}]}{\sigma_{\text{downside}}}" class="ltx_Math" display="block" id="S4.E47.m1" intent=":literal"><semantics><mrow><msub><mi>S</mi><mtext>sortino</mtext></msub><mo>=</mo><mfrac><mrow><mi>𝔼</mi><mo lspace="0em" rspace="0em">​</mo><mrow><mo stretchy="false">[</mo><mrow><msub><mi>R</mi><mi>p</mi></msub><mo>−</mo><msub><mi>R</mi><mi>f</mi></msub></mrow><mo stretchy="false">]</mo></mrow></mrow><msub><mi>σ</mi><mtext>downside</mtext></msub></mfrac></mrow><annotation encoding="application/x-tex">S_{\text{sortino}}=\frac{\mathbb{E}[R_{p}-R_{f}]}{\sigma_{\text{downside}}}</annotation></semantics></math></td>
+<td class="ltx_eqn_cell ltx_eqn_center_padright"></td>
+<td class="ltx_eqn_cell ltx_eqn_eqno ltx_align_middle ltx_align_right" rowspan="1"><span class="ltx_tag ltx_tag_equation ltx_align_right">(47)</span></td>
+</tr></tbody>
+</table>
+<p class="ltx_p">where <math alttext="\sigma_{\text{downside}}=\sqrt{\mathbb{E}[\min(R_{p}-R_{f},0)^{2}]}" class="ltx_math_unparsed" display="inline" id="S4.SS1.p5.m1" intent=":literal"><semantics><mrow><msub><mi>σ</mi><mtext>downside</mtext></msub><mo>=</mo><msqrt><mrow><mi>𝔼</mi><mrow><mo stretchy="false">[</mo><mi>min</mi><msup><mrow><mo stretchy="false">(</mo><msub><mi>R</mi><mi>p</mi></msub><mo>−</mo><msub><mi>R</mi><mi>f</mi></msub><mo>,</mo><mn>0</mn><mo stretchy="false">)</mo></mrow><mn>2</mn></msup><mo stretchy="false">]</mo></mrow></mrow></msqrt></mrow><annotation encoding="application/x-tex">\sigma_{\text{downside}}=\sqrt{\mathbb{E}[\min(R_{p}-R_{f},0)^{2}]}</annotation></semantics></math> measures downside deviation.</p>
+</div>
+<div class="ltx_para" id="S4.SS1.p6">
+<p class="ltx_p">The Information Ratio of <math alttext="-0.1" class="ltx_Math" display="inline" id="S4.SS1.p6.m1" intent=":literal"><semantics><mrow><mo>−</mo><mn>0.1</mn></mrow><annotation encoding="application/x-tex">-0.1</annotation></semantics></math> compares performance to a benchmark:</p>
+<table class="ltx_equation ltx_eqn_table" id="S4.E48">
+<tbody><tr class="ltx_equation ltx_eqn_row ltx_align_baseline">
+<td class="ltx_eqn_cell ltx_eqn_center_padleft"></td>
+<td class="ltx_eqn_cell ltx_align_center"><math alttext="IR=\frac{\mathbb{E}[R_{p}-R_{b}]}{\sigma_{R_{p}-R_{b}}}" class="ltx_Math" display="block" id="S4.E48.m1" intent=":literal"><semantics><mrow><mrow><mi>I</mi><mo lspace="0em" rspace="0em">​</mo><mi>R</mi></mrow><mo>=</mo><mfrac><mrow><mi>𝔼</mi><mo lspace="0em" rspace="0em">​</mo><mrow><mo stretchy="false">[</mo><mrow><msub><mi>R</mi><mi>p</mi></msub><mo>−</mo><msub><mi>R</mi><mi>b</mi></msub></mrow><mo stretchy="false">]</mo></mrow></mrow><msub><mi>σ</mi><mrow><msub><mi>R</mi><mi>p</mi></msub><mo>−</mo><msub><mi>R</mi><mi>b</mi></msub></mrow></msub></mfrac></mrow><annotation encoding="application/x-tex">IR=\frac{\mathbb{E}[R_{p}-R_{b}]}{\sigma_{R_{p}-R_{b}}}</annotation></semantics></math></td>
+<td class="ltx_eqn_cell ltx_eqn_center_padright"></td>
+<td class="ltx_eqn_cell ltx_eqn_eqno ltx_align_middle ltx_align_right" rowspan="1"><span class="ltx_tag ltx_tag_equation ltx_align_right">(48)</span></td>
+</tr></tbody>
+</table>
+<p class="ltx_p">where <math alttext="R_{b}" class="ltx_Math" display="inline" id="S4.SS1.p6.m2" intent=":literal"><semantics><msub><mi>R</mi><mi>b</mi></msub><annotation encoding="application/x-tex">R_{b}</annotation></semantics></math> is the benchmark return (S&amp;P 500) and <math alttext="\sigma_{R_{p}-R_{b}}" class="ltx_Math" display="inline" id="S4.SS1.p6.m3" intent=":literal"><semantics><msub><mi>σ</mi><mrow><msub><mi>R</mi><mi>p</mi></msub><mo>−</mo><msub><mi>R</mi><mi>b</mi></msub></mrow></msub><annotation encoding="application/x-tex">\sigma_{R_{p}-R_{b}}</annotation></semantics></math> is the tracking error.</p>
+</div>
+<div class="ltx_para" id="S4.SS1.p7">
+<p class="ltx_p">Further details include the Capacity (USD) at $10 million, which represents the optimal investment level for strategy sustainability and achieving target returns.</p>
+</div>
+</section>
+<section class="ltx_subsection ltx_indent_first" id="S4.SS2">
+<h3 class="ltx_title ltx_title_subsection">
+<span class="ltx_tag ltx_tag_subsection">4.2 </span>Detailed Trading Metrics</h3>
+<figure class="ltx_table" id="S4.T2">
+<figcaption class="ltx_caption ltx_centering"><span class="ltx_tag ltx_tag_table">Table 2: </span>Detailed Trading Metrics and Performance Indicators</figcaption>
+<table class="ltx_tabular ltx_centering ltx_guessed_headers ltx_align_middle">
+<thead class="ltx_thead">
+<tr class="ltx_tr">
+<th class="ltx_td ltx_align_left ltx_th ltx_th_column ltx_th_row ltx_border_t"><span class="ltx_text ltx_font_bold">Metric</span></th>
+<th class="ltx_td ltx_align_center ltx_th ltx_th_column ltx_border_t"><span class="ltx_text ltx_font_bold">Value</span></th>
+</tr>
+<tr class="ltx_tr">
+<th class="ltx_td ltx_align_left ltx_th ltx_th_column ltx_th_row ltx_border_t" colspan="2"><span class="ltx_text ltx_font_italic">Trading Activity</span></th>
+</tr>
+</thead>
+<tbody class="ltx_tbody">
+<tr class="ltx_tr">
+<th class="ltx_td ltx_align_left ltx_th ltx_th_row">   Total Orders Executed</th>
+<td class="ltx_td ltx_align_center">40</td>
+</tr>
+<tr class="ltx_tr">
+<th class="ltx_td ltx_align_left ltx_th ltx_th_row">   Win Rate</th>
+<td class="ltx_td ltx_align_center">60%</td>
+</tr>
+<tr class="ltx_tr">
+<th class="ltx_td ltx_align_left ltx_th ltx_th_row">   Loss Rate</th>
+<td class="ltx_td ltx_align_center">40%</td>
+</tr>
+<tr class="ltx_tr">
+<th class="ltx_td ltx_align_left ltx_th ltx_th_row">   Average Win</th>
+<td class="ltx_td ltx_align_center">7.70%</td>
+</tr>
+<tr class="ltx_tr">
+<th class="ltx_td ltx_align_left ltx_th ltx_th_row">   Average Loss</th>
+<td class="ltx_td ltx_align_center"><math alttext="-3.29\%" class="ltx_Math" display="inline" id="S4.T2.m1" intent=":literal"><semantics><mrow><mo>−</mo><mrow><mn>3.29</mn><mo>%</mo></mrow></mrow><annotation encoding="application/x-tex">-3.29\%</annotation></semantics></math></td>
+</tr>
+<tr class="ltx_tr">
+<th class="ltx_td ltx_align_left ltx_th ltx_th_row">   Profit-Loss Ratio</th>
+<td class="ltx_td ltx_align_center">2.34</td>
+</tr>
+<tr class="ltx_tr">
+<th class="ltx_td ltx_align_left ltx_th ltx_th_row" colspan="2"><span class="ltx_text ltx_font_italic">Portfolio Performance</span></th>
+</tr>
+<tr class="ltx_tr">
+<th class="ltx_td ltx_align_left ltx_th ltx_th_row">   Initial Equity</th>
+<td class="ltx_td ltx_align_center">$100,000</td>
+</tr>
+<tr class="ltx_tr">
+<th class="ltx_td ltx_align_left ltx_th ltx_th_row">   Final Equity</th>
+<td class="ltx_td ltx_align_center">$182,761</td>
+</tr>
+<tr class="ltx_tr">
+<th class="ltx_td ltx_align_left ltx_th ltx_th_row">   Total Return</th>
+<td class="ltx_td ltx_align_center">82.76%</td>
+</tr>
+<tr class="ltx_tr">
+<th class="ltx_td ltx_align_left ltx_th ltx_th_row">   Sharpe Ratio</th>
+<td class="ltx_td ltx_align_center">0.77</td>
+</tr>
+<tr class="ltx_tr">
+<th class="ltx_td ltx_align_left ltx_th ltx_th_row">   Treynor Ratio</th>
+<td class="ltx_td ltx_align_center">0.924</td>
+</tr>
+<tr class="ltx_tr">
+<th class="ltx_td ltx_align_left ltx_th ltx_th_row" colspan="2"><span class="ltx_text ltx_font_italic">Risk-Adjusted Returns</span></th>
+</tr>
+<tr class="ltx_tr">
+<th class="ltx_td ltx_align_left ltx_th ltx_th_row">   Alpha</th>
+<td class="ltx_td ltx_align_center">0.13</td>
+</tr>
+<tr class="ltx_tr">
+<th class="ltx_td ltx_align_left ltx_th ltx_th_row">   Beta</th>
+<td class="ltx_td ltx_align_center">0.175</td>
+</tr>
+<tr class="ltx_tr">
+<th class="ltx_td ltx_align_left ltx_th ltx_th_row">   Annual Standard Deviation</th>
+<td class="ltx_td ltx_align_center">0.21</td>
+</tr>
+<tr class="ltx_tr">
+<th class="ltx_td ltx_align_left ltx_th ltx_th_row">   Annual Variance</th>
+<td class="ltx_td ltx_align_center">0.044</td>
+</tr>
+<tr class="ltx_tr">
+<th class="ltx_td ltx_align_left ltx_th ltx_th_row">   Tracking Error</th>
+<td class="ltx_td ltx_align_center">0.256</td>
+</tr>
+<tr class="ltx_tr">
+<th class="ltx_td ltx_align_left ltx_th ltx_th_row" colspan="2"><span class="ltx_text ltx_font_italic">Transaction Costs</span></th>
+</tr>
+<tr class="ltx_tr">
+<th class="ltx_td ltx_align_left ltx_th ltx_th_row ltx_border_b">   Total Broker Fees</th>
+<td class="ltx_td ltx_align_center ltx_border_b">$972</td>
+</tr>
+</tbody>
+</table>
+</figure>
+<div class="ltx_para" id="S4.SS2.p1">
+<p class="ltx_p">The metrics evaluate trading outcomes over a specified period, revealing a relatively low frequency, with only 40 trades. An average win rate of 7.70% and an average loss of <math alttext="-3.29\%" class="ltx_Math" display="inline" id="S4.SS2.p1.m1" intent=":literal"><semantics><mrow><mo>−</mo><mrow><mn>3.29</mn><mo>%</mo></mrow></mrow><annotation encoding="application/x-tex">-3.29\%</annotation></semantics></math>, with a 60% success rate, highlight the effectiveness of the strategy. The initial equity of $100,000 increased to $182,761.12, indicating substantial gain. A Sharpe Ratio of 0.77 demonstrates a risk-return trade-off.</p>
+</div>
+<div class="ltx_para" id="S4.SS2.p2">
+<p class="ltx_p">An alpha of 0.13 suggests modest active returns, and a beta of 0.175 indicates lower market volatility than broader indices, as detailed in Table <a class="ltx_ref" href="https://arxiv.org/html/2407.19858v6#S4.T2" title="Table 2 ‣ 4.2 Detailed Trading Metrics ‣ 4 Results and Discussion ‣ AI-Powered Energy Algorithmic Trading: Integrating Hidden Markov Models with Neural Networks"><span class="ltx_text ltx_ref_tag">2</span></a>. An annual standard deviation of 0.21 and a variance of 0.044 quantified the return variability. A tracking error of 0.256 indicates how the portfolio’s returns deviate from the benchmark, whereas a Treynor Ratio of 0.951 indicates good risk-adjusted returns. Fees amounting to $971.62, are relatively small compared to growth in equity.</p>
+</div>
+<div class="ltx_para" id="S4.SS2.p3">
+<p class="ltx_p">These data indicate a robust trading strategy that can effectively manage risk. Optimizing hyperparameters and preprocessing data can enhance model performance and improve results. However, extensive Monte Carlo simulations are necessary to ensure model reliability. This reinforces the importance of rigorous data analysis and strategy refinement in trading.</p>
+</div>
+</section>
+<section class="ltx_subsection ltx_indent_first" id="S4.SS3">
+<h3 class="ltx_title ltx_title_subsection">
+<span class="ltx_tag ltx_tag_subsection">4.3 </span>Cumulative Returns</h3>
+<figure class="ltx_figure" id="S4.F4"><img alt="Refer to caption" class="ltx_graphics ltx_centering ltx_img_landscape" height="111" id="S4.F4.g1" src="returns.png" width="476"/>
+<figcaption class="ltx_caption ltx_centering"><span class="ltx_tag ltx_tag_figure">Figure 4: </span>Cumulative Returns Comparison (January 2019 - January 2022)</figcaption>
+</figure>
+<div class="ltx_para" id="S4.SS3.p1">
+<p class="ltx_p">The Cumulative Returns chart illustrates the performance comparison of a backtested investment strategy against a benchmark from January 2019 to January 2022. The x-axis represents the timeline, marked in months, while the y-axis quantifies cumulative returns in percentage terms. The backtested strategy is depicted by a light blue line, whereas the benchmark (presumed to be the S&amp;P 500) is shown in gray.</p>
+</div>
+<div class="ltx_para" id="S4.SS3.p2">
+<p class="ltx_p">Throughout the observation period, the strategy generally aligns closely with the benchmark, indicating a strong market correlation. Notably, the strategy outperformed the benchmark at specific points, such as during the onset of the COVID-19 pandemic in May 2020 and September 2021, as illustrated in Figure <a class="ltx_ref" href="https://arxiv.org/html/2407.19858v6#S4.F4" title="Figure 4 ‣ 4.3 Cumulative Returns ‣ 4 Results and Discussion ‣ AI-Powered Energy Algorithmic Trading: Integrating Hidden Markov Models with Neural Networks"><span class="ltx_text ltx_ref_tag">4</span></a>. These surges suggest effective strategy adjustments in response to market volatility.</p>
+</div>
+<div class="ltx_para" id="S4.SS3.p3">
+<p class="ltx_p">Despite some instances of notable growth, the strategy often mirrors the benchmark’s movements, highlighting its dependence on broader market trends rather than consistently outperforming it. During the COVID-19 crisis, the strategy demonstrated resilience, maintaining its value better than the benchmark and taking advantage of the recovery phase, which is indicative of adept risk management and opportunity utilization.</p>
+</div>
+</section>
+<section class="ltx_subsection ltx_indent_first" id="S4.SS4">
+<h3 class="ltx_title ltx_title_subsection">
+<span class="ltx_tag ltx_tag_subsection">4.4 </span>Advantages of the Approach</h3>
+<div class="ltx_para" id="S4.SS4.p1">
+<p class="ltx_p">Utilizing the HMM alongside neural networks offers notable advantages for predictive modeling in financial markets. HMMs capture temporal dependencies crucial for sequential data like stock prices, while neural networks excel in recognizing complex patterns and relationships <cite class="ltx_cite ltx_citemacro_cite">Alwateer et al. (<a class="ltx_ref" href="https://arxiv.org/html/2407.19858v6#bib.bib23" title="">2023</a>); Qamar and Zardari (<a class="ltx_ref" href="https://arxiv.org/html/2407.19858v6#bib.bib24" title="">2023</a>)</cite>. By combining these approaches, a more complete and accurate prediction model is achieved, leveraging the strengths of both strategies. This hybrid approach enhances the robustness by reducing the biases inherent in any single model, resulting in more reliable trading signals. Risk management strategies also play a crucial role in guarding against potential losses and improving the overall portfolio stability. The adaptability gained from merging HMMs and neural networks is essential for maintaining a high performance across different market conditions.</p>
+</div>
+</section>
+<section class="ltx_subsection ltx_indent_first" id="S4.SS5">
+<h3 class="ltx_title ltx_title_subsection">
+<span class="ltx_tag ltx_tag_subsection">4.5 </span>Future Research Directions</h3>
+<div class="ltx_para" id="S4.SS5.p1">
+<p class="ltx_p">Future research should explore various approaches to enhance dual-model methodology by combining HMMs and neural networks.</p>
+</div>
+<section class="ltx_subsubsection ltx_indent_first" id="S4.SS5.SSS1">
+<h4 class="ltx_title ltx_title_subsubsection">
+<span class="ltx_tag ltx_tag_subsubsection">4.5.1 </span>Wavelet Transform for Enhanced Market Pattern Recognition</h4>
+<div class="ltx_para" id="S4.SS5.SSS1.p1">
+<p class="ltx_p">One potential approach is to apply a wavelet transform to the pre-processing strategy of the data. Wavelet transforms capture both time and frequency domain information, improving the potential of the model to recognize patterns in price data, which is crucial to ensuring its success <cite class="ltx_cite ltx_citemacro_cite">Kwon et al. (<a class="ltx_ref" href="https://arxiv.org/html/2407.19858v6#bib.bib25" title="">2022</a>)</cite>. This is vital as it accounts for the dynamic nature of the market, making it more effective than static methods such as Pearson’s correlation coefficient.</p>
+</div>
+</section>
+<section class="ltx_subsubsection ltx_indent_first" id="S4.SS5.SSS2">
+<h4 class="ltx_title ltx_title_subsubsection">
+<span class="ltx_tag ltx_tag_subsubsection">4.5.2 </span>Monte Carlo Simulations for Model Generalizability</h4>
+<div class="ltx_para" id="S4.SS5.SSS2.p1">
+<p class="ltx_p">The use of extensive Monte Carlo simulations across diverse temporal frames is another promising area of research. These simulations help analyze the generalization capabilities of the model, evaluating its reliability and identifying possible cases of overfitting or incorrect market predictions <cite class="ltx_cite ltx_citemacro_cite">Zillich et al. (<a class="ltx_ref" href="https://arxiv.org/html/2407.19858v6#bib.bib26" title="">2009</a>)</cite>. This ensures the stability and accuracy of the algorithmic trading system in a real trading scenario.</p>
+</div>
+</section>
+<section class="ltx_subsubsection ltx_indent_first" id="S4.SS5.SSS3">
+<h4 class="ltx_title ltx_title_subsubsection">
+<span class="ltx_tag ltx_tag_subsubsection">4.5.3 </span>Hyperparameter Tuning and Ensemble Methods</h4>
+<div class="ltx_para" id="S4.SS5.SSS3.p1">
+<p class="ltx_p">Employing novel neural network architectures along with automated hyperparameter fine-tuning can enhance forecasting capabilities by finding the optimal architecture for a specific dataset <cite class="ltx_cite ltx_citemacro_cite">Wu et al. (<a class="ltx_ref" href="https://arxiv.org/html/2407.19858v6#bib.bib27" title="">2024</a>)</cite>. Additionally, incorporating an ensemble machine learning method for HMM and neural network systems can enable the model to adapt dynamically to market fluctuations, improving overall alpha generation performance <cite class="ltx_cite ltx_citemacro_cite">Ong and Ahmad (<a class="ltx_ref" href="https://arxiv.org/html/2407.19858v6#bib.bib28" title="">2011</a>)</cite>.</p>
+</div>
+</section>
+<section class="ltx_subsubsection ltx_indent_first" id="S4.SS5.SSS4">
+<h4 class="ltx_title ltx_title_subsubsection">
+<span class="ltx_tag ltx_tag_subsubsection">4.5.4 </span>Diversifying Equities for Growth and Stability</h4>
+<div class="ltx_para" id="S4.SS5.SSS4.p1">
+<p class="ltx_p">Increasing sector diversification is essential to enhance portfolio resilience. For example, combining the 25 largest stocks from high-potential sectors such as technology, biomedicine, pharmaceuticals, and energy can enhance diversification and access growth alternatives. This approach helps offset sector-specific risks, leverages the strengths of each sector, and theoretically leads to more stable returns.</p>
+</div>
+</section>
+</section>
+<section class="ltx_subsection ltx_indent_first" id="S4.SS6">
+<h3 class="ltx_title ltx_title_subsection">
+<span class="ltx_tag ltx_tag_subsection">4.6 </span>QuantConnect for Reproducibility</h3>
+<div class="ltx_para" id="S4.SS6.p1">
+<p class="ltx_p">QuantConnect was chosen for its powerful framework and user-friendly design, which simplified research replication. Its extensive access to data assures precise training and testing of the model. The integrated lean open-source algorithmic trading framework allows the implementation and testing of complex strategies, accelerating the development and validation of innovative models. This platform enhances research replicability, enabling other researchers and practitioners to validate and extend the outcomes. Which is essential for the advancement of scientific research.</p>
+</div>
+</section>
+</section>
+<section class="ltx_section ltx_indent_first" id="S5">
+<h2 class="ltx_title ltx_title_section">
+<span class="ltx_tag ltx_tag_section">5 </span>Conclusion</h2>
+<div class="ltx_para" id="S5.p1">
+<p class="ltx_p">The combined use of the HMM and neural networks in a dual-model approach has shown success in enhancing the accuracy and resilience of trading signals. During the COVID period (2019-2022), the dual-model system achieved an 83% return and a Sharpe ratio of 0.77, highlighting its practical potential.</p>
+</div>
+<div class="ltx_para" id="S5.p2">
+<p class="ltx_p">A three-year preparation period provides historical data to help models recognize patterns and understand market dynamics before making predictions. However, replicating these outcomes in complex financial markets is harder. These results suggest that combining the HMM and neural networks can strengthen algorithmic trading by generating more precise and reliable signals. Additionally, integration of multiple risk models improves the robustness of the system.</p>
+</div>
+<div class="ltx_para" id="S5.p3">
+<p class="ltx_p">This study underscores the benefits of combining HMMs and neural networks for signal trading. Future research could explore wavelet transform pre-processing, extensive Monte Carlo simulations, and adaptive machine learning methods to further improve model performance. Using QuantConnect can enhance the reproducibility of results.</p>
+</div>
+<div class="ltx_para" id="S5.p4">
+<p class="ltx_p">The full code and backtesting data are available and licensed under the QuantConnect terms.</p>
+</div>
+</section>
+<section class="ltx_section ltx_indentfirst" id="Sx1">
+<h2 class="ltx_title ltx_title_section">Use of AI tools declaration</h2>
+<div class="ltx_para" id="Sx1.p1">
+<p class="ltx_p">The author declares that artificial intelligence tools were employed only to assist in drafting initial versions of certain sections of this manuscript. All AI generated content has been meticulously revised and rewritten by the author. The author takes absolute responsibility for the final content of this article.</p>
+</div>
+</section>
+<section class="ltx_section ltx_indentfirst" id="Sx2">
+<h2 class="ltx_title ltx_title_section">Acknowledgments</h2>
+<div class="ltx_para" id="Sx2.p1">
+<p class="ltx_p">The author acknowledges the QuantConnect platform for providing the infrastructure and data access necessary for this research.</p>
+</div>
+</section>
+<section class="ltx_section ltx_indentfirst" id="Sx3">
+<h2 class="ltx_title ltx_title_section">Conflict of interest</h2>
+<div class="ltx_para" id="Sx3.p1">
+<p class="ltx_p">The author declares no conflicts of interest in this paper.</p>
+</div>
+</section>
+<section class="ltx_bibliography" id="bib">
+<h2 class="ltx_title ltx_title_bibliography">References</h2>
+<ul class="ltx_biblist">
+<li class="ltx_bibitem" id="bib.bib1">
+<span class="ltx_tag ltx_role_refnum ltx_tag_bibitem">Dananjayan et al. (2023)</span>
+<span class="ltx_bibblock">
+Dananjayan MP, Gopakumar S, Narayanasamy P (2023) Unleashing the algorithmic frontier: Navigating the impact of algo trading on investor portfolios. <em class="ltx_emph ltx_font_italic">J Inf Technol Teach Cases</em>. <a class="ltx_ref ltx_url ltx_font_typewriter" href="https://doi.org/10.1177/20438869231189519" title="">https://doi.org/10.1177/20438869231189519</a>
+</span>
+</li>
+<li class="ltx_bibitem" id="bib.bib2">
+<span class="ltx_tag ltx_role_refnum ltx_tag_bibitem">Afua et al. (2024)</span>
+<span class="ltx_bibblock">
+Afua W, Ajayi-Nifise NAO, Bello G, et al. (2024) Algorithmic Trading and AI: A Review of Strategies and Market Impact. <em class="ltx_emph ltx_font_italic">World J Adv Eng Technol Sci</em> 11: 258–267. <a class="ltx_ref ltx_url ltx_font_typewriter" href="https://doi.org/10.30574/wjaets.2024.11.1.0054" title="">https://doi.org/10.30574/wjaets.2024.11.1.0054</a>
+</span>
+</li>
+<li class="ltx_bibitem" id="bib.bib3">
+<span class="ltx_tag ltx_role_refnum ltx_tag_bibitem">Oelschlager and Adam (2020)</span>
+<span class="ltx_bibblock">
+Oelschlager L, Adam T (2020) Detecting bearish and bullish markets in financial time series using hierarchical hidden Markov models. <em class="ltx_emph ltx_font_italic">arXiv</em>. <a class="ltx_ref ltx_url ltx_font_typewriter" href="https://doi.org/10.48550/arxiv.2007.14874" title="">https://doi.org/10.48550/arxiv.2007.14874</a>
+</span>
+</li>
+<li class="ltx_bibitem" id="bib.bib4">
+<span class="ltx_tag ltx_role_refnum ltx_tag_bibitem">El Morr et al. (2022)</span>
+<span class="ltx_bibblock">
+El Morr C, Jammal M, Ali-Hassan H, et al. (2022) Neural Networks. In: <em class="ltx_emph ltx_font_italic">International Series in Management Science/Operations Research</em>, 319–360. <a class="ltx_ref ltx_url ltx_font_typewriter" href="https://doi.org/10.1007/978-3-031-16990-8_11" title="">https://doi.org/10.1007/978-3-031-16990-8_11</a>
+</span>
+</li>
+<li class="ltx_bibitem" id="bib.bib5">
+<span class="ltx_tag ltx_role_refnum ltx_tag_bibitem">Giudici et al. (2024)</span>
+<span class="ltx_bibblock">
+Giudici P, Raffinetti E, Riani M (2024) Robust machine learning models: linear and nonlinear. <em class="ltx_emph ltx_font_italic">Int J Data Sci Anal</em>. <a class="ltx_ref ltx_url ltx_font_typewriter" href="https://doi.org/10.1007/s41060-024-00512-1" title="">https://doi.org/10.1007/s41060-024-00512-1</a>
+</span>
+</li>
+<li class="ltx_bibitem" id="bib.bib6">
+<span class="ltx_tag ltx_role_refnum ltx_tag_bibitem">Gorynin et al. (2017)</span>
+<span class="ltx_bibblock">
+Gorynin I, Monfrini E, Pieczynski W (2017) Pairwise Markov models for stock index forecasting. <em class="ltx_emph ltx_font_italic">Zenodo</em>. <a class="ltx_ref ltx_url ltx_font_typewriter" href="https://doi.org/10.23919/eusipco.2017.8081568" title="">https://doi.org/10.23919/eusipco.2017.8081568</a>
+</span>
+</li>
+<li class="ltx_bibitem" id="bib.bib7">
+<span class="ltx_tag ltx_role_refnum ltx_tag_bibitem">Shiri et al. (2023)</span>
+<span class="ltx_bibblock">
+Shiri FM, Perumal T, Mustapha N, et al. (2023) A Comprehensive Overview and Comparative Analysis on Deep Learning Models: CNN, RNN, LSTM, GRU. <em class="ltx_emph ltx_font_italic">arXiv</em>. <a class="ltx_ref ltx_url ltx_font_typewriter" href="https://arxiv.org/abs/2305.17473" title="">https://arxiv.org/abs/2305.17473</a>
+</span>
+</li>
+<li class="ltx_bibitem" id="bib.bib8">
+<span class="ltx_tag ltx_role_refnum ltx_tag_bibitem">Aelgani and Vadlakonda (2023)</span>
+<span class="ltx_bibblock">
+Aelgani V, Vadlakonda D (2023) Explainable Artificial Intelligence based Ensemble Machine Learning for Ovarian Cancer Stratification using Electronic Health Records. <em class="ltx_emph ltx_font_italic">Int J Recent Innov Trends Comput Commun</em> 11: 78–84. <a class="ltx_ref ltx_url ltx_font_typewriter" href="https://doi.org/10.17762/ijritcc.v11i7.7832" title="">https://doi.org/10.17762/ijritcc.v11i7.7832</a>
+</span>
+</li>
+<li class="ltx_bibitem" id="bib.bib9">
+<span class="ltx_tag ltx_role_refnum ltx_tag_bibitem">Lara-Benitez et al. (2021)</span>
+<span class="ltx_bibblock">
+Lara-Benitez P, Carranza-Garcia M, Riquelme JC (2021) An Experimental Review on Deep Learning Architectures for Time Series Forecasting. <em class="ltx_emph ltx_font_italic">Int J Neural Syst</em> 31: 2130001. <a class="ltx_ref ltx_url ltx_font_typewriter" href="https://doi.org/10.1142/s0129065721300011" title="">https://doi.org/10.1142/s0129065721300011</a>
+</span>
+</li>
+<li class="ltx_bibitem" id="bib.bib10">
+<span class="ltx_tag ltx_role_refnum ltx_tag_bibitem">Odegua (2019)</span>
+<span class="ltx_bibblock">
+Odegua, R. (2019). An Empirical Study of Ensemble Techniques (Bagging, Boosting and Stacking). Proceedings of the Conference on Deep Learning, IndabaX. <a class="ltx_ref ltx_url ltx_font_typewriter" href="https://www.researchgate.net/publication/338681876" title="">https://www.researchgate.net/publication/338681876</a>
+</span>
+</li>
+<li class="ltx_bibitem" id="bib.bib11">
+<span class="ltx_tag ltx_role_refnum ltx_tag_bibitem">Oelschlager and Adam (2021)</span>
+<span class="ltx_bibblock">
+Oelschlager L, Adam T (2021) Detecting bearish and bullish markets in financial time series using hierarchical hidden Markov models. <em class="ltx_emph ltx_font_italic">Stat Model</em> 1471082X2110340. <a class="ltx_ref ltx_url ltx_font_typewriter" href="https://doi.org/10.1177/1471082x211034048" title="">https://doi.org/10.1177/1471082x211034048</a>
+</span>
+</li>
+<li class="ltx_bibitem" id="bib.bib12">
+<span class="ltx_tag ltx_role_refnum ltx_tag_bibitem">Jiang (2020)</span>
+<span class="ltx_bibblock">
+Jiang W (2020) Time series classification: nearest neighbor versus deep learning models. <em class="ltx_emph ltx_font_italic">SN Appl Sci</em> 2. <a class="ltx_ref ltx_url ltx_font_typewriter" href="https://doi.org/10.1007/s42452-020-2506-9" title="">https://doi.org/10.1007/s42452-020-2506-9</a>
+</span>
+</li>
+<li class="ltx_bibitem" id="bib.bib13">
+<span class="ltx_tag ltx_role_refnum ltx_tag_bibitem">Wang et al. (2021)</span>
+<span class="ltx_bibblock">
+Wang J, Li Q, Zeng B (2021) Multi-layer cooperative combined forecasting system for short-term wind speed forecasting. <em class="ltx_emph ltx_font_italic">Sustain Energy Technol Assess</em> 43: 100946. <a class="ltx_ref ltx_url ltx_font_typewriter" href="https://doi.org/10.1016/j.seta.2020.100946" title="">https://doi.org/10.1016/j.seta.2020.100946</a>
+</span>
+</li>
+<li class="ltx_bibitem" id="bib.bib14">
+<span class="ltx_tag ltx_role_refnum ltx_tag_bibitem">Chen et al. (2022)</span>
+<span class="ltx_bibblock">
+Chen W-B, Li X-Y, Kang R (2022) Integration for degradation analysis with multi-source ADT datasets considering dataset discrepancies and epistemic uncertainties. <em class="ltx_emph ltx_font_italic">Reliab Eng Syst Saf</em> 222: 108430. <a class="ltx_ref ltx_url ltx_font_typewriter" href="https://doi.org/10.1016/j.ress.2022.108430" title="">https://doi.org/10.1016/j.ress.2022.108430</a>
+</span>
+</li>
+<li class="ltx_bibitem" id="bib.bib15">
+<span class="ltx_tag ltx_role_refnum ltx_tag_bibitem">Afua et al. (2024b)</span>
+<span class="ltx_bibblock">
+Afua W, Ajayi-Nifise NAO, Bello G, et al. (2024) Algorithmic Trading and AI: A Review of Strategies and Market Impact. <em class="ltx_emph ltx_font_italic">World J Adv Eng Technol Sci</em> 11: 258–267. <a class="ltx_ref ltx_url ltx_font_typewriter" href="https://doi.org/10.30574/wjaets.2024.11.1.0054" title="">https://doi.org/10.30574/wjaets.2024.11.1.0054</a>
+</span>
+</li>
+<li class="ltx_bibitem" id="bib.bib16">
+<span class="ltx_tag ltx_role_refnum ltx_tag_bibitem">Bharath et al. (2023)</span>
+<span class="ltx_bibblock">
+Bharath, et al. (2023) Evaluating the Performance of Diverse Machine Learning Approaches in Stock Market Forecasting. <em class="ltx_emph ltx_font_italic">Lect Notes Comput Sci</em> 255–264. <a class="ltx_ref ltx_url ltx_font_typewriter" href="https://doi.org/10.1007/978-3-031-36402-0_23" title="">https://doi.org/10.1007/978-3-031-36402-0_23</a>
+</span>
+</li>
+<li class="ltx_bibitem" id="bib.bib17">
+<span class="ltx_tag ltx_role_refnum ltx_tag_bibitem">Rashid (2010)</span>
+<span class="ltx_bibblock">
+Rashid A (2010) Using a service oriented architecture for simulating algorithmic trading strategies. <a class="ltx_ref ltx_url ltx_font_typewriter" href="https://doi.org/10.1145/1967486.1967650" title="">https://doi.org/10.1145/1967486.1967650</a>
+</span>
+</li>
+<li class="ltx_bibitem" id="bib.bib18">
+<span class="ltx_tag ltx_role_refnum ltx_tag_bibitem">QuantConnect (2024)</span>
+<span class="ltx_bibblock">
+QuantConnect Documentation (2024) Overview - QuantConnect.com. <a class="ltx_ref ltx_url ltx_font_typewriter" href="https://www.quantconnect.com/docs/v2/writing-algorithms/algorithm-framework/overview" title="">https://www.quantconnect.com/docs/v2/writing-algorithms/algorithm-framework/overview</a>
+</span>
+</li>
+<li class="ltx_bibitem" id="bib.bib19">
+<span class="ltx_tag ltx_role_refnum ltx_tag_bibitem">Sauberschwarz and Weiss (2017)</span>
+<span class="ltx_bibblock">
+Sauberschwarz L, Weiss L (2017) How Corporations Can Win the Race Against Disruptive Startups. <em class="ltx_emph ltx_font_italic">Springer Berlin Heidelberg</em>, 155–167. <a class="ltx_ref ltx_url ltx_font_typewriter" href="https://doi.org/10.1007/978-3-662-49275-8_18" title="">https://doi.org/10.1007/978-3-662-49275-8_18</a>
+</span>
+</li>
+<li class="ltx_bibitem" id="bib.bib20">
+<span class="ltx_tag ltx_role_refnum ltx_tag_bibitem">Rakovic (2018)</span>
+<span class="ltx_bibblock">
+Rakovic TS (2018) The Effect of Market Liquidity on the Company Value. <em class="ltx_emph ltx_font_italic">Springer</em>, 183–196. <a class="ltx_ref ltx_url ltx_font_typewriter" href="https://doi.org/10.1007/978-3-319-75907-4_12" title="">https://doi.org/10.1007/978-3-319-75907-4_12</a>
+</span>
+</li>
+<li class="ltx_bibitem" id="bib.bib21">
+<span class="ltx_tag ltx_role_refnum ltx_tag_bibitem">Cayirli (2019)</span>
+<span class="ltx_bibblock">
+Cayirli O (2019) The Black-Litterman Model: Extensions and Asset Allocation. <em class="ltx_emph ltx_font_italic">SSRN</em>. <a class="ltx_ref ltx_url ltx_font_typewriter" href="https://doi.org/10.2139/ssrn.3464770" title="">https://doi.org/10.2139/ssrn.3464770</a>
+</span>
+</li>
+<li class="ltx_bibitem" id="bib.bib22">
+<span class="ltx_tag ltx_role_refnum ltx_tag_bibitem">Tzang et al. (2020)</span>
+<span class="ltx_bibblock">
+Tzang S-W, Hung C-H, Tsai Y-S, et al. (2020) Black-Litterman Model and Momentum Strategy: Evidence of Taiwan Top 50 ETF. <em class="ltx_emph ltx_font_italic">Springer</em>, 490–497. <a class="ltx_ref ltx_url ltx_font_typewriter" href="https://doi.org/10.1007/978-3-030-50399-4_47" title="">https://doi.org/10.1007/978-3-030-50399-4_47</a>
+</span>
+</li>
+<li class="ltx_bibitem" id="bib.bib23">
+<span class="ltx_tag ltx_role_refnum ltx_tag_bibitem">Alwateer et al. (2023)</span>
+<span class="ltx_bibblock">
+Alwateer MM, Atlam E, Farsi M, et al. (2023) Hidden Markov Models for Pattern Recognition. <em class="ltx_emph ltx_font_italic">IntechOpen</em>. <a class="ltx_ref ltx_url ltx_font_typewriter" href="https://doi.org/10.5772/intechopen.1001364" title="">https://doi.org/10.5772/intechopen.1001364</a>
+</span>
+</li>
+<li class="ltx_bibitem" id="bib.bib24">
+<span class="ltx_tag ltx_role_refnum ltx_tag_bibitem">Qamar and Zardari (2023)</span>
+<span class="ltx_bibblock">
+Qamar R, Zardari BA (2023) Artificial Neural Networks: An Overview. <em class="ltx_emph ltx_font_italic">Mesopot J Comput Sci</em> 130–139. <a class="ltx_ref ltx_url ltx_font_typewriter" href="https://doi.org/10.58496/mjcsc/2023/015" title="">https://doi.org/10.58496/mjcsc/2023/015</a>
+</span>
+</li>
+<li class="ltx_bibitem" id="bib.bib25">
+<span class="ltx_tag ltx_role_refnum ltx_tag_bibitem">Kwon et al. (2022)</span>
+<span class="ltx_bibblock">
+Kwon H, et al. (2022) Distillation Column Temperature Prediction Based on Machine-Learning Model Using Wavelet Transform. In: <em class="ltx_emph ltx_font_italic">Computer Aided Chemical Engineering</em>, Elsevier, 1651–1656. <a class="ltx_ref ltx_url ltx_font_typewriter" href="https://doi.org/10.1016/b978-0-323-85159-6.50275-x" title="">https://doi.org/10.1016/b978-0-323-85159-6.50275-x</a>
+</span>
+</li>
+<li class="ltx_bibitem" id="bib.bib26">
+<span class="ltx_tag ltx_role_refnum ltx_tag_bibitem">Zillich et al. (2009)</span>
+<span class="ltx_bibblock">
+Zillich R, Chin S, Mayrhofer J (2009) Extrapolated High-Order Propagators for Path Integral Monte Carlo Simulations. <a class="ltx_ref ltx_url ltx_font_typewriter" href="https://doi.org/10.48550/arxiv.0907.3495" title="">https://doi.org/10.48550/arxiv.0907.3495</a>
+</span>
+</li>
+<li class="ltx_bibitem" id="bib.bib27">
+<span class="ltx_tag ltx_role_refnum ltx_tag_bibitem">Wu et al. (2024)</span>
+<span class="ltx_bibblock">
+Wu L, Picek S, Perin G (2024) I Choose You: Automated Hyperparameter Tuning for Deep Learning-Based Side-Channel Analysis. <em class="ltx_emph ltx_font_italic">IEEE Trans Emerg Top Comput</em> 12: 546–557. <a class="ltx_ref ltx_url ltx_font_typewriter" href="https://doi.org/10.1109/tetc.2022.3218372" title="">https://doi.org/10.1109/tetc.2022.3218372</a>
+</span>
+</li>
+<li class="ltx_bibitem" id="bib.bib28">
+<span class="ltx_tag ltx_role_refnum ltx_tag_bibitem">Ong and Ahmad (2011)</span>
+<span class="ltx_bibblock">
+Ong HF, Ahmad AM (2011) Malay Language Speech Recogniser with Hybrid Hidden Markov Model and Artificial Neural Network (HMM/ANN). <em class="ltx_emph ltx_font_italic">Int J Inf Educ Technol</em> 114–119. <a class="ltx_ref ltx_url ltx_font_typewriter" href="https://doi.org/10.7763/ijiet.2011.v1.19" title="">https://doi.org/10.7763/ijiet.2011.v1.19</a>
+</span>
+</li>
+</ul>
+</section>
+</article>
+</div>
+<footer class="ltx_page_footer">
+<div class="ltx_page_logo">Generated  on Sun Nov  2 02:14:23 2025 by <a class="ltx_LaTeXML_logo" href="http://dlmf.nist.gov/LaTeXML/"><span style="letter-spacing:-0.2em; margin-right:0.1em;">L<span class="ltx_font_smallcaps" style="position:relative; bottom:2.2pt;">a</span>T<span class="ltx_font_smallcaps" style="font-size:120%;position:relative; bottom:-0.2ex;">e</span></span><span style="font-size:90%; position:relative; bottom:-0.2ex;">XML</span><img alt="Mascot Sammy" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAsAAAAOCAYAAAD5YeaVAAAAAXNSR0IArs4c6QAAAAZiS0dEAP8A/wD/oL2nkwAAAAlwSFlzAAALEwAACxMBAJqcGAAAAAd0SU1FB9wKExQZLWTEaOUAAAAddEVYdENvbW1lbnQAQ3JlYXRlZCB3aXRoIFRoZSBHSU1Q72QlbgAAAdpJREFUKM9tkL+L2nAARz9fPZNCKFapUn8kyI0e4iRHSR1Kb8ng0lJw6FYHFwv2LwhOpcWxTjeUunYqOmqd6hEoRDhtDWdA8ApRYsSUCDHNt5ul13vz4w0vWCgUnnEc975arX6ORqN3VqtVZbfbTQC4uEHANM3jSqXymFI6yWazP2KxWAXAL9zCUa1Wy2tXVxheKA9YNoR8Pt+aTqe4FVVVvz05O6MBhqUIBGk8Hn8HAOVy+T+XLJfLS4ZhTiRJgqIoVBRFIoric47jPnmeB1mW/9rr9ZpSSn3Lsmir1fJZlqWlUonKsvwWwD8ymc/nXwVBeLjf7xEKhdBut9Hr9WgmkyGEkJwsy5eHG5vN5g0AKIoCAEgkEkin0wQAfN9/cXPdheu6P33fBwB4ngcAcByHJpPJl+fn54mD3Gg0NrquXxeLRQAAwzAYj8cwTZPwPH9/sVg8PXweDAauqqr2cDjEer1GJBLBZDJBs9mE4zjwfZ85lAGg2+06hmGgXq+j3+/DsixYlgVN03a9Xu8jgCNCyIegIAgx13Vfd7vdu+FweG8YRkjXdWy329+dTgeSJD3ieZ7RNO0VAXAPwDEAO5VKndi2fWrb9jWl9Esul6PZbDY9Go1OZ7PZ9z/lyuD3OozU2wAAAABJRU5ErkJggg=="/></a>
+</div></footer>
+</div>
+</body>
+</html>

@@ -2,7 +2,7 @@
 title: 淘宝营销工具
 type: domains/视觉制作/05-小红书风格AI生图/index
 created: 2026-06-14
-updated: 2026-06-14
+updated: 2026-06-20
 domain: 电商运营
 tags: [ecommerce, taobao, marketing-tool]
 status: active
@@ -22,3 +22,8 @@ status: active
 ## 查询入口
 
 - [[queries/taobao-marketing-tool-planning|淘宝营销工具规划查询入口]]
+- [[queries/达摩盘AI竞品数据挖掘|达摩盘 AI 竞品数据挖掘查询入口]]
+
+## 相关工具域
+
+- [[domains/电商运营/02-淘宝天猫/04-达摩盘AI/index|达摩盘 AI]]：平台内数据化营销和竞品挖掘工具域，覆盖内部工具名、数据资产、调用话术、SQL 深挖和脱敏边界。
