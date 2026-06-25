@@ -1,0 +1,54 @@
+{
+	"systeminfo": "WHISPER : COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | FP16_VA = 1 | MATMUL_INT8 = 1 | DOTPROD = 1 | SME = 1 | ACCELERATE = 1 | OPENMP = 1 | REPACK = 1 | ",
+	"model": {
+		"type": "large",
+		"multilingual": true,
+		"vocab": 51866,
+		"audio": {
+			"ctx": 1500,
+			"state": 1280,
+			"head": 20,
+			"layer": 32
+		},
+		"text": {
+			"ctx": 448,
+			"state": 1280,
+			"head": 20,
+			"layer": 4
+		},
+		"mels": 128,
+		"ftype": 1
+	},
+	"params": {
+		"model": "/Users/pechen/.local/share/whisper.cpp/models/ggml-large-v3-turbo.bin",
+		"language": "zh",
+		"translate": false
+	},
+	"result": {
+		"language": "zh"
+	},
+	"transcription": [
+		{
+			"timestamps": {
+				"from": "00:00:00,000",
+				"to": "00:00:29,780"
+			},
+			"offsets": {
+				"from": 0,
+				"to": 29780
+			},
+			"text": "同学们,这一章节我们来讲一下关于店铺基础技能的学习, 那么这个技能学习呢其实很简单, 一天就能够入门了, 如果你是刚入行, 对运营知识不知道从哪里学起, 也不知道学哪些板块, 现在很迷茫或者是无头绪的摸索, 那么这节课就能够帮你解决这些问题, 如果你是有经验的运营呢, 但是呢你现在的知识体系很乱, 又做不出成绩,"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:30,000",
+				"to": "00:00:50,760"
+			},
+			"offsets": {
+				"from": 30000,
+				"to": 50760
+			},
+			"text": "或者是说很多知识你都没有办法把它变成你的技能的, 那么这节课你也要重点去学习, 然后按照这种思路和方法去操作, 你也能很快的把你的所有的知识体系梳理出来, 好了, 接下来我们就要正式进行课程的学习了"
+		}
+	]
+}
