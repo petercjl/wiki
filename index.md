@@ -1,8 +1,8 @@
 # Wiki Index
 
 > Content catalog. Every formal wiki page should be listed here.
-> Last updated: 2026-06-21
-> Total formal pages: 321
+> Last updated: 2026-06-25
+> Total formal pages: 325
 
 ## Domains
 
@@ -29,13 +29,15 @@
 - [[domains/AI Agent工程/06-自动化工作流/index|AI Agent 自动化工作流]]：沉淀目标、工具、证据、评审、循环、停止条件和经验回写组成的执行系统。
 - [[domains/AI Agent工程/06-自动化工作流/01-Loop Engineering个人方法论|Loop Engineering 个人方法论]]：把 loop engineering 定义为围绕可证据化目标设计 Agent 执行、评审、修正、记录和停止的循环系统。
 - [[domains/AI Agent工程/06-自动化工作流/02-Loop项目规划模板|Loop 项目规划模板]]：新建 loop 项目前，要求 Agent 先定义目标契约、证据面、工作基座、执行节点、评审节点、轮数预算和入库规则。
-- [[domains/AI Agent工程/03-Skill设计/00-Peter的Skill世界观|Peter 的 Skill 世界观]]：将 skill 定义为大模型执行复杂任务的说明书、定向知识库和可演化执行知识体，强调主线清晰、异常补丁、工作流节点和回主线机制。
+- [[domains/AI Agent工程/03-Skill设计/index|Skill 设计]]：Agent skill 的设计、测试、演化和注册方法入口。
+- [[domains/AI Agent工程/03-Skill设计/00-Skill世界观|Skill 世界观]]：将 skill 定义为大模型执行复杂任务的说明书、定向知识库和可演化执行知识体，强调主线清晰、异常补丁、工作流节点和回主线机制。
+- [[domains/AI Agent工程/03-Skill设计/03-主对话与干净子Agent的Skill回归测试方法|主对话与干净子 Agent 的 Skill 回归测试方法]]：主 Agent 负责设计和落盘，干净子 Agent 负责在无主对话背景下回归验证 skill 是否独立有效。
 - [[domains/AI Agent工程/03-Skill设计/01-LLM Wiki Skill同源包|LLM Wiki Skill 同源包]]：Codex 维护、GitHub 分发、SealSeek/Hermes 安装使用的 LLM Wiki skill 收敛规则与发布入口。
 - [[domains/AI Agent工程/03-Skill设计/02-无限画板Skill写作知识库/index|无限画板 Skill 写作知识库]]：从历史无限画板 skill 中沉淀出的写作规则、工具规范、任务范式、prompt 模板、反坑清单和质量检查。
 - [[domains/AI Agent工程/05-工具链/01-OpenAI图像生成API集成指南|OpenAI 图像生成 API 集成指南]]：Image API 与 Responses API 的选择、参数、编辑、流式、错误处理和成本判断。
 - [[domains/视觉制作/03-AI商业视觉/02-Codex与Photoshop协作自动化能力边界|Codex 与 Photoshop 协作自动化能力边界]]：本机验证 Codex 控制 Photoshop、Apple Vision OCR、PSD 检查和批量视觉生产的能力边界。
 - [[domains/视觉制作/03-AI商业视觉/03-可编辑海报PSD重建Skill|可编辑海报 PSD 重建 Skill]]：Codex skill `editable-poster-psd-rebuild`，将 AI 带字电商海报重建为无文案底图、隐藏参考图和授权字体可编辑文字层 PSD。
-- [[domains/AI Agent工程/90-Skill注册表/01-个人与项目Skill注册库|个人/项目 Skill 注册库]]：只收录 Peter 自己创建、让 Agent 为项目定制、或明显服务于 Peter 项目/业务流程的 skill，是日常检索“有没有类似 skill”的优先入口。
+- [[domains/AI Agent工程/90-Skill注册表/01-个人与项目Skill注册库|个人/项目 Skill 注册库]]：只收录 用户自己创建、让 Agent 为项目定制、或明显服务于 用户项目/业务流程的 skill，是日常检索“有没有类似 skill”的优先入口。
 - [[domains/AI Agent工程/90-Skill注册表/02-跨Agent Skill注册库|跨 Agent Skill 注册库]]：统一检索 Codex、Hermes、Lark Agent、OpenClaw、SealSeek、Claude Code 的 skill，定位原始 `SKILL.md` 并判断复用或迁移可能。
 - [[domains/AI Agent工程/90-Skill注册表/03-Codex Skill注册页|Codex Skill 注册页]]：Codex 本地业务 skill 与系统 skill 的检索描述、输入方式、关键词和文件位置。
 - [[domains/AI Agent工程/90-Skill注册表/04-Hermes Skill注册页|Hermes Skill 注册页]]：Hermes 主 skill 目录的检索描述、输入方式、关键词和文件位置。
@@ -90,6 +92,7 @@
 
 - [[domains/视觉制作/06-AI视频/01-Doubao-Seedance-2.0视频生成模型卡|Doubao-Seedance-2.0 视频生成模型卡]]：火山方舟 Seedance 2.0 的模型 ID、能力、价格快照、API 入口、限制和三类 demo prompt 模式。
 - [[domains/视觉制作/01-电商视觉基础/02-电商图片营销策划与AI生图Playbook|电商图片营销策划与 AI 生图 Playbook]]：把电商图片营销理论落地为用户定义、FABE 卖点转译、图位任务、视觉策略、图上文案和生图 prompt 工作流。
+- [[domains/视觉制作/01-电商视觉基础/03-卖点转炸点方法|卖点转炸点方法]]：把普通卖点从产品事实、用户痛点、行业同质化和可感知结果中压缩为主图爆点、心智钩子和可传播文案。
 - [[domains/视觉制作/05-小红书风格AI生图/index|小红书风格 AI 生图知识库]]：把小红书内容逻辑编译为可复用的 AI 生图知识库，覆盖内容场景、封面类型、组图结构、卖点转译、prompt 模板和 QA。
 - [[queries/xiaohongshu-image-generation|小红书风格生图查询入口]]：Agent 生成、改写或审核小红书图片 prompt 前的读取入口。
 - [[domains/视觉制作/04-AI生图风格库/index|AI 生图风格库]]：按“每个风格一个目录”组织风格定义、playbook 和参考图索引，避免多风格资料平铺混乱。
@@ -192,6 +195,11 @@
 
 - [[domains/电商运营/20-跨境电商/index|跨境电商知识入口]]：跨境电商、出海、海外平台、本地化运营、物流、支付、知识产权和合规风险知识。
 - [[domains/电商运营/20-跨境电商/01-中小企业跨境出海/index|跨境电商赋能中小企业出海]]：基于洪勇 2026 年书籍重构的中小企业跨境出海 learning path，覆盖机会判断、市场调研、产品本地化、数字营销、物流、本地化运营、知识产权、支付、合规和风险管理。
+- [[domains/电商运营/20-跨境电商/02-阿里巴巴国际站运营实战系统课/index|阿里巴巴国际站运营实战系统课]]：基于白泽前 4 章视频转写和关键帧 OCR，沉淀国际站运营能力框架、跨行业迁移方法、运营实战技能迭代和 Agent 诊断入口。
+- [[domains/电商运营/20-跨境电商/02-阿里巴巴国际站运营实战系统课/01-国际站运营能力框架|国际站运营能力框架]]：把平台规则、指标概念、流量思维、买家思维和实战应用组织成国际站运营能力模型。
+- [[domains/电商运营/20-跨境电商/02-阿里巴巴国际站运营实战系统课/02-运营思维框架与跨行业迁移|运营思维框架与跨行业迁移]]：解释运营如何从技巧迁移到判断结构，适配不同行业、店铺和产品。
+- [[domains/电商运营/20-跨境电商/02-阿里巴巴国际站运营实战系统课/03-运营实战技能迭代方法|运营实战技能迭代方法]]：把基础知识、实战应用、成功案例打造、自主学习、测试模型和复盘复制整理为运营成长 playbook。
+- [[queries/阿里巴巴国际站运营诊断|阿里巴巴国际站运营诊断]]：Agent 诊断国际站店铺询盘增长、运营能力和学习路径前的读取入口。
 - [[domains/电商运营/20-跨境电商/01-中小企业跨境出海/01-跨境电商机会与入局模型|跨境电商黄金时代与进入模式]]
 - [[domains/电商运营/20-跨境电商/01-中小企业跨境出海/02-市场研究、产品本地化与品牌进入|市场调研、产品本地化与品牌进入]]
 - [[domains/电商运营/20-跨境电商/01-中小企业跨境出海/03-数字营销增长体系|数字化营销增长系统]]
@@ -221,6 +229,7 @@
 - [[domains/电商运营/02-淘宝天猫/02-淘宝营销工具/index|淘宝营销工具入口]]：淘宝/天猫营销工具的工具卡、叠加互斥规则、资损风险和选择流程。
 - [[domains/电商运营/02-淘宝天猫/04-达摩盘AI/index|达摩盘 AI]]：达摩盘/DMP AI 内部工具、数据资产、竞品挖掘路线、调用话术和边界测试。
 - [[domains/电商运营/02-淘宝天猫/04-达摩盘AI/01-达摩盘AI内部工具与竞品数据挖掘手册|达摩盘 AI 内部工具与竞品数据挖掘手册]]：完整保留 DMP AI 工具名、参数、返回字段、SQL 深挖、竞品销售/推广/人群/关键词路线和失败边界。
+- [[domains/电商运营/02-淘宝天猫/04-达摩盘AI/02-达摩盘AI对话挖掘竞品数据案例|达摩盘 AI 对话挖掘竞品数据案例]]：把一次 DMP AI 竞品研究沉淀为提问目录、提示词、预期数据、案例结果和全量落盘 QA。
 - [[queries/达摩盘AI竞品数据挖掘|达摩盘 AI 竞品数据挖掘查询入口]]：Agent 在 DMP AI 中继续挖掘竞品销售、搜索词、推广和人群数据前的读取入口。
 - [[domains/电商运营/02-淘宝天猫/02-淘宝营销工具/01-淘宝营销工具：优惠券|淘宝营销工具：优惠券]]：优惠券的类型、核销、资损、叠加关系和适用场景。
 - [[domains/电商运营/02-淘宝天猫/02-淘宝营销工具/02-淘宝营销工具：超级立减|淘宝营销工具：超级立减]]：超级立减的报名、价格公式、活动冲突、最低价和大促双报规则。
@@ -334,7 +343,7 @@
 
 ## Queries
 
-- [[queries/Loop项目启动入口|Loop 项目启动入口]]：Peter 要求“做一个 loop”“循环优化”“多轮自动改进”时，Agent 应优先读取的执行入口。
+- [[queries/Loop项目启动入口|Loop 项目启动入口]]：用户要求“做一个 loop”“循环优化”“多轮自动改进”时，Agent 应优先读取的执行入口。
 - [[queries/ecommerce-image-marketing-planning|电商图片营销策划查询入口]]：Agent 生成、诊断或优化电商主图、详情页和 AI 生图 prompt 前的读取入口。
 
 ## Decisions

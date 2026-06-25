@@ -2,12 +2,13 @@
 title: 达摩盘 AI
 type: index
 created: 2026-06-20
-updated: 2026-06-20
+updated: 2026-06-22
 domain: 电商运营
 tags: [ecommerce, taobao, tmall, dmp-ai, marketing-data]
 sources:
   - raw/data/dmp-ai-internal-tools-2026-06-20/DMP_AI_internal_tools.md
   - _meta/extraction-notes/dmp-ai-internal-tools-2026-06-20/coverage-matrix.md
+  - raw/data/dmp-ai-dialogue-case-product-id-template-2026-06-22/case-evidence-summary.md
 status: active
 ---
 
@@ -18,7 +19,8 @@ status: active
 ## 阅读顺序
 
 1. [[domains/电商运营/02-淘宝天猫/04-达摩盘AI/01-达摩盘AI内部工具与竞品数据挖掘手册|达摩盘 AI 内部工具与竞品数据挖掘手册]]：完整保留内部工具、数据资产、参数、样例、结果和边界测试。
-2. [[queries/达摩盘AI竞品数据挖掘|达摩盘 AI 竞品数据挖掘查询入口]]：未来 Agent 处理竞品销售、搜索词、推广、人群数据问题时的入口。
+2. [[domains/电商运营/02-淘宝天猫/04-达摩盘AI/02-达摩盘AI对话挖掘竞品数据案例|达摩盘 AI 对话挖掘竞品数据案例]]：把“提问目录、提示词、预期数据、案例结果”沉淀成可复用案例。
+3. [[queries/达摩盘AI竞品数据挖掘|达摩盘 AI 竞品数据挖掘查询入口]]：未来 Agent 处理竞品销售、搜索词、推广、人群数据问题时的入口。
 
 ## 能力范围
 

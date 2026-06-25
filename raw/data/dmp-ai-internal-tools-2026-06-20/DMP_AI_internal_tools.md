@@ -126,7 +126,7 @@ This tool is especially important because `type=ad` returned exact peer item pro
 
 | Parameter | Meaning | Example | Notes |
 |---|---|---:|---|
-| `item_id` | Base item ID | `727042808950` | Uses base item, then locates same leaf-category / same price-band peers. |
+| `item_id` | Base item ID | `{BASE_ITEM_ID}` | Uses base item, then locates same leaf-category / same price-band peers. |
 | `start_date` | Start date | `20260613` | Format `YYYYMMDD`. |
 | `end_date` | End date | `20260619` | Format `YYYYMMDD`. |
 | `type` | View type | `webwide`, `ad`, `uv`, `cust_type`, `free` | Return shape differs significantly by type. |
@@ -140,7 +140,7 @@ This tool is especially important because `type=ad` returned exact peer item pro
 请不要重新规划任务，也不要解释业务背景。请直接调用内部工具，验证这个新工具是否真实可用。
 
 工具：tool_item_benchmark_dataquery
-参数：item_id=727042808950, start_date=20260613, end_date=20260619, type=webwide
+参数：item_id={BASE_ITEM_ID}, start_date=20260613, end_date=20260619, type=webwide
 
 只输出：工具是否成功调用、实际采用的参数名和值、返回字段名、返回字段值/区间、是否是同叶子类目/同价格带标杆均值、是否包含销售数据、是否包含推广数据、失败原因（如失败）。
 ```
@@ -149,7 +149,7 @@ Actual accepted parameters:
 
 | Parameter | Value |
 |---|---|
-| `item_id` | `727042808950` |
+| `item_id` | `{BASE_ITEM_ID}` |
 | `type` | `["webwide"]` |
 | `dimensions` | `["商品ID"]` |
 | `metrics` | `["总成交金额", "总成交笔数", "ipv", "支付转化率", "加购率", "笔单价"]` |
@@ -162,7 +162,7 @@ Verified output:
 | Field | Value |
 |---|---:|
 | 对比标杆类型 | `同叶子类目同价格带top5均值` |
-| 商品ID | `727042808950` |
+| 商品ID | `{BASE_ITEM_ID}` |
 | 标杆成交金额 | `7,627.21` |
 | 标杆成交笔数 | `428.8` |
 | 标杆ipv | `4,425.2` |
@@ -182,7 +182,7 @@ Findings:
 请不要重新规划任务，也不要解释业务背景。请继续验证同一个工具的推广标杆数据。
 
 工具：tool_item_benchmark_dataquery
-参数：item_id=727042808950, start_date=20260613, end_date=20260619, type=ad
+参数：item_id={BASE_ITEM_ID}, start_date=20260613, end_date=20260619, type=ad
 
 只输出：工具是否成功调用、实际采用的参数名和值、返回字段名、返回字段值/区间、是否是同叶子类目/同价格带标杆均值、是否包含推广数据、是否包含销售数据、是否有安全策略屏蔽字段、失败原因（如失败）。
 ```
@@ -191,7 +191,7 @@ Actual accepted parameters:
 
 | Parameter | Value |
 |---|---|
-| `item_id` | `727042808950` |
+| `item_id` | `{BASE_ITEM_ID}` |
 | `type` | `["ad"]` |
 | `dimensions` | `["商品ID"]` |
 | `metrics` | `["展现量", "点击量", "花费", "点击率", "投入产出比", "总成交金额", "总成交笔数", "加购率"]` |
@@ -206,7 +206,7 @@ Verified output:
 | `528309297271` | `5,180` | `232` | `318.78` | `4.48%` | `2.34` | `747.30` | `20` | `5.17%` |
 | `806643871787` | `5,064` | `343` | `65.53` | `6.77%` | `23.18` | `1,519.20` | `59` | `40.53%` |
 | `734065650463` | `6,511` | `539` | `61.54` | `8.28%` | `43.36` | `2,668.26` | `161` | `63.27%` |
-| `727042808950` | `34,188` | `2,349` | `5,253.95` | `6.87%` | `2.14` | `11,225.51` | `547` | `24.99%` |
+| `{BASE_ITEM_ID}` | `34,188` | `2,349` | `5,253.95` | `6.87%` | `2.14` | `11,225.51` | `547` | `24.99%` |
 
 Findings:
 
@@ -223,7 +223,7 @@ Findings:
 
 工具：tool_item_benchmark_dataquery
 参数：
-item_id=727042808950
+item_id={BASE_ITEM_ID}
 start_date=20260613
 end_date=20260619
 type=ad
@@ -237,7 +237,7 @@ Actual accepted parameters:
 
 | Parameter | Value |
 |---|---|
-| `item_id` | `727042808950` |
+| `item_id` | `{BASE_ITEM_ID}` |
 | `type` | `["ad"]` |
 | `dimensions` | `["商品ID", "商品标题", "店铺ID"]` |
 | `metrics` | `["展现量", "点击量", "花费", "点击率", "投入产出比", "总成交金额", "总成交笔数", "加购率"]` |
@@ -252,7 +252,7 @@ Verified output:
 | `528309297271` | `耐高温500度2只商用微波炉烤箱防烫夹加长厚烘培隔热硅胶工业手套` | `5,180` | `232` | `318.78` | `4.48%` | `2.34` | `747.30` | `20` | `5.17%` |
 | `806643871787` | `摩登主妇锅盖帽微波炉烤箱防烫帽厨房家用砂锅珐琅锅隔热加厚手套` | `5,064` | `343` | `65.53` | `6.77%` | `23.18` | `1,519.20` | `59` | `40.53%` |
 | `734065650463` | `摩登主妇硅胶隔热手套厨房家用耐高温烤箱微波炉加厚防滑防烫手夹` | `6,511` | `539` | `61.54` | `8.28%` | `43.36` | `2,668.26` | `161` | `63.27%` |
-| `727042808950` | `防烫手套隔热加厚硅胶厨房烤箱专用烘焙耐高温防滑防热微波炉烘培` | `34,188` | `2,349` | `5,253.95` | `6.87%` | `2.14` | `11,225.51` | `547` | `24.99%` |
+| `{BASE_ITEM_ID}` | `防烫手套隔热加厚硅胶厨房烤箱专用烘焙耐高温防滑防热微波炉烘培` | `34,188` | `2,349` | `5,253.95` | `6.87%` | `2.14` | `11,225.51` | `547` | `24.99%` |
 
 Findings:
 
@@ -268,7 +268,7 @@ Purpose: test whether `type=ad` can expose more competitor promotion metrics bey
 ```text
 工具：tool_item_benchmark_dataquery
 参数：
-item_id=727042808950
+item_id={BASE_ITEM_ID}
 start_date=20260613
 end_date=20260619
 type=ad
@@ -287,7 +287,7 @@ Actual accepted parameters:
 
 | Parameter | Value |
 |---|---|
-| `item_id` | `727042808950` |
+| `item_id` | `{BASE_ITEM_ID}` |
 | `type` | `["ad"]` |
 | `dimensions` | `["商品ID", "商品标题"]` |
 | `metrics` | 22 promotion metrics; all passed validation |
@@ -311,7 +311,7 @@ Verified output:
 | `528309297271` | `耐高温500度2只商用微波炉烤箱防烫夹加长厚烘培隔热硅胶工业手套` | `5,180` | `232` | `318.78` | `4.48%` | `1.374` | `61.54` | `747.30` | `20` | `8.62%` | `2.34` | `15.94` | `12` | `5.17%` |
 | `806643871787` | `摩登主妇锅盖帽微波炉烤箱防烫帽厨房家用砂锅珐琅锅隔热加厚手套` | `5,064` | `343` | `65.53` | `6.77%` | `0.191` | `12.94` | `1,519.20` | `59` | `17.20%` | `23.18` | `1.11` | `139` | `40.53%` |
 | `734065650463` | `摩登主妇硅胶隔热手套厨房家用耐高温烤箱微波炉加厚防滑防烫手夹` | `6,511` | `539` | `61.54` | `8.28%` | `0.114` | `9.45` | `2,668.26` | `161` | `29.87%` | `43.36` | `0.38` | `341` | `63.27%` |
-| `727042808950` | `防烫手套隔热加厚硅胶厨房烤箱专用烘焙耐高温防滑防热微波炉烘培` | `34,188` | `2,349` | `5,253.95` | `6.87%` | `2.237` | `153.68` | `11,225.51` | `547` | `23.29%` | `2.14` | `9.61` | `587` | `24.99%` |
+| `{BASE_ITEM_ID}` | `防烫手套隔热加厚硅胶厨房烤箱专用烘焙耐高温防滑防热微波炉烘培` | `34,188` | `2,349` | `5,253.95` | `6.87%` | `2.237` | `153.68` | `11,225.51` | `547` | `23.29%` | `2.14` | `9.61` | `587` | `24.99%` |
 
 Additional collection/add-cart fields:
 
@@ -320,7 +320,7 @@ Additional collection/add-cart fields:
 | `528309297271` | `0` | `0` | `0.00` | `12` | `26.57` | `12` | `0.00` | `0.00%` | `26.57` |
 | `806643871787` | `10` | `0` | `0.00` | `149` | `0.44` | `149` | `6.55` | `2.92%` | `0.47` |
 | `734065650463` | `12` | `0` | `0.00` | `353` | `0.17` | `353` | `5.13` | `2.23%` | `0.18` |
-| `727042808950` | `14` | `2` | `2,626.98` | `603` | `8.71` | `601` | `375.28` | `0.60%` | `8.95` |
+| `{BASE_ITEM_ID}` | `14` | `2` | `2,626.98` | `603` | `8.71` | `601` | `375.28` | `0.60%` | `8.95` |
 
 Findings:
 
@@ -336,7 +336,7 @@ Validated prompt:
 ```text
 请不要重新规划任务，也不要解释业务背景。请继续验证 tool_item_benchmark_dataquery 是否还能返回更多未脱敏的竞品明细。
 
-固定参数：item_id=727042808950, start_date=20260613, end_date=20260619, benchmark_type=同叶子类目同价格带top5均值。
+固定参数：item_id={BASE_ITEM_ID}, start_date=20260613, end_date=20260619, benchmark_type=同叶子类目同价格带top5均值。
 
 请分别测试以下3类，必要时根据schema自行修正参数：
 1) type=["free"]：要求 dimensions 尽量使用 ["商品ID","商品标题"]，metrics 使用该type schema支持的全部核心指标。
@@ -361,14 +361,14 @@ Schema findings:
 | Returned rows | 4 |
 | `data_id` | `1517891891612352512` |
 | Masking/security | None observed |
-| Important caveat | Returned `商品ID` was incorrectly filled as base item `727042808950` for all rows; competitor identity was only available through `标杆商品标题` |
+| Important caveat | Returned `商品ID` was incorrectly filled as base base item `{BASE_ITEM_ID}` for all rows; competitor identity was only available through `标杆商品标题` |
 
 | 商品ID | 标杆商品标题 | 标杆ipv | 标杆成交金额 | 标杆成交笔数 | 标杆成交人数 | 标杆加购率 | 标杆支付转化率 | 标杆笔单价 | 标杆件单价 | 标杆加购数 | 标杆加购人数 | 标杆收藏数 | 标杆收藏人数 | 标杆自然搜索点击量 | 标杆自然搜索点击次数 | 标杆当笔成交件数 |
 |---:|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
-| `727042808950` | `耐高温500度2只商用微波炉烤箱防烫夹加长厚烘培隔热硅胶工业手套` | `567.0` | `3,213.39` | `62.0` | `57.0` | `5.64%` | `10.93%` | `51.83` | `51.83` | `32.0` | `25.0` | `4.0` | `4.0` | `53.0` | `60.0` | `1.69` |
-| `727042808950` | `摩登主妇锅盖帽微波炉烤箱防烫帽厨房家用砂锅珐琅锅隔热加厚手套` | `4,517.0` | `4,648.16` | `262.0` | `250.0` | `12.49%` | `5.80%` | `17.74` | `17.74` | `564.0` | `526.0` | `35.0` | `35.0` | `431.0` | `514.0` | `1.02` |
-| `727042808950` | `摩登主妇硅胶隔热手套厨房家用耐高温烤箱微波炉加厚防滑防烫手夹` | `6,802.0` | `9,895.76` | `831.0` | `814.0` | `22.92%` | `12.22%` | `11.91` | `11.91` | `1,559.0` | `1,492.0` | `31.0` | `31.0` | `729.0` | `868.0` | `1.02` |
-| `727042808950` | `防烫手套隔热加厚硅胶厨房烤箱专用烘焙耐高温防滑防热微波炉烘培` | `10,239.0` | `20,378.73` | `989.0` | `960.0` | `10.31%` | `9.66%` | `20.61` | `20.61` | `1,056.0` | `961.0` | `29.0` | `29.0` | `2,277.0` | `2,876.0` | `1.03` |
+| `{BASE_ITEM_ID}` | `耐高温500度2只商用微波炉烤箱防烫夹加长厚烘培隔热硅胶工业手套` | `567.0` | `3,213.39` | `62.0` | `57.0` | `5.64%` | `10.93%` | `51.83` | `51.83` | `32.0` | `25.0` | `4.0` | `4.0` | `53.0` | `60.0` | `1.69` |
+| `{BASE_ITEM_ID}` | `摩登主妇锅盖帽微波炉烤箱防烫帽厨房家用砂锅珐琅锅隔热加厚手套` | `4,517.0` | `4,648.16` | `262.0` | `250.0` | `12.49%` | `5.80%` | `17.74` | `17.74` | `564.0` | `526.0` | `35.0` | `35.0` | `431.0` | `514.0` | `1.02` |
+| `{BASE_ITEM_ID}` | `摩登主妇硅胶隔热手套厨房家用耐高温烤箱微波炉加厚防滑防烫手夹` | `6,802.0` | `9,895.76` | `831.0` | `814.0` | `22.92%` | `12.22%` | `11.91` | `11.91` | `1,559.0` | `1,492.0` | `31.0` | `31.0` | `729.0` | `868.0` | `1.02` |
+| `{BASE_ITEM_ID}` | `防烫手套隔热加厚硅胶厨房烤箱专用烘焙耐高温防滑防热微波炉烘培` | `10,239.0` | `20,378.73` | `989.0` | `960.0` | `10.31%` | `9.66%` | `20.61` | `20.61` | `1,056.0` | `961.0` | `29.0` | `29.0` | `2,277.0` | `2,876.0` | `1.03` |
 
 `type=cust_type` actual result:
 
@@ -386,7 +386,7 @@ Schema findings:
 | `528309297271` | `耐高温500度2只商用微波炉烤箱防烫夹加长厚烘培隔热硅胶工业手套` | `567.0` | `3,213.39` | `62.0` | `57.0` | `5.64%` | `10.93%` | `51.83` | `51.83` | `32.0` | `25.0` | `4.0` | `4.0` | `53.0` | `60.0` | `1.69` |
 | `806643871787` | `摩登主妇锅盖帽微波炉烤箱防烫帽厨房家用砂锅珐琅锅隔热加厚手套` | `4,517.0` | `4,648.16` | `262.0` | `250.0` | `12.49%` | `5.80%` | `17.74` | `17.74` | `564.0` | `526.0` | `35.0` | `35.0` | `431.0` | `514.0` | `1.02` |
 | `734065650463` | `摩登主妇硅胶隔热手套厨房家用耐高温烤箱微波炉加厚防滑防烫手夹` | `6,802.0` | `9,895.76` | `831.0` | `814.0` | `22.92%` | `12.22%` | `11.91` | `11.91` | `1,559.0` | `1,492.0` | `31.0` | `31.0` | `729.0` | `868.0` | `1.02` |
-| `727042808950` | `防烫手套隔热加厚硅胶厨房烤箱专用烘焙耐高温防滑防热微波炉烘培` | `10,239.0` | `20,378.73` | `989.0` | `960.0` | `10.31%` | `9.66%` | `20.61` | `20.61` | `1,056.0` | `961.0` | `29.0` | `29.0` | `2,277.0` | `2,876.0` | `1.03` |
+| `{BASE_ITEM_ID}` | `防烫手套隔热加厚硅胶厨房烤箱专用烘焙耐高温防滑防热微波炉烘培` | `10,239.0` | `20,378.73` | `989.0` | `960.0` | `10.31%` | `9.66%` | `20.61` | `20.61` | `1,056.0` | `961.0` | `29.0` | `29.0` | `2,277.0` | `2,876.0` | `1.03` |
 
 Findings:
 
@@ -403,7 +403,7 @@ Corrected prompt:
 ```text
 工具：tool_item_benchmark_dataquery
 参数：
-item_id=727042808950
+item_id={BASE_ITEM_ID}
 start_date=20260613
 end_date=20260619
 type=["free"]
@@ -471,11 +471,11 @@ SQL result: success, 19 rows.
 | `528309297271` | `耐高温500度2只商用微波炉烤箱防烫夹加长厚烘培隔热硅胶工业手套` | `淘宝搜索` | `97.0` | `644.41` | `16.0` | `644.41` | `16.0` | `10.0` | `10.0` | `0.0` | `0.0` |
 | `528309297271` | `耐高温500度2只商用微波炉烤箱防烫夹加长厚烘培隔热硅胶工业手套` | `淘宝其他` | `167.0` | `284.32` | `7.0` | `284.32` | `7.0` | `1.0` | `1.0` | `0.0` | `0.0` |
 | `528309297271` | `耐高温500度2只商用微波炉烤箱防烫夹加长厚烘培隔热硅胶工业手套` | `淘宝推荐` | `15.0` | `31.90` | `1.0` | `31.90` | `1.0` | `2.0` | `3.0` | `0.0` | `0.0` |
-| `727042808950` | `防烫手套隔热加厚硅胶厨房烤箱专用烘焙耐高温防滑防热微波炉烘培` | `(空)` | `2,349.0` | `10,261.12` | `497.0` | `9,812.64` | `472.0` | `476.0` | `509.0` | `2.0` | `14.0` |
-| `727042808950` | `防烫手套隔热加厚硅胶厨房烤箱专用烘焙耐高温防滑防热微波炉烘培` | `淘宝搜索` | `2,140.0` | `6,470.04` | `324.0` | `6,218.03` | `306.0` | `335.0` | `363.0` | `1.0` | `11.0` |
-| `727042808950` | `防烫手套隔热加厚硅胶厨房烤箱专用烘焙耐高温防滑防热微波炉烘培` | `淘宝其他` | `821.0` | `1,942.21` | `92.0` | `1,922.41` | `91.0` | `81.0` | `88.0` | `0.0` | `1.0` |
-| `727042808950` | `防烫手套隔热加厚硅胶厨房烤箱专用烘焙耐高温防滑防热微波炉烘培` | `淘宝私域` | `1,197.0` | `974.88` | `47.0` | `960.61` | `45.0` | `34.0` | `35.0` | `0.0` | `0.0` |
-| `727042808950` | `防烫手套隔热加厚硅胶厨房烤箱专用烘焙耐高温防滑防热微波炉烘培` | `淘宝推荐` | `59.0` | `296.55` | `15.0` | `296.55` | `15.0` | `13.0` | `13.0` | `0.0` | `1.0` |
+| `{BASE_ITEM_ID}` | `防烫手套隔热加厚硅胶厨房烤箱专用烘焙耐高温防滑防热微波炉烘培` | `(空)` | `2,349.0` | `10,261.12` | `497.0` | `9,812.64` | `472.0` | `476.0` | `509.0` | `2.0` | `14.0` |
+| `{BASE_ITEM_ID}` | `防烫手套隔热加厚硅胶厨房烤箱专用烘焙耐高温防滑防热微波炉烘培` | `淘宝搜索` | `2,140.0` | `6,470.04` | `324.0` | `6,218.03` | `306.0` | `335.0` | `363.0` | `1.0` | `11.0` |
+| `{BASE_ITEM_ID}` | `防烫手套隔热加厚硅胶厨房烤箱专用烘焙耐高温防滑防热微波炉烘培` | `淘宝其他` | `821.0` | `1,942.21` | `92.0` | `1,922.41` | `91.0` | `81.0` | `88.0` | `0.0` | `1.0` |
+| `{BASE_ITEM_ID}` | `防烫手套隔热加厚硅胶厨房烤箱专用烘焙耐高温防滑防热微波炉烘培` | `淘宝私域` | `1,197.0` | `974.88` | `47.0` | `960.61` | `45.0` | `34.0` | `35.0` | `0.0` | `0.0` |
+| `{BASE_ITEM_ID}` | `防烫手套隔热加厚硅胶厨房烤箱专用烘焙耐高温防滑防热微波炉烘培` | `淘宝推荐` | `59.0` | `296.55` | `15.0` | `296.55` | `15.0` | `13.0` | `13.0` | `0.0` | `1.0` |
 | `734065650463` | `摩登主妇硅胶隔热手套厨房家用耐高温烤箱微波炉加厚防滑防烫手夹` | `淘宝搜索` | `685.0` | `2,012.50` | `135.0` | `1,277.40` | `110.0` | `176.0` | `215.0` | `1.0` | `5.0` |
 | `734065650463` | `摩登主妇硅胶隔热手套厨房家用耐高温烤箱微波炉加厚防滑防烫手夹` | `(空)` | `540.0` | `1,402.70` | `109.0` | `1,084.30` | `95.0` | `187.0` | `263.0` | `0.0` | `3.0` |
 | `734065650463` | `摩登主妇硅胶隔热手套厨房家用耐高温烤箱微波炉加厚防滑防烫手夹` | `淘宝其他` | `348.0` | `1,254.36` | `89.0` | `873.36` | `74.0` | `51.0` | `83.0` | `0.0` | `3.0` |
@@ -578,7 +578,7 @@ SQL result:
 | `734065650463` | `摩登主妇硅胶隔热手套厨房家用耐高温烤箱微波炉加厚防滑防烫手夹` | `6511.0` | `539.0` | `61.54` | `43.35814` | `2668.26` | `161.0` | `0.63265` |
 | `806643871787` | `摩登主妇锅盖帽微波炉烤箱防烫帽厨房家用砂锅珐琅锅隔热加厚手套` | `5064.0` | `343.0` | `65.53` | `23.18327` | `1519.20` | `59.0` | `0.40525` |
 | `528309297271` | `耐高温500度2只商用微波炉烤箱防烫夹加长厚烘培隔热硅胶工业手套` | `5180.0` | `232.0` | `318.78` | `2.34425` | `747.30` | `20.0` | `0.05172` |
-| `727042808950` | `防烫手套隔热加厚硅胶厨房烤箱专用烘焙耐高温防滑防热微波炉烘培` | `34188.0` | `2349.0` | `5253.95` | `2.13658` | `11225.51` | `547.0` | `0.24989` |
+| `{BASE_ITEM_ID}` | `防烫手套隔热加厚硅胶厨房烤箱专用烘焙耐高温防滑防热微波炉烘培` | `34188.0` | `2349.0` | `5253.95` | `2.13658` | `11225.51` | `547.0` | `0.24989` |
 
 Findings:
 
@@ -704,7 +704,7 @@ Schema caveats:
 ```text
 工具：tool_item_success_path_mining
 参数：
-- item_id=727042808950
+- item_id={BASE_ITEM_ID}
 
 然后请再调用一次：
 - item_id=734065650463
@@ -713,7 +713,7 @@ Schema caveats:
 Actual tool calls observed:
 
 ```text
-tool_item_success_path_mining(item_id="727042808950")
+tool_item_success_path_mining(item_id="{BASE_ITEM_ID}")
 tool_item_success_path_mining(item_id="734065650463")
 ```
 
@@ -729,7 +729,7 @@ Each item returned 4 rows with the same fields:
 
 The output does not include explicit `item_id` or item title fields, but strategy links may contain `itemIdList=[...]`, which can be used to confirm the item.
 
-### Base Item `727042808950`
+### Base Item `{BASE_ITEM_ID}`
 
 | Stage | Period | Growth stage | Strategy summary |
 |---:|---|---|---|
@@ -1043,7 +1043,7 @@ tool_e_commerce_crowd_advertising_dataquery(
   metrics=["展现量","点击量","花费","总成交金额","投入产出比","加购率"],
   where=[
     ["广告主ID","=","1395****73"],
-    ["商品ID","=","727042808950"],
+    ["商品ID","=","{BASE_ITEM_ID}"],
     ["日期",">=","20260613"],
     ["日期","<=","20260619"]
   ],
@@ -1094,7 +1094,7 @@ tool_e_commerce_crowd_advertising_dataquery(
 | `data_id` | `1517898887489126400` |
 | Masking | No masking; all own-advertiser metric values exact |
 
-Invocation 2: base item `727042808950`, audience × keyword grain.
+Invocation 2: base base item `{BASE_ITEM_ID}`, audience × keyword grain.
 
 ```text
 tool_e_commerce_crowd_advertising_dataquery(
@@ -1102,7 +1102,7 @@ tool_e_commerce_crowd_advertising_dataquery(
   metrics=["展现量","点击量","花费","总成交金额","投入产出比","加购率"],
   where=[
     ["广告主ID","=","1395****73"],
-    ["商品ID","=","727042808950"],
+    ["商品ID","=","{BASE_ITEM_ID}"],
     ["日期",">=","20260521"],
     ["日期","<=","20260619"]
   ],
@@ -1161,16 +1161,16 @@ First 10 rows:
 
 | # | 花费 | 人群ID | 商品ID | 加购率 | 展现量 | 点击量 | 人群名称 | 关键词名称 | 总成交金额 | 投入产出比 |
 |---:|---:|---|---|---:|---:|---:|---|---|---:|---:|
-| 1 | `559.86` | `-998` | `727042808950` | `0.0105` | `77806.0` | `1809.0` | 目标人群扩展(优先考虑投放效果和规模) | `(空)` | `91.37` | `0.1632` |
-| 2 | `454.37` | `194304572` | `727042808950` | `0.09597` | `19536.0` | `521.0` | 智能竞争店铺 | `(空)` | `1018.37` | `2.24128` |
-| 3 | `218.98` | `43343446` | `727042808950` | `0.02804` | `10591.0` | `428.0` | 618领券未购88VIP相关人群 | `(空)` | `88.76` | `0.40533` |
-| 4 | `117.16` | `43343447` | `727042808950` | `0.05587` | `7063.0` | `179.0` | 618类目买了又买人群 | `(空)` | `118.40` | `1.01058` |
-| 5 | `25.22` | `43343444` | `727042808950` | `0.04348` | `1032.0` | `23.0` | 618类目退款待购人群 | `(空)` | `40.40` | `1.6019` |
-| 6 | `20.31` | `8073674180624830895` | `727042808950` | `0.11429` | `1265.0` | `35.0` | 隔热防烫手 | `(空)` | `0.00` | `0.0` |
-| 7 | `13.67` | `43343445` | `727042808950` | `0.0` | `1594.0` | `35.0` | 618第二波购买偏好人群 | `(空)` | `0.00` | `0.0` |
-| 8 | `12.17` | `-998` | `727042808950` | `0.0` | `18.0` | `8.0` | 目标人群扩展(优先考虑投放效果和规模) | 防烫手套防高温 | `22.60` | `1.85703` |
-| 9 | `10.65` | `3470393081224736134` | `727042808950` | `0.07692` | `718.0` | `13.0` | 防烫夹盘器 | `(空)` | `22.60` | `2.12207` |
-| 10 | `7.38` | `194304572` | `727042808950` | `0.16667` | `549.0` | `12.0` | 预流失摇摆人群 | `(空)` | `94.26` | `12.77236` |
+| 1 | `559.86` | `-998` | `{BASE_ITEM_ID}` | `0.0105` | `77806.0` | `1809.0` | 目标人群扩展(优先考虑投放效果和规模) | `(空)` | `91.37` | `0.1632` |
+| 2 | `454.37` | `194304572` | `{BASE_ITEM_ID}` | `0.09597` | `19536.0` | `521.0` | 智能竞争店铺 | `(空)` | `1018.37` | `2.24128` |
+| 3 | `218.98` | `43343446` | `{BASE_ITEM_ID}` | `0.02804` | `10591.0` | `428.0` | 618领券未购88VIP相关人群 | `(空)` | `88.76` | `0.40533` |
+| 4 | `117.16` | `43343447` | `{BASE_ITEM_ID}` | `0.05587` | `7063.0` | `179.0` | 618类目买了又买人群 | `(空)` | `118.40` | `1.01058` |
+| 5 | `25.22` | `43343444` | `{BASE_ITEM_ID}` | `0.04348` | `1032.0` | `23.0` | 618类目退款待购人群 | `(空)` | `40.40` | `1.6019` |
+| 6 | `20.31` | `8073674180624830895` | `{BASE_ITEM_ID}` | `0.11429` | `1265.0` | `35.0` | 隔热防烫手 | `(空)` | `0.00` | `0.0` |
+| 7 | `13.67` | `43343445` | `{BASE_ITEM_ID}` | `0.0` | `1594.0` | `35.0` | 618第二波购买偏好人群 | `(空)` | `0.00` | `0.0` |
+| 8 | `12.17` | `-998` | `{BASE_ITEM_ID}` | `0.0` | `18.0` | `8.0` | 目标人群扩展(优先考虑投放效果和规模) | 防烫手套防高温 | `22.60` | `1.85703` |
+| 9 | `10.65` | `3470393081224736134` | `{BASE_ITEM_ID}` | `0.07692` | `718.0` | `13.0` | 防烫夹盘器 | `(空)` | `22.60` | `2.12207` |
+| 10 | `7.38` | `194304572` | `{BASE_ITEM_ID}` | `0.16667` | `549.0` | `12.0` | 预流失摇摆人群 | `(空)` | `94.26` | `12.77236` |
 
 Findings:
 
@@ -1190,7 +1190,7 @@ Direct-call testing verified for competitor-list mining.
 
 ### Observed Outputs From Natural-Language Trigger
 
-For base item `727042808950`, DMP AI reported:
+For base base item `{BASE_ITEM_ID}`, DMP AI reported:
 
 | Output | Value |
 |---|---|
@@ -1201,7 +1201,7 @@ For base item `727042808950`, DMP AI reported:
 | Top competitor 4 | `855506493548` with competition score `42.4%` |
 | Top competitor 5 | `599215526499` with competition score `41.8%` |
 
-For base item `727042808950` vs competitor `773203451076`, DMP AI reported:
+For base base item `{BASE_ITEM_ID}` vs competitor `773203451076`, DMP AI reported:
 
 | Field | Value |
 |---|---|
@@ -1217,7 +1217,7 @@ For base item `727042808950` vs competitor `773203451076`, DMP AI reported:
 继续测试同一个工具。请不要重新规划任务，也不要解释业务背景。请按以下参数直接调用内部工具并返回原始结果摘要：
 
 工具：tool_competitive_detect_mining
-参数：item_id=727042808950, view=细分市场
+参数：item_id={BASE_ITEM_ID}, view=细分市场
 
 只输出：工具是否成功调用、实际采用的参数名、返回字段名、TOP5竞品商品ID与竞争得分、失败原因（如失败）。
 ```
@@ -1228,7 +1228,7 @@ The AI accepted friendly parameters, then mapped them to the actual tool schema:
 
 | User Parameter | Actual Parameter | Example | Notes |
 |---|---|---:|---|
-| `item_id` | `subject_id` | `727042808950` | Subject item to mine competitors for. |
+| `item_id` | `subject_id` | `{BASE_ITEM_ID}` | Subject item to mine competitors for. |
 | inferred | `subject_dimension` | `商品` | Subject dimension; for item-level mining use `商品`. |
 | `view` | `mining_type` | `细分市场` | Mining perspective/type. |
 
@@ -1263,7 +1263,7 @@ Schema caveats:
 
 ### Verified Output: `mining_type=细分市场`
 
-Subject item: `727042808950`
+Subject item: `{BASE_ITEM_ID}`
 
 | Rank | item_id | item_name | score |
 |---:|---:|---|---:|
@@ -1281,7 +1281,7 @@ Invocation:
 工具：tool_competitive_detect_mining
 参数：
 subject_dimension=商品
-subject_id=727042808950
+subject_id={BASE_ITEM_ID}
 mining_type=关键词
 ```
 
@@ -1290,7 +1290,7 @@ Actual accepted parameters:
 | Parameter | Value |
 |---|---|
 | `subject_dimension` | `商品` |
-| `subject_id` | `727042808950` |
+| `subject_id` | `{BASE_ITEM_ID}` |
 | `mining_type` | `关键词` |
 
 Returned fields:
@@ -1339,7 +1339,7 @@ Invocation:
 工具：tool_competitive_detect_mining
 参数：
 subject_dimension=商品
-subject_id=727042808950
+subject_id={BASE_ITEM_ID}
 mining_type=广告竞价
 ```
 
@@ -1349,7 +1349,7 @@ Result:
 |---|---|
 | Tool call status | Call succeeded, but returned empty data |
 | `subject_dimension` | `商品` |
-| `subject_id` | `727042808950` |
+| `subject_id` | `{BASE_ITEM_ID}` |
 | `mining_type` | `广告竞价` |
 | Returned fields | None; response only contained a data wrapper and no `columns`, `data`, or `data_id` |
 | TOP competitors | None |
@@ -1359,8 +1359,8 @@ Result:
 Interpretation:
 
 - The tool itself did not error.
-- Current item `727042808950` appears to have no valid competitors under the advertising-bidding perspective in the default data window, or no paid-ad bidding data basis.
-- This is consistent with the earlier `tool_competitor_explain_mining(methods=bidding)` test for `727042808950` vs `773203451076`, where `bidding` did not hit.
+- Current base item `{BASE_ITEM_ID}` appears to have no valid competitors under the advertising-bidding perspective in the default data window, or no paid-ad bidding data basis.
+- This is consistent with the earlier `tool_competitor_explain_mining(methods=bidding)` test for `{BASE_ITEM_ID}` vs `773203451076`, where `bidding` did not hit.
 
 ### Verified Output: `mining_type=行业明星`
 
@@ -1370,7 +1370,7 @@ Invocation:
 工具：tool_competitive_detect_mining
 参数：
 subject_dimension=商品
-subject_id=727042808950
+subject_id={BASE_ITEM_ID}
 mining_type=行业明星
 ```
 
@@ -1380,7 +1380,7 @@ Result:
 |---|---|
 | Tool call status | Success |
 | `subject_dimension` | `商品` |
-| `subject_id` | `727042808950` |
+| `subject_id` | `{BASE_ITEM_ID}` |
 | `mining_type` | `行业明星` |
 | Returned fields | `score`, `item_id`, `item_name`, `type` |
 | GMV / growth evidence | Not returned |
@@ -1413,7 +1413,7 @@ Observed limitations:
 测试直连工具调用能力。请不要重新规划任务，也不要解释业务背景。请按以下参数直接调用内部工具并返回原始结果摘要：
 
 工具：tool_competitive_detect_mining
-参数：item_id=727042808950, target_item_id=773203451076
+参数：item_id={BASE_ITEM_ID}, target_item_id=773203451076
 
 只输出：工具是否成功调用、返回字段名、返回字段值/区间、失败原因（如失败）。
 ```
@@ -1446,7 +1446,7 @@ Explain whether two items are competitors and why. This is currently the most va
 测试新的竞品关系解释工具。请不要重新规划任务，也不要解释业务背景。请按以下参数直接调用内部工具并返回原始结果摘要：
 
 工具：tool_competitor_explain_mining
-参数：subject_id=727042808950, subject_dimension=商品, competitor_item_id=773203451076
+参数：subject_id={BASE_ITEM_ID}, subject_dimension=商品, competitor_item_id=773203451076
 
 只输出：工具是否成功调用、实际采用的参数名、返回字段名、返回字段值/区间、失败原因（如失败）。
 ```
@@ -1455,7 +1455,7 @@ Explain whether two items are competitors and why. This is currently the most va
 
 | User Parameter | Actual Parameter | Example | Notes |
 |---|---|---:|---|
-| `subject_id` | `entity_id` | `727042808950` | Base item. |
+| `subject_id` | `entity_id` | `{BASE_ITEM_ID}` | Base item. |
 | `subject_dimension` | `entity_type` | `item` | User value `商品` was mapped to `item`. |
 | `competitor_item_id` | `competitor_id` | `773203451076` | Competitor item. |
 | not passed | `methods` | default all 6 routes | Controls which detection routes to use. |
@@ -1471,7 +1471,7 @@ Explain whether two items are competitors and why. This is currently the most va
 | `confidence` | `high` because at least 3 routes matched |
 | `hit_methods` | `busi_outflow`, `busi_inflow`, `keyword`, `niche`, `star`; `bidding` did not match |
 | `target_type` | `item` |
-| `target_id` | `727042808950` |
+| `target_id` | `{BASE_ITEM_ID}` |
 | `competitor_type` | `item` |
 | `competitor_id` | `773203451076` |
 | `llm_summary` | Summary says the core competition dimension is search traffic and user mindshare; competitor recent 30-day GMV is `1万~5万`, growth `200%~500%`. |
@@ -1491,7 +1491,7 @@ Explain whether two items are competitors and why. This is currently the most va
 
 ```text
 工具：tool_competitor_explain_mining
-参数：entity_id=727042808950, entity_type=item, competitor_id=773203451076, methods=keyword, lookback_days=30, llm_polish=false
+参数：entity_id={BASE_ITEM_ID}, entity_type=item, competitor_id=773203451076, methods=keyword, lookback_days=30, llm_polish=false
 ```
 
 Actual accepted parameters:
@@ -1499,7 +1499,7 @@ Actual accepted parameters:
 | Parameter | Value |
 |---|---|
 | `entity_type` | `item` |
-| `entity_id` | `727042808950` |
+| `entity_id` | `{BASE_ITEM_ID}` |
 | `competitor_id` | `773203451076` |
 | `methods` | `["keyword"]` |
 | `lookback_days` | `30` |
@@ -1541,7 +1541,7 @@ Current limitation: this route exposes shared keyword list and total search traf
 
 ```text
 工具：tool_competitor_explain_mining
-参数：entity_id=727042808950, entity_type=item, competitor_id=773203451076, methods=busi_outflow,busi_inflow, lookback_days=30, llm_polish=false
+参数：entity_id={BASE_ITEM_ID}, entity_type=item, competitor_id=773203451076, methods=busi_outflow,busi_inflow, lookback_days=30, llm_polish=false
 ```
 
 Actual accepted parameters:
@@ -1549,7 +1549,7 @@ Actual accepted parameters:
 | Parameter | Value |
 |---|---|
 | `entity_type` | `item` |
-| `entity_id` | `727042808950` |
+| `entity_id` | `{BASE_ITEM_ID}` |
 | `competitor_id` | `773203451076` |
 | `methods` | `["busi_outflow", "busi_inflow"]` |
 | `lookback_days` | `30` |
@@ -1596,7 +1596,7 @@ Current limitation: these routes expose directional transaction amount ranges on
 
 ```text
 工具：tool_competitor_explain_mining
-参数：entity_id=727042808950, entity_type=item, competitor_id=773203451076, methods=niche,star,bidding, lookback_days=30, llm_polish=false
+参数：entity_id={BASE_ITEM_ID}, entity_type=item, competitor_id=773203451076, methods=niche,star,bidding, lookback_days=30, llm_polish=false
 ```
 
 Actual accepted parameters:
@@ -1604,7 +1604,7 @@ Actual accepted parameters:
 | Parameter | Value |
 |---|---|
 | `entity_type` | `item` |
-| `entity_id` | `727042808950` |
+| `entity_id` | `{BASE_ITEM_ID}` |
 | `competitor_id` | `773203451076` |
 | `methods` | `["niche", "star", "bidding"]` |
 | `lookback_days` | `30` |
@@ -1667,7 +1667,7 @@ Invocation:
 
 ```text
 工具：tool_competitor_explain_mining
-参数：entity_id=727042808950, entity_type=item, competitor_id=653602595067, methods=keyword,bidding, lookback_days=30, llm_polish=false
+参数：entity_id={BASE_ITEM_ID}, entity_type=item, competitor_id=653602595067, methods=keyword,bidding, lookback_days=30, llm_polish=false
 ```
 
 Top-level result:
@@ -1676,7 +1676,7 @@ Top-level result:
 |---|---|
 | Tool call status | Success |
 | `entity_type` | `item` |
-| `entity_id` | `727042808950` |
+| `entity_id` | `{BASE_ITEM_ID}` |
 | `competitor_id` | `653602595067` |
 | `methods` | `["keyword", "bidding"]` |
 | `is_competitor` | `true` |
@@ -1714,7 +1714,7 @@ Bidding result:
 Conclusion:
 
 - Keyword evidence is stable across multiple competitor pairs: `keyword_list` and `keyword_ipv` are available.
-- Bidding/promotion conflict data still does not hit for `727042808950`, even when using the keyword-mining TOP1 competitor.
+- Bidding/promotion conflict data still does not hit for `{BASE_ITEM_ID}`, even when using the keyword-mining TOP1 competitor.
 
 ### Verified Pair Test From Industry-Star TOP1: `688909526916`
 
@@ -1724,7 +1724,7 @@ Invocation:
 
 ```text
 工具：tool_competitor_explain_mining
-参数：entity_id=727042808950, entity_type=item, competitor_id=688909526916, methods=star,niche,keyword, lookback_days=30, llm_polish=false
+参数：entity_id={BASE_ITEM_ID}, entity_type=item, competitor_id=688909526916, methods=star,niche,keyword, lookback_days=30, llm_polish=false
 ```
 
 Top-level result:
@@ -1733,7 +1733,7 @@ Top-level result:
 |---|---|
 | Tool call status | Success |
 | `entity_type` | `item` |
-| `entity_id` | `727042808950` |
+| `entity_id` | `{BASE_ITEM_ID}` |
 | `competitor_id` | `688909526916` |
 | `methods` | `["star", "niche", "keyword"]` |
 | `is_competitor` | `true` |
@@ -1782,7 +1782,7 @@ Star evidence:
 
 Notes:
 
-- This is currently the strongest verified competitor pair for item `727042808950`.
+- This is currently the strongest verified competitor pair for a base item placeholder.
 - Compared with `773203451076` and `653602595067`, this competitor has higher keyword traffic evidence: `keyword_ipv=1万~5万`.
 - `niche.total_gmv` and `star.current_gmv` differ (`5万~10万` vs `10万~50万`), likely due to route-specific statistical口径.
 
@@ -1792,7 +1792,7 @@ Notes:
 - The `keyword` route is the current best path for search term data.
 - The `busi_outflow` and `busi_inflow` routes are the current best path for competitor sales-transfer data.
 - The `star` and `niche` routes expose market position, GMV range, category, price band, and growth signals.
-- The `bidding` route is the likely path for promotion keyword conflict data, but it did not match for `727042808950` vs `773203451076`; test another competitor pair or ask competitor mining from an advertising perspective.
+- The `bidding` route is the likely path for promotion keyword conflict data, but it did not match for `{BASE_ITEM_ID}` vs `773203451076`; test another competitor pair or ask competitor mining from an advertising perspective.
 
 ## Candidate Tool Directory From AI Tool Search
 
@@ -2181,7 +2181,7 @@ Important conclusion:
 
 ### Verified Query: Base Item Promotion Scene/Strategy Metrics
 
-Purpose: query the same promotion data asset for base item `727042808950`, then compare with the verified competitor row.
+Purpose: query the same promotion data asset for base base item `{BASE_ITEM_ID}`, then compare with the verified competitor row.
 
 Invocation:
 
@@ -2190,7 +2190,7 @@ Invocation:
 参数：
 data_name=商品推广场景策略明细数据
 query_key=["日期", "商品ID", "一级场景", "投放策略", "消耗", "展现量", "点击量", "加购量", "直接成交金额"]
-filters=[["商品ID", "=", "727042808950"], ["日期", "=", "20260618"]]
+filters=[["商品ID", "=", "{BASE_ITEM_ID}"], ["日期", "=", "20260618"]]
 order_by=[["消耗", "DESC"]]
 limit=20
 ```
@@ -2200,7 +2200,7 @@ Result:
 | Field | Result |
 |---|---|
 | Tool call status | Success |
-| Query target | Base item `727042808950` |
+| Query target | Base base item `{BASE_ITEM_ID}` |
 | Date | `20260618` |
 | Returned rows | 3 |
 | Security behavior | Own-item metrics returned as exact values |
@@ -2210,9 +2210,9 @@ Verified rows:
 
 | # | 日期 | 商品ID | 一级场景 | 投放策略 | 消耗 | 展现量 | 点击量 | 加购量 | 直接成交金额 | ROI |
 |---:|---|---:|---|---|---:|---:|---:|---:|---:|---:|
-| 1 | `20260618` | `727042808950` | 关键词推广 | 关键词推广-趋势明星-稳定投产比 | `488.41` | `2917` | `197` | `56` | `862.83` | `1.77` |
-| 2 | `20260618` | `727042808950` | 关键词推广 | 关键词推广-趋势明星-获取成交量 | `270.00` | `1681` | `115` | `31` | `500.71` | `1.85` |
-| 3 | `20260618` | `727042808950` | 关键词推广 | 关键词推广-自定义推广-智能出价-稳定投产比 | `10.23` | `215` | `7` | `3` | `22.60` | `2.21` |
+| 1 | `20260618` | `{BASE_ITEM_ID}` | 关键词推广 | 关键词推广-趋势明星-稳定投产比 | `488.41` | `2917` | `197` | `56` | `862.83` | `1.77` |
+| 2 | `20260618` | `{BASE_ITEM_ID}` | 关键词推广 | 关键词推广-趋势明星-获取成交量 | `270.00` | `1681` | `115` | `31` | `500.71` | `1.85` |
+| 3 | `20260618` | `{BASE_ITEM_ID}` | 关键词推广 | 关键词推广-自定义推广-智能出价-稳定投产比 | `10.23` | `215` | `7` | `3` | `22.60` | `2.21` |
 
 Aggregate:
 
@@ -2226,7 +2226,7 @@ Aggregate:
 
 Same-day comparison with competitor item `688909526916`:
 
-| Dimension | Base item `727042808950` | Competitor item `688909526916` |
+| Dimension | Base base item `{BASE_ITEM_ID}` | Competitor item `688909526916` |
 |---|---|---|
 | 一级场景 | 关键词推广, 3 strategies | 货品全站推, 1 strategy |
 | 投放策略 | 趋势明星稳定投产比 / 趋势明星获取成交量 / 自定义推广智能出价稳定投产比 | 控投产比 |
@@ -2366,7 +2366,7 @@ Stable direct-call pattern for one starting VIEW status:
 参数：
 data_name=商品VIEW人群资产净流入流出明细-商品自身视角
 query_key=["日期", "商品ID", "资产状态", "结束资产状态", "净流入UV", "净流出UV", "加深UV", "时间周期"]
-filters=[["商品ID", "=", "727042808950"], ["日期", "=", "20260618"], ["类型", "=", "1"], ["时间周期", "=", "30"], ["资产状态", "=", "8001"]]
+filters=[["商品ID", "=", "{BASE_ITEM_ID}"], ["日期", "=", "20260618"], ["类型", "=", "1"], ["时间周期", "=", "30"], ["资产状态", "=", "8001"]]
 order_by=[]
 limit=30
 ```
@@ -2376,7 +2376,7 @@ Verified result for `资产状态=8001` / V1:
 | Field | Result |
 |---|---|
 | Tool call status | Success on third retry |
-| Query target | Base item `727042808950` |
+| Query target | Base base item `{BASE_ITEM_ID}` |
 | Date | `20260618` |
 | Time period | `30` |
 | Starting status | `8001` / V1 shallow-interest users |
@@ -2396,7 +2396,7 @@ Verified remaining starting states using the same stable pattern:
 
 ```text
 filters common part=[
-  ["商品ID", "=", "727042808950"],
+  ["商品ID", "=", "{BASE_ITEM_ID}"],
   ["日期", "=", "20260618"],
   ["类型", "=", "1"],
   ["时间周期", "=", "30"]
@@ -2653,7 +2653,7 @@ Attempted prompt:
 参数：
 biz=adp
 entity_type=item
-entity_id=727042808950
+entity_id={BASE_ITEM_ID}
 time_config.lookback_days=30
 recall_config.max_candidates=5
 recall_config.all_max_candidates=10
@@ -2665,7 +2665,7 @@ Result:
 |---|---|
 | Tool call status | Failed before business logic |
 | Retry count | 3 |
-| Accepted simple params | `biz="adp"`, `entity_type="item"`, `entity_id="727042808950"` |
+| Accepted simple params | `biz="adp"`, `entity_type="item"`, `entity_id="{BASE_ITEM_ID}"` |
 | Intended nested params | `time_config={"lookback_days":"30"}`, `recall_config={"max_candidates":5,"all_max_candidates":10}` |
 | Error type | Pydantic `dict_type` validation error |
 | Failure reason | The DMP AI tool-call framework serialized `time_config` and `recall_config` as JSON strings (`input_type=str`) while the tool schema requires dictionary objects. |
@@ -2688,7 +2688,7 @@ Workaround prompt:
 参数：
 biz=adp
 entity_type=item
-entity_id=727042808950
+entity_id={BASE_ITEM_ID}
 
 只输出：工具是否成功调用、实际采用的参数名、返回字段名、TOP10竞品ID/名称、busi_inflow与busi_outflow各自返回的字段值/区间、失败原因（如失败）。
 ```
@@ -2700,7 +2700,7 @@ Result:
 | Tool call status | Success |
 | `biz` | `adp` |
 | `entity_type` | `item` |
-| `entity_id` | `727042808950` |
+| `entity_id` | `{BASE_ITEM_ID}` |
 | `time_config` | Not passed; default 30-day lookback |
 | `recall_config` | Not passed; default 10 per route, 20 total |
 | `extend_config` | Not passed |
@@ -2708,7 +2708,7 @@ Result:
 | Returned structure | Flat merged competitor list |
 | Failure reason | None |
 
-Verified output for item `727042808950`:
+Verified output for a base item placeholder:
 
 | Rank | id | name |
 |---:|---:|---|
@@ -2976,14 +2976,14 @@ Verified direct-call pattern for competitor-to-own-item inflow:
 参数：
 data_name=商品VIEW人群资产流入流出明细-同行优秀品视角
 query_key=["日期", "商品ID", "竞对商品ID", "竞品店铺ID", "流转前同行状态", "流转本品资产V1", "流转本品资产V2", "流转本品资产I", "流转本品资产E", "时间周期", "流转类型"]
-filters=[["商品ID", "=", "727042808950"], ["竞对商品ID", "=", "688909526916"], ["日期", "=", "20260618"], ["类型", "=", "1"], ["时间周期", "=", "30"], ["流转类型", "=", "0"]]
+filters=[["商品ID", "=", "{BASE_ITEM_ID}"], ["竞对商品ID", "=", "688909526916"], ["日期", "=", "20260618"], ["类型", "=", "1"], ["时间周期", "=", "30"], ["流转类型", "=", "0"]]
 order_by=[["流转本品资产V1", "DESC"]]
 limit=20
 
 只输出：工具是否成功调用、实际采用的参数名、返回字段名、返回行数、字段值或脱敏区间、是否支持竞品商品级人群流入拆解、失败原因（如失败）。
 ```
 
-Verified result for base item `727042808950` and competitor item `688909526916`:
+Verified result for base base item `{BASE_ITEM_ID}` and competitor item `688909526916`:
 
 | Field | Value |
 |---|---|
@@ -2991,7 +2991,7 @@ Verified result for base item `727042808950` and competitor item `688909526916`:
 | Date | `20260618` |
 | Time period | `30` |
 | Flow type | `0` / inflow |
-| Base item | `727042808950` |
+| Base item | `{BASE_ITEM_ID}` |
 | Competitor item | `688909526916` |
 | Competitor shop ID | `302259767` |
 | Returned rows | `4` |
@@ -3011,7 +3011,7 @@ Notes:
 - This confirms that competitor item-level audience flow can be queried by explicit `竞对商品ID`.
 - The query also exposes `竞品店铺ID`, which can be reused for shop-level or cross-tool analysis.
 - The biggest inflow segment is from competitor-side `8001` into own-item V1: `271` users.
-- DMP AI summarized that V1 shallow-interest users dominate the 30-day inflow from competitor item `688909526916` into base item `727042808950`.
+- DMP AI summarized that V1 shallow-interest users dominate the 30-day inflow from competitor item `688909526916` into base base item `{BASE_ITEM_ID}`.
 
 Verified direct-call pattern for own-item-to-competitor outflow:
 
@@ -3022,14 +3022,14 @@ Verified direct-call pattern for own-item-to-competitor outflow:
 参数：
 data_name=商品VIEW人群资产流入流出明细-同行优秀品视角
 query_key=["日期", "商品ID", "竞对商品ID", "竞品店铺ID", "流转前同行状态", "流转本品资产V1", "流转本品资产V2", "流转本品资产I", "流转本品资产E", "时间周期", "流转类型"]
-filters=[["商品ID", "=", "727042808950"], ["竞对商品ID", "=", "688909526916"], ["日期", "=", "20260618"], ["类型", "=", "1"], ["时间周期", "=", "30"], ["流转类型", "=", "1"]]
+filters=[["商品ID", "=", "{BASE_ITEM_ID}"], ["竞对商品ID", "=", "688909526916"], ["日期", "=", "20260618"], ["类型", "=", "1"], ["时间周期", "=", "30"], ["流转类型", "=", "1"]]
 order_by=[["流转本品资产V1", "DESC"]]
 limit=20
 
 只输出：工具是否成功调用、实际采用的参数名、返回字段名、返回行数、字段值或脱敏区间、是否支持竞品商品级人群流出拆解、流转类型=1时这些字段的业务含义、失败原因（如失败）。
 ```
 
-Verified outflow result for base item `727042808950` and competitor item `688909526916`:
+Verified outflow result for base base item `{BASE_ITEM_ID}` and competitor item `688909526916`:
 
 | Field | Value |
 |---|---|
@@ -3037,7 +3037,7 @@ Verified outflow result for base item `727042808950` and competitor item `688909
 | Date | `20260618` |
 | Time period | `30` |
 | Flow type | `1` / outflow |
-| Base item | `727042808950` |
+| Base item | `{BASE_ITEM_ID}` |
 | Competitor item | `688909526916` |
 | Competitor shop ID | `302259767` |
 | Returned rows | `3` |
@@ -3061,7 +3061,7 @@ Business meaning when `流转类型=1`:
 | `流转本品资产I` | Users who flowed from the base item to competitor-side I |
 | `流转本品资产E` | Users who flowed from the base item to competitor-side E |
 
-Inflow vs outflow comparison for `727042808950` and `688909526916`, 30-day window ending `20260618`:
+Inflow vs outflow comparison for `{BASE_ITEM_ID}` and `688909526916`, 30-day window ending `20260618`:
 
 | Direction | V1 total | V2 total | I total | E total | Total |
 |---|---:|---:|---:|---:|---:|
@@ -3072,10 +3072,10 @@ Inflow vs outflow comparison for `727042808950` and `688909526916`, 30-day windo
 Notes:
 
 - `流转类型=1` supports the same competitor item-level filtering and returns exact UV values.
-- For this pair, base item `727042808950` is a net audience winner against competitor item `688909526916` in the 30-day VIEW flow window.
+- For this pair, base base item `{BASE_ITEM_ID}` is a net audience winner against competitor item `688909526916` in the 30-day VIEW flow window.
 - This dataset can be used to build a competitor-by-competitor audience flow matrix.
 
-Verified second competitor pair: `727042808950` vs `653602595067`
+Verified second competitor pair: `{BASE_ITEM_ID}` vs `653602595067`
 
 Purpose: test whether the 0006 query pattern works beyond the first industry-star competitor and can support a competitor audience flow matrix.
 
@@ -3085,7 +3085,7 @@ Stable pattern:
 工具：tool_common_business_asset_dataquery
 data_name=商品VIEW人群资产流入流出明细-同行优秀品视角
 query_key=["日期", "商品ID", "竞对商品ID", "竞品店铺ID", "流转前同行状态", "流转本品资产V1", "流转本品资产V2", "流转本品资产I", "流转本品资产E", "时间周期", "流转类型"]
-filters common part=[["商品ID", "=", "727042808950"], ["竞对商品ID", "=", "653602595067"], ["日期", "=", "20260618"], ["类型", "=", "1"], ["时间周期", "=", "30"]]
+filters common part=[["商品ID", "=", "{BASE_ITEM_ID}"], ["竞对商品ID", "=", "653602595067"], ["日期", "=", "20260618"], ["类型", "=", "1"], ["时间周期", "=", "30"]]
 run twice with ["流转类型", "=", "0"] and ["流转类型", "=", "1"]
 order_by=[["流转本品资产V1", "DESC"]]
 limit=20
@@ -3147,7 +3147,7 @@ Net audience flow:
 Notes:
 
 - This second competitor confirms the 0006 pattern can be reused to build a competitor-level audience flow matrix.
-- Compared with `688909526916` net `+249`, competitor `653602595067` produced stronger net inflow for base item `727042808950`: `+384`.
+- Compared with `688909526916` net `+249`, competitor `653602595067` produced stronger net inflow for base base item `{BASE_ITEM_ID}`: `+384`.
 - Both directions returned exact UV values, not desensitized ranges.
 
 ### Data Asset: `货品VIEW资产渠道流入明细`
@@ -3190,7 +3190,7 @@ Failed direct-call pattern:
 参数：
 data_name=货品VIEW资产渠道流入明细
 query_key=["日期", "业务日期", "商品ID", "渠道ID", "资产状态", "活跃资产数", "时间周期"]
-filters=[["商品ID", "=", "727042808950"], ["日期", "=", "20260618"], ["类型", "=", "1"], ["时间周期", "=", "30"]]
+filters=[["商品ID", "=", "{BASE_ITEM_ID}"], ["日期", "=", "20260618"], ["类型", "=", "1"], ["时间周期", "=", "30"]]
 order_by=[["活跃资产数", "DESC"]]
 limit=30
 ```
@@ -3337,13 +3337,13 @@ Notes:
 - Different periods are separately precomputed and should not be added together.
 - The AI summary said this does not support competitor data, but item-ID queries may still be worth testing against competitor IDs later.
 
-Direct-query validation for base item `727042808950`:
+Direct-query validation for base base item `{BASE_ITEM_ID}`:
 
 ```text
 工具：tool_common_business_asset_dataquery
 data_name=商品新老客规模数据集
 query_key=["日期", "商品ID", "周期", "新客规模", "老客规模"]
-filters=[["商品ID", "=", "727042808950"], ["日期", "=", "20260619"], ["周期", "...", "..."]]
+filters=[["商品ID", "=", "{BASE_ITEM_ID}"], ["日期", "=", "20260619"], ["周期", "...", "..."]]
 ```
 
 Result:
@@ -3405,14 +3405,14 @@ Notes:
 - Field names must use Chinese asset names, not physical names.
 - `成交金额` was described as contribution from that VIEW-status audience, not necessarily a same-day newly-added transaction amount.
 
-Verified query for base item `727042808950`:
+Verified query for base base item `{BASE_ITEM_ID}`:
 
 ```text
 工具：tool_common_business_asset_dataquery
 参数：
 data_name=达摩盘单品VIEW人群资产明细
 query_key=["日期", "商品ID", "叶子类目ID", "VIEW状态类型", "单日用户数", "成交金额", "贡献叶子类目成交金额"]
-filters=[["商品ID", "=", "727042808950"], ["日期", "=", "20260618"]]
+filters=[["商品ID", "=", "{BASE_ITEM_ID}"], ["日期", "=", "20260618"]]
 order_by=[]
 limit=-1
 ```
@@ -3534,13 +3534,13 @@ Notes:
 - Likely needs explicit VIEW status filters, similar to 0007/0009.
 - Can answer channel-level deepening such as V1 to V2, or I to E, for the base item.
 
-Direct-query validation for base item `727042808950`:
+Direct-query validation for base base item `{BASE_ITEM_ID}`:
 
 ```text
 工具：tool_common_business_asset_dataquery
 data_name=货品VIEW资产渠道加深明细
 query_key=["日期", "商品ID", "渠道ID", "开始日期资产状态", "结束日期资产状态", "活跃资产数", "时间周期", "类型"]
-filters=[["商品ID", "=", "727042808950"], ["日期", "=", "20260618"], ["类型", "=", "1"], ["时间周期", "=", "30"], ...]
+filters=[["商品ID", "=", "{BASE_ITEM_ID}"], ["日期", "=", "20260618"], ["类型", "=", "1"], ["时间周期", "=", "30"], ...]
 order_by=[["活跃资产数", "DESC"]]
 limit=30
 ```
@@ -3620,7 +3620,7 @@ Findings:
 
 ### New Leads To Validate Next
 
-1. Query `商品推广场景策略明细数据` for base item `727042808950` and compare against competitor item `688909526916`.
+1. Query `商品推广场景策略明细数据` for base base item `{BASE_ITEM_ID}` and compare against competitor item `688909526916`.
 2. Query `BEST方法论关键词资产` for the current advertiser to list keyword assets by type, while noting it has no per-keyword performance metrics.
 3. Test the same 0006 inflow/outflow query for multiple competitor item IDs to build a competitor audience flow matrix.
 4. Revisit `货品VIEW资产渠道流入明细` only if a narrower channel-specific query pattern or channel ID mapping is discovered.

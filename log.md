@@ -52,7 +52,7 @@
 
 ## [2026-06-14] plan | 财税股权 28 期知识库迁移融合计划
 - Created: `_meta/reorganization/ecommerce-tax-equity-strategic-finance-memory-fusion-plan-2026-06-14.md`
-- Notes: 按 Memory-First 原则为 `ecommerce-tax-equity-strategic-finance` 生成迁移融合表；建议新增 `domains/财税与经营财务/` 一级知识域，并将原 learning path 降级为课程包/来源包，等待 Peter 确认后再执行批量迁移和改链。
+- Notes: 按 Memory-First 原则为 `ecommerce-tax-equity-strategic-finance` 生成迁移融合表；建议新增 `domains/财税与经营财务/` 一级知识域，并将原 learning path 降级为课程包/来源包，等待 用户确认后再执行批量迁移和改链。
 
 ## [2026-06-14] reorganize | 财税与经营财务知识域试点迁移
 - Created: `domains/财税与经营财务/index.md`
@@ -71,7 +71,7 @@
 - QA: no residual old English domain path or unnumbered `domains/财税与经营财务/...` paths found in markdown outside exports; link existence check passed; placeholder scan remains `SHELL: 0`, `THIN: 0`, `OK: 27`.
 
 ## [2026-06-14] recompile | 财税股权 28 期课程深度反浓缩重编译
-- Trigger: Peter confirmed that two days of finance course recordings must be compiled by understanding and expanding knowledge units, not by condensing into a few outline pages.
+- Trigger: 用户 confirmed that two days of finance course recordings must be compiled by understanding and expanding knowledge units, not by condensing into a few outline pages.
 - Updated: `_meta/extraction-notes/ecommerce-tax-equity-course-28-2026-04/micro-segment-plan.md`
 - Updated: `_meta/extraction-notes/ecommerce-tax-equity-course-28-2026-04/coverage-matrix.md`
 - Updated: `_meta/extraction-notes/ecommerce-tax-equity-course-28-2026-04/formal-page-plan.md`
@@ -103,7 +103,7 @@
 - Notes: 将 4 份录音转写作为一个课程源包重构，不按 D1/D2 时间顺序归档，而按税务合规、四本账、税负模型、多主体架构、业财一体、股权控制、激励治理、股权资源整合和战略财务组织；税率、政策阈值、股权架构、代持和税务整改动作均标注为执行前需专业复核。
 
 ## [2026-06-14] recompile | 电商企业财税股权与战略财务管理反浓缩修复
-- Trigger: Peter reviewed the first compile and pointed out that the two-day transcript had been over-compressed into outline-like knowledge.
+- Trigger: 用户 reviewed the first compile and pointed out that the two-day transcript had been over-compressed into outline-like knowledge.
 - Created: `_meta/extraction-notes/ecommerce-tax-equity-course-28-2026-04/recompile-standard.md`
 - Created: `_meta/extraction-notes/ecommerce-tax-equity-course-28-2026-04/recompile-audit-2026-06-14.md`
 - Rewritten: all 12 formal pages under `domains/财税与经营财务/90-课程包/01-财税股权28期/` as expanded method-article style pages.
@@ -370,7 +370,7 @@
 - Created: `domains/品牌策略/concepts/brand-strategy-application-templates.md`
 - Updated: `domains/品牌策略/index.md`
 - Updated: `domains/视觉制作/05-小红书风格AI生图/index.md`
-- Notes: 根据 Peter 反馈，正式知识页应做课堂知识理论复现、分析、归纳和扩充，而不是摘要式提炼。
+- Notes: 根据 用户 反馈，正式知识页应做课堂知识理论复现、分析、归纳和扩充，而不是摘要式提炼。
 
 ## [2026-05-22] rewrite | 品牌战略课程分段知识复现
 - Source: `raw/transcripts/brand-strategy-methodology-course-opening-2026-05-22.md`
@@ -409,7 +409,7 @@
 - Created: `domains/品牌策略/90-样本/01-PGGU战略选择知识复现样本.md`
 - Updated: `domains/品牌策略/index.md`
 - Updated: `domains/视觉制作/05-小红书风格AI生图/index.md`
-- Notes: 根据 Peter 反馈，测试新版流程：清洗原文、解释含义、用大模型扩展推理、再整理为知识库文章；重点验证“结论如何得出”而不是只保留结论。
+- Notes: 根据 用户 反馈，测试新版流程：清洗原文、解释含义、用大模型扩展推理、再整理为知识库文章；重点验证“结论如何得出”而不是只保留结论。
 
 ## [2026-05-23] create | 电商品牌增长方法论顺序知识页
 - Source: `raw/transcripts/brand-strategy-methodology-course-opening-2026-05-22.md`
@@ -433,7 +433,7 @@
 - Created: `domains/品牌策略/01-品牌基础与增长方法/01-电商品牌增长方法论/01-*.md` through `12-*.md`.
 - Updated: `domains/品牌策略/index.md`
 - Updated: `domains/视觉制作/05-小红书风格AI生图/index.md`
-- Notes: 根据 Peter 反馈，长录音入库应按知识发展顺序拆成带编号的章节文件，避免一个总纲页或无序碎片页影响后续阅读和 Agent 检索。
+- Notes: 根据 用户 反馈，长录音入库应按知识发展顺序拆成带编号的章节文件，避免一个总纲页或无序碎片页影响后续阅读和 Agent 检索。
 
 ## [2026-05-24] update | 品牌战略课程知识库漏项回补
 - Updated: `domains/品牌策略/01-品牌基础与增长方法/01-电商品牌增长方法论/01-为什么电商企业必须重新理解品牌.md`
@@ -726,14 +726,14 @@
 - Updated: `_meta/extraction-notes/chinatax-refined-oil-retail-transaction-invoice-2026/audit-handoff.md`
 - Notes: 根据新版 `llm-wiki-ingest` 的 Memory-First Placement And Fusion 约束，补充知识域分类、备选域判断、既有记忆搜索结果、`create-new` 融合处置、关联式融合说明和 audit handoff contract 字段；正式页路径和正文结构无需调整。
 
-## [2026-06-17] compile | Peter 的 Skill 世界观
-- Created: `domains/AI Agent工程/03-Skill设计/00-Peter的Skill世界观.md`
+## [2026-06-17] compile | Skill 世界观
+- Created: `domains/AI Agent工程/03-Skill设计/00-Skill世界观.md`
 - Updated: `domains/AI Agent工程/index.md`
 - Updated: `index.md`
-- Notes: 沉淀 Peter 对 skill 的上位理解：skill 是大模型执行复杂任务的说明书、定向知识库和可演化执行知识体；其结构应包含主线、节点、分支、工具/脚本、补丁、QA 和回主线机制，并明确 skill 与固定工作流的差异和组合关系。
+- Notes: 沉淀 用户 对 skill 的上位理解：skill 是大模型执行复杂任务的说明书、定向知识库和可演化执行知识体；其结构应包含主线、节点、分支、工具/脚本、补丁、QA 和回主线机制，并明确 skill 与固定工作流的差异和组合关系。
 
-## [2026-06-17] optimize | Peter 的 Skill 世界观补充测试原则
-- Updated: `domains/AI Agent工程/03-Skill设计/00-Peter的Skill世界观.md`
+## [2026-06-17] optimize | Skill 世界观补充测试原则
+- Updated: `domains/AI Agent工程/03-Skill设计/00-Skill世界观.md`
 - Notes: 增补 skill 测试世界观：区分设计会话冒烟测试、落盘验证、干净会话回归测试和问题回写，防止上下文污染与“对话中手动补救但未修改 SKILL.md”的假阳性。
 
 ## [2026-06-18] ingest | 电商运营与选品策略深度解析
@@ -745,7 +745,7 @@
 - Notes: 将 171 分钟左右的噪声课程转写重构为主图诊断、卖点证据链、市场分层、选品库、AB/S款、运营助理三个月训练和 Agent 诊断模板；课堂组织和不可还原 ASR 噪声仅保留 raw。
 
 ## [2026-06-18] audit-patch | 电商运营与选品策略深度解析反浓缩补强
-- Trigger: Peter reminded that LLM Wiki ingest must not omit information and should enrich unclear source logic rather than condense it.
+- Trigger: 用户 reminded that LLM Wiki ingest must not omit information and should enrich unclear source logic rather than condense it.
 - Patched: `domains/电商运营/01-通用电商方法/04-选品与运营增长/01-电商运营与选品策略深度解析/01-主图诊断与卖点证据链.md` with 营销力 and 客户定义 sections.
 - Patched: `02-市场分层与选品策略.md` with 免费搜索变少、付费占比、双率达标 and numeric anchors including 1000万-1500万, 150万, 5-10万/day, S款 10万+.
 - Patched: `03-选品库与月度打款机制.md` with S/A/B 款分层、选品库体量、渠道数据、店铺基数、品类线完善度、费比 and 毛利率 logic.
@@ -763,8 +763,8 @@
 - Created: `domains/AI Agent工程/06-自动化工作流/02-Loop项目规划模板.md`.
 - Created: `queries/Loop项目启动入口.md`.
 - Updated: `domains/AI Agent工程/index.md`, `index.md`.
-- Notes: 将 Peter 已在使用的代码工具开发、DMP 竞品分析、聚宽策略优化三类循环统一抽象为“目标契约 -> 工作基座 -> 执行 -> 证据采集 -> 独立评审 -> 决策 -> 下一轮或停止 -> 总结入库”的个人 loop engineering 方法论；新增启动入口要求未来 Agent 先规划 loop 场景、证据面、轮数预算、停止条件和经验回写，再开始项目。
-- Patch: 根据 Peter 反馈补充范围规则，明确代码工具、DMP、电商运营、聚宽量化和视觉制作只是案例/线索，不限制知识库和方法论的使用范围；新领域仍按目标、证据、执行、评审、回流和停止条件抽象 loop。
+- Notes: 将 用户已在使用的代码工具开发、DMP 竞品分析、聚宽策略优化三类循环统一抽象为“目标契约 -> 工作基座 -> 执行 -> 证据采集 -> 独立评审 -> 决策 -> 下一轮或停止 -> 总结入库”的个人 loop engineering 方法论；新增启动入口要求未来 Agent 先规划 loop 场景、证据面、轮数预算、停止条件和经验回写，再开始项目。
+- Patch: 根据 用户 反馈补充范围规则，明确代码工具、DMP、电商运营、聚宽量化和视觉制作只是案例/线索，不限制知识库和方法论的使用范围；新领域仍按目标、证据、执行、评审、回流和停止条件抽象 loop。
 
 ## [2026-06-19] ingest | 聚宽 API 文档与策略写作 Skill
 - Source: `raw/webpages/joinquant/joinquant-api-2026-06-19.md` and `raw/api/joinquant/joinquant-api-2026-06-19.md` from JoinQuant official API clipping.
@@ -803,7 +803,7 @@
 - Patched: `domains/量化交易/03-策略案例/01-QMT四季发财ETF轮动策略案例.md`.
 - Patched: `_meta/extraction-notes/qmt-four-seasons-v3/coverage-matrix.md`.
 - Patched: `_meta/extraction-notes/qmt-four-seasons-v3/knowledge-unit-inventory.md`.
-- Notes: 根据 Peter 反馈补强策略页，新增实际 ETF 池、信号计算顺序、候选过滤顺序、买入策略、卖出策略、固定止损、ATR 止损、止盈边界、仓位资金管理、下单保护、已实现但未启用模块和复盘问题清单，避免知识页只保留绩效摘要。
+- Notes: 根据 用户 反馈补强策略页，新增实际 ETF 池、信号计算顺序、候选过滤顺序、买入策略、卖出策略、固定止损、ATR 止损、止盈边界、仓位资金管理、下单保护、已实现但未启用模块和复盘问题清单，避免知识页只保留绩效摘要。
 
 ## [2026-06-20] ingest | GitHub 量化理论资料与 ETF 策略研究方法
 - Source: `raw/github/quant-theory-github-sources-2026-06-20/` from GitHub repositories including Alphalens, Pyfolio, Qlib, PyPortfolioOpt, ml4t/backtest, and purged-cross-validation.
@@ -811,10 +811,10 @@
 - Created: `_meta/extraction-notes/quant-theory-github-sources-2026-06-20/` source profile, source inventory, coverage matrix, omission audit, formal page plan, and audit handoff.
 - Created: `domains/量化交易/04-量化理论基础/` index plus five formal pages on 策略收益来源分解、选池/信号/组合构建、买卖器执行风控、策略评估归因、避免过拟合与回测陷阱.
 - Updated: `domains/量化交易/index.md`, `index.md`.
-- Notes: 将开源量化工具背后的方法论编译为 Peter ETF 策略研究主线：先验证动态 ETF 池和 alpha 信号，再优化买卖器；实验必须记录历史时点选池、成本前后、换手、分组收益、IC、参数搜索空间和样本外/滚动验证，避免人工预选 ETF 池和多重试验带来的回测幻觉。
+- Notes: 将开源量化工具背后的方法论编译为 用户 ETF 策略研究主线：先验证动态 ETF 池和 alpha 信号，再优化买卖器；实验必须记录历史时点选池、成本前后、换手、分组收益、IC、参数搜索空间和样本外/滚动验证，避免人工预选 ETF 池和多重试验带来的回测幻觉。
 
 ## [2026-06-20] audit-patch | 量化理论基础从 ETF 研究提示升级为完整基础框架
-- Trigger: Peter 指出上一版知识库过于粗糙，且不应只围绕 ETF，应先补完整量化基础知识。
+- Trigger: 用户 指出上一版知识库过于粗糙，且不应只围绕 ETF，应先补完整量化基础知识。
 - Source: `raw/github/quant-foundations-github-sources-2026-06-20/` with 12 shallow-cloned GitHub repositories: Zipline, Backtrader, bt, Alphalens, Pyfolio, Empyrical, ffn, PyPortfolioOpt, Riskfolio-Lib, Qlib, Machine Learning for Trading, and purged-cross-validation.
 - Created: `_meta/extraction-notes/quant-foundations-github-sources-2026-06-20/` source profile, source inventory, knowledge-unit inventory, coverage matrix, omission audit, formal page plan, and audit handoff.
 - Replaced: `domains/量化交易/04-量化理论基础/` old ETF-centered five-page structure with a 12-page quant foundations sequence covering market/assets, data/features, return/risk statistics, strategy hypotheses, alpha research, portfolio construction, execution/costs, backtesting, performance attribution, overfitting/leakage, and research workflow.
@@ -841,3 +841,49 @@
 - Created: `queries/达摩盘AI竞品数据挖掘.md`.
 - Updated: `domains/电商运营/index.md`, `domains/电商运营/02-淘宝天猫/index.md`, `domains/电商运营/02-淘宝天猫/02-淘宝营销工具/index.md`, `index.md`.
 - Notes: 将 3627 行 DMP AI 内部工具研究文档完整保留到 raw，并在正式手册中嵌入完整原文结构，覆盖 `tool_item_benchmark_dataquery`、`tool_crowd_audience_insight`、`tool_e_commerce_crowd_advertising_dataquery`、`tool_sql_query` 等工具及 VIEW/DEEPLINK 数据资产；新增查询入口用于未来继续挖掘竞品销售、搜索词、推广和人群数据。
+
+## [2026-06-22] compile | 主对话与干净子 Agent 的 Skill 回归测试方法
+- Source: user-stated principles in Codex conversation on skill creation, false landing, context pollution, sub-agent validation, fork thread, and new thread tradeoffs.
+- Created: `domains/AI Agent工程/03-Skill设计/index.md`.
+- Created: `domains/AI Agent工程/03-Skill设计/03-主对话与干净子Agent的Skill回归测试方法.md`.
+- Created: Codex skill `/Users/pechen/.codex/skills/skill-forward-test`.
+- Updated: `domains/AI Agent工程/03-Skill设计/00-Skill世界观.md`, `domains/AI Agent工程/index.md`, `index.md`.
+- Notes: 将 skill 验证框架沉淀为“主 Agent 设计/落盘 + 干净子 Agent 回归 + 失败分类回写 + 再验证”的闭环；明确 `spawn_agent` + `fork_context:false` 适合自动化干净验证，`create_thread` 适合可见测试，`fork_thread` 适合带上下文设计分支。
+- QA: 使用干净子 Agent 回归 `skill-forward-test` 本身；首轮暴露“验证子 Agent 未必有 spawn 工具”和“skill 目录可能不在 git 仓库”两个缺口，已回写 fallback，并经第二轮干净子 Agent 验证通过。
+- Patch: 将方法论从 Codex 专用表述泛化为跨 Agent 工具通用框架，补充 SealSeek/OpenClaw 和其他 Agent 工具的等价实现映射；将活跃 Skill 设计页面中的个人姓名表述改为中性表述，并将 Skill 世界观页面改为中性文件名。
+
+## [2026-06-22] ingest | 达摩盘 AI 对话挖掘竞品数据案例
+- Source: local DMP AI prompt manual, full-dimension workflow, and clean run evidence summary for base base item `{BASE_ITEM_ID}`.
+- Adapter: `llm-wiki-ingest/adapters/markdown-doc.md`.
+- Created: `raw/data/dmp-ai-dialogue-case-product-id-template-2026-06-22/` with prompt manual, workflow copy, and case evidence summary.
+- Created: `_meta/extraction-notes/dmp-ai-dialogue-case-product-id-template-2026-06-22/` source profile, coverage matrix, and audit handoff.
+- Created: `domains/电商运营/02-淘宝天猫/04-达摩盘AI/02-达摩盘AI对话挖掘竞品数据案例.md`.
+- Updated: `domains/电商运营/02-淘宝天猫/04-达摩盘AI/index.md`, `index.md`.
+- Notes: 将“通过 DMP AI 对话挖掘前台不可见数据”的方法沉淀为案例，按提问目录、提示词、预期数据和案例结果组织，覆盖主体识别、竞品发现、关系验证、同行经营/推广精确数据、免费流量 SQL、竞品区间、人群画像、VIEW 流转、成功路径、店铺竞争和下载限制；同时保留“获取到维度不等于全量落盘”的 QA 规则。
+
+## [2026-06-22] compile | 卖点转炸点方法
+- Source: Codex conversation analyzing 麦拉贝拉“可以吃的哈衣”提示词 and applying it to a phone shooting stand main image.
+- Created: `domains/视觉制作/01-电商视觉基础/03-卖点转炸点方法.md`.
+- Updated: `domains/视觉制作/01-电商视觉基础/01-营销学理论在电商图片中的应用.md`, `domains/视觉制作/01-电商视觉基础/02-电商图片营销策划与AI生图Playbook.md`, `domains/视觉制作/01-电商视觉基础/index.md`, `queries/ecommerce-image-marketing-planning.md`, `index.md`.
+- Notes: 将“产品事实 -> 用户痛点场景 -> 行业同质化表达 -> 可感知结果 -> 心智钩子”沉淀为主图爆点方法，收录麦拉贝拉儿童哈衣和手机拍摄支架两个案例，并补充真实性、场景感、传播性和合规边界 QA。
+
+## 2026-06-24
+
+- 更新 `domains/视觉制作/03-AI商业视觉/01-AI在商业视觉设计中的应用方法与实践/04-图片工作流：提示词结构与参考控制.md`：新增“产品参考图保真：不要把视觉识别结果写成产品重绘提示词”。沉淀包袋详情页生图案例：Skill 自动把“正面两颗黑色磁扣”等视觉识别结果写进 Prompt，导致模型按文字重构商品。新增规则：产品细节只用于内部识别，进入生图 Prompt 的应是“以参考图为准、不新增、不删减、不移动”的锁定规则。
+
+## 2026-06-24
+
+- 更新 `domains/AI Agent工程/03-Skill设计/02-无限画板Skill写作知识库/`：将“产品视觉识别结果不能直接写进生图 Prompt，应转换为参考图锁定规则”的经验沉淀到无限画板 Skill 写作知识库。涉及文件：`05-常见反坑库.md` 新增“把产品视觉识别结果写进生图 Prompt”反坑；`04-Prompt模板.md` 新增“产品细节锁定模板”；`06-质量检查清单.md` 新增产品识别信息与 Prompt 锁定规则检查项；`index.md` 增加入口提醒。
+
+## [2026-06-25] ingest | 白泽阿里巴巴国际站运营实战系统课前 4 章
+
+- Source: `/Users/pechen/alibaba/白泽/` 4 个本地 MP4 视频。
+- Adapter: `llm-wiki-ingest/adapters/transcript.md` with video keyframe/OCR supplement.
+- Installed: Homebrew `whisper-cpp`; downloaded `ggml-large-v3-turbo.bin` to `/Users/pechen/.local/share/whisper.cpp/models/`.
+- Created raw archive: `raw/videos/baize-alibaba-international-station-course-2026-06-25/`.
+- Created raw transcripts: `raw/transcripts/baize-alibaba-international-station-course-2026-06-25/`.
+- Created raw keyframes: `raw/assets/baize-alibaba-international-station-course-2026-06-25/`.
+- Created extraction notes: `_meta/extraction-notes/baize-alibaba-international-station-course-2026-06-25/`.
+- Created formal pages: `domains/电商运营/20-跨境电商/02-阿里巴巴国际站运营实战系统课/` index plus 国际站运营能力框架、运营思维框架与跨行业迁移、运营实战技能迭代方法。
+- Created query entry: `queries/阿里巴巴国际站运营诊断.md`.
+- Notes: 将前 4 章课程从视频转写和关键帧 OCR 编译为国际站运营能力框架，保留平台规则、指标概念、流量/买家思维、实战应用、成功案例打造、自主学习、学习渠道、测试模型和复盘复制。ASR 明显误听如 `循环量`、`万物首页`、`学习局道` 已在 extraction notes 中记录并校正；`奥义加`、`报品/报增` 保留为待确认。

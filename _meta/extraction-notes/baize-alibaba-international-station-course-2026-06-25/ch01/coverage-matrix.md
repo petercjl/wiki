@@ -1,0 +1,11 @@
+# Coverage Matrix｜CH01 白泽国际站运营实战系统课介绍
+
+| source_unit_id | source_location | time_range | speaker | micro_segment_id | source_unit | knowledge_role | target_pages | status | reason_or_notes |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| CH01-OCR-U01 | keyframes `frame_001`-`frame_010` | 00:00-01:40 | screen | CH01-SCREEN | Course title: 国际站运营实战系统课 | course-identity | `domains/电商运营/20-跨境电商/02-阿里巴巴国际站运营实战系统课/index.md` | formalized | Cover slide title; OCR noise normalized against repeated frames. |
+| CH01-OCR-U02 | keyframes `frame_001`-`frame_010` | 00:00-01:40 | screen | CH01-SCREEN | Promised outcome: 提升店铺询盘量，提升个人运营综合实战技能 | course-positioning | `domains/电商运营/20-跨境电商/02-阿里巴巴国际站运营实战系统课/index.md` | formalized | Repeated cover slide claim; preserve as course promise, not verified performance guarantee. |
+| CH01-OCR-U03 | keyframes `frame_001`-`frame_010` | 00:00-01:40 | screen | CH01-SCREEN | Speaker shown as 白泽 | source-context | `domains/电商运营/20-跨境电商/02-阿里巴巴国际站运营实战系统课/index.md` | raw-only | Preserve as source context; not a durable method by itself. |
+| CH01-ASR-U01 | prompted transcript | 00:00-00:15 | 白泽 | CH01-S01 | Course promise: improve operator practical capability, store inquiry volume, and order conversion. | course-positioning | `domains/电商运营/20-跨境电商/02-阿里巴巴国际站运营实战系统课/index.md`; `01-国际站运营能力框架.md` | formalized | ASR `循环量` corrected to `询盘量` by cover OCR and course context. |
+| CH01-ASR-U02 | prompted transcript | 00:15-00:38 | 白泽 | CH01-S02 | Course covers platform rules, core theories/concepts, practical methods, and solutions for traffic, inquiry, and conversion problems. | capability-map | `01-国际站运营能力框架.md` | formalized | |
+| CH01-ASR-U03 | prompted transcript | 00:38-01:17 | 白泽 | CH01-S03 | Operators need a valuable thinking framework to evolve methods, handle platform changes, and transfer methods across industries, stores, and products. | operating-mindset | `02-运营思维框架与跨行业迁移.md` | formalized | |
+| CH01-ASR-U04 | prompted transcript | 01:17-01:43 | 白泽 | CH01-S04 | Learning must be applied directly to stores, followed by continuous summary and analysis to form one's own theory framework and thinking skills. | learning-loop | `03-运营实战技能迭代方法.md` | formalized | |

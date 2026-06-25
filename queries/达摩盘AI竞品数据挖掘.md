@@ -20,7 +20,7 @@ status: active
 
 | 用户要的数据 | 优先工具/资产 | 关键参数/话术 | 预期结果 | 边界 |
 |---|---|---|---|---|
-| 竞品商品销售、UV、自然搜索汇总、免费流量 | `tool_item_benchmark_dataquery` | `item_id=727042808950`, `type=cust_type/free/uv`, 日期区间，必要时加 `dimensions=["商品ID"]` | 同叶子类目/同价格带同行商品行、销售/UV/加购/收藏/自然搜索/免费流量来源等 | 以 base item 找同行，不是任意竞品店铺全量 |
+| 竞品商品销售、UV、自然搜索汇总、免费流量 | `tool_item_benchmark_dataquery` | `item_id={BASE_ITEM_ID}`, `type=cust_type/free/uv`, 日期区间，必要时加 `dimensions=["商品ID"]` | 同叶子类目/同价格带同行商品行、销售/UV/加购/收藏/自然搜索/免费流量来源等 | 以 base item 找同行，不是任意竞品店铺全量 |
 | 竞品推广花费、展现、点击、ROI、成交 | `tool_item_benchmark_dataquery` | `type=ad`，要求返回原始结果、字段名、`data_id` | 曾返回精确同行商品推广行，可继续 SQL | 比 `tool_item_webwide_effect_dataquery(type=ad)` 更强 |
 | 竞品商品 webwide 销售/转化区间 | `tool_item_webwide_effect_dataquery` | 直接传竞品 `item_id`, `type=webwide/ad` | 成交、ipv、转化、展现、点击、ROI 等区间 | 竞品金额/花费常被脱敏或阻断 |
 | 竞品购买/浏览/加购/收藏人群画像 | `tool_crowd_audience_insight` | 自然语言 `query="帮我圈近30天购买/浏览/加购/收藏过宝贝id为...的人群"`, `member_id` 遮蔽记录, `tags` | 精确人群规模、画像标签占比；店铺购买/浏览未购也可试 | 画像而非广告效果，不返回保存人群包 |

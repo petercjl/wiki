@@ -23,7 +23,7 @@ status: active
 
 ## Fusion
 
-- Link to `[[domains/AI Agent工程/03-Skill设计/00-Peter的Skill世界观]]`.
+- Link to `[[domains/AI Agent工程/03-Skill设计/00-Skill世界观]]`.
 - Link to DMP AI and JoinQuant knowledge where examples require domain-specific evidence.
 - Do not merge into the Skill worldview page, because loop engineering is a broader execution design pattern.
 

@@ -55,7 +55,7 @@ status: active
 | H031 | 690 | &nbsp;&nbsp;&nbsp;&nbsp;Schema Observed | formalized in [[domains/电商运营/02-淘宝天猫/04-达摩盘AI/01-达摩盘AI内部工具与竞品数据挖掘手册]] |
 | H032 | 702 | &nbsp;&nbsp;&nbsp;&nbsp;Verified Invocation | formalized in [[domains/电商运营/02-淘宝天猫/04-达摩盘AI/01-达摩盘AI内部工具与竞品数据挖掘手册]] |
 | H033 | 720 | &nbsp;&nbsp;&nbsp;&nbsp;Verified Output Structure | formalized in [[domains/电商运营/02-淘宝天猫/04-达摩盘AI/01-达摩盘AI内部工具与竞品数据挖掘手册]] |
-| H034 | 732 | &nbsp;&nbsp;&nbsp;&nbsp;Base Item `727042808950` | formalized in [[domains/电商运营/02-淘宝天猫/04-达摩盘AI/01-达摩盘AI内部工具与竞品数据挖掘手册]] |
+| H034 | 732 | &nbsp;&nbsp;&nbsp;&nbsp;Base Item `{BASE_ITEM_ID}` | formalized in [[domains/电商运营/02-淘宝天猫/04-达摩盘AI/01-达摩盘AI内部工具与竞品数据挖掘手册]] |
 | H035 | 741 | &nbsp;&nbsp;&nbsp;&nbsp;Competitor Item `734065650463` | formalized in [[domains/电商运营/02-淘宝天猫/04-达摩盘AI/01-达摩盘AI内部工具与竞品数据挖掘手册]] |
 | H036 | 750 | &nbsp;&nbsp;&nbsp;&nbsp;Findings | formalized in [[domains/电商运营/02-淘宝天猫/04-达摩盘AI/01-达摩盘AI内部工具与竞品数据挖掘手册]] |
 | H037 | 757 | &nbsp;&nbsp;Tool: `tool_crowd_audience_insight` | formalized in [[domains/电商运营/02-淘宝天猫/04-达摩盘AI/01-达摩盘AI内部工具与竞品数据挖掘手册]] |

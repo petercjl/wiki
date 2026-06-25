@@ -1,5 +1,5 @@
 ---
-title: Peter 的 Skill 世界观
+title: Skill 世界观
 type: concept
 created: 2026-06-17
 updated: 2026-06-17
@@ -10,7 +10,7 @@ sources:
 status: active
 ---
 
-# Peter 的 Skill 世界观
+# Skill 世界观
 
 ## 一句话定义
 
@@ -34,7 +34,7 @@ Skill 首先是一份给大模型读取和执行的说明书。
 
 Skill 不只是流程说明，也承载定向知识。
 
-这些知识可能来自 Peter 的 LLM Wiki、项目经验、工具调试记录、业务规则、历史踩坑、固定模板和脚本说明。设计完成后，skill 就成为一个相对独立的个体，负责执行某类固定任务。
+这些知识可能来自 LLM Wiki、项目经验、工具调试记录、业务规则、历史踩坑、固定模板和脚本说明。设计完成后，skill 就成为一个相对独立的个体，负责执行某类固定任务。
 
 它和 wiki 的关系是：
 
@@ -148,7 +148,7 @@ Skill 和工作流不是互斥关系。
 - 可确定的渲染、截图、diff、lint、校验。
 - 高风险或不允许模型猜测的步骤。
 
-在 Peter 的 skill 世界观里，工作流可以是 skill 的一个节点。大模型负责理解任务、调度流程、处理异常和回到主线；代码化工作流负责完成高确定性的局部任务。
+在 skill 世界观里，工作流可以是 skill 的一个节点。大模型负责理解任务、调度流程、处理异常和回到主线；代码化工作流负责完成高确定性的局部任务。
 
 因此，一个成熟 skill 往往是：
 
@@ -168,7 +168,7 @@ Skill 和工作流不是互斥关系。
 
 第三，它把 skill 设计变成可演化工程。真实任务不会一次设计完美，最合理的做法是先建立主线，再用补丁吸收真实运行经验，最后把高频补丁合并进主流程。
 
-这套世界观可以作为 Peter 后续设计复杂 skill 的总原则。
+这套世界观可以作为 后续设计复杂 skill 的总原则。
 
 ## 10. Skill 测试：防止上下文污染和假修改
 
@@ -269,6 +269,8 @@ Skill 不能以“某一次跑出了正确结果”为通过标准，而应以�
 ## 相关页面
 
 - [[domains/AI Agent工程/index|AI Agent 工程知识域]]
+- [[domains/AI Agent工程/03-Skill设计/index|Skill 设计]]
+- [[domains/AI Agent工程/03-Skill设计/03-主对话与干净子Agent的Skill回归测试方法|主对话与干净子 Agent 的 Skill 回归测试方法]]
 - [[domains/AI Agent工程/03-Skill设计/01-LLM Wiki Skill同源包|LLM Wiki Skill 同源包]]
 - [[domains/AI Agent工程/03-Skill设计/02-无限画板Skill写作知识库/index|无限画板 Skill 写作知识库]]
 - [[domains/AI Agent工程/90-Skill注册表/01-个人与项目Skill注册库|个人/项目 Skill 注册库]]
