@@ -887,3 +887,137 @@
 - Created formal pages: `domains/电商运营/20-跨境电商/02-阿里巴巴国际站运营实战系统课/` index plus 国际站运营能力框架、运营思维框架与跨行业迁移、运营实战技能迭代方法。
 - Created query entry: `queries/阿里巴巴国际站运营诊断.md`.
 - Notes: 将前 4 章课程从视频转写和关键帧 OCR 编译为国际站运营能力框架，保留平台规则、指标概念、流量/买家思维、实战应用、成功案例打造、自主学习、学习渠道、测试模型和复盘复制。ASR 明显误听如 `循环量`、`万物首页`、`学习局道` 已在 extraction notes 中记录并校正；`奥义加`、`报品/报增` 保留为待确认。
+
+## [2026-06-25] ingest | 白泽阿里巴巴国际站运营实战系统课第 5 章
+
+- Source: `/Users/pechen/alibaba/白泽/5_这章节你将会获得哪些技能-_ev.mp4`.
+- Adapter: `llm-wiki-ingest/adapters/transcript.md` with video keyframe/OCR supplement.
+- Updated raw archive: `raw/videos/baize-alibaba-international-station-course-2026-06-25/`.
+- Created raw transcript: `raw/transcripts/baize-alibaba-international-station-course-2026-06-25/ch05-whisper-large-v3-turbo-prompted.raw.*`.
+- Created raw keyframes/OCR: `raw/assets/baize-alibaba-international-station-course-2026-06-25/ch05/keyframes/`.
+- Updated extraction notes: `_meta/extraction-notes/baize-alibaba-international-station-course-2026-06-25/` plus `ch05/` chapter coverage.
+- Created formal page: `domains/电商运营/20-跨境电商/02-阿里巴巴国际站运营实战系统课/04-店铺基础技能学习与知识体系梳理.md`.
+- Updated: course index, cross-border/domain/root indexes, query entry, coverage matrix, omission audit, and audit handoff.
+- Notes: CH05 是“店铺基础技能学习”导入章，核心知识是区分新手学习迷茫与老运营知识体系混乱，把运营知识从听课/收藏转为店铺动作、指标结果、复盘经验和可迁移技能。ASR 质量高；OCR 可确认封面和课程承诺，但字幕存在错字，已作为 raw-only/merged 处理。
+
+## [2026-06-25] ingest | 白泽阿里巴巴国际站运营实战系统课第 6-9 章
+
+- Source: `/Users/pechen/alibaba/白泽/6_1学习前-做好这3件事-1天就能入门_ev.mp4`, `/Users/pechen/alibaba/白泽/7_210个关键词构建成独立的运营系统_ev.mp4`, `/Users/pechen/alibaba/白泽/8_3PC和APP首页介绍_ev.mp4`, `/Users/pechen/alibaba/白泽/9_4店铺SEO巧布局-让流量更精准_ev.mp4`.
+- Adapter: `llm-wiki-ingest/adapters/transcript.md` with video keyframe/OCR supplement.
+- Updated raw archive: `raw/videos/baize-alibaba-international-station-course-2026-06-25/`.
+- Created raw transcripts: `raw/transcripts/baize-alibaba-international-station-course-2026-06-25/ch06-...` through `ch09-...`.
+- Created raw keyframes/OCR: `raw/assets/baize-alibaba-international-station-course-2026-06-25/ch06/` through `ch09/`.
+- Updated extraction notes: `_meta/extraction-notes/baize-alibaba-international-station-course-2026-06-25/` plus chapter-level `ch06/` through `ch09/` segment, coverage, and omission files.
+- Updated formal page: `domains/电商运营/20-跨境电商/02-阿里巴巴国际站运营实战系统课/04-店铺基础技能学习与知识体系梳理.md`.
+- Created formal pages: `05-国际站后台十关键词运营系统.md`, `06-国际站首页流量入口地图.md`, `07-店铺SEO基础布局.md`.
+- Updated: course index, cross-border/domain/root indexes, query entry, coverage matrix, omission audit, formal plan, source inventory, audit handoff.
+- Notes: CH06 将“入门”落为后台问号概念、板块关联、板块位置三件事；CH07 用店铺、产品、客户、内容、营销、数据、商机、订单、资金、物流构建后台系统；CH08 把 PC 首页产品入口、制造商入口、榜单、新品、汇采购和场景入口整理为流量地图；CH09 把标题核心词、长尾词、关键词相关性、属性详情页、店铺层级、页面布局、更新和基础资料整理为店铺 SEO 检查法。
+
+## [2026-06-25] ingest | 白泽阿里巴巴国际站运营实战系统课第 10-19 章
+
+- Source: `/Users/pechen/alibaba/白泽/10_学习这章节你将掌握平台规则-构建个人运营框架_ev.mp4` through `/Users/pechen/alibaba/白泽/19_9怎样提升单品权重-_ev.mp4`.
+- Adapter: `llm-wiki-ingest/adapters/transcript.md` with video keyframe/OCR supplement.
+- Updated raw archive: `raw/videos/baize-alibaba-international-station-course-2026-06-25/`.
+- Created raw transcripts: `raw/transcripts/baize-alibaba-international-station-course-2026-06-25/ch10-...` through `ch19-...`.
+- Created raw keyframes/OCR: `raw/assets/baize-alibaba-international-station-course-2026-06-25/ch10/` through `ch19/`.
+- Updated extraction notes: `_meta/extraction-notes/baize-alibaba-international-station-course-2026-06-25/` plus chapter-level `ch10/` through `ch19/` segment, coverage, and omission files.
+- Created formal pages: `08-平台规则与搜索排序机制.md`, `09-店铺综合实力与搜索排名指标.md`, `10-买家喜好度与千人千面标签匹配.md`, `11-一级引擎与橱窗搜索加权.md`, `12-店铺权重与单品权重提升.md`.
+- Updated: course index, cross-border/domain/root indexes, query entry, coverage matrix, omission audit, formal plan, source inventory, audit handoff.
+- Notes: CH10-CH19 构成搜索规则模块，覆盖买家导向、严惩作弊、模糊匹配、类目/文本相关性、供应商信息、店铺综合实力、买家喜好度、千人千面、一级/二级引擎、橱窗加权、更多产品曝光机会、店铺权重和单品权重。ASR 明显误听如 `一起引擎`、`汝窗/除窗`、`顶掌/顶站`、`Pap`、`循环率` 已在 extraction notes 中校正为 `一级引擎`、`橱窗`、`顶展`、`P4P`、`询盘率`。
+
+## [2026-06-25] ingest | 白泽阿里巴巴国际站运营实战系统课第 20-29 章
+
+- Source: `/Users/pechen/alibaba/白泽/20_10避坑！违规处罚规则_ev.mp4` through `/Users/pechen/alibaba/白泽/29_9精细化产品线布局+直通车推广策略-全面提升流量_ev.mp4`.
+- Adapter: `llm-wiki-ingest/adapters/transcript.md` with video keyframe/OCR supplement.
+- Updated raw archive: `raw/videos/baize-alibaba-international-station-course-2026-06-25/`.
+- Created raw transcripts: `raw/transcripts/baize-alibaba-international-station-course-2026-06-25/ch20-...` through `ch29-...`.
+- Created raw keyframes/OCR: `raw/assets/baize-alibaba-international-station-course-2026-06-25/ch20/` through `ch29/`.
+- Updated extraction notes: `_meta/extraction-notes/baize-alibaba-international-station-course-2026-06-25/` plus chapter-level `ch20/` through `ch29/` segment, coverage, and omission files.
+- Created formal pages: `13-违规处罚与店铺运营风控.md`, `14-店铺规划与定位方法.md`, `15-赛道选择与四大流量入口.md`, `16-主打产品切入与产品线布局.md`, `17-目标国家与买家画像分析.md`, `18-公司优势表达与信任转化.md`, `19-出口通与金品店铺应用.md`.
+- Updated: course index, cross-border/domain/root indexes, query entry, coverage matrix, omission audit, formal plan, source inventory, source profile, knowledge-unit inventory, and audit handoff.
+- Notes: CH20-CH29 构成店铺规划与定位模块，覆盖违规处罚风控、五维店铺定位、四大流量入口、贸易型/工厂型主打产品选择、目标国家、买家画像、公司优势表达、出口通与金品店铺、精细化产品线和直通车单点突破。ASR 明显误听如 `清权`、`现全`、`寻盘/巡盘/循环`、`内幕/类幕`、`自动车/直动车`、`搭贴时/搭贴室`、`半拖`、`NOQ`、`新品/精品店铺` 已在 extraction notes 中校正为 `侵权`、`限权`、`询盘`、`类目`、`直通车`、`RTS`、`半托管`、`MOQ`、`金品店铺`。
+
+## [2026-06-25] ingest | 山峰组253期6-14课程：淘宝付费投放与全站推广
+
+- Source: `/Users/pechen/知识库/6月山峰组课程录音文件/2026-06-14 253期.md`.
+- Source identity: 山峰组253期6-14课程.
+- Adapter: `llm-wiki-ingest/adapters/transcript.md`.
+- Created raw transcript: `raw/transcripts/shanfeng-253-taobao-paid-traffic-course-2026-06-14/transcript.md`.
+- Created extraction notes: `_meta/extraction-notes/shanfeng-253-taobao-paid-traffic-course-2026-06-14/` with source profile, segment plan, micro-segment plan, knowledge inventory, coverage matrix, omission audit, formal page plan, and audit handoff.
+- Created formal pages: `domains/电商运营/02-淘宝天猫/05-淘宝付费投放与全站推广/` index plus 全站推广打款放量流程、链接发散与人群素材测试、拉新收割与短视频内容配合、Agent 使用模板。
+- Created query entry: `queries/淘宝全站推广诊断.md`.
+- Updated: `domains/电商运营/02-淘宝天猫/index.md`, `domains/电商运营/index.md`, `index.md`.
+- Notes: 将课程中的 23 个知识单元完整覆盖，保留多链接发散、前期成交打标、最大化到目标投产切换、预算和 ROI 阶梯、8-24 小时观察、搜索占比 20%-30%、计划效率复盘、拉新收割配合、短视频前三秒与人群排除、A/B/C 款梯队和 AI/COC 标准化等锚点。ASR 不确定工具名仅保留业务逻辑并标注需后台复核。
+
+## [2026-06-25] ingest | 山峰组256期6-15课程：产品类型与爆款运营系统
+
+- Source: `/Users/pechen/知识库/6月山峰组课程录音文件/2026-06-15 256期2.md`, `/Users/pechen/知识库/6月山峰组课程录音文件/2026-06-15 256期3.md`, `/Users/pechen/知识库/6月山峰组课程录音文件/2026-06-15 256期.md`.
+- Source identity: 山峰组256期6-15课程.
+- Adapter: `llm-wiki-ingest/adapters/transcript.md` batch course compile.
+- Created raw transcript batch: `raw/transcripts/shanfeng-256-ecommerce-product-operations-course-2026-06-15/`.
+- Created extraction notes: `_meta/extraction-notes/shanfeng-256-ecommerce-product-operations-course-2026-06-15/` with source profile, source inventory, course reconstruction, coverage matrix, omission audit, formal page plan, and audit handoff.
+- Created formal pages: `domains/电商运营/01-通用电商方法/04-选品与运营增长/02-产品类型与爆款运营系统/` index plus 经营定位与核心优势、产品类型与行业模型、产品生命周期与阶段指标、爆款递增与数据化放大、ToB定制与高客单信任业务、电锅炉壁挂炉店铺执行案例、Agent 使用模板。
+- Created query entry: `queries/产品类型与爆款运营诊断.md`.
+- Updated: `domains/电商运营/01-通用电商方法/04-选品与运营增长/index.md`, `domains/电商运营/01-通用电商方法/index.md`, `domains/电商运营/index.md`, `index.md`.
+- Notes: 将三段课程重构为“企业优势 -> 产品类型 -> 行业结构 -> 生命周期阶段 -> 指标选择 -> 流量端口 -> 组织执行 -> 复盘迭代”模型，覆盖 41 个知识单元，保留标品/非标/半标、高频/低频/高客单/ToB、销量寡头/搜索寡头/动销趋势型、S/A/B 产品分层、20%-30% 日预算递增、客服 10 秒/14 秒响应、Top20/Top10 竞品复制、主图 30%/70% 测试、趋势低谷前 45 天启动和 6/18-8/15 行动节奏等锚点。
+
+## [2026-06-26] query | 旺店通 API 知识检索
+
+- Query: 找一下 wiki 知识库中关于旺店通 API 部分的知识。
+- Read: `SCHEMA.md`, `index.md`, `queries/wangdian-api-skill-creation.md`, `domains/电商运营/30-ERP与系统工具/01-旺店通开放平台API/` core pages and manual outlines.
+- Filed: no new query page; existing `queries/wangdian-api-skill-creation.md` already covers the recurring entry route.
+
+## [2026-06-26] audit | 白泽阿里巴巴国际站运营实战系统课第 20-29 章复检
+
+- Skill: `llm-wiki-audit-and-optimization`.
+- Target: `domains/电商运营/20-跨境电商/02-阿里巴巴国际站运营实战系统课/` and `queries/阿里巴巴国际站运营诊断.md`.
+- QA: placeholder scan `SHELL:0 THIN:0 OK:20`; ingest contract OK; Obsidian route audit shows course index 3 backlinks / 22 outgoing links and query entry 14 backlinks / 19 outgoing links, with no target warnings.
+- Fixed: aligned CH20 chapter-level coverage and knowledge-unit inventory with main coverage by splitting complaint risk, TRO risk, penalty ladder, and rule-learning units through `BZ-CH20-U06`.
+- Notes: full source path existence check returned `missing_sources 0`; formal source-unit references all exist in main coverage. Root `index.md` formal-page count appears stale relative to current raw file count, but this is a wiki-wide indexing hygiene issue outside the Baize course path.
+
+## [2026-06-26] ingest | 白泽阿里巴巴国际站运营实战系统课第 30-39 章
+
+- Source: `/Users/pechen/alibaba/白泽/30_10店铺规划怎么做-3个阶段快速实现询盘目标_ev.mp4` through `/Users/pechen/alibaba/白泽/39_1什么是关键词-怎样确定词根-关键词覆盖率100%_ev.mp4`.
+- Adapter: `llm-wiki-ingest/adapters/transcript.md` with video keyframe/OCR supplement.
+- Updated raw archive: `raw/videos/baize-alibaba-international-station-course-2026-06-25/`.
+- Created raw transcripts: `raw/transcripts/baize-alibaba-international-station-course-2026-06-25/ch30-...` through `ch39-...`.
+- Created raw keyframes/OCR: `raw/assets/baize-alibaba-international-station-course-2026-06-25/ch30/` through `ch39/`.
+- Updated extraction notes: `_meta/extraction-notes/baize-alibaba-international-station-course-2026-06-25/` plus chapter-level `ch30/` through `ch39/` segment, coverage, and omission files.
+- Created formal pages: `20-三阶段店铺规划与第二曲线增长.md`, `21-RTS与定制店铺差异化运营.md`, `22-国际站选品价值与爆品思路.md`, `23-关键词趋势选品与涨幅词选品.md`, `24-对标同行选品与市场参谋爆品案例.md`, `25-关键词词根与覆盖率.md`.
+- Updated: course index, cross-border/domain/root indexes, query entry, coverage matrix, omission audit, formal plan, source inventory, source profile, knowledge-unit inventory, and audit handoff.
+- QA: raw completeness `missing_raw 0`; strict placeholder scan `STRICT_PLACEHOLDER_ISSUES 0`; ingest contract OK with expected verbatim-match warnings; Obsidian route audit shows course index 3 backlinks / 28 outgoing links and query entry 14 backlinks / 25 outgoing links, with no target warnings.
+- Notes: CH30-CH39 cover second-curve store planning, RTS/custom differentiated operations, product-selection value, onion-path product selection, keyword trend selection, rising-keyword selection, peer-store borrowing, Market Advisor product-country-keyword case workflow, order closed loop, and keyword-root coverage. ASR corrections include `寻盘/光盘/熏` -> `询盘`, `铁齿` -> `RTS`, `自动车/直动车` -> `直通车`, `热池榜` -> `热词榜`, `内幕` -> `类目`, `池根` -> `词根`, `词操` -> `实操`.
+
+## [2026-06-26] ingest | 山峰组259期6-15/6-16课程：淘宝智能推广与人群运营系统
+
+- Source: `/Users/pechen/知识库/6月山峰组课程录音文件/2026-06-15 259期.md`, `/Users/pechen/知识库/6月山峰组课程录音文件/2026-06-16 259期.md`.
+- Source identity: 山峰组259期6-15/6-16课程.
+- Adapter: `llm-wiki-ingest/adapters/transcript.md` batch course compile.
+- Created raw transcript batch: `raw/transcripts/shanfeng-259-taobao-smart-promotion-audience-operations-course-2026-06-15-16/`.
+- Created extraction notes: `_meta/extraction-notes/shanfeng-259-taobao-smart-promotion-audience-operations-course-2026-06-15-16/` with source profile, source inventory, course reconstruction, coverage matrix, omission audit, formal page plan, and audit handoff.
+- Created formal pages: `domains/电商运营/02-淘宝天猫/06-淘宝智能推广与人群运营系统/` index plus 淘宝运营趋势与增长底层逻辑、店铺模型与新老客增长结构、人群资产与计划健康诊断、转化周期归因与流量渠道选择、标准计划智能计划与出价模型、搜索卡位流量金卡与活动资源、测图测款动销与低价引流计划、相似品跟投竞品分析与人群推广、推广空烧互抢与报表优化、Agent 使用模板。
+- Created query entry: `queries/淘宝智能推广与人群运营诊断.md`.
+- Updated: `domains/电商运营/02-淘宝天猫/index.md`, `domains/电商运营/index.md`, `index.md`.
+- Notes: 将两份转文字重构为“平台趋势 -> 店铺模型 -> 产品转化周期 -> 人群资产 -> 流量渠道 -> 计划类型 -> 指标归因 -> 放量/纠偏”模型，覆盖 63 个知识单元，保留 721/172/333/127 店铺模型、O/A/I/P/L 人群流转、成交机会、人群流转效率、TA 人群浓度、计划人群浓度、双高人群、搜索曝光价值、转化周期归因、标准/智能计划、低出高溢、搜索卡位、流量金卡、测图测款动销、相似品跟投、人群推广、空烧和互抢诊断等锚点。后台字段名或口播中不确定的英文缩写已在 extraction notes 中标注待复核。
+
+## [2026-06-26] ingest | 18期品牌课转写查漏补缺
+
+- Source: `/Users/pechen/知识库/18期品牌/18期-D1 天蓬_原文.md`, `/Users/pechen/知识库/18期品牌/18期 D2太白-1_原文.md`, `/Users/pechen/知识库/18期品牌/18期D2太白_原文.md`, `/Users/pechen/知识库/18期品牌/18期品牌D3赤壁_原文.md`, `/Users/pechen/知识库/18期品牌/D3魔布_原文.md`, `/Users/pechen/知识库/18期品牌/D4上午AKEN_原文.md`, `/Users/pechen/知识库/18期品牌/D4-奥利可_原文.md`.
+- Adapter: `llm-wiki-ingest/adapters/transcript.md`.
+- Created raw transcript archive: `raw/transcripts/brand-class-18-gap-fill-2026-06-26/`.
+- Created extraction notes: `_meta/extraction-notes/brand-class-18-gap-fill-2026-06-26/` with source profile, source inventory, knowledge-unit inventory, coverage matrix, omission audit, formal page plan, and audit handoff.
+- Created formal pages: `08-定位配称四模块`, `10-内容营销资产化与内容中台`, `11-AI时代品牌专属视觉体系`, plus case pages `17-稳健医疗`, `18-巴厘高`, `19-良品铺子与李宁`, `20-蕉内与朱砂饰品`.
+- Updated: `domains/品牌策略/index.md`, relevant brand sub-indexes, `domains/品牌策略/90-样本/index.md`, and root `index.md`.
+- Notes: 本次按“查漏补缺”处理，不重建平行课程包；主要补定位配称、内容中台、AI 时代专属视觉体系和四个可调用案例。平台人群 taxonomy 和年度预算倒推细节因需后台/PDF 复核，保留 raw-only。
+
+## [2026-06-26] ingest | 山峰组研修4班6-23/6-24课程：产品开发与供应链管理系统
+
+- Source: `/Users/pechen/知识库/6月山峰组课程录音文件/2026-06-23 研修4班.md`, `/Users/pechen/知识库/6月山峰组课程录音文件/2026-06-24 研修4班.md`.
+- Source identity: 山峰组研修4班6-23/6-24课程.
+- Adapter: `llm-wiki-ingest/adapters/transcript.md` batch course compile.
+- Created raw transcript batch: `raw/transcripts/shanfeng-yanxiu4-product-development-supply-chain-course-2026-06-23-24/`.
+- Created extraction notes: `_meta/extraction-notes/shanfeng-yanxiu4-product-development-supply-chain-course-2026-06-23-24/` with source profile, source inventory, coverage matrix, omission audit, formal page plan, and audit handoff.
+- Created formal pages: `domains/电商运营/01-通用电商方法/05-产品开发与供应链管理系统/` index plus 产品开发思维与市场机会判断、供应商开发与分级管理、供应商谈判打样与品质管理、成本结构利润模型与SKU角色、库存周转补货与跨部门协同、Agent 使用模板。
+- Created query entry: `queries/产品开发与供应链管理诊断.md`.
+- Updated: `domains/电商运营/01-通用电商方法/index.md`, `domains/电商运营/index.md`, `index.md`.
+- Notes: 将两份研修4班课程重构为“竞争困局 -> 产品开发思维 -> 市场机会判断 -> 供应商开发与分级 -> 谈判打样品质 -> 成本穿透与 SKU 角色 -> 库存周转、补货与部门协同”模型，覆盖 65 个知识单元，保留产品是 1、五大产品开发原则、机会四象限、供应链四能力、灭火器箱净亏 8%、供应商开发七步、评估八维、战略/核心/合格/临时分级、四大谈判维度、OEM/ODM/自有品牌、净利模型、SKU 角色、爆款库存 70%-80%、动销补 15 天、7/14/21 天补货阈值、睡袋 8 个月生产周期、退货未入库导致重复采购等锚点。CUC 工具和课程提到的完整表格字段因源文件未给出细项，保留为待后续补充。
