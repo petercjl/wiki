@@ -21,6 +21,6 @@ status: active
 
 ## 相关入口
 
-- [[queries/Loop项目启动入口|Loop 项目启动入口]]：Peter 要求“做一个 loop”“循环优化”“多轮自动改进”时，Agent 应优先读取的执行入口。
-- [[domains/AI Agent工程/03-Skill设计/00-Peter的Skill世界观|Peter 的 Skill 世界观]]：Loop 的稳定经验应回写为 skill 的主线、分支、补丁、QA 或演化规则。
+- [[queries/Loop项目启动入口|Loop 项目启动入口]]：用户要求“做一个 loop”“循环优化”“多轮自动改进”时，Agent 应优先读取的执行入口。
+- [[domains/AI Agent工程/03-Skill设计/00-Skill世界观|Skill 世界观]]：Loop 的稳定经验应回写为 skill 的主线、分支、补丁、QA 或演化规则。
 

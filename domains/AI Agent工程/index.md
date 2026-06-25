@@ -28,8 +28,10 @@
 
 ## Skill 设计
 
-- [[domains/AI Agent工程/03-Skill设计/00-Peter的Skill世界观|Peter 的 Skill 世界观]]：把 skill 定义为大模型执行复杂任务的说明书、定向知识库和可演化执行知识体，强调主线、补丁、工作流节点和回主线机制。
-- [[domains/AI Agent工程/90-Skill注册表/01-个人与项目Skill注册库|个人/项目 Skill 注册库]]：只收录 Peter 自己创建、让 Agent 为项目定制、或明显服务于 Peter 项目/业务流程的 skill，是日常检索“有没有类似 skill”的优先入口。
+- [[domains/AI Agent工程/03-Skill设计/index|Skill 设计]]：Agent skill 的设计、测试、演化和注册方法入口。
+- [[domains/AI Agent工程/03-Skill设计/00-Skill世界观|Skill 世界观]]：把 skill 定义为大模型执行复杂任务的说明书、定向知识库和可演化执行知识体，强调主线、补丁、工作流节点和回主线机制。
+- [[domains/AI Agent工程/03-Skill设计/03-主对话与干净子Agent的Skill回归测试方法|主对话与干净子 Agent 的 Skill 回归测试方法]]：用主 agent 设计/修 skill，用干净子 agent 验证落盘和独立执行能力。
+- [[domains/AI Agent工程/90-Skill注册表/01-个人与项目Skill注册库|个人/项目 Skill 注册库]]：只收录 用户自己创建、让 Agent 为项目定制、或明显服务于 用户项目/业务流程的 skill，是日常检索“有没有类似 skill”的优先入口。
 - [[domains/AI Agent工程/90-Skill注册表/02-跨Agent Skill注册库|跨 Agent Skill 注册库]]：统一检索 Codex、Hermes、Lark Agent、OpenClaw、SealSeek、Claude Code 的 skill，定位原始 `SKILL.md` 并判断复用或迁移可能。
 - [[domains/AI Agent工程/90-Skill注册表/03-Codex Skill注册页|Codex Skill 注册页]]：Codex 本地业务 skill 与系统 skill 的检索描述、输入方式、关键词和文件位置。
 - [[domains/视觉制作/03-AI商业视觉/03-可编辑海报PSD重建Skill|可编辑海报 PSD 重建 Skill]]：Codex skill `editable-poster-psd-rebuild`，把 AI 带字海报重建为授权字体可编辑 PSD。
@@ -41,7 +43,7 @@
 
 ## Skill 注册表
 
-- [[domains/AI Agent工程/90-Skill注册表/01-个人与项目Skill注册库|个人/项目 Skill 注册库]]：只收录 Peter 自己创建、让 Agent 为项目定制、或明显服务于 Peter 项目/业务流程的 skill，是日常检索“有没有类似 skill”的优先入口。
+- [[domains/AI Agent工程/90-Skill注册表/01-个人与项目Skill注册库|个人/项目 Skill 注册库]]：只收录 用户自己创建、让 Agent 为项目定制、或明显服务于 用户项目/业务流程的 skill，是日常检索“有没有类似 skill”的优先入口。
 - [[domains/AI Agent工程/90-Skill注册表/02-跨Agent Skill注册库|跨 Agent Skill 注册库]]：统一检索 Codex、Hermes、Lark Agent、OpenClaw、SealSeek、Claude Code 的 skill，定位原始 `SKILL.md` 并判断复用或迁移可能。
 - [[domains/AI Agent工程/90-Skill注册表/03-Codex Skill注册页|Codex Skill 注册页]]：Codex 本地业务 skill 与系统 skill 的检索描述、输入方式、关键词和文件位置。
 - [[domains/AI Agent工程/90-Skill注册表/04-Hermes Skill注册页|Hermes Skill 注册页]]：Hermes 主 skill 目录的检索描述、输入方式、关键词和文件位置。
@@ -55,7 +57,7 @@
 - [[domains/AI Agent工程/06-自动化工作流/index|AI Agent 自动化工作流]]：沉淀目标、工具、证据、评审、循环、停止条件和经验回写组成的执行系统。
 - [[domains/AI Agent工程/06-自动化工作流/01-Loop Engineering个人方法论|Loop Engineering 个人方法论]]：把 loop engineering 定义为围绕可证据化目标设计 Agent 执行、评审、修正、记录和停止的循环系统。
 - [[domains/AI Agent工程/06-自动化工作流/02-Loop项目规划模板|Loop 项目规划模板]]：新建 loop 项目前，要求 Agent 先定义目标契约、证据面、工作基座、执行节点、评审节点、轮数预算和入库规则。
-- [[queries/Loop项目启动入口|Loop 项目启动入口]]：Peter 要求“做一个 loop”“循环优化”“多轮自动改进”时，Agent 应优先读取的执行入口。
+- [[queries/Loop项目启动入口|Loop 项目启动入口]]：用户要求“做一个 loop”“循环优化”“多轮自动改进”时，Agent 应优先读取的执行入口。
 
 ## Toolchain
 

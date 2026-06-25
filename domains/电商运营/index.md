@@ -2,7 +2,7 @@
 title: 电商运营知识域
 type: domains/视觉制作/05-小红书风格AI生图/index
 created: 2026-06-14
-updated: 2026-06-20
+updated: 2026-06-25
 domain: 电商运营
 tags: [ecommerce, knowledge-base]
 status: active
@@ -50,6 +50,7 @@ status: active
 
 - [[domains/电商运营/20-跨境电商/domains/视觉制作/05-小红书风格AI生图/index|跨境电商知识入口]]：跨境电商总入口。
 - [[domains/电商运营/20-跨境电商/01-中小企业跨境出海/domains/视觉制作/05-小红书风格AI生图/index|中小企业跨境出海]]：机会判断、市场调研、产品本地化、数字营销、物流、本地化运营、知识产权、支付、合规和风险。
+- [[domains/电商运营/20-跨境电商/02-阿里巴巴国际站运营实战系统课/index|阿里巴巴国际站运营实战系统课]]：基于白泽前 4 章视频，沉淀国际站运营能力框架、跨行业迁移方法、实战技能迭代和诊断入口。
 
 ## 30 ERP与系统工具
 

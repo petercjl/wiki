@@ -16,7 +16,7 @@ status: active
 
 ## 何时读取
 
-当 Peter 提到以下意图时，Agent 应先读取本页，再开始工作：
+当用户提到以下意图时，Agent 应先读取本页，再开始工作：
 
 - “做一个 loop”
 - “循环优化 N 轮”
@@ -29,7 +29,7 @@ status: active
 
 1. [[domains/AI Agent工程/06-自动化工作流/01-Loop Engineering个人方法论|Loop Engineering 个人方法论]]
 2. [[domains/AI Agent工程/06-自动化工作流/02-Loop项目规划模板|Loop 项目规划模板]]
-3. 如果涉及 skill 创建或沉淀，读取 [[domains/AI Agent工程/03-Skill设计/00-Peter的Skill世界观|Peter 的 Skill 世界观]]
+3. 如果涉及 skill 创建或沉淀，读取 [[domains/AI Agent工程/03-Skill设计/00-Skill世界观|Skill 世界观]]
 
 ## 启动规则
 
@@ -57,7 +57,7 @@ Agent 不应直接进入执行。先输出 Loop 项目规划，至少包含：
 | 用户任务线索 | 还应读取 |
 | --- | --- |
 | CLI、小工具、Agent 工具链 | `domains/AI Agent工程/05-工具链/`，相关项目 README 或 AGENTS.md |
-| Skill 设计、Skill 优化 | [[domains/AI Agent工程/03-Skill设计/00-Peter的Skill世界观|Peter 的 Skill 世界观]] |
+| Skill 设计、Skill 优化 | [[domains/AI Agent工程/03-Skill设计/00-Skill世界观|Skill 世界观]] |
 | DMP 竞品分析 | [[domains/电商运营/02-淘宝天猫/04-达摩盘AI/01-达摩盘AI内部工具与竞品数据挖掘手册|达摩盘 AI 内部工具与竞品数据挖掘手册]] |
 | 聚宽量化策略 | [[queries/joinquant-strategy-agent-entry|聚宽策略 Agent 使用入口]] 和 [[domains/量化交易/04-量化理论基础/12-量化研究工作流与实验纪律|量化研究工作流与实验纪律]] |
 | 视觉制作、生图生视频 | `domains/视觉制作/` 下对应视觉、AI 生图、AI 视频页面 |
