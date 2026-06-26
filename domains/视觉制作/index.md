@@ -2,7 +2,7 @@
 title: 视觉制作知识域
 type: index
 created: 2026-06-14
-updated: 2026-06-15
+updated: 2026-06-26
 domain: 视觉制作
 tags: [visual-production, knowledge-base]
 status: active
@@ -31,3 +31,5 @@ status: active
 ## 关键工作流
 
 - [[domains/视觉制作/03-AI商业视觉/03-可编辑海报PSD重建Skill|可编辑海报 PSD 重建 Skill]]：把 AI 生成的带字电商海报重建为无文案底图、隐藏原图参考层和授权字体可编辑文字层的 PSD。
+- [[domains/视觉制作/06-AI视频/02-AI商业短视频规划方法|AI商业短视频规划方法]]：把产品诊断、案例类比、卖点翻译、人物冲突、分镜图片和导演取舍整理成 AI 商业短视频规划流程。
+- [[domains/视觉制作/06-AI视频/90-案例库/index|AI商业短视频案例库]]：把优秀短视频拆成可调用案例，用于新产品短视频规划时借鉴创意命题、镜头结构和产品入场方式。
