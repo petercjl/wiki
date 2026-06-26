@@ -1,6 +1,8 @@
 # Agent Operating Protocol
 
-This repository is Peter's personal LLM Wiki.
+This repository is Peter's general personal LLM Wiki.
+
+Quant trading has been split into a separate private Obsidian/Git wiki at `/Users/pechen/quant-trading-wiki`.
 
 ## Mandatory Orientation
 
@@ -8,7 +10,7 @@ Before any edit, every agent must read:
 
 1. `AGENTS.md`
 2. `SCHEMA.md`
-3. `domains/视觉制作/index.md`
+3. The relevant domain `index.md`
 4. Recent entries in `log.md`
 
 Then search existing pages before creating a new page.
@@ -36,3 +38,5 @@ Use:
 - `domains/AI Agent工程/` for AI Agent 工程、知识系统、Skill、工具链与自动化工作流。
 - `shared/` for cross-domain knowledge.
 - `projects/` for project-specific context.
+
+Do not add new quant-trading knowledge here. For 量化交易、聚宽/JoinQuant、QMT、回测、策略、因子、Alpha、仓位、风控、市场状态等内容, use `/Users/pechen/quant-trading-wiki`.

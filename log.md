@@ -1021,3 +1021,11 @@
 - Created query entry: `queries/产品开发与供应链管理诊断.md`.
 - Updated: `domains/电商运营/01-通用电商方法/index.md`, `domains/电商运营/index.md`, `index.md`.
 - Notes: 将两份研修4班课程重构为“竞争困局 -> 产品开发思维 -> 市场机会判断 -> 供应商开发与分级 -> 谈判打样品质 -> 成本穿透与 SKU 角色 -> 库存周转、补货与部门协同”模型，覆盖 65 个知识单元，保留产品是 1、五大产品开发原则、机会四象限、供应链四能力、灭火器箱净亏 8%、供应商开发七步、评估八维、战略/核心/合格/临时分级、四大谈判维度、OEM/ODM/自有品牌、净利模型、SKU 角色、爆款库存 70%-80%、动销补 15 天、7/14/21 天补货阈值、睡袋 8 个月生产周期、退货未入库导致重复采购等锚点。CUC 工具和课程提到的完整表格字段因源文件未给出细项，保留为待后续补充。
+
+## [2026-06-26] update | 量化交易知识库拆分
+
+- Moved active quant-trading wiki content to separate private Obsidian/Git repository: `/Users/pechen/quant-trading-wiki`.
+- New GitHub repository: `petercjl/quant-trading-wiki` (private).
+- Removed current-version quant-trading formal pages, raw quant/API/source files, extraction notes, and JoinQuant query entry from this general wiki.
+- Updated routing rules in `/Users/pechen/.codex/AGENTS.md`, `AGENTS.md`, `SCHEMA.md`, and `index.md`.
+- Note: original GitHub history is intentionally left untouched; old commits may still contain quant-trading records.
