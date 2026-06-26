@@ -30,7 +30,7 @@ status: active
   - `domains/AI Agent工程/03-Skill设计/`
   - `domains/AI Agent工程/02-Agent架构/`
   - `domains/电商运营/02-淘宝天猫/04-达摩盘AI/`
-  - `domains/量化交易/`
+  - `/Users/pechen/quant-trading-wiki`
 - Fusion disposition: create new methodology and query entry; link to existing Peter Skill worldview instead of replacing it.
 
 ## Expected Formal Artifacts
@@ -39,4 +39,3 @@ status: active
 - `domains/AI Agent工程/06-自动化工作流/01-Loop Engineering个人方法论.md`
 - `domains/AI Agent工程/06-自动化工作流/02-Loop项目规划模板.md`
 - `queries/Loop项目启动入口.md`
-
