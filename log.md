@@ -875,6 +875,14 @@
 
 - 更新 `domains/AI Agent工程/03-Skill设计/02-无限画板Skill写作知识库/`：将“产品视觉识别结果不能直接写进生图 Prompt，应转换为参考图锁定规则”的经验沉淀到无限画板 Skill 写作知识库。涉及文件：`05-常见反坑库.md` 新增“把产品视觉识别结果写进生图 Prompt”反坑；`04-Prompt模板.md` 新增“产品细节锁定模板”；`06-质量检查清单.md` 新增产品识别信息与 Prompt 锁定规则检查项；`index.md` 增加入口提醒。
 
+## [2026-06-26] ingest | 白泽阿里巴巴国际站运营实战系统课第 80-89 章
+
+- Source: `/Users/pechen/alibaba/白泽/80_1询盘转化率低怎么提高-.mp4` through `/Users/pechen/alibaba/白泽/89_1做店铺按照这3步走-快速把新店铺做起来.mp4`.
+- Ingested CH80-CH89 from local MP4 videos into the general wiki. Added raw Whisper transcripts, keyframe OCR, source inventory, coverage matrix, omission audit, formal page plan, and audit handoff updates.
+- Added eight formal pages: `46-询盘转化率与询盘质量诊断SOP.md`, `47-店铺流量暴涨暴跌分析SOP.md`, `48-询盘量低于行业均值突破与店铺盘活.md`, `49-直通车询盘下降诊断与修复.md`, `50-营销活动与优惠券免费流量.md`, `51-首页三大场景免费流量获取规则.md`, `52-新贸节采购节大促布局.md`, and `53-新店铺三阶段运营框架.md`.
+- Updated the course index, root wiki index, 电商运营/跨境电商 indexes, and `queries/阿里巴巴国际站运营诊断.md` so Agent routing covers询盘转化率、询盘质量、流量暴涨暴跌、询盘量低于行业均值、直通车询盘下降、营销活动、三大场景免费流量、新贸节/采购节和新店三阶段运营。
+- Safety normalization: CH82/CH84 order-feedback wording is formalized only as true customer/order/compliant online transaction feedback; CH86 logistics-offset wording is not recommended and is replaced by truthful logistics plus margin/discount controls.
+
 ## [2026-06-25] ingest | 白泽阿里巴巴国际站运营实战系统课前 4 章
 
 - Source: `/Users/pechen/alibaba/白泽/` 4 个本地 MP4 视频。
@@ -975,6 +983,17 @@
 - Fixed: aligned CH20 chapter-level coverage and knowledge-unit inventory with main coverage by splitting complaint risk, TRO risk, penalty ladder, and rule-learning units through `BZ-CH20-U06`.
 - Notes: full source path existence check returned `missing_sources 0`; formal source-unit references all exist in main coverage. Root `index.md` formal-page count appears stale relative to current raw file count, but this is a wiki-wide indexing hygiene issue outside the Baize course path.
 
+## [2026-06-26] ingest | 快递100实时快递单号查询技术文档
+
+- Source: https://api.kuaidi100.com/document/5f0ffb5ebc8da837cbd8aefc
+- Adapter: `llm-wiki-ingest/adapters/api-docs.md`.
+- Created raw archive: `raw/api/kuaidi100/realtime-query-api-2026-06-26.html` and `raw/api/kuaidi100/realtime-query-api-2026-06-26.md`.
+- Created extraction notes: `_meta/extraction-notes/kuaidi100-realtime-query-api-2026-06-26/` with source profile, source inventory, knowledge-unit inventory, coverage matrix, omission audit, formal page plan, and audit handoff.
+- Created formal page: `domains/电商运营/30-ERP与系统工具/02-快递100实时查询API.md`.
+- Created query entry: `queries/物流轨迹监控接口接入.md`.
+- Updated indexes: `domains/电商运营/30-ERP与系统工具/index.md`, `domains/电商运营/index.md`, and root `index.md`.
+- Notes: 页面沉淀快递100实时查询的 POST 地址、表单格式、`customer/sign/param` 认证、`MD5(param + key + customer)` 大写签名、`resultv2` 模式、物流状态/高级状态、错误码和与旺店通订单物流监控的接入路线。明确记录同一单号至少半小时查询间隔、顺丰/中通等手机号条件、默认不读取收件人和快递员信息。
+
 ## [2026-06-26] ingest | 白泽阿里巴巴国际站运营实战系统课第 30-39 章
 
 - Source: `/Users/pechen/alibaba/白泽/30_10店铺规划怎么做-3个阶段快速实现询盘目标_ev.mp4` through `/Users/pechen/alibaba/白泽/39_1什么是关键词-怎样确定词根-关键词覆盖率100%_ev.mp4`.
@@ -1030,8 +1049,124 @@
 - Updated routing rules in `/Users/pechen/.codex/AGENTS.md`, `AGENTS.md`, `SCHEMA.md`, and `index.md`.
 - Note: original GitHub history is intentionally left untouched; old commits may still contain quant-trading records.
 
+## [2026-06-26] ingest | 罐头 Visuals OPPO Find X9 Ultra AI 广告案例
+
+- Source: `/Users/pechen/短视频/博主-罐头Visuals/我一个人给OPPO的手机做了部AI广告，大家打几分？ 设计的天塌了哈哈哈哈哈#oppofindx9ultra #AI教程 #AI短片 #AI视频 #AI广告.mp4`.
+- Adapter: `llm-wiki-ingest/adapters/transcript.md` with corrected horizontal keyframe contact sheet.
+- Created raw transcript: `raw/transcripts/guantou-visuals-oppo-find-x9-ultra-memory-ad-2026-06-26/`.
+- Created raw visual evidence: `raw/assets/guantou-visuals-oppo-find-x9-ultra-memory-ad-2026-06-26/contact-sheet.jpg`.
+- Created formal case library: `domains/视觉制作/06-AI视频/90-案例库/index.md`.
+- Created case page: `domains/视觉制作/06-AI视频/90-案例库/01-OPPO-Find-X9-Ultra：把影像能力翻译成记忆保存.md`.
+- Updated: `domains/视觉制作/06-AI视频/index.md`, `domains/视觉制作/index.md`, root `index.md`.
+- Notes: 将该视频拆为“高价影像手机 -> 人生瞬间 -> 不可重来 -> 保存欲望 -> 手机作为记忆容器”的可迁移案例，保留横屏构图、镜头地图、误用边界和 Agent 调用方式。
+
+## [2026-06-26] update | OPPO Find X9 Ultra 案例升级为项目案例包
+
+- Added sources: `ch01` 原片 + 简短幕后、`ch15` 制作思路解析。
+- Added raw transcripts: `raw/transcripts/guantou-visuals-oppo-find-x9-ultra-memory-ad-2026-06-26/ch01-oppo-find-x9-ultra-short-breakdown.raw.*`, `ch15-oppo-find-x9-ultra-positioning-breakdown.raw.*`.
+- Added raw visual evidence: `raw/assets/guantou-visuals-oppo-find-x9-ultra-memory-ad-2026-06-26/ch01-short-breakdown-contact-sheet.jpg`, `ch15-positioning-breakdown-contact-sheet.jpg`.
+- Updated case page: `domains/视觉制作/06-AI视频/90-案例库/01-OPPO-Find-X9-Ultra：把影像能力翻译成记忆保存.md`.
+- Updated: case library index and root `index.md`.
+- Notes: 将 OPPO 项目从单条原片案例升级为“原片 + 简短幕后 + 制作思路”的项目案例包，新增高价产品定位、人物小传、可信世界、工作碎片、家庭转场、产品入场和 Agent 调用模板。
+
+## [2026-06-26] ingest | 罐头 Visuals 五菱星光560 AI 汽车广告案例
+
+- Source: `/Users/pechen/短视频/博主-罐头Visuals/爸妈因为不够“大”吵了起来。一条AI短片。 @五菱汽车 #星光560#AI #AIGC #AI视频 #AI创作浪潮计划.mp4`, `AI如何做出这么逼真的汽车场景广告？2分钟教会你！`, `一招让你的AI视频更真实，AI汽车广告案例分享`.
+- Adapter: `llm-wiki-ingest/adapters/transcript.md` with video keyframe evidence.
+- Created raw transcripts: `raw/transcripts/guantou-visuals-wuling-xingguang-560-product-story-ad-2026-06-26/`.
+- Created raw visual evidence: `raw/assets/guantou-visuals-wuling-xingguang-560-product-story-ad-2026-06-26/`.
+- Created case page: `domains/视觉制作/06-AI视频/90-案例库/02-五菱星光560：功能卖点转生活冲突广告.md`.
+- Updated: AI video case library index and root `index.md`.
+- Notes: 将五菱项目整理为“产品给谁用 -> 日常摩擦 -> 夫妻争吵 -> 产品解决 -> 工作与生活双价值”的功能产品案例包，并补充美术设计、场景信息密度、焦段、车牌招牌合规、产品一致性和 Agent 调用模板。
+
+## [2026-06-26] ingest | 罐头 Visuals 母亲节 AI 广告案例
+
+- Source: `/Users/pechen/短视频/博主-罐头Visuals/我用AI做了母亲节广告，献给所有妈妈，谢谢你们。 #母亲节#AI创作浪潮计划 #AI视频 #罐头VISUALS #AI广告.mp4`, `如何利用AI做出超写实的广告？三分钟教会你`, `我是如何用AI做出这种超真实广告片的？2分钟告诉你怎么做`.
+- Adapter: `llm-wiki-ingest/adapters/transcript.md` with video keyframe evidence.
+- Created raw transcripts: `raw/transcripts/guantou-visuals-mothers-day-ai-ad-2026-06-26/`.
+- Created raw visual evidence: `raw/assets/guantou-visuals-mothers-day-ai-ad-2026-06-26/`.
+- Created case page: `domains/视觉制作/06-AI视频/90-案例库/03-母亲节广告：多人物群像与生活动作表达.md`.
+- Updated: AI video case library index and root `index.md`.
+- Notes: 将母亲节项目整理为节日情绪群像案例，保留“生活动作替代口号”、四组普通人物关系、画布工作模式、提示词简单精准、导演思维、镜头减法、真实但不必清楚、角色一致性和音乐分段等方法。
+
+## [2026-06-26] ingest | 罐头 Visuals《意识残留》AI 科幻预告片案例
+
+- Source: `/Users/pechen/短视频/博主-罐头Visuals/我用AI做的电影预告！你觉得能报价多少？ 《意识残留》是我自己写的一个科幻剧本，剧本基本写完。但因为没有时间做成片，所以花了一周做成了一预告片，如果点赞高的话，我会.mp4`, `如何用AI做出好莱坞风格的大片？2分钟看明白!`.
+- Adapter: `llm-wiki-ingest/adapters/transcript.md` with video keyframe evidence.
+- Created raw transcripts: `raw/transcripts/guantou-visuals-residual-consciousness-sci-fi-trailer-2026-06-26/`.
+- Created raw visual evidence: `raw/assets/guantou-visuals-residual-consciousness-sci-fi-trailer-2026-06-26/`.
+- Created extraction notes: `_meta/extraction-notes/guantou-visuals-residual-consciousness-sci-fi-trailer-2026-06-26/` with source profile, source inventory, knowledge-unit inventory, coverage matrix, omission audit, formal page plan, and audit handoff.
+- Created case page: `domains/视觉制作/06-AI视频/90-案例库/04-意识残留：世界观预告片与基调图.md`.
+- Updated: AI video case library index and root `index.md`.
+- Notes: 将《意识残留》整理为世界观预告片案例，保留完整剧本先行、人物关系与动机、社会冲突设定、基调图选择、大量抽卡、图生视频取舍、AI 音乐二次合成和用预告片测试市场反馈等方法。
+
+## [2026-06-26] ingest | 罐头 Visuals 美国运动品牌 AI 广告案例
+
+- Source: `/Users/pechen/短视频/博主-罐头Visuals/用AI给美国运动品牌做了个广告。效果还是很不错的 甲方很满意#AIGC #AI广告 #AI视频 #运动品牌 #AI服装.mp4`, `AI如何做出超帅的运动广告？两分钟看会！品牌方看过来`.
+- Adapter: `llm-wiki-ingest/adapters/transcript.md` with video keyframe evidence.
+- Created raw transcripts: `raw/transcripts/guantou-visuals-us-sportswear-dual-life-ad-2026-06-26/`.
+- Created raw visual evidence: `raw/assets/guantou-visuals-us-sportswear-dual-life-ad-2026-06-26/`.
+- Created extraction notes: `_meta/extraction-notes/guantou-visuals-us-sportswear-dual-life-ad-2026-06-26/` with source profile, source inventory, knowledge-unit inventory, coverage matrix, omission audit, formal page plan, and audit handoff.
+- Created case page: `domains/视觉制作/06-AI视频/90-案例库/05-美国运动品牌：产品气质先行与双重生活叙事.md`.
+- Updated: AI video case library index and root `index.md`.
+- Notes: 将运动品牌项目整理为“产品气质先行 -> 产品图反推角色 -> 双重生活叙事 -> 角色一致性资产 -> 图生视频和 AI 音乐”的服饰广告案例，保留美国市场运动故事、跑步机产品图、白底/三视图、AI 音乐版权规避和多次抽卡筛选等方法。
+
+## [2026-06-26] ingest | 罐头 Visuals 低度果酒微醺软广案例
+
+- Source: `/Users/pechen/短视频/博主-罐头Visuals/如何用AI制作高质品牌广告_从0到制作成片思路分享！ #ai教程 #抖音AI创作大赛 #AI广告 #品牌广告 #AIGC.mp4`.
+- Adapter: `llm-wiki-ingest/adapters/transcript.md` with video keyframe evidence.
+- Created raw transcripts: `raw/transcripts/guantou-visuals-low-alcohol-fruit-wine-relief-ad-2026-06-26/`.
+- Created raw visual evidence: `raw/assets/guantou-visuals-low-alcohol-fruit-wine-relief-ad-2026-06-26/`.
+- Created extraction notes: `_meta/extraction-notes/guantou-visuals-low-alcohol-fruit-wine-relief-ad-2026-06-26/` with source profile, source inventory, knowledge-unit inventory, coverage matrix, omission audit, formal page plan, and audit handoff.
+- Created case page: `domains/视觉制作/06-AI视频/90-案例库/06-低度果酒：压力铺垫与自我批准的轻松.md`.
+- Updated: AI video case library index and root `index.md`.
+- Notes: 将低度果酒项目整理为“品牌功能词 -> 年轻人压力洞察 -> 前半段压力铺垫 -> 后半段一杯微醺温柔和解 -> 金句收束”的饮品软广案例，保留轻微醺、缓压力、拒绝过度饮酒、日常放空、自愈和脚本定位优先等方法。
+
+## [2026-06-26] ingest | 罐头 Visuals 端午安康 AI 文化短片案例
+
+- Source: `/Users/pechen/短视频/博主-罐头Visuals/如何用AI做一条端午节大片？成片展示和幕后揭秘！ #端午节 #AI教程 #AIGC #AI创作浪潮计划 #AI视频 _AIGC作品《端午安康》，五段人生，层层叠进。_起源、孝道、传承、珍重、意气。_这.mp4`.
+- Adapter: `llm-wiki-ingest/adapters/transcript.md` with video keyframe evidence.
+- Created raw transcripts: `raw/transcripts/guantou-visuals-dragon-boat-festival-cultural-film-2026-06-26/`.
+- Created raw visual evidence: `raw/assets/guantou-visuals-dragon-boat-festival-cultural-film-2026-06-26/`.
+- Created extraction notes: `_meta/extraction-notes/guantou-visuals-dragon-boat-festival-cultural-film-2026-06-26/` with source profile, source inventory, knowledge-unit inventory, coverage matrix, omission audit, formal page plan, and audit handoff.
+- Created case page: `domains/视觉制作/06-AI视频/90-案例库/07-端午安康：传统节日的时间纵深与史料美术.md`.
+- Updated: AI video case library index and root `index.md`.
+- Notes: 将端午项目整理为“反元素命题 -> 多时代人生片段 -> 现代连接 -> 史料查验与专项训练”的传统文化节日片案例，保留端午不止粽子、家国/孝道/传承/珍重/意气、古画壁画参考、东汉建筑服装还原、杜甫脸部资料和 AI 视频精品化流程等方法。
+
+## [2026-06-26] synthesize | AI 商业短视频规划方法
+
+- Source: 罐头 Visuals 7 个已入库案例。
+- Created playbook: `domains/视觉制作/06-AI视频/02-AI商业短视频规划方法.md`.
+- Updated: `domains/视觉制作/06-AI视频/index.md`, `domains/视觉制作/06-AI视频/90-案例库/index.md`, `domains/视觉制作/index.md`, and root `index.md`.
+- Notes: 将 7 个案例抽象为“产品/主题诊断 -> 问题类型分类 -> 检索相似案例 -> 卖点翻译成叙事命题 -> 人物/场景/冲突/产品入场 -> 分镜图片 -> 图生视频和剪辑取舍 -> 案例回写”的规划主线，并明确未来 skill 应先做案例检索和创意命题判断，而不是直接生成脚本。
+## 2026-06-27
+
+- Ingested 白泽国际站运营实战系统课 CH100-CH113 from local MP4 videos into the general wiki. Added raw Whisper transcripts, keyframe OCR, source inventory, knowledge-unit inventory, coverage matrix, omission audit, formal page plan, and audit handoff updates.
+- Added seven formal pages: `61-标题精细化组合与批量覆盖.md`, `62-K1K2K3流量补充与词库覆盖.md`, `63-RTS与定制产品标题差异化.md`, `64-中性爆款标题与同行借力标题.md`, `65-蓝海型号国家偏好爆款标题.md`, `66-潜力产品标题优化成爆款.md`, and `67-标题方法选择避坑与爆款矩阵.md`.
+- Updated the course index, root wiki index, 电商运营/跨境电商 indexes, and `queries/阿里巴巴国际站运营诊断.md` so Agent routing covers批量标题组合、K1/K2/K3、我的词库、RTS/定制标题、中性标题、同行借力、蓝海/型号/国家偏好标题、潜力品标题优化、标题方法选择、标题三大坑 and 爆款矩阵. CH100 and CH113 filename/content mismatches were recorded and formalized by transcript content.
+- Validation: raw completeness OK for CH100-CH113 transcripts/OCR, `validate_ingest_contract.py` OK, placeholder scan found only historical validation-log text before this entry was finalized, representative routing terms found, working directory removed, and CH100-CH113 raw MP4s remain ignored local assets (`!!`) rather than upload targets.
 
 ## 2026-06-26
+
+- Ingested 白泽国际站运营实战系统课 CH90-CH99 from local MP4 videos into the general wiki. Added raw Whisper transcripts, keyframe OCR, source inventory, coverage matrix, omission audit, formal page plan, and audit handoff updates.
+- Added seven formal pages: `54-新店铺运营实战SOP.md`, `55-老店铺接手运营SOP.md`, `56-店铺流量增长逻辑与战略.md`, `57-标题底层逻辑与搜索抓取.md`, `58-标题搜索规则与避坑.md`, `59-标题结构与K1K2K3搭配.md`, and `60-爆款标题框架与案例.md`.
+- Updated the course index, root wiki index, 电商运营/跨境电商 indexes, and `queries/阿里巴巴国际站运营诊断.md` so Agent routing covers新店 SOP、老店接手、店铺流量增长逻辑、标题底层逻辑、标题搜索规则、K1/K2/K3 and爆款标题框架. CH93 file title/content mismatch was recorded and merged with CH94 rather than duplicated.
+- Validation: raw completeness OK for CH90-CH99 transcripts/OCR, `validate_ingest_contract.py` OK, placeholder scan found only the pre-existing ASR uncertainty note, representative routing terms found, and raw MP4s remain ignored local assets.
+
+- Ingested 白泽国际站运营实战系统课 CH70-CH79 from local MP4 videos into the general wiki. Added raw Whisper transcripts, keyframe OCR, source inventory, coverage matrix, omission audit, formal page plan, and audit handoff updates.
+- Added five formal pages: `41-市场参谋与增量市场分析.md`, `42-竞争对手店铺与产品分析.md`, `43-店铺诊断框架与综合数据SOP.md`, `44-产品数据精细化诊断SOP.md`, and `45-店铺诊断关键数据选择与判断.md`.
+- Updated the course index, root wiki index, 电商运营/跨境电商 indexes, and `queries/阿里巴巴国际站运营诊断.md` so Agent routing covers市场分析、市场参谋查行业/查国家、买家规模指数、供需比、竞争对手分析、店铺诊断四问、综合数据链路、产品 360 精细诊断和数据入口选择.
+- Validation: raw completeness OK for CH70-CH79 transcripts/OCR, `validate_ingest_contract.py` OK, placeholder scan found no unresolved placeholders in the new pages/query entry, representative routing terms found. Video files remain local raw assets and are ignored for upload/commit.
+
+- Ingested 白泽国际站运营实战系统课 CH60-CH69 from local MP4 videos into the general wiki. Added raw Whisper transcripts, keyframe OCR, source inventory, coverage matrix, omission audit, formal page plan, and audit handoff updates.
+- Added five formal pages: `36-交易力与保障力星等级提升.md`, `37-产品数据分析与诊断指标.md`, `38-四象限产品优化SOP.md`, `39-爆款询盘多订单少的运营业务协同.md`, and `40-店铺流量结构与渠道增长分析.md`.
+- Updated the course index, root wiki index, 电商运营/跨境电商 indexes, and `queries/阿里巴巴国际站运营诊断.md` so Agent routing covers交易力、保障力、产品数据链路、产品诊断 8 指标、四象限优化、爆款询盘多订单少 and 流量渠道增长.
+- Validation: raw completeness OK for CH60-CH69 transcripts/OCR; formal pages intentionally reframe risky raw wording as compliant real-customer transactions, true reviews and true fulfillment correction. Video files remain local raw assets and are ignored for upload/commit.
+
+- Ingested 白泽国际站运营实战系统课 CH50-CH59 from local MP4 videos into the general wiki. Added raw Whisper transcripts, keyframe OCR, source inventory, coverage matrix, omission audit, formal page plan, and audit handoff updates.
+- Added five formal pages: `31-爆品总量提升与优品权益.md`, `32-橱窗加权与产品选择.md`, `33-橱窗优化与关键词排名提升.md`, `34-店铺星等级价值与指标框架.md`, and `35-商品力与营销力提升方法.md`.
+- Updated the course index, 电商运营/跨境电商 indexes, and `queries/阿里巴巴国际站运营诊断.md` so Agent routing covers爆品总量、优品权益、橱窗加权/优化、关键词排名、星等级、商品力和营销力.
+- Validation: raw completeness OK for CH50-CH59 transcripts/OCR, `validate_ingest_contract.py` OK, strict placeholder scan had no unresolved placeholders, representative routing terms found. Video files remain local raw assets and are ignored for upload/commit.
 
 - Ingested 白泽国际站运营实战系统课 CH40-CH49 from local MP4 videos into the general wiki. Added raw Whisper transcripts, keyframe OCR, source inventory, coverage matrix, omission audit, formal page plan, and audit handoff updates.
 - Added five formal pages: `26-关键词分类与选词标准.md`, `27-词品匹配与关键词收集表.md`, `28-49分高质量产品发布方法.md`, `29-产品分组与营销型页面转化.md`, and `30-优品模型与实力优品提升.md`.
