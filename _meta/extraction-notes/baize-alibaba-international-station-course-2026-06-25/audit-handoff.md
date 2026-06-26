@@ -56,8 +56,8 @@ status: active
 
 ## Coverage Summary
 
-- Source units in main coverage matrix: 186.
-- formalized: 184.
+- Source units in main coverage matrix: 191.
+- formalized: 189.
 - merged: 0 in the main coverage matrix; repeated CH05 slide promise is classified as `merged` in `ch05/omission-audit.md`.
 - raw-only: 2 in the main coverage matrix, plus CH05 classroom transition and garbled OCR subtitle fragments in chapter omission audit.
 - omitted-with-reason: 0 in the main coverage matrix; CH08 APP-specific detail is marked omitted-with-reason in `ch08/omission-audit.md` because the course explicitly does not cover APP in this chapter.
@@ -65,13 +65,13 @@ status: active
 
 ## Current Status
 
-- Raw videos copied for CH01-CH39.
-- CH01-CH39 audio extracted.
-- CH01-CH39 keyframes extracted; CH06-CH39 OCR captured at 15-second intervals where available.
+- Raw videos copied for CH01-CH49.
+- CH01-CH49 audio extracted.
+- CH01-CH49 keyframes extracted; CH06-CH49 OCR captured at 15-second intervals where available.
 - `whisper-cpp` installed via Homebrew.
 - `ggml-large-v3-turbo.bin` downloaded to `/Users/pechen/.local/share/whisper.cpp/models/`.
-- CH01-CH39 raw Whisper transcripts archived under `raw/transcripts/baize-alibaba-international-station-course-2026-06-25/`.
-- Transcript-derived knowledge units formalized; CH10-CH12 add platform rules and search sorting, CH13 adds comprehensive strength indicators, CH14-CH15 add buyer preference and personalization, CH16-CH17 add first-level engine/showcase weighting, CH18-CH19 add store/product weight improvement, CH20-CH29 add compliance risk, store positioning, traffic track selection, product-line layout, target country, buyer persona, trust conversion, store type, and through-train focus, and CH30-CH39 add second-curve store planning, RTS/custom differentiation, product selection, rising-keyword selection, peer-store selection, Market Advisor case workflow, and keyword-root coverage.
+- CH01-CH49 raw Whisper transcripts archived under `raw/transcripts/baize-alibaba-international-station-course-2026-06-25/`.
+- Transcript-derived knowledge units formalized; CH10-CH12 add platform rules and search sorting, CH13 adds comprehensive strength indicators, CH14-CH15 add buyer preference and personalization, CH16-CH17 add first-level engine/showcase weighting, CH18-CH19 add store/product weight improvement, CH20-CH29 add compliance risk, store positioning, traffic track selection, product-line layout, target country, buyer persona, trust conversion, store type, and through-train focus, CH30-CH39 add second-curve store planning, RTS/custom differentiation, product selection, rising-keyword selection, peer-store selection, Market Advisor case workflow, and keyword-root coverage, and CH40-CH49 add keyword classification, keyword selection standards, true keyword-product matching, keyword collection tables, high-quality product publishing, product grouping, marketing detail/storefront pages, premium-product models, and strength-product improvement.
 
 ## Known Unresolved Items
 
@@ -84,6 +84,9 @@ status: active
 - CH10-CH19 search ranking, engine-tier, showcase, P4P, store type, star-level and product-type rules are course-derived and must be checked against the current Alibaba International Station backend before use as SOP.
 - CH20-CH29 platform-specific penalty rules, data-tool entrances, product-type entrances, RTS/half-managed definitions, export pass/gold supplier rights, and through-train tactics are course-derived and must be checked against the current Alibaba International Station backend before use as SOP.
 - CH30-CH39 platform-specific data-tool entrances, selected-word advisor charts, Market Advisor fields, Buyer Advisor fields, peer-store ranking views, and keyword-index outputs are course-derived and must be checked against the current Alibaba International Station backend before use as SOP.
+- CH40-CH49 keyword-index fields, product-publishing scoring rules, logistics-template limits, storefront/detail-page modules, 商品运营工作台 labels, 优品运营 rights, and strength-product thresholds are course-derived and must be checked against the current Alibaba International Station backend before use as SOP.
+- CH49 includes risky raw wording around `补询盘/补订单`; formal pages intentionally reframe this as compliant real-customer online conversion and do not recommend false inquiries/orders.
+- CH49 OCR has one noted Tesseract frame crash; remaining OCR, keyframes and ASR provide adequate coverage unless quote-level visual verification is required.
 
 ## Expected Future Agent Use Cases
 
@@ -96,6 +99,7 @@ status: active
 - Diagnose search ranking bottlenecks by splitting platform compliance, search matching, comprehensive strength, buyer preference, first-level engine access, and store/product weight.
 - Diagnose store planning, target country, buyer persona, product-line layout, trust conversion, export pass/gold supplier choice, and through-train focus problems.
 - Diagnose second-curve product/category expansion, RTS/custom resource allocation, product selection, trend/rising keyword selection, peer-store borrowing, Market Advisor product-country-keyword workflows, and keyword-root coverage.
+- Diagnose keyword type selection, P4P keyword waste, keyword-product mismatch, keyword table completeness, 4.5/4.9 product publishing gaps, product grouping, detail page/storefront conversion, premium-product quantity, and strength-product improvement.
 
 ## Self-Validation
 
@@ -119,4 +123,8 @@ status: active
 - Representative term search after CH30-CH39 update includes `第二曲线`, `RTS 与定制`, `七分选品`, `剥洋葱`, `涨幅关键词`, `热词榜`, `趋势榜`, `对标同行`, `市场参谋`, `买家参谋`, `词根`, and `关键词覆盖率` in formal pages, query entry, root index, and extraction notes.
 - Obsidian route audit after CH30-CH39 update: active vault path `/Users/pechen/wiki`, `trusted: true`; course index target page has 3 backlinks, 28 outgoing links, no target warnings; query entry has 14 backlinks, 25 outgoing links, no target warnings. Global unresolved-link output includes pre-existing unrelated vault issues.
 - Working directory cleanup after CH30-CH39 update: `_meta/working/baize-alibaba-international-station-course-2026-06-25` removed after raw transcripts, videos, keyframes, and OCR were archived.
+- Raw completeness after CH40-CH49 update: 30 transcript files for CH40-CH49 (`.raw.txt`, `.raw.srt`, `.raw.json`) present; OCR files present for all ten chapters.
+- Ingest contract after CH40-CH49 update: OK. `validate_ingest_contract.py --notes-dir ... --raw ...` returned `llm-wiki-ingest contract OK`.
+- Strict placeholder scan after CH40-CH49 update: `STRICT_PLACEHOLDER_ISSUES 0` across 31 formal course markdown files.
+- Representative term search after CH40-CH49 update includes `关键词分类`, `精准词`, `长尾词`, `词品匹配`, `关键词收集表`, `4.9`, `产品分组`, `营销型详情页`, `旺铺首页`, `优品总量`, and `实力优品` in formal pages, query entry, root index, and course index.
 - Remaining gaps: future later chapters may require denser keyframe extraction if screen content becomes slide-heavy.

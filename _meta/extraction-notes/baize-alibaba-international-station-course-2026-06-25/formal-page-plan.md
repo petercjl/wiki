@@ -28,6 +28,11 @@
 | `domains/电商运营/20-跨境电商/02-阿里巴巴国际站运营实战系统课/23-关键词趋势选品与涨幅词选品.md` | playbook | Convert keyword-index and rising-keyword methods into a repeatable trend-product selection workflow. | CH35-CH36. |
 | `domains/电商运营/20-跨境电商/02-阿里巴巴国际站运营实战系统课/24-对标同行选品与市场参谋爆品案例.md` | playbook | Convert peer-store selection and Market Advisor demonstration into a reusable product/country/keyword explosion workflow. | CH37-CH38. |
 | `domains/电商运营/20-跨境电商/02-阿里巴巴国际站运营实战系统课/25-关键词词根与覆盖率.md` | playbook | Convert keyword and root-word concepts into coverage and validation rules for later title/SEO modules. | CH39. |
+| `domains/电商运营/20-跨境电商/02-阿里巴巴国际站运营实战系统课/26-关键词分类与选词标准.md` | playbook | Convert keyword type classification and selection standards into a title/P4P keyword decision method. | CH40-CH41. |
+| `domains/电商运营/20-跨境电商/02-阿里巴巴国际站运营实战系统课/27-词品匹配与关键词收集表.md` | playbook | Convert true keyword-product matching and keyword collection sources into a reusable keyword-table structure. | CH42-CH43. |
+| `domains/电商运营/20-跨境电商/02-阿里巴巴国际站运营实战系统课/28-49分高质量产品发布方法.md` | playbook | Convert product publishing screens and scoring logic into a 4.5/4.9 quality-product publishing checklist. | CH44. |
+| `domains/电商运营/20-跨境电商/02-阿里巴巴国际站运营实战系统课/29-产品分组与营销型页面转化.md` | playbook | Convert product grouping, detail page and storefront page lessons into page-conversion diagnostics. | CH45-CH47. |
+| `domains/电商运营/20-跨境电商/02-阿里巴巴国际站运营实战系统课/30-优品模型与实力优品提升.md` | playbook | Convert premium-product model and strength-product growth routes into a compliant product-tier improvement method. | CH48-CH49. |
 | `queries/阿里巴巴国际站运营诊断.md` | query | Agent-use template for diagnosing store inquiry growth, operator capability, and learning gaps. | All chapters after formal compilation. |
 
 ## Fusion Notes
