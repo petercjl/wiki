@@ -59,7 +59,7 @@ Agent 不应直接进入执行。先输出 Loop 项目规划，至少包含：
 | CLI、小工具、Agent 工具链 | `domains/AI Agent工程/05-工具链/`，相关项目 README 或 AGENTS.md |
 | Skill 设计、Skill 优化 | [[domains/AI Agent工程/03-Skill设计/00-Skill世界观|Skill 世界观]] |
 | DMP 竞品分析 | [[domains/电商运营/02-淘宝天猫/04-达摩盘AI/01-达摩盘AI内部工具与竞品数据挖掘手册|达摩盘 AI 内部工具与竞品数据挖掘手册]] |
-| 聚宽量化策略 | [[queries/joinquant-strategy-agent-entry|聚宽策略 Agent 使用入口]] 和 [[domains/量化交易/04-量化理论基础/12-量化研究工作流与实验纪律|量化研究工作流与实验纪律]] |
+| 聚宽量化策略 | 到 `/Users/pechen/quant-trading-wiki` 读取 `queries/joinquant-strategy-agent-entry.md` 和 `domains/量化交易/04-量化理论基础/12-量化研究工作流与实验纪律.md` |
 | 视觉制作、生图生视频 | `domains/视觉制作/` 下对应视觉、AI 生图、AI 视频页面 |
 | 报告、课程、文档 | 相关 source package、写作/报告模板、截图或导出 QA 页面 |
 
