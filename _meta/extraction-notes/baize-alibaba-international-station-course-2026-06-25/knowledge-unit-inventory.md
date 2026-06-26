@@ -143,6 +143,36 @@
 | BZ-CH39-U01 | CH39 | 00:00-01:42 | 关键词是产品和买家匹配的桥梁，不懂关键词会导致询盘不精准和直通车浪费。 | keyword-definition | formalized | `25-关键词词根与覆盖率.md` |
 | BZ-CH39-U02 | CH39 | 01:42-04:01 | 词根是拓展关键词覆盖率的支点，不同同义词根能拓展出不同相关词。 | root-word-importance | formalized | `25-关键词词根与覆盖率.md` |
 | BZ-CH39-U03 | CH39 | 04:01-09:31 | 用中文词翻译、多英文形式、前台搜索和关键词指数验证词根，再导出相关词用于标题。 | root-word-validation | formalized | `25-关键词词根与覆盖率.md` |
+| BZ-CH40-U01 | CH40 | 00:00-03:25 | 关键词可分为行业词、核心词、精准词和长尾词，但边界会随行业变化。 | keyword-type-taxonomy | formalized | `26-关键词分类与选词标准.md` |
+| BZ-CH40-U02 | CH40 | 03:25-07:45 | 精准词和长尾词更能表达买家需求，通常比行业词和宽核心词更适合早期推广。 | precise-longtail-value | formalized | `26-关键词分类与选词标准.md` |
+| BZ-CH40-U03 | CH40 | 07:45-11:10 | 直通车应优先投精准词，再测试核心词和长尾词，宽行业词要谨慎或屏蔽。 | keyword-promotion-priority | formalized | `26-关键词分类与选词标准.md` |
+| BZ-CH41-U01 | CH41 | 00:00-03:10 | 关键词指数可按近 30 天或近 7 天、终端和国家筛选，用来导出相关词。 | keyword-index-workflow | formalized | `26-关键词分类与选词标准.md` |
+| BZ-CH41-U02 | CH41 | 03:10-06:45 | 选词要看搜索指数、点击率和卖家规模指数，避免只靠感觉选择。 | keyword-selection-metrics | formalized | `26-关键词分类与选词标准.md` |
+| BZ-CH41-U03 | CH41 | 06:45-10:32 | 目标国家偏好决定关键词是否适合投放；冷门行业可用相关词继续扩根。 | country-keyword-fit | formalized | `26-关键词分类与选词标准.md` |
+| BZ-CH42-U01 | CH42 | 00:00-02:30 | 真正的词品匹配不是字面同类，而是买家需求、国家偏好和产品偏好的匹配。 | true-keyword-product-fit | formalized | `27-词品匹配与关键词收集表.md` |
+| BZ-CH42-U02 | CH42 | 02:30-05:40 | 一个买家、一个关键词和一个产品之间是多对多关系，需要按买家偏好判断承接产品。 | many-to-many-fit | formalized | `27-词品匹配与关键词收集表.md` |
+| BZ-CH42-U03 | CH42 | 05:40-07:55 | 词品错配会造成直通车有点击无询盘，必须把关键词和目标国家偏好产品对应起来。 | p4p-fit-diagnosis | formalized | `27-词品匹配与关键词收集表.md` |
+| BZ-CH43-U01 | CH43 | 00:00-02:05 | 关键词收集应站内优先，站外工具只做趋势和款式补充。 | keyword-source-priority | formalized | `27-词品匹配与关键词收集表.md` |
+| BZ-CH43-U02 | CH43 | 02:05-09:50 | 关键词来源包括关键词指数、引流关键词、买家参谋、访客详情、产品 360、市场参谋、属性、前台和 APP 下拉词。 | keyword-source-map | formalized | `27-词品匹配与关键词收集表.md` |
+| BZ-CH43-U03 | CH43 | 09:50-13:06 | 收集后的关键词要按来源、词根、类型、国家、匹配产品和使用位置入表、去重和回写。 | keyword-table-fields | formalized | `27-词品匹配与关键词收集表.md` |
+| BZ-CH44-U01 | CH44 | 00:00-04:10 | 高质量产品发布依赖内容准确、属性完整、价格阶梯合理和物流合理。 | quality-product-standards | formalized | `28-49分高质量产品发布方法.md` |
+| BZ-CH44-U02 | CH44 | 04:10-10:40 | 发品流程包括类目、RTS/定制、标题、K1/K2/K3、分组、产地、品牌、型号和属性。 | product-publishing-flow | formalized | `28-49分高质量产品发布方法.md` |
+| BZ-CH44-U03 | CH44 | 10:40-15:40 | 系统属性、自定义属性、主图、颜色/款式图、视频和详情页模板共同影响匹配和质量分。 | product-content-completeness | formalized | `28-49分高质量产品发布方法.md` |
+| BZ-CH44-U04 | CH44 | 15:40-19:50 | 价格、MOQ、样品、箱规、重量、物流模板和目标国家设置会影响下单和 4.9 分。 | price-sample-logistics | formalized | `28-49分高质量产品发布方法.md` |
+| BZ-CH44-U05 | CH44 | 19:50-22:09 | 达不到 4.9 分时重点检查主图、详情页、样品和物流，至少争取 4.5 分以上。 | quality-score-diagnosis | formalized | `28-49分高质量产品发布方法.md` |
+| BZ-CH45-U01 | CH45 | 00:00-02:20 | 产品分组的目标是方便买家查找，并突出核心品类和爆品。 | product-grouping-purpose | formalized | `29-产品分组与营销型页面转化.md` |
+| BZ-CH45-U02 | CH45 | 02:20-05:42 | 分组不超过两级，核心品类放前面，分组内优质产品靠前排序并前台检查。 | product-grouping-workflow | formalized | `29-产品分组与营销型页面转化.md` |
+| BZ-CH46-U01 | CH46 | 00:00-02:05 | 营销型详情页应围绕买家需求，而不是运营或设计师自我表达。 | buyer-centered-detail-page | formalized | `29-产品分组与营销型页面转化.md` |
+| BZ-CH46-U02 | CH46 | 02:05-06:20 | 详情页模块包括优惠、参数、细节、关联产品、包装物流、定制能力、工厂实力和询盘引导。 | detail-page-modules | formalized | `29-产品分组与营销型页面转化.md` |
+| BZ-CH46-U03 | CH46 | 06:20-08:43 | 详情页制作要对标高转化同行、切短图、保存模板、测试并保留原模板。 | detail-page-testing | formalized | `29-产品分组与营销型页面转化.md` |
+| BZ-CH47-U01 | CH47 | 00:00-02:05 | 旺铺首页要让买家快速知道店铺卖什么、有什么优势、能解决什么问题。 | storefront-positioning | formalized | `29-产品分组与营销型页面转化.md` |
+| BZ-CH47-U02 | CH47 | 02:05-05:12 | 首页模块可包括首焦图、优惠、产品线、企业实力、服务能力、案例、橱窗和视频。 | storefront-modules | formalized | `29-产品分组与营销型页面转化.md` |
+| BZ-CH48-U01 | CH48 | 00:00-03:10 | 优品总量影响搜索、推荐、活动、站外投放、关键词排名和直通车成本。 | premium-product-value | formalized | `30-优品模型与实力优品提升.md` |
+| BZ-CH48-U02 | CH48 | 03:10-07:20 | 优品运营包含平台新品、爆品、实力优品以及国家甄选、服务力、内容、价格竞争力等品质。 | premium-product-model | formalized | `30-优品模型与实力优品提升.md` |
+| BZ-CH48-U03 | CH48 | 07:20-10:35 | 商品运营工作台要重点看规则、准爆品和离门槛最近的产品。 | product-workbench-diagnosis | formalized | `30-优品模型与实力优品提升.md` |
+| BZ-CH49-U01 | CH49 | 00:00-02:10 | 提升实力优品前要先理解规则，并优先选择平台新品、近 30 天新发品和低质量潜力品。 | strength-product-entry | formalized | `30-优品模型与实力优品提升.md` |
+| BZ-CH49-U02 | CH49 | 02:10-04:55 | 提升方法包括推广、新品加速、真实客户订单线上化、蓝海趋势款、扩品类、访客营销、EDM、RFQ 和活动。 | strength-product-actions | formalized | `30-优品模型与实力优品提升.md` |
+| BZ-CH49-U03 | CH49 | 04:55-06:20 | 实力优品需要持续维护，数据不达标可能掉回普通产品；风险动作要遵守平台规则。 | strength-product-maintenance | formalized | `30-优品模型与实力优品提升.md` |
 
 ## ASR Correction Notes
 
@@ -158,3 +188,4 @@
 - CH09 ASR `高铁` is corrected to `标题`; `常委词` is corrected to `长尾词`; `万户首页` is corrected to `旺铺首页`; `水盘` is corrected to `询盘`.
 - CH20-CH29 corrections: `清权` -> `侵权`; `现全` -> `限权`; `寻盘/巡盘/循环` -> `询盘`; `内幕/类幕` -> `类目`; `自动车/直动车` -> `直通车`; `搭贴时/搭贴室` -> `RTS`; `半拖` -> `半托管`; `NOQ` -> `MOQ`; CH28 `新品/精品店铺` -> `金品店铺`.
 - CH30-CH39 corrections: `寻盘/光盘/熏` -> `询盘`; `铁齿` -> `RTS`; `自动车/直动车` -> `直通车`; `热池榜` -> `热词榜`; `内幕` -> `类目`; `池根` -> `词根`; `词操` -> `实操`; `途合标题/主标` -> `组合标题/组标题`.
+- CH40-CH49 corrections: `详言页/详营业/响明页` -> `详情页`; `水盘/寻盘/巡盘` -> `询盘`; `房客营销` -> `访客营销`; `储窗` -> `橱窗`; `实例优品` -> `实力优品`; `报品` -> `爆品`; `一起引擎` -> `一级引擎`.

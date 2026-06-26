@@ -1029,3 +1029,11 @@
 - Removed current-version quant-trading formal pages, raw quant/API/source files, extraction notes, and JoinQuant query entry from this general wiki.
 - Updated routing rules in `/Users/pechen/.codex/AGENTS.md`, `AGENTS.md`, `SCHEMA.md`, and `index.md`.
 - Note: original GitHub history is intentionally left untouched; old commits may still contain quant-trading records.
+
+
+## 2026-06-26
+
+- Ingested 白泽国际站运营实战系统课 CH40-CH49 from local MP4 videos into the general wiki. Added raw Whisper transcripts, keyframe OCR, source inventory, coverage matrix, omission audit, formal page plan, and audit handoff updates.
+- Added five formal pages: `26-关键词分类与选词标准.md`, `27-词品匹配与关键词收集表.md`, `28-49分高质量产品发布方法.md`, `29-产品分组与营销型页面转化.md`, and `30-优品模型与实力优品提升.md`.
+- Updated the course index, root wiki index, 电商运营/跨境电商 indexes, and `queries/阿里巴巴国际站运营诊断.md` so Agent routing covers keyword classification, keyword-product fit, product publishing, page conversion, and premium-product improvement.
+- Validation: raw completeness OK for CH40-CH49 transcripts/OCR, `validate_ingest_contract.py` OK, strict placeholder scan `0`, representative routing terms found. Video files remain local raw assets and are ignored for upload/commit.

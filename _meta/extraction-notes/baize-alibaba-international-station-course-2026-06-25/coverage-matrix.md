@@ -170,5 +170,26 @@
 | BZ-CH39-U01 | CH39 00:00-01:42 | 关键词是产品和买家匹配的桥梁，不懂关键词会导致询盘不精准和直通车浪费。 | keyword-definition | `25-关键词词根与覆盖率.md` | formalized | |
 | BZ-CH39-U02 | CH39 01:42-04:01 | 词根是拓展关键词覆盖率的支点，不同同义词根能拓展出不同相关词。 | root-word-importance | `25-关键词词根与覆盖率.md` | formalized | |
 | BZ-CH39-U03 | CH39 04:01-09:31 | 用中文词翻译、多英文形式、前台搜索和关键词指数验证词根，再导出相关词用于标题。 | root-word-validation | `25-关键词词根与覆盖率.md` | formalized | ASR `池根` corrected to `词根`. |
+| BZ-CH40-U01 | CH40 | 关键词可分为行业词、核心词、精准词和长尾词，但边界会随行业变化。 | keyword-type-taxonomy | `26-关键词分类与选词标准.md` | formalized | |
+| BZ-CH40-U02 | CH40 | 精准词和长尾词更适合表达买家需求，宽行业词早期推广风险更高。 | precise-longtail-value | `26-关键词分类与选词标准.md` | formalized | |
+| BZ-CH40-U03 | CH40 | 直通车应优先投精准词，再测试核心词和长尾词，宽行业词要谨慎或屏蔽。 | keyword-promotion-priority | `26-关键词分类与选词标准.md` | formalized | |
+| BZ-CH41-U01 | CH41 | 关键词指数、点击率、卖家规模指数、时间窗口和国家偏好共同决定选词质量。 | keyword-selection-metrics | `26-关键词分类与选词标准.md` | formalized | |
+| BZ-CH41-U02 | CH41 | 冷门行业可用相关词继续扩根，避免词库不足。 | related-word-expansion | `26-关键词分类与选词标准.md` | formalized | |
+| BZ-CH42-U01 | CH42 | 真正的词品匹配要按买家偏好、国家偏好和产品款式判断，不是字面同类。 | true-keyword-product-fit | `27-词品匹配与关键词收集表.md` | formalized | |
+| BZ-CH42-U02 | CH42 | 买家、关键词和产品之间是多对多关系，错误承接会造成有点击无询盘。 | many-to-many-fit | `27-词品匹配与关键词收集表.md` | formalized | |
+| BZ-CH43-U01 | CH43 | 关键词收集站内优先、站外补充，所有词都要入表去重并回写使用位置。 | keyword-source-priority | `27-词品匹配与关键词收集表.md` | formalized | |
+| BZ-CH43-U02 | CH43 | 关键词来源包括关键词指数、引流关键词、买家参谋、访客详情、产品 360、市场参谋、属性、前台下拉词和推广建议词。 | keyword-source-map | `27-词品匹配与关键词收集表.md` | formalized | |
+| BZ-CH44-U01 | CH44 | 高质量产品发布依赖内容准确、属性完整、价格阶梯合理和物流合理。 | quality-product-standards | `28-49分高质量产品发布方法.md` | formalized | |
+| BZ-CH44-U02 | CH44 | 类目、RTS/定制、标题、K1/K2/K3、分组、产地、品牌、型号、属性、图片和视频共同决定发品质量。 | product-publishing-flow | `28-49分高质量产品发布方法.md` | formalized | |
+| BZ-CH44-U03 | CH44 | 价格、MOQ、样品、箱规、重量、物流模板和目标国家设置会影响下单和 4.9 分。 | price-sample-logistics | `28-49分高质量产品发布方法.md` | formalized | |
+| BZ-CH44-U04 | CH44 | 达不到 4.9 分时重点检查主图、详情页、样品和物流，至少争取 4.5 分以上。 | quality-score-diagnosis | `28-49分高质量产品发布方法.md` | formalized | |
+| BZ-CH45-U01 | CH45 | 产品分组要方便买家查找，层级不超过两级，核心品类和优质产品靠前。 | product-grouping-workflow | `29-产品分组与营销型页面转化.md` | formalized | |
+| BZ-CH46-U01 | CH46 | 营销型详情页要围绕买家需求组织参数、细节、关联产品、包装物流、定制能力和信任证据。 | detail-page-modules | `29-产品分组与营销型页面转化.md` | formalized | |
+| BZ-CH46-U02 | CH46 | 详情页制作要对标高转化同行、切短图、保存模板、测试并保留原模板。 | detail-page-testing | `29-产品分组与营销型页面转化.md` | formalized | |
+| BZ-CH47-U01 | CH47 | 旺铺首页要展示主产品、优势、服务、实力、案例、橱窗和视频，承接询盘转化。 | storefront-modules | `29-产品分组与营销型页面转化.md` | formalized | ASR `储窗` corrected to `橱窗`. |
+| BZ-CH48-U01 | CH48 | 优品总量影响搜索、推荐、活动、站外投放、关键词排名和直通车成本。 | premium-product-value | `30-优品模型与实力优品提升.md` | formalized | |
+| BZ-CH48-U02 | CH48 | 优品运营包含平台新品、爆品、实力优品以及国家甄选、服务力、内容、价格竞争力等品质。 | premium-product-model | `30-优品模型与实力优品提升.md` | formalized | ASR `实例优品/报品` corrected to `实力优品/爆品`. |
+| BZ-CH49-U01 | CH49 | 提升实力优品可通过推广、新品加速、真实客户订单线上化、蓝海趋势款、扩品类、访客营销、EDM、RFQ 和活动。 | strength-product-actions | `30-优品模型与实力优品提升.md` | formalized | Risky raw wording reframed as compliant real-customer online conversion. |
+| BZ-CH49-U02 | CH49 | 实力优品需要持续维护，数据不达标可能掉回普通产品。 | strength-product-maintenance | `30-优品模型与实力优品提升.md` | formalized | |
 | BZ-OCR-WATERMARK | keyframes | `BAIZEYUNYINGBIJI` watermark/social handle | source-context | raw assets only | raw-only | Repeated source branding, not operational knowledge. |
 | BZ-OCR-NOISE | keyframes | Garbled OCR duplicates of cover/subtitle text | visual-noise | raw assets only | raw-only | Reliable title/outcome anchors are formalized; raw frames preserved. |
