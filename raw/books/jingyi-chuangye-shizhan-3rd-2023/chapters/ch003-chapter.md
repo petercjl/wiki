@@ -1,0 +1,21 @@
+---
+source_id: ch003
+source_file: EPUB/xhtml/Section0001_0001.xhtml
+title: "版权声明"
+---
+
+# 版权声明
+
+# 版权声明
+
+Copyright © 2022 Ash Maurya.
+
+Simplified Chinese Edition, jointly published by O'Reilly Media, Inc. and Posts & Telecom Press, 2023. Authorized translation of the English edition, 2022 O'Reilly Media, Inc., the owner of all rights to publish and sell the same.
+
+All rights reserved including the rights of reproduction in whole or in part in any form.
+
+英文原版由 O'Reilly Media, Inc. 出版，2022。
+
+简体中文版由人民邮电出版社有限公司出版，2023。英文原版的翻译得到 O'Reilly Media, Inc. 的授权。此简体中文版的出版和销售得到出版权和销售权的所有者——O'Reilly Media, Inc. 的许可。
+
+版权所有，未得书面许可，本书的任何部分和全部不得以任何形式重制。

@@ -2,7 +2,7 @@
 title: 产品战略与大单品
 type: index
 created: 2026-06-14
-updated: 2026-06-14
+updated: 2026-06-27
 domain: 品牌策略
 tags: [brand-strategy, product-strategy, hero-product]
 status: active
@@ -15,3 +15,5 @@ status: active
 - [[domains/品牌策略/03-产品战略与大单品/01-电商品牌心智产品力与大单品战略/index|电商品牌心智产品力与大单品战略]]
 - [[domains/品牌策略/03-产品战略与大单品/02-品牌大单品打造与产品企划营销/index|品牌大单品打造与产品企划营销]]
 - [[domains/品牌策略/03-产品战略与大单品/03-品牌产品营销与拓品策略/index|品牌产品营销与拓品策略]]
+- [[domains/品牌策略/03-产品战略与大单品/04-精益创业实战验证系统/index|精益创业实战验证系统]]
+- [[domains/品牌策略/03-产品战略与大单品/05-商业模式设计系统/index|商业模式设计系统]]

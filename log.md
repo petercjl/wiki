@@ -1141,6 +1141,18 @@
 - Notes: 将 7 个案例抽象为“产品/主题诊断 -> 问题类型分类 -> 检索相似案例 -> 卖点翻译成叙事命题 -> 人物/场景/冲突/产品入场 -> 分镜图片 -> 图生视频和剪辑取舍 -> 案例回写”的规划主线，并明确未来 skill 应先做案例检索和创意命题判断，而不是直接生成脚本。
 ## 2026-06-27
 
+- Ingested `精益创业实战（原书第3版）` EPUB by Ash Maurya into the general wiki under 品牌策略 / 产品战略与大单品. Archived the EPUB, metadata, TOC, manifest, and 47 extracted chapter files at `raw/books/jingyi-chuangye-shizhan-3rd-2023/`; `manifest.md` lists 125 image paths preserved inside `source.epub`.
+- Created extraction notes at `_meta/extraction-notes/jingyi-chuangye-shizhan-3rd-2023/`, including source profile, source inventory, segment plan, chapter inventory, knowledge-unit inventory, knowledge architecture plan, formal page plan, coverage matrix, omission audit, source-to-page map, and audit handoff.
+- Added eight formal pages: `index.md`, `01-增长力优先与风险排序.md`, `02-精益画布与三类压力测试.md`, `03-客户受力分析与问题访谈.md`, `04-90天周期与黑手党提案.md`, `05-MVP发布与客户满意循环.md`, `06-客户工厂与增长火箭.md`, and `07-Agent使用模板：精益创业验证诊断.md`.
+- Updated 品牌策略 indexes and root `index.md` so Agent routing covers 精益画布、需求性/发展性/可行性压力测试、客户受力分析、90 天周期、黑手党提案、MVP、客户满意循环、客户工厂 and 增长火箭.
+- Validation: `validate_book_ingest.py` errors 0 with one false-positive Agent-template warning due to Chinese filename, `validate_ingest_contract.py` OK with synthesis-related verbatim warnings, placeholder scan `SHELL: 0` and `THIN: 0`, route audit found backlinks from root and product-strategy indexes.
+
+- Ingested `商业模式新生代` EPUB by Alexander Osterwalder, Yves Pigneur and coauthors into the general wiki under 品牌策略 / 产品战略与大单品 / 商业模式设计系统. Archived the EPUB, metadata, TOC, manifest, and 255 extracted spine chapter files at `raw/books/shangye-moshi-xinshengdai-2011/`; `manifest.md` lists 243 image paths preserved inside `source.epub`.
+- Created extraction notes at `_meta/extraction-notes/shangye-moshi-xinshengdai-2011/`, including source profile, source inventory, segment plan, chapter inventory, knowledge-unit inventory, knowledge architecture plan, formal page plan, coverage matrix, omission audit, source-to-page map, and audit handoff.
+- Added eight formal pages: `index.md`, `01-商业模式画布九个构造块.md`, `02-商业模式式样库.md`, `03-商业模式设计技法.md`, `04-商业模式战略评估.md`, `05-商业模式设计五阶段流程.md`, `06-案例锚点库：商业模式新生代.md`, and `07-Agent使用模板：商业模式诊断与重构.md`.
+- Updated 品牌策略 indexes and root `index.md` so Agent routing covers 商业模式画布、九个构造块、非绑定/长尾/多边平台/免费/开放式模式、客户洞察、What-if、原型、故事、情景推测、环境四力、画布式 SWOT、蓝海四项行动、多模式管理 and 五阶段商业模式设计流程.
+- Validation: `validate_book_ingest.py` errors 0 with one false-positive Agent-template warning due to Chinese filename, `validate_ingest_contract.py` OK after checking all formal pages through a temporary merged file, placeholder scan `SHELL: 0` and `THIN: 0`, route audit found backlinks from root and product-strategy indexes.
+
 - Ingested 白泽国际站运营实战系统课 CH100-CH113 from local MP4 videos into the general wiki. Added raw Whisper transcripts, keyframe OCR, source inventory, knowledge-unit inventory, coverage matrix, omission audit, formal page plan, and audit handoff updates.
 - Added seven formal pages: `61-标题精细化组合与批量覆盖.md`, `62-K1K2K3流量补充与词库覆盖.md`, `63-RTS与定制产品标题差异化.md`, `64-中性爆款标题与同行借力标题.md`, `65-蓝海型号国家偏好爆款标题.md`, `66-潜力产品标题优化成爆款.md`, and `67-标题方法选择避坑与爆款矩阵.md`.
 - Updated the course index, root wiki index, 电商运营/跨境电商 indexes, and `queries/阿里巴巴国际站运营诊断.md` so Agent routing covers批量标题组合、K1/K2/K3、我的词库、RTS/定制标题、中性标题、同行借力、蓝海/型号/国家偏好标题、潜力品标题优化、标题方法选择、标题三大坑 and 爆款矩阵. CH100 and CH113 filename/content mismatches were recorded and formalized by transcript content.

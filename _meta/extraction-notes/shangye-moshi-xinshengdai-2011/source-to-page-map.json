@@ -1,0 +1,63 @@
+{
+  "book": "商业模式新生代",
+  "raw_source": "raw/books/shangye-moshi-xinshengdai-2011/source.epub",
+  "mappings": [
+    {
+      "source_unit_id": "BMG-FM",
+      "source_title": "frontmatter",
+      "target_pages": ["domains/品牌策略/03-产品战略与大单品/05-商业模式设计系统/index.md"],
+      "status": "merged"
+    },
+    {
+      "source_unit_id": "BMG-M1",
+      "source_title": "画布",
+      "target_pages": [
+        "domains/品牌策略/03-产品战略与大单品/05-商业模式设计系统/01-商业模式画布九个构造块.md",
+        "domains/品牌策略/03-产品战略与大单品/05-商业模式设计系统/06-案例锚点库：商业模式新生代.md"
+      ],
+      "status": "formalized"
+    },
+    {
+      "source_unit_id": "BMG-M2",
+      "source_title": "式样",
+      "target_pages": [
+        "domains/品牌策略/03-产品战略与大单品/05-商业模式设计系统/02-商业模式式样库.md",
+        "domains/品牌策略/03-产品战略与大单品/05-商业模式设计系统/06-案例锚点库：商业模式新生代.md"
+      ],
+      "status": "formalized"
+    },
+    {
+      "source_unit_id": "BMG-M3",
+      "source_title": "设计",
+      "target_pages": ["domains/品牌策略/03-产品战略与大单品/05-商业模式设计系统/03-商业模式设计技法.md"],
+      "status": "formalized"
+    },
+    {
+      "source_unit_id": "BMG-M4",
+      "source_title": "战略",
+      "target_pages": [
+        "domains/品牌策略/03-产品战略与大单品/05-商业模式设计系统/04-商业模式战略评估.md",
+        "domains/品牌策略/03-产品战略与大单品/05-商业模式设计系统/06-案例锚点库：商业模式新生代.md"
+      ],
+      "status": "formalized"
+    },
+    {
+      "source_unit_id": "BMG-M5",
+      "source_title": "流程",
+      "target_pages": [
+        "domains/品牌策略/03-产品战略与大单品/05-商业模式设计系统/05-商业模式设计五阶段流程.md",
+        "domains/品牌策略/03-产品战略与大单品/05-商业模式设计系统/07-Agent使用模板：商业模式诊断与重构.md"
+      ],
+      "status": "formalized"
+    },
+    {
+      "source_unit_id": "BMG-M6",
+      "source_title": "展望",
+      "target_pages": [
+        "domains/品牌策略/03-产品战略与大单品/05-商业模式设计系统/index.md",
+        "domains/品牌策略/03-产品战略与大单品/05-商业模式设计系统/07-Agent使用模板：商业模式诊断与重构.md"
+      ],
+      "status": "merged"
+    }
+  ]
+}
