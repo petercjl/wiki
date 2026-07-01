@@ -1,0 +1,85 @@
+---
+source_id: ch006
+source_file: index_split_004.html
+title: "Document Outline"
+---
+
+# Document Outline
+
+# Document Outline
+
+- Cover
+
+- Title Page
+
+- Copyright
+
+- Dedication
+
+- Acknowledgments
+
+- Table of Contents
+
+- Introduction
+
+- About the Photographs and Storyboards Used in This Book
+
+- Part I — Visualization: The Process
+- 1. Visualization
+
+- 2. Production Design
+
+- 3. Storyboards
+
+- 4. Visualization: Tools and Techniques
+
+- 5. The Production Cycle
+
+- Part II — Elements of the Continuity Style
+- 6. Composing Shots: Spatial Connections
+
+- 7. Editing: Temporal Connections
+
+- Part III — The Workshop
+- 8. The Basics Applied
+
+- 9. Staging Dialogue Sequences
+
+- 10. Dialogue Staging with Three Subjects
+
+- 11. Four or More Player Dialogue Stagings
+
+- 12. Mobile Staging
+
+- 13. Depth of the Frame
+
+- 14. Camera Angles
+
+- 15. Open and Closed Framings
+
+- 16. Point of View
+
+- Part IV — The Moving Camera
+- 17. The Pan
+
+- 18. The Crane Shot
+
+- 19. The Tracking Shot
+
+- 20. Tracking Shot Choreography
+
+- 21. Transitions
+
+- 22. Format
+
+- 23. Shadowing
+
+- 24. Short Cuts
+
+- 25. Parting Shots
+
+- Glossary
+
+- Recommended Reading
+
+- About the Author

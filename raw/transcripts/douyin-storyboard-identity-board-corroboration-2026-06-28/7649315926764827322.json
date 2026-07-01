@@ -1,0 +1,175 @@
+{
+	"systeminfo": "WHISPER : COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | FP16_VA = 1 | MATMUL_INT8 = 1 | DOTPROD = 1 | SME = 1 | ACCELERATE = 1 | OPENMP = 1 | REPACK = 1 | ",
+	"model": {
+		"type": "large",
+		"multilingual": true,
+		"vocab": 51866,
+		"audio": {
+			"ctx": 1500,
+			"state": 1280,
+			"head": 20,
+			"layer": 32
+		},
+		"text": {
+			"ctx": 448,
+			"state": 1280,
+			"head": 20,
+			"layer": 4
+		},
+		"mels": 128,
+		"ftype": 1
+	},
+	"params": {
+		"model": "/Users/pechen/.local/share/whisper.cpp/models/ggml-large-v3-turbo.bin",
+		"language": "zh",
+		"translate": false
+	},
+	"result": {
+		"language": "zh"
+	},
+	"transcription": [
+		{
+			"timestamps": {
+				"from": "00:00:00,000",
+				"to": "00:00:02,000"
+			},
+			"offsets": {
+				"from": 0,
+				"to": 2000
+			},
+			"text": "你还在用那种狠肃的角色三世图吗?"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:02,000",
+				"to": "00:00:05,800"
+			},
+			"offsets": {
+				"from": 2000,
+				"to": 5800
+			},
+			"text": "今天将你用Image 2做出这种具有电影艺术风格的角色身份版,"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:05,800",
+				"to": "00:00:07,500"
+			},
+			"offsets": {
+				"from": 5800,
+				"to": 7500
+			},
+			"text": "相较于之前的角色三世图,"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:07,500",
+				"to": "00:00:09,460"
+			},
+			"offsets": {
+				"from": 7500,
+				"to": 9460
+			},
+			"text": "这种类型的更具艺术感、电影感,"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:09,460",
+				"to": "00:00:11,640"
+			},
+			"offsets": {
+				"from": 9460,
+				"to": 11640
+			},
+			"text": "像是导演在为电影选角时看的母卡,"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:11,640",
+				"to": "00:00:13,580"
+			},
+			"offsets": {
+				"from": 11640,
+				"to": 13580
+			},
+			"text": "我觉得无论是从设计美学上来说,"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:13,580",
+				"to": "00:00:14,960"
+			},
+			"offsets": {
+				"from": 13580,
+				"to": 14960
+			},
+			"text": "还是角色丰满度来说,"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:14,960",
+				"to": "00:00:15,960"
+			},
+			"offsets": {
+				"from": 14960,
+				"to": 15960
+			},
+			"text": "是更生一筹的,"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:15,960",
+				"to": "00:00:17,520"
+			},
+			"offsets": {
+				"from": 15960,
+				"to": 17520
+			},
+			"text": "本次的提示词汇比较多,"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:17,520",
+				"to": "00:00:20,080"
+			},
+			"offsets": {
+				"from": 17520,
+				"to": 20080
+			},
+			"text": "完整的提示词我已经复制好放在粉丝群,"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:20,080",
+				"to": "00:00:21,360"
+			},
+			"offsets": {
+				"from": 20080,
+				"to": 21360
+			},
+			"text": "找到后提我发给你,"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:21,360",
+				"to": "00:00:22,880"
+			},
+			"offsets": {
+				"from": 21360,
+				"to": 22880
+			},
+			"text": "你就可以直接复制出图,"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:23,220",
+				"to": "00:00:24,100"
+			},
+			"offsets": {
+				"from": 23220,
+				"to": 24100
+			},
+			"text": "赶快去试试吧"
+		}
+	]
+}

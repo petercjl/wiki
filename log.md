@@ -3,6 +3,61 @@
 > Chronological record of all wiki actions. Append-only.
 > Format: `## [YYYY-MM-DD] action | subject`
 
+## [2026-06-28] ingest | 抖音故事板铁三角 AI 视频控制法
+- Source: Douyin aweme `7648163855390149888`, author `N次方Ai（华小二团队）`, published 2026-06-06 16:27 CST, captured 2026-06-28.
+- Adapter: `llm-wiki-ingest/adapters/transcript.md` with video-course branch, full MP4 source, Whisper ASR, and keyframe visual evidence.
+- Archived full video, extracted audio, dycli detail JSON/raw JSONL, visible page text, structured chapter summary, Whisper ASR transcript, keyframes, contact sheet, and OCR attempt under `raw/videos/douyin-storyboard-triangle-ai-video-2026-06-28/`, `raw/transcripts/douyin-storyboard-triangle-ai-video-2026-06-28/`, and `raw/assets/douyin-storyboard-triangle-ai-video-2026-06-28/`.
+- Created extraction notes at `_meta/extraction-notes/douyin-storyboard-triangle-ai-video-2026-06-28/`, including source profile, source inventory, knowledge-unit inventory, coverage matrix, omission audit, formal page plan, and audit handoff.
+- Added formal playbook `domains/视觉制作/06-AI视频/07-故事板铁三角AI视频控制法.md` and updated 视觉制作 / AI 视频 indexes plus root `index.md`. The compiled method separates source retrieval metadata from durable method knowledge: storyboards control shots, identity boards control character consistency, and style/effect images control visual tone before concise video prompts.
+
+## [2026-06-28] update | 抖音故事板/身份板补充搜索与视觉证据
+- Source: Douyin search corpus for `AI视频 故事板` and `故事板 身份板`, captured 2026-06-28 with `dycli search cdp`; 93 unique candidates after deduplication and excluding the previously ingested aweme.
+- Selected four videos for corroboration and supplementation: `7643404202686020081` by 居鲁仕, `7651618528713871355` by 李一帆, `7647464806470962447` by 隋校长 AIGC, and `7649315926764827322` by Eliot学长.
+- Archived ranked search results, selected source summaries, full MP4 videos, dycli detail JSON/raw JSONL, page text, Whisper ASR transcripts, general keyframes, named visual evidence screenshots, and a contact sheet under `raw/videos/douyin-storyboard-identity-board-corroboration-2026-06-28/`, `raw/transcripts/douyin-storyboard-identity-board-corroboration-2026-06-28/`, and `raw/assets/douyin-storyboard-identity-board-corroboration-2026-06-28/`.
+- Created extraction notes at `_meta/extraction-notes/douyin-storyboard-identity-board-corroboration-2026-06-28/`, including source profile, knowledge-unit inventory, coverage matrix, visual evidence index, and audit handoff.
+- Extended `domains/视觉制作/06-AI视频/07-故事板铁三角AI视频控制法.md` with cross-source corroboration: high-engagement tutorials confirm the control-asset split and add director-table spatial staging, commercial reference-video structure transfer, product/person/scene asset libraries, and cinematic character-card identity boards.
+- Notes: For short-video ingestion, visual-form-dependent knowledge must include screenshots as source units. Identity-board layout, motion-pose grids, storyboard arrows, director-table placement, asset libraries, and cinematic role cards cannot be fully recovered from ASR alone.
+
+## [2026-06-28] restructure | AI 视频控制资产系统知识页
+- Reorganized `domains/视觉制作/06-AI视频/07-故事板铁三角AI视频控制法.md` from a single-source-plus-supplements structure into an integrated, self-updating knowledge page titled `AI视频控制资产系统：身份板、故事板、导演台与素材库`.
+- Fixed visual evidence embeds by switching from absolute filesystem Markdown image paths to vault-relative Obsidian embeds such as `![[raw/assets/...]]`, because the wiki view could not resolve the absolute `/Users/pechen/wiki/...` image paths.
+- Updated the AI 视频 index, 视觉制作 index, and root index descriptions so future Agent routing treats the page as a durable control-asset system rather than a patchwork of Douyin source notes.
+- Notes: Source traceability remains in evidence packages and extraction notes, but formal knowledge is now organized by reusable control assets: identity board, storyboard arrows, director table, commercial asset library, cinematic role card, style/effect image, prompt role, workflow templates, failure modes, and future iteration rules.
+
+## [2026-06-28] update | 商品素材库与电商产品一致性
+- Revisited Douyin aweme `7647464806470962447` by 隋校长 AIGC to deepen the ecommerce product/material library segment.
+- Extracted additional visual evidence frames around the asset-library segment, including replacement workflow, required material types, clothing-specific assets, and a contact sheet under `raw/assets/douyin-storyboard-identity-board-corroboration-2026-06-28/visual-evidence/`.
+- Expanded the formal page section from generic `商业素材库` to ecommerce-specific `商品素材库：产品一致性与正确性优先`, emphasizing product white-background images, detail images, use-scene images, different-angle images, size/proportion references, forbidden-change fields, and clothing-specific assets.
+- Notes: For ecommerce AI video, product correctness is a first-order constraint. Storyboards organize shots, but the product asset library ensures the right product appears in those shots without deformation, color drift, structural errors, or SKU confusion.
+
+## [2026-06-28] update | 产品操作资产与机构动作参考
+- Added `产品操作资产：让模型理解真实机构` to `domains/视觉制作/06-AI视频/07-故事板铁三角AI视频控制法.md`, prompted by a double-drink-lid thermos cup example where static product images did not make the two opening/drinking methods understandable to video-generation agents.
+- Searched Douyin with `dycli` for product consistency, operation video reference, product deformation, and ecommerce AI-video methods. Relevant results included Image2 storyboard for product consistency, reference-image preprocessing for product deformation, multi-angle product visual assets, and complex-product consistency methods.
+- Notes: For ecommerce products with moving mechanisms, product consistency includes operation consistency. Use operation demonstration videos, extracted operation keyframes, component labels, state comparison diagrams, and forbidden-misread lists to teach the model the product state machine, not only the product appearance.
+
+## [2026-06-28] test | 双饮杯盖视频参考与产品操作资产
+- Source: Douyin favorite first item, aweme `7654020418310786330`, author `泰来百货`, captured 2026-06-28 with `dycli favorites cdp-find` and `dycli video cdp-detail`.
+- Archived the downloaded MP4, ASR transcript, three operation-focused video segments, dense contact sheets, and four named evidence frames under `raw/videos/douyin-cup-open-reference-test-2026-06-28/`.
+- Updated `domains/视觉制作/06-AI视频/07-故事板铁三角AI视频控制法.md` inside the existing `产品操作资产` section, using the双饮杯盖 as a concrete proof that video reference can capture hand action, opening direction, state transition, and component identity better than static product photos.
+- Notes: Key intervals are `00:00-00:15.6` for the first dual-opening explanation and `00:22-00:38.2` for the close-up sequence that labels the coffee口 and hidden straw.
+
+## [2026-06-28] ingest | Film Directing Shot by Shot 导演分镜书
+- Source: `/Users/pechen/Downloads/Film Directing Shot by Shot - 25th Anniversary Edition (Steve D. Katz) (z-library.sk, 1lib.sk, z-lib.sk).epub`.
+- Adapter: `llm-wiki-ingest/adapters/book.md`.
+- Archived raw EPUB, metadata, TOC, manifest, 6 extracted spine markdown files, and 410 image references at `raw/books/film-directing-shot-by-shot-2019/`.
+- Created extraction notes at `_meta/extraction-notes/film-directing-shot-by-shot-2019/`, including source profile, source inventory, segment plan, chapter inventory, knowledge-unit inventory, coverage matrix, omission audit, formal page plan, source-to-page map, and audit handoff.
+- Created AI video director knowledge system under `domains/视觉制作/06-AI视频/20-导演知识系统/`, with 11 formal pages covering visualization, visual design/storyboards, production-cycle asset management, spatial continuity, temporal editing, shot flow, character staging, depth/camera angle/POV, moving camera, transitions/format/shadowing, and AI video extension.
+- Created Agent template: `domains/视觉制作/06-AI视频/08-Agent使用模板：AI视频导演分镜.md`.
+- Updated AI video directing pages: `03-导演式镜头设计方法.md`, `04-商业短视频摄影与运镜语法.md`, `05-AI视频导演Prompt模板.md`, and `06-AI视频导演学习资料与数据集.md`.
+- Updated the AI video index, 视觉制作 domain index, and root `index.md` so future Agent routing includes Katz's visualization, storyboarding, continuity, staging, depth, POV, moving-camera, camera-cutting and coverage concepts.
+
+## [2026-06-27] update | AI视频导演镜头设计知识补充
+- Added an AI video directing knowledge supplement under `domains/视觉制作/06-AI视频/` based on public filmmaking resources, AI video prompt docs, GitHub datasets, and recent cinematography benchmarks.
+- Created four formal pages: `03-导演式镜头设计方法.md`, `04-商业短视频摄影与运镜语法.md`, `05-AI视频导演Prompt模板.md`, and `06-AI视频导演学习资料与数据集.md`.
+- Updated `02-AI商业短视频规划方法.md` with a director-style shot design step between storyboard images and video generation.
+- Updated the OPPO Find X9 Ultra case with a dedicated `导演与镜头语言拆解` section, emphasizing cold/warm, far/near, movement/static contrast and product entry through action.
+- Updated the AI video index, visual production domain index, and root wiki index so future Agent routing includes director shot design, cinematography grammar, AI video director prompts, and study resources.
+
 ## [2026-06-14] reorganize | 品牌策略与视觉制作知识域边界改造
 - Created: `_meta/reorganization/brand-strategy-domains/视觉制作-boundary-reorganization-plan-2026-06-14.md`
 - Renamed: `domains/brand-strategy/` to `domains/品牌策略/`; `domains/视觉制作/` to `domains/视觉制作/`.
@@ -1184,3 +1239,28 @@
 - Added five formal pages: `26-关键词分类与选词标准.md`, `27-词品匹配与关键词收集表.md`, `28-49分高质量产品发布方法.md`, `29-产品分组与营销型页面转化.md`, and `30-优品模型与实力优品提升.md`.
 - Updated the course index, root wiki index, 电商运营/跨境电商 indexes, and `queries/阿里巴巴国际站运营诊断.md` so Agent routing covers keyword classification, keyword-product fit, product publishing, page conversion, and premium-product improvement.
 - Validation: raw completeness OK for CH40-CH49 transcripts/OCR, `validate_ingest_contract.py` OK, strict placeholder scan `0`, representative routing terms found. Video files remain local raw assets and are ignored for upload/commit.
+
+## [2026-07-01] ingest | 中国快递收费方式基础
+
+- Source: 2026-07-01 公开资料整理与用户补充要求，raw archived at `raw/webpages/china-express-pricing-2026-07-01/source-notes.md`.
+- Adapter: `llm-wiki-ingest` unknown-source/web research notes.
+- Created extraction notes: `_meta/extraction-notes/china-express-pricing-basics-2026-07-01/` with source profile, coverage matrix, omission audit, and audit handoff.
+- Created formal pages: `domains/电商运营/01-通用电商方法/06-物流履约与快递成本/index.md`, `domains/电商运营/01-通用电商方法/06-物流履约与快递成本/01-中国快递收费方式基础.md`, and `queries/中国快递收费与物流成本诊断.md`.
+- Updated navigation: `domains/电商运营/01-通用电商方法/index.md`, `domains/电商运营/index.md`, and root `index.md`.
+- Notes: 新增“面单费”作为独立知识点；所有快递公司计费单位、体积重系数、价格和面单相关费用均标注为动态示例，实际以最新官方价目、平台后台、网点确认、ERP/打单系统账单和月结合同为准。
+
+## [2026-07-01] audit | Query entry coverage for Agent routing
+
+- Created audit report: `_meta/audits/query-entry-coverage-2026-07-01.md`.
+- Finding: `queries/` has 16 entry pages and 133 wikilink routes; heuristic scan found 98 high-priority recurring-task or multi-page topics that likely need query entry review.
+- Updated LLM Wiki skills in both source and installed copies so future ingest/recompile/audit workflows must create or update query entry pages when knowledge supports recurring Agent use, or record an explicit no-query reason.
+
+## [2026-07-01] ingest | 抖音 AI 长视频连续性组接方法
+
+- Source: 李一帆 2026-06-21 抖音视频《别再硬续15秒了！AI长视频丝滑连贯的3个方法》，aweme id `7653852870844464113`.
+- Adapter: `llm-wiki-ingest/adapters/transcript.md` with video-course branch; detail captured through `dycli`, media archived from the captured video URL, ASR produced with local `whisper-cli`.
+- Created raw media and evidence: `raw/videos/douyin-ai-long-video-continuity-three-methods-2026-06-21/`, `raw/transcripts/douyin-ai-long-video-continuity-three-methods-2026-06-21/`, and `raw/assets/douyin-ai-long-video-continuity-three-methods-2026-06-21/`.
+- Created extraction notes: `_meta/extraction-notes/douyin-ai-long-video-continuity-three-methods-2026-06-21/` with source profile, source inventory, knowledge-unit inventory, coverage matrix, omission audit, formal page plan, and audit handoff.
+- Created formal page: `domains/视觉制作/06-AI视频/09-AI长视频连续性组接方法.md`.
+- Updated navigation: `domains/视觉制作/06-AI视频/index.md`, `domains/视觉制作/index.md`, root `index.md`, and `domains/视觉制作/06-AI视频/08-Agent使用模板：AI视频导演分镜.md`.
+- Notes: 将视频中的三步法整理为“切换景别和角度、在动作中衔接、用分镜组接剧情”，并把 LibTV 具体 UI 抽象为跨工具可用的连续性组接方法。
