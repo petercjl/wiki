@@ -1276,3 +1276,9 @@
 - Created query entries: `queries/品牌视觉标准诊断入口.md`, `queries/AI商业视觉设计入口.md`, `queries/电商品牌增长诊断入口.md`, `queries/电商品牌竞争战略诊断入口.md`, `queries/品牌差异化感知诊断入口.md`, `queries/细分品类品牌升级诊断入口.md`, `queries/心智产品力与大单品诊断入口.md`, and `queries/品牌大单品企划营销诊断入口.md`.
 - Updated root `index.md` query catalog and page count.
 - Notes: 第二批补齐剩余 P0 入口，并开始覆盖品牌策略 P1 细分诊断入口；后续继续处理精益创业验证、商业模式诊断、选品与运营增长、平台入驻与自营合作等 P1 入口。
+
+## [2026-07-02] update | P1 query entry routing batch 3
+
+- Created query entries: `queries/精益创业验证诊断入口.md`, `queries/商业模式诊断与重构入口.md`, `queries/选品与运营增长诊断入口.md`, and `queries/平台入驻与自营合作诊断入口.md`.
+- Updated root `index.md` query catalog and page count.
+- Notes: 按审计报告补齐剩余 P1 明显入口，使品牌策略和电商运营高频诊断任务基本都有 query 路由卡。
