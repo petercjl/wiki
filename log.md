@@ -1270,3 +1270,9 @@
 - Created query entries: `queries/Skill设计与回归测试入口.md`, `queries/AI视频导演与分镜入口.md`, `queries/AI视频导演知识系统入口.md`, `queries/品牌策略诊断总入口.md`, `queries/品牌案例库调用入口.md`, `queries/淘宝店铺运营诊断入口.md`, `queries/电商企业咨询诊断入口.md`, and `queries/中小企业跨境出海诊断入口.md`.
 - Updated root `index.md` query catalog and page count.
 - Notes: 第一批控制在 10 个修改文件内，优先补 Agent 高频调用的总入口和多页专题入口；后续继续补品牌视觉标准诊断、AI 商业视觉设计入口及 P1 细入口。
+
+## [2026-07-02] update | P0/P1 query entry routing batch 2
+
+- Created query entries: `queries/品牌视觉标准诊断入口.md`, `queries/AI商业视觉设计入口.md`, `queries/电商品牌增长诊断入口.md`, `queries/电商品牌竞争战略诊断入口.md`, `queries/品牌差异化感知诊断入口.md`, `queries/细分品类品牌升级诊断入口.md`, `queries/心智产品力与大单品诊断入口.md`, and `queries/品牌大单品企划营销诊断入口.md`.
+- Updated root `index.md` query catalog and page count.
+- Notes: 第二批补齐剩余 P0 入口，并开始覆盖品牌策略 P1 细分诊断入口；后续继续处理精益创业验证、商业模式诊断、选品与运营增长、平台入驻与自营合作等 P1 入口。
