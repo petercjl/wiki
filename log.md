@@ -1264,3 +1264,9 @@
 - Created formal page: `domains/视觉制作/06-AI视频/09-AI长视频连续性组接方法.md`.
 - Updated navigation: `domains/视觉制作/06-AI视频/index.md`, `domains/视觉制作/index.md`, root `index.md`, and `domains/视觉制作/06-AI视频/08-Agent使用模板：AI视频导演分镜.md`.
 - Notes: 将视频中的三步法整理为“切换景别和角度、在动作中衔接、用分镜组接剧情”，并把 LibTV 具体 UI 抽象为跨工具可用的连续性组接方法。
+
+## [2026-07-02] update | P0 query entry routing batch 1
+
+- Created query entries: `queries/Skill设计与回归测试入口.md`, `queries/AI视频导演与分镜入口.md`, `queries/AI视频导演知识系统入口.md`, `queries/品牌策略诊断总入口.md`, `queries/品牌案例库调用入口.md`, `queries/淘宝店铺运营诊断入口.md`, `queries/电商企业咨询诊断入口.md`, and `queries/中小企业跨境出海诊断入口.md`.
+- Updated root `index.md` query catalog and page count.
+- Notes: 第一批控制在 10 个修改文件内，优先补 Agent 高频调用的总入口和多页专题入口；后续继续补品牌视觉标准诊断、AI 商业视觉设计入口及 P1 细入口。

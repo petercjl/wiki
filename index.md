@@ -1,8 +1,8 @@
 # Wiki Index
 
 > Content catalog. Every formal wiki page should be listed here.
-> Last updated: 2026-07-01
-> Total formal pages: 403
+> Last updated: 2026-07-02
+> Total formal pages: 411
 
 ## Domains
 
@@ -473,9 +473,17 @@
 
 ## Queries
 
+- [[queries/AI视频导演与分镜入口|AI 视频导演与分镜入口]]：Agent 写 AI 视频脚本、分镜、导演表、首尾帧方案和图生视频 prompt 前的读取入口。
+- [[queries/AI视频导演知识系统入口|AI 视频导演知识系统入口]]：Agent 处理故事板、轴线、连续性、剪辑、场面调度、POV、移动摄影和转场问题前的读取入口。
 - [[queries/Loop项目启动入口|Loop 项目启动入口]]：用户要求“做一个 loop”“循环优化”“多轮自动改进”时，Agent 应优先读取的执行入口。
+- [[queries/Skill设计与回归测试入口|Skill 设计与回归测试入口]]：Agent 创建、优化、迁移、注册或回归测试 skill 前的读取入口。
 - [[queries/ecommerce-image-marketing-planning|电商图片营销策划查询入口]]：Agent 生成、诊断或优化电商主图、详情页和 AI 生图 prompt 前的读取入口。
 - [[queries/物流轨迹监控接口接入|物流轨迹监控接口接入]]：Agent 接入物流轨迹监控、判断发货后无揽收/在途超时/派件未签收时的读取入口。
+- [[queries/品牌案例库调用入口|品牌案例库调用入口]]：Agent 按品牌问题调用案例、做策略类比和迁移判断前的读取入口。
+- [[queries/品牌策略诊断总入口|品牌策略诊断总入口]]：Agent 诊断品牌定位、品类心智、差异化、大单品、品牌视觉资产和内容资产前的总入口。
+- [[queries/淘宝店铺运营诊断入口|淘宝店铺运营诊断入口]]：Agent 诊断淘宝/天猫店铺定位、选品、新品、搜索、主图详情页、付费、客服、促销和团队问题前的读取入口。
+- [[queries/电商企业咨询诊断入口|电商企业咨询诊断入口]]：Agent 做电商企业咨询、陪跑交付、谈单、满意度和增长战略诊断前的读取入口。
+- [[queries/中小企业跨境出海诊断入口|中小企业跨境出海诊断入口]]：Agent 判断中小企业跨境出海、市场进入、本地化、物流、支付、合规和风险问题前的读取入口。
 
 ## Decisions
 
