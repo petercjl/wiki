@@ -1,0 +1,15 @@
+#!/usr/bin/env sh
+set -eu
+
+remote_name="${1:-}"
+remote_url="${2:-}"
+
+case "$remote_url" in
+  *github.com*|git@github.com:*|https://github.com/*)
+    echo "Refusing to push wiki content to GitHub remote: ${remote_name} (${remote_url})" >&2
+    echo "This wiki is permanently migrated to Gitee." >&2
+    exit 1
+    ;;
+esac
+
+exit 0
