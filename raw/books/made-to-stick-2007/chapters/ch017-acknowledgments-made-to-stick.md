@@ -1,0 +1,27 @@
+---
+source_id: ch017
+source_file: OEBPS/xhtml/Heat_9781588365965_epub_bm4_r1.xhtml
+title: "ACKNOWLEDGMENTS, Made to Stick"
+---
+
+# ACKNOWLEDGMENTS, Made to Stick
+
+[image: ../images/Heat_9781588365965_epub_020_r1.jpg]
+
+Several people gave feedback on our initial proposal, which needed a lot of work. We thank the following people for helping us create a document that was compelling enough to pass the first essential test: Doug Crandall, James Dailey, Ben Ellis, John Lin, Tom Prehn, Chloe Sladden, and Craig Yee.
+
+When we finished the first half of the book, we were very excited and anxious to get some feedback. So we sent it to a bunch of friends and colleagues, who humored us and sent along written feedback. They also saved you, the reader, from lots of unconvincing and uninteresting anecdotes, like the one about the Charm Bracelet Punch-line, so you owe them some gratitude as well. Here is the roll call of good people: Daryl Anderson, E. Joseph Arias, Deena Bahri, Amy Bryant, Mark and Chelsea Dinsmore, Julie Balovich, Danny Fitelson, Alfred Edmond, Michael Erisman, Chris Ertel, Erika Faust, Craig Fox, Emmet Gaffney, Lisa Gansky, Liz Gerber, Julio Gonzalez, Eric Guenther, Steven Guerrero, Susanna Hamner and Byron Penstock, Tod and Susan Hays, Fred and Brenda Heath, Ian Hill, Joe Lassiter, Alex Kazaks, Brian Kelly, Paul Marshall, George Miller, Shara Morales, Michael Morris, Derek Newton, Justin Osofsky, Jeff Pfeffer, Bill Sahlman, Andrew and Katie Solomon, Melissa Studzinski, Mark Schlueter, Paul Schumann, Steven Slon, Amy and Walter Surdacki, Bob Sutton, Mike Sweeney, Anthony Trendl, Ed Uyeshima, Steve and Trae Vassallo, Rachel Ward, Keith Yamashita. Thank you all—you gave us the feedback we needed when it was most useful.
+
+Here is a hodgepodge of thank yous for people who helped us in distinctive ways. Thank you to Noah Weiss, who spent hours combing obscure sources for interesting examples in the early stages, and to Maggie Cong-Huyen, who picked up where he left off. Special thanks to Jeff Saunders for pointing out Commander’s Intent. Thanks to Chip’s students in several years of OB 368 classes, who helped refine and test this framework. Thanks to Chip’s collaborators who helped work out many of these ideas: Adrian Bangerter, Chris Bell, Jonah Berger, Sanford Devoe, Nate Fast, Alison Fragale, Emily Sternberg, Scott Wiltermuth. Thanks to the following people who read the book and helped collect examples for the international editions: Eugine Chong, Hide Doi, Atsuko Jenks, Hyun Kim, Motoki Korenaga, Andreas Kornstaedt, and Noriko Masuda.
+
+Now for the paragraph of people whose work inspired us. You didn’t have anything to do with this book, and yet you had a lot to do with this book. A fan letter to: Edward Tufte, Don Norman, Malcolm Gladwell, James Carville, Stephen Denning, Robert McKee, Andy Goodman, Jim Thompson, Steven Tomlinson, Edward Burger, George Wolfe, David Placek, Keith Yamashita, Jacob Goldenberg, George Loewenstein, Robert Cialdini, Mark Schaller, David Rubin, Jan Brunvand, and many others that we’re going to kick ourselves for not including by press time.
+
+To our agents Don Lamm and Christy Fletcher, we are deeply grateful to you for making this experience possible. And thank you to Mark Fortier, for spreading the word about the book.
+
+It is obligatory to thank your publisher. According to what we’ve heard from other authors, you usually have to say thanks through gritted teeth. This is our first book, and in the process of getting it to market, we were supposed to accumulate a lot of publishing horror stories. We were supposed to feel underappreciated and undersupported. Random House has been an utter failure on this front. The people at Random House have been such a joy to work with, so unexpectedly and unnecessarily nice, that it’s hard to know where to begin. Thanks to: Debbie Aroff, Avideh Bashirrad, Rachel Bernstein, Nicole Bond, Evan Camfield, Gina Centrello, Kristin Fassler, Jennifer Hershey, Stephanie Huntwork, Jennifer Huwer, London King, Sally Marvin, Dan Menaker, Jack Perry, Tom Perry, Kelle Ruden, Robbin Schiff, and Carol Schneider. And Sanyu Dillon, my goodness, how can we adequately express our appreciation for all that you’ve done? Unbelievable.
+
+And a huge, engraved, foil-embossed, calligraphied thank you to our amazing editor, Ben Loehnen. Our parents will read this book once, if we’re lucky. (An aside: Our dad has a Quantity Theory of Literature, which says that it’s not worth reading a book with fewer than four hundred pages. We’re relying purely on connections to get a read out of him.) Meanwhile, Ben has read this thing probably a dozen times without ever breaking down, at least in front of us. Ben, you are endlessly patient, thoughtful, insightful, and supportive. Okay, this is starting to sound like we’re signing your yearbook. (Stay cool!) But, really, we know we gave you a lot to stomach at times. Like our duct tape campaign.
+
+Now to our family, who put up with us. We owe you this heartfelt thank you, which really has nothing to do with this book and everything to do with your support of us in all that we do. This section just gives us a great opportunity to put it in black and white. Thanks, Mom and Dad, for giving us co-authors. Thanks, Susan. Thanks, Emory. Thanks, sister Susan. Thanks, Tod, Hunter, and Darby.
+
+We hope you enjoy the book. We had fun writing it.

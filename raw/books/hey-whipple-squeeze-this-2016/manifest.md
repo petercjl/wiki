@@ -1,0 +1,102 @@
+# EPUB Manifest Summary
+
+- OPF path: `content.opf`
+- NCX path: `toc.ncx`
+- ZIP file count: 98
+
+## HTML Files
+
+- `titlepage.xhtml`
+- `index_split_000.html`
+- `index_split_001.html`
+- `index_split_002.html`
+- `index_split_003.html`
+- `index_split_004.html`
+
+## Image Files
+
+- `cover_image.jpg`
+- `index-1_1.jpg`
+- `index-2_1.jpg`
+- `index-6_1.jpg`
+- `index-19_1.jpg`
+- `index-26_1.jpg`
+- `index-35_1.jpg`
+- `index-44_1.jpg`
+- `index-44_2.jpg`
+- `index-45_1.jpg`
+- `index-55_1.jpg`
+- `index-59_1.jpg`
+- `index-66_1.jpg`
+- `index-67_1.jpg`
+- `index-68_1.jpg`
+- `index-69_1.jpg`
+- `index-71_1.jpg`
+- `index-72_1.jpg`
+- `index-73_1.jpg`
+- `index-74_1.jpg`
+- `index-75_1.jpg`
+- `index-78_1.jpg`
+- `index-81_1.jpg`
+- `index-82_1.jpg`
+- `index-83_1.jpg`
+- `index-85_1.jpg`
+- `index-88_1.jpg`
+- `index-89_1.jpg`
+- `index-90_1.jpg`
+- `index-91_1.jpg`
+- `index-93_1.jpg`
+- `index-94_1.jpg`
+- `index-95_1.jpg`
+- `index-95_2.jpg`
+- `index-96_1.jpg`
+- `index-97_1.jpg`
+- `index-109_1.jpg`
+- `index-112_1.jpg`
+- `index-113_1.jpg`
+- `index-116_1.jpg`
+- `index-135_1.jpg`
+- `index-138_1.jpg`
+- `index-140_1.jpg`
+- `index-141_1.jpg`
+- `index-143_1.jpg`
+- `index-143_2.jpg`
+- `index-145_1.jpg`
+- `index-149_1.jpg`
+- `index-154_1.jpg`
+- `index-163_1.jpg`
+- `index-167_1.jpg`
+- `index-193_1.jpg`
+- `index-199_1.jpg`
+- `index-201_1.jpg`
+- `index-203_1.jpg`
+- `index-204_1.jpg`
+- `index-205_1.jpg`
+- `index-206_1.jpg`
+- `index-209_1.jpg`
+- `index-212_1.jpg`
+- `index-217_1.jpg`
+- `index-220_1.jpg`
+- `index-222_1.jpg`
+- `index-225_1.jpg`
+- `index-235_1.jpg`
+- `index-236_1.jpg`
+- `index-255_1.jpg`
+- `index-271_1.jpg`
+- `index-274_1.jpg`
+- `index-277_1.jpg`
+- `index-294_1.jpg`
+- `index-299_1.jpg`
+- `index-315_1.jpg`
+- `index-30_1.png`
+- `index-32_1.png`
+- `index-70_1.png`
+- `index-99_1.png`
+- `index-114_1.png`
+- `index-240_1.png`
+- `index-265_1.png`
+- `index-265_2.png`
+- `index-265_3.png`
+- `index-282_1.png`
+- `index-289_1.png`
+- `index-293_1.png`

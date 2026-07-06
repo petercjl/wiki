@@ -1,6 +1,25 @@
 # Wiki Log
 
 > Chronological record of all wiki actions. Append-only.
+
+## [2026-07-06] ingest | AI短视频故事方法论书籍与案例编译
+
+- Ingested 7 effective book sources into `raw/books/` and `_meta/extraction-notes/`: `hey-whipple-squeeze-this-2016`, `invisible-ink-2017`, `made-to-stick-2007`, `the-coffee-break-screenwriter-2010`, `writing-short-films-2005`, `in-the-blink-of-an-eye-2001`, and `the-visual-story-2021`.
+- Excluded local `Truth, lies, and advertising` PDF from formal sources because extraction confirms it is a mislabeled copy of Richard Rogers / Philip Gumuchdjian, *Cities for a Small Planet*.
+- Rebuilt `domains/视觉制作/06-AI视频/40-AI短视频故事方法论/` into an Agent-usable methodology with pages for advertising insight, short story structure, character motivation, hooks, visual/editing rhythm, product story patterns, story-to-storyboard workflow, and Agent usage template.
+- Created `queries/AI短视频故事策划.md` and updated `queries/AI视频导演与分镜入口.md`.
+- Updated AI 视频 index, root index, and related-memory links from commercial short-video planning, director-style shot design, and the case library.
+- Notes: This batch compiles books and cases into durable product-marketing short-video and emotional short-film story methodology rather than preserving the books as chapter-by-chapter reading notes.
+
+## [2026-07-06] create | AI短视频故事方法论
+
+- Created `domains/视觉制作/06-AI视频/40-AI短视频故事方法论/index.md`.
+- Created `domains/视觉制作/06-AI视频/40-AI短视频故事方法论/01-故事命题与人物动机.md`.
+- Created `domains/视觉制作/06-AI视频/40-AI短视频故事方法论/02-短视频叙事结构.md`.
+- Created `domains/视觉制作/06-AI视频/40-AI短视频故事方法论/03-把故事翻译成可生成镜头.md`.
+- Created `domains/视觉制作/06-AI视频/40-AI短视频故事方法论/04-Agent使用模板：AI短视频故事策划.md`.
+- Updated `domains/视觉制作/06-AI视频/index.md` and root `index.md`.
+- Notes: Synthesized existing AI 视频 materials on commercial short-video planning, director-style shot design, story-outline-to-storyboard decomposition, visualization, editing question/answer logic, and the case library into a dedicated methodology block for telling stories before AI video generation.
 > Format: `## [YYYY-MM-DD] action | subject`
 
 ## [2026-06-28] ingest | 抖音故事板铁三角 AI 视频控制法
@@ -1282,3 +1301,173 @@
 - Created query entries: `queries/精益创业验证诊断入口.md`, `queries/商业模式诊断与重构入口.md`, `queries/选品与运营增长诊断入口.md`, and `queries/平台入驻与自营合作诊断入口.md`.
 - Updated root `index.md` query catalog and page count.
 - Notes: 按审计报告补齐剩余 P1 明显入口，使品牌策略和电商运营高频诊断任务基本都有 query 路由卡。
+
+## [2026-07-04] ingest | Seed-Audio 短视频音频一致性工作流
+
+- Source: EvoLink Seed-Audio 1.0 voices docs plus local `seedaudiocli` BGM/voice experiments from 2026-07-04.
+- Adapter: `llm-wiki-ingest/adapters/api-docs.md` plus `llm-wiki-ingest/adapters/unknown-source.md`.
+- Archived raw docs: `raw/api/evolink/seed-audio-voice-docs-2026-07-04/doubao-seed-audio-1-0-voices.md` and `.html`.
+- Created raw experiment notes: `raw/experiments/seed-audio-short-video-audio-workflow-2026-07-04/source-notes.md`.
+- Created extraction notes: `_meta/extraction-notes/seed-audio-short-video-audio-workflow-2026-07-04/`.
+- Created formal page: `domains/视觉制作/06-AI视频/10-Seed-Audio短视频音频一致性工作流.md`.
+- Created query entry: `queries/AI视频音频与声线一致性入口.md`.
+- Updated navigation: `domains/视觉制作/06-AI视频/index.md` and root `index.md`.
+- Notes: 将 BGM 一致性沉淀为“分段视频不自带 BGM，成片后统一配乐”的后期策略；将人物声线一致性沉淀为“先选内置 `voice_type`，再用 prompt 微调性格/情绪”的参考音频资产策略，并记录直接视频理解配乐、下游视频模型声线保持等未验证边界。
+
+## [2026-07-05] ingest | 微信视频号 AI 短视频风格复刻教程
+
+- Source: local MP4 `/Users/pechen/Downloads/wechat_channels_AOFyh73IgJ_h264.mp4`, a 微信视频号 tutorial that teaches how to make AI short videos by recreating an Iwai-like youth-film aesthetic.
+- Adapter: `llm-wiki-ingest/adapters/transcript.md` with video-course branch.
+- Archived raw media, ASR, OCR, keyframes, and contact sheet under `raw/videos/wechat-channels-aofyh73igj-h264-2026-07-05/`, `raw/transcripts/wechat-channels-aofyh73igj-h264-2026-07-05/`, and `raw/assets/wechat-channels-aofyh73igj-h264-2026-07-05/`.
+- Added dense prompt evidence: 79 prompt frames and macOS Vision OCR at `raw/assets/wechat-channels-aofyh73igj-h264-2026-07-05/ch01/vision-ocr.raw.txt`.
+- Created extraction notes: `_meta/extraction-notes/wechat-channels-aofyh73igj-h264-2026-07-05/`.
+- Created formal topic and playbook: `domains/视觉制作/06-AI视频/30-影像美学大师风格AI短视频/index.md` and `domains/视觉制作/06-AI视频/30-影像美学大师风格AI短视频/01-岩井俊二风格AI短视频制作方法.md`.
+- Updated routing: AI 视频案例库、AI 视频入口、root index, and `queries/AI视频导演与分镜入口.md`.
+- Notes: 将教程主线整理为“选定风格参考 -> 提取情绪命题 -> 提取视觉符号 -> 拆成构图/光线/调色 -> 加入镜头节奏和叙事装置 -> 输出秒级镜头表和 prompt/负向限制”；按用户反馈从商业案例库改入“影像美学大师风格 AI 短视频”专题，并把画面中可识别提示词整理为可复用校正稿。
+
+## [2026-07-05] plan | AI 短视频分镜知识库长期建设
+
+- Created planning topic: `domains/视觉制作/06-AI视频/25-AI短视频分镜通用能力/index.md`.
+- Created roadmap: `domains/视觉制作/06-AI视频/25-AI短视频分镜通用能力/00-建设路线图.md`.
+- Updated routing: AI 视频入口、root index, and `queries/AI视频导演与分镜入口.md`.
+- Notes: 明确知识库目标为“故事大纲 -> AI 短视频分镜提示词”，采用两层结构：通用分镜能力层先吸收 Katz、Mercado、Brown、Kenworthy、Block 五本书；导演风格层按岩井俊二、王家卫、韦斯·安德森、是枝裕和、小津安二郎等风格锚点组织，并要求每个导演页提供 2 分钟短片案例和镜头级 prompt。
+
+## [2026-07-05] ingest | AI 短视频分镜通用能力层第一版
+
+- Sources: Katz *Film Directing Shot by Shot*, Mercado *The Filmmaker's Eye*, Kenworthy *Master Shots Vol. 3*, Block *The Visual Story*, and Brown *Cinematography: Theory and Practice* EPUBs from local directory `/Users/pechen/电子书/导演/`.
+- Adapter: `llm-wiki-ingest/adapters/book.md`.
+- Archived raw EPUB packages under `raw/books/film-directing-shot-by-shot-2019/`, `raw/books/the-filmmakers-eye-2019/`, `raw/books/master-shots-vol-3-2013/`, `raw/books/the-visual-story-2021/`, and `raw/books/cinematography-theory-and-practice-2008/`.
+- Created extraction notes and knowledge-unit inventories under `_meta/extraction-notes/*`.
+- Created formal pages: `01-故事大纲到AI视频分镜的拆解方法.md`, `02-AI视频镜头字段标准.md`, `03-景别与情绪表达.md`, `04-运镜选择方法.md`, `05-光线色彩与质感描述.md`, `06-人物动作与场景描述方法.md`, `07-镜头连续性与剪辑衔接.md`, and `08-Agent使用模板：故事大纲转分镜提示词.md`.
+- Updated routing: topic index, root index, and `queries/AI视频导演与分镜入口.md`.
+- Notes: 第一版通用能力层已能支持“故事大纲 -> 镜头任务表 -> 秒级 AI 视频 prompt”的闭环；Brown 源 EPUB 提取质量较弱，暂作为光线/色彩/摄影质感补充原始资料，后续如需可单独做 OCR pass。
+
+## [2026-07-05] ingest | 影像美学大师风格 AI 短视频 P0 扩充
+
+- Sources: public web references for Wong Kar-wai, Wes Anderson, Hirokazu Kore-eda, and Yasujiro Ozu style traits.
+- Created formal style pages: `02-王家卫风格AI短视频制作方法.md`, `03-韦斯安德森风格AI短视频制作方法.md`, `04-是枝裕和风格AI短视频制作方法.md`, and `05-小津安二郎风格AI短视频制作方法.md`.
+- Updated routing: style topic index, root index, and `queries/AI视频导演与分镜入口.md`.
+- Notes: 每个风格页包含风格锚点、适合题材、视觉 DNA、全局 prompt、负向限制和一个 2 分钟短片分镜案例；同时记录商业交付时应把导演名改写为可观察影像特征。
+
+## [2026-07-05] ingest | 影像美学大师风格 AI 短视频 P1 扩充
+
+- Sources: public web references for Hou Hsiao-hsien, Jia Zhangke, David Fincher, Steven Spielberg, and Christopher Nolan style traits.
+- Created formal style pages: `06-侯孝贤风格AI短视频制作方法.md`, `07-贾樟柯风格AI短视频制作方法.md`, `08-大卫芬奇风格AI短视频制作方法.md`, `09-斯皮尔伯格风格AI短视频制作方法.md`, and `10-克里斯托弗诺兰风格AI短视频制作方法.md`.
+- Updated routing: style topic index, root index, and `queries/AI视频导演与分镜入口.md`.
+- Notes: 至此第一批 10 位导演/影像美学风格锚点已全部有独立风格页和 2 分钟短片分镜案例；Nolan 页对 2026 年《The Odyssey》IMAX 信息只作为大画幅偏好的背景，不把未上映影片写成已验证案例。
+
+## [2026-07-05] revise | 导演风格页接入通用分镜能力
+
+- Revised `01-岩井俊二风格AI短视频制作方法.md` through `10-克里斯托弗诺兰风格AI短视频制作方法.md`.
+- Added `如何调用通用分镜能力` sections to each director page, mapping story splitting, shot fields, shot size/emotion, camera movement, light/color/texture, character action, and continuity into that director's style.
+- Rewrote `02` through `10` case sections from table summaries into copy-ready `全局风格 + 镜头` storyboard scripts, matching the usable shape of the Iwai reference page.
+- Validation: style topic placeholder scan passed with `SHELL: 0`, `THIN: 0`, `OK: 11`; no old table storyboard blocks remain in `02` through `10`.
+
+## [2026-07-05] revise | 导演风格页改为 Seedance 2.0 分段 Prompt 包
+
+- Revised `02-王家卫风格AI短视频制作方法.md` through `10-克里斯托弗诺兰风格AI短视频制作方法.md`.
+- Converted each 2-minute case from a continuous 0-120 second script into 8 independent `Prompt N` sections, each designed for Seedance 2.0's 15-second generation limit.
+- Preserved the director-specific `如何调用通用分镜能力` sections and rewrote each case as `通用全局风格 + Prompt 1...Prompt 8`, following the structure of `01-岩井俊二风格AI短视频制作方法.md`.
+- Validation: 9 pages in `02` through `10` contain `Seedance 2.0 分段生成提示词` and `#### Prompt 8`; no old continuous `0-120`/`110-120 秒` storyboard patterns remain; style topic placeholder scan passed with `SHELL: 0`, `THIN: 0`, `OK: 11`.
+
+## [2026-07-05] revise | AI短视频完整视听分镜 Prompt 标准与王家卫样板
+
+- Created `domains/视觉制作/06-AI视频/25-AI短视频分镜通用能力/09-AI短视频完整视听分镜Prompt结构.md`.
+- Updated `02-AI视频镜头字段标准.md` with commercial controllability fields: segment task, space anchor, dialogue/voice-over table, sound type, sound strategy, reaction shots, edit points, and no-freeplay restrictions.
+- Updated `08-Agent使用模板：故事大纲转分镜提示词.md` so Agent outputs character/space settings, dialogue and voice-over table, sound strategy, and complete audiovisual segmented prompts.
+- Rewrote `02-王家卫风格AI短视频制作方法.md` case section into a complete audiovisual Seedance prompt pack: story setting, dialogue/voice-over table, 8 independent 15-second segments, spatial anchors, sound strategy, continuity, and post-production audio notes.
+- Updated routing: AI 视频入口, root index, `25-AI短视频分镜通用能力/index.md`, and `queries/AI视频导演与分镜入口.md`.
+- Notes: This revision responds to the Wang Kar-wai style generation test where visual style worked well but dialogue, voice-over, sound and plot control were under-specified. The new standard treats commercial AI video prompts as controlled audiovisual storyboard prompts, not only image-style prompts.
+
+## [2026-07-05] revise | 王家卫页加入开放抽卡到资产固化工作流
+
+- Revised `domains/视觉制作/06-AI视频/30-影像美学大师风格AI短视频/02-王家卫风格AI短视频制作方法.md`.
+- Added a two-stage method: first use open-ended Wang Kar-wai style prompts for visual exploration/card draw, then extract style boards, character boards, scene boards, prop boards, sound boards, and shot boards from satisfying generated clips.
+- Added an evaluation checklist for generated exploration clips and an asset-freezing template to turn a successful exploratory clip into reusable production assets.
+- Notes: This preserves the creative value of open prompts while keeping commercial delivery controlled: exploration prompts discover image language; complete audiovisual prompts and assets control later story execution.
+
+## [2026-07-05] revise | 03-10 导演案例升级为抽卡资产与完整视听分镜
+
+- Revised `03-韦斯安德森风格AI短视频制作方法.md` through `10-克里斯托弗诺兰风格AI短视频制作方法.md`.
+- Added director-specific two-stage workflows to each page: open-ended visual/audio card draw, then asset extraction into style boards, character boards, scene boards, prop boards, sound boards, and shot boards.
+- Upgraded each 2-minute case from visual-only Seedance prompt packs into complete audiovisual storyboard prompts. Each page now includes dialogue/voice/sound tables, director-specific sound strategy, and 8 independent 15-second prompts with sound strategy, spatial anchor, continuity, and negative restrictions.
+- Director-specific sound directions were added: Wes Anderson retro storybook narration and whimsical music; Kore-eda quiet life sounds and short family dialogue; Ozu domestic room tones and pillow-shot sound; Hou Hsiao-hsien old cinema projector and everyday speech; Jia Zhangke county-town live sound and short realist dialogue; Fincher low-frequency thriller sound and system voice; Spielberg warm family adventure score and father-child dialogue; Nolan low-frequency countdown pressure, machinery, and memory-line dialogue.
+- Validation: pages `03` through `10` each contain one two-stage workflow, one complete audiovisual section, 8 `Prompt` blocks, and 8 occurrences each of `声音策略`, `空间锚点`, and `连续性`; style topic placeholder scan passed with `SHELL: 0`, `THIN: 0`, `OK: 11`.
+
+## [2026-07-05] revise | 韦斯安德森页分离抽卡音乐与分段音效规则
+
+- Revised `domains/视觉制作/06-AI视频/30-影像美学大师风格AI短视频/03-韦斯安德森风格AI短视频制作方法.md`.
+- Added a two-stage sound boundary: open-ended style card draws may include director-like BGM to explore sound direction; formal segmented production prompts must generate only dialogue, voice-over, environment sound, and action SFX, with music prohibited.
+- Updated the Wes Anderson 8-segment case so every `声音策略` explicitly says `只生成音效，禁止生成音乐`, while preserving specified voice-over, dialogue, spatial anchors, continuity, and negative restrictions.
+
+## [2026-07-05] revise | 韦斯安德森页升级为故事脚本到镜头级分镜样板
+
+- Revised `domains/视觉制作/06-AI视频/30-影像美学大师风格AI短视频/03-韦斯安德森风格AI短视频制作方法.md`.
+- Renamed the workflow section to `范例-两阶段工作流：先抽卡，再固化资产` and reordered it around the production chain: complete story script first, then trailer-like open style card draw, then asset extraction, then segmented storyboard prompts.
+- Replaced the earlier story outline with a complete story script for `失物招领处第 17 号抽屉`, making the character motivation, rules, clue logic, memory reveal, and ending emotionally and causally coherent.
+- Upgraded all 8 Seedance prompt segments to shot-level complete wording: each 0-5 / 5-10 / 10-15 second block now includes shot size, camera movement or fixed camera, character position, sightline, action, expression, composition, light, dialogue or voice-over where needed, and concrete sound effects.
+- Validation: 8 prompts, 8 formal sound strategies, 8 `只生成音效，禁止生成音乐` rules, 24 timed blocks, and 24 sound-effect fields; no formal segmented prompt contains `配乐`, `BGM`, or `背景音乐`.
+
+## [2026-07-05] revise | 王家卫页升级为合理故事脚本与镜头级分镜
+
+- Revised `domains/视觉制作/06-AI视频/30-影像美学大师风格AI短视频/02-王家卫风格AI短视频制作方法.md`.
+- Renamed the workflow section to `范例-两阶段工作流：先抽卡，再固化资产` and aligned it with the same production chain as the Wes Anderson sample: complete story script, trailer-like open style card draw, asset extraction, then controlled segmented storyboard prompts.
+- Replaced the earlier implausible expired airport-ticket story with the complete story script `凌晨 1 点 12 分的电话卡`: a rain-night convenience store, a man who buys mints for a one-yuan coin to call a disconnected number, and a night-shift clerk who slips a usable phone card into his change.
+- Rewrote the open style card draw around the new phone-card story and updated asset extraction tables to use mints, coins, phone cards, the glass door, neon, and the public phone instead of tickets.
+- Upgraded all 8 Seedance prompt segments to shot-level complete wording with shot size, camera movement or fixed camera, position, sightline, action, expression, composition, light, exact dialogue/voice-over, and concrete sound effects.
+- Validation: 8 prompts, 8 formal sound strategies, 8 `只生成音效，禁止生成音乐` rules, 24 timed blocks, and 25 sound-effect fields; no `车票`, `过期车票`, or `机场` residue remains.
+
+## [2026-07-05] revise | 韦斯安德森页分段 Prompt 改为复制即用
+
+- Revised `domains/视觉制作/06-AI视频/30-影像美学大师风格AI短视频/03-韦斯安德森风格AI短视频制作方法.md`.
+- Removed the external `通用全局风格，每段都复制` dependency and embedded the global style, sound policy, and negative restrictions inside each of the 8 formal Prompt blocks.
+- Replaced `旁白使用 Vn` / `说 Dn` style references with the exact voice-over or dialogue text inside each Prompt, while keeping the dialogue/voice-over table as an overview index.
+- Validation: 8 prompts, 8 embedded global-style blocks, 8 embedded original voice/dialogue fields, 8 `只生成音效，禁止生成音乐` rules, 24 timed blocks, and 24 sound-effect fields; no formal Prompt contains `使用 Vn/Dn` references or external copy requirements.
+
+## [2026-07-05] revise | 韦斯安德森页移除 Prompt 段落头重复台词
+
+- Revised `domains/视觉制作/06-AI视频/30-影像美学大师风格AI短视频/03-韦斯安德森风格AI短视频制作方法.md`.
+- Removed `本段旁白原文` and `本段对白原文` fields from the heads of the 8 formal Prompt blocks to avoid duplicating dialogue/voice-over already present in timed shot descriptions.
+- Kept each Prompt copy-ready by retaining embedded global style, sound policy, negative restrictions, and exact dialogue/voice-over only inside the time-coded shot where it occurs.
+- Validation: 8 prompts, 8 embedded global-style blocks, 0 header original-text fields, 0 `使用 Vn/Dn` references, 8 timeline dialogue/voice-over lines, 24 timed blocks, and 24 sound-effect fields.
+
+## [2026-07-05] revise | 王家卫页分段 Prompt 改为复制即用且不重复台词
+
+- Revised `domains/视觉制作/06-AI视频/30-影像美学大师风格AI短视频/02-王家卫风格AI短视频制作方法.md`.
+- Removed the external `通用全局风格，每段都复制` dependency and embedded the global style, sound policy, and negative restrictions inside each of the 8 formal Prompt blocks.
+- Replaced `内心独白使用 Vn` / `当面说话使用 Dn` references with prompt-local sound rules that instruct the model to use only the exact dialogue/voice-over lines present in the timed shot descriptions.
+- Kept dialogue/voice-over text only inside the time-coded shot where it occurs, avoiding duplicate `本段旁白原文` or `本段对白原文` header fields.
+- Validation: 8 prompts, 8 embedded global-style blocks, 0 header original-text fields, 0 `使用 Vn/Dn` references, 8 timeline dialogue/voice-over lines, 24 timed blocks, and 25 sound-effect fields.
+
+## [2026-07-06] revise | 岩井俊二页重构为故事脚本与复制即用分镜样板
+
+- Revised `domains/视觉制作/06-AI视频/30-影像美学大师风格AI短视频/01-岩井俊二风格AI短视频制作方法.md`.
+- Compressed the original extracted tutorial prompts into `源视频提示词资产`, preserving rain eaves, classroom crush, library book, rice field Walkman, curtain classroom, night riding, tree-hole letter, and countryside running as reusable shot assets.
+- Added `范例-两阶段工作流：先抽卡，再固化资产`, complete story script `雨停以前写给你的信`, trailer-like open card draw, and asset extraction tables.
+- Added an 8-segment copy-ready Seedance prompt pack with embedded Iwai global style, no-music sound policy, no external Vn/Dn references, no duplicated header dialogue, and dialogue/voice-over only inside timed shots.
+- Validation: 8 prompts, 8 embedded global-style blocks, 0 header original-text fields, 0 `使用 Vn/Dn` references, 8 timeline dialogue/voice-over lines, 24 timed blocks, and 24 sound-effect fields.
+
+## [2026-07-06] revise | 04-10 导演风格页升级为故事脚本与复制即用分镜
+
+- Revised `04-是枝裕和风格AI短视频制作方法.md` through `10-克里斯托弗诺兰风格AI短视频制作方法.md`.
+- Renamed each workflow section to `范例-两阶段工作流：先抽卡，再固化资产`, added complete story scripts, rewrote open card-draw prompts as trailer-like style tests, and added stage-three controlled storyboard guidance.
+- Upgraded each page's asset extraction table to cover style boards, character boards, scene boards, prop boards, sound boards, and shot boards.
+- Removed the external `通用全局风格，每段都复制` dependency and embedded global style, sound policy, spatial anchor, continuity, and negative restrictions inside every formal Prompt.
+- Formal segmented prompts now use no-music production rules: `只生成音效，禁止生成音乐`; dialogue/voice-over appears only inside timed shots, with no `本段旁白原文` / `本段对白原文` headers and no `使用 Vn/Dn` references.
+- Validation: all 7 pages passed structure checks: each has one workflow, one story script, 8 Prompt blocks, 8 embedded global-style blocks, 8 no-music sound strategies, 24 timed blocks, 24 sound-effect fields, 0 external global-style dependencies, 0 header duplicate dialogue fields, and 0 V/D reference residues.
+## [2026-07-06] revise | AI短视频故事方法论新增“方向分叉”决策层
+
+- Added `domains/视觉制作/06-AI视频/40-AI短视频故事方法论/09-故事方向分叉与用户选择.md`.
+- Updated the method index, query entrance, and Agent template so story planning now defaults to multiple life-story directions before single-script deepening.
+- Captured the rule that products should be hidden inside life actions, while users choose the preferred story mechanism, emotional taste, and生活观察 before分镜 or prompt work.
+## [2026-07-06] add | 保温咖啡杯误会和解故事入库
+
+- Added `domains/视觉制作/06-AI视频/90-案例库/08-保温咖啡杯：关系误会与温度物证.md`.
+- Updated the AI commercial video case index with the thermos coffee cup relationship-misunderstanding case.
+- Extended `产品营销短视频故事模式库` with `关系误会和解型`: 关系误会 -> 关心动作未送达 -> 产品保存证据 -> 误会解除.
+- Updated `故事方向分叉与用户选择` so products that can保存、传递或证明关心 should include a misunderstanding-and-reconciliation direction.
+## [2026-07-06] revise | Skill世界观补充知识内化与多分支分层设计
+
+- Updated `domains/AI Agent工程/03-Skill设计/00-Skill世界观.md`.
+- Added the principle that cross-platform skills may be designed from wiki knowledge, but must internalize reusable knowledge into `SKILL.md`, `references/`, scripts, or assets instead of requiring runtime reads from local wiki paths.
+- Added multi-branch skill design guidance: different input branches can converge into shared core modules, while `SKILL.md` should act as router/control plane and branch details should live in references for progressive disclosure.

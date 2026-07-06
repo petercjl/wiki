@@ -6,9 +6,9 @@
 - Publication date: 2019-04-14T21:00:00+00:00
 - Language: en
 - ISBN: 
-- Source path: /Users/pechen/Downloads/Film Directing Shot by Shot - 25th Anniversary Edition (Steve D. Katz) (z-library.sk, 1lib.sk, z-lib.sk).epub
+- Source path: /Users/pechen/电子书/导演/Film Directing Shot by Shot - 25th Anniversary Edition (Steve D. Katz) (z-library.sk, 1lib.sk, z-lib.sk).epub
 - SHA256: 16dd302ff74e14936bf2ea283468bbea5f85ee655747d8f0706170183eeef0af
-- Imported: 2026-06-28
+- Imported: 2026-07-05
 
 ## Counts
 

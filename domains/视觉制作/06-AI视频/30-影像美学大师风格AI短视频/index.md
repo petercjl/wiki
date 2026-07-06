@@ -1,0 +1,68 @@
+---
+title: 影像美学大师风格AI短视频
+type: index
+created: 2026-07-05
+updated: 2026-07-05
+domain: 视觉制作
+tags: [visual-production, ai-video, film-aesthetics, style-reference, storyboard-prompt]
+sources:
+  - raw/transcripts/wechat-channels-aofyh73igj-h264-2026-07-05/ch01.raw.srt
+  - https://www.indepthcine.com/videos/chungking-express
+  - https://www.studiobinder.com/blog/wes-anderson-style/
+  - https://www.bfi.org.uk/features/enigmatic-pillow-shots-yasujiro-ozu
+  - https://www.davidbordwell.net/blog/category/directors-hou-hsiao-hsien/
+  - https://www.filmcomment.com/article/jia-zhangke-interview/
+  - https://www.studiobinder.com/blog/david-fincher-movies-directing-styles/
+  - https://www.studiobinder.com/blog/steven-spielberg-movies-filmmaking-style/
+  - https://indiefilmhustle.com/christopher-nolan/
+status: active
+---
+
+# 影像美学大师风格AI短视频
+
+这个专题存放“影像美学大师风格如何转成 AI 短视频”的方法。它不是广告案例库，也不是单纯导演资料库，而是把已经被大模型理解的导演/摄影/影像美学标签，转成可执行的短视频风格控制、镜头表和 prompt。
+
+核心判断：
+
+```text
+大师风格名
+-> 调用大模型已有的影像知识压缩包
+-> 再用具体提示词锁定人物、场景、光线、动作和时长
+-> 形成可复刻的 AI 短视频镜头系统
+```
+
+## 专题索引
+
+- [[domains/视觉制作/06-AI视频/30-影像美学大师风格AI短视频/01-岩井俊二风格AI短视频制作方法|岩井俊二风格 AI 短视频制作方法]]：用“岩井俊二风格”作为强风格锚点，学习如何从日系青春、自然光、留白、低饱和胶片和未说出口的情绪中生成 AI 短视频。
+- [[domains/视觉制作/06-AI视频/30-影像美学大师风格AI短视频/02-王家卫风格AI短视频制作方法|王家卫风格 AI 短视频制作方法]]：把都市夜晚、霓虹反射、慢门拖影、手持贴身摄影、镜面和错过感转成短片 prompt。
+- [[domains/视觉制作/06-AI视频/30-影像美学大师风格AI短视频/03-韦斯安德森风格AI短视频制作方法|韦斯·安德森风格 AI 短视频制作方法]]：把对称构图、粉彩色彩、复古道具、舞台式空间和精确横移转成短片 prompt。
+- [[domains/视觉制作/06-AI视频/30-影像美学大师风格AI短视频/04-是枝裕和风格AI短视频制作方法|是枝裕和风格 AI 短视频制作方法]]：把家庭日常、自然光、低戏剧化冲突、生活动作和温柔观察转成短片 prompt。
+- [[domains/视觉制作/06-AI视频/30-影像美学大师风格AI短视频/05-小津安二郎风格AI短视频制作方法|小津安二郎风格 AI 短视频制作方法]]：把榻榻米低机位、静态构图、家庭秩序和 pillow shots 空镜转成短片 prompt。
+- [[domains/视觉制作/06-AI视频/30-影像美学大师风格AI短视频/06-侯孝贤风格AI短视频制作方法|侯孝贤风格 AI 短视频制作方法]]：把静态长镜头、中远景观察、长焦空间、历史记忆和生活时间感转成短片 prompt。
+- [[domains/视觉制作/06-AI视频/30-影像美学大师风格AI短视频/07-贾樟柯风格AI短视频制作方法|贾樟柯风格 AI 短视频制作方法]]：把县城现实、公共空间、DV 纪实质感、时代变迁和普通人沉默行动转成短片 prompt。
+- [[domains/视觉制作/06-AI视频/30-影像美学大师风格AI短视频/08-大卫芬奇风格AI短视频制作方法|大卫·芬奇风格 AI 短视频制作方法]]：把低饱和冷色、精密构图、受控运镜、暗部细节和心理压迫转成短片 prompt。
+- [[domains/视觉制作/06-AI视频/30-影像美学大师风格AI短视频/09-斯皮尔伯格风格AI短视频制作方法|斯皮尔伯格风格 AI 短视频制作方法]]：把儿童视角、温暖逆光、流畅场面调度、人物反应和奇观揭示转成短片 prompt。
+- [[domains/视觉制作/06-AI视频/30-影像美学大师风格AI短视频/10-克里斯托弗诺兰风格AI短视频制作方法|克里斯托弗·诺兰风格 AI 短视频制作方法]]：把时间结构、大画幅、实拍物理感、宏大空间和倒计时压力转成短片 prompt。
+
+## 使用边界
+
+导演名适合用作内部研究和风格锚点。面向商业交付或需要降低权利风险时，应把导演名改写为可观察影像特征，例如“霓虹都市怀旧爱情片风格”“复古童话式对称构图”“生活流家庭片自然光风格”。
+
+## 收录标准
+
+每个大师风格页面都要回答：
+
+- 大模型已知的风格名是什么。
+- 这个风格名能替代哪些冗长风格提示词。
+- 该风格适合什么主题和情绪。
+- 该风格的构图、光线、色彩、镜头运动和叙事装置是什么。
+- 原教程或案例中的提示词是什么。
+- 如何把提示词拆成全局风格、角色、场景、镜头、动作、质感和负向限制。
+- 哪些地方只可借鉴，不可机械复刻。
+
+## 与其他页面的关系
+
+- 需要写完整脚本和分镜时，仍然读取 [[domains/视觉制作/06-AI视频/08-Agent使用模板：AI视频导演分镜|Agent使用模板：AI视频导演分镜]]。
+- 需要把镜头表转成模型 prompt 时，读取 [[domains/视觉制作/06-AI视频/05-AI视频导演Prompt模板|AI视频导演 Prompt 模板]]。
+- 需要处理产品广告任务时，读取 [[domains/视觉制作/06-AI视频/02-AI商业短视频规划方法|AI商业短视频规划方法]]。
+- 需要从广告成片中借鉴创意命题时，读取 [[domains/视觉制作/06-AI视频/90-案例库/index|AI商业短视频案例库]]。

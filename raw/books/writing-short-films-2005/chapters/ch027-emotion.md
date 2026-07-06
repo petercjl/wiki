@@ -1,0 +1,33 @@
+---
+source_id: ch027
+source_file: index_split_025.html
+title: "EMOTION"
+---
+
+# EMOTION
+
+## EMOTION
+
+In the first chapter, I spoke about emotion as the way to reach the audience. True emotion is the source of our connection to other people. We see someone in pain and it elicits feelings of sympathy. We watch people celebrating and their joy makes us smile. Emotion is one of the great universals, connecting human being to human being despite sexual and ethnic differences. We all feel. We’ve all felt love, joy, hate, jealousy, anger, fear, humiliation, regret, etc. One might argue this is what it means to be human, to feel. And because we feel, emotion is at the basis of the audience’s identification with your characters. When we see a mother, desperate and worried, defending her young — whether she’s the Vietnamese woman in Platoon, the Anglo prostitute in the play Les Miserables, or the wolf roaming the Canadian wilds in Never Cry Wolf — our response is the same. We feel and root and hope for her. We become involved in her crisis.
+
+When we see people feeling the way we would feel if we were in similar situations, we can identify much more quickly with them. These recognizable responses make them appear true to us. If characters don’t respond emotionally, and walk through a script or film like an automaton, they don’t seem real and render the story false. Our already tenuous connection with the make-believe world breaks and the story fails.
+
+Screenwriters, regardless of experience, often neglect the emotional aspect of characters. This oversight is particularly interesting to me because I know screenwriters and filmmakers want to make movies because of how movies have made them feel. They want to be part of this process because movies move them. But when it comes to working on their own scripts and films, they often forget this side of their stories, glancing over their characters’ emotional reactions or totally ignoring them for fear they slow the action of the plot. Often when emotions are expressed, they come in tears or anger, with little range in between.
+
+But in many ways emotion is the story. Believable emotion, besides creating connections, makes scenes more interesting and compelling. We see someone in the grip of an emotion and we’re forced to watch to find out what happens. How characters respond emotionally to the story often is the way we develop meaning and understand the importance of those events. We understand motivations better if we see the emotional component to them.
+
+We screenwriters must conceive characters whose emotional lives are available to them, and so to us. We find those emotions not only in the basic makeup of a character, but also in how they respond to the conflict they meet. As you think about your story, you need to think in terms of how your character is affected by what happens to her, the incidents and events and changing circumstances.
+
+Another thing about emotion to remember is this: stories are best when told in terms of relationships, which are matrices of emotions we share with others. If a character pursues a goal and affects no one, he can’t affect the audience. He must relate to other characters, positively or negatively, in order to stir and sway the audience. Relationships on the screen (and in our lives) have meaning only to the extent they engage and arouse our emotions. We love or hate, and in drama, these emotions cause us to respond one way or another. We care for or disdain someone, and this colors how we react. Great writers — screenwriters, novelists, playwrights — understand that emotional reaction is the source of a character’s true motivation. They find actions that are both logical and surprising but clearly represent the emotion.
+
+### Emotional Progression
+
+Incorporating a progression of emotions into the plot of the screenplay helps us better understand the character and her motivations. A profound disappointment to a pragmatic character might lead to depression and ultimately a spiritual crisis. Demonstrating mercy to a criminal could lead to a painful reassessment of life and a spiritual rebirth. Including emotionally varying scenes increases the depth and complexity of the story and helps insure the audience’s involvement.
+
+In Some Folks Call It a Sling Blade, written by Billy Bob Thorton and directed by George Hickenlooper, we see Teresa’s anger and anxiety at the beginning of the film. The misunderstanding with the hospital administrator makes her angrier and reinforces her resolve to get a story for her paper. Her anger turns cynical and is then matched by the administrator who removes her photographer (and ally) from the interview with Carl. But as she hears Carl’s story, we watch as her emotion changes from anger and skepticism to empathy and concern.
+
+In Mara of Rome, Mara’s anger burns deeply when Umberto’s grandmother scorns her. Then when her client Rusconi arrives, this anger consumes her. She can’t deal with him and his lust. Her anger drives him away, and he vows never to return. Yet the next day, after she has reconciled with Rusconi and they are finally going to bed, Mara is interrupted by the old woman. Her first reaction is trepidation (after all the old hag has threatened to get a petition signed against Mara to throw her out). Mara chains the door and opens it an inch, coolly rebuffing the old woman. But when she sees the old lady break down, Mara melts and invites her nemesis inside, wanting nothing more than to assuage the old woman’s pain. It is a marvelous moment, which tells everything we need to know about Mara’s character.
+
+One emotion audiences generally understand is fear. Many writers believe that the most important aspect to know about their characters is what they fear. In a sense, if you know what the character is most afraid of, then you know what he needs to face. This is true for the characters populating short films and features. Think of Lionel in Life Lessons. What does he fear? That Paulette will leave him and he won’t be able to paint anything worthwhile. He must keep Paulette around so he can paint. This explains the neurotic way he pursues her, as if everything else in the world counted on her staying. Unconscious fear often drives a character.
+
+But fear can also be more fundamental. It can come in a character’s reaction to an alarming situation, and in this way lead the audience to a deeper empathy with him. In Words, from Milcho Manchevski’s Before the Rain, a young ethnic Albanian girl hides from Christians hunting her for the murder of one of their own. Her panic and desperation make us sympathetic toward her, hoping somehow she will find a way out even though we’re unsure of what she’s done.
