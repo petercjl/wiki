@@ -62,6 +62,7 @@
 ## Toolchain
 
 - [[domains/AI Agent工程/05-工具链/01-OpenAI图像生成API集成指南|OpenAI 图像生成 API 集成指南]]：Image API 与 Responses API 的选择、参数、编辑、流式、错误处理和成本判断。
+- [[domains/AI Agent工程/05-工具链/02-飞书机器人Sealseek通道配置|飞书机器人 Sealseek 通道配置]]：飞书自建机器人连接 Sealseek 的完整配置流程，含权限（批量导入 JSON）、事件订阅、排障速查。
 - [[domains/视觉制作/03-AI商业视觉/02-Codex与Photoshop协作自动化能力边界|Codex 与 Photoshop 协作自动化能力边界]]：Codex 调度 Photoshop、OCR、PSD 检查和电商视觉生产工具链的本机验证结论。
 - [[domains/视觉制作/03-AI商业视觉/03-可编辑海报PSD重建Skill|可编辑海报 PSD 重建 Skill]]：以 GPT Image 2 去字底图 + Photoshop 原生文字层实现字体合规的海报 PSD 重建工作流。
 

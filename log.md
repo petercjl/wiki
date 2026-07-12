@@ -2,6 +2,23 @@
 
 > Chronological record of all wiki actions. Append-only.
 
+## [2026-07-10] ingest | 飞书机器人 Sealseek 通道配置
+
+- Source: 本次对话中完成飞书 sealclaw 机器人配置的实战经验。
+- Created formal page `domains/AI Agent工程/05-工具链/02-飞书机器人Sealseek通道配置.md`.
+- Created `domains/AI Agent工程/05-工具链/index.md`.
+- Updated `domains/AI Agent工程/index.md`.
+- Core knowledge: 飞书机器人连接 OpenClaw 的最小权限集（5 个权限 + 1 个事件）、批量导入 JSON、应用身份 vs 用户身份的选择、权限与事件的区别、Gateway 重启的必要性、可用性范围控制同事可见性。
+- 详细实操文档：`~/sealseek/飞书机器人权限配置指南/飞书机器人权限配置指南.md`.
+
+## [2026-07-08] ingest | 抖音视频：三步消除 image 反复重绘模糊感
+
+- Source: 抖音博主「宋跑跑」短视频，44 秒竖屏。
+- Archived raw at `raw/videos/视觉制作/03-AI商业视觉/三步教你消除-image反复重绘带来的模糊感-宋跑跑.mp4`.
+- Created formal page `domains/视觉制作/03-AI商业视觉/04-消除image反复重绘模糊感的方法.md`.
+- Updated `domains/视觉制作/03-AI商业视觉/index.md` and root `index.md`.
+- Core technique: PS 高斯模糊 → AI 逆向视觉解构 → 用反推提示词重新生成。
+
 ## [2026-07-06] ingest | AI短视频故事方法论书籍与案例编译
 
 - Ingested 7 effective book sources into `raw/books/` and `_meta/extraction-notes/`: `hey-whipple-squeeze-this-2016`, `invisible-ink-2017`, `made-to-stick-2007`, `the-coffee-break-screenwriter-2010`, `writing-short-films-2005`, `in-the-blink-of-an-eye-2001`, and `the-visual-story-2021`.
@@ -1471,3 +1488,38 @@
 - Updated `domains/AI Agent工程/03-Skill设计/00-Skill世界观.md`.
 - Added the principle that cross-platform skills may be designed from wiki knowledge, but must internalize reusable knowledge into `SKILL.md`, `references/`, scripts, or assets instead of requiring runtime reads from local wiki paths.
 - Added multi-branch skill design guidance: different input branches can converge into shared core modules, while `SKILL.md` should act as router/control plane and branch details should live in references for progressive disclosure.
+## [2026-07-07] revise | Skill回归测试方法补充完整流程与 partial-pass 红线
+
+- Updated `domains/AI Agent工程/03-Skill设计/03-主对话与干净子Agent的Skill回归测试方法.md`.
+- Clarified that local sample tests are only prechecks and cannot replace full user-flow regression.
+- Added `partial-pass / 预检通过` classification when a test does not cover the changed main-flow nodes, formal output contract, and high-risk branches.
+- Added guidance that regression prompts should not only test the exact bug just fixed; they should exercise the realistic workflow path affected by the change.
+## [2026-07-07] revise | AI故事视频Skill内化资产库生图Prompt方法
+
+- Updated local `ai-story-video-studio` skill, internalizing reusable methods from `domains/视觉制作/06-AI视频/11-AI短剧角色场景道具资产构建方法.md`.
+- Added asset-library prompt output for scenes, characters, props, and products.
+- Added the rule that open style tests must be timed storyboard prompts, not descriptive paragraphs.
+- Added scene camera coverage terms and image-reference reuse strategy for same-scene later angles.
+- Regression-tested with a clean sub-agent producing a complete production-method artifact with asset prompts and Seedance prompts.
+## [2026-07-07] ingest | 飞书文档「资产构建：角色定调与场景搭建」
+
+- Source: Feishu Docx `https://tcndype5nozr.feishu.cn/docx/KTILdGRvhox7OJxodK5cotzenEd`, section `二、资产构建：角色定调与场景搭建`, revision `100`.
+- Adapter: `llm-wiki-ingest/adapters/markdown-doc.md` over `lark-doc` fetch.
+- Archived raw section at `raw/webpages/feishu-ai-short-drama-assets-2026-07-07/section-asset-construction.md`.
+- Created extraction notes at `_meta/extraction-notes/feishu-ai-short-drama-assets-2026-07-07/`.
+- Created formal page `domains/视觉制作/06-AI视频/11-AI短剧角色场景道具资产构建方法.md`.
+- Updated routing: AI 视频 index, root index, and `queries/AI视频导演与分镜入口.md`.
+- Notes: 按用户要求没有固化 LibTV、即梦等工具步骤，而是提炼为角色/场景/道具资产协议、模型/API 路由、四视图、多视角场景、反打视觉锚点、道具白底资产和 QA 工作流；具体模型能力、价格与审核规则标记为执行前复核项。
+
+## [2026-07-07] revise | AI短剧资产构建页补充生图清单与提示词模板
+
+- Revised `domains/视觉制作/06-AI视频/11-AI短剧角色场景道具资产构建方法.md`.
+- Added explicit image inventory for role, scene, and prop asset libraries: 正面全身定妆图、四视图、状态变体、表情卡、动作卡、空镜全景图、2x2 多视角场景图、反打场景图、道具白底图、多角度图、细节图和状态图.
+- Added copy-ready prompt structures for role full-body image, role four-view image, role state variant, empty scene wide shot, 2x2 multi-view scene, reverse-angle scene, and prop white-background image.
+
+## [2026-07-07] query | 高价打入同款市场策略
+
+- Created `queries/高价打入同款市场策略.md`.
+- Synthesized from brand strategy, ecommerce selection/growth, visual conversion, and high-pricing KOC launch model pages.
+- Updated `index.md` query section.
+- Noted missing concrete category data: platform, price band, TOP competing links, cost/margin, review/search evidence, channel capability, and test budget.

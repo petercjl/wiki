@@ -1,8 +1,8 @@
 # Wiki Index
 
 > Content catalog. Every formal wiki page should be listed here.
-> Last updated: 2026-07-06
-> Total formal pages: 456
+> Last updated: 2026-07-08
+> Total formal pages: 458
 
 ## Domains
 
@@ -36,6 +36,7 @@
 - [[domains/AI Agent工程/05-工具链/01-OpenAI图像生成API集成指南|OpenAI 图像生成 API 集成指南]]：Image API 与 Responses API 的选择、参数、编辑、流式、错误处理和成本判断。
 - [[domains/视觉制作/03-AI商业视觉/02-Codex与Photoshop协作自动化能力边界|Codex 与 Photoshop 协作自动化能力边界]]：本机验证 Codex 控制 Photoshop、Apple Vision OCR、PSD 检查和批量视觉生产的能力边界。
 - [[domains/视觉制作/03-AI商业视觉/03-可编辑海报PSD重建Skill|可编辑海报 PSD 重建 Skill]]：Codex skill `editable-poster-psd-rebuild`，将 AI 带字电商海报重建为无文案底图、隐藏参考图和授权字体可编辑文字层 PSD。
+- [[domains/视觉制作/03-AI商业视觉/04-消除image反复重绘模糊感的方法|消除 image 反复重绘模糊感的方法]]：PS 高斯模糊 + AI 逆向视觉解构 + 重新生成，三步消除反复重绘导致的画质模糊。
 - [[domains/AI Agent工程/90-Skill注册表/01-个人与项目Skill注册库|个人/项目 Skill 注册库]]：只收录 用户自己创建、让 Agent 为项目定制、或明显服务于 用户项目/业务流程的 skill，是日常检索“有没有类似 skill”的优先入口。
 - [[domains/AI Agent工程/90-Skill注册表/02-跨Agent Skill注册库|跨 Agent Skill 注册库]]：统一检索 Codex、Hermes、Lark Agent、OpenClaw、SealSeek、Claude Code 的 skill，定位原始 `SKILL.md` 并判断复用或迁移可能。
 - [[domains/AI Agent工程/90-Skill注册表/03-Codex Skill注册页|Codex Skill 注册页]]：Codex 本地业务 skill 与系统 skill 的检索描述、输入方式、关键词和文件位置。
@@ -67,6 +68,7 @@
 - [[domains/视觉制作/06-AI视频/07-故事板铁三角AI视频控制法|AI视频控制资产系统：身份板、故事板、导演台与素材库]]：把身份板、故事板、导演台、商业素材库和风格效果图组织为 AI 视频生成前的控制资产系统，服务角色一致性、镜头结构、空间调度、商业替换和风格统一。
 - [[domains/视觉制作/06-AI视频/09-AI长视频连续性组接方法|AI长视频连续性组接方法]]：把 AI 长视频断裂问题转成剪辑连续性问题，用景别/角度变化、动作中衔接和分镜组接替代硬续 15 秒。
 - [[domains/视觉制作/06-AI视频/10-Seed-Audio短视频音频一致性工作流|Seed-Audio短视频音频一致性工作流]]：把多段短视频的音频一致性拆成整段 BGM、对白保留、人物声线参考和环境声/音效资产，明确 Seed-Audio 的 BGM 与内置 voice_type 声线生成用法。
+- [[domains/视觉制作/06-AI视频/11-AI短剧角色场景道具资产构建方法|AI短剧角色场景道具资产构建方法]]：把 AI 短剧角色定调、场景搭建和道具设计抽象为不依赖特定平台的资产协议、API/Skill 生成节点、四视图、多视角场景和 QA 工作流。
 - [[domains/视觉制作/06-AI视频/40-AI短视频故事方法论/index|AI短视频故事方法论]]：融合短片编剧、广告创意、传播记忆、视觉结构、剪辑节奏和案例库，服务产品营销短视频广告与情感短片。
 - [[domains/视觉制作/06-AI视频/40-AI短视频故事方法论/01-故事洞察与广告命题|故事洞察与广告命题]]：把产品事实、用户处境、人物任务和产品叙事功能压成可拍、可记忆的广告命题。
 - [[domains/视觉制作/06-AI视频/40-AI短视频故事方法论/02-短故事结构与情绪推进|短故事结构与情绪推进]]：用短片戏剧原则和七步故事，把短视频组织为处境、缺口、关键行动、变化和余味。
@@ -517,6 +519,7 @@
 - [[queries/品牌案例库调用入口|品牌案例库调用入口]]：Agent 按品牌问题调用案例、做策略类比和迁移判断前的读取入口。
 - [[queries/品牌大单品企划营销诊断入口|品牌大单品企划营销诊断入口]]：Agent 做大单品企划、卖点翻译、昵称化命名、详情页、短视频和直播表达前的读取入口。
 - [[queries/品牌差异化感知诊断入口|品牌差异化感知诊断入口]]：Agent 诊断品牌是否被感知、触点是否积累资产、记忆点如何重复前的读取入口。
+- [[queries/高价打入同款市场策略|高价打入同款市场策略]]：从价值认知、同款市场分层、卖点证据链、视觉价格感、KOC 起盘和数据递增角度回答高价进入同款市场的方法。
 - [[queries/品牌视觉标准诊断入口|品牌视觉标准诊断入口]]：Agent 诊断电商品牌视觉、12 项视觉标准、团队改图内耗和触点标准化前的读取入口。
 - [[queries/品牌策略诊断总入口|品牌策略诊断总入口]]：Agent 诊断品牌定位、品类心智、差异化、大单品、品牌视觉资产和内容资产前的总入口。
 - [[queries/电商品牌竞争战略诊断入口|电商品牌竞争战略诊断入口]]：Agent 诊断品类路线、心智定位、视觉美学、大单品和营销传播配称前的读取入口。
