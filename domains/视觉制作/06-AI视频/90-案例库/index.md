@@ -2,7 +2,7 @@
 title: AI商业短视频案例库
 type: index
 created: 2026-06-26
-updated: 2026-07-06
+updated: 2026-07-29
 domain: 视觉制作
 tags: [visual-production, ai-video, case-library, ecommerce-video]
 sources:
@@ -11,6 +11,9 @@ sources:
   - raw/transcripts/guantou-visuals-us-sportswear-dual-life-ad-2026-06-26/ch14-us-sportswear-dual-life-ad.raw.srt
   - raw/transcripts/guantou-visuals-low-alcohol-fruit-wine-relief-ad-2026-06-26/ch11-low-alcohol-fruit-wine-relief-ad.raw.srt
   - raw/transcripts/guantou-visuals-dragon-boat-festival-cultural-film-2026-06-26/ch04-dragon-boat-festival-cultural-film.raw.srt
+  - raw/videos/ai-tvc-million-course-2026-07-29/original.mp4
+  - raw/webpages/feishu-ai-tvc-three-step-2026-07-29/source-manifest.md
+  - _meta/extraction-notes/ai-tvc-million-course-2026-07-29/coverage-matrix.md
 status: active
 ---
 
@@ -32,6 +35,7 @@ status: active
 | 饮品软广如何把功能词翻译成年轻人的压力释放 | [[domains/视觉制作/06-AI视频/90-案例库/06-低度果酒：压力铺垫与自我批准的轻松|低度果酒：压力铺垫与自我批准的轻松]] |
 | 传统节日片如何不堆符号，而做出时间纵深 | [[domains/视觉制作/06-AI视频/90-案例库/07-端午安康：传统节日的时间纵深与史料美术|端午安康：传统节日的时间纵深与史料美术]] |
 | 日用品如何讲亲情、友情、爱情里的误会和解 | [[domains/视觉制作/06-AI视频/90-案例库/08-保温咖啡杯：关系误会与温度物证|保温咖啡杯：关系误会与温度物证]] |
+| 品牌片如何先建立世界，再让产品亮相而不沦为通用高级感 | [[domains/视觉制作/06-AI视频/90-案例库/09-香水与汽车TVC：从品牌世界到产品亮相|香水与汽车TVC：从品牌世界到产品亮相]] |
 
 ## 使用方式
 

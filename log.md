@@ -1523,3 +1523,12 @@
 - Synthesized from brand strategy, ecommerce selection/growth, visual conversion, and high-pricing KOC launch model pages.
 - Updated `index.md` query section.
 - Noted missing concrete category data: platform, price band, TOP competing links, cost/margin, review/search evidence, channel capability, and test budget.
+## 2026-07-29：编译 AI 品牌 TVC 气质、视觉符号与产品登场方法
+
+- 归档 2 小时 50 分 56 秒直播《一节课带你用 AI 做出百万 TVC 广告》，生成 Whisper large-v3-turbo ASR、684 张 15 秒关键帧、中文/英文 OCR 和 4 张阶段联系表。
+- 将直播与此前已完整检查图片、视频案例的飞书《AI TVC 广告三步法》交叉验证；修正“产品必须延后登场”为按平台、时长、产品陌生度和最低有效曝光决定的条件策略。
+- 新建 `AI品牌TVC的气质、视觉符号与产品登场`，把“高级感”还原为产品事实、目标人群向往、情绪、场景、人物、光色、镜头与声音的协调系统，并增加产品因果、替换测试和逐级生成门禁。
+- 新建 `香水与汽车TVC：从品牌世界到产品亮相`，对照香水的气氛/母题连续与汽车的价值—动作—产品因果；用运动鞋演示记录固定 Skill 重复生成资产、过量生成片段和成本失控的反例，不把案例品类硬编码。
+- 明确理解产品所用图片不等于后续生产资产；正式生成仍需重新选择或制作批准的产品身份参考，失败衍生图不得继续充当产品真值。
+- 课程中的模型排名、平台界面、价格、市场报价和促销内容保留在来源层；正式页沿用“参考图负责身份、文字描述发生什么”以及生成片段不带 BGM、最终剪辑统一配乐的现行方法。
+- 审计材料：`_meta/extraction-notes/ai-tvc-million-course-2026-07-29/` 与 `_meta/extraction-notes/feishu-ai-tvc-three-step-2026-07-29/`。
