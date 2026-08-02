@@ -6,6 +6,8 @@ updated: 2026-07-29
 domain: 视觉制作
 tags: [visual-production, ai-video]
 sources:
+  - raw/videos/douyin-prompt-layered-control-2026-07-23/original.mp4
+  - _meta/extraction-notes/douyin-prompt-layered-control-2026-07-23/coverage-matrix.md
   - raw/videos/ai-tvc-million-course-2026-07-29/original.mp4
   - _meta/extraction-notes/ai-tvc-million-course-2026-07-29/coverage-matrix.md
 status: active
@@ -13,6 +15,7 @@ status: active
 
 # AI视频
 
+- [[domains/AI Agent工程/09-多模态理解/04-广告故事与产品视频质检|广告故事与产品视频质检]]：从 Agent 证据化读取角度验收故事广告、产品广告、角色/产品连续性和 AIGC 动态质量。
 - [[domains/视觉制作/06-AI视频/01-Doubao-Seedance-2.0视频生成模型卡|Doubao-Seedance-2.0 视频生成模型卡]]
 - [[domains/视觉制作/06-AI视频/02-AI商业短视频规划方法|AI商业短视频规划方法]]：从产品诊断、案例检索、卖点翻译、人物冲突、镜头任务到 Agent 化输出，沉淀 AI 商业短视频的规划主线。
 - [[domains/视觉制作/06-AI视频/03-导演式镜头设计方法|导演式镜头设计方法]]：把故事命题拆成镜头任务、观众感知、摄影选择、运镜选择和前后镜头关系，避免只堆电影感 prompt。
@@ -23,6 +26,8 @@ status: active
 - [[domains/视觉制作/06-AI视频/09-AI长视频连续性组接方法|AI长视频连续性组接方法]]：把 AI 长视频的断裂问题转成剪辑连续性问题，用景别/角度变化、动作中衔接和分镜组接替代硬续 15 秒。
 - [[domains/视觉制作/06-AI视频/10-Seed-Audio短视频音频一致性工作流|Seed-Audio短视频音频一致性工作流]]：把多段短视频的音频一致性拆成整段 BGM、对白保留、人物声线参考和环境声/音效资产，明确 Seed-Audio 的 BGM 与内置 voice_type 声线生成用法。
 - [[domains/视觉制作/06-AI视频/11-AI短剧角色场景道具资产构建方法|AI短剧角色场景道具资产构建方法]]：把飞书课程中的角色定调、场景搭建和道具设计抽象为可由 API/Skill 实现的资产协议、候选生成、四视图、多视角场景和 QA 工作流。
+- [[domains/视觉制作/06-AI视频/12-AI视频Prompt分层强控方法|AI视频 Prompt 分层强控方法]]：解释 Prompt 细节过载、约束竞争、文本压缩、条件引导和时间一致性压力，并用“硬约束—关键细节—风格控制”及辅助控制资产提高服从度。
+- [[domains/视觉制作/06-AI视频/13-AI短视频生成提示词方法论：TVC与剧情短片|AI短视频生成提示词方法论：TVC与剧情短片]]：基于本机 5 秒 TVC 与 15 秒剧情实验，沉淀自然镜头优先、最小充分约束、参考图分工、人物关系/背景行为、声音和单变量测试方法。
 - [[domains/视觉制作/06-AI视频/14-AI品牌TVC的气质、视觉符号与产品登场|AI品牌TVC的气质、视觉符号与产品登场]]：从产品与人群事实建立气质坐标，把抽象价值翻译成可见证据，并按平台、时长和曝光需求决定产品登场；包含生产门禁、参考职责与控费修复规则。
 - [[domains/视觉制作/06-AI视频/40-AI短视频故事方法论/index|AI短视频故事方法论]]：融合短片编剧、广告创意、传播记忆、视觉结构、剪辑节奏和案例库，把产品营销短视频与情感短片转成故事命题、人物动机、故事模式和分镜生产工作流。
 - [[domains/视觉制作/06-AI视频/25-AI短视频分镜通用能力/index|AI短视频分镜通用能力]]：建设“故事大纲 -> AI 短视频分镜提示词”的通用能力层，覆盖拆镜、镜头字段、景别、运镜、光线色彩、动作场景、连续性、台词声音控制和 Agent 模板。

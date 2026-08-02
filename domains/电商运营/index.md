@@ -1,10 +1,17 @@
 ---
 title: 电商运营知识域
-type: domains/视觉制作/05-小红书风格AI生图/index
+type: source-summary
 created: 2026-06-14
-updated: 2026-07-01
+updated: 2026-07-29
 domain: 电商运营
 tags: [ecommerce, knowledge-base]
+sources:
+  - raw/webpages/1688-clawhub-skill-library-2026-07-16/
+  - _meta/extraction-notes/1688-clawhub-skill-library-2026-07-16/coverage-matrix.md
+  - raw/videos/douyin-ecommerce-bootcamp-2026/ch01.mp4
+  - _meta/extraction-notes/douyin-ecommerce-bootcamp-2026/coverage-matrix.md
+  - raw/articles/agent-driven-ecommerce-cli-methodology-2026-07-29/source-evidence.md
+  - _meta/extraction-notes/agent-driven-ecommerce-cli-methodology-2026-07-29/coverage-matrix.md
 status: active
 ---
 
@@ -17,8 +24,11 @@ status: active
 1. [[domains/电商运营/01-通用电商方法/domains/视觉制作/05-小红书风格AI生图/index|通用电商方法]]：先理解平台无关的经营、咨询、渠道、结算、物流履约和财务接口问题。
 2. [[domains/电商运营/02-淘宝天猫/domains/视觉制作/05-小红书风格AI生图/index|淘宝天猫]]：淘宝/天猫平台规则、店铺运营、营销工具、付费投放和天猫超市合作。
 3. [[domains/电商运营/03-京东/domains/视觉制作/05-小红书风格AI生图/index|京东]]：京东自营、采销、入驻和平台合作知识。
-4. [[domains/电商运营/20-跨境电商/domains/视觉制作/05-小红书风格AI生图/index|跨境电商]]：中小企业出海、平台选择、本地化、物流、支付、合规和风险。
-5. [[domains/电商运营/30-ERP与系统工具/index|ERP与系统工具]]：旺店通等电商系统、开放 API 和 Agent 自动化接口。
+4. [[domains/电商运营/04-拼多多/index|拼多多]]：拼多多流量、标签、店铺类型、保证金、类目与合规风控。
+5. [[domains/电商运营/05-抖音/index|抖音电商]]：抖音商品卡、商机选品、内容电商、达人合作、直播和投流。
+6. [[domains/电商运营/07-1688/index|1688]]：1688 找货、供应商、采购、分销、活动、交易与平台 CLI。
+7. [[domains/电商运营/20-跨境电商/domains/视觉制作/05-小红书风格AI生图/index|跨境电商]]：中小企业出海、平台选择、本地化、物流、支付、合规和风险。
+8. [[domains/电商运营/30-ERP与系统工具/index|ERP与系统工具]]：旺店通等电商系统、开放 API 和 Agent 自动化接口。
 
 ## 01 通用电商方法
 
@@ -45,11 +55,12 @@ status: active
 - [[domains/电商运营/03-京东/domains/视觉制作/05-小红书风格AI生图/index|京东知识入口]]：京东平台专属知识入口。
 - [[domains/电商运营/03-京东/01-京东自营入驻解析|京东自营入驻解析]]：B2B2C 模式、货权、采销、毛保、资质、费用和入驻路径。
 
-## 04-06 待承接平台
+## 04-07 平台
 
-- [[domains/电商运营/04-拼多多/domains/视觉制作/05-小红书风格AI生图/index|拼多多]]：未来承接拼多多平台专属规则、运营方法和案例。
-- [[domains/电商运营/05-抖音/domains/视觉制作/05-小红书风格AI生图/index|抖音电商]]：未来承接抖音电商平台规则、内容电商、达人合作和投放方法。
+- [[domains/电商运营/04-拼多多/index|拼多多]]：拼多多流量与权重、标签、开店决策、保证金、主营类目和平台红线。
+- [[domains/电商运营/05-抖音/index|抖音电商]]：商品卡行业机会、商机中心、跟款竞品，以及后续内容电商、达人合作和投放方法。
 - [[domains/电商运营/06-小红书/domains/视觉制作/05-小红书风格AI生图/index|小红书电商]]：未来承接小红书电商、内容种草、店铺和交易闭环知识。
+- [[domains/电商运营/07-1688/index|1688 电商平台]]：1688 平台专属找货、供应商、采购、分销、活动、交易、店铺工具与 CLI。
 
 ## 20 跨境电商
 
@@ -60,6 +71,8 @@ status: active
 ## 30 ERP与系统工具
 
 - [[domains/电商运营/30-ERP与系统工具/index|ERP与系统工具入口]]：电商系统和自动化接口入口。
+- [[domains/AI Agent工程/10-插件Skill与CLI/01-Agent驱动型电商CLI设计与开发规范|Agent 驱动型电商 CLI 设计与开发规范]]：tbcli、dycli、jdcli、alicli等跨渠道工具的共同能力、安全、交付和发布规范。
+- [[queries/Agent驱动型电商CLI开发入口|Agent 驱动型电商 CLI 开发入口]]：新增电商渠道CLI或网页读写能力时的Agent入口。
 - [[domains/电商运营/30-ERP与系统工具/01-旺店通开放平台API/index|旺店通开放平台 API 知识库]]：77 个旺店通 ERP 开放接口的目录、全局调用约定和 raw 归档入口。
 - [[domains/电商运营/30-ERP与系统工具/02-快递100实时查询API|快递100实时查询 API]]：用快递100运单实时查询补足旺店通订单的揽收、在途、派件、签收和疑难状态。
 - [[queries/wangdian-api-skill-creation|旺店通 API Skill 创建查询入口]]：Agent 创建旺店通 API skill 前的读取入口和输出结构。

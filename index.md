@@ -1,16 +1,42 @@
+---
+title: Wiki Index
+type: concept
+created: 2026-06-14
+updated: 2026-07-29
+domain: meta
+tags: [knowledge-base, index]
+sources:
+  - raw/articles/agent-video-understanding-2026-07-23/
+  - _meta/extraction-notes/agent-video-understanding-2026-07-23/coverage-matrix.md
+  - raw/webpages/1688-clawhub-skill-library-2026-07-16/
+  - _meta/extraction-notes/1688-clawhub-skill-library-2026-07-16/coverage-matrix.md
+  - raw/videos/douyin-ecommerce-bootcamp-2026/ch01.mp4
+  - _meta/extraction-notes/douyin-ecommerce-bootcamp-2026/coverage-matrix.md
+  - raw/articles/agent-driven-ecommerce-cli-methodology-2026-07-29/source-evidence.md
+  - _meta/extraction-notes/agent-driven-ecommerce-cli-methodology-2026-07-29/coverage-matrix.md
+status: active
+---
+
 # Wiki Index
 
 > Content catalog. Every formal wiki page should be listed here.
 > Last updated: 2026-07-29
-> Total formal pages: 460
+> Total formal pages: 484
 
 ## Domains
 
 - [[domains/电商运营/index|电商运营知识域]]：电商运营方法论、指标、SOP 和案例。
+- [[domains/电商运营/07-1688/index|1688 电商平台]]：1688 找货、供应商、采购、分销、活动、交易、店铺工具与平台 CLI。
+- [[queries/1688找货采购与铺货Agent入口|1688 找货采购与铺货 Agent 入口]]：Agent 处理 1688 找货、寻源、询盘、铺货、活动和采购单任务前的路由入口。
+- [[domains/电商运营/04-拼多多/index|拼多多知识入口]]：按知识点组织流量、标签、店铺类型、保证金、主营类目与合规风控。
+- [[queries/拼多多开店与合规决策|拼多多开店与合规决策]]：店铺类型、多店、保证金、主营类目和规则红线查询入口。
 - [[domains/财税与经营财务/index|财税与经营财务知识域]]：企业财税、经营财务、业财一体、股权激励、战略财务、内控和财务组织能力。
 - [[domains/视觉制作/index|视觉制作知识域]]：主图、详情页、AI 生图、拍摄、版式和视觉转化方法。
 - [[domains/品牌策略/index|品牌策划知识域]]：品牌定位、人群、心智、内容策略和品牌表达方法。
 - [[domains/AI Agent工程/index|AI Agent 工程知识域]]：LLM Wiki、Skill、工具链、自动化工作流与多 Agent 工程方法。
+- [[domains/AI Agent工程/09-多模态理解/index|Agent 多模态理解]]：短教学视频、长课程和广告片的证据化读取、检索、推理与质检。
+- [[domains/AI Agent工程/格式化文档/index|格式化文档]]：Word、PDF、电子表格、演示文稿和在线文档的结构、格式、模板与验收方法。
+- [[queries/Agent读懂视频入口|Agent 读懂视频入口]]：Codex、SealSeek/OpenClaw 读取或分析视频时的任务路由。
 
 ## Shared
 
@@ -24,6 +50,16 @@
 ## AI Agent Engineering
 
 - [[domains/AI Agent工程/index|AI Agent 工程知识域]]：LLM Wiki、Skill、工具链、自动化工作流与多 Agent 工程方法。
+- [[domains/AI Agent工程/格式化文档/index|格式化文档]]：Agent 正式文档输出的设计与验收入口；当前包含完整的 Word 第一版知识体系。
+- [[queries/Word文档格式与模板选择入口|Word 文档格式与模板选择入口]]：收到 Word 排版、美化、模板或格式审查任务时的执行路由。
+- [[domains/AI Agent工程/09-多模态理解/index|Agent 多模态理解]]：把视频编译为带时间坐标的 ASR、OCR、场景、帧、对象与结论证据。
+- [[domains/AI Agent工程/09-多模态理解/01-Agent读懂视频的证据化架构|Agent 读懂视频的证据化架构]]：定义六层证据、统一时间轴、读取深度与完成条件。
+- [[domains/AI Agent工程/09-多模态理解/02-短教学视频读取工作流|短教学视频读取工作流]]：抖音、视频号和 1—15 分钟教程。
+- [[domains/AI Agent工程/09-多模态理解/03-长教学视频分层索引与检索|长教学视频分层索引与检索]]：1—2 小时以上课程和跨视频资料。
+- [[domains/AI Agent工程/09-多模态理解/04-广告故事与产品视频质检|广告故事与产品视频质检]]：故事、镜头、声音、连续性、产品一致性和质量严重度。
+- [[domains/AI Agent工程/09-多模态理解/05-Codex与SealSeek视频读取实现协议|Codex 与 SealSeek 视频读取实现协议]]：稳定 CLI、文件协议、证据账本和失败降级。
+- [[domains/AI Agent工程/09-多模态理解/06-开源项目与技术选型|Agent 视频理解开源项目与技术选型]]：GitHub 项目分级、最小技术栈和部署门槛。
+- [[queries/Agent读懂视频入口|Agent 读懂视频入口]]：收到视频理解任务时的标准诊断和输出入口。
 - [[domains/AI Agent工程/01-知识系统/01-LLM Wiki个人知识库运行闭环|LLM Wiki 个人知识库运行闭环]]：用 Ingest / Query / Lint 三个动作，把知识库从“资料堆”变成持续复利的个人知识系统。
 - [[domains/AI Agent工程/06-自动化工作流/index|AI Agent 自动化工作流]]：沉淀目标、工具、证据、评审、循环、停止条件和经验回写组成的执行系统。
 - [[domains/AI Agent工程/06-自动化工作流/01-Loop Engineering个人方法论|Loop Engineering 个人方法论]]：把 loop engineering 定义为围绕可证据化目标设计 Agent 执行、评审、修正、记录和停止的循环系统。
@@ -31,9 +67,21 @@
 - [[domains/AI Agent工程/03-Skill设计/index|Skill 设计]]：Agent skill 的设计、测试、演化和注册方法入口。
 - [[domains/AI Agent工程/03-Skill设计/00-Skill世界观|Skill 世界观]]：将 skill 定义为大模型执行复杂任务的说明书、定向知识库和可演化执行知识体，强调主线清晰、异常补丁、工作流节点和回主线机制。
 - [[domains/AI Agent工程/03-Skill设计/03-主对话与干净子Agent的Skill回归测试方法|主对话与干净子 Agent 的 Skill 回归测试方法]]：主 Agent 负责设计和落盘，干净子 Agent 负责在无主对话背景下回归验证 skill 是否独立有效。
+- [[domains/AI Agent工程/03-Skill设计/04-可分享跨Agent Skill创建方法|可分享跨 Agent Skill 创建方法]]：以用户拥有的 portable 扩展组合系统 creator，避免本机信息泄漏并隔离跨 Agent 平台差异。
+- [[domains/AI Agent工程/08-插件工程/index|Agent 插件工程]]：把 CLI、Skill、MCP、Connector、Hook 和 Runtime 组织为可安装、可升级、可治理能力包。
+- [[domains/AI Agent工程/08-插件工程/01-Agent插件架构与设计方法论|Agent 插件架构与设计方法论]]：用认知、执行、连接、治理、分发五面模型定义 Plugin 的工程边界。
+- [[domains/AI Agent工程/10-插件Skill与CLI/index|插件、Skill 与 CLI]]：业务需求到稳定 CLI、Skill 认知层和 Plugin 分发层的连续工程入口。
+- [[domains/AI Agent工程/10-插件Skill与CLI/01-Agent驱动型电商CLI设计与开发规范|Agent 驱动型电商 CLI 设计与开发规范]]：先把跨渠道业务能力沉淀为可发现、可停止、可测试、可发布的执行核心。
+- [[domains/AI Agent工程/10-插件Skill与CLI/02-从CLI与Skill演进为Codex插件|从 CLI 与 Skill 演进为 Codex 插件]]：通过交接门后，把稳定 CLI 接入 Skill 并封装为 Codex Plugin。
+- [[queries/Agent插件设计与CLI改造|Agent 插件设计与 CLI 改造]]：插件架构诊断、CLI/MCP 选择和 Marketplace 规划的路由入口。
 - [[domains/AI Agent工程/03-Skill设计/01-LLM Wiki Skill同源包|LLM Wiki Skill 同源包]]：Codex 维护、GitHub 分发、SealSeek/Hermes 安装使用的 LLM Wiki skill 收敛规则与发布入口。
 - [[domains/AI Agent工程/03-Skill设计/02-无限画板Skill写作知识库/index|无限画板 Skill 写作知识库]]：从历史无限画板 skill 中沉淀出的写作规则、工具规范、任务范式、prompt 模板、反坑清单和质量检查。
 - [[domains/AI Agent工程/05-工具链/01-OpenAI图像生成API集成指南|OpenAI 图像生成 API 集成指南]]：Image API 与 Responses API 的选择、参数、编辑、流式、错误处理和成本判断。
+- [[domains/AI Agent工程/05-工具链/03-公司共享GPU工作节点与分时调度方法|公司共享 GPU 工作节点与分时调度方法]]：从远程 GPU 原型演进到公司级分时共享平台的方法；超分项目当前仅完成初步测试。
+- [[domains/AI Agent工程/05-工具链/04-Real-ESRGAN远程超分案例|Real-ESRGAN 远程超分案例]]：Tailscale、SSH/SCP 和 Windows RTX 3060 Ti 的远程超分案例。
+- [[queries/公司GPU共享与远程任务调度|公司 GPU 共享与远程任务调度]]：公司 GPU 共享、异地访问、队列和调度的 Agent 查询入口。
+- [[domains/AI Agent工程/10-插件Skill与CLI/01-Agent驱动型电商CLI设计与开发规范|Agent 驱动型电商 CLI 设计与开发规范]]：把渠道网页和API能力沉淀成Agent可发现、可停止、可测试、可发布CLI的跨平台方法。
+- [[queries/Agent驱动型电商CLI开发入口|Agent 驱动型电商 CLI 开发入口]]：创建或扩展 tbcli、dycli、jdcli、alicli 时的标准查询路由。
 - [[domains/视觉制作/03-AI商业视觉/02-Codex与Photoshop协作自动化能力边界|Codex 与 Photoshop 协作自动化能力边界]]：本机验证 Codex 控制 Photoshop、Apple Vision OCR、PSD 检查和批量视觉生产的能力边界。
 - [[domains/视觉制作/03-AI商业视觉/03-可编辑海报PSD重建Skill|可编辑海报 PSD 重建 Skill]]：Codex skill `editable-poster-psd-rebuild`，将 AI 带字电商海报重建为无文案底图、隐藏参考图和授权字体可编辑文字层 PSD。
 - [[domains/视觉制作/03-AI商业视觉/04-消除image反复重绘模糊感的方法|消除 image 反复重绘模糊感的方法]]：PS 高斯模糊 + AI 逆向视觉解构 + 重新生成，三步消除反复重绘导致的画质模糊。
@@ -64,6 +112,8 @@
 - [[domains/视觉制作/06-AI视频/03-导演式镜头设计方法|导演式镜头设计方法]]：把故事命题拆成镜头任务、观众感知、摄影选择、运镜选择和前后镜头关系，作为 AI 商业短视频的导演工作台。
 - [[domains/视觉制作/06-AI视频/04-商业短视频摄影与运镜语法|商业短视频摄影与运镜语法]]：整理景别、机位、构图、运镜、光线、剪辑关系和品类镜头策略，服务分镜和 AI 视频 prompt。
 - [[domains/视觉制作/06-AI视频/05-AI视频导演Prompt模板|AI视频导演 Prompt 模板]]：把中文导演分镜表转成可执行的视频生成 prompt，强调单一主运镜、动作、光线和负向限制。
+- [[domains/视觉制作/06-AI视频/12-AI视频Prompt分层强控方法|AI视频 Prompt 分层强控方法]]：用约束优先级解释细节过载，并把 Prompt 拆为硬约束、关键细节和风格控制三层。
+- [[domains/视觉制作/06-AI视频/13-AI短视频生成提示词方法论：TVC与剧情短片|AI短视频生成提示词方法论：TVC与剧情短片]]：从 5 秒 TVC 与 15 秒剧情本机实验提炼自然镜头优先、约束负载、最小充分参考、人物关系/背景行为与声音控制方法。
 - [[domains/视觉制作/06-AI视频/14-AI品牌TVC的气质、视觉符号与产品登场|AI品牌TVC的气质、视觉符号与产品登场]]：从产品研究和广告任务建立气质、视觉证据与产品登场策略，并用确认门控制资产和视频生成。
 - [[domains/视觉制作/06-AI视频/90-案例库/09-香水与汽车TVC：从品牌世界到产品亮相|香水与汽车TVC：从品牌世界到产品亮相]]：对照香水的气氛连续与汽车的产品因果，并记录运动鞋工作流中的重复资产和成本失控反例。
 - [[domains/视觉制作/06-AI视频/06-AI视频导演学习资料与数据集|AI视频导演学习资料与数据集]]：汇总公开资料、GitHub、论文、数据集和书单，服务导演/摄影知识补课和后续拆片。
@@ -212,8 +262,14 @@
 - [[domains/电商运营/03-京东/index|京东知识入口]]：京东平台专属的入驻、采销、自营、运营规则和案例。
 - [[domains/电商运营/03-京东/01-京东自营入驻解析|京东自营入驻解析]]：京东自营 B2B2C 模式、货权、采销、毛保、资质、费用和入驻路径。
 - [[domains/电商运营/04-拼多多/index|拼多多知识入口]]：未来承接拼多多平台专属规则、运营方法和案例。
-- [[domains/电商运营/05-抖音/index|抖音电商知识入口]]：未来承接抖音电商平台规则、内容电商、达人合作和投放方法。
+- [[domains/电商运营/05-抖音/index|抖音电商知识入口]]：抖音商品卡行业机会、商机中心、跟款竞品，以及后续内容电商、达人合作和投放方法。
+- [[domains/电商运营/05-抖音/01-商品卡运营/index|抖音商品卡运营]]：数据化选品、类目筛选、商机中心和竞品分析方法。
 - [[domains/电商运营/06-小红书/index|小红书电商知识入口]]：未来承接小红书电商、内容种草、店铺和交易闭环知识。
+- [[domains/电商运营/07-1688/index|1688 电商平台]]：平台专属找货、供应商、采购、分销、活动、交易与工具知识入口。
+- [[domains/电商运营/07-1688/01-1688CLI/index|1688 CLI]]：牛顿Hub/ClawHub 电商 AI Skill 的能力地图、意图路由、安全与输出契约。
+- [[domains/电商运营/07-1688/01-1688CLI/01-1688采购与分销Agent能力地图|1688 采购与分销 Agent 能力地图]]：七个 1688 Skill 的触发意图、CLI 能力、输入输出和风险边界。
+- [[domains/电商运营/07-1688/01-1688CLI/02-从找货到采购铺货的意图路由与工作流|从找货到采购铺货的意图路由与工作流]]：从商品搜索、供应商、询盘、活动到铺货和采购单的决策工作流。
+- [[domains/电商运营/07-1688/01-1688CLI/03-1688电商Skill执行安全与输出契约|1688 电商 Skill 执行安全与输出契约]]：reference 前置、AK、确认门禁、失败边界和工具输出规则。
 - [[domains/电商运营/01-通用电商方法/02-平台渠道与入驻合作/01-天猫超市与京东自营合作模式对比|天猫超市与京东自营合作模式对比]]：对比两类平台合作在货权、仓配、费用、运营分工和适配商家上的差异。
 - [[domains/电商运营/01-通用电商方法/02-平台渠道与入驻合作/02-平台入驻与自营合作诊断模板|Agent 使用模板：平台入驻与自营合作诊断]]：用于分析品牌是否适合进入天猫超市、京东自营或类似平台渠道。
 - [[domains/电商运营/01-通用电商方法/01-电商企业咨询与交付/index|咨询逻辑：电商企业辅导与咨询交付体系]]：章节目录，按电商企业辅导形势、咨询底层逻辑、谈单带教、满意度、交付体系和专业认知模型组织。
@@ -509,6 +565,7 @@
 
 ## Queries
 
+- [[queries/1688找货采购与铺货Agent入口|1688 找货采购与铺货 Agent 入口]]：Agent 处理 1688 找商品、比价、供应商、询盘、活动、铺货、分销订单和 88 生意通采购单前的读取入口。
 - [[queries/AI短视频故事策划|AI 短视频故事策划]]：Agent 做产品营销短视频广告、情感短片、品牌故事、创意命题和故事到分镜前策划时的读取入口。
 - [[queries/AI视频导演与分镜入口|AI 视频导演与分镜入口]]：Agent 写 AI 视频脚本、分镜、导演表、首尾帧方案和图生视频 prompt 前的读取入口。
 - [[queries/AI视频导演知识系统入口|AI 视频导演知识系统入口]]：Agent 处理故事板、轴线、连续性、剪辑、场面调度、POV、移动摄影和转场问题前的读取入口。
@@ -535,6 +592,7 @@
 - [[queries/平台入驻与自营合作诊断入口|平台入驻与自营合作诊断入口]]：Agent 判断天猫超市、京东自营等平台入驻、自营合作、资质、毛利和服务商风险前的读取入口。
 - [[queries/精益创业验证诊断入口|精益创业验证诊断入口]]：Agent 判断新品、品牌、工具、服务或项目想法是否值得做以及先验证什么前的读取入口。
 - [[queries/选品与运营增长诊断入口|选品与运营增长诊断入口]]：Agent 诊断电商选品库、月度打款、主图卖点、候选款和运营增长动作前的读取入口。
+- [[queries/抖音商品卡选品诊断入口|抖音商品卡选品诊断入口]]：Agent 诊断抖音类目机会、商机商品、跟款生命周期和竞品筛选前的读取入口。
 
 ## Decisions
 

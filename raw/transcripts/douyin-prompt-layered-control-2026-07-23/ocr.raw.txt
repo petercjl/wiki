@@ -1,0 +1,573 @@
+
+## /Users/pechen/wiki/raw/assets/douyin-prompt-layered-control-2026-07-23/ocr/frame_001.txt
+aan   +
+”本         e          | |
+Toms         PASH oe      1 a
+Ei) B)                     ud
+=             Home rho          as   i y oo
+
+## /Users/pechen/wiki/raw/assets/douyin-prompt-layered-control-2026-07-23/ocr/frame_002.txt
+Eee                                                            | CONCEPT NOTE
+© SHORT PROMPT                    © DETAILED PROMPT
+一句话输入                                SHA Ties
+一个女生在海边走。                        vs)   278 HR 卡其风衣
+。 输出稳定                                   。 输出失控
+主体、场景、动作均成立                                Bike. MAG, RAP
+fe on od
+你一旦加入细节
+
+## /Users/pechen/wiki/raw/assets/douyin-prompt-layered-control-2026-07-23/ocr/frame_003.txt
+Rd                                                                          |  CONCEPT NOTE
+esHoRT PROMPT                                   * DETAILED PROMPT
+一句话输入                                      SM Tie
+一个女生在海边走。                            vs)    278 )( MR ) 卡其风衣 ) 逆光 ) | 35mm
+tate
+。 输出稳定                                   。 输出失控
+主体、场景、动作均成立                                 ARE. MAB, HAH
++    Taf)      FA
+1 TC lee PEE tre
+| 提示词越细，不一定越听话。
+
+## /Users/pechen/wiki/raw/assets/douyin-prompt-layered-control-2026-07-23/ocr/frame_004.txt
+TO ‘ | 由
+一 = =e             P= ea
+
+ss E nt : =
+= '9F a _is ae
+
+## /Users/pechen/wiki/raw/assets/douyin-prompt-layered-control-2026-07-23/ocr/frame_005.txt
+s
+越具体，为什么越不听话?
+未经分层的详细，会让模型同时承担太多目标
+您 大方向简单              A 细节过载
+稳定、清晰、容易收敛                                       冲突、抢资源、容易丢设定
+  一个女生在海边走         DE | jase) || RS | BY | Gan
+                   ee gent | She mee
+          @ eo
+            @© 真正的 Prompt 强控，不是写得更长，而是分清优先级。
+
+## /Users/pechen/wiki/raw/assets/douyin-prompt-layered-control-2026-07-23/ocr/frame_006.txt
+越具体，为什么越不听话?
+未经分层的详细，会让模型同时承担太多目标
+您 大方向简单                              A 细节过载
+BE. HM, SACK                                       冲突、抢资源、容易丢设定
+一个女生在海j走 |                  28 | 号 | FROME | BE |二而
+                                            eA |。 表情克制 | Re | Ree
+eee ALA RAY fe aa 2 aE I 7h Fe i) =
+             G 真正的 Prompt 强控，不是写得更长，而是分清优先级。
+
+## /Users/pechen/wiki/raw/assets/douyin-prompt-layered-control-2026-07-23/ocr/frame_007.txt
+、      aos 三|  4 束满
+这不是玄学，是约束满足
+模型不是逐条执行命令，而是在有限步数里寻找最优解
+一一一               (a)
+口 主体     ve
+a                 v
+om (6)
+———S    —    ©   cm六ne     有限步数，逐步收敛
+如军你做过败次NB测斌      not
+              © Prompt 越复杂，模型要平衡的目标就越多。
+
+## /Users/pechen/wiki/raw/assets/douyin-prompt-layered-control-2026-07-23/ocr/frame_008.txt
+.      Boas 曰  4 束满
+这不是玄学，是约束满足
+模型不是逐条执行命令，而是在有限步数里寻找最优解
+—               Ame |
+OC 主体                                        Jo      we
+=                  v
+om | (6)
+| 口 mw                                4          ChOE-@
+[=a   和         fv  Er      有限步数，逐步收敛
+RE EME
+            © Prompt 越复杂,模型要平衡的目标就越多。
+
+## /Users/pechen/wiki/raw/assets/douyin-prompt-layered-control-2026-07-23/ocr/frame_009.txt
+>       3    a 6  J 束满
+这不是系学，是约束满足
+模型不是逐条执行命令，而是在有限步数里寻找最优解
+一一一一                 {
+口 主体         ve
+ms,                     v
+om” | (6)
+| O a        模型不是导演助理           re  CrO-O-@
+SSS     nr   9         ny    “HE    步数，逐步收敛
+MCE PR ete UE ae oe he
+              © Prompt 越复杂，模型要平衡的目标就越多。
+
+## /Users/pechen/wiki/raw/assets/douyin-prompt-layered-control-2026-07-23/ocr/frame_010.txt
+4 N/ i N Yh  yy
+~ “a §              eh
+‘                  1. tN
+二站              oi oe
+ i) 2 (            EG MY
+|     7/      |        了一  Ne
+ee 2    or
+i ha   a
+"|
+a           “Has »,
+Home Court         用      的
+
+## /Users/pechen/wiki/raw/assets/douyin-prompt-layered-control-2026-07-23/ocr/frame_011.txt
+人                                                            | CONCEPT NOTE
+@ semantic      主体与含义是否成立
+人                e Composition    镜头与画面结构                        Puen
+Text Condition                                                                            Generated Result
+创作者给出的提示文本        © Motion       am Sam                        模型输出的画面 / 视频
+@O style         质感、光调、风格
+=]                          士
+SBE Raa
+| Prompt 服从度，就是文本条件约束结果的程度。
+
+## /Users/pechen/wiki/raw/assets/douyin-prompt-layered-control-2026-07-23/ocr/frame_012.txt
+GBS                                                                          | CONCEPT NOTE
+@ semantic      主体与含义是否成立                .
+和                      e Composition     镜头与画面结构                          *       ee aad
+Text Condition                                                                            Generated Result
+创作者给出的提示文本        © Motion       am Sem                   ，     模型输出的画面 / 视频
+四 style         质感、光调、风格                   .
+| Prompt 服从度，就是文本条件约束结果的程度。
+
+## /Users/pechen/wiki/raw/assets/douyin-prompt-layered-control-2026-07-23/ocr/frame_013.txt
+BAAS        Ess w    a
+Prompt 不是命令清单，而是语义向量
+文本条件会通过注意力和引导机制，影响每一步去噪
+@ Prompt 输入         人@ 文本编码器         © 交叉注意力 + 条件引导            人@ suxe
+二一              交叉注意力       二
+|      压缩成语义向量    by          a         eee =
+短发女性在黄强海边行走 +\(= 3 eeee…e) >) 5 = | = Boe   -
+和  ace   ,   aa
+LAS Zhi Sy AS Use 2s Pi Se 2H lea) ee
+             © 模型看到的不是文字本身，而是被压缩后的高维语义信号。
+
+## /Users/pechen/wiki/raw/assets/douyin-prompt-layered-control-2026-07-23/ocr/frame_014.txt
+BAASE            四 :五 w      a
+Prompt 不是命令清单，而是语义向量
+文本条件会通过注意力和引导机制，影响每一步去噪
+@@ Prompt 输入         人@ 文本编码器         © 交叉注意力 + 条件引导            O «uve
+到一二                                    交叉注意力
+|       Hania Cait    有 aN          a     rei  =
+短发女性在黄埋海边行走 >=} eeee…e) >|) 7c amma aa |   a
+本          SPER      逐步收敛
+ASS VARA
+             © 模型看到的不是文字本身，而是被压缩后的高维语义信号。
+
+## /Users/pechen/wiki/raw/assets/douyin-prompt-layered-control-2026-07-23/ocr/frame_015.txt
+人                                                            | coNcEpr NorE
+MISCONCEPTION                                     Semantic Vector Field
+O 短发
+O 卡其风衣
+=e                 Text
+Ua                      Encoder
+OD 35mm
+O 慢推
+O 表情克制
+音 ,开!     五|          f=)_ Fm
+te 2! SU A Ae aoe oe
+
+## /Users/pechen/wiki/raw/assets/douyin-prompt-layered-control-2026-07-23/ocr/frame_016.txt
+BE                                                            | CONCEPT NOTE
+RAR                                              Semantic Vector Field
+口 短发                         ;             。                     家
+口 卡其风胡              .
+eo                   ext                               .      :
+O 逆光                      Encoder                    机                              @
+口 35mm                                            .        . °   °          _         2
+口 慢扒       ‘2        ” le
+O eset                                   mt 6
+
+Eee:           一
+
+SS re (SB) Ft
+| 模型看到的不是执行清单，而是语义向量。
+
+## /Users/pechen/wiki/raw/assets/douyin-prompt-layered-control-2026-07-23/ocr/frame_017.txt
+.   >                有 a. yi NS
+Oe)         lees ee
+i.          和
+— 4        2     |   fi Ps ws
+4                ET OS           Nee Pee
+Home Cow?         "      eh,      Sei
+7
+
+## /Users/pechen/wiki/raw/assets/douyin-prompt-layered-control-2026-07-23/ocr/frame_018.txt
+%       me       -       ~~
+=  a             ail   us          —
+a      ————
+a          a
+SB eR RT TE)
+
+## /Users/pechen/wiki/raw/assets/douyin-prompt-layered-control-2026-07-23/ocr/frame_019.txt
+N
+      ——
+»       4   ww
+———  7)
+Sekeasamnc
+
+## /Users/pechen/wiki/raw/assets/douyin-prompt-layered-control-2026-07-23/ocr/frame_020.txt
+AICC 制作宝典                                                                          |  CONCEPT NOTE
+ATTENTION BUDGET                                       100%
+a ———_— KC
+e 年龄               8%     on              10%     © 服装              14%     日光线              13%
+© 焦段              12%     © 运镜              14%     e 表情              12%     © 风格              17%
+FR PIS Fe Facile 2 Be 8 a) BY AGL:
+| Prompt 不是越长越强，而是要分清优先级。
+
+## /Users/pechen/wiki/raw/assets/douyin-prompt-layered-control-2026-07-23/ocr/frame_021.txt
+AICC mitra                                                                          |  CONCEPT NOTE
+ER全和                        100%
+《RE
+
+e 年龄                8%     egy               10%     © 服装               14%     日光线               13%
+日 焦段              12%     © 运镜              14%     e 表情              12%     © 风格              17%
+’               ES          水划 ,开!
+| Prompt 不是越长越强，而是要分清优先级。
+
+## /Users/pechen/wiki/raw/assets/douyin-prompt-layered-control-2026-07-23/ocr/frame_022.txt
+OCU
+Le     vi      3          a                |   i = Vs
+了条件过间隔能并不完全兼安国呈 -
+            Home Court         ec    ,  . oat  Pe
+
+## /Users/pechen/wiki/raw/assets/douyin-prompt-layered-control-2026-07-23/ocr/frame_023.txt
+AIGC 制作宝典                                                                          |  CONCEPT NOTE
+Trade-off
+模型在冲突中自动取舍
+                                                 清晰表情
+ea CUSSED eile
+| 模型不是故意忽略你，而是在冲突条件里做取舍。
+
+## /Users/pechen/wiki/raw/assets/douyin-prompt-layered-control-2026-07-23/ocr/frame_024.txt
+AIGC 制作宝典                                                                          |  CONCEPT NOTE
+|     35mm 广角感                                           面部特写       |
+Trade-off
+模型在冲突中自动取舍
+逆光剪影                                             清晰表情
+Pa                IN   oa
+TC He aR iH Se
+| 模型不是故意忽略你，而是在冲突条件里做取舍。
+
+## /Users/pechen/wiki/raw/assets/douyin-prompt-layered-control-2026-07-23/ocr/frame_025.txt
+AICC 制作宝典                                                            | CONCEPT NOTE
+Trade-off
+模型在冲突中自动取舍
+Meter Se ee Sch RAS
+| 模型不是故意忽略你，而是在冲突条件里做取舍。
+
+## /Users/pechen/wiki/raw/assets/douyin-prompt-layered-control-2026-07-23/ocr/frame_026.txt
+一  eis  Wie >         |   过一二 ‘4 区
+在视频生成里       =H | ee
+Home Court           Bc       ral EN  (i *
+
+## /Users/pechen/wiki/raw/assets/douyin-prompt-layered-control-2026-07-23/ocr/frame_027.txt
+<性
+文本编码会压缩 Prompt
+强信号被保留，细粒度信息可能被弱化
+长 Prompt                  文本编码器               语义向量              生成结果 (示意)
+海边              _                        e@— 汽边     |
+Om xt       强信号
+女生               ee          O— are
+电影感 一                |一te
+卡其色     278             ae                   273       se              al
+表情克制    弱化    >             一
+表情克制
+逆光     35mm           “                                加
+第运层是区"水:编码的庄缩损失
+                      模型看到的不是完整清单，而是被压缩后的语义重点。
+
+## /Users/pechen/wiki/raw/assets/douyin-prompt-layered-control-2026-07-23/ocr/frame_028.txt
+<性
+文本编码会压缩 Prompt
+强信号被保留，细粒度信息可能被弱化
+长 Prompt                  文本编码器               语义向量              生成结果 (示意)
+海边              _                        Om 海边
+Om xt     |
+女生                                       e@ 一 age
+电影感 一                |一te                          2
+卡其色 9 278                                              ie       细节              |
+ee                                                                                     表情克制        弱化       >                       一
+2                                                     逆光             |
+逆光     35mm    J
+By ea Ab Se at NOL AS Zin 84 2S
+                      模型看到的不是完整清单，而是被压缩后的语义重点。
+
+## /Users/pechen/wiki/raw/assets/douyin-prompt-layered-control-2026-07-23/ocr/frame_029.txt
+6 ii|\\ \a
+Vie NV
+‘   ;   小 a        ay bad X
+
+0    om  Vij >   kK  |   3 AT) i
+|              |   py " a =
+
+f               ol      nae
+
+II Ye
+
+区           SANPENARD RES =f  ae.
+
+;       :             ‘Home Cow?                 ‘          Te. ==
+
+## /Users/pechen/wiki/raw/assets/douyin-prompt-layered-control-2026-07-23/ocr/frame_030.txt
+Sa                                                            | CONCEPT NOTE
+WE                    @ STRONG SIGNAL
+海边 st Bee    TEXT ENCODER   QOo@
+电影感
+卡其色 273
+表情克制  35mm                     WEAK SIGNAL
+卡其色  27岁  表情克制
+eH 慢推
+es Fl    ab      NS
+模型可上能抓性海边
+| 不是模型没读到，而是细粒度信号可能被弱化。
+
+## /Users/pechen/wiki/raw/assets/douyin-prompt-layered-control-2026-07-23/ocr/frame_031.txt
+人                                                            | CONCEPT NOTE
+remem                    @ STRONG SIGNAL
+海边 女生 BER    TEXT ENCODER   QOo@
+电影感
+卡其色  27岁
+表情克制  35mm                    WEAK SIGNAL
+卡其色  27岁  表情克制
+we 慢推
+| 不是模型没读到，而是细粒度信号可能被弱化。
+
+## /Users/pechen/wiki/raw/assets/douyin-prompt-layered-control-2026-07-23/ocr/frame_032.txt
+CFG 像一根牵引绳
+太松不听话，太紧会变形
+引导太弱              平衡区间               引导太强
+Prompt                                Prompt                 E     q =     Prompt                | MA
+画面质量                 画面质量                 画面质量
+e            —_——o ae              一
+语义贴合                 语义贴合                 语义贴合
+Pam (o> am SSE 件引导   ©) aa Gs) 上 (Q) mere
+ 一一 服从度和画面质量之间，需要找到合适张力。一-一一一一
+
+## /Users/pechen/wiki/raw/assets/douyin-prompt-layered-control-2026-07-23/ocr/frame_033.txt
+CFG (& —RESI
+太松不听话，太紧会变形
+引导太弱               平衡区间                引导太强
+Prompt     Fa    Prompt      e  \  Prompt      | iL
+画面质量                  画面质量                   画面质量
+一   人             _——o—_——_-               ————
+语义贴合                  语义贴合                   语义贴合
+Cam (op aE   采用 EGE GH eee | 40 wen (i) (2) 面部不稳
+ ————— 服从度和画面质量之间，需要找到合适张力。 一一一一
+
+## /Users/pechen/wiki/raw/assets/douyin-prompt-layered-control-2026-07-23/ocr/frame_034.txt
+AICC 制作宝典                                                                          |  CONCEPT NOTE
+
+## /Users/pechen/wiki/raw/assets/douyin-prompt-layered-control-2026-07-23/ocr/frame_035.txt
+人                                                                          |  CONCEPT NOTE
+@
+HFA                           可控区间                           WARE
+画面自然，但不够听话。                    结果靠近提示，形态稳定。                   贴近 Prompt，但画面过饱和、变形。
+=五  i)           Sy
+ASE Ih prompt
+|  引导太松会乱跑，太紧会走得变形。
+
+## /Users/pechen/wiki/raw/assets/douyin-prompt-layered-control-2026-07-23/ocr/frame_036.txt
+   S)
+G2@e.              that
+.              mt Pa oe ge
+|  +           1S 5 »
+YT os       噪声肢体异常面部不稳定和生   十 emt
+ADS                     ht =:
+Home Court            mos     | | pee
+y                          @)
+
+## /Users/pechen/wiki/raw/assets/douyin-prompt-layered-control-2026-07-23/ocr/frame_037.txt
+Is = _¥e           & eth
+
+|            站 四  beg. 8
+
+4                      Pee
+
+|              7            ,      ce ee
+BUerswesy \ sil eae
+.        Home Court          sl   ™ fe " is   .
+
+## /Users/pechen/wiki/raw/assets/douyin-prompt-layered-control-2026-07-23/ocr/frame_038.txt
+AICC 制作宝典                                                                          |  CONCEPT NOTE
+
+## /Users/pechen/wiki/raw/assets/douyin-prompt-layered-control-2026-07-23/ocr/frame_039.txt
+AR]                                                                          |  CONCEPT NOTE
+一帧成立             |     个     |   Mev KV WR BEY
+服装 / 光线 / 背景 / 动作
+一帧对齐                —<$=_
+SEQUENCE
+Swiss                   e              @              8              @              ®
+细节需在路帧中保持一致       FRAME 01       FRAME 02     FRAME 03 DRIFT     FRAME 04     FRAME 05 DRIFT
+.       .             aR PreTa=
+eee ley NEVES ess
+| 视频不只要生成细节，还要让细节一路不漂。
+
+## /Users/pechen/wiki/raw/assets/douyin-prompt-layered-control-2026-07-23/ocr/frame_040.txt
+视频难在几十帧都要成立
+不是生成一张图，而是让细节沿时间线保持一致
+图片: 一帧成立
+F)  J
+     i rh  =      ]                          角色一致   服装一致   光线一致   运动一致
+视频: 连续成立             一 细节漂移  (TR
+ii    » 2iromtSesp
+一一一6一6一人
+               局部细节越多，时间一致性的压力就越大。
+
+## /Users/pechen/wiki/raw/assets/douyin-prompt-layered-control-2026-07-23/ocr/frame_041.txt
+视频难在几十帧都要成立
+不是生成一张图，而是让细节沿时间线保持一致
+图片: 一帧成立
+@  ;
+is i=          角色一致 服装一致 ”光线一致。。 运动一致
+一qq一0一
+               局部细节越多，时间一致性的压力就越大。
+
+## /Users/pechen/wiki/raw/assets/douyin-prompt-layered-control-2026-07-23/ocr/frame_042.txt
+(oe                Vas \
+li Aa}, .       出2   全 ¥
+2    -    | ae SU
+”me eae   |   Ts
+|     i ee ny re
+3       — Ts     万 Sin    =") “aS 5  eX)
+7    wel        ey  )司越细越不       | 区  ae
+                  Siac             ee
+Home Court        eh.   =m?) +
+
+## /Users/pechen/wiki/raw/assets/douyin-prompt-layered-control-2026-07-23/ocr/frame_043.txt
+多，  a     a %           =] *         —
+问题不是详细，而是没有分层
+未经分层的 Prompt，会让模型同时承担太多目标
+— Ea          ee =2> a
+主体 GR ate      入                  硬约束        (@ xazee
+-      RS    A     oe 二  主体 / 场景 / 动作 / 镜头目标  ©
+.      toes = ee  关键细节         Se)
+镜头 Me ge Za ae       2)  国   人      】 “ir
+ae Gey ieee |        > 风格控制
+ee          5 i!      9  SPA | 自然运动 / BRO  © seen
+fe Ae 7 Fe BY ee
+           @ 想提高服从度，先给 Prompt 排优先级。
+
+## /Users/pechen/wiki/raw/assets/douyin-prompt-layered-control-2026-07-23/ocr/frame_044.txt
+“8      =             ="          =
+问题不是详细，而是没有分层
+未经分层的 Prompt，会让模型同时承担太多目标
+=a          _ =o
+主体 HR 动作      x     z         A BAR        你) ssh
+     二    A    9 ©  主体/ 场景/动作 / 镜头目标  ©
+| &  关键细节         ©
+镜头 Ae ge Za aie       @ [2   [全      】 sg
+ae Weyl depos        < 风格控制
+              e nae Ryle 3]  电影质感 / 自然运动 / 稳定时序   GD
+如果和你想由模型提高服从度
+          © 起提高服从度，先给 Prompt 排优先级。
+
+## /Users/pechen/wiki/raw/assets/douyin-prompt-layered-control-2026-07-23/ocr/frame_045.txt
+AICC 全宇和由                                                              | CONCEPT NOTE
+硬约束     主体 。 场景  动作 = RAB
+关键细节   服装  光线 ”情绪
+LAYER 3
+电影感 自然运动 稳定时序
+Low      风格
+| 真正的 Prompt 强控，是让模型知道先听堆的。
+
+## /Users/pechen/wiki/raw/assets/douyin-prompt-layered-control-2026-07-23/ocr/frame_046.txt
+AIGC 制作宝典                                                                          | CONCEPT NOTE
+|   an ee
+ke  风格” 电大。 自动 稳定时序
+| 真正的 Prompt 强控，是让模型知道先听谁的。
+
+## /Users/pechen/wiki/raw/assets/douyin-prompt-layered-control-2026-07-23/ocr/frame_047.txt
+AICC 制作宝典                                                                          |  CONCEPT NOTE
+和         ei ,      主体 GR 动作 RAB
+        ee :     电影感   自然运动 稳定时序
+镜流从中景缓慢推进
+| 真正的 Prompt 强控，是让模型知道先听堆的。
+
+## /Users/pechen/wiki/raw/assets/douyin-prompt-layered-control-2026-07-23/ocr/frame_048.txt
+AIGC 制作宝典                                                                          |  CONCEPT NOTE
+本         ant ,      主体 GR 动作 镜头目标
+a        noe °      电影感 自然运动 稳定时序
+| 真正的 Prompt 强控，是让模型知道先听堆的。
+
+## /Users/pechen/wiki/raw/assets/douyin-prompt-layered-control-2026-07-23/ocr/frame_049.txt
+AIGC 制作宝典                                                                          |  CONCEPT NOTE
+—         pon ,      主体 GR 动作 镜头目标
+ae        ma °      电影感 Beh 稳定时序
+Ze ts el
+| 真正的 Prompt agi, BikManieireorieHy.
+
+## /Users/pechen/wiki/raw/assets/douyin-prompt-layered-control-2026-07-23/ocr/frame_050.txt
+AIGC 制作宝典                                                                          | CONCEPT NOTE
+         ne ,      主体 GR 动作 RAB
+a        a .     电影感   自然运动 稳定时序
+| 真正的 Prompt 强控，是让模型知道先听堆的。
+
+## /Users/pechen/wiki/raw/assets/douyin-prompt-layered-control-2026-07-23/ocr/frame_051.txt
+i jj! {a —_ — -
+Fi          a
+ag genet m  Si  ki    了一有 ‘ a:
+i                    Peis
+了二杂果二个铺尖里必须控制很多细节| tee
+<                 Sipiio\i=         eee 5
+=            4                Home Cow?            el       Bs ry = =
+
+## /Users/pechen/wiki/raw/assets/douyin-prompt-layered-control-2026-07-23/ocr/frame_052.txt
+=z S
+复杂镜头，不要一条 Prompt 2B
+更稳的方法，是拆镜头、拆阶段、分担控制压力
+® 一条 Prompt 全包                            (OO 拆镜头，拆阶段
+超长 Prompt (示例)                      生成画面 (不稳定)
+(ean) aaa a SN |   锁主体与构图 ewe 使用辅助控制  后期校正
+家动作] ris  N |   “Qo 一一0一 L || 园| #28  ==
+om (om // i UU + | SI) 2
+(© am) (© oe |                  nN                        Le
+ERS t tite      fis
+                © 真正的强控，是把复杂问题拆成可控步骤。
+
+## /Users/pechen/wiki/raw/assets/douyin-prompt-layered-control-2026-07-23/ocr/frame_053.txt
+总六
+复杂镜头，不要一条 Prompt 全包
+更稳的方法，是拆镜头、拆阶段、分担控制压力
+® 一条 Prompt 全包                            (OO 拆镜头，拆阶段
+f              =  *    锁主体与构图 | 加入风格与运动 | | 使用辅助控制    后期校正
+(mae) (3 ea LE  SN  |         |            |一
+     f    iy ee   —o—
+faa  pe, |   二    “SX py 一-一   = ion  =
+@ me |[ @ we DO =    =     ey || ees     ela        ee
+(© am )(© we | _“/          次                   a
+FE       “ewe || saan || am || eee
+                © 真正的强控，是把复杂问题拆成可控步又。
+
+## /Users/pechen/wiki/raw/assets/douyin-prompt-layered-control-2026-07-23/ocr/frame_054.txt
+ae 3
+复杂镜头，不要一条 Prompt 2H
+更稳的方法，是拆镜头、拆阶段、分担控制压力
+® 一条 Prompt 全包                            (OO 拆镜头，拆阶段
+rans       oe    锁主体与构图 | | 加入风格与运动 | 使用辅助控制    后期校正
+下 动作 | | 多 运和 全     加   iS  a   一-一   Le]| #78  i
+—,   << Li   .         W 一一   FB wee
+(© am) (© we |                      *                |             =)
+4 Bait       “yee || ean || ae || SRE
+fa HARES Fe prompted de]
+                © 真正的强控，是把复杂问题拆成可控步骤。
+
+## /Users/pechen/wiki/raw/assets/douyin-prompt-layered-control-2026-07-23/ocr/frame_055.txt
+          nal
+Y / Hy 1 NE
+FE        oe;
+                . ee 本
+FT       |     for 9 ex
+|                    Be ee
+og          Z         les
+=        ae \ Sl ee
+i                              Oo                     q     = x 7 oa
+Home Cowt                1
+
+## /Users/pechen/wiki/raw/assets/douyin-prompt-layered-control-2026-07-23/ocr/frame_056.txt
+              it    as
+Ne) we) \                     a Me
+vx              用  Fes
+‘          me J               WS
+zs             哪些 旭             \     | [Seay
+I on =
+Ieee        ye
+One OG burt                              Ta. +: —
+‘eh    =r x 8   ¥

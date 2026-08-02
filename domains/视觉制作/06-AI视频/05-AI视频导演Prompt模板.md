@@ -2,7 +2,7 @@
 title: AI视频导演Prompt模板
 type: playbook
 created: 2026-06-27
-updated: 2026-06-27
+updated: 2026-07-23
 domain: 视觉制作
 tags: [visual-production, ai-video, prompt-engineering, playbook]
 sources:
@@ -322,6 +322,7 @@ Avoid fake UI text, distorted fingers, unreadable interface, and sudden zoom.
 
 ## 相关记忆
 
+- [[domains/视觉制作/06-AI视频/12-AI视频Prompt分层强控方法|AI视频 Prompt 分层强控方法]]：当 Prompt 越写越长却越不听话时，用硬约束、关键细节、风格控制三层结构和辅助控制资产降低约束竞争。
 - [[domains/视觉制作/06-AI视频/20-导演知识系统/index|AI视频导演知识系统]]
 - [[domains/视觉制作/06-AI视频/03-导演式镜头设计方法|导演式镜头设计方法]]
 - [[domains/视觉制作/06-AI视频/04-商业短视频摄影与运镜语法|商业短视频摄影与运镜语法]]

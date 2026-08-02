@@ -2,6 +2,15 @@
 
 > Chronological record of all wiki actions. Append-only.
 
+## [2026-07-15] ingest | 可分享跨 Agent Skill 创建方法
+
+- Source: 本次关于 Skill 本机信息泄漏、跨 Agent 可移植性与 creator 组合方式的用户决策。
+- Archived raw at `raw/articles/portable-skill-creator-methodology-2026-07-15/source.md`.
+- Created extraction notes at `_meta/extraction-notes/portable-skill-creator-methodology-2026-07-15/` with source inventory, knowledge-unit inventory, coverage matrix, omission audit, formal plan and audit handoff.
+- Created formal playbook `domains/AI Agent工程/03-Skill设计/04-可分享跨Agent Skill创建方法.md`.
+- Updated the Skill design index, AI Agent engineering index, root index, and `queries/Skill设计与回归测试入口.md`.
+- Core decision: default to the user-owned `portable-skill-creator`, compose the current base `skill-creator` instead of copying it, isolate platform adapters, and require format, portability and clean-context QA gates.
+
 ## [2026-07-10] ingest | 飞书机器人 Sealseek 通道配置
 
 - Source: 本次对话中完成飞书 sealclaw 机器人配置的实战经验。
@@ -1523,6 +1532,118 @@
 - Synthesized from brand strategy, ecommerce selection/growth, visual conversion, and high-pricing KOC launch model pages.
 - Updated `index.md` query section.
 - Noted missing concrete category data: platform, price band, TOP competing links, cost/margin, review/search evidence, channel capability, and test budget.
+## 2026-07-12：拼多多流量与权重首批知识点试编译
+
+- 处理 3 段本地视频：课程范围、平台流量结构、链接权重与量率模型；保留原视频、Whisper large-v3-turbo ASR、15 秒关键帧和中文 OCR。
+- 按知识点新建 `拼多多平台流量结构与入口协同`、`拼多多链接权重与量率诊断模型`，未建立 learning path 或逐课页面。
+- 新建 `queries/拼多多流量与权重诊断`，支持没流量、权重不足、调车断流和入口选择诊断。
+- 正式知识、索引、查询入口和提取笔记已去除讲师、课程品牌、联系方式、二维码与促销信息；原视频保持不变，ASR/OCR 可搜索文本衍生物已机械脱敏来源标识；平台黑盒算法、活动层级和 2026 年判断均标记为经验模型或待后台验证。
+- 审计材料：`_meta/extraction-notes/pinduoduo-operations-foundations/`。
+
+## 2026-07-12：拼多多人群、开店与合规知识点编译
+
+- 处理 ch03—ch09 共 7 个本地视频；发现 ch04 与 ch03 SHA-256 完全一致，按重复来源合并，不按文件名虚构店铺类型内容。
+- 新建人群标签、店铺类型与品牌权益、多店主体与账号合规、保证金、主营类目、平台红线 6 个知识点页，并新建 `queries/拼多多开店与合规决策`。
+- 多店注册中的短期/购买号码、借实名和批量资源，以及主营类目中的错放规避竞争做法，均未编译为操作技巧，只保留合规风险。
+- 保证金、物流赔付、处罚、类目修改、店铺数量等金额/比例/次数/时限均标记为时效参数，执行时需读取当前后台、违规通知和官方规则。
+- 原视频保持不变，新增 ASR/OCR 可搜索文本已脱敏来源标识；审计材料继续维护于 `_meta/extraction-notes/pinduoduo-operations-foundations/`。
+
+## 2026-07-13：建立 AI Agent 执行链路审计方法
+
+- 新建 `domains/AI Agent工程/07-评测与调试/` 主题入口。
+- 新建 `AI Agent 执行链路审计方法`，提出“结果验收 + 过程验收”双重判断，定义预期主线、实际轨迹、绕路、静默降级、契约绕过和假成功，并沉淀九步审计 SOP。
+- 用 SealSeek 系统 `skill-creator` 的两个真实会话说明：最终 Skill 存在不等于系统创建链路正常；完整解压 ASAR 和手工绕过初始化都属于过程失败。
+- 新建 `Agent 执行链路审计报告模板`，统一机器发现、时间线、thinking 审阅、副作用、输出物验证、最终分类、修复层和回归测试字段。
+- 更新 AI Agent 工程索引；本方法属于个人 AI Agent 工程研究，不进入 SealSeek 学员课程。
+
+## 2026-07-14：建立 Agent 插件工程理论与 CLI-first 改造方法
+
+- 调研 OpenAI Codex Plugin 官方手册、OpenAI `plugins` GitHub 仓库、Agent Skills 开放规范、MCP 架构和 Claude Code Plugin 跨生态对照。
+- 检查本机 GitHub、Figma、Sites、Computer Use 插件，归纳 Connector-first + CLI fallback、共享 MCP + 多 Skill、本地 Runtime + MCP/Skill 等模式。
+- 将 Plugin 定义为认知、执行、连接、治理、分发五面的产品化能力包，而不是 CLI 或 MCP 的替代品。
+- 新建 `domains/AI Agent工程/08-插件工程/`，包含架构方法论和“从 CLI 与 Skill 演进为 Codex 插件”实操手册。
+- 新建 `queries/Agent插件设计与CLI改造.md`，支持插件化诊断、CLI/MCP/Connector 选择、Manifest、Marketplace 与测试规划。
+- 以 tbcli 为映射案例，只形成未来改造路线，本轮未修改 tbcli 或物流看板 Skill。
+- 审计材料位于 `_meta/extraction-notes/agent-plugin-engineering-2026-07-14/`。
+
+## 2026-07-16：编译 1688 牛顿Hub 电商 AI Skill 知识
+
+- 归档 7 份 ClawHub/牛顿Hub Skill 页面，覆盖供应商查询、招商活动与商机、分销选品铺货、采购询盘、找商品与比价、88 生意通采购单和店管家。
+- 按用户确认的新平台分类建立 `domains/电商运营/07-1688/01-1688CLI/`，没有放入通用 ERP 与系统工具目录。
+- 新建 1688 CLI 能力地图、从找货到采购铺货的意图路由与工作流、执行安全与输出契约，以及 `queries/1688找货采购与铺货Agent入口`。
+- 保留各 Skill 不同的写入确认要求、AK/授权流程、品牌授权门禁、禁止浏览器降级、输出完整性和错误恢复规则；所有命令与平台规则标记为 2026-07-16 快照，执行前需读取当前 Skill reference。
+- 审计材料：`_meta/extraction-notes/1688-clawhub-skill-library-2026-07-16/`。
+
+## 2026-07-18：归档抖音商品卡数据化选品首个长视频
+
+- 归档《数据化选品【抖音商品卡运营-1】01.07》视频，完成 Whisper large-v3-turbo ASR、每 15 秒关键帧和中文 OCR。
+- 隔离 01:27:40–01:53:14 课间静态画面导致的连续 ASR 幻觉，未把幻觉文本写入正式知识。
+- 在 `domains/电商运营/05-抖音/01-商品卡运营/` 新建行业机会与类目筛选、商机中心数据化选品 SOP、跟款生命周期与竞品筛选 3 个 playbook。
+- 新建 `queries/抖音商品卡选品诊断入口.md`，并更新抖音、电商运营和总索引。
+- 将课程阈值保留为 2026 年 1 月教师启发式；当前官方学习中心可确认商机中心、选品广场和电商罗盘仍在运营体系内，但后台菜单、权益、资格和具体数值执行前仍需按当前账号核验。
+- 审计材料：`_meta/extraction-notes/douyin-ecommerce-bootcamp-2026/`。
+
+## 2026-07-20：整理并验证可编辑海报 PSD 重建 Skill
+
+- 按 `portable-skill-creator` 将 `editable-poster-psd-rebuild` 整理为可分享核心与必需渲染适配器，分离参考图编辑、版式协议、macOS Photoshop 适配和 PSD 读回验证。
+- 补齐输入输出契约、`layout-spec.json` 字段、主线节点、失败回主线、字体 fallback 阻断、结构与视觉双重 QA，以及端到端验证口径。
+- 更新构建脚本的规格预检、相对路径解析、参考图尺寸检查和字体静默替换检测；更新 PSD 验证脚本的精确文字层计数、隐藏参考层、背景层和报告落盘检查。
+- 重写 `domains/视觉制作/03-AI商业视觉/03-可编辑海报PSD重建Skill.md`，说明 AI 像素修复 + JSON 版式 + Photoshop 原生图层 + PSD 解析器验收的实现机制。
+- 干净上下文首次回归暴露“用户提供的不合格无字底图仍进入构建”分支缺口；已回写为构建前阻断规则，并补充部分文字重建标签、参考层全画布/透明度和实际字体名验收。
+- 修复后完成两条干净上下文回归：不合格底图分支正确停止且无 PSD 残留；有效底图正向分支实际生成 973×1616 PSD，2/2 原生文字层、隐藏满画布参考层、实际字体名和 Photoshop 预览全部通过。
+
+## 2026-07-23：建立 Agent 读懂视频的证据化知识体系
+
+- 调研并归档 11 个 GitHub 项目与 9 篇论文，覆盖本地 ASR、场景检测、OCR、原生视频 VLM、时间定位、长视频 Agent/RAG、对象跟踪和视频评测；未下载模型权重或数据集。
+- 经用户确认，在 `domains/AI Agent工程/09-多模态理解/` 新建总架构、短教学视频、长教学视频、广告故事/产品视频质检、Codex/SealSeek 实现协议和开源项目选型 6 个正式页面及分类索引。
+- 将“读视频”定义为带统一时间轴的证据编译：元数据、分段、ASR、OCR、画面、对象轨迹、时间关系和意图推理；结论必须回链到时间码和证据类型。
+- 短视频采用完整证据包并交叉纠正术语；长视频采用索引—检索—局部精读；广告片采用目标契约、观众/取证两遍法和严重度分级。
+- 新建 `queries/Agent读懂视频入口.md`，更新 AI Agent 工程、AI 视频和总索引。
+- 原始资料与审计材料位于 `raw/articles/agent-video-understanding-2026-07-23/` 和 `_meta/extraction-notes/agent-video-understanding-2026-07-23/`。
+
+## 2026-07-27：沉淀 AI 短视频生成提示词方法论
+
+- 归档本机 `video-generation-prompt-research-log.md`，覆盖耳机 TVC 的约 5 秒氛围/产品镜头，以及校园剧情的 15 秒双自然镜头实验。
+- 经用户确认，在 `domains/视觉制作/06-AI视频/` 新建 `13-AI短视频生成提示词方法论：TVC与剧情短片.md`；它不替代 Prompt 分层强控、资产构建、完整视听分镜或长视频组接页面，而是补足“资产已具备后怎样写生成 Prompt”的执行层。
+- 将“5 秒更可控”修正为工作方法：优先按自然镜头边界和约束负载判断时长；同一连续镜头不应为凑 5 秒硬拆，确有多个独立镜头/关系时才拆段并设计衔接。
+- 固化单镜头公式与多镜头嵌套结构，明确参考图负责视觉身份、文字负责时间/动作/关系；对白需绑定可见关系，背景人流需要写清行为方向。
+- 固化声音边界：生成段保留环境声、写“不要任何背景音乐”，人物声线可由干净参考音频控制，整片 BGM 留到剪辑完成后统一生成。
+- “约束负载”和“额外参考图可能产生竞争”均标为待持续单变量测试的工作假设；下一阶段的产品/故事大纲到脚本、场景和资产生成流程未混入本页。
+
+## 2026-07-23：编译 AI 视频 Prompt 分层强控方法
+
+- 归档抖音短视频《真正的 Prompt 强控，不是写得更长，而是分层级》，保留原视频、Whisper large-v3-turbo 的 57 段时间轴 ASR、56 张关键帧和逐帧中文 OCR。
+- 结合画面字幕和信息图校正“计算预算、去噪、高维语义向量、硬约束、首尾帧”等高风险术语；原始 ASR/OCR 保持不变。
+- 新建 `AI视频Prompt分层强控方法`，完整保留服从度四维、三个技术压力层、两组条件冲突、三层 Prompt 写法、拆镜头/拆阶段流程及参考图、首尾帧、遮罩、后期校正。
+- 将信息图中的注意力百分比判定为视觉示意而非实验参数，正式页不传播为实测结论；CFG 和模型架构按“常见或类似机制”处理。
+- 更新 AI 视频索引、Prompt 模板的相关记忆、总索引和 `AI视频导演与分镜入口`。
+- 审计材料：`_meta/extraction-notes/douyin-prompt-layered-control-2026-07-23/`。
+
+## 2026-07-24：沉淀公司共享 GPU Worker 与远程超分原型方法
+
+- 回顾并只读核验 Mac 到 Windows GPU 的真实链路：Tailscale 虚拟局域网、标准 OpenSSH/SCP、Windows RTX 3060 Ti 和 Real-ESRGAN NCNN Vulkan。
+- 明确当前 `upscale-img` 方案只是单用户或少量受信任用户的初步远程 GPU 测试，尚未实现公司级多人共享平台。
+- 新建 `公司共享 GPU 工作节点与分时调度方法`，将网络可达、应用身份、任务队列、GPU 调度、数据治理和审计拆成独立层，并提供四阶段演进路线。
+- 新建 `Real-ESRGAN 远程超分案例`，记录真实执行链、模型映射、2×/3× 兼容补丁、普通缩放 fallback 和当前能力边界。
+- 新建 `queries/公司GPU共享与远程任务调度`，要求未来 Agent 始终区分已实现现状与目标架构。
+- 原始观察记录与审计材料：`raw/articles/company-shared-gpu-worker-2026-07-24/`、`_meta/extraction-notes/company-shared-gpu-worker-2026-07-24/`。
+## 2026-07-29：沉淀 Agent 驱动型电商 CLI 跨渠道开发规范
+
+- 从 tbcli 的真实开发、价格还原、Excel交付、Windows适配、GitHub Release和npm OIDC发布过程提炼跨渠道方法，不把规则固定为淘宝专属实现。
+- 新建 `Agent驱动型电商CLI设计与开发规范`，覆盖Agent/CLI/渠道适配器职责、能力自描述、专用浏览器会话、每次请求随机延时、登录和验证停止、网页读取降级顺序、写入风险等级、交付分层、跨平台、测试和发布。
+- 明确 tbcli、dycli、jdcli、alicli 共用核心契约，平台登录、域名、接口、分页、字段和风险信号由各渠道适配器实现。
+- 新建 `queries/Agent驱动型电商CLI开发入口`，为新建、扩展、评审和发布电商CLI提供统一Agent路由。
+- 更新 AI Agent工具链、AI Agent工程、电商运营和总索引；原始证据与22个知识单元保存在 `raw/articles/agent-driven-ecommerce-cli-methodology-2026-07-29/` 与对应 extraction notes。
+- Ingest契约验证通过；主规范和查询入口占位扫描均为OK，路由审计无目标警告，三组代表性问题均能命中查询入口和主规范。
+
+## 2026-07-29：建立“插件、Skill 与 CLI”独立工程模块
+
+- 经用户确认，新建 `domains/AI Agent工程/10-插件Skill与CLI/`，用于持续研究稳定 CLI、Agent Skill 与 Plugin 产品化之间的完整生命周期。
+- 将《Agent 驱动型电商 CLI 设计与开发规范》设为第一篇上游规范，将《从 CLI 与 Skill 演进为 Codex 插件》设为第二篇下游手册。
+- 在 CLI 规范中新增 Plugin Readiness Gate，明确能力自描述、JSON契约、公共安全策略、doctor、干净安装和测试通过后才能进入插件层。
+- 在插件手册中删除重复展开的 CLI 细则，改为引用上游门禁，并划清 CLI测试与分发、Skill测试、Plugin组件及Marketplace生命周期的责任。
+- 更新 tbcli 案例，不再手工维护易过期命令列表，当前能力以 `tbcli capabilities --json` 为事实源。
+- 同步更新新模块、工具链、插件工程、AI Agent工程、总索引、两个查询入口和全库旧路径引用。
 ## 2026-07-29：编译 AI 品牌 TVC 气质、视觉符号与产品登场方法
 
 - 归档 2 小时 50 分 56 秒直播《一节课带你用 AI 做出百万 TVC 广告》，生成 Whisper large-v3-turbo ASR、684 张 15 秒关键帧、中文/英文 OCR 和 4 张阶段联系表。
@@ -1532,3 +1653,13 @@
 - 明确理解产品所用图片不等于后续生产资产；正式生成仍需重新选择或制作批准的产品身份参考，失败衍生图不得继续充当产品真值。
 - 课程中的模型排名、平台界面、价格、市场报价和促销内容保留在来源层；正式页沿用“参考图负责身份、文字描述发生什么”以及生成片段不带 BGM、最终剪辑统一配乐的现行方法。
 - 审计材料：`_meta/extraction-notes/ai-tvc-million-course-2026-07-29/` 与 `_meta/extraction-notes/feishu-ai-tvc-three-step-2026-07-29/`。
+
+## 2026-07-30：建立格式化文档知识域与 Word 第一版体系
+
+- 调研并归档 Microsoft、英国 DWP/DfT、Utrecht University、Kansas State University、GitHub Docs 和 Wordinator 共 7 个来源，提取 37 个可复用知识单元。
+- 经用户确认，在 `domains/AI Agent工程/格式化文档/` 建立多媒介总入口，并把当前 Word 知识放入 `word文档/` 子目录；未来与之平级扩展 `excel文档/`、`ppt文档/`、`pdf文档/`、在线文档和 HTML 报告。
+- 将 Word 格式拆为语义、导航、视觉和页面四层，明确格式应服务信息角色、阅读动作和页面行为，而不是作为装饰按钮集合。
+- 新建 Word 格式系统、适用场景与误用、模板菜谱设计方法、常用文档菜谱库、设计与验收清单 5 个正式页面，以及格式化文档总索引和 Word 子目录索引。
+- 将模板定义为“内容骨架 + 页面原型 + 样式系统 + 品牌变量 + 自动化组件 + 使用说明 + 禁用规则 + 验收清单”，并区分读者任务与视觉风格。
+- 新建 `queries/Word文档格式与模板选择入口.md`；后续使用“经营失误复盘内参”作为第一个真实文档验证样本。
+- 原始来源和审计材料位于 `raw/webpages/word-document-format-design-research-2026-07-30/` 与 `_meta/extraction-notes/word-document-format-design-research-2026-07-30/`。

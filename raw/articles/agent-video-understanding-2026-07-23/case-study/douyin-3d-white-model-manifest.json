@@ -1,0 +1,514 @@
+{
+  "schema_version": 1,
+  "created_at": "2026-07-23T07:52:46.001693+00:00",
+  "source": {
+    "path": "/Users/pechen/AI/Video/outputs/douyin-download-7664228621048925480/AI视频故事板-阿汤同学-7664228621048925480.mp4",
+    "size_bytes": 13383254,
+    "sha256": "823b203d31e28b4bec4260db5b3d7f242ccebf44ab90d881375df57f4bbb2272"
+  },
+  "duration_seconds": 100.08,
+  "container_duration_seconds": 100.100998,
+  "safe_last_frame_timestamp": 100.03999999999999,
+  "probe": {
+    "streams": [
+      {
+        "index": 0,
+        "codec_name": "aac",
+        "codec_long_name": "AAC (Advanced Audio Coding)",
+        "profile": "HE-AACv2",
+        "codec_type": "audio",
+        "codec_tag_string": "mp4a",
+        "codec_tag": "0x6134706d",
+        "mime_codec_string": "mp4a.40.29",
+        "sample_fmt": "fltp",
+        "sample_rate": "44100",
+        "channels": 2,
+        "channel_layout": "stereo",
+        "bits_per_sample": 0,
+        "initial_padding": 0,
+        "id": "0x1",
+        "r_frame_rate": "0/0",
+        "avg_frame_rate": "0/0",
+        "time_base": "1/44100",
+        "start_pts": 0,
+        "start_time": "0.000000",
+        "duration_ts": 4414454,
+        "duration": "100.100998",
+        "bit_rate": "49197",
+        "nb_frames": "2159",
+        "extradata_size": 4,
+        "disposition": {
+          "default": 1,
+          "dub": 0,
+          "original": 0,
+          "comment": 0,
+          "lyrics": 0,
+          "karaoke": 0,
+          "forced": 0,
+          "hearing_impaired": 0,
+          "visual_impaired": 0,
+          "clean_effects": 0,
+          "attached_pic": 0,
+          "timed_thumbnails": 0,
+          "non_diegetic": 0,
+          "captions": 0,
+          "descriptions": 0,
+          "metadata": 0,
+          "dependent": 0,
+          "still_image": 0,
+          "multilayer": 0
+        },
+        "tags": {
+          "language": "und",
+          "handler_name": "SoundHandler"
+        }
+      },
+      {
+        "index": 1,
+        "codec_name": "h264",
+        "codec_long_name": "H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10",
+        "profile": "High",
+        "codec_type": "video",
+        "codec_tag_string": "avc1",
+        "codec_tag": "0x31637661",
+        "mime_codec_string": "avc1.640032",
+        "width": 1080,
+        "height": 1920,
+        "coded_width": 1080,
+        "coded_height": 1920,
+        "has_b_frames": 2,
+        "sample_aspect_ratio": "1:1",
+        "display_aspect_ratio": "9:16",
+        "pix_fmt": "yuv420p",
+        "level": 50,
+        "color_range": "tv",
+        "color_space": "bt709",
+        "color_transfer": "bt709",
+        "color_primaries": "bt709",
+        "chroma_location": "left",
+        "field_order": "progressive",
+        "is_avc": "true",
+        "nal_length_size": "4",
+        "id": "0x2",
+        "r_frame_rate": "25/1",
+        "avg_frame_rate": "25/1",
+        "time_base": "1/12800",
+        "start_pts": 0,
+        "start_time": "0.000000",
+        "duration_ts": 1281024,
+        "duration": "100.080000",
+        "bit_rate": "1015366",
+        "bits_per_raw_sample": "8",
+        "nb_frames": "2502",
+        "extradata_size": 51,
+        "disposition": {
+          "default": 1,
+          "dub": 0,
+          "original": 0,
+          "comment": 0,
+          "lyrics": 0,
+          "karaoke": 0,
+          "forced": 0,
+          "hearing_impaired": 0,
+          "visual_impaired": 0,
+          "clean_effects": 0,
+          "attached_pic": 0,
+          "timed_thumbnails": 0,
+          "non_diegetic": 0,
+          "captions": 0,
+          "descriptions": 0,
+          "metadata": 0,
+          "dependent": 0,
+          "still_image": 0,
+          "multilayer": 0
+        },
+        "tags": {
+          "language": "und",
+          "handler_name": "VideoHandler"
+        }
+      }
+    ],
+    "format": {
+      "filename": "/Users/pechen/AI/Video/outputs/douyin-download-7664228621048925480/AI视频故事板-阿汤同学-7664228621048925480.mp4",
+      "nb_streams": 2,
+      "nb_programs": 0,
+      "nb_stream_groups": 0,
+      "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+      "format_long_name": "QuickTime / MOV",
+      "start_time": "0.000000",
+      "duration": "100.100998",
+      "size": "13383254",
+      "bit_rate": "1069580",
+      "probe_score": 100,
+      "tags": {
+        "major_brand": "isom",
+        "minor_version": "512",
+        "compatible_brands": "isomiso2avc1mp41",
+        "comment": "vid:v0200fg10000d9ecqmvog65rkdgj946g",
+        "encoder": "Lavf58.76.100"
+      }
+    }
+  },
+  "request": {
+    "uniform_count": 30,
+    "uniform_interval": 0,
+    "timestamps": [],
+    "dense_windows": [
+      [
+        0.0,
+        10.0,
+        1.0
+      ]
+    ],
+    "scene_threshold": 0.25,
+    "extract_audio": true,
+    "contact_sheet_columns": 5
+  },
+  "coverage": {
+    "selected_frame_count": 41,
+    "scene_frame_count": 17,
+    "audio_extracted": true,
+    "contact_sheet_created": true
+  },
+  "artifacts": [
+    {
+      "kind": "frame",
+      "timestamp": 0.0,
+      "selection": "dense_window:0:10:1",
+      "path": "frames/frame_00001_t000000.000.jpg"
+    },
+    {
+      "kind": "frame",
+      "timestamp": 1.0,
+      "selection": "dense_window:0:10:1",
+      "path": "frames/frame_00002_t000001.000.jpg"
+    },
+    {
+      "kind": "frame",
+      "timestamp": 1.668,
+      "selection": "uniform_count",
+      "path": "frames/frame_00003_t000001.668.jpg"
+    },
+    {
+      "kind": "frame",
+      "timestamp": 2.0,
+      "selection": "dense_window:0:10:1",
+      "path": "frames/frame_00004_t000002.000.jpg"
+    },
+    {
+      "kind": "frame",
+      "timestamp": 3.0,
+      "selection": "dense_window:0:10:1",
+      "path": "frames/frame_00005_t000003.000.jpg"
+    },
+    {
+      "kind": "frame",
+      "timestamp": 4.0,
+      "selection": "dense_window:0:10:1",
+      "path": "frames/frame_00006_t000004.000.jpg"
+    },
+    {
+      "kind": "frame",
+      "timestamp": 5.0,
+      "selection": "dense_window:0:10:1",
+      "path": "frames/frame_00007_t000005.000.jpg"
+    },
+    {
+      "kind": "frame",
+      "timestamp": 5.004,
+      "selection": "uniform_count",
+      "path": "frames/frame_00008_t000005.004.jpg"
+    },
+    {
+      "kind": "frame",
+      "timestamp": 6.0,
+      "selection": "dense_window:0:10:1",
+      "path": "frames/frame_00009_t000006.000.jpg"
+    },
+    {
+      "kind": "frame",
+      "timestamp": 7.0,
+      "selection": "dense_window:0:10:1",
+      "path": "frames/frame_00010_t000007.000.jpg"
+    },
+    {
+      "kind": "frame",
+      "timestamp": 8.0,
+      "selection": "dense_window:0:10:1",
+      "path": "frames/frame_00011_t000008.000.jpg"
+    },
+    {
+      "kind": "frame",
+      "timestamp": 8.34,
+      "selection": "uniform_count",
+      "path": "frames/frame_00012_t000008.340.jpg"
+    },
+    {
+      "kind": "frame",
+      "timestamp": 9.0,
+      "selection": "dense_window:0:10:1",
+      "path": "frames/frame_00013_t000009.000.jpg"
+    },
+    {
+      "kind": "frame",
+      "timestamp": 10.0,
+      "selection": "dense_window:0:10:1",
+      "path": "frames/frame_00014_t000010.000.jpg"
+    },
+    {
+      "kind": "frame",
+      "timestamp": 11.676,
+      "selection": "uniform_count",
+      "path": "frames/frame_00015_t000011.676.jpg"
+    },
+    {
+      "kind": "frame",
+      "timestamp": 15.012,
+      "selection": "uniform_count",
+      "path": "frames/frame_00016_t000015.012.jpg"
+    },
+    {
+      "kind": "frame",
+      "timestamp": 18.348,
+      "selection": "uniform_count",
+      "path": "frames/frame_00017_t000018.348.jpg"
+    },
+    {
+      "kind": "frame",
+      "timestamp": 21.684,
+      "selection": "uniform_count",
+      "path": "frames/frame_00018_t000021.684.jpg"
+    },
+    {
+      "kind": "frame",
+      "timestamp": 25.02,
+      "selection": "uniform_count",
+      "path": "frames/frame_00019_t000025.020.jpg"
+    },
+    {
+      "kind": "frame",
+      "timestamp": 28.356,
+      "selection": "uniform_count",
+      "path": "frames/frame_00020_t000028.356.jpg"
+    },
+    {
+      "kind": "frame",
+      "timestamp": 31.692,
+      "selection": "uniform_count",
+      "path": "frames/frame_00021_t000031.692.jpg"
+    },
+    {
+      "kind": "frame",
+      "timestamp": 35.028,
+      "selection": "uniform_count",
+      "path": "frames/frame_00022_t000035.028.jpg"
+    },
+    {
+      "kind": "frame",
+      "timestamp": 38.364,
+      "selection": "uniform_count",
+      "path": "frames/frame_00023_t000038.364.jpg"
+    },
+    {
+      "kind": "frame",
+      "timestamp": 41.7,
+      "selection": "uniform_count",
+      "path": "frames/frame_00024_t000041.700.jpg"
+    },
+    {
+      "kind": "frame",
+      "timestamp": 45.036,
+      "selection": "uniform_count",
+      "path": "frames/frame_00025_t000045.036.jpg"
+    },
+    {
+      "kind": "frame",
+      "timestamp": 48.372,
+      "selection": "uniform_count",
+      "path": "frames/frame_00026_t000048.372.jpg"
+    },
+    {
+      "kind": "frame",
+      "timestamp": 51.708,
+      "selection": "uniform_count",
+      "path": "frames/frame_00027_t000051.708.jpg"
+    },
+    {
+      "kind": "frame",
+      "timestamp": 55.044,
+      "selection": "uniform_count",
+      "path": "frames/frame_00028_t000055.044.jpg"
+    },
+    {
+      "kind": "frame",
+      "timestamp": 58.38,
+      "selection": "uniform_count",
+      "path": "frames/frame_00029_t000058.380.jpg"
+    },
+    {
+      "kind": "frame",
+      "timestamp": 61.716,
+      "selection": "uniform_count",
+      "path": "frames/frame_00030_t000061.716.jpg"
+    },
+    {
+      "kind": "frame",
+      "timestamp": 65.052,
+      "selection": "uniform_count",
+      "path": "frames/frame_00031_t000065.052.jpg"
+    },
+    {
+      "kind": "frame",
+      "timestamp": 68.388,
+      "selection": "uniform_count",
+      "path": "frames/frame_00032_t000068.388.jpg"
+    },
+    {
+      "kind": "frame",
+      "timestamp": 71.724,
+      "selection": "uniform_count",
+      "path": "frames/frame_00033_t000071.724.jpg"
+    },
+    {
+      "kind": "frame",
+      "timestamp": 75.06,
+      "selection": "uniform_count",
+      "path": "frames/frame_00034_t000075.060.jpg"
+    },
+    {
+      "kind": "frame",
+      "timestamp": 78.396,
+      "selection": "uniform_count",
+      "path": "frames/frame_00035_t000078.396.jpg"
+    },
+    {
+      "kind": "frame",
+      "timestamp": 81.732,
+      "selection": "uniform_count",
+      "path": "frames/frame_00036_t000081.732.jpg"
+    },
+    {
+      "kind": "frame",
+      "timestamp": 85.068,
+      "selection": "uniform_count",
+      "path": "frames/frame_00037_t000085.068.jpg"
+    },
+    {
+      "kind": "frame",
+      "timestamp": 88.404,
+      "selection": "uniform_count",
+      "path": "frames/frame_00038_t000088.404.jpg"
+    },
+    {
+      "kind": "frame",
+      "timestamp": 91.74,
+      "selection": "uniform_count",
+      "path": "frames/frame_00039_t000091.740.jpg"
+    },
+    {
+      "kind": "frame",
+      "timestamp": 95.076,
+      "selection": "uniform_count",
+      "path": "frames/frame_00040_t000095.076.jpg"
+    },
+    {
+      "kind": "frame",
+      "timestamp": 98.412,
+      "selection": "uniform_count",
+      "path": "frames/frame_00041_t000098.412.jpg"
+    },
+    {
+      "kind": "scene_change",
+      "timestamp": 2.72,
+      "path": "scene_frames/scene_0001.jpg"
+    },
+    {
+      "kind": "scene_change",
+      "timestamp": 6.08,
+      "path": "scene_frames/scene_0002.jpg"
+    },
+    {
+      "kind": "scene_change",
+      "timestamp": 6.2,
+      "path": "scene_frames/scene_0003.jpg"
+    },
+    {
+      "kind": "scene_change",
+      "timestamp": 35.04,
+      "path": "scene_frames/scene_0004.jpg"
+    },
+    {
+      "kind": "scene_change",
+      "timestamp": 36.56,
+      "path": "scene_frames/scene_0005.jpg"
+    },
+    {
+      "kind": "scene_change",
+      "timestamp": 37.8,
+      "path": "scene_frames/scene_0006.jpg"
+    },
+    {
+      "kind": "scene_change",
+      "timestamp": 39.0,
+      "path": "scene_frames/scene_0007.jpg"
+    },
+    {
+      "kind": "scene_change",
+      "timestamp": 41.36,
+      "path": "scene_frames/scene_0008.jpg"
+    },
+    {
+      "kind": "scene_change",
+      "timestamp": 46.84,
+      "path": "scene_frames/scene_0009.jpg"
+    },
+    {
+      "kind": "scene_change",
+      "timestamp": 48.08,
+      "path": "scene_frames/scene_0010.jpg"
+    },
+    {
+      "kind": "scene_change",
+      "timestamp": 49.6,
+      "path": "scene_frames/scene_0011.jpg"
+    },
+    {
+      "kind": "scene_change",
+      "timestamp": 58.56,
+      "path": "scene_frames/scene_0012.jpg"
+    },
+    {
+      "kind": "scene_change",
+      "timestamp": 66.2,
+      "path": "scene_frames/scene_0013.jpg"
+    },
+    {
+      "kind": "scene_change",
+      "timestamp": 77.36,
+      "path": "scene_frames/scene_0014.jpg"
+    },
+    {
+      "kind": "scene_change",
+      "timestamp": 83.08,
+      "path": "scene_frames/scene_0015.jpg"
+    },
+    {
+      "kind": "scene_change",
+      "timestamp": 92.32,
+      "path": "scene_frames/scene_0016.jpg"
+    },
+    {
+      "kind": "scene_change",
+      "timestamp": 95.72,
+      "path": "scene_frames/scene_0017.jpg"
+    },
+    {
+      "kind": "audio",
+      "path": "audio_mono_16khz.wav"
+    },
+    {
+      "kind": "contact_sheet",
+      "path": "contact_sheet.jpg"
+    }
+  ]
+}

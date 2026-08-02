@@ -1,0 +1,1709 @@
+
+
+===== PAGE 1 =====
+
+Q-Bench-Video: Benchmark the Video Quality Understanding of LMMs
+Zicheng Zhang1∗, Ziheng Jia1∗, Haoning Wu2†, Chunyi Li1, Zijian Chen1, Yingjie Zhou1,
+Wei Sun1, Xiaohong Liu1, Xiongkuo Min1, Weisi Lin2, and Guangtao Zhai1†
+1Shanghai Jiaotong University, 2Nanyang Technological University
+∗First Authors, †Corresponding Authors
+https://github.com/Q-Future/Q-Bench-Video
+Abstract
+With the rising interest in research on Large Multi-modal
+Models (LMMs) for video understanding, many studies
+have emphasized general video comprehension capabili-
+ties, neglecting the systematic exploration into video qual-
+ity understanding. To address this oversight, we introduce
+Q-Bench-Video in this paper, a new benchmark specifi-
+cally designed to evaluate LMMs’ proficiency in discern-
+ing video quality. a) To ensure video source diversity, Q-
+Bench-Video encompasses videos from natural scenes, AI-
+generated content (AIGC), and computer graphics (CG). b)
+Building on the traditional multiple-choice questions for-
+mat with the Yes-or-No and What-How categories, we in-
+clude Open-ended questions to better evaluate complex sce-
+narios. Additionally, we incorporate the video pair qual-
+ity comparison question to enhance comprehensiveness. c)
+Beyond the traditional Technical, Aesthetic, and Temporal
+distortions, we have expanded our evaluation aspects to in-
+clude the dimension of AIGC distortions, which addresses
+the increasing demand for video generation. Finally, we
+collect a total of 2,378 question-answer pairs and test them
+on 12 open-source & 5 proprietary LMMs. Our findings
+indicate that while LMMs have a foundational understand-
+ing of perceptual video quality, their performance remains
+incomplete and imprecise, with a notable discrepancy com-
+pared to the performance of human beings. Through Q-
+Bench-Video, we seek to catalyze community interest, stim-
+ulate further research, and unlock the untapped potential of
+LMMs to close the gap in video quality understanding.
+1. Introduction
+As the field of artificial intelligence (AI) continues to
+evolve, Large Multi-modal Models (LMMs) [4, 16, 19, 50,
+52] are progressively utilized in high-level video under-
+standing tasks. These models have shown remarkable capa-
+bilities in analyzing and interpreting the semantic content of
+videos, such as classifying objects, identifying actions, and
+recognizing events. However, the aspect of video quality,
+which is vital for optimizing compression and transmis-
+sion systems, enhancing viewer experience, and estab-
+lishing standards for high-quality video generation, has
+received less attention. Although numerous LMM video
+benchmarks[8, 10, 23] have been developed to assess the
+semantic understanding of videos by LMMs comprehen-
+sively, benchmarks systematically targeting video quality
+are still lacking. Additionally, while semantic understand-
+ing is closely linked to high-level video information, the
+perception and understanding of low-level information are
+crucial in video quality [5, 25] as well.
+To address this gap, we introduce Q-Bench-Video, a
+novel benchmark specifically designed to systematically
+evaluate the video quality understanding of LMMs. As
+illustrated in Fig. 1, our benchmark encompasses a wide
+range of video content, including natural scenes, AI-
+generated content (AIGC), and computer graphics (CG), en-
+suring diversity in video sources. In addition, to maintain a
+reasonable distribution of source video quality, we employ
+uniform sampling from video datasets that contain subjec-
+tive quality annotations. This approach guarantees com-
+prehensive coverage of the quality spectrum while avoid-
+ing imbalanced quality distributions. Moreover, we extend
+beyond traditional video evaluations by incorporating both
+multiple-choice questions (MCQs) and open-ended ques-
+tions. This enables a more thorough analysis of LMMs’
+ability to discern video quality across diverse scenarios. We
+further introduce a new evaluation dimension specifically
+tailored to assess distortions related to AIGC, which are in-
+creasingly prominent in video generation tasks. Recogniz-
+ing the importance of quality comparison settings in real-
+world applications, such as camera parameter optimization
+and AIGC video generation, we further incorporate video
+pairs to facilitate quality comparison assessment as well. In
+total, we collect 1800 videos and annotated 2,378 question-
+answer pairs for validation, creating a robust framework for
+systematic evaluation on video quality understanding.
+1
+arXiv:2409.20063v2  [cs.CV]  2 Mar 2025
+
+===== PAGE 2 =====
+
+Quality distribution after sampling
+Rescaled quality 
+scores from 
+source datasets
+0-1
+bad
+1-2
+poor
+2-3
+fair
+3-4
+good
+4-5
+excellent
+Probability Density
+Uniform Sampling
+Referring
+~ 38.72%
+Single Videos
+~75.40%
+Video Pairs
+~24.60%
+1500
+900
+600
+300 Number
+One annotation can be 
+related to multiple 
+quality concerns
+Previous quality distribution  
+0-1
+bad
+1-2
+poor
+2-3
+fair
+3-4
+good
+4-5
+excellent
+Probability Density
+Rescaled quality 
+scores from 
+source datasets
+Question  Type
+Source 
+Diversity
+Quality Control
+Data
+Statistics
+Quality ConcernSingle & Pair
+Natural Scene Videos ~ 1,000
+CG Videos ~ 200
+AIGC Videos ~ 600
+Video Quality Assessment Datasets
+Two options for Yes-or-No
+Four options for What-How
+No options for Open-ended
+(a)
+(b)
+(c-3)
+(c-1)
+(c-2)
+1512
+651 684
+297
+Figure 1. The construction overview of the proposed Q-Bench-Video. To ensure diversity in video content , we collect natural scenes,
+AIGC, and CG videos from video quality assessment datasets as depicted in (a). To achieve a balanced quality distribution among the
+sampled videos, we employ uniform sampling for quality control . As indicated in (c-1) and (c-2), we utilize three types of questions
+(Yes-or-No, What-How, Open-ended) and address a comprehensive range of quality concerns includingTechnical, Aesthetic, Temporal, and
+AIGC distortions. Additionally, we incorporate the video pairs comparison task to enhance the comprehensiveness of the benchmark.
+Through the rigorous experiment, we demonstrate that
+while LMMs show promise in video quality assessment,
+their performance lags significantly behind human-level un-
+derstanding. By offering a systematic and thorough evalu-
+ation of LMMs’ video quality perception, Q-Bench-Video
+aims to foster research in this underexplored area and push
+the boundaries of LMM capabilities on video quality under-
+standing. Our contributions can be summarized as follows:
+• We introduce Q-Bench-Video, the first comprehensive
+benchmark explicitly designed to assess the video qual-
+ity understanding capabilities of LMMs. This benchmark
+includes a diverse collection of source videos and ensures
+a balanced quality distribution, complemented by human-
+crafted question-answer annotations.
+• Our evaluation framework spans four key quality dimen-
+sions: Technical, Aesthetic, Temporal, and AIGC distor-
+tions, which offers a holistic evaluation approach to video
+quality assessment. Uniquely, Q-Bench-Video enhances
+its utility by introducing the task of video pairs compar-
+ison, which sets it apart from existing video benchmarks.
+• We conduct a comprehensive evaluation using both pro-
+prietary and open-source LMMs to measure their effec-
+tiveness in understanding video quality. The results ex-
+pose notable deficiencies in current LMMs, while also
+shedding light on performance variations across differ-
+ent quality dimensions. These findings provide critical
+insights and suggest promising directions for future en-
+hancements in the field of video quality understanding.
+2. Related Works
+2.1. Video LMMs and Benchmarks
+The rapid advancement of Large Multi-modal Models
+(LMMs) in recent years [4, 28–30, 53, 57, 68] has show-
+cased their remarkable perception and cognitive abilities
+across various multimodal benchmarks for images [9, 33,
+35, 47, 63]. As development progresses, the focus of visual
+analysis has gradually shifted from images to videos. Early
+efforts [22, 27, 31, 50] aimed at unlocking the video un-
+derstanding potential of LMMs have yielded promising re-
+sults. However, initial video-based benchmarks [24, 34, 41]
+typically concentrated on specific aspects of video compre-
+hension, falling short of fully capturing the performance
+of these models due to limitations such as a lack of diver-
+sity in video types and inadequate coverage of temporal dy-
+namics. In response, recent video benchmarks [8, 10] have
+moved toward a more comprehensive evaluation of LMMs.
+Nonetheless, these efforts focus on high-level semantic un-
+derstanding without systematic exploration of video quality.
+2.2. Video Quality Assessment
+Video Quality Assessment (VQA) is a task aimed at quan-
+tifying video scores based on visual quality. Initially, early
+VQA methods employ hand-crafted features extracted from
+videos and regress the features into quality scores [17, 20,
+26, 40, 59, 65, 66]. With the emergence of deep neural net-
+works, a shift occurs as numerous methods adopted deep
+2
+
+===== PAGE 3 =====
+
+Table 1. Overview of the diverse video source datasets in theQ-Bench-Video. We consider various video content types, includingnatural
+scenes, AIGC, and CG videos. The term ‘MOS’ denotes that the videos are annotated via Mean Opinion Scores under ITU standards [1].
+We have conducted uniform sampling based on their quality labels to ensure a balanced quality distribution.
+Video Type Video Source Dataset MOS Quality Concerns Sampled Size Full Dataset Size
+Natural (1000)
+LSVQ [55] ✓ Spatial & Temporal 600 39K
+MaxWell [46] ✓ Spatial & Temporal & Aesthetic 350 4.5K
+WaterlooSQoE-III [6] ✓ Quality-of-Experience 20 450
+WaterlooSQoE-IV [7] ✓ Quality-of-Experience 30 1,350
+AIGC (600) T2VQA-DB [17] ✓ Quality & Text Alignment 200 10K
+VideoFeedback [13] × Quality & Text Alignment 400 37.6K
+CG (200) LIVE-YT-Gaming [56] ✓ Visual Quality 200 600
+learning techniques for VQA tasks [18, 21, 38, 42]. As the
+field progresses, newer methods begin incorporating con-
+siderations for both temporal dynamics and aesthetic qual-
+ities, leading to a more holistic approach to video quality
+analysis [3, 12, 43, 45, 60]. Moreover, the evolution of
+large-scale models has further revolutionized VQA method-
+ologies. Many recent approaches have redefined the tradi-
+tional quality assessment process into a quality question-
+answering format [11, 15, 48, 61, 64]. This adaptation
+leverages the substantial prior knowledge embedded in
+large models to enhance the precision of quality quantifica-
+tion [62]. Despite these technological advances, VQA still
+grapples with challenges in providing interpretable quality
+scores and deepening the understanding of how models per-
+ceive and analyze video quality more comprehensively.
+3. Benchmark Construction
+3.1. Benchmark Principle
+The Q-Bench-Video is designed based on three guiding
+principles: (1) It encompasses a broad spectrum of video
+content, including natural scenes, AIGC, and CG videos.
+(2) It ensures a comprehensive and representative sam-
+pling process across a wide quality range , enhancing the
+benchmark’s overall effectiveness. ( 3) It primarily fo-
+cuses on the aspects of video quality that significantly
+influence the viewing experience, including technical, aes-
+thetic, temporal, and AIGC distortions. This significantly
+differs from other video benchmarks that prioritize semantic
+understanding. Additionally, the video pair quality com-
+parison is integrated to address the challenges associated
+with comparing video quality. The overall construction pro-
+cess can be clearly overviewed in Fig. 1.
+3.2. Source Videos Collection
+As shown in Table 1, the source videos are primarily gath-
+ered from video quality assessment datasets. We selected
+videos from these datasets for two main reasons: ( 1) These
+datasets have inherently considered the diversity of quality
+features during video selection; ( 2) These datasets possess
+quality annotations that adhere to ITU standards [1] (with
+the exception of VideoFeedback), which allow us to accu-
+rately and authentically sample videos.
+Our sampling method primarily employs a uniform ap-
+proach, extracting videos evenly from each dataset based on
+the quality range. Moreover, considering the current popu-
+larity of AIGC and CG videos, we have also incorporated a
+selection of these video types. (More details in the Supp.)
+3.3. Benchmark Designs
+In this section, we provide a detailed description of the
+design of Q-Bench-Video. In this benchmark, the meta-
+structure tuple (V,Q,A,C) of each data item can be decom-
+posed into several components: the video object V (which
+can be a single video or a pair of videos), the video qual-
+ity query Q, the set of possible answers A, and the correct
+answer C. The question samples are listed in Fig. 2.
+3.3.1. Question Types
+I) Yes-or-No Questions.The basic Yes-or-Noquestions are
+designed to prompt LMMs to make binary judgments on
+video quality queries, typically limited to the answers Yes
+or No. To address the potential bias in LMMs that may
+skew towards yes responses, we employ an annotation ad-
+justment process, which modifies the questions and correct
+answers if necessary (based on the Yes-or-No ratio). This
+process ensures that the distribution of correct answers, ei-
+ther Yes or No, remains balanced at about 50%:50% ratio in
+the end. This balanced approach allows for a more accurate
+assessment of LMMs’ performance onYes-or-Noquestions.
+II) What-How Questions. The What-How questions are
+commonly utilized in benchmarks for LMMs. The What
+questions focus on identifying specific distortions ( e.g.,
+What is the most apparent distortion in this video?). On the
+other hand, the How questions are employed to distinguish
+the finer details of distortion levels ( e.g., How is the over-
+all clarity of this video? ). Including both What and How
+questions allows Q-Bench-Video to thoroughly and metic-
+ulously evaluate LMMs’ ability on identifying video distor-
+tions and evaluating the distortion levels.
+III) Open-ended Questions. It’s important to note that the
+two types of questions previously mentioned require LMMs
+to select the correct answer from a predefined set. How-
+ever, in many real-world scenarios, Open-ended Questions,
+which do not restrict responses to a predefined set, are of-
+ten more necessary and challenging for LMMs ( e.g., What
+3
+
+===== PAGE 4 =====
+
+Q: Does the fabric in this video exhibit good 
+clarity and proper lighting?
+A. Yes
+                      B. No
+(a) Question Type
+Yes-or-No
+What-How
+Open-ended
+(b)  Quality Concern
+(c)  Single Video vs. Video Pairs
+Q: What quality issues do not exist in this video?
+A. None of the options  B. Blurriness
+C.  Overexposure            D. Underexposure
+Q: Why is it difficult for viewers to identify the dish the man is cooking in the video?
+Open-ended Response: The video has severe compression blur and block artifacts, significantly reducing 
+the discernibility of objects in the video.
+Q: What feelings does this video evoke?
+Open-ended Response: This video depicts a castle in a 
+unnatural and twisted jungle, where the plants have 
+bizarre, sharp structures and dull colors. The 
+atmos-
+phere is eerie and terrifying, creating a sense of horror.
+Technical
+Q: As the camera moves away in this video, is 
+there a noticeable increase in the clarity 
+of the 
+person's face?
+A. No                         
+B. Yes
+AIGC
+Global
+Referring
+Temporal
+Aesthetic 
+Q: Does this video have severe camera shake?
+A. No  
+B. Yes
+Q: What is the most impactful quality issue of this video?
+A. Noise                 B. Incorrect human structure 
+C.  Blurriness            D. Overexposure
+Q: How is the overall lighting level in this game video?
+A. Very poor                   B. Poor
+C.  Average                   D. Good
+Q: Is the main character in this game video rendered 
+in high details but with relatively low clarity?
+A. Yes                             B. No
+JointCompare
+Q: Is the exposure of the first video more balanced than the second video?        A. No          B. Yes
+Q: Are both videos primarily in cold colors?                    A. Yes                             B. No
+VS
+VS
+Figure 2. The visualization samples from Q-Bench-Video, with the question-answer content most representative of each subcategory
+being underlined. It is important to note that, regarding quality concerns, a single question-answer annotation may not only focus on one
+distortion dimension. Therefore, the distortion visualization examples shown in (b) primarily highlight instances that are most closely
+aligned with the mentioned distortion types.
+4
+
+===== PAGE 5 =====
+
+are the possible factors that lead to the low clarity of this
+video? Please list and explain. ). By adopting this form of
+questioning, we can better assess an LMM’s ability to per-
+ceive video quality in real-world conditions.
+3.3.2. Quality Concerns
+It’s important to recognize that video quality can be influ-
+enced by multiple factors on some occasions. Therefore, a
+query tuple (V,Q,A,C) does not need to be restricted to a
+single concern. It can address multiple concerns simul-
+taneously. For instance, the question Is this video clear and
+well-composed? can be seen as evaluating both technical
+and aesthetic quality understanding.
+I) Technical Distortions. Technical distortions refer to
+the low-level degradation in video quality that arises from
+the limitations of recording, compression, and transmis-
+sion [37, 55]. These distortions often include artifacts
+such as blurring, noise, compression artifact, exposure, etc.,
+which are directly tied to the technical processes used in
+video production and delivery. The CG-specific distortions
+related to geometry and texture are taken into consideration.
+II) Aesthetic Distortions. Aesthetic distortions involve de-
+viations from the intended visual style, artistic design, or
+creative intent that negatively affect the viewer’s perception
+of the video [14, 44]. These distortions can include aspects
+such as confusing color, poor composition, lighting incon-
+sistencies, or distracting elements that reduce the overall
+aesthetic appeal. Unlike technical distortions, aesthetic dis-
+tortions are subjective and might be affected by viewer pref-
+erence, cultural context, or artistic norms.
+III) Temporal Distortions. Temporal distortions are re-
+lated to the degradation of visual quality over time, impact-
+ing the fluidity and consistency of the video [36]. These
+distortions manifest as issues like screen shake, flickering,
+motion inconsistency, frame drops, and stuttering that re-
+sult from unstable shooting devices, dramatically changing
+lighting conditions, and unstable bitrate environments [46].
+Such disruptions hinder the viewer’s natural perception of
+the video, leading to a disjointed and unpleasant viewing
+experience, especially in live-streaming scenarios.
+IV) AIGC Distortions. AIGC distortions pertain to im-
+perfections and unnaturalness specifically arising from the
+generation of video content through AI models [32, 62].
+These distortions may include unnatural textures, inconsis-
+tent lighting, uncanny facial features, or unrealistic object
+behavior that result from limitations or biases in the train-
+ing data, model architecture, or generative process. These
+distortions are unique to AI-generated content and require
+specialized evaluation metrics that consider both the techni-
+cal and perceptual quality aspects.
+3.3.3. Single Videos & Video Pairs
+Accurately comparing and jointly analyzing the quality of
+video pairs is sometimes more crucial than assessing the
+(a) Annotation GUI for single videos of Q-Bench-Video.
+(b) Annotation GUI for video pairs of Q-Bench-Video.
+Figure 3. Illustration of the annotation GUIs for Q-Bench-Video.
+(a) shows the interface for annotating single videos, where the
+annotator can select the question type and play the videos using
+the Video Play button. The annotator can also switch to the next
+and previous annotation with the Next and Previous buttons. (b)
+presents the interface for annotating video pairs. When the an-
+notator presses the Video Play button, the video pairs are played
+sequentially, with a five-second gray screen serving as an interval
+between the two videos.
+quality of a single video, especially in scenarios such as per-
+formance tests in video compression and quality control in
+video generation (In which it is more important to find out
+Which video is better in visual quality and why? ) [49, 67].
+Therefore, in Q-Bench-Video, we include video quality
+queries for both single videos and video pairs.
+I) Single Videos. Queries related to single videos can pri-
+marily be categorized into two types:a) Global perception,
+which involves questions about the overall visual quality of
+the video, such as How is the overall contrast of this video?
+b) Referring perception, which focuses on the visual qual-
+ity of specific elements within the video, like queryingWhat
+is the most apparent distortion when the player strikes the
+ball? Through these approaches, we aim to comprehen-
+sively evaluate the LMMs’ ability to perceive both the over-
+all and localized aspects of video quality.
+II) Video Pairs. Firstly, to ensure that the comparison
+of video pairs is clear and meaningful, comparisons are
+only made between videos from the same source, such as
+videos from natural sources being paired together while CG
+videos and AIGC videos are not being paired. There are
+mainly two types of video pair categories: a) Joint anal-
+ysis, which involves understanding the shared quality fea-
+tures of the video pairs, for example, such as asking Are
+both videos blurry? b) Comparative analysis, which in-
+volves comparing the quality dimension across two videos,
+such as How does the level of brightness in the first video
+compare to that in the second one? It is important to note
+5
+
+===== PAGE 6 =====
+
+ST-LLM
+VideoChat2
+mPLUG-Owl2
+Video-LLaVA
+LLaVA-v1.5LLaVA-Next
+LLaVA-Next-Video
+VILA1.5
+PLLaVA
+InternVL-Chat
+LLaVA-OneVision
+GPT-4o mini
+mPLUG-Owl3
+GPT-4 Turbo Gemini 1.5 Flash
+Gemini 1.5 Pro
+GPT-4o
+Human
+20
+40
+60
+80
+100
+35.42
+40.56
+43.43
+43.49
+45.6447.52
+48.69
+49.41
+50.39
+51.11
+51.70
+52.20
+52.39
+56.36 56.78
+58.63
+58.70
+81.56
+(a) Overall performance on Q-Bench-Video.
+    Yes-or-No
+    What-How
+Open-ended
+T echnicalAesthetic
+T emporal
+AIGC
+Global
+Referring
+Single-Overall
+Joint    Compare-fine
+        Compare-coarse
+   Pair-Overall
+40
+50
+60
+70
+80
+90
+Human
+GPT-4o
+Gemini 1.5 Pro
+mPLUG-Owl3
+LLaVA-OneVision (b) Subcategory performance on Q-Bench-Video.
+Figure 4. A concise summary of the LMMs’ performance onQ-Bench-Video. (a) provides a comparison detailing the overall performance
+of humans and 17 selected LMMs, including both proprietary and open-source models. (b) illustrates a radar chart that outlines the
+performance of the top-2 proprietary LMMs (GPT-4o & Gemini 1.5 Pro) and open-source LMMs (mPLUG-Owl3 & LLaV A-OneVision)
+across various subcategories within Q-Bench-Video.
+that we further categorize comparisons based on the differ-
+ence in quality labels of the videos involved into coarse-
+grain (with relatively more significant visual quality differ-
+ences) and fine-grain (with relatively minor visual quality
+differences) comparisons. (More details in the Supp.)
+3.3.4. Questions & Answers Annotation
+The annotation process ofQ-Bench-Video is conducted in a
+well-controlled laboratory environment. A total of 8 experts
+are employed and trained to ensure the consistency of the
+annotations. The experts are required to watch the videos
+in their entirety before making annotations. Each annotated
+question-answer pair is then reviewed by at least three other
+experts to ensure its validity and accuracy.
+3.4. Benchmark Setting & Evaluation
+Unless specifically stated otherwise, for Video LMMs we
+typically analyze by uniformly sampling 16 frames from the
+video, while for Image LMMs, the sampling is reduced to 8
+frames. It’s worth noting that if the LMMs are not compat-
+ible with the specified number of sampling frames (e.g. if
+they cannot support up to 8-frame input), we will use the of-
+ficial default settings for testing. For Yes-or-Noand What-
+How questions, if the LMMs can accurately respond with
+the options, we directly record the accuracy of the responses
+as results. If the LMMs cannot provide option-based an-
+swers, we implement a GPT-assisted evaluation strategy to
+help judge the accuracy of the answers. For Open-ended
+questions, since the answers are open-ended and cannot be
+directly quantified for accuracy, we also employ the GPT-
+assisted evaluation strategy. This involves GPT scoring the
+responses based on their accuracy, completeness, and rele-
+vance compared to the annotated answer.
+4. Results of Q-Bench-Video
+4.1. Experimental Setting
+LMMs Participants. A total of 17 LMMs (12 Open-
+source LMMs and 5 Proprietary LMMs ) are included
+for validation, which includes a) 3 Open-source Image
+LMMs: LLaV A-Next [30], LLaV A-v1.5 [28], and mPLUG-
+Owl2 [54]; b) 9 Open-source Video LMMs : mPLUG-
+Owl3 [52], LLaV A-OneVision [19], InternVL-Chat [4],
+VILA1.5 [16], PLLaV A [50], LLaV A-Next-Video [58], ST-
+LLM [31], Video-LLaV A [27], and VideoChat2 [22]; c) 5
+Proprietary LMMs: Gemini 1.5 Flash, Gemini 1.5 Pro [39],
+GPT-4o mini, GPT-4o, and GPT-4 Turbo [2].
+Subsets Split. The Q-Bench-Video is divided into
+test (1,186 question-answer items) and dev (1,192
+question-answer items) subsets. The correct answers will
+be released and proprietary for the dev and test subsets.
+All discussions and analyses are based on the test subset.
+6
+
+===== PAGE 7 =====
+
+Table 2. Results on the test subset for the video quality perception ability of LMMs. The best performance is marked in bold and
+the second performance is underlined for Open-source and Proprietary LMMs respectively. The Open-ended questions are excluded for
+Random guess. (Performance of the test subset is in the Supp.)
+Sub-categories Question Types Quality Concerns
+Overall↑LMM(LLM) Yes-or What Open Tech.↑ Aes.↑ Temp.↑ AIGC↑-No↑ -How↑ -ended↑
+Random guessw/o Open-ended 50.00% 25.00% / 37.10% 37.31% 37.25% 37.22% 37.79%
+Human 86.57% 81.00% 77.11% 79.22% 80.23% 82.72% 86.21% 81.56%
+Open-source Image LMMs
+LLaV A-Next (Mistral-7B) 62.83% 45.14% 33.69% 46.38% 57.86% 47.84% 48.46% 47.52%
+LLaV A-v1.5 (Vicuna-v1.5-13B) 52.98% 46.44% 37.01% 45.77% 58.12% 45.30% 46.48% 45.64%
+mPLUG-Owl2 (LLaMA2-7B) 59.19% 39.07% 31.19% 42.07% 52.38% 41.71% 39.37% 43.43%
+Open-source Video LMMs
+mPLUG-Owl3 (Qwen2-7B) 60.48% 56.39% 39.48% 52.68% 58.31% 52.05% 43.49% 52.39%
+LLaV A-OneVision (Qwen2-7B) 61.34% 53.88% 39.15% 49.35% 64.15% 50.68% 44.30% 51.70%
+InternVL-Chat (Vicuna-7B) 66.02% 52.13% 33.93% 48.42% 52.73% 50.59% 53.12% 51.11%
+VILA1.5 (LLaMA3-8B) 61.95% 46.00% 39.60% 47.85% 57.85% 45.65% 42.57% 49.41%
+PLLaV A (Mistral-7B) 65.63% 52.33% 32.23% 49.69% 61.32% 50.96% 53.64% 50.39%
+LLaV A-Next-Video (Mistral-7B) 61.34% 45.95% 38.10% 49.03% 60.94% 46.97% 49.40% 48.69%
+ST-LLM (Vicuna-v1.1-7B) 44.63% 28.50% 32.78% 34.99% 46.11% 34.28% 34.02% 35.42%
+Video-LLaV A (Vicuna-v1.5-7B) 64.67% 40.79% 29.11% 43.25% 54.04% 42.38% 42.76% 43.49%
+VideoChat2 (Mistral-7B) 56.09% 29.98% 34.99% 39.26% 50.02% 38.25% 35.88% 40.56%
+Proprietary LMMs
+Gemini 1.5 Flash 65.48% 56.79% 47.51% 54.11% 66.58% 53.51% 50.22% 56.78%
+Gemini 1.5 Pro 65.42% 62.35% 47.57% 56.80% 69.61% 53.38% 53.26% 58.63%
+GPT-4o mini 62.95% 50.93% 42.10% 49.38% 60.90% 48.43% 41.71% 52.20%
+GPT-4o 67.48% 58.79% 49.25% 56.01% 58.57% 65.39% 52.22% 58.70%
+GPT-4 Turbo 66.93% 58.33% 40.15% 54.23% 66.23% 54.00% 52.04% 56.36%
+4.2. Findings
+The overall performance and subcategory comparisons (hu-
+man vs. top-performing LMMs) on Q-Bench-Video can
+be quickly glanced at Fig. 4. Detailed performance across
+the subcategories for each LMM are shown in Table 2
+(Question Types& Quality Concerns) and Table 3 (Single
+Videos vs. Video Pairs ) respectively. The findings are or-
+ganized as follows:
+1) General Performance. Human >Proprietary
+LMMs>Open-source LMMs>Random guess. From the
+performance results presented in Table 2, we observe that
+nearly all LMMs significantly outperform random guess ,
+demonstrating their basic capability to understand video
+quality. Among the open-source LMMs, the recently re-
+leased mPLUG-Owl3 achieves the highest overall perfor-
+mance at 52.39%, even slightly surpassing GPT-4o mini
+(52.20%), followed closely by LLaV A-OneVision (51.70%)
+and InternVL-Chat (51.11%). Image LMMs deliver mod-
+erate performance. Although they outperform some Video
+LMMs, the gap between them and the latest Video LMMs
+is still notable. Benefiting from larger training datasets and
+more parameters, proprietary LMMs (except GPT-4o mini)
+outperform all open-source models. However, even the
+best-performing model, GPT-4o, which achieved an over-
+all performance of 58.70%, still lags behind human perfor-
+mance by 22.86%. This gap highlights that, despite the ad-
+vancements in current state-of-the-art LMMs on video gen-
+eral understanding, there remains a significant need for im-
+provement in video quality understanding ability.
+2) Question Types. Open-ended questions are more
+challenging for LMMs. From Table 2, a discernible hierar-
+chy in task difficulty for video quality assessment emerges
+for both humans and LMMs, arranged as follows: Open-
+ended >What-How >Yes-or-No. It is crucial to highlight
+that while humans exhibit a performance decline in Open-
+ended tasks by approximately 9.46% compared to Yes-or-
+No tasks, and about 3.89% compared to What-How tasks,
+these reductions are markedly less pronounced than those
+observed in LMMs for the Open-ended questions. This
+disparity underscores a significant proficiency gap between
+LMMs’ capability in handling straightforward, closed-form
+questions and their effectiveness in navigating the complex-
+ities of real-world problem-solving on open-ended ques-
+tions, particularly in the context of video quality evaluation.
+3) Quality Concerns. LMMs exhibit unbalanced per-
+formance across different types of distortions. From
+Table 2, it is evident that humans are particularly good
+at identifying AIGC distortions, while LMMs demonstrate
+stronger performance in detecting Aesthetic distortions.
+This distinction likely stems from the inherent sensitivity
+of humans to the conspicuous unnaturalness of AIGC dis-
+tortions, which readily draws human attention. In contrast,
+Aesthetic distortions, which often involve high-level seman-
+tic nuances, align more closely with the training contexts
+of LMMs, enabling them to excel in this area. However,
+LMMs face challenges with AIGC distortions due to insuf-
+ficient exposure to such anomalies during their pretraining
+phases, specific architectural constraints, and imperfections
+7
+
+===== PAGE 8 =====
+
+Table 3. Results on the test subset for the video quality perception ability across single videos and video pairs of LMMs. The best
+performance is marked in bold and the second performance is underlined for Open-source and Proprietary LMMs respectively.
+Sub-categories Single Videos Video Pairs
+LMM(LLM) Global ↑ Referring↑ Overall↑ Joint↑ Compare Compare Overall↑-fine↑ -coarse↑
+Random guessw/o Open-ended 36.49% 38.61% 37.71% 40.56% 37.94% 36.83% 38.00%
+Human 78.87% 80.43% 79.65% 84.90% 87.34% 89.11% 87.56%
+LLaV A-Next (Mistral-7B) 51.33% 50.20% 50.73% 38.03% 48.00% 42.48% 43.46%
+LLaV A-v1.5 (Vicuna-v1.5-13B) 47.99% 51.94% 50.10% 27.72% 34.60% 42.12% 36.42%
+mPLUG-Owl2 (LLaMA2-7B) 46.86% 43.51% 45.07% 51.49% 37.10% 40.28% 43.69%
+Open-source Video LMMs
+mPLUG-Owl3 (Qwen2-7B) 52.46% 50.60% 51.47% 48.03% 54.90% 59.20% 55.31%
+LLaV A-OneVision (Qwen2-7B) 51.56% 48.43% 49.89% 53.48% 58.10% 63.36% 59.41%
+InternVL-Chat (Vicuna-7B) 51.15% 51.86% 51.52% 48.85% 51.10% 49.20% 49.79%
+VILA1.5 (LLaMA3-8B) 52.35% 47.37% 49.69% 56.11% 45.40% 48.04% 48.84%
+PLLaV A (Mistral-7B) 51.44% 55.49% 53.60% 40.36% 50.40% 54.16% 49.90%
+LLaV A-Next-Video (Mistral-7B) 51.33% 50.20% 50.73% 38.03% 48.00% 42.48% 43.46%
+ST-LLM (Vicuna-v1.1-7B) 36.54% 36.49% 36.51% 28.03% 36.80% 32.08% 32.87%
+Video-LLaV A (Vicuna-v1.5-7B) 45.46% 44.67% 45.04% 49.36% 42.00% 43.00% 44.01%
+VideoChat2 (Mistral-7B) 43.52% 38.27% 40.72% 57.23% 44.40% 41.64% 45.93%
+Proprietary LMMs
+Gemini 1.5 Flash 58.00% 53.18% 55.43% 46.59% 65.30% 68.84% 62.77%
+Gemini 1.5 Pro 52.36% 61.41% 57.19% 45.43% 65.30% 72.00% 63.55%
+GPT-4o mini 52.67% 48.96% 50.69% 44.00% 60.50% 63.88% 58.02%
+GPT-4o 58.75% 54.18% 56.31% 46.93% 67.30% 69.24% 63.80%
+GPT-4 Turbo 57.36% 52.80% 54.93% 46.13% 62.50% 64.80% 59.84%
+in the generation process. In the case of proprietary LMMs,
+their performance on Technical and Temporal distortions
+appear comparably consistent, indicating a uniform capabil-
+ity in recognizing these two types of distortions. Nonethe-
+less, across all four subcategories, LMMs exhibit a notable
+performance disparity compared to humans, with varying
+degrees of accuracy among the different types of distortions.
+This variability highlights the need for significant enhance-
+ments in LMMs’ abilities to accurately understand and in-
+terpret various distortion types.
+4) Single Videos vs. Video Pairs. LMMs demonstrate
+superior capabilities in comparing video quality. From
+Table 3, we observe that for single videos, LMMs achieve
+similar performance in Global and Referring quality per-
+ception (except for Gemini 1.5 Pro), without any signifi-
+cant trend of the performance for one subcategory over the
+other. This suggests that LMMs have comparable abilities
+in perceiving bothGlobal video quality and Referring video
+quality. In terms of comparison, however, LMMs clearly
+outperform their performance on single video analysis and
+joint analysis. Notably, LMMs perform significantly better
+in the Compare-coarse subcategory, where video pairs have
+more pronounced quality differences, than in the Compare-
+fine subcategory. This highlights that LMMs are more adept
+at comparing video quality than analyzing the quality of
+single videos. This advantage in comparative assessment
+can be attributed to the inherent clarity in pairwise compar-
+isons, which provide explicit contrasts, as opposed to the
+more ambiguous nature of evaluating a single video. Both
+humans and LMMs exhibit enhanced performance in com-
+parative tasks. Although there is still a significant accuracy
+gap between LMMs and humans, LMMs show promising
+potential as effective tools for comparing video quality.
+5. Limitations
+1) Subjectivity can not be fully avoided in annotations for
+aspects like aesthetics. 2) As video generation advances,
+new models may show different distortions, which might
+potentially make parts of Q-Bench-Video outdated.
+6. Conclusion
+In this paper, we introduce Q-Bench-Video, the first
+comprehensive benchmark explicitly designed to evalu-
+ate Large Multi-modal Models’ (LMMs) understanding of
+video quality. Our benchmark includes a diverse range of
+video types, questions that challenge multiple aspects of
+video quality, and a holistic evaluation framework encom-
+passing Technical, Aesthetic, Temporal, and AIGC distor-
+tions. Through extensive experimentation with 17 open-
+source and proprietary LMMs, we find that while LMMs
+show promise in discerning video quality, their performance
+remains significantly below human-level understanding, es-
+pecially when addressing Open-ended questions and AIGC-
+specific distortions. These findings highlight the current
+limitations of LMMs in video quality perception and under-
+score the need for further advancements in this area. By of-
+fering Q-Bench-Video, we aim to stimulate future research
+and drive improvements in the field, bridging the gap be-
+tween LMM and human video quality understanding.
+8
+
+===== PAGE 9 =====
+
+References
+[1] Recommendation 500-10: Methodology for the subjective
+assessment of the quality of television pictures. ITU-R Rec.
+BT.500, 2000. 3
+[2] Josh Achiam, Steven Adler, Sandhini Agarwal, Lama Ah-
+mad, Ilge Akkaya, Florencia Leoni Aleman, Diogo Almeida,
+Janko Altenschmidt, Sam Altman, Shyamal Anadkat, et al.
+Gpt-4 technical report. arXiv preprint arXiv:2303.08774 ,
+2023. 6
+[3] Sewoong Ahn and Sanghoon Lee. Deep blind video quality
+assessment based on temporal human perception. In ICIP,
+pages 619–623, 2018. 3
+[4] Zhe Chen, Weiyun Wang, Hao Tian, Shenglong Ye, Zhang-
+wei Gao, Erfei Cui, Wenwen Tong, Kongzhi Hu, Jiapeng
+Luo, Zheng Ma, et al. How far are we to gpt-4v? closing
+the gap to commercial multimodal models with open-source
+suites. arXiv preprint arXiv:2404.16821, 2024. 1, 2, 6
+[5] Shyamprasad Chikkerur, Vijay Sundaram, Martin Reisslein,
+and Lina J Karam. Objective video quality assessment meth-
+ods: A classification, review, and performance comparison.
+IEEE transactions on broadcasting, 57(2):165–182, 2011. 1
+[6] Zhengfang Duanmu, Abdul Rehman, and Zhou Wang. A
+quality-of-experience database for adaptive video streaming.
+IEEE Transactions on Broadcasting , 64(2):474–487, 2018.
+3, 1
+[7] Zhengfang Duanmu, Wentao Liu, Zhuoran Li, Diqi Chen,
+Zhou Wang, Yizhou Wang, and Wen Gao. The waterloo
+streaming quality-of-experience database-iv. IEEE Data-
+port, 2020. 3, 1
+[8] Xinyu Fang, Kangrui Mao, Haodong Duan, Xiangyu Zhao,
+Yining Li, Dahua Lin, and Kai Chen. Mmbench-video: A
+long-form multi-shot benchmark for holistic video under-
+standing. arXiv preprint arXiv:2406.14515, 2024. 1, 2
+[9] Chaoyou Fu, Peixian Chen, Yunhang Shen, Yulei Qin,
+Mengdan Zhang, Xu Lin, Zhenyu Qiu, Wei Lin, Jinrui Yang,
+Xiawu Zheng, Ke Li, Xing Sun, and Rongrong Ji. Mme: A
+comprehensive evaluation benchmark for multimodal large
+language models, 2023. 2
+[10] Chaoyou Fu, Yuhan Dai, Yondong Luo, Lei Li, Shuhuai Ren,
+Renrui Zhang, Zihan Wang, Chenyu Zhou, Yunhang Shen,
+Mengdan Zhang, et al. Video-mme: The first-ever compre-
+hensive evaluation benchmark of multi-modal llms in video
+analysis. arXiv preprint arXiv:2405.21075, 2024. 1, 2
+[11] Qihang Ge, Wei Sun, Yu Zhang, Yunhao Li, Zhongpeng Ji,
+Fengyu Sun, Shangling Jui, Xiongkuo Min, and Guangtao
+Zhai. Lmm-vqa: Advancing video quality assessment with
+large multimodal models. arXiv preprint arXiv:2408.14008,
+2024. 3
+[12] Chenlong He, Qi Zheng, Ruoxi Zhu, Xiaoyang Zeng, Yibo
+Fan, and Zhengzhong Tu. Cover: A comprehensive video
+quality evaluator. In Proceedings of the IEEE/CVF Con-
+ference on Computer Vision and Pattern Recognition, pages
+5799–5809, 2024. 3
+[13] Xuan He, Dongfu Jiang, Ge Zhang, Max Ku, Achint Soni,
+Sherman Siu, Haonan Chen, Abhranil Chandra, Ziyan Jiang,
+Aaran Arulraj, Kai Wang, Quy Duc Do, Yuansheng Ni, Bo-
+han Lyu, Yaswanth Narsupalli, Rongqi Fan, Zhiheng Lyu,
+Yuchen Lin, and Wenhu Chen. Videoscore: Building auto-
+matic metrics to simulate fine-grained human feedback for
+video generation. ArXiv, abs/2406.15252, 2024. 3, 1
+[14] Yipo Huang, Quan Yuan, Xiangfei Sheng, Zhichao Yang,
+Haoning Wu, Pengfei Chen, Yuzhe Yang, Leida Li, and
+Weisi Lin. Aesbench: An expert benchmark for multimodal
+large language models on image aesthetics perception.arXiv
+preprint arXiv:2401.08276, 2024. 5
+[15] Ziheng Jia, Zicheng Zhang, Jiaying Qian, Haoning Wu, Wei
+Sun, Chunyi Li, Xiaohong Liu, Weisi Lin, Guangtao Zhai,
+and Xiongkuo Min. Vqa 2:visual question answering for
+video quality assessment. arXiv preprint arXiv:2411.03795,
+2024. 3
+[16] Junjie Ke, Keren Ye, Jiahui Yu, Yonghui Wu, Peyman Mi-
+lanfar, and Feng Yang. Vila: Learning image aesthetics from
+user comments with vision-language pretraining, 2023. 1, 6
+[17] Tengchuan Kou, Xiaohong Liu, Zicheng Zhang, Chunyi Li,
+Haoning Wu, Xiongkuo Min, Guangtao Zhai, and Ning Liu.
+Subjective-aligned dateset and metric for text-to-video qual-
+ity assessment. arXiv preprint arXiv:2403.11956, 2024. 2,
+3, 1
+[18] Bowen Li, Weixia Zhang, Meng Tian, Guangtao Zhai, and
+Xianpei Wang. Blindly assess quality of in-the-wild videos
+via quality-aware pre-training and motion perception. IEEE
+TCSVT, 2022. 3
+[19] Bo Li, Yuanhan Zhang, Dong Guo, Renrui Zhang, Feng
+Li, Hao Zhang, Kaichen Zhang, Yanwei Li, Ziwei Liu, and
+Chunyuan Li. Llava-onevision: Easy visual task transfer.
+arXiv preprint arXiv:2408.03326, 2024. 1, 6
+[20] Chunyi Li, Zicheng Zhang, Haoning Wu, Kaiwei Zhang, Lei
+Bai, Xiaohong Liu, Guangtao Zhai, and Weisi Lin. Paps-
+ovqa: Projection-aware patch sampling for omnidirectional
+video quality assessment. In 2024 IEEE International Sym-
+posium on Circuits and Systems (ISCAS) , pages 1–5. IEEE,
+2024. 2
+[21] Dingquan Li, Tingting Jiang, and Ming Jiang. Quality as-
+sessment of in-the-wild videos. In ACM MM, pages 2351–
+2359, 2019. 3
+[22] KunChang Li, Yinan He, Yi Wang, Yizhuo Li, Wenhai
+Wang, Ping Luo, Yali Wang, Limin Wang, and Yu Qiao.
+Videochat: Chat-centric video understanding, 2023. 2, 6
+[23] Kunchang Li, Yali Wang, Yinan He, Yizhuo Li, Yi Wang,
+Yi Liu, Zun Wang, Jilan Xu, Guo Chen, Ping Luo, et al.
+Mvbench: A comprehensive multi-modal video understand-
+ing benchmark. In Proceedings of the IEEE/CVF Conference
+on Computer Vision and Pattern Recognition, pages 22195–
+22206, 2024. 1
+[24] Shicheng Li, Lei Li, Shuhuai Ren, Yuanxin Liu, Yi Liu,
+Rundong Gao, Xu Sun, and Lu Hou. Vitatecs: A diag-
+nostic dataset for temporal concept understanding of video-
+language models. arXiv preprint arXiv:2311.17404 , 2023.
+2
+[25] Xin Li, Kun Yuan, Yajing Pei, Yiting Lu, Ming Sun, Chao
+Zhou, Zhibo Chen, Radu Timofte, Wei Sun, Haoning Wu,
+et al. Ntire 2024 challenge on short-form ugc video qual-
+ity assessment: Methods and results. In Proceedings of
+the IEEE/CVF Conference on Computer Vision and Pattern
+Recognition, pages 6415–6431, 2024. 1
+9
+
+===== PAGE 10 =====
+
+[26] Zhi Li, Christos Bampis, Julie Novak, Anne Aaron, Kyle
+Swanson, Anush Moorthy, and JD Cock. Vmaf: The journey
+continues. Netflix Technology Blog, 25(1), 2018. 2
+[27] Bin Lin, Yang Ye, Bin Zhu, Jiaxi Cui, Munan Ning, Peng
+Jin, and Li Yuan. Video-llava: Learning united visual repre-
+sentation by alignment before projection, 2023. 2, 6
+[28] Haotian Liu, Chunyuan Li, Yuheng Li, and Yong Jae Lee.
+Improved baselines with visual instruction tuning. CoRR,
+abs/2310.03744, 2023. 2, 6
+[29] Haotian Liu, Chunyuan Li, Qingyang Wu, and Yong Jae Lee.
+Visual instruction tuning. CoRR, abs/2304.08485, 2023.
+[30] Haotian Liu, Chunyuan Li, Yuheng Li, Bo Li, Yuanhan
+Zhang, Sheng Shen, and Yong Jae Lee. Lava-next: Improved
+reasoning, ocr, and world knowledge, 2024. 2, 6
+[31] Ruyang Liu, Chen Li, Haoran Tang, Yixiao Ge, Ying Shan,
+and Ge Li. St-llm: Large language models are effective tem-
+poral learners. https://arxiv.org/abs/2404.00308, 2023. 2,
+6
+[32] Xiaohong Liu, Xiongkuo Min, Guangtao Zhai, Chunyi Li,
+Tengchuan Kou, Wei Sun, Haoning Wu, Yixuan Gao, Yuqin
+Cao, Zicheng Zhang, et al. Ntire 2024 quality assess-
+ment of ai-generated content challenge. In Proceedings of
+the IEEE/CVF Conference on Computer Vision and Pattern
+Recognition, pages 6337–6362, 2024. 5
+[33] Yuan Liu, Haodong Duan, Yuanhan Zhang, Bo Li, Songyang
+Zhang, Wangbo Zhao, Yike Yuan, Jiaqi Wang, Conghui
+He, Ziwei Liu, Kai Chen, and Dahua Lin. MMBench:
+Is your multi-modal model an all-around player? CoRR,
+abs/2307.06281, 2023. 2
+[34] Karttikeya Mangalam, Raiymbek Akshulakov, and Jiten-
+dra Malik. Egoschema: A diagnostic benchmark for very
+long-form video language understanding. Advances in Neu-
+ral Information Processing Systems , 2023. arXiv preprint
+arXiv:2308.09126. 2
+[35] Kenneth Marino, Mohammad Rastegari, Ali Farhadi, and
+Roozbeh Mottaghi. Ok-vqa: A visual question answering
+benchmark requiring external knowledge. In Conference on
+Computer Vision and Pattern Recognition (CVPR), 2019. 2
+[36] Kalpana Seshadrinathan and Alan Conrad Bovik. Motion
+tuned spatio-temporal quality assessment of natural videos.
+IEEE transactions on image processing , 19(2):335–350,
+2009. 5
+[37] Shaolin Su, Vlad Hosu, Hanhe Lin, Yanning Zhang, and Di-
+etmar Saupe. KonIQ++: Boosting no-reference image qual-
+ity assessment in the wild by jointly predicting image qual-
+ity and defects. In The British Machine Vision Conference
+(BMVC), pages 1–12, 2021. 5
+[38] Wei Sun, Xiongkuo Min, Wei Lu, and Guangtao Zhai. A
+deep learning based no-reference quality assessment model
+for ugc videos. arXiv preprint arXiv:2204.14047, 2022. 3
+[39] Gemini Team. Gemini 1.5: Unlocking multimodal under-
+standing across millions of tokens of context, 2024. 6
+[40] Phong V Vu, Cuong T Vu, and Damon M Chandler. A spa-
+tiotemporal most-apparent-distortion model for video quality
+assessment. In 2011 18th IEEE international conference on
+image processing, pages 2505–2508. IEEE, 2011. 2
+[41] Gaoang Wang, Jenq-Neng Hwang, Yanting Zhang, and Yan
+Lu. Mv-bench: A benchmark for multi-view video under-
+standing. arXiv preprint arXiv:2308.12345, 2023. 2
+[42] Wen Wen, Mu Li, Yabin Zhang, Yiting Liao, Junlin Li, Li
+Zhang, and Kede Ma. Modular blind video quality assess-
+ment. In Proceedings of the IEEE/CVF Conference on Com-
+puter Vision and Pattern Recognition , pages 2763–2772,
+2024. 3
+[43] Haoning Wu, Chaofeng Chen, Jingwen Hou, Liang Liao,
+Annan Wang, Wenxiu Sun, Qiong Yan, and Weisi Lin.
+FAST-VQA: Efficient end-to-end video quality assessment
+with fragment sampling. In ECCV, pages 538–554, 2022. 3
+[44] Haoning Wu, Liang Liao, Chaofeng Chen, Jingwen Hou,
+Annan Wang, Wenxiu Sun, Qiong Yan, and Weisi Lin. Dis-
+entangling aesthetic and technical effects for video quality
+assessment of user generated content. 2022. 5
+[45] Haoning Wu, Erli Zhang, Liang Liao, Chaofeng Chen, Jing-
+wen Hou, Annan Wang, Wenxiu Sun, Qiong Yan, and Weisi
+Lin. Exploring video quality assessment on user generated
+contents from aesthetic and technical perspectives. In IEEE
+ICCV, 2023. 3
+[46] Haoning Wu, Erli Zhang, Liang Liao, Chaofeng Chen, Jing-
+wen Hou, Annan Wang, Wenxiu Sun, Qiong Yan, and Weisi
+Lin. Towards explainable video quality assessment: A
+database and a language-prompted approach. In ACM MM,
+2023. 3, 5, 1
+[47] Haoning Wu, Zicheng Zhang, Erli Zhang, Chaofeng Chen,
+Liang Liao, Annan Wang, Chunyi Li, Wenxiu Sun, Qiong
+Yan, Guangtao Zhai, and Weisi Lin. Q-Bench: A benchmark
+for general-purpose foundation models on low-level vision.
+In ICLR, 2024. 2
+[48] Haoning Wu, Zicheng Zhang, Weixia Zhang, Chaofeng
+Chen, Liang Liao, Chunyi Li, Yixuan Gao, Annan Wang,
+Erli Zhang, Wenxiu Sun, Qiong Yan, Xiongkuo Min, Guang-
+tao Zhai, and Weisi Lin. Q-align: Teaching lmms for visual
+scoring via discrete text-defined levels. In ICML2024, 2024.
+3
+[49] Tianhe Wu, Kede Ma, Jie Liang, Yujiu Yang, and Lei
+Zhang. A comprehensive study of multimodal large lan-
+guage models for image quality assessment. arXiv preprint
+arXiv:2403.10854, 2024. 5
+[50] Lin Xu, Yilin Zhao, Daquan Zhou, Zhijie Lin, See Kiong
+Ng, and Jiashi Feng. Pllava : Parameter-free llava extension
+from images to videos for video dense captioning, 2024. 1,
+2, 6
+[51] An Yang, Baosong Yang, Beichen Zhang, Binyuan Hui, Bo
+Zheng, Bowen Yu, Chengyuan Li, Dayiheng Liu, Fei Huang,
+Haoran Wei, et al. Qwen2. 5 technical report. arXiv preprint
+arXiv:2412.15115, 2024. 5
+[52] Jiabo Ye, Haiyang Xu, Haowei Liu, Anwen Hu, Ming
+Yan, Qi Qian, Ji Zhang, Fei Huang, and Jingren Zhou.
+mplug-owl3: Towards long image-sequence understanding
+in multi-modal large language models. arXiv preprint
+arXiv:2408.04840, 2024. 1, 6
+[53] Qinghao Ye, Haiyang Xu, Guohai Xu, Jiabo Ye, Ming
+Yan, Yiyang Zhou, Junyang Wang, Anwen Hu, Pengcheng
+Shi, Yaya Shi, Chaoya Jiang, Chenliang Li, Yuanhong Xu,
+10
+
+===== PAGE 11 =====
+
+Hehong Chen, Junfeng Tian, Qian Qi, Ji Zhang, and Fei
+Huang. mPLUG-Owl: Modularization empowers large lan-
+guage models with multimodality. CoRR, abs/2304.14178,
+2023. 2
+[54] Qinghao Ye, Haiyang Xu, Jiabo Ye, Ming Yan, Haowei Liu,
+Qi Qian, Ji Zhang, Fei Huang, and Jingren Zhou. mPLUG-
+Owl2: Revolutionizing multi-modal large language model
+with modality collaboration. CoRR, abs/2311.04257, 2023.
+6
+[55] Zhenqiang Ying, Maniratnam Mandal, Deepti Ghadiyaram,
+and Alan Bovik. Patch-vq: ’patching up’ the video quality
+problem. In IEEE CVPR, 2021. 3, 5, 1
+[56] Xiangxu Yu, Zhenqiang Ying, Neil Birkbeck, Yilin Wang,
+Balu Adsumilli, and Alan C Bovik. Subjective and objective
+analysis of streamed gaming videos. IEEE Transactions on
+Games, 2023. 3, 1
+[57] Pan Zhang, Xiaoyi Dong, Bin Wang, Yuhang Cao, Chao Xu,
+Linke Ouyang, Zhiyuan Zhao, Shuangrui Ding, Songyang
+Zhang, Haodong Duan, Wenwei Zhang, Hang Yan, Xinyue
+Zhang, Wei Li, Jingwen Li, Kai Chen, Conghui He,
+Xingcheng Zhang, Yu Qiao, Dahua Lin, and Jiaqi Wang.
+Internlm-xcomposer: A vision-language large model for ad-
+vanced text-image comprehension and composition, 2023. 2
+[58] Yuanhan Zhang, Bo Li, Haotian Liu, Yong Jae Lee, Liangke
+Gui, Di Fu, Jiashi Feng, Ziwei Liu, and Chunyuan Li. Llava-
+next: A strong zero-shot video understanding model, 2024.
+6
+[59] Zicheng Zhang, Wei Sun, Yucheng Zhu, Xiongkuo Min, Wei
+Wu, Ying Chen, and Guangtao Zhai. Evaluating point cloud
+from moving camera videos: A no-reference metric. IEEE
+Transactions on Multimedia, 2023. 2
+[60] Zicheng Zhang, Wei Wu, Wei Sun, Dangyang Tu, Wei Lu,
+Xiongkuo Min, Ying Chen, and Guangtao Zhai. Md-vqa:
+Multi-dimensional quality assessment for ugc live videos.
+In Proceedings of the IEEE Conference on Computer Vision
+and Pattern Recognition (CVPR), 2023. 3
+[61] Zicheng Zhang, Haoning Wu, Zhongpeng Ji, Chunyi Li, Erli
+Zhang, Wei Sun, Xiaohong Liu, Xiongkuo Min, Fengyu Sun,
+Shangling Jui, et al. Q-boost: On visual quality assess-
+ment ability of low-level multi-modality foundation models.
+In 2024 IEEE International Conference on Multimedia and
+Expo Workshops (ICMEW), pages 1–6. IEEE, 2024. 3
+[62] Zicheng Zhang, Haoning Wu, Chunyi Li, Yingjie Zhou, Wei
+Sun, Xiongkuo Min, Zijian Chen, Xiaohong Liu, Weisi Lin,
+and Guangtao Zhai. A-bench: Are lmms masters at evaluat-
+ing ai-generated images? arXiv preprint arXiv:2406.03070,
+2024. 3, 5, 2
+[63] Zicheng Zhang, Haoning Wu, Erli Zhang, Guangtao Zhai,
+and Weisi Lin. A benchmark for multi-modal foundation
+models on low-level vision: from single images to pairs.
+CoRR, abs/2402.07116, 2024. 2
+[64] Zicheng Zhang, Haoning Wu, Yingjie Zhou, Chunyi Li, Wei
+Sun, Chaofeng Chen, Xiongkuo Min, Xiaohong Liu, Weisi
+Lin, and Guangtao Zhai. Lmm-pcqa: Assisting point cloud
+quality assessment with lmm. In Proceedings of the 32nd
+ACM International Conference on Multimedia, pages 7783–
+7792, 2024. 3
+[65] Qi Zheng, Zhengzhong Tu, Xiaoyang Zeng, Alan C Bovik,
+and Yibo Fan. A completely blind video quality evaluator.
+IEEE Signal Processing Letters, 29:2228–2232, 2022. 2
+[66] Xunchu Zhou, Xiaohong Liu, Yunlong Dong, Tengchuan
+Kou, Yixuan Gao, Zicheng Zhang, Chunyi Li, Haoning Wu,
+and Guangtao Zhai. Light-vqa+: A video quality assessment
+model for exposure correction with vision-language guid-
+ance. arXiv preprint arXiv:2405.03333, 2024. 2
+[67] Hanwei Zhu, Xiangjie Sui, Baoliang Chen, Xuelin Liu,
+Peilin Chen, Yuming Fang, and Shiqi Wang. 2AFC prompt-
+ing of large multimodal models for image quality assess-
+ment. CoRR, abs/2402.01162, 2024. 5
+[68] Orr Zohar, Xiaohan Wang, Yann Dubois, Nikhil Mehta,
+Tong Xiao, Philippe Hansen-Estruch, Licheng Yu, Xiaofang
+Wang, Felix Juefei-Xu, Ning Zhang, et al. Apollo: An explo-
+ration of video understanding in large multimodal models.
+arXiv preprint arXiv:2412.10360, 2024. 2
+11
+
+===== PAGE 12 =====
+
+Q-Bench-Video: Benchmark the Video Quality Understanding of LMMs
+Supplementary Material
+7. Source Video Dataset Introduction
+In this section, we briefly introduce the video quality as-
+sessment (VQA) datasets as follows:
+• LSVQ [55]: The LSVQ dataset is currently the largest
+VQA dataset, comprising over 39,000 real-world videos
+and 5.5 million human perceptual quality annotations. It
+primarily focuses on both spatial and temporal aspects of
+technical visual quality.
+• MaxWell [46]: The MaxWell dataset presents a compre-
+hensive subjective study, gathering over two million hu-
+man opinions on 13 distinct quality factors across 4,543
+in-the-wild natural scene videos. These quality factors
+include technical aspects ( sharpness, focus, noise, mo-
+tion blur, flicker, exposure, compression artifacts, fluency)
+as well as aesthetic aspects (content appeal, composition,
+color, lighting, and camera trajectory).
+• WaterlooSQoE-III [6]: The WaterlooSQoE-III dataset
+comprises 20 RAW HD reference videos and 450 simu-
+lated streaming videos. To generate meaningful and rep-
+resentative test videos, a series of DASH video streaming
+experiments are conducted, capturing relevant streaming
+activities and reconstructing the streaming sessions using
+video processing tools. The WaterlooSQoE-III dataset
+primarily focuses on assessing the quality of experience
+(QoE) in streaming video.
+• WaterlooSQoE-IV [7]: The WaterlooSQoE-IV dataset is
+currently the largest subject-rated VQA dataset forquality
+of experience, featuring 1,350 adaptive streaming videos.
+These videos are generated from a diverse range of source
+content, video encoders, network conditions, adaptive bi-
+trate (ABR) algorithms, and viewing devices.
+• T2VQA-DB [17]: The T2VQA-DB dataset utilizes 9 dif-
+ferent video generation models to create 10,000 AIGC
+videos. A total of 27 subjects are invited to assess the
+perceptual quality of each video, focusing on two main
+aspects: text-video alignment and video fidelity . Text-
+video alignment refers to how well the generated video
+content corresponds to the given text description, while
+video fidelity encompasses factors such as distortion, sat-
+uration, motion consistency, and content coherence.
+• VideoFeedback [13]: The VideoFeedback dataset con-
+tains human-provided multi-aspect scores for 37.6K syn-
+thesized videos generated by 11 different video genera-
+tive models. The scores assess various aspects, includ-
+ing visual quality, temporal consistency, dynamic realism,
+text-to-video alignment, and factual consistency.
+• LIVE-YT-Gaming [56]: The LIVE-YT-Gaming dataset
+consists of 600 real user-generated gaming videos. A sub-
+jective human study is conducted on this dataset, result-
+ing in 18,600 quality ratings provided by 61 participants.
+The primary focus of the study is on evaluating thevisual
+quality of the videos.
+We mainly sample the videos from these VQA datasets
+for the following reasons: 1) The VQA datasets mentioned
+above feature well-designed video selection processes and
+rigorous human annotation standards. The quality labels
+can help us control the quality distribution of Q-Bench-
+Video. 2) Moreover, these datasets are mostly focused on
+quality issues (close to low-level information) and therefore
+usually isolated from high-level multi-modal video datasets.
+Thus sampling videos from VQA datasets can help prevent
+overlap with pre-training data used by LMMs to minimize
+the possibility of data leakage. As a result, these VQA
+datasets are well-suited to serve as sources for Q-Bench-
+Video, contributing to a more robust and accurate evalua-
+tion.
+8. Video Sampling Approach
+We apply a uniform sampling approach directly based
+on the quality scores of the videos. Specifically, as the
+MaxWell and VideoFeedback datasets have multiple labels
+for one video, we decided to use the overall quality score
+from the MaxWell dataset and the visual quality scorefrom
+the VideoFeedback dataset as the quality score for the sam-
+pling process. For other VQA datasets, where only a single
+quality score is provided for each video, that score is used
+for sampling. Given a VQA dataset where each video vi
+has an associated quality score qi in the range [qmin, qmax],
+we divide this range into five equal intervals and perform
+uniform sampling of the scores across these intervals.
+Step 1: Define the Quality Score Range.
+Let qi represent the quality score for video vi, where the
+quality score is bounded by:
+qmin ≤ qi ≤ qmax, ∀i, (1)
+where qmin and qmax represent the min and max quality
+scores within the VQA dataset.
+Step 2: Divide the Range into Five Equal Intervals.
+To uniformly divide the quality score range [qmin, qmax]
+into five equal intervals, we first calculate the width of each
+interval ∆q:
+∆q = qmax − qmin
+5 , (2)
+Thus, the five intervals are defined as follows:
+1
+
+===== PAGE 13 =====
+
+[qmin,qmin + ∆q), [qmin + ∆q, qmin + 2∆q),
+. . . , [qmin + 4∆q, qmax], (3)
+Step 3: Uniform Sampling Across the Intervals.
+We can then perform uniform sampling within these in-
+tervals. If we want to ensure uniform sampling across the
+entire score range, the probability of selecting a score from
+each interval should be the same. Let X be the random
+variable representing the quality score, and the probability
+of sampling from any interval Ij is:
+P (X ∈ Ij) = 1
+5 , j = 1, 2, 3, 4, 5, (4)
+where Ij represents the j-th interval.
+Step 4: Sampling Within Each Interval.
+Within each intervalIj = [qmin+(j −1)∆q, qmin+j∆q),
+a score Xj is sampled uniformly:
+Xj ∼ U (qmin + (j − 1)∆q, qmin + j∆q) , (5)
+Final Formula. The overall uniform sampling process
+across the five intervals can be described as:
+X =
+
+
+
+U (qmin, qmin + ∆q) , with probability 1
+5 ,
+U (qmin + ∆q, qmin + 2∆q) , with probability 1
+5 ,
+...
+U (qmin + 4∆q, qmax) , with probability 1
+5 ,
+(6)
+This process ensures that the quality scores are uni-
+formly sampled across the entire score range divided into
+five equal intervals.
+9. Annotation Process
+A group of eight experts, all with professional photography
+skills and extensive experience, participate in the subjec-
+tive annotation experiment for Q-Bench-Video. The exper-
+iment takes place in a controlled lab environment with stan-
+dard indoor lighting. A Dell 4K monitor with a resolution
+of 3840 × 2160 is used to display the interfaces, as shown in
+Fig 3. To avoid fatigue, each expert labels up to 30 videos
+per day, and every annotation is carefully reviewed by at
+least three other experts before final approval. Specifically,
+the raters statistics are [X (number of raters with agree-
+ment):% (proportion)]: {[4, 85.1%] (which we only use),
+[3, 10.2%], [2, 4.7%] }. This process ensures the highest
+level of accuracy and rigor in the Q-Bench-Video labels,
+making performance testing of Q-Bench-Video more pre-
+cise and meaningful.
+Table 4. Performance results of uniform 16 frames extraction and
+1 FPS extraction evaluation settings, shown as (Uniform16/1FPS).
+LMMs Tech. ↑ Aes.↑ Temp.↑ AIGC↑ Overall↑
+mPLUG3-7B(0.526/0.501) (0.583/0.581) (0.520/0.544) (0.434/0.447) (0.523/0.525)
+InternVL-7B(0.484/0.472) (0.527/0.531) (0.505/0.510) (0.531/0.542) (0.511/0.520)
+LLaV A-OV-7B(0.493/0.512) (0.641/0.655) (0.506/0.513) (0.443/0.440) (0.517/0.528)
+Gemini 1.5 Pro(0.568/0.563) (0.696/0.687) (0.533/0.523) (0.532/0.540) (0.586/0.580)
+GPT-4o (0.560/0.562) (0.585/0.591) (0.653/0.661) (0.522/0.513) (0.587/0.592)
+10. Yes-or-No Ratio
+As indicated in numerous previous works [47, 62], LMMs
+often exhibit a bias when answering Yes-or-No questions,
+such as a tendency to favor Yes over No. To mitigate this is-
+sue, we specifically examine the distribution of correct an-
+swers for Yes-or-No questions and adjust the questions to
+ensure a balanced 50%:50% ratio between Yes and No an-
+swers. For illustration, we provide an example to demon-
+strate how we modify the questions:
+Question-answer before modification.
+Q: Is this video of high clarity?
+A. Yes (Correct) N. No
+Question-answer after modification.
+Q: Is this video of low clarity?
+A. Yes N. No (Correct)
+11. Benchmark Setting
+11.1. Sampling Frames.
+Given the sensitivity of temporal quality to the frame num-
+ber, we ensure fairness in comparisons by standardizing the
+input to uniformly sample 16 frames. For Image LMMs, the
+frame number is 8. Specifically, for single videos, we sam-
+ple 16 frames uniformly from each video. For video pairs,
+we sample 8 frames from each video and create a composite
+16-frame input.
+11.2. Prompt for single videos on MCQ
+# User: You will receive [Frame Num] distinct frames that
+have been uniformly sampled from a video sequence, ar-
+ranged in the same temporal order as they appear in the
+video. Please analyze these frames and answer the question
+based on your observations. [Question] [Answers] Please
+answer the question in the following format: the uppercase
+letter of the correct answer option itself +’. ’. Please do not
+add any other answers beyond this.
+11.3. Prompt for single videos on Open-ended Ques-
+tions
+# User: You will receive [Frame Num] distinct frames that
+have been uniformly sampled from a video sequence, ar-
+ranged in the same temporal order as they appear in the
+video. Please analyze these frames and provide a detailed
+and accurate answer from the perspective of visual quality
+based on your observations. [Question]
+2
+
+===== PAGE 14 =====
+
+(a) Annotation GUI for single videos of Q-Bench-Video.
+(b) Annotation GUI for video pairs of Q-Bench-Video.
+Figure 5. Illustration of the annotation GUIs for Q-Bench-Video. (a) shows the interface for annotating single videos, where the annotator
+can select the question type and play the videos using the Video Play button. The annotator can also switch to the next and previous
+annotation with the Next and Previous buttons. (b) presents the interface for annotating video pairs. When the annotator presses the Video
+Play button, the video pairs are played sequentially, with a five-second gray screen serving as an interval between the two videos.
+11.4. Prompt for video pairs on MCQ
+# User: You will receive [FrameNum] distinct frames in to-
+tal. The first [Frame Num/2] frames and [Frame Num/2]-
+[Frame Num] frames are uniformly sampled from the first
+and the second video sequence, arranged in the same tem-
+poral order as they appear in the videos. The first video
+frames: [Frames1]. The second video frames: [Frames2].
+Please analyze these frames and answer the questions
+based on your observations. [Question] [Answers] Please
+answer the question in the following format: the uppercase
+letter of the correct answer option itself +’. ’. Please do not
+add any other answers beyond this.
+11.5. Prompt for video pairs on Open-ended Ques-
+tions
+# User: You will receive [Frame Num] distinct frames in
+total. The [Frame Num/2] frames and [Frame Num/2]-
+[Frame Num] frames are uniformly sampled from the first
+and second video sequences, arranged in the same tempo-
+ral order as they appear in videos. The first video frames:
+[Frames1]. The second video frames: [Frames2]. Please
+analyze these frames and provide a detailed and accurate
+answer based on your observations. [Question]
+11.6. 1 FPS evaluation setting:
+We further consider the 1 FPS setting in our benchmark/
+Given that most videos in the benchmark are between 10-
+16s, the gap between uniformly sampling 16 frames and 1
+FPS frame extraction is small for our benchmark. We have
+tested some LMMs under this setting, with results shown in
+Table 4. The performance gap between these two settings is
+slight for our videos in general.
+12. Human Performance on Q-Bench-Video
+To evaluate the gap between LMMs and human perfor-
+mance in video quality understanding, we invite three hu-
+man participants to take part in experiments using thetest
+subset of Q-Bench-Video. The experimental setup and pro-
+cedure are identical to the annotation environment previ-
+ously described (See Appendix 9). It’s worth noting that
+3
+
+===== PAGE 15 =====
+
+Figure 6. Illustration of the human performance testing interface.
+The human participants are allowed to select an option as their
+answer to the MCQ questions or write down their response to the
+open-ended questions in the text box below.
+the participants undergo a brief training session to famil-
+iarize themselves with the tasks and acquire the necessary
+knowledge of video quality. Afterward, they complete the
+test, and we record their average scores as the final results
+of human performance. The human performance testing in-
+terface is shown in Fig. 6.
+13. Evaluation Details
+13.1. Evaluation on MCQs
+For MCQ evaluation, we measure the performance directly
+based on accuracy. However, in cases where LMMs do not
+directly return an option, we have established the following
+process: If the LMM returns an option letter as instructed,
+we directly calculate its accuracy. If the LMM does not re-
+spond with an option letter, we use a GPT-involved method
+(using GPT-4o) to evaluate whether the answer is correct
+before calculating the accuracy. To mitigate errors due to
+randomness, we conduct five rounds of testing. An answer
+is considered correct if it is deemed accurate in three or
+more of these rounds. The prompt for judging answer cor-
+rectness is as follows:
+#System: You are a helpful assistant that grades answers
+related to visual video quality. There are a lot of special
+terms or keywords related to video processing and photog-
+raphy. You will pay attention to the context of ‘quality eval-
+uation’ when grading.
+#User: You will now be provided with a question [ques-
+tion] and a set of options [answers] with option [cor-
+Q: How is the clarity of the first child that appears in the video?
+A. Average, with average clarity, some facial details are missing, but movements 
+are smooth
+B. Above average, with good clarity, facial details are relatively clear
+C. Very good, clear frames, with rich facial details and smooth movements
+D. Very poor, with low clarity, facial details are missing, presence of frame drops, 
+and heavy shadowing in movements
+LLaV A-Next: C
+LLaV A-v1.5: A
+mPLUG-Owl2: C
+mPLUG-Owl3: D.
+LLaV A-OneVision: C
+InternVL-Chat: D
+VILA1.5: A.
+PLLaV A: D
+ST-LLM: The first child that appeared 
+in the video had with average clarity, 
+some facial details are missing, but 
+movements are smooth.</s>
+LLaV A-Next-Video: D
+Video-LLaV A: A
+VideoChat2: A. with average clarity, 
+some facial details are missing, but 
+movements are smooth </s>
+Gemini 1.5 Flash: C
+Gemini 1.5 Pro: A.
+GPT-4o mini: C.            
+GPT-4o: C.           
+GPT-4 Turbo: A.
+Human: A              
+Figure 7. Qualitative comparison for LMM on MCQ response.
+rect answer] being the correct answer. Additionally, there
+will be an answer [response] provided by a respondent.
+Please determine whether the respondent’s answer is cor-
+rect considering the context of the question. Even if the
+word choice is not completely the same, you can decide
+based on the given options and see whether the one in the
+answer is close enough to the given correct answer, The
+result is 1 if the answer is correct and else the result is
+0. Please only provide the result in the following format:
+Score:
+13.2. MCQ Evaluation Example
+#User: You will now be provided with a question [How is
+the clarity of the first child that appears in the video? ] and
+a set of options [“A. Average, with average clarity, some
+facial details are missing, but movements are smooth”, “B.
+Above average, with good clarity, facial details are rela-
+tively clear”, “C. Very good, clear frames, with rich facial
+details and smooth movements”, “D. Very poor, with low
+clarity, facial details are missing, presence of frame drops,
+and heavy shadowing in movements”] with option [“A. Av-
+erage, with average clarity, some facial details are missing,
+but movements are smooth”] being the correct answer. Ad-
+ditionally, there will be an answer [“The first child that ap-
+peared in the video had with average clarity, some facial de-
+tails are missing, but movements are smooth. ”] provided by
+a respondent. Please determine whether the respondent’s
+answer is correct considering the context of the question.
+Even if the word choice is not completely the same, you can
+4
+
+===== PAGE 16 =====
+
+Table 5. Open-ended performance of using Qwen2.5-72B and
+GPT as judges. The rank order for these LMMs is unchanged.
+Judge mPLUG3-7B InternVL-7B VLLaV A-7B Gemini 1.5 pro GPT-4o
+Qwen 0.379/rank3 0.311/rank4 0.302/rank5 0.460/rank2 0.489/rank1
+GPT 0.394/rank3 0.339/rank4 0.291/rank5 0.476/rank2 0.492/rank1
+decide based on the given options and see whether the one
+in the answer is close enough to the given correct answer,
+The result is 1 if the answer is correct and else the result
+is 0. Please only provide the result in the following format:
+Score:
+5-round GPT score: [1, 1, 1, 1, 1]
+13.3. Open-sourced LLM as Judge
+Considering that GPT-4o is not stable and may change
+over time, we provide results using the open-source LLM
+Qwen2.5-72B [51] as the judge model for reference. The
+judge results are similar to GPT-4o (shown in Table 5) but
+offer greater consistency since open-source LLMs are fixed.
+13.4. Evaluation on Open-ended Questions
+For evaluating open-ended questions, we also employ a 5-
+round GPT-involved evaluation strategy. GPT (using GPT-
+4o) is tasked with scoring the LMM responses based on
+three criteria: completeness, accuracy, and relevance, with
+scores from {0, 1, 2}. To facilitate calculation, we sum the
+scores from all five rounds and normalize the total to a range
+between 0 and 1, which is then used as the ‘accuracy’ per-
+formance. Consider the evaluation of open-ended questions
+using a 5-round GPT-involved scoring system. Let Si be
+the score assigned by GPT in thei-th round, which assesses
+the response based on three criteria: completeness, accu-
+racy, and relevance. Each score Si can take a value in {0,
+1, 2}. The total score accumulated over the five rounds is
+calculated as:
+T =
+5X
+i=1
+Si
+To normalize this score into an accuracy metric between
+0 and 1, we use the following normalization:
+Accuracy = T
+10
+This normalization assumes the maximum possible score
+T is 10, corresponding to a perfect score of 2 across all 5
+rounds. The prompt for evaluation on open-ended questions
+is as follows:
+#System: You are a helpful assistant that grades answers
+related to visual video quality. There are a lot of special
+terms or keywords related to video processing and photog-
+raphy. You will pay attention to the context of ‘quality eval-
+uation’ when grading.
+#User: Given the question [question], evaluate whether
+the response [response] completely matches the correct an-
+swer [correct answer]. First, check the response and please
+rate score 0 if the response is not a valid answer. Please
+rate score 2 if the response completely or almost com-
+pletely matches the correct answer on completeness, accu-
+racy, and relevance. Please rate score 1 if the response
+partly matches the correct answer on completeness, accu-
+racy, and relevance. Please rate score 0 if the response
+doesn’t match the correct answer on completeness, accu-
+racy, and relevance at all. Please only provide the result in
+the following format: Score:
+13.5. Open-ended Question Evaluation Example
+#User: Given the question [“The little girl in the lower
+part of this video appears with good visual quality, please
+briefly analyze the reasons. ”], evaluate whether the re-
+sponse [“The little girl in the lower part of the video screen
+appears with good quality because the video is shot in high
+resolution. ”] completely matches the correct answer [“The
+overall lighting of the video is appropriate and even. The
+contrast and saturation are natural, and the camera is sta-
+ble without shaking. This makes the little girl’s facial fea-
+tures, hair, and overall movements appear clear and natu-
+ral, giving a high visual quality presentation. ”]. First, check
+the response and please rate score 0 if the response is not
+a valid answer. Please rate score 2 if the response com-
+pletely or almost completely matches the correct answer on
+completeness, accuracy, and relevance. Please rate score 1
+if the response partly matches the correct answer on com-
+pleteness, accuracy, and relevance. Please rate score 0 if
+the response doesn’t match the correct answer on complete-
+ness, accuracy, and relevance at all. Please only provide the
+result in the following format: Score:
+5-round GPT score: [0, 0, 1, 0, 0] Final Score: 1/10 =
+0.1
+14. Qualitative Visualization Results
+In Fig. 7, we present an example of LMM responses to
+MCQ questions. First, it is clear that most LMMs can fol-
+low the instructions well to select the option they believe is
+correct, except for ST-LLM, which requires further check-
+ing to determine if the answer is correct (See Appendix 13
+for details about GPT-assisted evaluation approach). Sec-
+ondly, for basic quality assessments like clarity, which are
+relatively simple for humans, about half of the LMMs still
+failed to answer correctly. This again highlights the need to
+improve LMM video understanding capabilities.
+In Fig. 8, we further highlight a case involving the top-
+performing LMM responding to the open-ended question.
+In contrast to the relatively straightforward multiple-choice
+questions, there is a noticeable performance gap among
+LMMs when addressing open-ended questions. For ex-
+5
+
+===== PAGE 17 =====
+
+Question: The little girl in the lower part of this video appears with good visual quality, please briefly 
+analyze the reasons.
+LLaVA-Next-Video: The video shows a young girl sitting and reading a book. The quality of the video is good 
+because it is a close-up shot, which allows for clear visibility of the girl's facial features and the details of the 
+book she is reading. The lighting is also good, as it is bright enough to see the text on the book clearly. The focus 
+is sharp, capturing the girl's expression and the book's details without any distortion. The composition of the 
+video is also well-balanced, with the girl centrally positioned and the book in focus.
+VILA1.5: The little girl in the lower part of the video screen appears with good quality because the video is shot 
+in high resolution.
+PLLaVA: The little girl in the lower part of the video screen appears with good quality because she is the main 
+subject, and her actions and expressions are the focus of the viewer's attention. The camera is positioned to 
+capture her face and upper body, which are the most expressive parts of a person. Additionally, the lighting and 
+composition of the video emphasize her features, making her appear more prominent. The other individuals in the 
+video are not as clearly visible or detailed, which helps to draw the viewer's attention to the girl.
+InternVL-Chat:  The little girl in the lower part of the video screen appears with good quality because she is the 
+main subject of the video. The focus is on her actions, such as reading a book, which is the primary activity in the 
+scene. The other people in the background are not the main focus, so their video quality is not as high as the little 
+girl's.
+LLaVA-OneVision: The little girl in the lower part of this video screen appears with good quality due to several 
+factors. Firstly, the lighting in the room is bright and even, which helps to illuminate her face and clothing clearly 
+without harsh shadows. Secondly, the camera's focus is sharp on her, allowing for the details of her dress, hair, 
+and facial features to be visible. Lastly, the resolution of the video seems high, contributing to the clarity and 
+detail that can be observed in her appearance.
+mPLUG-Owl3:. The little girl in the video appears with good quality due to several factors. Firstly, the lighting 
+in the room is even, which helps to ensure that the details of her face and clothing are clearly visible. Secondly, 
+the focus on the girl is sharp, allowing for a clear view of her expressions and the book she is reading.Lastly, the 
+color saturation and contrast are well-balanced, making the colors of her dress and the book stand out without 
+being oversaturated.
+Gemini 1.5 Pro: The little girl is in focus while the background is slightly out of focus, indicating a shallow 
+depth of field. This technique helps to draw attention to the main subject, the little girl, by blurring the less 
+important background. This is a common practice in videography and photography to create visually appealing 
+and engaging content.
+GPT-4o:   The video frames depict a sequence where a little girl is sitting and reading a book in what appears to 
+be a reading class or group setting. Here are some observations regarding the quality and content of the frames 
+featuring the girl:
+1.Stable Scene: The girl remains relatively stationary throughout the sequence, focused on her book. This lack of 
+movement helps maintain a clear and sharp video without motion blur.
+2.Good Lighting: The lighting appears consistent and sufficient, contributing to the overall high quality of the 
+video. Proper lighting can significantly affect the clarity and perceived quality of a video frame
+3.Proximity and Focus: The girl is prominently in the foreground and seems to be the focal point of the camera. 
+The close proximity and camera focus on her enhance the detail and sharpness of her video.
+4.Color Contrast: The girl is wearing a brightly colored dress with a distinct pattern. This contrast with the 
+background and other elements in the room makes her stand out, adding to the perceptual quality of her video.
+5.Composition: The framing is well-composed, with the girl positioned centrally or prominently in the frame. 
+This effective composition helps draw viewer attention to her, ensuring that she is a clear and central figure in the 
+video sequence.
+6.Quality of Recording Equipment: Assuming the video was recorded with a good-quality camera, the equipment 
+itself would contribute to achieving a higher resolution and better quality frames.
+Given these factors, the overall quality of the frames featuring the girl can be attributed to good lighting, stability, 
+focus, composition, and possibly high-quality recording equipment.
+Annotation Response: The overall lighting of the video is appropriate and even. The contrast and saturation 
+are natural, and the camera is stable without shaking. This makes the little girl's facial features, hair, and 
+overall movements appear clear and natural, giving a high visual quality presentation.
+Figure 8. Qualitative comparison for LMM on ppen-ended question response.
+6
+
+===== PAGE 18 =====
+
+Table 6. Results on the dev subset for the video quality perception ability of LMMs.
+Sub-categories Question Types Quality Concerns
+Overall↑LMM(LLM) Yes-or What Open Tech.↑ Aes.↑ Temp.↑ AIGC↑-No↑ -How↑ -ended↑
+Random guessw/o Open-ended 50.00% 25.00% / 36.76% 37.30% 37.27% 37.62% 37.27%
+Open-source Image LMMs
+LLaV A-Next (Mistral-7B) 63.20% 43.78% 30.42% 45.95% 54.83% 45.63% 46.24% 47.00%
+LLaV A-v1.5 (Vicuna-v1.5-13B) 53.40% 46.87% 33.85% 55.83% 55.90% 44.91% 45.96% 45.57%
+mPLUG-Owl2 (LLaMA2-7B) 59.61% 38.83% 31.57% 42.49% 53.28% 44.73% 40.07% 44.20%
+Open-source Video LMMs
+mPLUG-Owl3 (Qwen2-7B) 60.82% 56.52% 35.84% 51.34% 60.46% 54.26% 37.30% 52.44%
+LLaV A-OneVision (Qwen2-7B) 62.13% 52.23% 38.56% 48.74% 61.53% 48.81% 44.57% 52.12%
+InternVL-Chat (Vicuna-7B) 70.21% 48.65% 32.20% 50.24% 49.50% 52.96% 47.69% 51.91%
+VILA1.5 (LLaMA3-8B) 61.59% 47.30% 36.88% 46.74% 59.30% 47.57% 43.67% 49.62%
+PLLaV A (Mistral-7B) 65.13% 54.23% 29.44% 50.31% 60.09% 50.13% 50.75% 51.23%
+LLaV A-Next-Video (Mistral-7B) 65.98% 45.31% 31.92% 48.11% 57.33% 47.09% 45.56% 48.97%
+ST-LLM (Vicuna-v1.1-7B) 46.43% 28.45% 32.31% 33.32% 45.66% 36.01% 32.62% 35.89%
+Video-LLaV A (Vicuna-v1.5-7B) 64.36% 39.38% 30.86% 43.35% 55.97% 45.58% 43.64% 45.89%
+VideoChat2 (Mistral-7B) 56.54% 33.13% 35.36% 39.09% 49.27% 41.59% 38.04% 42.06%
+Proprietary LMMs
+Gemini 1.5 Flash 66.21% 59.36% 46.06% 54.01% 67.31% 56.89% 52.23% 57.99%
+Gemini 1.5 Pro 65.93% 61.33% 47.15% 56.23% 68.23% 56.00% 54.04% 58.36%
+GPT-4o mini 63.00% 50.65% 42.16% 49.66% 60.88% 50.31% 43.84% 52.78%
+GPT-4o 67.21% 58.36% 45.50% 54.15% 67.50% 57.08% 52.39% 58.11%
+GPT-4 Turbo 66.67% 58.46% 44.18% 54.53% 63.99% 51.96% 45.73% 56.40%
+Table 7. Results on the dev subset for the video quality perception ability across single videos and video pairs of LMMs.
+Sub-categories Single Videos Video Pairs
+LMM(LLM) Global ↑ Referring↑ Overall↑ Joint↑ Compare Compare Overall↑-fine↑ -coarse↑
+Random guessw/o Open-ended 34.84% 38.51% 36.82% 42.44% 37.09% 37.95% 38.41%
+Open-source Image LMMs
+LLaV A-Next (Mistral-7B) 62.83% 45.14% 33.69% 46.38% 57.86% 47.84% 48.46%
+LLaV A-v1.5 (Vicuna-v1.5-13B) 45.91% 55.01% 50.42% 33.41% 39.11% 33.37% 35.39%
+mPLUG-Owl2 (LLaMA2-7B) 45.80% 45.05% 45.43% 55.14% 46.00% 38.12% 44.14%
+Open-source Video LMMs
+mPLUG-Owl3 (Qwen2-7B) 51.71% 48.78% 50.26% 56.60% 51.52% 65.75% 59.03%
+LLaV A-OneVision (Qwen2-7B) 49.41% 49.35% 49.38% 57.93% 64.53% 66.98% 64.39%
+InternVL-Chat (Vicuna-7B) 49.43% 54.05% 51.72% 44.74% 53.67% 52.14% 50.50%
+VILA1.5 (LLaMA3-8B) 46.55% 48.69% 47.61% 54.17% 48.25% 53.10% 51.61%
+PLLaV A (Mistral-7B) 48.21% 55.01% 51.58% 35.69% 57.45% 52.16% 50.86%
+LLaV A-Next-Video (Mistral-7B) 47.01% 52.23% 49.59% 29.83% 52.74% 51.22% 47.66%
+ST-LLM (Vicuna-v1.1-7B) 34.06% 37.93% 35.98% 24.83% 35.47% 39.71% 35.38%
+Video-LLaV A (Vicuna-v1.5-7B) 43.66% 47.73% 45.67% 41.86% 44.30% 58.91% 50.54%
+VideoChat2 (Mistral-7B) 38.91% 40.47% 39.68% 50.52% 48.11% 50.07% 49.47%
+Proprietary LMMs
+Gemini 1.5 Flash 53.83% 56.25% 55.03% 47.48% 67.83% 69.09% 64.03%
+Gemini 1.5 Pro 51.98% 60.80% 56.35% 43.41% 68.30% 69.81% 64.13%
+GPT-4o mini 50.03% 49.88% 49.95% 46.69% 60.53% 66.39% 59.36%
+GPT-4o 57.98% 54.39% 56.17% 48.00% 67.64% 70.17% 65.09%
+GPT-4 Turbo 55.03% 55.47% 55.25% 49.76% 62.60% 64.29% 60.81%
+ample, GPT-4o delivers the most detailed and accurate re-
+sponses, while VILA1.5 produces significantly shorter and
+less comprehensive answers. This variation in performance
+on open-ended tasks underscores the current instability in
+LMMs’ video quality understanding.
+15. Performance on the dev subset
+The performance results on the dev subset of Q-Bench-
+Video are illustrated in Table 6 and Table 7. This subset
+is planned to be opened to the public in the future. As
+such, the performance results will serve primarily as a ref-
+erence. Currently, all evaluated LMMs have not been ex-
+posed to this subset, making it suitable for cross-validation
+with the test subset. Although there are slight differences
+in LMM performance between the dev and test subsets,
+the overall gap is minimal, essentially maintaining the per-
+formance trends and rankings of the LMMs. Specifically,
+LLaV A-OneVision and mPLUG-Owl3 continue to hold the
+top two spots among open-source models, while GPT-4o
+7
+
+===== PAGE 19 =====
+
+Algorithm 1 Classification of Video Pairs in VQA Dataset
+1: Input: Set of videos V with quality scores
+2: Output: Classifications of video pairs as Compare-coarse or Compare-fine
+3: Initialize list of video pairs P to empty
+4: for each pair (vi, vj) ∈ V × V , i ̸= j do
+5: Add (vi, vj) to P
+6: end for
+7: Randomly select pairs from P without repetition
+8: Calculate ∆qij = |qi − qj| for each (vi, vj) ∈ P
+9: Rank all pairs (vi, vj) by ∆qij
+10: θ ← Median of all ∆qij
+11: for each (vi, vj) ∈ P do
+12: if ∆qij > θ then
+13: Label (vi, vj) as Compare-coarse
+14: else
+15: Label (vi, vj) as Compare-fine
+16: end if
+17: end for
+and Gemini 1.5 Pro lead among proprietary models, sug-
+gesting that Q-Bench-Video is a reliable and stable bench-
+mark for video quality understanding.
+16. Comparison for Video Pairs
+In this section, we focus on discussing how to categorize the
+annotations into Compare-fine and Compare-coarse classi-
+fications. We collect videos from the VQA dataset that al-
+ready have annotated quality scores. Since our comparisons
+are confined to video pairs from the same VQA dataset
+source, the quality scores between video pairs are valid and
+meaningful. Within single VQA dataset, we randomly se-
+lect video pairs without repetition, and then rank all video
+pairs based on the differences in their quality scores. A me-
+dian value is then chosen as the threshold. Pairs with a dif-
+ference exceeding this threshold are labeled as Compare-
+coarse, while those with a difference below it are labeled
+as Compare-fine. The pseudocode for this procedure is de-
+tailed in Algorithm 1.
+17. Limitations & Social Impact
+Limitations. 1 ) Subjectivity in Evaluation : Although the
+benchmark includes efforts to minimize subjective bias by
+using expert annotations, aesthetic aspects such as visual
+appeal and composition inherently involve subjective judg-
+ments. Even among trained experts, there might be vari-
+ations in opinions on what constitutes high or low aes-
+thetic quality. 2) Rapid Evolution of AIGC Distortions :
+The benchmark includes evaluation specifically tailored to
+AIGC distortions. However, given the fast-paced advance-
+ments in AI-generated video technology, future generations
+of generative models may produce fewer visible distortions
+or entirely new types of artifacts. This implies that the cur-
+rent version of Q-Bench-Video might partly become out-
+dated in the future.
+Social Impact. By focusing on video quality under-
+standing, this benchmark encourages the development of
+LMMs that can discern not only the semantic content but
+also the technical and aesthetic quality of videos. This has
+broad applications, from improving video compression al-
+gorithms to enhancing user experience in media platforms.
+Ultimately, Q-Bench-Video could lead to the creation of
+better tools for optimizing video quality across diverse in-
+dustries.
+8
