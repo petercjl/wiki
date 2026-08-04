@@ -1,0 +1,885 @@
+{
+  "version": 1,
+  "type": "application/x-alidocs-package",
+  "main": "00000000-0000-0000-0000-000000000001",
+  "plugins": "00000000-0000-0000-0000-000000000002",
+  "parts": {
+    "00000000-0000-0000-0000-000000000001": {
+      "id": "00000000-0000-0000-0000-000000000001",
+      "type": "application/x-alidocs-word",
+      "version": 1,
+      "data": {
+        "style": {
+          "docDefaults": {
+            "type": "paragraph",
+            "default": 1,
+            "name": "dingdocnormal",
+            "data": {
+              "rPr": {
+                "sz": 12,
+                "szUnit": "pt"
+              },
+              "pPr": {
+                "spacing": {
+                  "before": 10,
+                  "after": 10
+                }
+              }
+            }
+          }
+        },
+        "theme": [],
+        "settings": {
+          "titleCover": {
+            "isHide": true
+          }
+        },
+        "app": {},
+        "numberings": {},
+        "headers": {},
+        "body": [
+          "root",
+          {
+            "sectPr": {
+              "pgSz": {
+                "w": 892,
+                "h": 1127
+              },
+              "pgMar": {
+                "top": 48,
+                "bottom": 48,
+                "left": 72,
+                "right": 72,
+                "header": 56.73,
+                "footer": 66.13,
+                "gutter": 0
+              }
+            },
+            "theme": {
+              "table": {
+                "tableCell": {
+                  "vAlign": "top"
+                }
+              }
+            }
+          },
+          [
+            "h1",
+            {
+              "jc": "left",
+              "ind": {
+                "left": 0
+              },
+              "spacing": {
+                "before": 26.666666666666664,
+                "after": 9,
+                "line": 0.8529411764705882
+              },
+              "uuid": "m5z1ignrv4rb2msjmi"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 2.0\"",
+                    "cs": "\"Alibaba PuHuiTi 2.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 2.0\""
+                  },
+                  "sz": 20,
+                  "szUnit": "pt",
+                  "color": "rgb(0, 0, 0)",
+                  "data-type": "leaf"
+                },
+                "一、产品"
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 20,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "介绍"
+              ]
+            ]
+          ],
+          [
+            "container",
+            {
+              "subType": "colorBlocks",
+              "metadata": {
+                "padding": {
+                  "top": 11,
+                  "right": 11,
+                  "bottom": 11,
+                  "left": 11
+                },
+                "borderRadius": 8,
+                "sticker": {
+                  "type": "dingding",
+                  "id": "emotion_197",
+                  "name": "[烟花]",
+                  "url": "https://g.alicdn.com/dingding/emotion-assets/0.76.0/mobile/emotion_197.png"
+                },
+                "bgcolor": "linear-gradient(316deg, #ECF9F0 -13%, #FFFEFE 52%, #D3ECE6 125%)",
+                "showstk": true
+              },
+              "uuid": "mcofj2h1l5vxzxjtzj"
+            },
+            [
+              "p",
+              {
+                "uuid": "mcofj2h1c2bcktettgf"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "fonts": {
+                      "ascii": "DingTalk JinBuTi",
+                      "hAnsi": "DingTalk JinBuTi",
+                      "cs": "DingTalk JinBuTi",
+                      "eastAsia": "DingTalk JinBuTi"
+                    },
+                    "data-type": "leaf"
+                  },
+                  "线索推广·"
+                ],
+                [
+                  "span",
+                  {
+                    "fonts": {
+                      "ascii": "DingTalk JinBuTi",
+                      "hAnsi": "DingTalk JinBuTi",
+                      "cs": "DingTalk JinBuTi",
+                      "eastAsia": "DingTalk JinBuTi"
+                    },
+                    "sz": 12,
+                    "szUnit": "pt",
+                    "color": "linear-gradient(90deg, #FF7100 0%, #F300AD 100%)",
+                    "data-type": "leaf"
+                  },
+                  "双11限时客资解决方案是"
+                ],
+                [
+                  "span",
+                  {
+                    "fonts": {
+                      "ascii": "DingTalk JinBuTi",
+                      "hAnsi": "DingTalk JinBuTi",
+                      "cs": "DingTalk JinBuTi",
+                      "eastAsia": "DingTalk JinBuTi"
+                    },
+                    "data-type": "leaf"
+                  },
+                  "双11期间限时限量上线的客资对赌方案，交付确定成本下的客资数。超出方案预期客资成本上限后，后续给予投放补贴，仅限11.14前采纳有补贴保障，"
+                ],
+                [
+                  "span",
+                  {
+                    "bold": false,
+                    "fonts": {
+                      "ascii": "DingTalk JinBuTi",
+                      "hAnsi": "DingTalk JinBuTi",
+                      "cs": "DingTalk JinBuTi",
+                      "eastAsia": "DingTalk JinBuTi"
+                    },
+                    "sz": 12,
+                    "szUnit": "pt",
+                    "data-type": "leaf"
+                  },
+                  "面对特定商家开放，帮助商家获取确定性生意增量。"
+                ]
+              ]
+            ]
+          ],
+          [
+            "h1",
+            {
+              "jc": "left",
+              "ind": {
+                "left": 0
+              },
+              "spacing": {
+                "before": 26.666666666666664,
+                "after": 9,
+                "line": 0.8529411764705882
+              },
+              "uuid": "mho8zk8mqauy9ulhly"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 2.0\"",
+                    "cs": "\"Alibaba PuHuiTi 2.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 2.0\""
+                  },
+                  "sz": 20,
+                  "szUnit": "pt",
+                  "color": "rgb(0, 0, 0)",
+                  "data-type": "leaf"
+                },
+                "二、操作步骤"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mco6yqh99uzj7kyru2n"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "color": "#70000D",
+                  "data-type": "leaf"
+                },
+                "产品入口："
+              ]
+            ],
+            [
+              "a",
+              {
+                "href": "https://one.alimama.com/index.html#!/main/index?bizCode=onebpAdStrategyLiuZi",
+                "uuid": "mco6z5avabz5ngyzrs"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "color": "#70000D",
+                    "underline": {
+                      "value": "single"
+                    },
+                    "data-type": "leaf"
+                  },
+                  ">进入线索推广<"
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "color": "#70000D",
+                  "underline": {
+                    "value": "single"
+                  },
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mho7gdjvazhqd2a2geq"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "#70000D",
+                  "data-type": "leaf"
+                },
+                "第一步：无界后台-线索推广-新建计划，选择行业解决方案- XX客资CPA交付包，每个类目的预期成本区间不同"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mho7j7qy2vc7qgfixb"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ],
+            [
+              "img",
+              {
+                "uuid": "4khgzf",
+                "name": "image.png",
+                "size": 595409,
+                "width": 748,
+                "height": 536.5137614678899,
+                "src": "/core/api/resources/img/5eecdaf48460cde5e8b514a6573f19c6d0da9019fbe475c775b8339e1c4c24831b75b38faadcd24bec177c308ebd5304f0de6e3e3184b16cc0822ea334ba35c2099a95c7678ab69165cd1dfb46519ed2da937867e3fef4404fb4c8ed7016461c",
+                "extraData": {
+                  "resourceId": "25e7cf65-ace8-49e0-aebe-812205563eac",
+                  "metaData": {
+                    "size": 595409,
+                    "originWidth": 1199,
+                    "originHeight": 860,
+                    "format": "png",
+                    "ratio": 1
+                  }
+                }
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mho7j80pja9g9wcdiyk"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "#70000D",
+                  "data-type": "leaf"
+                },
+                "第二步：选择限定范围内的商品，建议优先选择高销量商品，拿量能力更强"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mho7mg2cmoxfbc6bnj8"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ],
+            [
+              "img",
+              {
+                "uuid": "3u3ehp",
+                "name": "image.png",
+                "size": 458805,
+                "width": 748,
+                "height": 237.72293364377182,
+                "src": "/core/api/resources/img/5eecdaf48460cde5e8b514a6573f19c6d0da9019fbe475c775b8339e1c4c24831b75b38faadcd24bec177c308ebd5304f252204722b236b1a6f5bbbab42069b98e22167570548ef4b09fcd24ddd4e9fc4aeea74f11552c264fb4c8ed7016461c",
+                "extraData": {
+                  "resourceId": "86f0981d-b455-4fac-ab99-6fe0196b9cfe",
+                  "metaData": {
+                    "size": 458805,
+                    "originWidth": 1718,
+                    "originHeight": 546,
+                    "format": "png",
+                    "ratio": 1
+                  }
+                }
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mho7nd3ofw071k98xs6"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "#70000D",
+                  "data-type": "leaf"
+                },
+                "第三步：最低2万起投，默认投放15天，可修改投放金额和时间"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mho7orl3senw2ppzm3l"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ],
+            [
+              "img",
+              {
+                "uuid": "wiogbq",
+                "name": "image.png",
+                "size": 460453,
+                "width": 748,
+                "height": 514.5045372050816,
+                "src": "/core/api/resources/img/5eecdaf48460cde5e8b514a6573f19c6d0da9019fbe475c775b8339e1c4c24831b75b38faadcd24bec177c308ebd5304ba41ee0ef0cf1986f5048913cd0cfae5b7e4a583477958840421b94916a165d3a01272df10ada29f4fb4c8ed7016461c",
+                "extraData": {
+                  "resourceId": "d2e96eb6-64db-4328-b7b9-ff16e4c3c4b9",
+                  "metaData": {
+                    "size": 460453,
+                    "originWidth": 1102,
+                    "originHeight": 758,
+                    "format": "png",
+                    "ratio": 1
+                  }
+                }
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mho7orumgfzxpkr1zmo"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "#70000D",
+                  "data-type": "leaf"
+                },
+                "第四步：新建完成开启投放，查看线索成本，实时和单日数据会有波动，建议以2～3天时间核对线索成本"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mho7qu0mpeknog300g"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ],
+            [
+              "img",
+              {
+                "uuid": "emwrxe",
+                "name": "image.png",
+                "size": 281227,
+                "width": 748,
+                "height": 70.77324632952691,
+                "src": "/core/api/resources/img/5eecdaf48460cde5e8b514a6573f19c6d0da9019fbe475c775b8339e1c4c24831b75b38faadcd24bec177c308ebd5304322aea957210d629194c26c9d7dc36f893d55d80c67e082cb225c3334de77ff719740a4bf388d4734fb4c8ed7016461c",
+                "extraData": {
+                  "resourceId": "f2c9ea40-5f11-4c30-82ea-3b1d36107a28",
+                  "metaData": {
+                    "size": 281227,
+                    "originWidth": 2452,
+                    "originHeight": 232,
+                    "format": "png",
+                    "ratio": 1
+                  }
+                }
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mho7qu9oi508rxa19w"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mho7s5joa8xty0cu6y5"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "h1",
+            {
+              "jc": "left",
+              "ind": {
+                "left": 0
+              },
+              "spacing": {
+                "before": 26.666666666666664,
+                "after": 9,
+                "line": 0.8529411764705882
+              },
+              "uuid": "mho8zk8nabtc5t5qvw"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 2.0\"",
+                    "cs": "\"Alibaba PuHuiTi 2.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 2.0\""
+                  },
+                  "sz": 20,
+                  "szUnit": "pt",
+                  "color": "rgb(0, 0, 0)",
+                  "data-type": "leaf"
+                },
+                "三、产品QA"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mho8zk8n0szl60d92ke"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "1、"
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "data-type": "leaf"
+                },
+                "活动时间"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mho7tlf1tz18g63tjme"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "data-type": "leaf"
+                },
+                "2025年11月14日前采纳均享受成本不达标后给予投放补贴"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mho7u3y0ql5rza7yzx8"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "data-type": "leaf"
+                },
+                "2、中间成本波动怎么办？"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mho7v6lipvlkj6y5fs"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "data-type": "leaf"
+                },
+                "投放结束后，成本超出预估成本上限后，会给予投放补贴，可进群咨询"
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "，群号：162735000808"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mho7vqkkk7pdraop87"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "data-type": "leaf"
+                },
+                "3、为什么我看不到这个客资包"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mho7vzhcrk0zwfkr6d"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "data-type": "leaf"
+                },
+                "限时限量对部分商家开放"
+              ]
+            ]
+          ]
+        ],
+        "footers": {},
+        "version": 1
+      },
+      "refs": {}
+    }
+  }
+}

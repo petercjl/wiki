@@ -1,0 +1,4324 @@
+{
+  "version": 1,
+  "type": "application/x-alidocs-package",
+  "main": "00000000-0000-0000-0000-000000000001",
+  "plugins": "00000000-0000-0000-0000-000000000002",
+  "parts": {
+    "00000000-0000-0000-0000-000000000001": {
+      "id": "00000000-0000-0000-0000-000000000001",
+      "type": "application/x-alidocs-word",
+      "version": 1,
+      "data": {
+        "style": {
+          "docDefaults": {
+            "type": "paragraph",
+            "default": 1,
+            "name": "dingdocnormal",
+            "data": {
+              "rPr": {
+                "sz": 12,
+                "szUnit": "pt"
+              },
+              "pPr": {
+                "spacing": {
+                  "before": 12,
+                  "after": 12
+                }
+              }
+            }
+          }
+        },
+        "theme": [],
+        "settings": {
+          "titleCover": {
+            "isHide": true
+          }
+        },
+        "app": {},
+        "numberings": {},
+        "headers": {},
+        "body": [
+          "root",
+          {
+            "sectPr": {
+              "pgSz": {
+                "w": 892,
+                "h": 1127
+              },
+              "pgMar": {
+                "top": 48,
+                "bottom": 48,
+                "left": 72,
+                "right": 72,
+                "header": 56.73,
+                "footer": 66.13,
+                "gutter": 0
+              }
+            },
+            "theme": {
+              "table": {
+                "tableCell": {
+                  "vAlign": "top"
+                }
+              }
+            }
+          },
+          [
+            "h1",
+            {
+              "ind": {},
+              "spacing": {},
+              "uuid": "mmbwkw5ns2sbbxqvq6d"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "color": "rgb(13, 18, 57)",
+                  "data-type": "leaf"
+                },
+                "本指南能帮您：1分钟搞清“什么情况使用协作者邀请、什么情况使用员工邀请”，并完成线索协作配置"
+              ]
+            ]
+          ],
+          [
+            "hr",
+            {
+              "type": "solid",
+              "sz": 0.75,
+              "color": "rgb(220, 223, 230)",
+              "width": "100%",
+              "uuid": "mmbwkw5nrmynfbt9rtn"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "h2",
+            {
+              "spacing": {},
+              "uuid": "mmbwkw5n8iirusjvhqv"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "color": "rgb(13, 18, 57)",
+                  "data-type": "leaf"
+                },
+                "🔍 一、先确认：您需要的是“协作者”还是“员工”？"
+              ]
+            ]
+          ],
+          [
+            "table",
+            {
+              "colsWidth": [
+                328,
+                328,
+                326
+              ],
+              "uuid": "mmbwkw5n2zptqegwqa7",
+              "tblW": {
+                "w": 100,
+                "type": "pct"
+              }
+            },
+            [
+              "tr",
+              {
+                "uuid": "mmbwkw5npmnvu20sst"
+              },
+              [
+                "tc",
+                {
+                  "rowSpan": 1,
+                  "colSpan": 1,
+                  "fill": "rgba(82, 61, 228, 0.8)",
+                  "bdr": {
+                    "top": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#e2e8f0"
+                    },
+                    "right": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#e2e8f0"
+                    },
+                    "bottom": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#e2e8f0"
+                    },
+                    "left": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#e2e8f0"
+                    }
+                  },
+                  "uuid": "mmbwkw5nmxxqpubh0e",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mmbwkw5ncbycw3zaf4l"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "rgb(255, 255, 255)",
+                        "data-type": "leaf"
+                      },
+                      "您的业务场景"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "rowSpan": 1,
+                  "colSpan": 1,
+                  "fill": "rgba(82, 61, 228, 0.8)",
+                  "bdr": {
+                    "top": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#e2e8f0"
+                    },
+                    "right": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#e2e8f0"
+                    },
+                    "bottom": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#e2e8f0"
+                    },
+                    "left": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#e2e8f0"
+                    }
+                  },
+                  "uuid": "mmbwkw5nz7tdi2pls1c",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mmbwkw5n43tlie0098q"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "rgb(255, 255, 255)",
+                        "data-type": "leaf"
+                      },
+                      "请选择 →"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "rowSpan": 1,
+                  "colSpan": 1,
+                  "fill": "rgba(82, 61, 228, 0.8)",
+                  "bdr": {
+                    "top": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#e2e8f0"
+                    },
+                    "right": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#e2e8f0"
+                    },
+                    "bottom": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#e2e8f0"
+                    },
+                    "left": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#e2e8f0"
+                    }
+                  },
+                  "uuid": "mmbwkw5ngbbx8xon34w",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mmbwkw5n0j4idybo5i9"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "rgb(255, 255, 255)",
+                        "data-type": "leaf"
+                      },
+                      "关键特征"
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {
+                "uuid": "mmbwkw5nk86yqyq4zfi"
+              },
+              [
+                "tc",
+                {
+                  "rowSpan": 1,
+                  "colSpan": 1,
+                  "bdr": {
+                    "top": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#e2e8f0"
+                    },
+                    "right": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#e2e8f0"
+                    },
+                    "bottom": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#e2e8f0"
+                    },
+                    "left": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#e2e8f0"
+                    }
+                  },
+                  "uuid": "mmbwkw5nszmhavt68r9",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mmbwkw5nn94evhknnq"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "rgb(0, 0, 0)",
+                        "data-type": "leaf"
+                      },
+                      "我要管理别人的线索"
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "uuid": "mmbwkw5nhjcnwdxphss"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "rgb(0, 0, 0)",
+                        "data-type": "leaf"
+                      },
+                      "（如：品牌方管经销商、服务商产生的客资）"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "rowSpan": 1,
+                  "colSpan": 1,
+                  "bdr": {
+                    "top": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#e2e8f0"
+                    },
+                    "right": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#e2e8f0"
+                    },
+                    "bottom": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#e2e8f0"
+                    },
+                    "left": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#e2e8f0"
+                    }
+                  },
+                  "uuid": "mmbwkw5nhn2jyq5b53",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mmbwkw5n80h4qqasl1f"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "rgb(0, 0, 0)",
+                        "data-type": "leaf"
+                      },
+                      "👉 协作者"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "rowSpan": 1,
+                  "colSpan": 1,
+                  "bdr": {
+                    "top": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#e2e8f0"
+                    },
+                    "right": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#e2e8f0"
+                    },
+                    "bottom": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#e2e8f0"
+                    },
+                    "left": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#e2e8f0"
+                    }
+                  },
+                  "uuid": "mmbwkw5nmrouhzsppup",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mmbwkw5nlr99n0bel7a"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "rgb(0, 0, 0)",
+                        "data-type": "leaf"
+                      },
+                      "• 对方必须有淘宝/天猫店铺"
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "uuid": "mmbwkw5nkljyuv0pj2"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "rgb(0, 0, 0)",
+                        "data-type": "leaf"
+                      },
+                      "• 其线索自动同步到您账户"
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "uuid": "mmbwkw5nnbgu7jtkgka"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "rgb(0, 0, 0)",
+                        "data-type": "leaf"
+                      },
+                      "• 同一时间协作者只能归属1个组织"
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {
+                "uuid": "mmbwkw5na3ymfiacrv6"
+              },
+              [
+                "tc",
+                {
+                  "rowSpan": 1,
+                  "colSpan": 1,
+                  "bdr": {
+                    "top": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#e2e8f0"
+                    },
+                    "right": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#e2e8f0"
+                    },
+                    "bottom": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#e2e8f0"
+                    },
+                    "left": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#e2e8f0"
+                    }
+                  },
+                  "uuid": "mmbwkw5nr93lvwh2qu",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mmbwkw5n6sj0ojrgb1s"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "rgb(0, 0, 0)",
+                        "data-type": "leaf"
+                      },
+                      "我要让别人帮我管我的线索"
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "uuid": "mmbwkw5n47je0c6m4js"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "rgb(0, 0, 0)",
+                        "data-type": "leaf"
+                      },
+                      "（如：销售A负责华东、客服B跟进售后）"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "rowSpan": 1,
+                  "colSpan": 1,
+                  "bdr": {
+                    "top": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#e2e8f0"
+                    },
+                    "right": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#e2e8f0"
+                    },
+                    "bottom": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#e2e8f0"
+                    },
+                    "left": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#e2e8f0"
+                    }
+                  },
+                  "uuid": "mmbwkw5n0tme6c6zsjd",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mmbwkw5n6elz67zqg4u"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "rgb(0, 0, 0)",
+                        "data-type": "leaf"
+                      },
+                      "👉 员工"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "rowSpan": 1,
+                  "colSpan": 1,
+                  "bdr": {
+                    "top": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#e2e8f0"
+                    },
+                    "right": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#e2e8f0"
+                    },
+                    "bottom": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#e2e8f0"
+                    },
+                    "left": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#e2e8f0"
+                    }
+                  },
+                  "uuid": "mmbwkw5n3squhvjmdus",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mmbwkw5nu1f6xzijgy"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "rgb(0, 0, 0)",
+                        "data-type": "leaf"
+                      },
+                      "• 对方无店铺（但需注册工作台）"
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "uuid": "mmbwkw5npz8yhcty93"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "rgb(0, 0, 0)",
+                        "data-type": "leaf"
+                      },
+                      "• 您主动分配线索给他"
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "uuid": "mmbwkw5nrni9d1l3yz"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "rgb(0, 0, 0)",
+                        "data-type": "leaf"
+                      },
+                      "• 可同时为多个组织工作"
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {
+                "uuid": "mmbwkw5n9w8y19eojhp"
+              },
+              [
+                "tc",
+                {
+                  "rowSpan": 1,
+                  "colSpan": 1,
+                  "bdr": {
+                    "top": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#e2e8f0"
+                    },
+                    "right": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#e2e8f0"
+                    },
+                    "bottom": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#e2e8f0"
+                    },
+                    "left": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#e2e8f0"
+                    }
+                  },
+                  "uuid": "mmbwkw5n4y6gqq99o6q",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mmbwkw5nvk4an82u0rk"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "rgb(0, 0, 0)",
+                        "data-type": "leaf"
+                      },
+                      "我想分配线索给子账号"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "rowSpan": 1,
+                  "colSpan": 1,
+                  "bdr": {
+                    "top": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#e2e8f0"
+                    },
+                    "right": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#e2e8f0"
+                    },
+                    "bottom": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#e2e8f0"
+                    },
+                    "left": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#e2e8f0"
+                    }
+                  },
+                  "uuid": "mmbwkw5nih0scyswyi",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mmbwkw5npoyqygmwsbo"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "rgb(0, 0, 0)",
+                        "data-type": "leaf"
+                      },
+                      "❌ 不支持！"
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "uuid": "mmbwkw5nbzaaz35z8s7"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "rgb(0, 0, 0)",
+                        "data-type": "leaf"
+                      },
+                      "子账号无法单独接收线索分配"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "rowSpan": 1,
+                  "colSpan": 1,
+                  "bdr": {
+                    "top": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#e2e8f0"
+                    },
+                    "right": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#e2e8f0"
+                    },
+                    "bottom": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#e2e8f0"
+                    },
+                    "left": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#e2e8f0"
+                    }
+                  },
+                  "uuid": "mmbwkw5nt4p9agj1np",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mmbwkw5nmwbq20h96d9"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "rgb(0, 0, 0)",
+                        "data-type": "leaf"
+                      },
+                      "• 子账号可见全部线索，但无“分配”功能"
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "uuid": "mmbwkw5n2anbtlglgpk"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "rgb(0, 0, 0)",
+                        "data-type": "leaf"
+                      },
+                      "• 如需分责，请改用“员工”角色"
+                    ]
+                  ]
+                ]
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "blockquote": true,
+              "ind": {},
+              "spacing": {},
+              "uuid": "mmbwkw5n1w4gsmoqdtj"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 10.5,
+                  "szUnit": "pt",
+                  "color": "#434448",
+                  "data-type": "leaf"
+                },
+                "💡 一句话决策口诀："
+              ]
+            ],
+            [
+              "br",
+              {
+                "type": "textWrapping",
+                "data": {},
+                "uuid": "mmbwkw5n3br8m0owl8m"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "color": "#434448",
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 10.5,
+                  "szUnit": "pt",
+                  "color": "#434448",
+                  "data-type": "leaf"
+                },
+                "“外人线索归你管 → 用协作者；内部人力帮你干 → 用员工”"
+              ]
+            ]
+          ],
+          [
+            "hr",
+            {
+              "type": "solid",
+              "sz": 0.75,
+              "color": "rgb(220, 223, 230)",
+              "width": "100%",
+              "uuid": "mmbwkw5n7mz5ah9jtjc"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "h2",
+            {
+              "spacing": {},
+              "uuid": "mmbwkw5njce4ggwtad"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "color": "rgb(13, 18, 57)",
+                  "data-type": "leaf"
+                },
+                "📦 二、协作者协作全流程"
+              ]
+            ]
+          ],
+          [
+            "h3",
+            {
+              "spacing": {},
+              "uuid": "mmbwkw5np6b01qeqk0b"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "color": "rgb(13, 18, 57)",
+                  "data-type": "leaf"
+                },
+                "2.1 角色本质"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "ind": {
+                "left": 0
+              },
+              "list": {
+                "listId": "8931nk5bo66",
+                "isOrdered": false,
+                "level": 0,
+                "listStyle": {
+                  "format": "bullet",
+                  "text": "●",
+                  "align": "left"
+                }
+              },
+              "uuid": "mmbwkw5oil4e0fn76hr"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "rgb(13, 18, 57)",
+                  "data-type": "leaf"
+                },
+                "身份：有店铺的商家账号（店铺账号）"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "ind": {
+                "left": 0
+              },
+              "list": {
+                "listId": "8931nk5bo66",
+                "isOrdered": false,
+                "level": 0,
+                "listStyle": {
+                  "format": "bullet",
+                  "text": "●",
+                  "align": "left"
+                }
+              },
+              "uuid": "mmbwkw5ofwzq8ftd1h"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "rgb(13, 18, 57)",
+                  "data-type": "leaf"
+                },
+                "线索流：协作者产生线索 → 自动同步至您账户 → 您可统一查看/分配/外呼"
+              ]
+            ]
+          ],
+          [
+            "h3",
+            {
+              "spacing": {},
+              "uuid": "mmbwkw5omqu9ekk8cof"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "color": "rgb(13, 18, 57)",
+                  "data-type": "leaf"
+                },
+                "2.2 操作步骤"
+              ]
+            ]
+          ],
+          [
+            "h4",
+            {
+              "spacing": {},
+              "uuid": "mmbwkw5ovsfqmckrvdk"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "color": "rgb(13, 18, 57)",
+                  "data-type": "leaf"
+                },
+                "▶ 组织拥有者发起邀请"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "ind": {
+                "left": 0
+              },
+              "list": {
+                "listId": "drrki6700u8",
+                "isOrdered": true,
+                "level": 0,
+                "listStyle": {
+                  "format": "bullet",
+                  "text": "●",
+                  "align": "left"
+                }
+              },
+              "uuid": "mmbwkw5oq74zl2v4pga"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "rgb(13, 18, 57)",
+                  "data-type": "leaf"
+                },
+                "路径："
+              ]
+            ],
+            [
+              "inlineCode",
+              {
+                "uuid": "mmbwkw5of1htlog7mqa"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "sz": 12,
+                    "szUnit": "pt",
+                    "color": "rgb(13, 18, 57)",
+                    "data-type": "leaf"
+                  },
+                  "账户协作"
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "rgb(13, 18, 57)",
+                  "data-type": "leaf"
+                },
+                " → "
+              ]
+            ],
+            [
+              "inlineCode",
+              {
+                "uuid": "mmbwkw5ozy9l65znoh"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "sz": 12,
+                    "szUnit": "pt",
+                    "color": "rgb(13, 18, 57)",
+                    "data-type": "leaf"
+                  },
+                  "账户关系管理"
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "ind": {
+                "left": 0
+              },
+              "uuid": "mmbxe0m94g4t3b38yxx"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ],
+            [
+              "img",
+              {
+                "uuid": "mmvhu4b0gs7i7nud0wo",
+                "name": "image.png",
+                "size": 893485,
+                "width": 983,
+                "height": 420.49008498583567,
+                "src": "/core/api/resources/img/5eecdaf48460cde57924091858aad204cdfc30eb8648eb4775b8339e1c4c24831b75b38faadcd24bec177c308ebd5304c741be2c8e5c5562c285738446b0d7437dc465f85d20290d755302c3b40a3f433959fd337e0c4bbe4fb4c8ed7016461c",
+                "extraData": {
+                  "resourceId": "a3b0c063-da25-4a5d-93ff-e8767027fc4a",
+                  "metaData": {
+                    "size": 893485,
+                    "originWidth": 2118,
+                    "originHeight": 906,
+                    "format": "png",
+                    "ratio": 1
+                  }
+                }
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "ind": {
+                "left": 0
+              },
+              "list": {
+                "listId": "drrki6700u8",
+                "isOrdered": true,
+                "level": 0,
+                "listStyle": {
+                  "format": "bullet",
+                  "text": "●",
+                  "align": "left"
+                }
+              },
+              "uuid": "mmbwkw5o4toe37pkueb"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "rgb(13, 18, 57)",
+                  "data-type": "leaf"
+                },
+                "点击 「申请管理账户」"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "ind": {
+                "left": 0
+              },
+              "list": {
+                "listId": "drrki6700u8",
+                "isOrdered": true,
+                "level": 0,
+                "listStyle": {
+                  "format": "bullet",
+                  "text": "●",
+                  "align": "left"
+                }
+              },
+              "uuid": "mmbwkw5oqnvu5pgxyxl"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "rgb(13, 18, 57)",
+                  "data-type": "leaf"
+                },
+                "输入协作者的 店铺旺旺名称 → 搜索 → 提交申请"
+              ]
+            ]
+          ],
+          [
+            "h4",
+            {
+              "spacing": {},
+              "uuid": "mmbxllneif788w8uex8"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "color": "rgb(13, 18, 57)",
+                  "data-type": "leaf"
+                },
+                "步骤2：协作者本人完成授权确认"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mmbxoulq0v4ehtr52nlp"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ],
+            [
+              "img",
+              {
+                "uuid": "mmvhu4b0f79nz6wh535",
+                "name": "image.png",
+                "size": 1050181,
+                "width": 983,
+                "height": 399.87821043910526,
+                "src": "/core/api/resources/img/5eecdaf48460cde57924091858aad204cdfc30eb8648eb4775b8339e1c4c24831b75b38faadcd24bec177c308ebd5304f856f94b8db2f6c978d9860885b121a228696f2711a63144f92f7737bb0b5598d45d8c6e82b8231c4fb4c8ed7016461c",
+                "extraData": {
+                  "resourceId": "4d49d54d-9e02-4643-a2a8-a364ad347a1e",
+                  "metaData": {
+                    "size": 1050181,
+                    "originWidth": 2414,
+                    "originHeight": 982,
+                    "format": "png",
+                    "ratio": 1
+                  }
+                }
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "ind": {},
+              "list": {
+                "listId": "zjvewudymin",
+                "isOrdered": true,
+                "level": 0,
+                "listStyle": {
+                  "format": "bullet",
+                  "text": "●",
+                  "align": "left"
+                }
+              },
+              "spacing": {},
+              "uuid": "mmbxllnemsf2kdv9a9g"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "rgb(13, 18, 57)",
+                  "data-type": "leaf"
+                },
+                "协作者登录自身工作台"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "ind": {
+                "left": 0
+              },
+              "list": {
+                "listId": "zjvewudymin",
+                "isOrdered": false,
+                "level": 1,
+                "listStyle": {
+                  "format": "bullet",
+                  "text": "●",
+                  "align": "left"
+                }
+              },
+              "uuid": "mmbxllneejgvvdmwwft"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "rgb(13, 18, 57)",
+                  "data-type": "leaf"
+                },
+                "访问 "
+              ]
+            ],
+            [
+              "inlineCode",
+              {
+                "uuid": "mmbxllnejggj3xoohyq"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "sz": 12,
+                    "szUnit": "pt",
+                    "color": "rgb(13, 18, 57)",
+                    "data-type": "leaf"
+                  },
+                  "https://business.alimama.com/#/account/pages/cooperation/relationship?"
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "rgb(13, 18, 57)",
+                  "data-type": "leaf"
+                },
+                "→ 使用自己的旺旺账号登录"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "ind": {},
+              "list": {
+                "listId": "zjvewudymin",
+                "isOrdered": true,
+                "level": 0,
+                "listStyle": {
+                  "format": "bullet",
+                  "text": "●",
+                  "align": "left"
+                }
+              },
+              "spacing": {},
+              "uuid": "mmbxllnf8fplnqf1zpu"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "rgb(13, 18, 57)",
+                  "data-type": "leaf"
+                },
+                "进入请求处理页面"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "ind": {
+                "left": 0
+              },
+              "list": {
+                "listId": "zjvewudymin",
+                "isOrdered": false,
+                "level": 1,
+                "listStyle": {
+                  "format": "bullet",
+                  "text": "●",
+                  "align": "left"
+                }
+              },
+              "uuid": "mmbxllnfqbm2373ihk"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "rgb(13, 18, 57)",
+                  "data-type": "leaf"
+                },
+                "左侧导航栏点击："
+              ]
+            ],
+            [
+              "inlineCode",
+              {
+                "uuid": "mmbxllnfn5ybkplfaua"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "sz": 12,
+                    "szUnit": "pt",
+                    "color": "rgb(13, 18, 57)",
+                    "data-type": "leaf"
+                  },
+                  "账户协作"
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "rgb(13, 18, 57)",
+                  "data-type": "leaf"
+                },
+                " "
+              ],
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "-> "
+              ],
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "rgb(13, 18, 57)",
+                  "data-type": "leaf"
+                },
+                "在下拉菜单中选择："
+              ]
+            ],
+            [
+              "inlineCode",
+              {
+                "uuid": "mmbxllnf08rmlct4or7k"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "sz": 12,
+                    "szUnit": "pt",
+                    "color": "rgb(13, 18, 57)",
+                    "data-type": "leaf"
+                  },
+                  "请求管理"
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                " -> "
+              ],
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "rgb(13, 18, 57)",
+                  "data-type": "leaf"
+                },
+                "再点击右侧标签页："
+              ]
+            ],
+            [
+              "inlineCode",
+              {
+                "uuid": "mmbxllnfns3ji1xrtbl"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "sz": 12,
+                    "szUnit": "pt",
+                    "color": "rgb(13, 18, 57)",
+                    "data-type": "leaf"
+                  },
+                  "账户授权请求"
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "ind": {},
+              "list": {
+                "listId": "zjvewudymin",
+                "isOrdered": true,
+                "level": 0,
+                "listStyle": {
+                  "format": "bullet",
+                  "text": "●",
+                  "align": "left"
+                }
+              },
+              "spacing": {},
+              "uuid": "mmbxllnf9k8149pvntn"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "rgb(13, 18, 57)",
+                  "data-type": "leaf"
+                },
+                "处理您的邀请"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "ind": {
+                "left": 0
+              },
+              "list": {
+                "listId": "zjvewudymin",
+                "isOrdered": false,
+                "level": 1,
+                "listStyle": {
+                  "format": "bullet",
+                  "text": "●",
+                  "align": "left"
+                }
+              },
+              "uuid": "mmbxllnfhf2fxduwosg"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "rgb(13, 18, 57)",
+                  "data-type": "leaf"
+                },
+                "在列表中找到标题含 “申请管理账户” 的请求（来源显示为您的组织名称，如“商家帐号XXX”）"
+              ],
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "，"
+              ],
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "rgb(13, 18, 57)",
+                  "data-type": "leaf"
+                },
+                "点击该条目右侧的 「处理请求」 按钮，并同意。"
+              ]
+            ]
+          ],
+          [
+            "h3",
+            {
+              "spacing": {},
+              "uuid": "mmbwkw5of8txykwuhfi"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "color": "rgb(13, 18, 57)",
+                  "data-type": "leaf"
+                },
+                "2.3 线索分配（您作为组织拥有者）"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "ind": {
+                "left": 0
+              },
+              "list": {
+                "listId": "9etgq6fl49d",
+                "isOrdered": false,
+                "level": 0,
+                "listStyle": {
+                  "format": "bullet",
+                  "text": "●",
+                  "align": "left"
+                }
+              },
+              "uuid": "mmbwkw5o8rqks38llyq"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "rgb(13, 18, 57)",
+                  "data-type": "leaf"
+                },
+                "在 "
+              ]
+            ],
+            [
+              "inlineCode",
+              {
+                "uuid": "mmbxjz4619d52lkp3qx"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "sz": 12,
+                    "szUnit": "pt",
+                    "color": "rgb(13, 18, 57)",
+                    "data-type": "leaf"
+                  },
+                  "销售线索"
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "rgb(13, 18, 57)",
+                  "data-type": "leaf"
+                },
+                " 列表中："
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "ind": {
+                "left": 0
+              },
+              "list": {
+                "listId": "9etgq6fl49d",
+                "isOrdered": false,
+                "level": 1,
+                "listStyle": {
+                  "format": "bullet",
+                  "text": "●",
+                  "align": "left"
+                }
+              },
+              "uuid": "mmbwkw5ppsy6bmk438"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "rgb(13, 18, 57)",
+                  "data-type": "leaf"
+                },
+                "选中线索 → 点击 「分配」 → 选择员工 → 确定"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "ind": {
+                "left": 0
+              },
+              "uuid": "mmbysyy3ue3zbde8pms"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "rgb(13, 18, 57)",
+                  "data-type": "leaf"
+                },
+                "（注：协作者也可以分配自己的线索）"
+              ]
+            ]
+          ],
+          [
+            "hr",
+            {
+              "type": "solid",
+              "sz": 0.75,
+              "color": "rgb(220, 223, 230)",
+              "width": "100%",
+              "uuid": "mmbwkw5plbof6von6lj"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "h2",
+            {
+              "spacing": {},
+              "uuid": "mmbwkw5pkfrfsliti4"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "color": "rgb(13, 18, 57)",
+                  "data-type": "leaf"
+                },
+                "👥 三、员工邀请全流程"
+              ]
+            ]
+          ],
+          [
+            "h3",
+            {
+              "spacing": {},
+              "uuid": "mmbxx6m4dw3n8ht8ead"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "color": "rgb(13, 18, 57)",
+                  "data-type": "leaf"
+                },
+                "3.1 角色本质"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "ind": {
+                "left": 0
+              },
+              "list": {
+                "listId": "ckxfenpbuw4",
+                "isOrdered": false,
+                "level": 0,
+                "listStyle": {
+                  "format": "bullet",
+                  "text": "●",
+                  "align": "left"
+                }
+              },
+              "uuid": "mmbxx6m4spvsy98bp5"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "rgb(13, 18, 57)",
+                  "data-type": "leaf"
+                },
+                "身份：任意淘宝账号（需提前注册客户工作台），名下不可有店铺（非商家账号）"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "ind": {
+                "left": 0
+              },
+              "list": {
+                "listId": "ckxfenpbuw4",
+                "isOrdered": false,
+                "level": 0,
+                "listStyle": {
+                  "format": "bullet",
+                  "text": "●",
+                  "align": "left"
+                }
+              },
+              "uuid": "mmbxx6m53yg2jogseh3"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "rgb(13, 18, 57)",
+                  "data-type": "leaf"
+                },
+                "线索流：您分配线索 → 员工仅见被分配部分 → 执行外呼/跟进"
+              ]
+            ]
+          ],
+          [
+            "h3",
+            {
+              "spacing": {},
+              "uuid": "mmbwkw5qwc8c86bzdil"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "color": "rgb(13, 18, 57)",
+                  "data-type": "leaf"
+                },
+                "3.2 操作步骤"
+              ]
+            ]
+          ],
+          [
+            "h4",
+            {
+              "spacing": {},
+              "uuid": "mmbwkw5qdjv12p1oaq"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "color": "rgb(13, 18, 57)",
+                  "data-type": "leaf"
+                },
+                "▶ 组织拥有者：邀请员工"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mmbxsr3icp7fzj27vvo"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ],
+            [
+              "img",
+              {
+                "uuid": "mmvhu4b0j1wtiyxpil",
+                "name": "image.png",
+                "size": 958599,
+                "width": 983,
+                "height": 418.78253119429587,
+                "src": "/core/api/resources/img/5eecdaf48460cde57924091858aad204cdfc30eb8648eb4775b8339e1c4c24831b75b38faadcd24bec177c308ebd530444c97b75c8b360929792ccba1aa4c89d5038334e3f853764735edc245f65efc0c29ee8391aab88594fb4c8ed7016461c",
+                "extraData": {
+                  "resourceId": "05760d70-f244-4626-af7d-83175cf1ce50",
+                  "metaData": {
+                    "size": 958599,
+                    "originWidth": 2244,
+                    "originHeight": 956,
+                    "format": "png",
+                    "ratio": 1
+                  }
+                }
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "ind": {
+                "left": 0
+              },
+              "list": {
+                "listId": "57w18admq3o",
+                "isOrdered": true,
+                "level": 0,
+                "listStyle": {
+                  "format": "bullet",
+                  "text": "●",
+                  "align": "left"
+                }
+              },
+              "uuid": "mmbwkw5qs6vs854uv9"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "rgb(13, 18, 57)",
+                  "data-type": "leaf"
+                },
+                "路径："
+              ]
+            ],
+            [
+              "inlineCode",
+              {
+                "uuid": "mmbwkw5q3oyyhpqyzv6"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "sz": 12,
+                    "szUnit": "pt",
+                    "color": "rgb(13, 18, 57)",
+                    "data-type": "leaf"
+                  },
+                  "账户协作"
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "rgb(13, 18, 57)",
+                  "data-type": "leaf"
+                },
+                " → "
+              ]
+            ],
+            [
+              "inlineCode",
+              {
+                "uuid": "mmbwkw5qjfnck393rjm"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "sz": 12,
+                    "szUnit": "pt",
+                    "color": "rgb(13, 18, 57)",
+                    "data-type": "leaf"
+                  },
+                  "员工分工管理"
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                " "
+              ],
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "rgb(13, 18, 57)",
+                  "data-type": "leaf"
+                },
+                "→点击 「邀请员工协作」"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "ind": {
+                "left": 0
+              },
+              "list": {
+                "listId": "57w18admq3o",
+                "isOrdered": true,
+                "level": 0,
+                "listStyle": {
+                  "format": "bullet",
+                  "text": "●",
+                  "align": "left"
+                }
+              },
+              "uuid": "mmbwkw5qdskht9vw0i6"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "rgb(13, 18, 57)",
+                  "data-type": "leaf"
+                },
+                "填写："
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "ind": {
+                "left": 0
+              },
+              "list": {
+                "listId": "57w18admq3o",
+                "isOrdered": false,
+                "level": 1,
+                "listStyle": {
+                  "format": "bullet",
+                  "text": "●",
+                  "align": "left"
+                }
+              },
+              "uuid": "mmbwkw5qx4t23gyxpc"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "rgb(13, 18, 57)",
+                  "data-type": "leaf"
+                },
+                "协作用户：淘宝昵称（员工淘宝旺旺名）"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "ind": {
+                "left": 0
+              },
+              "list": {
+                "listId": "57w18admq3o",
+                "isOrdered": false,
+                "level": 1,
+                "listStyle": {
+                  "format": "bullet",
+                  "text": "●",
+                  "align": "left"
+                }
+              },
+              "uuid": "mmbwkw5rhe3ufn6py3k"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "rgb(13, 18, 57)",
+                  "data-type": "leaf"
+                },
+                "投放账户：选择授权店铺（一般选主账户；若你店铺下有协作者，而你只想将协作者的线索分配给员工，此时可选择授权账户）"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "ind": {
+                "left": 0
+              },
+              "list": {
+                "listId": "57w18admq3o",
+                "isOrdered": false,
+                "level": 1,
+                "listStyle": {
+                  "format": "bullet",
+                  "text": "●",
+                  "align": "left"
+                }
+              },
+              "uuid": "mmbwkw5rx2cti00n7o"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "rgb(13, 18, 57)",
+                  "data-type": "leaf"
+                },
+                "线索资产管理权限配置说明"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "ind": {
+                "left": 0
+              },
+              "list": {
+                "listId": "enayp1oorrs",
+                "isOrdered": false,
+                "level": 2,
+                "listStyle": {
+                  "format": "bullet",
+                  "text": "●",
+                  "align": "left"
+                }
+              },
+              "uuid": "mmbyzoa0tpjwl96xpt7"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "rgb(13, 18, 57)",
+                  "data-type": "leaf"
+                },
+                "✅ 勾选后：员工可查看并操作组织拥有者账户下的全部线索（无论是否分配）"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "ind": {
+                "left": 0
+              },
+              "list": {
+                "listId": "enayp1oorrs",
+                "isOrdered": false,
+                "level": 2,
+                "listStyle": {
+                  "format": "bullet",
+                  "text": "●",
+                  "align": "left"
+                }
+              },
+              "uuid": "mmbyzoa0ofu57ijhmdm"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "rgb(13, 18, 57)",
+                  "data-type": "leaf"
+                },
+                "❌ 不勾选时：员工仅能处理被主动分配的线索（即“分配给谁，谁可见”）"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "ind": {
+                "left": 0
+              },
+              "list": {
+                "listId": "57w18admq3o",
+                "isOrdered": false,
+                "level": 1,
+                "listStyle": {
+                  "format": "bullet",
+                  "text": "●",
+                  "align": "left"
+                }
+              },
+              "uuid": "mmbwkw5rhvgnzcg3qq"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "rgb(13, 18, 57)",
+                  "data-type": "leaf"
+                },
+                "提交 → 等待员工确认"
+              ]
+            ]
+          ],
+          [
+            "h4",
+            {
+              "spacing": {},
+              "uuid": "mmbwkw5rummmadupy1g"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "color": "rgb(13, 18, 57)",
+                  "data-type": "leaf"
+                },
+                "▶ 员工：接受邀请"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "ind": {
+                "left": 0
+              },
+              "list": {
+                "listId": "n02wpb7whdq",
+                "isOrdered": true,
+                "level": 0,
+                "listStyle": {
+                  "format": "bullet",
+                  "text": "●",
+                  "align": "left"
+                }
+              },
+              "uuid": "mmbwkw5rdjx14szeqtd"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "rgb(13, 18, 57)",
+                  "data-type": "leaf"
+                },
+                "路径："
+              ]
+            ],
+            [
+              "inlineCode",
+              {
+                "uuid": "mmbwkw5rny7crr2ukql"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "sz": 12,
+                    "szUnit": "pt",
+                    "color": "rgb(13, 18, 57)",
+                    "data-type": "leaf"
+                  },
+                  "账户协作"
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "rgb(13, 18, 57)",
+                  "data-type": "leaf"
+                },
+                " → "
+              ]
+            ],
+            [
+              "inlineCode",
+              {
+                "uuid": "mmbwkw5r5qszoq2e7m8"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "sz": 12,
+                    "szUnit": "pt",
+                    "color": "rgb(13, 18, 57)",
+                    "data-type": "leaf"
+                  },
+                  "请求管理"
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "rgb(13, 18, 57)",
+                  "data-type": "leaf"
+                },
+                " → "
+              ]
+            ],
+            [
+              "inlineCode",
+              {
+                "uuid": "mmbwkw5rteovi540fg"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "sz": 12,
+                    "szUnit": "pt",
+                    "color": "rgb(13, 18, 57)",
+                    "data-type": "leaf"
+                  },
+                  "员工邀请请求"
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                " "
+              ],
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "rgb(13, 18, 57)",
+                  "data-type": "leaf"
+                },
+                "→"
+              ],
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                " "
+              ],
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "rgb(13, 18, 57)",
+                  "data-type": "leaf"
+                },
+                "点击 「同意」"
+              ]
+            ]
+          ],
+          [
+            "h3",
+            {
+              "spacing": {},
+              "uuid": "mmbwkw5r6rr0azbf9by"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "color": "rgb(13, 18, 57)",
+                  "data-type": "leaf"
+                },
+                "3.3 线索分配与处理"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "ind": {
+                "left": 0
+              },
+              "list": {
+                "listId": "r8qg2p896vk",
+                "isOrdered": false,
+                "level": 0,
+                "listStyle": {
+                  "format": "bullet",
+                  "text": "●",
+                  "align": "left"
+                }
+              },
+              "uuid": "mmbwkw5s7tkfeu3m809"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "rgb(13, 18, 57)",
+                  "data-type": "leaf"
+                },
+                "您分配："
+              ]
+            ],
+            [
+              "inlineCode",
+              {
+                "uuid": "mmbwkw5s7xd2sxgy09n"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "sz": 12,
+                    "szUnit": "pt",
+                    "color": "rgb(13, 18, 57)",
+                    "data-type": "leaf"
+                  },
+                  "销售线索"
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "rgb(13, 18, 57)",
+                  "data-type": "leaf"
+                },
+                " → 选线索 → 「分配」→ 选员工 → 确定"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "ind": {
+                "left": 0
+              },
+              "list": {
+                "listId": "r8qg2p896vk",
+                "isOrdered": false,
+                "level": 0,
+                "listStyle": {
+                  "format": "bullet",
+                  "text": "●",
+                  "align": "left"
+                }
+              },
+              "uuid": "mmbwkw5s4sojndm2fo2"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "rgb(13, 18, 57)",
+                  "data-type": "leaf"
+                },
+                "员工处理："
+              ]
+            ]
+          ],
+          [
+            "table",
+            {
+              "colsWidth": [
+                162,
+                162,
+                162,
+                162
+              ],
+              "uuid": "mmbwkw5sd0eowdya4hh"
+            },
+            [
+              "tr",
+              {
+                "uuid": "mmbwkw5s3lzqp9lkvl8"
+              },
+              [
+                "tc",
+                {
+                  "rowSpan": 1,
+                  "colSpan": 1,
+                  "fill": "rgba(82, 61, 228, 0.8)",
+                  "bdr": {
+                    "top": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#e2e8f0"
+                    },
+                    "right": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#e2e8f0"
+                    },
+                    "bottom": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#e2e8f0"
+                    },
+                    "left": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#e2e8f0"
+                    }
+                  },
+                  "uuid": "mmbwkw5shxrfalfpp7n",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mmbwkw5srkipsnplt"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "rgb(255, 255, 255)",
+                        "data-type": "leaf"
+                      },
+                      "权限配置"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "rowSpan": 1,
+                  "colSpan": 1,
+                  "fill": "rgba(82, 61, 228, 0.8)",
+                  "bdr": {
+                    "top": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#e2e8f0"
+                    },
+                    "right": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#e2e8f0"
+                    },
+                    "bottom": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#e2e8f0"
+                    },
+                    "left": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#e2e8f0"
+                    }
+                  },
+                  "uuid": "mmbwkw5s44h06j1sxhh",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mmbwkw5sl4wpvd4hawg"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "rgb(255, 255, 255)",
+                        "data-type": "leaf"
+                      },
+                      "电话显示"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "rowSpan": 1,
+                  "colSpan": 1,
+                  "fill": "rgba(82, 61, 228, 0.8)",
+                  "bdr": {
+                    "top": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#e2e8f0"
+                    },
+                    "right": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#e2e8f0"
+                    },
+                    "bottom": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#e2e8f0"
+                    },
+                    "left": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#e2e8f0"
+                    }
+                  },
+                  "uuid": "mmbwkw5setj9cxh8wgd",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mmbwkw5swkl5vn17lhe"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "rgb(255, 255, 255)",
+                        "data-type": "leaf"
+                      },
+                      "可外呼"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "rowSpan": 1,
+                  "colSpan": 1,
+                  "fill": "rgba(82, 61, 228, 0.8)",
+                  "bdr": {
+                    "top": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#e2e8f0"
+                    },
+                    "right": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#e2e8f0"
+                    },
+                    "bottom": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#e2e8f0"
+                    },
+                    "left": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#e2e8f0"
+                    }
+                  },
+                  "uuid": "mmbwkw5szkp7ukspkd",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mmbwkw5sggw58uax2ge"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "rgb(255, 255, 255)",
+                        "data-type": "leaf"
+                      },
+                      "可打标"
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {
+                "uuid": "mmbwkw5sbu74z7dz3hi"
+              },
+              [
+                "tc",
+                {
+                  "rowSpan": 1,
+                  "colSpan": 1,
+                  "bdr": {
+                    "top": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#e2e8f0"
+                    },
+                    "right": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#e2e8f0"
+                    },
+                    "bottom": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#e2e8f0"
+                    },
+                    "left": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#e2e8f0"
+                    }
+                  },
+                  "uuid": "mmbwkw5s727zwrrln2m",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mmbwkw5sy9vxku7db4j"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "rgb(0, 0, 0)",
+                        "data-type": "leaf"
+                      },
+                      "未勾“明文数据”"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "rowSpan": 1,
+                  "colSpan": 1,
+                  "bdr": {
+                    "top": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#e2e8f0"
+                    },
+                    "right": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#e2e8f0"
+                    },
+                    "bottom": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#e2e8f0"
+                    },
+                    "left": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#e2e8f0"
+                    }
+                  },
+                  "uuid": "mmbwkw5s3f1kdsugeqp",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mmbwkw5s9b17fvl5e7q"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ],
+                  [
+                    "inlineCode",
+                    {
+                      "uuid": "mmbwkw5s0iqw5lp76wi9"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "leaf"
+                        },
+                        "131"
+                      ],
+                      [
+                        "span",
+                        {
+                          "sz": 12,
+                          "szUnit": "pt",
+                          "color": "rgb(0, 0, 0)",
+                          "data-type": "leaf"
+                        },
+                        "****1234"
+                      ]
+                    ]
+                  ],
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "rowSpan": 1,
+                  "colSpan": 1,
+                  "bdr": {
+                    "top": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#e2e8f0"
+                    },
+                    "right": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#e2e8f0"
+                    },
+                    "bottom": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#e2e8f0"
+                    },
+                    "left": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#e2e8f0"
+                    }
+                  },
+                  "uuid": "mmbwkw5s52zavxfizp9",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mmbwkw5sf1mcy5o3yoq"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "rgb(0, 0, 0)",
+                        "data-type": "leaf"
+                      },
+                      "✅"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "rowSpan": 1,
+                  "colSpan": 1,
+                  "bdr": {
+                    "top": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#e2e8f0"
+                    },
+                    "right": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#e2e8f0"
+                    },
+                    "bottom": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#e2e8f0"
+                    },
+                    "left": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#e2e8f0"
+                    }
+                  },
+                  "uuid": "mmbxui0raohx33b6gd",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mmbxui0r31fc5luinp6"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "rgb(0, 0, 0)",
+                        "data-type": "leaf"
+                      },
+                      "✅"
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {
+                "uuid": "mmbwkw5sl782ne00o9i"
+              },
+              [
+                "tc",
+                {
+                  "rowSpan": 1,
+                  "colSpan": 1,
+                  "bdr": {
+                    "top": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#e2e8f0"
+                    },
+                    "right": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#e2e8f0"
+                    },
+                    "bottom": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#e2e8f0"
+                    },
+                    "left": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#e2e8f0"
+                    }
+                  },
+                  "uuid": "mmbwkw5siw9eofq63w7",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mmbwkw5shq2fp262dsr"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "rgb(0, 0, 0)",
+                        "data-type": "leaf"
+                      },
+                      "已勾“明文数据”"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "rowSpan": 1,
+                  "colSpan": 1,
+                  "bdr": {
+                    "top": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#e2e8f0"
+                    },
+                    "right": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#e2e8f0"
+                    },
+                    "bottom": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#e2e8f0"
+                    },
+                    "left": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#e2e8f0"
+                    }
+                  },
+                  "uuid": "mmbwkw5srsssucizji8",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mmbwkw5sjfnvwnl6bea"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ],
+                  [
+                    "inlineCode",
+                    {
+                      "uuid": "mmbwkw5szswberanl4d"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "sz": 12,
+                          "szUnit": "pt",
+                          "color": "rgb(0, 0, 0)",
+                          "data-type": "leaf"
+                        },
+                        "13111111111"
+                      ]
+                    ]
+                  ],
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "rowSpan": 1,
+                  "colSpan": 1,
+                  "bdr": {
+                    "top": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#e2e8f0"
+                    },
+                    "right": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#e2e8f0"
+                    },
+                    "bottom": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#e2e8f0"
+                    },
+                    "left": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#e2e8f0"
+                    }
+                  },
+                  "uuid": "mmbwkw5smb3wlz2ilkk",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mmbwkw5son1n4f15mug"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "rgb(0, 0, 0)",
+                        "data-type": "leaf"
+                      },
+                      "✅"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "rowSpan": 1,
+                  "colSpan": 1,
+                  "bdr": {
+                    "top": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#e2e8f0"
+                    },
+                    "right": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#e2e8f0"
+                    },
+                    "bottom": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#e2e8f0"
+                    },
+                    "left": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#e2e8f0"
+                    }
+                  },
+                  "uuid": "mmbwkw5sf6xp3eepgxn",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mmbwkw5syum9pfln36k"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "rgb(0, 0, 0)",
+                        "data-type": "leaf"
+                      },
+                      "✅"
+                    ]
+                  ]
+                ]
+              ]
+            ]
+          ],
+          [
+            "hr",
+            {
+              "type": "solid",
+              "sz": 0.75,
+              "color": "rgb(220, 223, 230)",
+              "width": "100%",
+              "uuid": "mmbwkw5t87x8046t37x"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "h2",
+            {
+              "spacing": {},
+              "uuid": "mmbwkw5thcyoorssd0q"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "color": "rgb(13, 18, 57)",
+                  "data-type": "leaf"
+                },
+                "❓ 四、高频问题（Q&A）"
+              ]
+            ]
+          ],
+          [
+            "table",
+            {
+              "colsWidth": [
+                246,
+                736
+              ],
+              "uuid": "mmbwkw5u3zdrb9fk8xf",
+              "tblW": {
+                "w": 100,
+                "type": "pct"
+              }
+            },
+            [
+              "tr",
+              {
+                "uuid": "mmbwkw5u43u2mgohnnd"
+              },
+              [
+                "tc",
+                {
+                  "rowSpan": 1,
+                  "colSpan": 1,
+                  "fill": "rgba(82, 61, 228, 0.8)",
+                  "bdr": {
+                    "top": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#e2e8f0"
+                    },
+                    "right": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#e2e8f0"
+                    },
+                    "bottom": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#e2e8f0"
+                    },
+                    "left": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#e2e8f0"
+                    }
+                  },
+                  "uuid": "mmbwkw5u7uc06cxdgzj",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mmbwkw5upzp7k7s9vd"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "rgb(255, 255, 255)",
+                        "data-type": "leaf"
+                      },
+                      "Q"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "rowSpan": 1,
+                  "colSpan": 1,
+                  "fill": "rgba(82, 61, 228, 0.8)",
+                  "bdr": {
+                    "top": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#e2e8f0"
+                    },
+                    "right": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#e2e8f0"
+                    },
+                    "bottom": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#e2e8f0"
+                    },
+                    "left": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#e2e8f0"
+                    }
+                  },
+                  "uuid": "mmbwkw5uzwr51zb6tv",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mmbwkw5u7q7mew8hpkw"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "rgb(255, 255, 255)",
+                        "data-type": "leaf"
+                      },
+                      "A"
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {
+                "uuid": "mmbwkw5u5d8fhr9c2vj"
+              },
+              [
+                "tc",
+                {
+                  "rowSpan": 1,
+                  "colSpan": 1,
+                  "bdr": {
+                    "top": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#e2e8f0"
+                    },
+                    "right": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#e2e8f0"
+                    },
+                    "bottom": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#e2e8f0"
+                    },
+                    "left": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#e2e8f0"
+                    }
+                  },
+                  "uuid": "mmbwkw5u8lyea18p458",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mmbwkw5uapgt3t6zuma"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "rgb(0, 0, 0)",
+                        "data-type": "leaf"
+                      },
+                      "Q：子账号能替代员工吗？"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "rowSpan": 1,
+                  "colSpan": 1,
+                  "bdr": {
+                    "top": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#e2e8f0"
+                    },
+                    "right": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#e2e8f0"
+                    },
+                    "bottom": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#e2e8f0"
+                    },
+                    "left": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#e2e8f0"
+                    }
+                  },
+                  "uuid": "mmbwkw5uuc5twiqa1le",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mmbwkw5uvo8nj8orskp"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "rgb(0, 0, 0)",
+                        "data-type": "leaf"
+                      },
+                      "A：不能。子账号可见全部线索，但无法接收分配。请用“员工”角色实现分责。"
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {
+                "uuid": "mmbwkw5ut0h7dfsncss"
+              },
+              [
+                "tc",
+                {
+                  "rowSpan": 1,
+                  "colSpan": 1,
+                  "bdr": {
+                    "top": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#e2e8f0"
+                    },
+                    "right": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#e2e8f0"
+                    },
+                    "bottom": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#e2e8f0"
+                    },
+                    "left": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#e2e8f0"
+                    }
+                  },
+                  "uuid": "mmbwkw5u0ckfsqr5bg",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mmbwkw5usuxgbxn12kf"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "rgb(0, 0, 0)",
+                        "data-type": "leaf"
+                      },
+                      "Q：协作者能同时在两个组织？"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "rowSpan": 1,
+                  "colSpan": 1,
+                  "bdr": {
+                    "top": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#e2e8f0"
+                    },
+                    "right": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#e2e8f0"
+                    },
+                    "bottom": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#e2e8f0"
+                    },
+                    "left": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#e2e8f0"
+                    }
+                  },
+                  "uuid": "mmbwkw5upv5b5zt2q7",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mmbwkw5u75e6n3zai8"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "rgb(0, 0, 0)",
+                        "data-type": "leaf"
+                      },
+                      "A：不能。需先退出原组织（解绑），再加入新组织。"
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {
+                "uuid": "mmbwkw5uyq3z75ok6w8"
+              },
+              [
+                "tc",
+                {
+                  "rowSpan": 1,
+                  "colSpan": 1,
+                  "bdr": {
+                    "top": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#e2e8f0"
+                    },
+                    "right": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#e2e8f0"
+                    },
+                    "bottom": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#e2e8f0"
+                    },
+                    "left": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#e2e8f0"
+                    }
+                  },
+                  "uuid": "mmbwkw5ulor7ep9lyz",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mmbwkw5u825jjzha65i"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "rgb(0, 0, 0)",
+                        "data-type": "leaf"
+                      },
+                      "Q：员工可为多个组织工作？"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "rowSpan": 1,
+                  "colSpan": 1,
+                  "bdr": {
+                    "top": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#e2e8f0"
+                    },
+                    "right": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#e2e8f0"
+                    },
+                    "bottom": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#e2e8f0"
+                    },
+                    "left": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#e2e8f0"
+                    }
+                  },
+                  "uuid": "mmbwkw5u86zutd73t15",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mmbwkw5uw9revjdnazo"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "rgb(0, 0, 0)",
+                        "data-type": "leaf"
+                      },
+                      "A：可以！通过左上角「当前组织」下拉菜单切换，数据完全隔离。"
+                    ]
+                  ]
+                ]
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mmbwkw5ulljovlhdf9"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ]
+        ],
+        "footers": {},
+        "version": 1
+      },
+      "refs": {}
+    }
+  }
+}

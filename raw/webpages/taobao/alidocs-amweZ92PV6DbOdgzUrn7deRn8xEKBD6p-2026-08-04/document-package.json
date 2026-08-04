@@ -1,0 +1,851 @@
+{
+  "version": 1,
+  "type": "application/x-alidocs-package",
+  "main": "00000000-0000-0000-0000-000000000001",
+  "plugins": "00000000-0000-0000-0000-000000000002",
+  "parts": {
+    "00000000-0000-0000-0000-000000000001": {
+      "id": "00000000-0000-0000-0000-000000000001",
+      "type": "application/x-alidocs-word",
+      "version": 1,
+      "data": {
+        "style": {
+          "docDefaults": {
+            "type": "paragraph",
+            "default": 1,
+            "name": "dingdocnormal",
+            "data": {
+              "rPr": {
+                "sz": 12,
+                "szUnit": "pt"
+              },
+              "pPr": {
+                "spacing": {
+                  "before": 8,
+                  "after": 8
+                }
+              }
+            }
+          }
+        },
+        "theme": [],
+        "settings": {
+          "titleCover": {
+            "isHide": true
+          }
+        },
+        "app": {},
+        "numberings": {},
+        "headers": {},
+        "body": [
+          "root",
+          {
+            "sectPr": {
+              "pgSz": {
+                "w": 892,
+                "h": 1127
+              },
+              "pgMar": {
+                "top": 48,
+                "bottom": 48,
+                "left": 72,
+                "right": 72,
+                "header": 56.73,
+                "footer": 66.13,
+                "gutter": 0
+              }
+            },
+            "theme": {
+              "table": {
+                "tableCell": {
+                  "vAlign": "top"
+                }
+              }
+            }
+          },
+          [
+            "container",
+            {
+              "subType": "colorBlocks",
+              "metadata": {
+                "padding": {
+                  "top": 11,
+                  "right": 11,
+                  "bottom": 11,
+                  "left": 11
+                },
+                "borderRadius": 8,
+                "sticker": {
+                  "type": "dingding",
+                  "id": "emotion_108",
+                  "name": "[100分]",
+                  "url": "https://g.alicdn.com/dingding/emotion-assets/0.76.0/mobile/emotion_108.png"
+                },
+                "bgcolor": "#FFFAE5",
+                "showstk": false,
+                "border": null
+              },
+              "uuid": "mjgsv8ioo5py7rknca"
+            },
+            [
+              "p",
+              {
+                "uuid": "mjgsv8iof8m0l673x1c"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  "货品全站推广消耗达到一定量级且投放商品数较多的商家，"
+                ],
+                [
+                  "span",
+                  {
+                    "bold": true,
+                    "data-type": "leaf"
+                  },
+                  "当前已提供计划数上限的自动提升通道，符合条件的商家将会自动提升计划数容量。"
+                ]
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "ma0i715yjdd2rdrqxgc"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "若商家在升档之日起"
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "data-type": "leaf"
+                },
+                "消耗连续30天未达当前档位门槛"
+              ],
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "，计划数上限将按照近30日内货品全站推广的消耗实际可支持的计划数上限"
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "data-type": "leaf"
+                },
+                "降档"
+              ],
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "。降档后若账户内在投计划数>可创建计划条数上限，则"
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "data-type": "leaf"
+                },
+                "无法再新建计划"
+              ],
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "，对已创建的计划无影响。"
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "data-type": "leaf"
+                },
+                "后续若再度符合提升计划数的消耗门槛，系统会自动升档"
+              ],
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "。"
+              ]
+            ]
+          ],
+          [
+            "table",
+            {
+              "colsWidth": [
+                130,
+                310
+              ],
+              "uuid": "m8yiiez6zxzhokq1h7o"
+            },
+            [
+              "tr",
+              {
+                "h": 46,
+                "uuid": "m8yiiez6zghbv1stho"
+              },
+              [
+                "tc",
+                {
+                  "rowSpan": 1,
+                  "colSpan": 1,
+                  "uuid": "m8yiiez60ee6jk7iqoew",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "m8yiiez68xaauzq37j",
+                    "jc": "center"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "sz": 12,
+                        "szUnit": "pt",
+                        "color": "rgb(0, 0, 0)",
+                        "data-type": "leaf"
+                      },
+                      "计划数容量"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "rowSpan": 1,
+                  "colSpan": 1,
+                  "uuid": "m8yiiez6bn6uckt6445",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "m8yiiez6cl3ddmr5wl7",
+                    "jc": "center"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "sz": 12,
+                        "szUnit": "pt",
+                        "color": "rgb(0, 0, 0)",
+                        "data-type": "leaf"
+                      },
+                      "开通门槛（近30日货品全站推广消耗）"
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {
+                "uuid": "mizu8k8b85bzo56yq2e"
+              },
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mizu8k8bez820mhdlbo",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mizu8k8b2cn2k1ebkr4",
+                    "jc": "center"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "200"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mizu8k8bt1pjzbl8yx",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mizu8k8bjnynfrizdk",
+                    "jc": "center"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      ">0"
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {
+                "uuid": "mizu8ju8mvnoeiukc4"
+              },
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mizu8ju8hfh49bkcgd9",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mizu8ju8v35ohwlxcuf",
+                    "jc": "center"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "400"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mizu8ju8hligwi3bbie",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mizu8ju8xcu3cctnx6c",
+                    "jc": "center"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      ">=1万"
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {
+                "h": 23.5,
+                "uuid": "m8yiiez6n6dc9241v5h"
+              },
+              [
+                "tc",
+                {
+                  "rowSpan": 1,
+                  "colSpan": 1,
+                  "uuid": "m8yiiez6w8a1exu9nc",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "jc": "center",
+                    "uuid": "m8yiiez6rcbtnufjzs"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 12,
+                        "szUnit": "pt",
+                        "color": "rgb(0, 0, 0)",
+                        "data-type": "leaf"
+                      },
+                      "700"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "rowSpan": 1,
+                  "colSpan": 1,
+                  "uuid": "m8yiiez6no48ue9pig",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "jc": "center",
+                    "uuid": "m8yiiez65rby2pbjj0b"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      ">="
+                    ],
+                    [
+                      "span",
+                      {
+                        "sz": 12,
+                        "szUnit": "pt",
+                        "color": "rgb(0, 0, 0)",
+                        "data-type": "leaf"
+                      },
+                      "5"
+                    ],
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "万"
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {
+                "h": 23.5,
+                "uuid": "m8yiiez64hmsvr14ui2"
+              },
+              [
+                "tc",
+                {
+                  "rowSpan": 1,
+                  "colSpan": 1,
+                  "uuid": "m8yiiez6ja92m727nr",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "jc": "center",
+                    "uuid": "m8yiiez6oem5jf3xyr"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 12,
+                        "szUnit": "pt",
+                        "color": "rgb(0, 0, 0)",
+                        "data-type": "leaf"
+                      },
+                      "1200"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "rowSpan": 1,
+                  "colSpan": 1,
+                  "uuid": "m8yiiez6zm04n2vusp",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "jc": "center",
+                    "uuid": "m8yiiez6ybefzfcctc"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      ">="
+                    ],
+                    [
+                      "span",
+                      {
+                        "sz": 12,
+                        "szUnit": "pt",
+                        "color": "rgb(0, 0, 0)",
+                        "data-type": "leaf"
+                      },
+                      "10"
+                    ],
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "万"
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {
+                "h": 40,
+                "uuid": "m8yiiez65ns1mkfof3f"
+              },
+              [
+                "tc",
+                {
+                  "rowSpan": 1,
+                  "colSpan": 1,
+                  "uuid": "m8yiiez6nlkvretu2v",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "jc": "center",
+                    "uuid": "m8yiiez6t075w0vbb5n"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 12,
+                        "szUnit": "pt",
+                        "color": "rgb(0, 0, 0)",
+                        "data-type": "leaf"
+                      },
+                      "2200"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "rowSpan": 1,
+                  "colSpan": 1,
+                  "uuid": "m8yiiez6xmj8q7ezbmd",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "jc": "center",
+                    "uuid": "m8yiiez61z6i4lje7n1"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      ">="
+                    ],
+                    [
+                      "span",
+                      {
+                        "sz": 12,
+                        "szUnit": "pt",
+                        "color": "rgb(0, 0, 0)",
+                        "data-type": "leaf"
+                      },
+                      "40"
+                    ],
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "万"
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {
+                "uuid": "mcn073zh8jphr7b14fl"
+              },
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mcn073zh1ddqtg4mmiv",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mcn073zhpwr419h5b4d",
+                    "jc": "center"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "3200"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mcn073zhdqh06313z1",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mcn073zhikujpt8jszo",
+                    "jc": "center"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      ">="
+                    ],
+                    [
+                      "span",
+                      {
+                        "sz": 12,
+                        "szUnit": "pt",
+                        "color": "rgb(0, 0, 0)",
+                        "data-type": "leaf"
+                      },
+                      "120"
+                    ],
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "万"
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {
+                "uuid": "mizu5401nkfi2xd5lko"
+              },
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mizu5401wxg91wp2xso",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mizu5401d6wf8wguubv",
+                    "jc": "center"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "5700"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mizu5401y70iytel7k",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mizu5401tpypvjdud2g",
+                    "jc": "center"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      ">="
+                    ],
+                    [
+                      "span",
+                      {
+                        "sz": 12,
+                        "szUnit": "pt",
+                        "color": "rgb(0, 0, 0)",
+                        "data-type": "leaf"
+                      },
+                      "480"
+                    ],
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "万"
+                    ]
+                  ]
+                ]
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "m8yifpybw1s682rabrb"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ]
+        ],
+        "footers": {},
+        "version": 1
+      },
+      "refs": {}
+    }
+  }
+}

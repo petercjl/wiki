@@ -1,0 +1,25 @@
+# Formal Page Plan
+
+- status: confirmed-and-compiled
+- proposed_domain: `domains/AI Agent工程/05-工具链/05-网络与远程节点/`
+- proposed_disposition: create-new
+- proposed_formal_page: `01-GigsGigsCloud东京Shadowsocks节点部署与运维.md`
+- proposed_type: playbook
+- proposed_query_entry: `queries/VPS代理节点部署与排障.md`
+- confirmed_domain: `domains/AI Agent工程/05-工具链/05-网络与远程节点/`
+- confirmed_disposition: create-new
+- confirmed_formal_page: `domains/AI Agent工程/05-工具链/05-网络与远程节点/01-GigsGigsCloud东京Shadowsocks节点部署与运维.md`
+- confirmed_query_entry: `queries/VPS代理节点部署与排障.md`
+- proposed_index_updates:
+  - `domains/AI Agent工程/05-工具链/index.md`
+  - `domains/AI Agent工程/index.md`
+  - `index.md`
+- proposed_log_update: `log.md`
+- query-entry: needed；该知识支持重复部署、测速、排障、客户端配置与分享治理，并包含明确分支
+- merge_search_result: 未找到可合并的 GigsGigsCloud、Shadowsocks、Mihomo 或 VPS 代理页面
+- alternative: `projects/个人网络代理/`；若只想记录本人的当前节点而不形成复用方法，可放项目层
+- recommendation_reason: 该内容的长期价值是可复用的远程网络节点部署/验证/运维方法，不只是当前实例状态；与工具链下的远程 GPU、SSH/Tailscale 页面相邻，但需要独立网络节点子分类
+- confirmation_evidence: 用户于 2026-08-03 回复“好的 入库吧”，明确同意此前推荐的位置和正式入库方案
+- confirmed_path: `domains/AI Agent工程/05-工具链/05-网络与远程节点/`
+- rejected_alternative: `projects/个人网络代理/`；拒绝原因是来源已抽象为可重复部署、验证和排障的工具链方法，而非只记录当前实例状态
+- no_formal_write_before_confirmation: true

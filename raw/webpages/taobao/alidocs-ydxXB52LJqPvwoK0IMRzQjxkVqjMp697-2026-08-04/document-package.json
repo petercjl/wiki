@@ -1,0 +1,2280 @@
+{
+  "version": 1,
+  "type": "application/x-alidocs-package",
+  "main": "00000000-0000-0000-0000-000000000001",
+  "plugins": "00000000-0000-0000-0000-000000000002",
+  "parts": {
+    "00000000-0000-0000-0000-000000000001": {
+      "id": "00000000-0000-0000-0000-000000000001",
+      "type": "application/x-alidocs-word",
+      "version": 1,
+      "data": {
+        "style": {
+          "docDefaults": {
+            "type": "paragraph",
+            "default": 1,
+            "name": "dingdocnormal",
+            "data": {
+              "rPr": {
+                "sz": 12,
+                "szUnit": "pt"
+              },
+              "pPr": {
+                "spacing": {
+                  "before": 12,
+                  "after": 12
+                }
+              }
+            }
+          }
+        },
+        "theme": [],
+        "settings": {
+          "titleCover": {
+            "isHide": true
+          }
+        },
+        "app": {},
+        "numberings": {},
+        "headers": {},
+        "body": [
+          "root",
+          {
+            "sectPr": {
+              "pgSz": {
+                "w": 1127,
+                "h": 1588
+              },
+              "pgMar": {
+                "header": 56.73,
+                "footer": 66.13,
+                "top": 48,
+                "bottom": 48,
+                "left": 72,
+                "right": 72,
+                "gutter": 0
+              }
+            },
+            "theme": {
+              "table": {
+                "tableCell": {
+                  "vAlign": "top"
+                }
+              }
+            },
+            "uuid": "mq7i16xgpohvkz3wcmm"
+          },
+          [
+            "container",
+            {
+              "subType": "colorBlocks",
+              "metadata": {
+                "padding": {
+                  "top": 11,
+                  "right": 11,
+                  "bottom": 11,
+                  "left": 11
+                },
+                "borderRadius": 8,
+                "sticker": {
+                  "type": "dingding",
+                  "id": "emotion_001",
+                  "name": "[微笑]",
+                  "url": "https://g.alicdn.com/dingding/emotion-assets/0.76.0/mobile/emotion_001.png"
+                },
+                "bgcolor": "linear-gradient(316deg, #FEF3F3 -13%, #FFFEFE 52%, #F2BABA 125%)",
+                "showstk": false,
+                "border": null
+              },
+              "uuid": "mq7hz7f73m4zhg7ubo5"
+            },
+            [
+              "p",
+              {
+                "uuid": "mq7hz7f70v0lgv2eh7hd",
+                "jc": "center"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "bold": true,
+                    "sz": 16,
+                    "szUnit": "pt",
+                    "color": "#E03E3E",
+                    "data-type": "leaf"
+                  },
+                  "目前该产品还处于内测阶段，暂不支持申请开通，更多产品动态请关注平台通知"
+                ]
+              ]
+            ]
+          ],
+          [
+            "h2",
+            {
+              "uuid": "mq6i8pkxi4vjel6lxc",
+              "jc": "center"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "color": "linear-gradient(152deg, #C676FF 0%, #654CFF 41%, #405EFF 75%, #007FFF 99%)",
+                  "data-type": "leaf"
+                },
+                "一、核心功能一览"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mq7d2icq3gqhp1v69kn"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ],
+            [
+              "img",
+              {
+                "uuid": "mq7i1utwvvbqkqcrd",
+                "name": "图片弹窗v2.png",
+                "size": 2770290,
+                "width": 983,
+                "height": 488.45900428498436,
+                "src": "/core/api/resources/img/5eecdaf48460cde56a029c88bdc18eb96ff2b3c271b9248475b8339e1c4c24831b75b38faadcd24bec177c308ebd53044ae252709db91edc93c9a7c2454e0075ceb11e59201648731531bed64703fc72b88972f563e5593e4fb4c8ed7016461c",
+                "extraData": {
+                  "resourceId": "9a047769-a659-494e-8a9b-052892debb7d",
+                  "metaData": {
+                    "size": 2770290,
+                    "originWidth": 1779,
+                    "originHeight": 884,
+                    "format": "png",
+                    "ratio": 1
+                  }
+                }
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "hr",
+            {
+              "uuid": "mq6i8pl109jm92hx9k57"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "h2",
+            {
+              "uuid": "mq6i8pl16dlwfwbgsj",
+              "jc": "center"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "color": "linear-gradient(152deg, #C676FF 0%, #654CFF 41%, #405EFF 75%, #007FFF 99%)",
+                  "data-type": "leaf"
+                },
+                "二、功能详细说明"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mq7gmj5e1epl5je16f8",
+              "jc": "center"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 14,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "🚀 竞争人群调控三大核心升级，助您精准抢量、全域制胜！"
+              ]
+            ],
+            [
+              "img",
+              {
+                "uuid": "mrorkbysxyz4e5or8gq",
+                "name": "竞争人群调价对比_图片弹窗.png",
+                "size": 2301983,
+                "width": 887.5,
+                "height": 443,
+                "src": "/core/api/resources/img/5eecdaf48460cde5c58c49be198ec96438ac9319bf762ab575b8339e1c4c24831b75b38faadcd24bec177c308ebd530471c8acd4bd8bad9c2b7ded00f3b73d80181e5982edbf0f050f2c50f817ae5adf369382aadca2a7b64fb4c8ed7016461c",
+                "extraData": {
+                  "resourceId": "7798663c-e19f-4e23-aecb-63ce94ebaa8e",
+                  "metaData": {
+                    "size": 2301983,
+                    "originWidth": 1775,
+                    "originHeight": 886,
+                    "format": "png",
+                    "ratio": 1
+                  }
+                }
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 14,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "container",
+            {
+              "subType": "colorBlocks",
+              "metadata": {
+                "padding": {
+                  "top": 11,
+                  "right": 11,
+                  "bottom": 11,
+                  "left": 11
+                },
+                "borderRadius": 8,
+                "sticker": {
+                  "type": "dingding",
+                  "id": "emotion_001",
+                  "name": "[微笑]",
+                  "url": "https://g.alicdn.com/dingding/emotion-assets/0.76.0/mobile/emotion_001.png"
+                },
+                "bgcolor": "#F5F6F7",
+                "showstk": false,
+                "border": null
+              },
+              "uuid": "mq7gond3um744i06bya"
+            },
+            [
+              "container",
+              {
+                "subType": "colorBlocks",
+                "metadata": {
+                  "padding": {
+                    "top": 11,
+                    "right": 11,
+                    "bottom": 11,
+                    "left": 11
+                  },
+                  "borderRadius": 8,
+                  "sticker": {
+                    "type": "dingding",
+                    "id": "emotion_001",
+                    "name": "[微笑]",
+                    "url": "https://g.alicdn.com/dingding/emotion-assets/0.76.0/mobile/emotion_001.png"
+                  },
+                  "bgcolor": "radial-gradient(68% 68% at 68% 100%, #F2F7F7 0%, rgba(242, 245, 255, 0) 100%), radial-gradient(53% 53% at 16% -12%, #FEF2F2 0%, rgba(242, 245, 255, 0) 100%), radial-gradient(55% 141% at 100% 100%, #E4EBFF 0%, rgba(242, 245, 255, 0) 100%), linear-gradient(99deg, #E9E7FF 0%, #E4EBFF 100%)",
+                  "showstk": false,
+                  "border": null
+                },
+                "uuid": "mq7gp31c5t3vy7z0xw5"
+              },
+              [
+                "p",
+                {
+                  "uuid": "mq7gp31cupkp0lotlu"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "text"
+                  },
+                  [
+                    "span",
+                    {
+                      "bold": true,
+                      "sz": 14,
+                      "szUnit": "pt",
+                      "data-type": "leaf"
+                    },
+                    "2.1 精准调控："
+                  ],
+                  [
+                    "span",
+                    {
+                      "sz": 14,
+                      "szUnit": "pt",
+                      "data-type": "leaf"
+                    },
+                    "从“三档粗调”到“精准调控”，竞争力度由您说了算！"
+                  ]
+                ]
+              ]
+            ],
+            [
+              "p",
+              {
+                "uuid": "mq7gpmpy6eweu5gkl0h",
+                "spacing": {
+                  "line": 1.15,
+                  "lineRule": "auto"
+                }
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  "过去仅提供高/中/低三档固定竞争意愿，难以匹配复杂投放需求，"
+                ]
+              ]
+            ],
+            [
+              "p",
+              {
+                "uuid": "mq7guum9jd4pp60wgl",
+                "spacing": {
+                  "line": 1.15,
+                  "lineRule": "auto"
+                }
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "sz": 14,
+                    "szUnit": "pt",
+                    "color": "#E03E3E",
+                    "data-type": "leaf"
+                  },
+                  "现在全面升级为 1.1～5.0 倍的数字化精细调控"
+                ],
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  "，支持商家按需输入任意倍数，"
+                ]
+              ]
+            ],
+            [
+              "p",
+              {
+                "uuid": "mq7guykrve439ppfe3",
+                "spacing": {
+                  "line": 1.15,
+                  "lineRule": "auto"
+                }
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  "实现对竞争人群出价强度的毫厘级掌控——该抢时果断加码，该稳时精准控本，竞争策略更灵活、更高效。"
+                ]
+              ]
+            ]
+          ],
+          [
+            "container",
+            {
+              "subType": "colorBlocks",
+              "metadata": {
+                "padding": {
+                  "top": 11,
+                  "right": 11,
+                  "bottom": 11,
+                  "left": 11
+                },
+                "borderRadius": 8,
+                "sticker": {
+                  "type": "dingding",
+                  "id": "emotion_001",
+                  "name": "[微笑]",
+                  "url": "https://g.alicdn.com/dingding/emotion-assets/0.76.0/mobile/emotion_001.png"
+                },
+                "bgcolor": "#F5F6F7",
+                "showstk": false,
+                "border": null
+              },
+              "uuid": "mq7gvpgn4apiriseppl"
+            },
+            [
+              "container",
+              {
+                "subType": "colorBlocks",
+                "metadata": {
+                  "padding": {
+                    "top": 11,
+                    "right": 11,
+                    "bottom": 11,
+                    "left": 11
+                  },
+                  "borderRadius": 8,
+                  "sticker": {
+                    "type": "dingding",
+                    "id": "emotion_001",
+                    "name": "[微笑]",
+                    "url": "https://g.alicdn.com/dingding/emotion-assets/0.76.0/mobile/emotion_001.png"
+                  },
+                  "bgcolor": "radial-gradient(68% 68% at 68% 100%, #F2F7F7 0%, rgba(242, 245, 255, 0) 100%), radial-gradient(53% 53% at 16% -12%, #FEF2F2 0%, rgba(242, 245, 255, 0) 100%), radial-gradient(55% 141% at 100% 100%, #E4EBFF 0%, rgba(242, 245, 255, 0) 100%), linear-gradient(99deg, #E9E7FF 0%, #E4EBFF 100%)",
+                  "showstk": false,
+                  "border": null
+                },
+                "uuid": "mq7gvpgnehgwc09pdd"
+              },
+              [
+                "p",
+                {
+                  "uuid": "mq7gvpgnmqiix0avmv"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "text"
+                  },
+                  [
+                    "span",
+                    {
+                      "bold": true,
+                      "sz": 14,
+                      "szUnit": "pt",
+                      "data-type": "leaf"
+                    },
+                    "2.2 全场景覆盖"
+                  ],
+                  [
+                    "span",
+                    {
+                      "sz": 14,
+                      "szUnit": "pt",
+                      "data-type": "leaf"
+                    },
+                    "：从“单一拉新”到“全域生效”，竞争能力全面释放！"
+                  ]
+                ]
+              ]
+            ],
+            [
+              "p",
+              {
+                "uuid": "mq7gvpgnq59a2lf0mfn",
+                "spacing": {
+                  "line": 1.15,
+                  "lineRule": "auto"
+                }
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  "此前仅在“竞店拉新”这一垂直场景支持竞争调价，应用受限；"
+                ]
+              ]
+            ],
+            [
+              "p",
+              {
+                "uuid": "mq7gworzik2oc6z3g6",
+                "spacing": {
+                  "line": 1.15,
+                  "lineRule": "auto"
+                }
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "sz": 14,
+                    "szUnit": "pt",
+                    "color": "#E03E3E",
+                    "data-type": "leaf"
+                  },
+                  "如今已扩展至所有"
+                ],
+                [
+                  "span",
+                  {
+                    "bold": true,
+                    "sz": 14,
+                    "szUnit": "pt",
+                    "color": "#E03E3E",
+                    "data-type": "leaf"
+                  },
+                  "包含竞争人群的最大化出价计划"
+                ],
+                [
+                  "span",
+                  {
+                    "sz": 14,
+                    "szUnit": "pt",
+                    "color": "#E03E3E",
+                    "data-type": "leaf"
+                  },
+                  "（包括拉新、转化、自定义等全链路场景）"
+                ],
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  "；"
+                ]
+              ]
+            ],
+            [
+              "p",
+              {
+                "uuid": "mq7gwrrqewu5rr588",
+                "spacing": {
+                  "line": 1.15,
+                  "lineRule": "auto"
+                }
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  "无论您是在抢夺竞品流量，还是激活高潜人群，都能通过竞争调控全域提效、无缝协同。"
+                ]
+              ]
+            ]
+          ],
+          [
+            "container",
+            {
+              "subType": "colorBlocks",
+              "metadata": {
+                "padding": {
+                  "top": 11,
+                  "right": 11,
+                  "bottom": 11,
+                  "left": 11
+                },
+                "borderRadius": 8,
+                "sticker": {
+                  "type": "dingding",
+                  "id": "emotion_001",
+                  "name": "[微笑]",
+                  "url": "https://g.alicdn.com/dingding/emotion-assets/0.76.0/mobile/emotion_001.png"
+                },
+                "bgcolor": "#F5F6F7",
+                "showstk": false,
+                "border": null
+              },
+              "uuid": "mq7gy2elglqbbqkd1ms"
+            },
+            [
+              "container",
+              {
+                "subType": "colorBlocks",
+                "metadata": {
+                  "padding": {
+                    "top": 11,
+                    "right": 11,
+                    "bottom": 11,
+                    "left": 11
+                  },
+                  "borderRadius": 8,
+                  "sticker": {
+                    "type": "dingding",
+                    "id": "emotion_001",
+                    "name": "[微笑]",
+                    "url": "https://g.alicdn.com/dingding/emotion-assets/0.76.0/mobile/emotion_001.png"
+                  },
+                  "bgcolor": "radial-gradient(68% 68% at 68% 100%, #F2F7F7 0%, rgba(242, 245, 255, 0) 100%), radial-gradient(53% 53% at 16% -12%, #FEF2F2 0%, rgba(242, 245, 255, 0) 100%), radial-gradient(55% 141% at 100% 100%, #E4EBFF 0%, rgba(242, 245, 255, 0) 100%), linear-gradient(99deg, #E9E7FF 0%, #E4EBFF 100%)",
+                  "showstk": false,
+                  "border": null
+                },
+                "uuid": "mq7gy2el7wk9qeg4m3j"
+              },
+              [
+                "p",
+                {
+                  "uuid": "mq7gy2elawdotm24agj"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "text"
+                  },
+                  [
+                    "span",
+                    {
+                      "bold": true,
+                      "sz": 14,
+                      "szUnit": "pt",
+                      "data-type": "leaf"
+                    },
+                    "2.3 智能兼容"
+                  ],
+                  [
+                    "span",
+                    {
+                      "sz": 14,
+                      "szUnit": "pt",
+                      "data-type": "leaf"
+                    },
+                    "：从“仅自定义”到“智能+自定义双支持”，竞争策略自由组合"
+                  ],
+                  [
+                    "span",
+                    {
+                      "bold": true,
+                      "sz": 14,
+                      "szUnit": "pt",
+                      "data-type": "leaf"
+                    },
+                    "！"
+                  ]
+                ]
+              ]
+            ],
+            [
+              "p",
+              {
+                "uuid": "mq7gy2elzkwkjmm9xtb",
+                "spacing": {
+                  "line": 1.15,
+                  "lineRule": "auto"
+                }
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  "原先仅允许在“自定义竞争人群”上设置竞争意愿，竞争调控能力受限，"
+                ]
+              ]
+            ],
+            [
+              "p",
+              {
+                "uuid": "mq7gzts2zzumzner81",
+                "spacing": {
+                  "line": 1.15,
+                  "lineRule": "auto"
+                }
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  "本次升级后，"
+                ],
+                [
+                  "span",
+                  {
+                    "sz": 14,
+                    "szUnit": "pt",
+                    "color": "#E03E3E",
+                    "data-type": "leaf"
+                  },
+                  "“智能竞争人群”与“自定义竞争人群”均支持开启竞争调控"
+                ],
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  "，"
+                ]
+              ]
+            ],
+            [
+              "p",
+              {
+                "uuid": "mq7gz87ejv8o2zgmxr",
+                "spacing": {
+                  "line": 1.15,
+                  "lineRule": "auto"
+                }
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  "既可借力算法自动识别高价值竞对人群，也可手动圈选核心对手阵地，"
+                ]
+              ]
+            ],
+            [
+              "p",
+              {
+                "uuid": "mq7gzadohcivrlww0xw",
+                "spacing": {
+                  "line": 1.15,
+                  "lineRule": "auto"
+                }
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  "实现智能推荐与人工策略的深度融合，让竞争投放既有广度，更有精度。"
+                ]
+              ]
+            ]
+          ],
+          [
+            "hr",
+            {
+              "uuid": "mq6i8plgdjn0sza984q"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "h2",
+            {
+              "uuid": "mq6i8plge0d95osq5hn",
+              "jc": "center"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "color": "linear-gradient(152deg, #C676FF 0%, #654CFF 41%, #405EFF 75%, #007FFF 99%)",
+                  "data-type": "leaf"
+                },
+                "三、使用步骤指引"
+              ]
+            ]
+          ],
+          [
+            "h3",
+            {
+              "uuid": "mq6i8pliq8adeqo2o9g",
+              "spacing": {
+                "line": 1.15,
+                "lineRule": "auto"
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "场景一：「竞店拉新」新建计划直接配置人群调控"
+              ]
+            ]
+          ],
+          [
+            "table",
+            {
+              "colsWidth": [
+                265,
+                617
+              ],
+              "sr": true,
+              "uuid": "mq7sdw1vk194ziochjb"
+            },
+            [
+              "tr",
+              {
+                "uuid": "mq7sdw1xwudy5648n1"
+              },
+              [
+                "tc",
+                {
+                  "fill": "#F5F6F7",
+                  "vAlign": "middle",
+                  "uuid": "mq7sdw1ykhcn1tx8g2",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mq7sdw1yndu7jg9uiyp",
+                    "jc": "center"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "fonts": {
+                          "ascii": "DingTalk JinBuTi",
+                          "hAnsi": "DingTalk JinBuTi",
+                          "cs": "DingTalk JinBuTi",
+                          "eastAsia": "DingTalk JinBuTi"
+                        },
+                        "data-type": "leaf"
+                      },
+                      "STEP 1 "
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "uuid": "mq7sdw1yrixajgbduco",
+                    "jc": "center"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "fonts": {
+                          "ascii": "DingTalk JinBuTi",
+                          "hAnsi": "DingTalk JinBuTi",
+                          "cs": "DingTalk JinBuTi",
+                          "eastAsia": "DingTalk JinBuTi"
+                        },
+                        "data-type": "leaf"
+                      },
+                      "新建竞店拉新计划-设置预算及出价-设置人群调控"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "fill": "#F5F6F7",
+                  "vAlign": "top",
+                  "uuid": "mq7sdw1zdhvth07sk5",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mq7sdw1zgn72fwo50gh"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ],
+                  [
+                    "img",
+                    {
+                      "uuid": "mq7i1utwqh8o17ksi9",
+                      "name": "image.png",
+                      "size": 93065,
+                      "width": 463.33,
+                      "height": 191.67,
+                      "src": "/core/api/resources/img/5eecdaf48460cde56a029c88bdc18eb96ff2b3c271b9248475b8339e1c4c24831b75b38faadcd24bec177c308ebd5304ae99258d9afde611e3b267dc98242fcc8068b4b79f19dabcd6858ad1771f1e316c2e84578b37fa914fb4c8ed7016461c",
+                      "extraData": {
+                        "resourceId": "cfba3b7f-e465-462a-b70e-99c788227996",
+                        "metaData": {
+                          "size": 93065,
+                          "originWidth": 834,
+                          "originHeight": 345,
+                          "format": "png",
+                          "ratio": 1
+                        }
+                      }
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "leaf"
+                        },
+                        ""
+                      ]
+                    ]
+                  ],
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ]
+                ]
+              ]
+            ]
+          ],
+          [
+            "table",
+            {
+              "colsWidth": [
+                265,
+                617
+              ],
+              "sr": true,
+              "uuid": "mq7sdw1zfax8flrm1"
+            },
+            [
+              "tr",
+              {
+                "uuid": "mq7sdw1zffltftc04en"
+              },
+              [
+                "tc",
+                {
+                  "fill": "#F5F6F7",
+                  "vAlign": "middle",
+                  "uuid": "mq7sdw20yex6cuyzclf",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mq7sdw20tr5dxdnekwp",
+                    "jc": "center"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "fonts": {
+                          "ascii": "DingTalk JinBuTi",
+                          "hAnsi": "DingTalk JinBuTi",
+                          "cs": "DingTalk JinBuTi",
+                          "eastAsia": "DingTalk JinBuTi"
+                        },
+                        "data-type": "leaf"
+                      },
+                      "STEP 2"
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "uuid": "mq7sdw2017ze7pcl61q",
+                    "jc": "center"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "fonts": {
+                          "ascii": "DingTalk JinBuTi",
+                          "hAnsi": "DingTalk JinBuTi",
+                          "cs": "DingTalk JinBuTi",
+                          "eastAsia": "DingTalk JinBuTi"
+                        },
+                        "data-type": "leaf"
+                      },
+                      "竞争人群调控"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "fill": "#F5F6F7",
+                  "vAlign": "top",
+                  "uuid": "mq7sdw203hyibr51ygl",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mq7sdw20hupkqo9ona",
+                    "jc": "left"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 14,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      "根据竞争人群投放数据，勾选需要调控的竞争人群，区分竞争优先级，设置人群重要程度（范围1.1~5.0倍）"
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "uuid": "mq7sdw21ibv8bp7cfqm"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ],
+                  [
+                    "img",
+                    {
+                      "uuid": "mq7i1utwpln8sxz7pa",
+                      "name": "image.png",
+                      "size": 203154,
+                      "width": 593.89,
+                      "height": 379.44,
+                      "src": "/core/api/resources/img/5eecdaf48460cde56a029c88bdc18eb96ff2b3c271b9248475b8339e1c4c24831b75b38faadcd24bec177c308ebd5304dfb09953e89fd824153f681fe48f8493b1ce7b42492e3e5875768dac50f4fb6ccf504dde55a391f24fb4c8ed7016461c",
+                      "extraData": {
+                        "resourceId": "a67895a8-fd79-430b-a38b-9357cec6aa30",
+                        "metaData": {
+                          "size": 203154,
+                          "originWidth": 1069,
+                          "originHeight": 683,
+                          "format": "png",
+                          "ratio": 1
+                        }
+                      }
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "leaf"
+                        },
+                        ""
+                      ]
+                    ]
+                  ],
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ]
+                ]
+              ]
+            ]
+          ],
+          [
+            "h3",
+            {
+              "uuid": "mq6i8plgllzcpvvb1m",
+              "spacing": {
+                "line": 1.15,
+                "lineRule": "auto"
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "场景二：最大化拿量计划（含竞争航线人群）设置人群调控"
+              ]
+            ]
+          ],
+          [
+            "table",
+            {
+              "colsWidth": [
+                265,
+                617
+              ],
+              "sr": true,
+              "uuid": "mp58elrloeyktvhmlah"
+            },
+            [
+              "tr",
+              {
+                "uuid": "mqeuq3miay27nqyt4q"
+              },
+              [
+                "tc",
+                {
+                  "fill": "#F5F6F7",
+                  "vAlign": "middle",
+                  "uuid": "mqeuq3miw16aav5zs4g",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mqeuq3mi2h5vfoyy6w4",
+                    "jc": "center"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "fonts": {
+                          "ascii": "DingTalk JinBuTi",
+                          "hAnsi": "DingTalk JinBuTi",
+                          "cs": "DingTalk JinBuTi",
+                          "eastAsia": "DingTalk JinBuTi"
+                        },
+                        "data-type": "leaf"
+                      },
+                      "STEP 1 "
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "uuid": "mqeuq3mi2lqcj54lctm",
+                    "jc": "center"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "fonts": {
+                          "ascii": "DingTalk JinBuTi",
+                          "hAnsi": "DingTalk JinBuTi",
+                          "cs": "DingTalk JinBuTi",
+                          "eastAsia": "DingTalk JinBuTi"
+                        },
+                        "data-type": "leaf"
+                      },
+                      "进入人群推广-计划列表-最大化出价计划-点击\"人群调控（竞争）\"按钮"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "fill": "#F5F6F7",
+                  "vAlign": "top",
+                  "uuid": "mqeuq3mimswk4ooi43",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mqeuq3milmfm7p6erbg"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ],
+                  [
+                    "img",
+                    {
+                      "uuid": "mqeuq3mdla94w1w09q",
+                      "name": "image.png",
+                      "size": 274411,
+                      "width": 655,
+                      "height": 195.21925100459836,
+                      "src": "/core/api/resources/img/5eecdaf48460cde56a029c88bdc18eb96ff2b3c271b9248475b8339e1c4c24831b75b38faadcd24bec177c308ebd530462b51fb9beae91fc73b8b638a7c2694656fc438a25dc938b841b71b46f7996637ca32a9bf810b1704fb4c8ed7016461c",
+                      "extraData": {
+                        "resourceId": "f561a4a8-2e46-4b6a-8f95-9c57a6c50b3b",
+                        "metaData": {
+                          "size": 274411,
+                          "originWidth": 1738,
+                          "originHeight": 518,
+                          "format": "png",
+                          "ratio": 1
+                        }
+                      }
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "leaf"
+                        },
+                        ""
+                      ]
+                    ]
+                  ],
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ]
+                ]
+              ]
+            ]
+          ],
+          [
+            "table",
+            {
+              "colsWidth": [
+                265,
+                617
+              ],
+              "sr": true,
+              "uuid": "mp58eyk4y0jke0gekzg"
+            },
+            [
+              "tr",
+              {
+                "uuid": "mqeuq3mixitg7c66s4j"
+              },
+              [
+                "tc",
+                {
+                  "fill": "#F5F6F7",
+                  "vAlign": "middle",
+                  "uuid": "mqeuq3mi6tyopoqxtbt",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mqeuq3miet3qppjg9k",
+                    "jc": "center"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "fonts": {
+                          "ascii": "DingTalk JinBuTi",
+                          "hAnsi": "DingTalk JinBuTi",
+                          "cs": "DingTalk JinBuTi",
+                          "eastAsia": "DingTalk JinBuTi"
+                        },
+                        "data-type": "leaf"
+                      },
+                      "STEP 2"
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "uuid": "mqeuq3miibslp6vuug",
+                    "jc": "center"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "fonts": {
+                          "ascii": "DingTalk JinBuTi",
+                          "hAnsi": "DingTalk JinBuTi",
+                          "cs": "DingTalk JinBuTi",
+                          "eastAsia": "DingTalk JinBuTi"
+                        },
+                        "data-type": "leaf"
+                      },
+                      "竞争人群调控"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "fill": "#F5F6F7",
+                  "vAlign": "top",
+                  "uuid": "mqeuq3miqqjqw2nnn7d",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mqeuq3miqd2wortyk6q",
+                    "jc": "left"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 14,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      "根据竞争人群投放数据，勾选需要调控的竞争人群，区分竞争优先级，设置人群重要程度（范围1.1~5.0倍）"
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "uuid": "mqeuq3mi0brhontxwu5c"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ],
+                  [
+                    "img",
+                    {
+                      "uuid": "mqeuq3meapk10kgdaqb",
+                      "name": "image.png",
+                      "size": 203154,
+                      "width": 593.89,
+                      "height": 379.44,
+                      "src": "/core/api/resources/img/5eecdaf48460cde56a029c88bdc18eb96ff2b3c271b9248475b8339e1c4c24831b75b38faadcd24bec177c308ebd5304dfb09953e89fd824153f681fe48f8493b1ce7b42492e3e5875768dac50f4fb6ccf504dde55a391f24fb4c8ed7016461c",
+                      "extraData": {
+                        "resourceId": "a67895a8-fd79-430b-a38b-9357cec6aa30",
+                        "metaData": {
+                          "size": 203154,
+                          "originWidth": 1069,
+                          "originHeight": 683,
+                          "format": "png",
+                          "ratio": 1
+                        }
+                      }
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "leaf"
+                        },
+                        ""
+                      ]
+                    ]
+                  ],
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ]
+                ]
+              ]
+            ]
+          ],
+          [
+            "table",
+            {
+              "colsWidth": [
+                265,
+                617
+              ],
+              "sr": true,
+              "uuid": "mp58ezke035tgsgnlluu"
+            },
+            [
+              "tr",
+              {
+                "uuid": "mqeuq3mics1ejf1ff7"
+              },
+              [
+                "tc",
+                {
+                  "fill": "#F5F6F7",
+                  "vAlign": "middle",
+                  "uuid": "mqeuq3mi1kgjwmatnfb",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mqeuq3mic0zdjjuydo9",
+                    "jc": "center"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "fonts": {
+                          "ascii": "DingTalk JinBuTi",
+                          "hAnsi": "DingTalk JinBuTi",
+                          "cs": "DingTalk JinBuTi",
+                          "eastAsia": "DingTalk JinBuTi"
+                        },
+                        "data-type": "leaf"
+                      },
+                      "STEP 3"
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "uuid": "mqeuq3mi8rqhnw32eef",
+                    "jc": "center"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "fonts": {
+                          "ascii": "DingTalk JinBuTi",
+                          "hAnsi": "DingTalk JinBuTi",
+                          "cs": "DingTalk JinBuTi",
+                          "eastAsia": "DingTalk JinBuTi"
+                        },
+                        "data-type": "leaf"
+                      },
+                      "调整预算"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "fill": "#F5F6F7",
+                  "vAlign": "top",
+                  "uuid": "mqeuq3mivwdm1bio35j",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mqeuq3miuby0pow430o"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "在\"预算调整建议\"模块中，选择预算调整方案（推荐使用系统推荐值），点击\"确定\"保存设置"
+                    ]
+                  ],
+                  [
+                    "img",
+                    {
+                      "uuid": "mqeuq3me1d9dgp5m8ft",
+                      "name": "image.png",
+                      "size": 103217,
+                      "width": 596.11,
+                      "height": 294.44,
+                      "src": "/core/api/resources/img/5eecdaf48460cde56a029c88bdc18eb96ff2b3c271b9248475b8339e1c4c24831b75b38faadcd24bec177c308ebd5304e485ddb1c0d03c9390550ac8d5c7150b5c489de77ba76c093be62f5746d09caa4d2010d1223be05c4fb4c8ed7016461c",
+                      "extraData": {
+                        "resourceId": "07e9a570-7a57-4c56-9b6c-72d090023619",
+                        "metaData": {
+                          "size": 103217,
+                          "originWidth": 1073,
+                          "originHeight": 530,
+                          "format": "png",
+                          "ratio": 1
+                        }
+                      }
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "leaf"
+                        },
+                        ""
+                      ]
+                    ]
+                  ],
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ]
+                ]
+              ]
+            ]
+          ],
+          [
+            "hr",
+            {
+              "uuid": "mq6i8plmyk70u65z1wg"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "h2",
+            {
+              "uuid": "mq6i8plmpye8az1v06a",
+              "jc": "center"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "color": "linear-gradient(152deg, #C676FF 0%, #654CFF 41%, #405EFF 75%, #007FFF 99%)",
+                  "data-type": "leaf"
+                },
+                "四、常见问题"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mreqi0cwpfsw035vwzi",
+              "spacing": {
+                "line": 1.15,
+                "lineRule": "auto"
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "data-type": "leaf"
+                },
+                "Q：原竞争人群渗透出价的计划会受到哪些影响？"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mreqi0cwyfstrmy6yjq",
+              "spacing": {
+                "line": 1.15,
+                "lineRule": "auto"
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "A： 原有计划仍可正常投放，"
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "color": "#E03E3E",
+                  "data-type": "leaf"
+                },
+                "但出价目标将自动切换为“最大化拿量”模式"
+              ],
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "。此前的竞争人群渗透出价逻辑较为灰盒，商家难以精准控制渗透方向；升级后，商家可根据自身竞争需求，对智能竞争或自定义竞争人群中希望重点渗透的部分，主动提升其重要性权重，从而实现更有针对性的高渗透投放。"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mreq0uuxcnl87z8wvoq",
+              "spacing": {
+                "line": 1.15,
+                "lineRule": "auto"
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "data-type": "leaf"
+                },
+                "Q：人群调控倍数设置后，出价就是原来的X倍吗？"
+              ],
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "\nA：不是。该设置调整的是算法的出价系数，值越大投放权重越大，但最终出价还会综合考虑用户的点击概率、成交概率等多维因素，并不等于直接乘以该倍数。"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mq6i8plnlggeb6it25f",
+              "spacing": {
+                "line": 1.15,
+                "lineRule": "auto"
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "data-type": "leaf"
+                },
+                "Q：为什么我的计划看不到\"人群调控（竞争）\"按钮？"
+              ],
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "\nA：请确认以下条件：① 计划为非套餐包最大化出价类型；② 您的账号已在内测白名单中。"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mq6i8plnm88tjcfx5z",
+              "spacing": {
+                "line": 1.15,
+                "lineRule": "auto"
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "data-type": "leaf"
+                },
+                "Q：设置了人群调控后想修改出价目标怎么办？"
+              ],
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "\n"
+              ],
+              [
+                "span",
+                {
+                  "color": "",
+                  "data-type": "leaf"
+                },
+                "A：修改为非最大化出价的出价目标后，竞争人群调控功能将失效，无法再增加核心目标竞争人群渗透。"
+              ]
+            ]
+          ],
+          [
+            "hr",
+            {
+              "uuid": "mq6i8ploiec7jb3jh7a"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "h2",
+            {
+              "uuid": "mk6js4hvsar75bstwa",
+              "spacing": {
+                "before": 28,
+                "after": 10,
+                "line": 0.9333333333333332
+              },
+              "jc": "center"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 18,
+                  "szUnit": "pt",
+                  "color": "linear-gradient(152deg, #C676FF 0%, #654CFF 41%, #405EFF 75%, #007FFF 99%)",
+                  "data-type": "leaf"
+                },
+                " 五、问题反馈通道"
+              ]
+            ]
+          ],
+          [
+            "container",
+            {
+              "subType": "colorBlocks",
+              "metadata": {
+                "padding": {
+                  "top": 11,
+                  "right": 11,
+                  "bottom": 11,
+                  "left": 11
+                },
+                "borderRadius": 8,
+                "sticker": {
+                  "id": "emotion_001",
+                  "name": "[微笑]",
+                  "type": "dingding",
+                  "url": "https://g.alicdn.com/dingding/emotion-assets/0.76.0/mobile/emotion_001.png"
+                },
+                "bgcolor": "#F5F6F7",
+                "showstk": false,
+                "border": null
+              },
+              "uuid": "mk6k24xdg5eh03t889"
+            },
+            [
+              "table",
+              {
+                "colsWidth": [
+                  325,
+                  325
+                ],
+                "sr": true,
+                "uuid": "mk6k2v4mtu57zcj0hyo"
+              },
+              [
+                "tr",
+                {
+                  "uuid": "mk6k2v4ml45ndt6xhz"
+                },
+                [
+                  "tc",
+                  {
+                    "fill": "#FFFFFF",
+                    "vAlign": "top",
+                    "uuid": "mk6k2v4mk53h6o5fmzj",
+                    "rowSpan": 1,
+                    "colSpan": 1
+                  },
+                  [
+                    "p",
+                    {
+                      "uuid": "mk6k2v4m8mffklai40e"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "bold": true,
+                          "sz": 14,
+                          "szUnit": "pt",
+                          "color": "linear-gradient(90deg, #FF7100 0%, #F300AD 100%)",
+                          "data-type": "leaf"
+                        },
+                        ""
+                      ]
+                    ],
+                    [
+                      "img",
+                      {
+                        "uuid": "mq7i1utwou7zr9pry5e",
+                        "name": "add-group-copy.png",
+                        "size": 6127,
+                        "width": 27,
+                        "height": 27,
+                        "src": "/core/api/resources/img/5eecdaf48460cde558f7e844b237f77c8268d4d46097194675b8339e1c4c24831b75b38faadcd24bec177c308ebd5304f69cebe40282f4d642dd10d2f04c460afa1a4627c3f6b570ca1b0d1126cbd17c8ba03316219984a84fb4c8ed7016461c",
+                        "extraData": {
+                          "resourceId": "860a63a2-27ea-43e8-b705-7d637f61c6dc",
+                          "metaData": {
+                            "size": 6127,
+                            "originWidth": 200,
+                            "originHeight": 200,
+                            "format": "png",
+                            "ratio": 1
+                          }
+                        },
+                        "rotation": 0
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "text"
+                        },
+                        [
+                          "span",
+                          {
+                            "data-type": "leaf"
+                          },
+                          ""
+                        ]
+                      ]
+                    ],
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "leaf"
+                        },
+                        " "
+                      ],
+                      [
+                        "span",
+                        {
+                          "bold": true,
+                          "sz": 14,
+                          "szUnit": "pt",
+                          "color": "linear-gradient(90deg, #FF7100 0%, #F300AD 100%)",
+                          "data-type": "leaf"
+                        },
+                        "加群反馈使用问题"
+                      ]
+                    ]
+                  ],
+                  [
+                    "p",
+                    {
+                      "uuid": "mk6k3jx1b4t1r00u9xe"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "sz": 12,
+                          "szUnit": "pt",
+                          "color": "rgb(13, 18, 57)",
+                          "data-type": "leaf"
+                        },
+                        "如您在使用过程中遇到问题，或有任何产品优化建议，欢迎加入"
+                      ]
+                    ],
+                    [
+                      "span",
+                      {
+                        "uuid": "mk6l2uihsih8me4akgd",
+                        "code": "向右",
+                        "newCode": {
+                          "type": "dingding",
+                          "id": "emotion_143",
+                          "name": "[向右]",
+                          "url": "https://g.alicdn.com/dingding/emotion-assets/0.76.0/mobile/emotion_143.png"
+                        },
+                        "data-type": "emoji"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "text"
+                        },
+                        [
+                          "span",
+                          {
+                            "highlight": null,
+                            "sz": 12,
+                            "szUnit": "pt",
+                            "color": "rgb(13, 18, 57)",
+                            "data-type": "leaf"
+                          },
+                          ""
+                        ]
+                      ]
+                    ],
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "sz": 12,
+                          "szUnit": "pt",
+                          "color": "rgb(13, 18, 57)",
+                          "data-type": "leaf"
+                        },
+                        "右侧钉钉答疑群，我们将安排专人跟进处理，感谢您的理解与支持！"
+                      ]
+                    ]
+                  ]
+                ],
+                [
+                  "tc",
+                  {
+                    "fill": "#FFFFFF",
+                    "vAlign": "top",
+                    "uuid": "mk6k2v4m3yiijvy7o28",
+                    "rowSpan": 1,
+                    "colSpan": 1
+                  },
+                  [
+                    "card",
+                    {
+                      "cardType": "groupChatCard",
+                      "metadata": {
+                        "id": "63392278166",
+                        "name": "【竞争航线】人群推广内测4群",
+                        "inviteUrl": "https://qr.dingtalk.com/action/joingroup?code=v1,k1,HkbQWWfYAZuwX046cTKbXpVvcDXOBg1lXqKUjMtwnBY=&_dt_no_comment=1&origin=5",
+                        "expires": 1812597534
+                      },
+                      "uuid": "mq6ikx9r8t6f3mw310c",
+                      "jc": "center"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "leaf"
+                        },
+                        ""
+                      ]
+                    ]
+                  ]
+                ]
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mq6if0k8uknow3ht0r9"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ]
+        ],
+        "footers": {},
+        "version": 1
+      },
+      "refs": {}
+    }
+  }
+}

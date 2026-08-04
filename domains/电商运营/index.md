@@ -2,7 +2,7 @@
 title: 电商运营知识域
 type: source-summary
 created: 2026-06-14
-updated: 2026-07-29
+updated: 2026-08-03
 domain: 电商运营
 tags: [ecommerce, knowledge-base]
 sources:
@@ -12,6 +12,8 @@ sources:
   - _meta/extraction-notes/douyin-ecommerce-bootcamp-2026/coverage-matrix.md
   - raw/articles/agent-driven-ecommerce-cli-methodology-2026-07-29/source-evidence.md
   - _meta/extraction-notes/agent-driven-ecommerce-cli-methodology-2026-07-29/coverage-matrix.md
+  - raw/webpages/taobao/ai-keyword-selection-2026-08-03/content.md
+  - _meta/extraction-notes/ai-keyword-selection-2026-08-03/coverage-matrix.md
 status: active
 ---
 
@@ -49,6 +51,9 @@ status: active
 - [[domains/电商运营/02-淘宝天猫/04-达摩盘AI/index|达摩盘 AI]]：达摩盘/DMP AI 内部工具、数据资产、竞品销售/推广/搜索词/人群数据挖掘路线和边界测试。
 - [[domains/电商运营/02-淘宝天猫/05-淘宝付费投放与全站推广/index|淘宝付费投放与全站推广]]：基于山峰组253期6-14课程，沉淀全站推广、打款放量、链接发散、人群素材测试、短视频拉新和收割配合。
 - [[domains/电商运营/02-淘宝天猫/06-淘宝智能推广与人群运营系统/index|淘宝智能推广与人群运营系统]]：基于山峰组259期6-15/6-16课程，沉淀店铺模型、人群资产、转化周期、标准/智能计划、搜索卡位、流量金卡、人群推广、空烧互抢和报表诊断。
+- [[domains/电商运营/02-淘宝天猫/万相台无界白皮书/index|万相台无界白皮书]]：阿里官方万相台无界说明书、产品规则、操作步骤、UI 证据和时效性限制。
+- [[domains/电商运营/02-淘宝天猫/万相台无界白皮书/01-关键词推广/index|万相台无界关键词推广]]：AI点睛、AI选词及后续预算、选品、选人、计划类型和洞察工具的官方资料入口。
+- [[queries/淘宝AI点睛关键词推广|淘宝 AI点睛关键词推广]]：Agent 回答 AI点睛适用性、流量诉求、需求管理、屏蔽词和报表口径前的读取入口。
 
 ## 03 京东
 

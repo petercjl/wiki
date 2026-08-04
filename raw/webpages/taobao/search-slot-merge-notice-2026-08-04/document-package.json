@@ -1,0 +1,726 @@
+{
+  "version": 1,
+  "type": "application/x-alidocs-package",
+  "main": "00000000-0000-0000-0000-000000000001",
+  "plugins": "00000000-0000-0000-0000-000000000002",
+  "parts": {
+    "00000000-0000-0000-0000-000000000001": {
+      "id": "00000000-0000-0000-0000-000000000001",
+      "type": "application/x-alidocs-word",
+      "version": 1,
+      "data": {
+        "style": {
+          "docDefaults": {
+            "type": "paragraph",
+            "default": 1,
+            "name": "dingdocnormal",
+            "data": {
+              "rPr": {
+                "sz": 12,
+                "szUnit": "pt"
+              },
+              "pPr": {
+                "spacing": {
+                  "before": 10,
+                  "after": 10
+                }
+              }
+            }
+          }
+        },
+        "theme": [],
+        "settings": {
+          "titleCover": {
+            "isHide": true
+          }
+        },
+        "app": {},
+        "numberings": {},
+        "headers": {},
+        "body": [
+          "root",
+          {
+            "sectPr": {
+              "pgSz": {
+                "w": 892,
+                "h": 1127
+              },
+              "pgMar": {
+                "top": 48,
+                "bottom": 48,
+                "left": 72,
+                "right": 72,
+                "header": 56.73,
+                "footer": 66.13,
+                "gutter": 0
+              }
+            },
+            "theme": {
+              "table": {
+                "tableCell": {
+                  "vAlign": "top"
+                }
+              }
+            }
+          },
+          [
+            "container",
+            {
+              "subType": "colorBlocks",
+              "metadata": {
+                "padding": {
+                  "top": 11,
+                  "right": 11,
+                  "bottom": 11,
+                  "left": 11
+                },
+                "borderRadius": 8,
+                "bgcolor": "linear-gradient(316deg, #FCEFF3 -13%, #FFFEFE 52%, #F4B9CD 125%)",
+                "showstk": false
+              },
+              "uuid": "mfaj186zq9yivkoaeb9"
+            },
+            [
+              "p",
+              {
+                "uuid": "mfaj15cjn6p0cp8yuf",
+                "ind": {
+                  "firstLine": 32
+                },
+                "jc": "center"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "bold": true,
+                    "fonts": {
+                      "ascii": "\"Alibaba PuHuiTi 3.0\"",
+                      "hAnsi": "\"Alibaba PuHuiTi 3.0\"",
+                      "cs": "\"Alibaba PuHuiTi 3.0\"",
+                      "eastAsia": "\"Alibaba PuHuiTi 3.0\""
+                    },
+                    "sz": 16,
+                    "szUnit": "pt",
+                    "color": "linear-gradient(90deg, #FF7100 0%, #F300AD 100%)",
+                    "data-type": "leaf"
+                  },
+                  "【重要通知】"
+                ]
+              ]
+            ],
+            [
+              "p",
+              {
+                "uuid": "m9ghltauzv90ix05ow8",
+                "ind": {
+                  "firstLine": 32
+                },
+                "jc": "center"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "fonts": {
+                      "ascii": "\"Alibaba PuHuiTi 3.0\"",
+                      "cs": "\"Alibaba PuHuiTi 3.0\"",
+                      "eastAsia": "\"Alibaba PuHuiTi 3.0\"",
+                      "hAnsi": "\"Alibaba PuHuiTi 3.0\""
+                    },
+                    "sz": 16,
+                    "szUnit": "pt",
+                    "color": "linear-gradient(90deg, #FF7100 0%, #F300AD 100%)",
+                    "data-type": "leaf"
+                  },
+                  "自定义推广-抢占卡位目标合并到关键词推广-搜索卡位"
+                ]
+              ]
+            ],
+            [
+              "p",
+              {
+                "uuid": "m9gps5quxwrsdo2q7rs",
+                "ind": {}
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "fonts": {
+                      "ascii": "\"Alibaba PuHuiTi 3.0\"",
+                      "hAnsi": "\"Alibaba PuHuiTi 3.0\"",
+                      "cs": "\"Alibaba PuHuiTi 3.0\"",
+                      "eastAsia": "\"Alibaba PuHuiTi 3.0\""
+                    },
+                    "data-type": "leaf"
+                  },
+                  "尊敬的商家朋友："
+                ]
+              ]
+            ],
+            [
+              "p",
+              {
+                "uuid": "mdh2kstu1nl0os8wwe1j",
+                "ind": {
+                  "firstLine": 32
+                }
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "bold": false,
+                    "fonts": {
+                      "ascii": "\"Alibaba PuHuiTi 3.0\"",
+                      "hAnsi": "\"Alibaba PuHuiTi 3.0\"",
+                      "cs": "\"Alibaba PuHuiTi 3.0\"",
+                      "eastAsia": "\"Alibaba PuHuiTi 3.0\""
+                    },
+                    "sz": 12,
+                    "szUnit": "pt",
+                    "data-type": "leaf"
+                  },
+                  "为了提升商家朋友的操作体验，减少对功能的理解误差，原关键词推广-自定义推广-抢占搜索卡位目标，与关键词推广-搜索卡位合并，后续您有相关使用需求，请前往关键词推广-搜索卡位新建计划使用"
+                ],
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  "。"
+                ],
+                [
+                  "span",
+                  {
+                    "fonts": {
+                      "ascii": "\"Alibaba PuHuiTi 3.0\"",
+                      "hAnsi": "\"Alibaba PuHuiTi 3.0\"",
+                      "cs": "\"Alibaba PuHuiTi 3.0\"",
+                      "eastAsia": "\"Alibaba PuHuiTi 3.0\""
+                    },
+                    "data-type": "leaf"
+                  },
+                  "我们将持续为"
+                ],
+                [
+                  "span",
+                  {
+                    "bold": false,
+                    "fonts": {
+                      "ascii": "\"Alibaba PuHuiTi 3.0\"",
+                      "hAnsi": "\"Alibaba PuHuiTi 3.0\"",
+                      "cs": "\"Alibaba PuHuiTi 3.0\"",
+                      "eastAsia": "\"Alibaba PuHuiTi 3.0\""
+                    },
+                    "sz": 12,
+                    "szUnit": "pt",
+                    "data-type": "leaf"
+                  },
+                  "您提供更高效、极致的推广体验，感谢您的配合和支持！"
+                ]
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mfaj8enf2y1z0oxjgay",
+              "ind": {
+                "firstLine": 32
+              },
+              "jc": "center"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 3.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 3.0\"",
+                    "cs": "\"Alibaba PuHuiTi 3.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 3.0\""
+                  },
+                  "sz": 16,
+                  "szUnit": "pt",
+                  "color": "linear-gradient(90deg, #FF7100 0%, #F300AD 100%)",
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mfaiyzmsbzvd4pqu8tr"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": false,
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 3.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 3.0\"",
+                    "cs": "\"Alibaba PuHuiTi 3.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 3.0\""
+                  },
+                  "sz": 11,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "h3",
+            {
+              "uuid": "mdh2q09irapmu01uai",
+              "spacing": {
+                "before": 18.666666666666664,
+                "after": 8,
+                "line": 0.8529411764705882
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 14,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "常见问题"
+              ]
+            ]
+          ],
+          [
+            "h4",
+            {
+              "uuid": "mdh2q4iduhj6offacl",
+              "spacing": {
+                "before": 16,
+                "after": 8,
+                "line": 0.8529411764705882
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 3.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 3.0\"",
+                    "cs": "\"Alibaba PuHuiTi 3.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 3.0\""
+                  },
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "Q1：原先在自定义推广的存量抢占搜索卡位计划，是否会有影响？"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mdh2qf5achigs3kf485"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": false,
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 3.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 3.0\"",
+                    "cs": "\"Alibaba PuHuiTi 3.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 3.0\""
+                  },
+                  "sz": 11,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "A：原有存量计划，投放效果不受影响。"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mdh3sx7xi07av6fy8f"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 3.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 3.0\"",
+                    "cs": "\"Alibaba PuHuiTi 3.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 3.0\""
+                  },
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "h4",
+            {
+              "uuid": "m99dpxuxii9mhd6ka9c",
+              "spacing": {
+                "before": 16,
+                "after": 8,
+                "line": 0.8529411764705882
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 3.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 3.0\"",
+                    "cs": "\"Alibaba PuHuiTi 3.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 3.0\""
+                  },
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "Q2：后续我想使用搜索卡位计划，在哪里可以使用？"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mfaj9gr2h948fsanoxp"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "A：关键词推广——搜索卡位"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mfaj9s7296hgi83mjio"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ],
+            [
+              "img",
+              {
+                "uuid": "mfet6radgl3l6068nmm",
+                "name": "image.png",
+                "size": 300164,
+                "width": 748,
+                "height": 219.43725019984012,
+                "src": "/core/api/resources/img/5eecdaf48460cde5a981760f349c755a66812622944fb83175b8339e1c4c24831b75b38faadcd24bec177c308ebd530458a450c65e1f7f19a84f8a4385673715d98a0e8c52e7935968820b4ccfe405acdd69a36384faae964fb4c8ed7016461c",
+                "extraData": {
+                  "resourceId": "970d4f86-7b84-4795-a79b-00c734f3c46c",
+                  "metaData": {
+                    "size": 300164,
+                    "originWidth": 1251,
+                    "originHeight": 367,
+                    "format": "png",
+                    "ratio": 1
+                  }
+                }
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mfajalf9giaysh17l3g"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mdh3t1ns4ti699zwvlo"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 3.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 3.0\"",
+                    "cs": "\"Alibaba PuHuiTi 3.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 3.0\""
+                  },
+                  "sz": 11,
+                  "szUnit": "pt",
+                  "color": "rgb(23, 26, 29)",
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "h4",
+            {
+              "uuid": "mdh3bv3ls28ry5tptze",
+              "spacing": {
+                "before": 16,
+                "after": 8,
+                "line": 0.8529411764705882
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 3.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 3.0\"",
+                    "cs": "\"Alibaba PuHuiTi 3.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 3.0\""
+                  },
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "Q3：搜索卡位有问题，如何沟通？"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "m9ibladpmuge1xaww9"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 3.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 3.0\"",
+                    "cs": "\"Alibaba PuHuiTi 3.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 3.0\""
+                  },
+                  "sz": 11,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "A：请加入钉"
+              ],
+              [
+                "span",
+                {
+                  "bold": false,
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 3.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 3.0\"",
+                    "cs": "\"Alibaba PuHuiTi 3.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 3.0\""
+                  },
+                  "sz": 11,
+                  "szUnit": "pt",
+                  "color": "rgb(23, 26, 29)",
+                  "data-type": "leaf"
+                },
+                "钉群【"
+              ],
+              [
+                "span",
+                {
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 3.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 3.0\"",
+                    "cs": "\"Alibaba PuHuiTi 3.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 3.0\""
+                  },
+                  "sz": 11,
+                  "szUnit": "pt",
+                  "color": "rgb(23, 26, 29)",
+                  "data-type": "leaf"
+                },
+                "118415003395"
+              ],
+              [
+                "span",
+                {
+                  "bold": false,
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 3.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 3.0\"",
+                    "cs": "\"Alibaba PuHuiTi 3.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 3.0\""
+                  },
+                  "sz": 11,
+                  "szUnit": "pt",
+                  "color": "rgb(23, 26, 29)",
+                  "data-type": "leaf"
+                },
+                "】"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mfaiyzttw6y6sbkrvon"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": false,
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 3.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 3.0\"",
+                    "cs": "\"Alibaba PuHuiTi 3.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 3.0\""
+                  },
+                  "sz": 11,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ]
+        ],
+        "footers": {},
+        "version": 1
+      },
+      "refs": {}
+    }
+  }
+}

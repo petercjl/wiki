@@ -1,0 +1,1162 @@
+{
+  "version": 1,
+  "type": "application/x-alidocs-package",
+  "main": "00000000-0000-0000-0000-000000000001",
+  "plugins": "00000000-0000-0000-0000-000000000002",
+  "parts": {
+    "00000000-0000-0000-0000-000000000001": {
+      "id": "00000000-0000-0000-0000-000000000001",
+      "type": "application/x-alidocs-word",
+      "version": 1,
+      "data": {
+        "style": {
+          "docDefaults": {
+            "type": "paragraph",
+            "default": 1,
+            "name": "dingdocnormal",
+            "data": {
+              "rPr": {
+                "sz": 12,
+                "szUnit": "pt"
+              },
+              "pPr": {
+                "spacing": {
+                  "before": 12,
+                  "after": 12
+                }
+              }
+            }
+          },
+          "tableDefault": {
+            "type": "table",
+            "data": {
+              "tblPr": {
+                "bdr": {
+                  "bottom": {
+                    "color": "#D6D6D6",
+                    "space": 0,
+                    "sz": 1,
+                    "val": "single"
+                  },
+                  "insideH": {
+                    "color": "#D6D6D6",
+                    "space": 0,
+                    "sz": 1,
+                    "val": "single"
+                  },
+                  "insideV": {
+                    "color": "#D6D6D6",
+                    "space": 0,
+                    "sz": 1,
+                    "val": "single"
+                  },
+                  "left": {
+                    "color": "#D6D6D6",
+                    "space": 0,
+                    "sz": 1,
+                    "val": "single"
+                  },
+                  "right": {
+                    "color": "#D6D6D6",
+                    "space": 0,
+                    "sz": 1,
+                    "val": "single"
+                  },
+                  "top": {
+                    "color": "#D6D6D6",
+                    "space": 0,
+                    "sz": 1,
+                    "val": "single"
+                  }
+                }
+              }
+            }
+          },
+          "tableHeader": {
+            "type": "table",
+            "basedOn": "tableDefault",
+            "data": {
+              "tblStylePr": [
+                {
+                  "type": "firstRow",
+                  "tcPr": {
+                    "shd": {
+                      "fill": "#F5F6F7"
+                    }
+                  }
+                },
+                {
+                  "type": "firstCol",
+                  "tcPr": {
+                    "shd": {
+                      "fill": "#F5F6F7"
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        "theme": [],
+        "settings": {
+          "titleCover": {
+            "isHide": true
+          }
+        },
+        "app": {},
+        "numberings": {},
+        "headers": {},
+        "body": [
+          "root",
+          {
+            "sectPr": {
+              "pgSz": {
+                "w": 892,
+                "h": 1127
+              },
+              "pgMar": {
+                "top": 48,
+                "bottom": 48,
+                "left": 72,
+                "right": 72,
+                "header": 56.73,
+                "footer": 66.13,
+                "gutter": 0
+              }
+            },
+            "theme": {
+              "table": {
+                "tableCell": {
+                  "vAlign": "top"
+                }
+              }
+            }
+          },
+          [
+            "p",
+            {
+              "uuid": "mq6g9fhra4c17rg5098"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "尊敬的商家："
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mq6g9fhr72dhf1lnvs"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "您好！"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mq6g9fhr5jm5nc11rf6"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "为进一步优化平台资源配置，提升线索推广服务效率，阿里妈妈线索推广平台将于 "
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "data-type": "leaf"
+                },
+                "2026年6月30日"
+              ],
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                " 起对旺旺留资卡片回收规则进行升级调整："
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "data-type": "leaf"
+                },
+                "回收判定窗口由原来的\"连续7天无消耗\""
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 14,
+                  "szUnit": "pt",
+                  "color": "#E03E3E",
+                  "data-type": "leaf"
+                },
+                "放宽至\"近180天无消耗\"。"
+              ]
+            ]
+          ],
+          [
+            "table",
+            {
+              "colsWidth": [
+                244,
+                244,
+                244
+              ],
+              "tblW": {
+                "type": "pct"
+              },
+              "styleId": "tableHeader",
+              "tblLook": {
+                "firstRow": 1,
+                "lastRow": 0,
+                "firstColumn": 0,
+                "lastColumn": 0
+              },
+              "uuid": "mq6fqvpwcpyxbvkew18"
+            },
+            [
+              "tr",
+              {
+                "isTblHeader": true,
+                "uuid": "mq6fqvpw0s2v495ut3t"
+              },
+              [
+                "tc",
+                {
+                  "rowSpan": 1,
+                  "colSpan": 1,
+                  "uuid": "mq6fqvpx5ow4lk9tia9",
+                  "vAlign": "middle",
+                  "fill": "linear-gradient(316deg, #FEF3F3 -13%, #FFFEFE 52%, #F2BABA 125%)"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mq6fqvpxbyw2h8579gv"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "color": "#222328",
+                        "data-type": "leaf"
+                      },
+                      "项目"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "rowSpan": 1,
+                  "colSpan": 1,
+                  "uuid": "mq6fqvpx9tfyokn9ich",
+                  "vAlign": "middle",
+                  "fill": "linear-gradient(316deg, #FEF3F3 -13%, #FFFEFE 52%, #F2BABA 125%)"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mq6fqvpx83lc27qudl2"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "color": "#222328",
+                        "data-type": "leaf"
+                      },
+                      "原规则（6月30日前）"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "rowSpan": 1,
+                  "colSpan": 1,
+                  "uuid": "mq6fqvpy7cvvg32aher",
+                  "vAlign": "middle",
+                  "fill": "linear-gradient(316deg, #FEF3F3 -13%, #FFFEFE 52%, #F2BABA 125%)"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mq6fqvpy7e5xwlxpgg3"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "color": "#222328",
+                        "data-type": "leaf"
+                      },
+                      "新规则（7月1日后）"
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {
+                "uuid": "mq6fqvpyabdu4c95k1c"
+              },
+              [
+                "tc",
+                {
+                  "rowSpan": 1,
+                  "colSpan": 1,
+                  "uuid": "mq6fqvpytaiky9icrii",
+                  "vAlign": "middle"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mq6fqvpypodaew8gpu"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "data-type": "leaf"
+                      },
+                      "回收触发条件"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "rowSpan": 1,
+                  "colSpan": 1,
+                  "uuid": "mq6fqvpyh43ut0aqp2",
+                  "vAlign": "middle"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mq6fqvpzs2m1nb4e6bb"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "连续7天无线索推广场景消耗"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "rowSpan": 1,
+                  "colSpan": 1,
+                  "uuid": "mq6fqvpzt532kdsnm0n",
+                  "vAlign": "middle"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mq6fqvpzd9s08zgbxln"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "近180天无线索推广场景消耗"
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {
+                "uuid": "mq6fqvpz1mdh1qlz8hu"
+              },
+              [
+                "tc",
+                {
+                  "rowSpan": 1,
+                  "colSpan": 1,
+                  "uuid": "mq6fqvpzx44gb5q4a6",
+                  "vAlign": "middle"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mq6fqvpzlityaetz1co"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "data-type": "leaf"
+                      },
+                      "回收生效时间"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "rowSpan": 1,
+                  "colSpan": 1,
+                  "uuid": "mq6fqvpz80ghpeijwi",
+                  "vAlign": "middle"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mq6fqvpzfyyytbubfsa"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "次日回收卡片发送权限"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "rowSpan": 1,
+                  "colSpan": 1,
+                  "uuid": "mq6fqvpzsb5x1i16eed",
+                  "vAlign": "middle"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mq6fqvq0hwz34tascb9"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "次日回收卡片发送权限"
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {
+                "uuid": "mq6fqvq0rb5y0eabt2"
+              },
+              [
+                "tc",
+                {
+                  "rowSpan": 1,
+                  "colSpan": 1,
+                  "uuid": "mq6fqvq011xpzy8pdub",
+                  "vAlign": "middle"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mq6fqvq0mxzxgqcwhq"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "data-type": "leaf"
+                      },
+                      "权限恢复方式"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "rowSpan": 1,
+                  "colSpan": 1,
+                  "uuid": "mq6fqvq0f93plgb3j89",
+                  "vAlign": "middle"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mq6fqvq0lij2f4vq5qs"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "产生消耗后次日自动恢复"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "rowSpan": 1,
+                  "colSpan": 1,
+                  "uuid": "mq6fqvq0o97o9pwc2f",
+                  "vAlign": "middle"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mq6fqvq1nz99yzdrb0e"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "产生消耗后次日自动恢复"
+                    ]
+                  ]
+                ]
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mq6g9fhshkx7n4jejf"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "经系统检测，您的账户在近180天内无线索推广场景消耗记录，但仍持有旺旺留资卡片使用权限。根据新规则，"
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 14,
+                  "szUnit": "pt",
+                  "color": "#E03E3E",
+                  "data-type": "leaf"
+                },
+                "您的旺旺留资卡片权限将于7月1日被自动回收，"
+              ],
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "届时您将无法通过商家手动发送、消费者手动触发、消费者语义识别等方式向消费者发送留资卡片，消费者将无法通过官方合规渠道留下联系方式。"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mq6g9fhs2oeldj1uj42"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "平台为您预留了 "
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 14,
+                  "szUnit": "pt",
+                  "color": "#E03E3E",
+                  "data-type": "leaf"
+                },
+                "1周的调整窗口期（即日起至2026年6月30日）"
+              ],
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "。在此期间，您只需在线索推广场景产生任意一笔消耗（金额不限），系统将于次日自动保留您的卡片使用权限。"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mq6g9fhsr3x82jp7uf9"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "data-type": "leaf"
+                },
+                "商家操作路径：万相台·AI无界 - 线索推广 - 新建计划 - 投放并产生消耗"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mq6g9fhsu7jivi8nuek"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "若卡片权限已被回收，后续在线索推广场景产生消耗（消耗大于0）后，系统将于次日自动恢复卡片使用权限，无需额外申请。已收集的线索数据不受影响，仍可在客户工作台正常查看和使用。"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mq6g9fhsbgt742q2hh"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "由此给您带来的不便，我们深表歉意。如有任何疑问，欢迎联系钉钉咨询群 "
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "data-type": "leaf"
+                },
+                "184000002543"
+              ],
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                " 或阿里妈妈客服团队获取帮助。感谢您的支持！"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mq6g9fhs21kqgeni90t"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mq6gez4pkjnbgokjnfo"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "data-type": "leaf"
+                },
+                "阿里妈妈·线索推广运营团队2026年6月16日"
+              ]
+            ]
+          ],
+          [
+            "hr",
+            {
+              "width": "100%",
+              "id": "8zrzla",
+              "uuid": "mq6gits2rvm4kzv6fq"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "h1",
+            {
+              "uuid": "m9gudwar1fe2zjwvo9b",
+              "ind": {
+                "left": 0
+              },
+              "spacing": {
+                "before": 32,
+                "after": 12,
+                "line": 0.8615384615384615
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 21,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "什么是旺旺留资卡片？"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "megxv6iiqjt4gjp42g",
+              "ind": {
+                "firstLine": 32
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "旺旺留资卡片是为投放阿里妈妈【线索推广】的商家提供的线索收集工具。主要解决旺旺咨询场景下，消费者联系方式填写低效，商家无线索收集能力的问题。"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "megxtz9w78tkwu0x3q6",
+              "ind": {
+                "firstLine": 32
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": false,
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "目前淘宝网正在严格治理“诱导第三方”违规行为，后续将不允许在旺旺种引导发送微信、电话、外部链接。"
+              ],
+              [
+                "span",
+                {
+                  "bold": false,
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "#E03E3E",
+                  "data-type": "leaf"
+                },
+                "阿里妈妈-线索推广提供官方留资渠道（旺旺留资卡片）"
+              ],
+              [
+                "span",
+                {
+                  "bold": false,
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "，"
+              ],
+              [
+                "span",
+                {
+                  "bold": false,
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "#E03E3E",
+                  "data-type": "leaf"
+                },
+                "消费者通过这些渠道留下的手机号，全部签署过消费者信息授权协议，均为合规获取。只有使用线索推广的旺咨卡片不会命中处罚，其余直接在旺旺语聊里直接要微信、电话均有违规风险！"
+              ]
+            ]
+          ],
+          [
+            "table",
+            {
+              "colsWidth": [
+                325,
+                325
+              ],
+              "sr": true,
+              "uuid": "m8r4tgkkumqo4gd3xx"
+            },
+            [
+              "tr",
+              {
+                "uuid": "m8r4tgkk2o5d1avu7a5"
+              },
+              [
+                "tc",
+                {
+                  "fill": "#E8F2FE",
+                  "vAlign": "top",
+                  "uuid": "m8r4tgkkxndbd4dyxcc",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                [
+                  "p",
+                  {
+                    "ind": {
+                      "left": 0
+                    },
+                    "uuid": "m8r4tiji5tpfxqx7wm3"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "data-type": "leaf"
+                      },
+                      "卡片样式-消费者视角"
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "ind": {
+                      "left": 0
+                    },
+                    "uuid": "m8r4sn2ivoxzjb6fs2m"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ],
+                  [
+                    "img",
+                    {
+                      "src": "/core/api/resources/img/5eecdaf48460cde57cc68cdb7652d6bc30c6ea0fd57618f658e70b814913bc360a414d3de9277d871abf3af1cbd75249a94dd00aa652a16486cc03397140d5a4429d2edc4a22590ceb0a891bd8b848e489da6e2209815eccfc653b69905bac42",
+                      "width": 251,
+                      "height": 317.66023738872406,
+                      "uuid": "mq6gheuzkdcm5u5y8mp",
+                      "extraData": {
+                        "resourceId": "5c4e712b-3081-4a72-8248-8b879caa562c",
+                        "metaData": {
+                          "size": 780163,
+                          "originWidth": 674,
+                          "originHeight": 853,
+                          "format": "png",
+                          "ratio": 1
+                        }
+                      },
+                      "rotation": 0
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "leaf"
+                        },
+                        ""
+                      ]
+                    ]
+                  ],
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "fill": "#FFFAE5",
+                  "vAlign": "top",
+                  "uuid": "m8r4tgkkvfm2f4f9ra",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                [
+                  "p",
+                  {
+                    "ind": {
+                      "left": 0
+                    },
+                    "uuid": "m8r4tls92630vdivv7n"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "data-type": "leaf"
+                      },
+                      "卡片样式-商家视角"
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "ind": {
+                      "left": 0
+                    },
+                    "uuid": "m8r4sn2is9g6t69kpjb"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ],
+                  [
+                    "img",
+                    {
+                      "src": "/core/api/resources/img/5eecdaf48460cde57cc68cdb7652d6bc30c6ea0fd57618f658e70b814913bc360a414d3de9277d871abf3af1cbd7524916c7c96c52c1faca15f9d83f3b2ccc09a7b2361c0245898b8d8a8418eed7c1716c792bd1d0264f70fc653b69905bac42",
+                      "width": 605,
+                      "height": 416.8828125,
+                      "uuid": "mq6gheuzrmsyrl33ru",
+                      "extraData": {
+                        "resourceId": "05fd1f94-e0bd-421c-84b9-533e44f58677",
+                        "metaData": {
+                          "size": 2696404,
+                          "originWidth": 1730,
+                          "originHeight": 1192,
+                          "format": "png",
+                          "ratio": 1
+                        }
+                      }
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "leaf"
+                        },
+                        ""
+                      ]
+                    ]
+                  ],
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ]
+                ]
+              ]
+            ]
+          ]
+        ],
+        "footers": {},
+        "version": 1
+      },
+      "refs": {}
+    }
+  }
+}

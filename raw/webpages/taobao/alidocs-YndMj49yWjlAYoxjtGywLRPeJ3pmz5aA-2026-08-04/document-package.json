@@ -1,0 +1,1207 @@
+{
+  "version": 1,
+  "type": "application/x-alidocs-package",
+  "main": "00000000-0000-0000-0000-000000000001",
+  "plugins": "00000000-0000-0000-0000-000000000002",
+  "parts": {
+    "00000000-0000-0000-0000-000000000001": {
+      "id": "00000000-0000-0000-0000-000000000001",
+      "type": "application/x-alidocs-word",
+      "version": 1,
+      "data": {
+        "style": {},
+        "theme": [],
+        "settings": {},
+        "app": {},
+        "numberings": {},
+        "headers": {},
+        "body": [
+          "root",
+          {},
+          [
+            "p",
+            {
+              "uuid": "m95szd57c1ar8d6mt1u"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "italic": true,
+                  "color": "#D0D0D0",
+                  "data-type": "leaf"
+                },
+                "原语雀文档链接："
+              ]
+            ],
+            [
+              "a",
+              {
+                "href": "https://yuque.antfin.com/chenchun.chen/gqhty9/dxmihwlqpga7n3q0"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  "https://yuque.antfin.com/chenchun.chen/gqhty9/dxmihwlqpga7n3q0"
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "hr",
+            {
+              "color": "#D8D8D8",
+              "sz": 2,
+              "type": "single",
+              "width": "100%"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "h3",
+            {},
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "一、扣费逻辑"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {},
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "系统会根据您的投放计划来匹配与您营销目标相符合的人群，当流量通过超级直播的渠道点击进入直播间后，系统会对在您直播间停留3-5s以上的人群计费。此外，超级直播扣费遵循末次渠道归因，即转化周期内超级直播广告作为最后一个触点被消费者点击，该消费者才会算作被超级直播触达和扣费。"
+              ]
+            ]
+          ],
+          [
+            "h3",
+            {},
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "二、直播中控台数据不一致"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {},
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "直播中控台和超级直播数据后台的统计维度不一致："
+              ]
+            ]
+          ],
+          [
+            "p",
+            {},
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "color": "#E8323C",
+                  "data-type": "leaf"
+                },
+                "超级直播后台"
+              ],
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "记录的观看次数是有效观看，超级直播的很多资源位，比如猜你喜欢、直播广场的资源位是需要流量点击进入直播间才算一个有效观看，直播间上下滑动的资源位需要流量在直播间停留满5秒才算一个有效观看；"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {},
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "color": "#E8323C",
+                  "data-type": "leaf"
+                },
+                "直播中控台"
+              ],
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "统计的是所有的广告流量，包括「未被3秒计费」的上下滑流量。"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {},
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "建议投放超级直播的商家以超级直播后台报表数据为准。"
+              ]
+            ]
+          ],
+          [
+            "h3",
+            {},
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "三、消耗/成本异常"
+              ]
+            ]
+          ],
+          [
+            "h4",
+            {},
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "color": "var(--larkx-editor-text-color)",
+                  "data-type": "leaf"
+                },
+                "一、计划跑不出去（即消耗过慢）"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {},
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 11,
+                  "szUnit": "pt",
+                  "color": "#f5222d",
+                  "data-type": "leaf"
+                },
+                "先自查"
+              ]
+            ],
+            [
+              "br",
+              {
+                "type": "textWrapping"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 11,
+                  "szUnit": "pt",
+                  "color": "var(--larkx-editor-text-color)",
+                  "data-type": "leaf"
+                },
+                "1检查余额和预算是否充足"
+              ]
+            ],
+            [
+              "br",
+              {
+                "type": "textWrapping"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 11,
+                  "szUnit": "pt",
+                  "color": "var(--larkx-editor-text-color)",
+                  "data-type": "leaf"
+                },
+                "2检查计划状态（如是否存在限制商品）"
+              ]
+            ],
+            [
+              "br",
+              {
+                "type": "textWrapping"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 11,
+                  "szUnit": "pt",
+                  "color": "var(--larkx-editor-text-color)",
+                  "data-type": "leaf"
+                },
+                "3尝试提高出价（建议提高至1.5元以上）"
+              ]
+            ],
+            [
+              "br",
+              {
+                "type": "textWrapping"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 11,
+                  "szUnit": "pt",
+                  "color": "var(--larkx-editor-text-color)",
+                  "data-type": "leaf"
+                },
+                "4尝试多勾选些平台精选人群"
+              ]
+            ]
+          ],
+          [
+            "h4",
+            {},
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "color": "var(--larkx-editor-text-color)",
+                  "data-type": "leaf"
+                },
+                "二、计划消耗过快"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {},
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 11,
+                  "szUnit": "pt",
+                  "color": "#f5222d",
+                  "data-type": "leaf"
+                },
+                "先自查"
+              ]
+            ],
+            [
+              "br",
+              {
+                "type": "textWrapping"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 11,
+                  "szUnit": "pt",
+                  "color": "var(--larkx-editor-text-color)",
+                  "data-type": "leaf"
+                },
+                "1确认计划是否为均匀投放"
+              ]
+            ],
+            [
+              "br",
+              {
+                "type": "textWrapping"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 11,
+                  "szUnit": "pt",
+                  "color": "var(--larkx-editor-text-color)",
+                  "data-type": "leaf"
+                },
+                "2尝试降低出价（建议降低至0.8元）"
+              ]
+            ],
+            [
+              "br",
+              {
+                "type": "textWrapping"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 11,
+                  "szUnit": "pt",
+                  "color": "var(--larkx-editor-text-color)",
+                  "data-type": "leaf"
+                },
+                "3尝试少勾选一些平台精选人群"
+              ]
+            ]
+          ],
+          [
+            "h4",
+            {},
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "color": "var(--larkx-editor-text-color)",
+                  "data-type": "leaf"
+                },
+                "三、成本异常"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {},
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 11,
+                  "szUnit": "pt",
+                  "color": "var(--larkx-editor-text-color)",
+                  "data-type": "leaf"
+                },
+                "若商家发现照常投放，但观看成本显著提升，"
+              ]
+            ],
+            [
+              "br",
+              {
+                "type": "textWrapping"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 11,
+                  "szUnit": "pt",
+                  "color": "#f5222d",
+                  "data-type": "leaf"
+                },
+                "先自查"
+              ]
+            ],
+            [
+              "br",
+              {
+                "type": "textWrapping"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 11,
+                  "szUnit": "pt",
+                  "color": "var(--larkx-editor-text-color)",
+                  "data-type": "leaf"
+                },
+                "1确认设置成本无误"
+              ]
+            ],
+            [
+              "br",
+              {
+                "type": "textWrapping"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 11,
+                  "szUnit": "pt",
+                  "color": "var(--larkx-editor-text-color)",
+                  "data-type": "leaf"
+                },
+                "2尝试提高单日预算（预算过少可能导致算法冷启动时间长，拿量成本高）"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "m95szd58dzk7kmtny7"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ],
+            [
+              "br",
+              {
+                "type": "textWrapping"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 11,
+                  "szUnit": "pt",
+                  "color": "#f5222d",
+                  "data-type": "leaf"
+                },
+                "若自查无问题，找客服提工单"
+              ]
+            ],
+            [
+              "br",
+              {
+                "type": "textWrapping"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 11,
+                  "szUnit": "pt",
+                  "color": "var(--larkx-editor-text-color)",
+                  "data-type": "leaf"
+                },
+                "点击屏幕右下角，找客服，提交工单排查。"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {},
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ],
+            [
+              "img",
+              {
+                "height": 183,
+                "name": "",
+                "src": "https://alidocs.oss-cn-zhangjiakou.aliyuncs.com/lark/https://yuque.antfin.com/chenchun.chen/gqhty9/dxmihwlqpga7n3q0/imgHzvJWIP9dY.png",
+                "width": 333
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "m95szd58306r62scbqb"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ],
+            [
+              "br",
+              {
+                "type": "textWrapping"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ],
+            [
+              "br",
+              {
+                "type": "textWrapping"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "jc": "center"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 11,
+                  "szUnit": "pt",
+                  "color": "var(--yq-text-caption)",
+                  "data-type": "leaf"
+                },
+                "2 人点赞"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "list": {
+                "isChecked": false,
+                "isOrdered": false,
+                "isTaskList": false,
+                "level": 0,
+                "listId": "list0",
+                "listStyle": {
+                  "align": "left",
+                  "format": "bullet",
+                  "text": "●"
+                }
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ],
+            [
+              "img",
+              {
+                "height": 64,
+                "name": "",
+                "src": "https://alidocs.oss-cn-zhangjiakou.aliyuncs.com/lark/https://yuque.antfin.com/chenchun.chen/gqhty9/dxmihwlqpga7n3q0/imguIfzucPfwZ.png",
+                "width": 64
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "list": {
+                "isChecked": false,
+                "isOrdered": false,
+                "isTaskList": false,
+                "level": 0,
+                "listId": "list0",
+                "listStyle": {
+                  "align": "left",
+                  "format": "bullet",
+                  "text": "●"
+                }
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ],
+            [
+              "img",
+              {
+                "height": 600,
+                "name": "",
+                "src": "https://alidocs.oss-cn-zhangjiakou.aliyuncs.com/lark/https://yuque.antfin.com/chenchun.chen/gqhty9/dxmihwlqpga7n3q0/imgnCmC5NWfjU.png",
+                "width": 600
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "jc": "center"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 9,
+                  "szUnit": "pt",
+                  "color": "var(--yq-text-body)",
+                  "data-type": "leaf"
+                },
+                "2"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "m95szd58go6xbh3pnzh"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ],
+            [
+              "br",
+              {
+                "type": "textWrapping"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ],
+            [
+              "br",
+              {
+                "type": "textWrapping"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ]
+        ],
+        "footers": {},
+        "version": 1
+      },
+      "refs": {}
+    }
+  }
+}

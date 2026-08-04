@@ -1,0 +1,255 @@
+{
+  "version": 1,
+  "type": "application/x-alidocs-package",
+  "main": "00000000-0000-0000-0000-000000000001",
+  "plugins": "00000000-0000-0000-0000-000000000002",
+  "parts": {
+    "00000000-0000-0000-0000-000000000001": {
+      "id": "00000000-0000-0000-0000-000000000001",
+      "type": "application/x-alidocs-word",
+      "version": 1,
+      "data": {
+        "style": {},
+        "theme": [],
+        "settings": {},
+        "app": {},
+        "numberings": {},
+        "headers": {},
+        "body": [
+          "root",
+          {},
+          [
+            "p",
+            {
+              "uuid": "m95iqkp7xli7bcajm2j"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "italic": true,
+                  "color": "#D0D0D0",
+                  "data-type": "leaf"
+                },
+                "原语雀文档链接："
+              ]
+            ],
+            [
+              "a",
+              {
+                "href": "https://yuque.antfin.com/chenchun.chen/gqhty9/avwdwllmg6kertrt"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  "https://yuque.antfin.com/chenchun.chen/gqhty9/avwdwllmg6kertrt"
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "hr",
+            {
+              "color": "#D8D8D8",
+              "sz": 2,
+              "type": "single",
+              "width": "100%"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {},
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "color": "#000000",
+                  "data-type": "leaf"
+                },
+                "（1）计划开始后日限额可以随时修改吗？"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {},
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "color": "#000000",
+                  "data-type": "leaf"
+                },
+                "答：持续推广模式下，在计划开始后支持日限额的修改调整，"
+              ],
+              [
+                "span",
+                {
+                  "color": "#171a1d",
+                  "data-type": "leaf"
+                },
+                "日预算实时修改，修改后实时生效。（"
+              ],
+              [
+                "span",
+                {
+                  "color": "#CF1322",
+                  "data-type": "leaf"
+                },
+                "为保证投放效果，不建议商家一天内频繁修改日限额"
+              ],
+              [
+                "span",
+                {
+                  "color": "#171a1d",
+                  "data-type": "leaf"
+                },
+                "）"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {},
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "color": "#171a1d",
+                  "data-type": "leaf"
+                },
+                "（2）为什么今日消耗没有达到我设置的日预算呢？"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {},
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "color": "#171a1d",
+                  "data-type": "leaf"
+                },
+                "答：系统会尽量按您设置的日预算限额进行消耗，但由于大盘流量实时变化，最终消耗可能和您的日预算限额存在偏差，以实际为准。"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {},
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "color": "#171a1d",
+                  "data-type": "leaf"
+                },
+                "（3）我本来的计划可以持续投放或者投中暂停吗？"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {},
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "color": "#171a1d",
+                  "data-type": "leaf"
+                },
+                "答："
+              ],
+              [
+                "span",
+                {
+                  "color": "#F5222D",
+                  "data-type": "leaf"
+                },
+                "仅持续推广类型计划"
+              ],
+              [
+                "span",
+                {
+                  "color": "#171a1d",
+                  "data-type": "leaf"
+                },
+                "支持设置日限额持续投放和投中暂停，原有的套餐包类型计划不支持随时暂停和续投。"
+              ]
+            ]
+          ]
+        ],
+        "footers": {},
+        "version": 1
+      },
+      "refs": {}
+    }
+  }
+}

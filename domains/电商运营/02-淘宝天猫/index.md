@@ -1,10 +1,16 @@
 ---
 title: 淘宝天猫
-type: domains/视觉制作/05-小红书风格AI生图/index
+type: source-summary
 created: 2026-06-14
-updated: 2026-06-26
+updated: 2026-08-04
 domain: 电商运营
 tags: [ecommerce, taobao, tmall]
+sources:
+  - raw/webpages/taobao/ai-dianjing-search-promotion-2026-08-03/extracted-text.md
+  - _meta/extraction-notes/ai-dianjing-search-promotion-2026-08-03/coverage-matrix.md
+  - raw/webpages/taobao/ai-keyword-selection-2026-08-03/content.md
+  - _meta/extraction-notes/ai-keyword-selection-2026-08-03/coverage-matrix.md
+  - _meta/extraction-notes/wanxiangtai-keyword-promotion-batch-2-2026-08-04/coverage-matrix.md
 status: active
 ---
 
@@ -20,6 +26,11 @@ status: active
 4. [[domains/电商运营/02-淘宝天猫/04-达摩盘AI/index|达摩盘 AI]]
 5. [[domains/电商运营/02-淘宝天猫/05-淘宝付费投放与全站推广/index|淘宝付费投放与全站推广]]
 6. [[domains/电商运营/02-淘宝天猫/06-淘宝智能推广与人群运营系统/index|淘宝智能推广与人群运营系统]]
+7. [[domains/电商运营/02-淘宝天猫/万相台无界白皮书/index|万相台无界白皮书]]
+
+## 万相台无界官方资料
+
+- [[domains/电商运营/02-淘宝天猫/万相台无界白皮书/01-关键词推广/index|关键词推广（原直通车）]]：已按官方目录编译选词、选品、选人、AI点睛、SKU 裂变与分时折扣等首批能力。
 
 ## 相关记忆
 
@@ -28,3 +39,4 @@ status: active
 - [[queries/达摩盘AI竞品数据挖掘|达摩盘 AI 竞品数据挖掘查询入口]]
 - [[queries/淘宝全站推广诊断|淘宝全站推广诊断]]
 - [[queries/淘宝智能推广与人群运营诊断|淘宝智能推广与人群运营诊断]]
+- [[queries/淘宝AI点睛关键词推广|淘宝 AI点睛关键词推广]]

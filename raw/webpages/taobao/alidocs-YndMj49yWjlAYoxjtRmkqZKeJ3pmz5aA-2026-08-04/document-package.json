@@ -1,0 +1,4486 @@
+{
+  "version": 1,
+  "type": "application/x-alidocs-package",
+  "main": "00000000-0000-0000-0000-000000000001",
+  "plugins": "00000000-0000-0000-0000-000000000002",
+  "parts": {
+    "00000000-0000-0000-0000-000000000001": {
+      "id": "00000000-0000-0000-0000-000000000001",
+      "type": "application/x-alidocs-word",
+      "version": 1,
+      "data": {
+        "style": {
+          "docDefaults": {
+            "type": "paragraph",
+            "default": 1,
+            "name": "dingdocnormal",
+            "data": {
+              "rPr": {
+                "sz": 12,
+                "szUnit": "pt"
+              },
+              "pPr": {
+                "spacing": {
+                  "before": 12,
+                  "after": 12
+                }
+              }
+            }
+          },
+          "tableDefault": {
+            "type": "table",
+            "data": {
+              "tblPr": {
+                "bdr": {
+                  "bottom": {
+                    "color": "#D6D6D6",
+                    "space": 0,
+                    "sz": 1,
+                    "val": "single"
+                  },
+                  "insideH": {
+                    "color": "#D6D6D6",
+                    "space": 0,
+                    "sz": 1,
+                    "val": "single"
+                  },
+                  "insideV": {
+                    "color": "#D6D6D6",
+                    "space": 0,
+                    "sz": 1,
+                    "val": "single"
+                  },
+                  "left": {
+                    "color": "#D6D6D6",
+                    "space": 0,
+                    "sz": 1,
+                    "val": "single"
+                  },
+                  "right": {
+                    "color": "#D6D6D6",
+                    "space": 0,
+                    "sz": 1,
+                    "val": "single"
+                  },
+                  "top": {
+                    "color": "#D6D6D6",
+                    "space": 0,
+                    "sz": 1,
+                    "val": "single"
+                  }
+                }
+              }
+            }
+          },
+          "tableHeader": {
+            "type": "table",
+            "basedOn": "tableDefault",
+            "data": {
+              "tblStylePr": [
+                {
+                  "type": "firstRow",
+                  "tcPr": {
+                    "shd": {
+                      "fill": "#F5F6F7"
+                    }
+                  }
+                },
+                {
+                  "type": "firstCol",
+                  "tcPr": {
+                    "shd": {
+                      "fill": "#F5F6F7"
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        "theme": [],
+        "settings": {
+          "titleCover": {
+            "isHide": true
+          }
+        },
+        "app": {},
+        "numberings": {},
+        "headers": {},
+        "body": [
+          "root",
+          {
+            "sectPr": {
+              "pgSz": {
+                "w": 892,
+                "h": 1127
+              },
+              "pgMar": {
+                "top": 48,
+                "bottom": 48,
+                "left": 72,
+                "right": 72,
+                "header": 56.73,
+                "footer": 66.13,
+                "gutter": 0
+              }
+            },
+            "theme": {
+              "table": {
+                "tableCell": {
+                  "vAlign": "top"
+                }
+              }
+            }
+          },
+          [
+            "h1",
+            {
+              "uuid": "mr1tfl22onrcmgroprj",
+              "spacing": {
+                "before": 32,
+                "after": 12,
+                "line": 1.15,
+                "lineRule": "auto"
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 21,
+                  "szUnit": "pt",
+                  "color": "rgb(0, 0, 0)",
+                  "spacing": 0,
+                  "data-type": "leaf"
+                },
+                "一、"
+              ],
+              [
+                "span",
+                {
+                  "sz": 21,
+                  "szUnit": "pt",
+                  "color": "rgb(0, 0, 0)",
+                  "spacing": 0,
+                  "data-type": "leaf"
+                },
+                "「"
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 21,
+                  "szUnit": "pt",
+                  "color": "rgb(0, 0, 0)",
+                  "spacing": 0,
+                  "data-type": "leaf"
+                },
+                "好图裂变 · SKU裂变"
+              ],
+              [
+                "span",
+                {
+                  "sz": 21,
+                  "szUnit": "pt",
+                  "color": "rgb(0, 0, 0)",
+                  "spacing": 0,
+                  "data-type": "leaf"
+                },
+                "」"
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 21,
+                  "szUnit": "pt",
+                  "color": "rgb(0, 0, 0)",
+                  "spacing": 0,
+                  "data-type": "leaf"
+                },
+                "工具简介"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "spacing": {
+                "line": 1.15,
+                "lineRule": "auto"
+              },
+              "uuid": "mr1th8sh89b6avhozy"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "#C10002",
+                  "spacing": 0,
+                  "data-type": "leaf"
+                },
+                "手里有一张爆款图跑量非常好，想要裂变出更多同款？"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "spacing": {
+                "line": 1.15,
+                "lineRule": "auto"
+              },
+              "uuid": "mr3afi7m5yunwreq3q3"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "rgb(0, 0, 0)",
+                  "spacing": 0,
+                  "data-type": "leaf"
+                },
+                "关键词推广场景"
+              ],
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "rgb(0, 0, 0)",
+                  "spacing": 0,
+                  "data-type": "leaf"
+                },
+                "推出全新创意功能"
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "rgb(0, 0, 0)",
+                  "spacing": 0,
+                  "data-type": "leaf"
+                },
+                "「好图裂变 · SKU裂变」"
+              ],
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "rgb(0, 0, 0)",
+                  "spacing": 0,
+                  "data-type": "leaf"
+                },
+                "，"
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "#C10002",
+                  "spacing": 0,
+                  "data-type": "leaf"
+                },
+                "AI 自动提取"
+              ],
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "",
+                  "spacing": 0,
+                  "data-type": "leaf"
+                },
+                "您"
+              ],
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "rgb(0, 0, 0)",
+                  "spacing": 0,
+                  "data-type": "leaf"
+                },
+                "爆款图的构图、光影、配色、排版等"
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "#C10002",
+                  "spacing": 0,
+                  "data-type": "leaf"
+                },
+                " "
+              ],
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "",
+                  "spacing": 0,
+                  "data-type": "leaf"
+                },
+                "\"爆款基因\""
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "#C10002",
+                  "spacing": 0,
+                  "data-type": "leaf"
+                },
+                " "
+              ],
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "rgb(0, 0, 0)",
+                  "spacing": 0,
+                  "data-type": "leaf"
+                },
+                "，"
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "#C10002",
+                  "spacing": 0,
+                  "data-type": "leaf"
+                },
+                "一键将您所有 SKU 图同步裂变为同款高品质素材"
+              ],
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "rgb(0, 0, 0)",
+                  "spacing": 0,
+                  "data-type": "leaf"
+                },
+                "，每张都精准还原爆款风格！"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "spacing": {
+                "line": 1.15,
+                "lineRule": "auto"
+              },
+              "uuid": "mrilgjfckdftf78jua"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "rgb(0, 0, 0)",
+                  "spacing": 0,
+                  "data-type": "leaf"
+                },
+                "同时，为提升您的测图及推广体验，"
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "",
+                  "spacing": 0,
+                  "data-type": "leaf"
+                },
+                "我们同步将"
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "#00B14D",
+                  "spacing": 0,
+                  "data-type": "leaf"
+                },
+                "关键词推广素材上限"
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "",
+                  "data-type": "leaf"
+                },
+                "从单创意上传4个素材，"
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "#00B14D",
+                  "data-type": "leaf"
+                },
+                "提升到单创意可上传20个素材"
+              ],
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "rgb(0, 0, 0)",
+                  "data-type": "leaf"
+                },
+                "，您可以充分进行图片上传和测图操作~"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mrilh3wauuzb9na0okc"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "rgb(0, 0, 0)",
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ],
+            [
+              "img",
+              {
+                "uuid": "mrim1srl5oflgflhq37",
+                "name": "01280d552301bee6ab220cc511f701bf.png",
+                "size": 394044,
+                "width": 357,
+                "height": 138,
+                "src": "/core/api/resources/img/5eecdaf48460cde57f7285e122523bae60c6f9226648ad6875b8339e1c4c24831b75b38faadcd24bec177c308ebd5304dd1609373b308205004d65112bf292164542c53cb8b5bf4021e9482977ac6dc5965982676464d0e44fb4c8ed7016461c",
+                "extraData": {
+                  "resourceId": "b6234ab5-a3ed-4569-8944-c831eaa9be07",
+                  "metaData": {
+                    "size": 394044,
+                    "originWidth": 1226,
+                    "originHeight": 790,
+                    "format": "png",
+                    "ratio": 1
+                  }
+                },
+                "rotation": 0,
+                "rectClip": {
+                  "left": 0,
+                  "right": 104.17794,
+                  "top": 0,
+                  "bottom": 158.80783
+                }
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "rgb(0, 0, 0)",
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "table",
+            {
+              "colsWidth": [
+                296,
+                296,
+                296
+              ],
+              "tblW": {
+                "w": 100,
+                "type": "pct"
+              },
+              "uuid": "mr09p4p3n9catrosyz",
+              "styleId": "tableHeader",
+              "tblLook": {
+                "firstRow": 1,
+                "firstColumn": 0,
+                "lastRow": 0,
+                "lastColumn": 0
+              },
+              "ind": {}
+            },
+            [
+              "tr",
+              {
+                "uuid": "mr09p4p3hmlwmnpcj2s",
+                "isTblHeader": true
+              },
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mr09p4p3njypvprhxqp",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mr09p4p32xnd36e7i91",
+                    "jc": "left"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "sz": 12,
+                        "szUnit": "pt",
+                        "spacing": 0,
+                        "data-type": "leaf"
+                      },
+                      "原爆款图"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mr09p4p3u9zqpo2klos",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mr09p4p31l6xrtnorwo",
+                    "jc": "left"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "sz": 12,
+                        "szUnit": "pt",
+                        "spacing": 0,
+                        "data-type": "leaf"
+                      },
+                      "SKU原图"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mr09p4p3cy6m09fyael",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mr09p4p32yuk8klzbls",
+                    "jc": "left"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "sz": 12,
+                        "szUnit": "pt",
+                        "spacing": 0,
+                        "data-type": "leaf"
+                      },
+                      "SKU裂变后"
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {
+                "uuid": "mr09p4p3lgaj1pcxikf"
+              },
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 2,
+                  "uuid": "mr09p4p3c0ee7l55whc",
+                  "vAlign": "middle"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mr09p4p3nptg2ncmrt",
+                    "jc": "left"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "fonts": {
+                          "ascii": "\"Alibaba PuHuiTi 3.0\"",
+                          "cs": "\"Alibaba PuHuiTi 3.0\"",
+                          "eastAsia": "\"Alibaba PuHuiTi 3.0\"",
+                          "hAnsi": "\"Alibaba PuHuiTi 3.0\""
+                        },
+                        "sz": 9,
+                        "szUnit": "pt",
+                        "spacing": 0,
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ],
+                  [
+                    "img",
+                    {
+                      "uuid": "c9dgzd",
+                      "name": "final6.png",
+                      "size": 1999861,
+                      "width": 232,
+                      "height": 309.33333333333337,
+                      "src": "/core/api/resources/img/5eecdaf48460cde56aa0381c95b61d873c5ba5104b83ca6375b8339e1c4c24831b75b38faadcd24bec177c308ebd53047d441831aec1bb42cacebfc0c8985ff823c86ae0a6e23b66c4d192e7917a4bd0a053bbd0abc38e064fb4c8ed7016461c",
+                      "extraData": {
+                        "resourceId": "be8f2878-ffc9-4d28-88df-7feb56f843b6",
+                        "metaData": {
+                          "size": 1999861,
+                          "originWidth": 1086,
+                          "originHeight": 1448,
+                          "format": "png",
+                          "ratio": 1
+                        }
+                      }
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "leaf"
+                        },
+                        ""
+                      ]
+                    ]
+                  ],
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "fonts": {
+                          "ascii": "\"Alibaba PuHuiTi 3.0\"",
+                          "cs": "\"Alibaba PuHuiTi 3.0\"",
+                          "eastAsia": "\"Alibaba PuHuiTi 3.0\"",
+                          "hAnsi": "\"Alibaba PuHuiTi 3.0\""
+                        },
+                        "sz": 9,
+                        "szUnit": "pt",
+                        "spacing": 0,
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mr09p4p3dbeuhmcast4",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mr09p4p3jtfu81a0te"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "fonts": {
+                          "ascii": "\"Alibaba PuHuiTi 3.0\"",
+                          "cs": "\"Alibaba PuHuiTi 3.0\"",
+                          "eastAsia": "\"Alibaba PuHuiTi 3.0\"",
+                          "hAnsi": "\"Alibaba PuHuiTi 3.0\""
+                        },
+                        "sz": 9,
+                        "szUnit": "pt",
+                        "spacing": 0,
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ],
+                  [
+                    "img",
+                    {
+                      "uuid": "f653hv",
+                      "name": "sku2.jpeg",
+                      "size": 331584,
+                      "width": 232,
+                      "height": 310.7142857142857,
+                      "src": "/core/api/resources/img/5eecdaf48460cde56aa0381c95b61d873c5ba5104b83ca6375b8339e1c4c24831b75b38faadcd24bec177c308ebd530470b7f2298c56978fa77972bb53110c9cf3f8cf414357138afc49d5af0af269527033fef9ef0b3f0b4fb4c8ed7016461c",
+                      "extraData": {
+                        "resourceId": "6118ad50-a33d-44b1-98a0-6496cc4ae7cd",
+                        "metaData": {
+                          "size": 331584,
+                          "originWidth": 1792,
+                          "originHeight": 2400,
+                          "format": "jpg",
+                          "ratio": 1
+                        }
+                      }
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "leaf"
+                        },
+                        ""
+                      ]
+                    ]
+                  ],
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "fonts": {
+                          "ascii": "\"Alibaba PuHuiTi 3.0\"",
+                          "cs": "\"Alibaba PuHuiTi 3.0\"",
+                          "eastAsia": "\"Alibaba PuHuiTi 3.0\"",
+                          "hAnsi": "\"Alibaba PuHuiTi 3.0\""
+                        },
+                        "sz": 9,
+                        "szUnit": "pt",
+                        "spacing": 0,
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mr09p4p329ad8959k61",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mr09p4p3es8jo96dzyf"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "fonts": {
+                          "ascii": "\"Alibaba PuHuiTi 3.0\"",
+                          "cs": "\"Alibaba PuHuiTi 3.0\"",
+                          "eastAsia": "\"Alibaba PuHuiTi 3.0\"",
+                          "hAnsi": "\"Alibaba PuHuiTi 3.0\""
+                        },
+                        "sz": 9,
+                        "szUnit": "pt",
+                        "spacing": 0,
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ],
+                  [
+                    "img",
+                    {
+                      "uuid": "6wdxkc",
+                      "name": "final5.png",
+                      "size": 1998983,
+                      "width": 232,
+                      "height": 309.33333333333337,
+                      "src": "/core/api/resources/img/5eecdaf48460cde56aa0381c95b61d873c5ba5104b83ca6375b8339e1c4c24831b75b38faadcd24bec177c308ebd5304d973908172e17daf8f12ddf694c7f47db938b314b09f87f8b28d788d86f1f84fc072417c3c247af24fb4c8ed7016461c",
+                      "extraData": {
+                        "resourceId": "47665cd2-d823-4a12-9de0-157786d1932d",
+                        "metaData": {
+                          "size": 1998983,
+                          "originWidth": 1086,
+                          "originHeight": 1448,
+                          "format": "png",
+                          "ratio": 1
+                        }
+                      }
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "leaf"
+                        },
+                        ""
+                      ]
+                    ]
+                  ],
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "fonts": {
+                          "ascii": "\"Alibaba PuHuiTi 3.0\"",
+                          "cs": "\"Alibaba PuHuiTi 3.0\"",
+                          "eastAsia": "\"Alibaba PuHuiTi 3.0\"",
+                          "hAnsi": "\"Alibaba PuHuiTi 3.0\""
+                        },
+                        "sz": 9,
+                        "szUnit": "pt",
+                        "spacing": 0,
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {
+                "uuid": "mr09r6ogsxzope2brdd"
+              },
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mr09r6og258sx6d5wk2",
+                  "vAlign": "middle",
+                  "hidden": true
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mr09r6og8oh91ethzha",
+                    "jc": "left"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "fonts": {
+                          "ascii": "\"Alibaba PuHuiTi 3.0\"",
+                          "hAnsi": "\"Alibaba PuHuiTi 3.0\"",
+                          "cs": "\"Alibaba PuHuiTi 3.0\"",
+                          "eastAsia": "\"Alibaba PuHuiTi 3.0\""
+                        },
+                        "spacing": 0,
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mr09r6ogd09id95rbs6",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mr09r6ogf92ee2adhf6"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "fonts": {
+                          "ascii": "\"Alibaba PuHuiTi 3.0\"",
+                          "hAnsi": "\"Alibaba PuHuiTi 3.0\"",
+                          "cs": "\"Alibaba PuHuiTi 3.0\"",
+                          "eastAsia": "\"Alibaba PuHuiTi 3.0\""
+                        },
+                        "spacing": 0,
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ],
+                  [
+                    "img",
+                    {
+                      "uuid": "4bzlad",
+                      "name": "sku1.jpeg",
+                      "size": 301658,
+                      "width": 232,
+                      "height": 310.7142857142857,
+                      "src": "/core/api/resources/img/5eecdaf48460cde56aa0381c95b61d873c5ba5104b83ca6375b8339e1c4c24831b75b38faadcd24bec177c308ebd530467175c281fad954adafae3f3b8c96fb4d1a2b18786f8c137040b9adbda35810f52513006d70859674fb4c8ed7016461c",
+                      "extraData": {
+                        "resourceId": "2475c422-2847-4841-9b85-f19e54b36661",
+                        "metaData": {
+                          "size": 301658,
+                          "originWidth": 1792,
+                          "originHeight": 2400,
+                          "format": "jpg",
+                          "ratio": 1
+                        }
+                      }
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "leaf"
+                        },
+                        ""
+                      ]
+                    ]
+                  ],
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "fonts": {
+                          "ascii": "\"Alibaba PuHuiTi 3.0\"",
+                          "hAnsi": "\"Alibaba PuHuiTi 3.0\"",
+                          "cs": "\"Alibaba PuHuiTi 3.0\"",
+                          "eastAsia": "\"Alibaba PuHuiTi 3.0\""
+                        },
+                        "spacing": 0,
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mr09r6og4m71dqij61h",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mr09r6og8ubj2wody4e"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "fonts": {
+                          "ascii": "\"Alibaba PuHuiTi 3.0\"",
+                          "hAnsi": "\"Alibaba PuHuiTi 3.0\"",
+                          "cs": "\"Alibaba PuHuiTi 3.0\"",
+                          "eastAsia": "\"Alibaba PuHuiTi 3.0\""
+                        },
+                        "spacing": 0,
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ],
+                  [
+                    "img",
+                    {
+                      "uuid": "a2wqxd",
+                      "name": "final4.png",
+                      "size": 1959422,
+                      "width": 232,
+                      "height": 309.33333333333337,
+                      "src": "/core/api/resources/img/5eecdaf48460cde56aa0381c95b61d873c5ba5104b83ca6375b8339e1c4c24831b75b38faadcd24bec177c308ebd53045857f6f257e0d22a33c4eeeb891cd8f00bd7ee4917602e83a3099f02cc279485755c65a4ba79513e4fb4c8ed7016461c",
+                      "extraData": {
+                        "resourceId": "3cf79706-2c36-4713-930e-1f9179e8335f",
+                        "metaData": {
+                          "size": 1959422,
+                          "originWidth": 1086,
+                          "originHeight": 1448,
+                          "format": "png",
+                          "ratio": 1
+                        }
+                      }
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "leaf"
+                        },
+                        ""
+                      ]
+                    ]
+                  ],
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "fonts": {
+                          "ascii": "\"Alibaba PuHuiTi 3.0\"",
+                          "hAnsi": "\"Alibaba PuHuiTi 3.0\"",
+                          "cs": "\"Alibaba PuHuiTi 3.0\"",
+                          "eastAsia": "\"Alibaba PuHuiTi 3.0\""
+                        },
+                        "spacing": 0,
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ]
+                ]
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mr3coupqokkd6xvaum"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 9,
+                  "szUnit": "pt",
+                  "underline": {
+                    "value": "single"
+                  },
+                  "data-type": "leaf"
+                },
+                "*图片为"
+              ],
+              [
+                "span",
+                {
+                  "sz": 9,
+                  "szUnit": "pt",
+                  "color": "linear-gradient(152deg, #C676FF 0%, #654CFF 41%, #405EFF 75%, #007FFF 99%)",
+                  "underline": {
+                    "value": "single"
+                  },
+                  "data-type": "leaf"
+                },
+                "AI生成虚拟商品"
+              ],
+              [
+                "span",
+                {
+                  "sz": 9,
+                  "szUnit": "pt",
+                  "underline": {
+                    "value": "single"
+                  },
+                  "data-type": "leaf"
+                },
+                "，仅作为功能效果展示使用，严禁抄袭或搬运"
+              ]
+            ]
+          ],
+          [
+            "h3",
+            {
+              "uuid": "mr1tgcuhsiby7lh7hxg",
+              "ind": {
+                "left": 0
+              },
+              "spacing": {
+                "before": 24,
+                "after": 8.666666666666666,
+                "line": 0.9333333333333332
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 14.5,
+                  "szUnit": "pt",
+                  "color": "rgb(0, 0, 0)",
+                  "spacing": 0,
+                  "data-type": "leaf"
+                },
+                "1.1 适用商家："
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "ind": {
+                "firstLine": 32
+              },
+              "spacing": {
+                "line": 1.15,
+                "lineRule": "auto"
+              },
+              "uuid": "mr36x189lsck27psot"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "rgb(0, 0, 0)",
+                  "spacing": 0,
+                  "data-type": "leaf"
+                },
+                "商品SKU数量多"
+              ],
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "rgb(0, 0, 0)",
+                  "spacing": 0,
+                  "data-type": "leaf"
+                },
+                "，修图花费太多时间，想要维持爆款风格的商家。"
+              ]
+            ]
+          ],
+          [
+            "h3",
+            {
+              "uuid": "mr36wqben31f206ey5p",
+              "ind": {
+                "left": 0
+              },
+              "spacing": {
+                "before": 24,
+                "after": 8.666666666666666,
+                "line": 0.9333333333333332
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 14.5,
+                  "szUnit": "pt",
+                  "color": "rgb(0, 0, 0)",
+                  "spacing": 0,
+                  "data-type": "leaf"
+                },
+                "1.2 商家重磅利好："
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mr1tt4yvismvywxz82",
+              "ind": {
+                "left": 32
+              },
+              "spacing": {
+                "line": 1.15,
+                "lineRule": "auto"
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "#C10002",
+                  "spacing": 0,
+                  "data-type": "leaf"
+                },
+                "【省时间】："
+              ],
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "rgb(0, 0, 0)",
+                  "spacing": 0,
+                  "data-type": "leaf"
+                },
+                "不用重新拍摄、不用逐张修图，一键复制好图风格到多个 SKU 颜色/规格上；"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "ind": {
+                "left": 32
+              },
+              "uuid": "mr1ttbrrtv7h92ejdt",
+              "spacing": {
+                "line": 1.15,
+                "lineRule": "auto"
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "#C10002",
+                  "spacing": 0,
+                  "data-type": "leaf"
+                },
+                "【风格统一】："
+              ],
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "rgb(0, 0, 0)",
+                  "spacing": 0,
+                  "data-type": "leaf"
+                },
+                "继承已验证的爆款风格，不跑偏、不失品牌调性，保持你的素材风格一致性；"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "ind": {
+                "left": 32
+              },
+              "uuid": "mr1ttbrr9v2vpct6xv7",
+              "spacing": {
+                "line": 1.15,
+                "lineRule": "auto"
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "#C10002",
+                  "spacing": 0,
+                  "data-type": "leaf"
+                },
+                "【素材翻倍】："
+              ],
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "rgb(0, 0, 0)",
+                  "spacing": 0,
+                  "data-type": "leaf"
+                },
+                "每个 SKU 都有高质量素材可投，计划可用素材数轻松翻倍，计划更容易拿量！"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "ind": {
+                "left": 32
+              },
+              "uuid": "mr3at6wct4tfqujnvy9",
+              "spacing": {
+                "line": 1.15,
+                "lineRule": "auto"
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "rgb(0, 0, 0)",
+                  "spacing": 0,
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "h1",
+            {
+              "ind": {
+                "left": 0
+              },
+              "uuid": "mr36yj261yg0zd5mfxk",
+              "spacing": {
+                "before": 32,
+                "after": 12,
+                "line": 0.9333333333333332
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 21,
+                  "szUnit": "pt",
+                  "color": "rgb(0, 0, 0)",
+                  "spacing": 0,
+                  "data-type": "leaf"
+                },
+                "二、使用教程"
+              ]
+            ]
+          ],
+          [
+            "table",
+            {
+              "colsWidth": [
+                444,
+                444
+              ],
+              "styleId": "tableHeader",
+              "tblLook": {
+                "firstColumn": 0,
+                "firstRow": 1,
+                "lastColumn": 0,
+                "lastRow": 0
+              },
+              "tblW": {
+                "type": "pct",
+                "w": 100
+              },
+              "uuid": "mr39zvywvzgzyiksjt"
+            },
+            [
+              "tr",
+              {
+                "uuid": "mr39zvyvnfzgovayhar",
+                "isTblHeader": true
+              },
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mr39zvyvlt5bwoa35jk",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mr39zvyvjp1qcmms04m",
+                    "jc": "center"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "data-type": "leaf"
+                      },
+                      "步骤"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mr39zvyvkxzf08lgflg",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mr39zvyvvkltysnql7d",
+                    "jc": "center"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "data-type": "leaf"
+                      },
+                      "图示"
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {
+                "uuid": "mr39zvyv6ryi6jjdh9q"
+              },
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mr39zvyvqxy6wygk8j",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mr39zvyvz5ijo5e6wj"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 12,
+                        "szUnit": "pt",
+                        "color": "rgb(0, 0, 0)",
+                        "spacing": 0,
+                        "data-type": "leaf"
+                      },
+                      "1）进入"
+                    ],
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "sz": 12,
+                        "szUnit": "pt",
+                        "color": "rgb(0, 0, 0)",
+                        "spacing": 0,
+                        "data-type": "leaf"
+                      },
+                      "关键词场景"
+                    ],
+                    [
+                      "span",
+                      {
+                        "sz": 12,
+                        "szUnit": "pt",
+                        "color": "rgb(0, 0, 0)",
+                        "spacing": 0,
+                        "data-type": "leaf"
+                      },
+                      "-选择在投计划-选择单元-"
+                    ],
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "sz": 12,
+                        "szUnit": "pt",
+                        "color": "rgb(0, 0, 0)",
+                        "spacing": 0,
+                        "data-type": "leaf"
+                      },
+                      "进入创意tab"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mr39zvyvarsfsbciqa",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mr39zvyv8lxoqz7wwts",
+                    "jc": "center"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ],
+                  [
+                    "img",
+                    {
+                      "uuid": "mr3b3xwc6qtbacgeyk9",
+                      "name": "image.png",
+                      "size": 966967,
+                      "width": 315,
+                      "height": 177.23180795198797,
+                      "src": "/core/api/resources/img/5eecdaf48460cde57f7285e122523bae60c6f9226648ad6875b8339e1c4c24831b75b38faadcd24bec177c308ebd5304cfee95bb4852435e720e6b404a237b81e05e559db0d3aed46783b689b11455b69bf490e7f320748b4fb4c8ed7016461c",
+                      "extraData": {
+                        "resourceId": "1831af9b-63e9-461f-99ae-1dba9a322f3b",
+                        "metaData": {
+                          "size": 966967,
+                          "originWidth": 1333,
+                          "originHeight": 750,
+                          "format": "png",
+                          "ratio": 1
+                        }
+                      },
+                      "rotation": 0
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "leaf"
+                        },
+                        ""
+                      ]
+                    ]
+                  ],
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "uuid": "mr3a14bzoir70xhrm9f",
+                    "jc": "center"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ],
+                  [
+                    "img",
+                    {
+                      "uuid": "mr3b3xwczmcupod61pi",
+                      "name": "image.png",
+                      "size": 1026991,
+                      "width": 315,
+                      "height": 177.73478587528174,
+                      "src": "/core/api/resources/img/5eecdaf48460cde57f7285e122523bae60c6f9226648ad6875b8339e1c4c24831b75b38faadcd24bec177c308ebd530444ec6c6d2f54892b8757d4b3c11883144b32bdcb4e0ffeff78fdb00eae5f1d16614c354663c1583a4fb4c8ed7016461c",
+                      "extraData": {
+                        "resourceId": "ffa24319-f6d0-4f96-9128-33167fe438bc",
+                        "metaData": {
+                          "size": 1026991,
+                          "originWidth": 1331,
+                          "originHeight": 751,
+                          "format": "png",
+                          "ratio": 1
+                        }
+                      },
+                      "rotation": 0
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "leaf"
+                        },
+                        ""
+                      ]
+                    ]
+                  ],
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {
+                "uuid": "mr39zvyv9x1xf28sry8"
+              },
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mr39zvyvvpn5bndsuh",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mr39zvyvanakkcb4ig7"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 12,
+                        "szUnit": "pt",
+                        "color": "rgb(0, 0, 0)",
+                        "spacing": 0,
+                        "data-type": "leaf"
+                      },
+                      "2）选择想要裂变的图片，点击“"
+                    ],
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "sz": 12,
+                        "szUnit": "pt",
+                        "color": "rgb(0, 0, 0)",
+                        "spacing": 0,
+                        "data-type": "leaf"
+                      },
+                      "好图裂变-SKU裂变"
+                    ],
+                    [
+                      "span",
+                      {
+                        "sz": 12,
+                        "szUnit": "pt",
+                        "color": "rgb(0, 0, 0)",
+                        "spacing": 0,
+                        "data-type": "leaf"
+                      },
+                      "”功能"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mr39zvyv9xb6rgxegn",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mr39zvyvhgyy1vd5pb9",
+                    "jc": "center"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ],
+                  [
+                    "img",
+                    {
+                      "uuid": "mr3b3xwcafi3dow4tla",
+                      "name": "image.png",
+                      "size": 909353,
+                      "width": 315,
+                      "height": 177.3053892215569,
+                      "src": "/core/api/resources/img/5eecdaf48460cde57f7285e122523bae60c6f9226648ad6875b8339e1c4c24831b75b38faadcd24bec177c308ebd53048710e7c78cab05d25f6bf32f6ca02fd64f70f5dc2775397ba01989c2d3b86a85f4c350c87e35eac04fb4c8ed7016461c",
+                      "extraData": {
+                        "resourceId": "0ff9b672-2931-49fa-893d-59280777f916",
+                        "metaData": {
+                          "size": 909353,
+                          "originWidth": 1336,
+                          "originHeight": 752,
+                          "format": "png",
+                          "ratio": 1
+                        }
+                      },
+                      "rotation": 0
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "leaf"
+                        },
+                        ""
+                      ]
+                    ]
+                  ],
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "uuid": "mr3a26h8rzxgezzw1x",
+                    "jc": "center"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ],
+                  [
+                    "img",
+                    {
+                      "uuid": "mr3b3xwc7sqqukmrnvp",
+                      "name": "image.png",
+                      "size": 1036039,
+                      "width": 315,
+                      "height": 177.57121439280363,
+                      "src": "/core/api/resources/img/5eecdaf48460cde57f7285e122523bae60c6f9226648ad6875b8339e1c4c24831b75b38faadcd24bec177c308ebd5304b27e7d07e7a9c788ad0f6095edd53d8f942915fd9346b7d8bf65e959754af80fd2129fac1f3c8e104fb4c8ed7016461c",
+                      "extraData": {
+                        "resourceId": "2c4b90d9-6bb6-4121-a6e5-ad9cd0b4959d",
+                        "metaData": {
+                          "size": 1036039,
+                          "originWidth": 1334,
+                          "originHeight": 752,
+                          "format": "png",
+                          "ratio": 1
+                        }
+                      },
+                      "rotation": 0
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "leaf"
+                        },
+                        ""
+                      ]
+                    ]
+                  ],
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {
+                "uuid": "mr39zvywz80oqr4nv3"
+              },
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mr39zvywrfrxsatzvae",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mr39zvyvf02agrmqpe5"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 12,
+                        "szUnit": "pt",
+                        "color": "rgb(0, 0, 0)",
+                        "spacing": 0,
+                        "data-type": "leaf"
+                      },
+                      "3）进入生产页面，"
+                    ],
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "sz": 12,
+                        "szUnit": "pt",
+                        "color": "rgb(0, 0, 0)",
+                        "spacing": 0,
+                        "data-type": "leaf"
+                      },
+                      "选择要裂变的SKU"
+                    ],
+                    [
+                      "span",
+                      {
+                        "sz": 12,
+                        "szUnit": "pt",
+                        "color": "rgb(0, 0, 0)",
+                        "spacing": 0,
+                        "data-type": "leaf"
+                      },
+                      "，点击 “"
+                    ],
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "sz": 12,
+                        "szUnit": "pt",
+                        "color": "rgb(0, 0, 0)",
+                        "spacing": 0,
+                        "data-type": "leaf"
+                      },
+                      "生成创意"
+                    ],
+                    [
+                      "span",
+                      {
+                        "sz": 12,
+                        "szUnit": "pt",
+                        "color": "rgb(0, 0, 0)",
+                        "spacing": 0,
+                        "data-type": "leaf"
+                      },
+                      "” "
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mr39zvywtzu5u5e9ubm",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mr39zvywklg9ndzuvai",
+                    "jc": "center"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ],
+                  [
+                    "img",
+                    {
+                      "uuid": "mr3b3xwcbu7xqmirch",
+                      "name": "image.png",
+                      "size": 1050059,
+                      "width": 315,
+                      "height": 176.86281859070465,
+                      "src": "/core/api/resources/img/5eecdaf48460cde57f7285e122523bae60c6f9226648ad6875b8339e1c4c24831b75b38faadcd24bec177c308ebd53049db974a789507485efcc18f07af2055db5e01cb1543304922d19c76b69da3a27f3bd526a669b44894fb4c8ed7016461c",
+                      "extraData": {
+                        "resourceId": "306ac171-85c5-4064-83be-111a7bf5b4a0",
+                        "metaData": {
+                          "size": 1050059,
+                          "originWidth": 1334,
+                          "originHeight": 749,
+                          "format": "png",
+                          "ratio": 1
+                        }
+                      },
+                      "rotation": 0
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "leaf"
+                        },
+                        ""
+                      ]
+                    ]
+                  ],
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {
+                "uuid": "mr39zvywljdmv8ja11h"
+              },
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mr39zvyw2vlms1inkmg",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mr39zvywczsl4qbimis"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 12,
+                        "szUnit": "pt",
+                        "color": "rgb(0, 0, 0)",
+                        "spacing": 0,
+                        "data-type": "leaf"
+                      },
+                      "4）等待生成结果产出后，"
+                    ],
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "sz": 12,
+                        "szUnit": "pt",
+                        "color": "rgb(0, 0, 0)",
+                        "spacing": 0,
+                        "data-type": "leaf"
+                      },
+                      "选择满意的图片"
+                    ],
+                    [
+                      "span",
+                      {
+                        "sz": 12,
+                        "szUnit": "pt",
+                        "color": "rgb(0, 0, 0)",
+                        "spacing": 0,
+                        "data-type": "leaf"
+                      },
+                      "，"
+                    ],
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "sz": 12,
+                        "szUnit": "pt",
+                        "color": "rgb(0, 0, 0)",
+                        "spacing": 0,
+                        "data-type": "leaf"
+                      },
+                      "添加至创意"
+                    ],
+                    [
+                      "span",
+                      {
+                        "sz": 12,
+                        "szUnit": "pt",
+                        "color": "rgb(0, 0, 0)",
+                        "spacing": 0,
+                        "data-type": "leaf"
+                      },
+                      "即可进入投放"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mr39zvywj75lvh6gpoa",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mr39zvywk31xyso2s7q",
+                    "jc": "center"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ],
+                  [
+                    "img",
+                    {
+                      "uuid": "mr3b3xwc01uvi8ebm4qu",
+                      "name": "image.png",
+                      "size": 1045932,
+                      "width": 315,
+                      "height": 176.1824324324324,
+                      "src": "/core/api/resources/img/5eecdaf48460cde57f7285e122523bae60c6f9226648ad6875b8339e1c4c24831b75b38faadcd24bec177c308ebd5304c713e0e3f9cfb379b68c19e77fb2d87caa1f8fec5bae6ca761c4dcfe3a08968a59927073c0e809574fb4c8ed7016461c",
+                      "extraData": {
+                        "resourceId": "8f1112a6-21ab-4727-b0ca-34ce0b173e53",
+                        "metaData": {
+                          "size": 1045932,
+                          "originWidth": 1332,
+                          "originHeight": 745,
+                          "format": "png",
+                          "ratio": 1
+                        }
+                      },
+                      "rotation": 0
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "leaf"
+                        },
+                        ""
+                      ]
+                    ]
+                  ],
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {
+                "uuid": "mr3a4gncoct7squsgoj"
+              },
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mr3a4gncrp7thpy5syn",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mr3a4gncjsfwvz7esmf"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "color": "rgb(0, 0, 0)",
+                        "spacing": 0,
+                        "data-type": "leaf"
+                      },
+                      "5）点击 “对话修图” ，即可体验"
+                    ],
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "color": "rgb(0, 0, 0)",
+                        "spacing": 0,
+                        "data-type": "leaf"
+                      },
+                      "替换、去除、添加元素，更有更换背景，改变光影变化"
+                    ],
+                    [
+                      "span",
+                      {
+                        "color": "rgb(0, 0, 0)",
+                        "spacing": 0,
+                        "data-type": "leaf"
+                      },
+                      "等更多修图功能~"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mr3a4gncnyn6o6lgq4i",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mr3a4gncoe03ar63gs",
+                    "jc": "center"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ],
+                  [
+                    "img",
+                    {
+                      "uuid": "mr3b3xwcvkj0nl4h23",
+                      "name": "image.png",
+                      "size": 1048241,
+                      "width": 315,
+                      "height": 177.09895052473763,
+                      "src": "/core/api/resources/img/5eecdaf48460cde57f7285e122523bae60c6f9226648ad6875b8339e1c4c24831b75b38faadcd24bec177c308ebd53048fbc74e062a74e3dda242885851e2d33912ed1ca5ea2c034a44c455c8e7b36989b61f6fb9e0cc7554fb4c8ed7016461c",
+                      "extraData": {
+                        "resourceId": "cb9ddae7-6d2b-46c1-96cc-58ff944f5692",
+                        "metaData": {
+                          "size": 1048241,
+                          "originWidth": 1334,
+                          "originHeight": 750,
+                          "format": "png",
+                          "ratio": 1
+                        }
+                      },
+                      "rotation": 0
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "leaf"
+                        },
+                        ""
+                      ]
+                    ]
+                  ],
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ]
+                ]
+              ]
+            ]
+          ],
+          [
+            "h1",
+            {
+              "ind": {},
+              "uuid": "mr373zkg7845a1zn4gf",
+              "spacing": {
+                "before": 32,
+                "after": 12,
+                "line": 0.9333333333333332
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 21,
+                  "szUnit": "pt",
+                  "color": "rgb(0, 0, 0)",
+                  "spacing": 0,
+                  "data-type": "leaf"
+                },
+                "三、常见问题"
+              ]
+            ]
+          ],
+          [
+            "h6",
+            {
+              "uuid": "mr376iwhgqhano7ohjw",
+              "spacing": {
+                "before": 19.333333333333332,
+                "after": 8.666666666666666,
+                "line": 0.9333333333333332
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "spacing": 0,
+                  "data-type": "leaf"
+                },
+                "Q1：为什么我的素材下没有"
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "rgb(0, 0, 0)",
+                  "spacing": 0,
+                  "data-type": "leaf"
+                },
+                "「好图裂变 · SKU裂变」入口？"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mr38dzyofly4t8q9heb"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "rgb(0, 0, 0)",
+                  "spacing": 0,
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ],
+            [
+              "img",
+              {
+                "uuid": "mr3b3xwcdu39dealo0o",
+                "name": "image.png",
+                "size": 218213,
+                "width": 233,
+                "height": 132.62140992167102,
+                "src": "/core/api/resources/img/5eecdaf48460cde57f7285e122523bae60c6f9226648ad6875b8339e1c4c24831b75b38faadcd24bec177c308ebd53049d8926c0d6158af219328cf0f3182091be35c21c02ead2af5ba0ad0816d36be07420d353b41495014fb4c8ed7016461c",
+                "extraData": {
+                  "resourceId": "681ffd00-5653-4e46-8a79-7da4f5429580",
+                  "metaData": {
+                    "size": 218213,
+                    "originWidth": 766,
+                    "originHeight": 436,
+                    "format": "png",
+                    "ratio": 1
+                  }
+                },
+                "rotation": 0
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "rgb(0, 0, 0)",
+                  "spacing": 0,
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mr37b6ib3dhl6wj08s4",
+              "ind": {
+                "left": 0
+              },
+              "list": {
+                "listId": "dbi3fi84bal",
+                "level": 0,
+                "isTaskList": false,
+                "isOrdered": false,
+                "listStyleType": "SCIR_ECIR_SREC",
+                "symbolStyle": {
+                  "sz": 12,
+                  "color": "rgb(0, 0, 0)",
+                  "spacing": 0,
+                  "bold": false
+                },
+                "listStyle": {
+                  "format": "bullet",
+                  "text": "●",
+                  "align": "left"
+                }
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "rgb(0, 0, 0)",
+                  "spacing": 0,
+                  "data-type": "leaf"
+                },
+                "只有您的商品下有多sku图的时候才能裂变，否则就不会出现「好图裂变 · SKU裂变」入口；视频素材下也不会出现入口。"
+              ]
+            ]
+          ],
+          [
+            "h6",
+            {
+              "uuid": "mr37beq7m3djhv9pea",
+              "spacing": {
+                "before": 19.333333333333332,
+                "after": 8.666666666666666,
+                "line": 0.9333333333333332
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "spacing": 0,
+                  "data-type": "leaf"
+                },
+                "Q2：为什么我点击生成创意，一直显示加载？"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mr38apjzhdwaaywvvbl"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "spacing": 0,
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ],
+            [
+              "img",
+              {
+                "uuid": "mr3b3xwc5nqpkzwzysk",
+                "name": "image.png",
+                "size": 684410,
+                "width": 233,
+                "height": 102.97622377622379,
+                "src": "/core/api/resources/img/5eecdaf48460cde57f7285e122523bae60c6f9226648ad6875b8339e1c4c24831b75b38faadcd24bec177c308ebd5304a1bbefc0c7ab52c70016d028808e10fe34b175ce1c6007d302b9c88eb81118d48d0508acb03378c74fb4c8ed7016461c",
+                "extraData": {
+                  "resourceId": "d6bbfcb7-1e16-4c4c-b1cd-f426b7f8af6a",
+                  "metaData": {
+                    "size": 684410,
+                    "originWidth": 1430,
+                    "originHeight": 632,
+                    "format": "png",
+                    "ratio": 1
+                  }
+                },
+                "rotation": 0
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "spacing": 0,
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mr378yttk5j71s5guc",
+              "ind": {
+                "left": 0
+              },
+              "list": {
+                "listId": "0skw7f46kx7c",
+                "level": 0,
+                "isTaskList": false,
+                "isOrdered": false,
+                "listStyleType": "SCIR_ECIR_SREC",
+                "symbolStyle": {
+                  "spacing": 0
+                },
+                "listStyle": {
+                  "format": "bullet",
+                  "text": "●",
+                  "align": "left"
+                }
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "spacing": 0,
+                  "data-type": "leaf"
+                },
+                "创意生成需要1分钟左右，辛苦您耐心等待~"
+              ]
+            ]
+          ],
+          [
+            "h6",
+            {
+              "uuid": "mr8pe0dsd7kkpgvh6x9",
+              "ind": {
+                "left": 0
+              },
+              "spacing": {
+                "before": 19.333333333333332,
+                "after": 8.666666666666666,
+                "line": 0.9333333333333332
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "spacing": 0,
+                  "data-type": "leaf"
+                },
+                "Q3：为什么会显示选中的SKU不支持裂变？"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mr8pgxha0mi8z78q9id",
+              "ind": {
+                "left": 0
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "spacing": 0,
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ],
+            [
+              "img",
+              {
+                "uuid": "mr8ua9mnztjayz0g4g",
+                "name": "image.png",
+                "size": 274819,
+                "width": 233,
+                "height": 100.22191780821917,
+                "src": "/core/api/resources/img/5eecdaf48460cde57f7285e122523bae60c6f9226648ad6875b8339e1c4c24831b75b38faadcd24bec177c308ebd5304899ecf5db807aba64dd2219a0f1016571f93c9254f5ef64634287147e0cdbe50ceb0bfdd2c6bbfb64fb4c8ed7016461c",
+                "extraData": {
+                  "resourceId": "c133aa64-29b8-4cdf-937b-ceb5d2028c2f",
+                  "metaData": {
+                    "size": 274819,
+                    "originWidth": 730,
+                    "originHeight": 314,
+                    "format": "png",
+                    "ratio": 1
+                  }
+                },
+                "rotation": 0
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "spacing": 0,
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mr8ubbe7zbxwfzbo32b",
+              "ind": {
+                "left": 0
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "为了保证裂变效果达到最好，该功能有如下限制："
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mr8ua9mvnv3j4qtbn4a",
+              "ind": {
+                "left": 0
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "spacing": 0,
+                  "data-type": "leaf"
+                },
+                "1)"
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "color": "#C10002",
+                  "spacing": 0,
+                  "data-type": "leaf"
+                },
+                "原图"
+              ],
+              [
+                "span",
+                {
+                  "spacing": 0,
+                  "data-type": "leaf"
+                },
+                "中有"
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "spacing": 0,
+                  "data-type": "leaf"
+                },
+                "赠品"
+              ],
+              [
+                "span",
+                {
+                  "spacing": 0,
+                  "data-type": "leaf"
+                },
+                "/有"
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "spacing": 0,
+                  "data-type": "leaf"
+                },
+                "分格显示的多个商品"
+              ],
+              [
+                "span",
+                {
+                  "spacing": 0,
+                  "data-type": "leaf"
+                },
+                "/有"
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "spacing": 0,
+                  "data-type": "leaf"
+                },
+                "代言人或明星"
+              ],
+              [
+                "span",
+                {
+                  "spacing": 0,
+                  "data-type": "leaf"
+                },
+                "，都不支持裂变。"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mr8pg01zf3uw89wczww",
+              "ind": {
+                "left": 0
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "spacing": 0,
+                  "data-type": "leaf"
+                },
+                "2)"
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "color": "#C10002",
+                  "spacing": 0,
+                  "data-type": "leaf"
+                },
+                "SKU图"
+              ],
+              [
+                "span",
+                {
+                  "spacing": 0,
+                  "data-type": "leaf"
+                },
+                "中有"
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "spacing": 0,
+                  "data-type": "leaf"
+                },
+                "分格显示的多个商品"
+              ],
+              [
+                "span",
+                {
+                  "spacing": 0,
+                  "data-type": "leaf"
+                },
+                "/"
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "spacing": 0,
+                  "data-type": "leaf"
+                },
+                "没有商品"
+              ],
+              [
+                "span",
+                {
+                  "spacing": 0,
+                  "data-type": "leaf"
+                },
+                "/"
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "spacing": 0,
+                  "data-type": "leaf"
+                },
+                "商品主体不完整"
+              ],
+              [
+                "span",
+                {
+                  "spacing": 0,
+                  "data-type": "leaf"
+                },
+                "，都不支持裂变。"
+              ]
+            ]
+          ],
+          [
+            "table",
+            {
+              "colsWidth": [
+                327,
+                327,
+                328
+              ],
+              "tblW": {
+                "w": 100,
+                "type": "pct"
+              },
+              "uuid": "mr8ptu5pwisb35klj2",
+              "styleId": "tableHeader",
+              "tblLook": {
+                "firstRow": 1,
+                "firstColumn": 0,
+                "lastRow": 0,
+                "lastColumn": 0
+              }
+            },
+            [
+              "tr",
+              {
+                "uuid": "mr8ptu5p8pui42q56ki",
+                "isTblHeader": true
+              },
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mr8ptu5o13j69humpc3",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mr8ptu5oe8bpou6r8ya",
+                    "jc": "center"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "spacing": 0,
+                        "data-type": "leaf"
+                      },
+                      "不支持裂变原因"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mr8ptu5oere4dmw0e7t",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mr8ptu5obsuwwhnwokk",
+                    "jc": "center"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "spacing": 0,
+                        "data-type": "leaf"
+                      },
+                      "原图"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mr8ptu5ohn4sfol76cw",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mr8ptu5o48bq1x592kb",
+                    "jc": "center"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "spacing": 0,
+                        "data-type": "leaf"
+                      },
+                      "SKU图"
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {
+                "uuid": "mr8ptu5ptn57891vzy"
+              },
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mr8ptu5psims6jjv8",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mr8ptu5po2b4wotp3kp"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "color": "#C10002",
+                        "spacing": 0,
+                        "data-type": "leaf"
+                      },
+                      "原图"
+                    ],
+                    [
+                      "span",
+                      {
+                        "spacing": 0,
+                        "data-type": "leaf"
+                      },
+                      "中有"
+                    ],
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "spacing": 0,
+                        "data-type": "leaf"
+                      },
+                      "赠品/分格显示的多个商品"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mr8ptu5p1cvawwuyid9",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mr8ptu5pqea5dj6vq8k"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "spacing": 0,
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ],
+                  [
+                    "img",
+                    {
+                      "uuid": "mr8ua9mn9lhc43kxy5p",
+                      "name": "image.png",
+                      "size": 1146209,
+                      "width": 116,
+                      "height": 115.76229508196721,
+                      "src": "/core/api/resources/img/5eecdaf48460cde57f7285e122523bae60c6f9226648ad6875b8339e1c4c24831b75b38faadcd24bec177c308ebd53040f6ba02b4797af5e77c4c283a777ceb23754e00f69fb4a5407c9e3088351e007b2cc0206ac792cf94fb4c8ed7016461c",
+                      "extraData": {
+                        "resourceId": "4e896f86-784c-4544-90c8-8121cb9cb29f",
+                        "metaData": {
+                          "size": 1146209,
+                          "originWidth": 976,
+                          "originHeight": 974,
+                          "format": "png",
+                          "ratio": 1
+                        }
+                      },
+                      "rotation": 0
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "leaf"
+                        },
+                        ""
+                      ]
+                    ]
+                  ],
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ],
+                  [
+                    "img",
+                    {
+                      "uuid": "mr8ua9mnv64zmp5bw0l",
+                      "name": "image.png",
+                      "size": 1381760,
+                      "width": 117,
+                      "height": 116.16768292682927,
+                      "src": "/core/api/resources/img/5eecdaf48460cde57f7285e122523bae60c6f9226648ad6875b8339e1c4c24831b75b38faadcd24bec177c308ebd5304c96123e2cbc327c4364bb23db6188971f4824b5bf832a5750b8025befcfac12d18b1cf5da9eba4e74fb4c8ed7016461c",
+                      "extraData": {
+                        "resourceId": "b124a050-f140-4422-b2cd-c9112ec00964",
+                        "metaData": {
+                          "size": 1381760,
+                          "originWidth": 984,
+                          "originHeight": 977,
+                          "format": "png",
+                          "ratio": 1
+                        }
+                      },
+                      "rotation": 0
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "leaf"
+                        },
+                        ""
+                      ]
+                    ]
+                  ],
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "spacing": 0,
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mr8ptu5p7sbwxfsm6cp",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mr8ptu5pxkr6jz7rxq"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "spacing": 0,
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {
+                "uuid": "mr8pv965yavskanobj"
+              },
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mr8pv965x04t8lock5t",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mr8pv9656yg1x6n2gty"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "color": "#C10002",
+                        "spacing": 0,
+                        "data-type": "leaf"
+                      },
+                      "原图"
+                    ],
+                    [
+                      "span",
+                      {
+                        "spacing": 0,
+                        "data-type": "leaf"
+                      },
+                      "中有"
+                    ],
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "spacing": 0,
+                        "data-type": "leaf"
+                      },
+                      "代言人或明星"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mr8pv965evvr9q2w12i",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mr8pv965lus61nogbim"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ],
+                  [
+                    "img",
+                    {
+                      "uuid": "mr8ua9mndunucpneoqo",
+                      "name": "image.png",
+                      "size": 1447189,
+                      "width": 116,
+                      "height": 115.76518218623481,
+                      "src": "/core/api/resources/img/5eecdaf48460cde57f7285e122523bae60c6f9226648ad6875b8339e1c4c24831b75b38faadcd24bec177c308ebd5304f3a560e3572344d8ee9670338d230f3283729709235b7bbbc59ec6b3355a7d5dacdf7200b4e1954c4fb4c8ed7016461c",
+                      "extraData": {
+                        "resourceId": "56489cd5-1152-47cc-8886-d79403dbacee",
+                        "metaData": {
+                          "size": 1447189,
+                          "originWidth": 988,
+                          "originHeight": 986,
+                          "format": "png",
+                          "ratio": 1
+                        }
+                      },
+                      "rotation": 0
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "leaf"
+                        },
+                        ""
+                      ]
+                    ]
+                  ],
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mr8pv965mdsk13b1il",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mr8pv96562zcdatov67"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {
+                "uuid": "mr8pv963cd3u38r1puh"
+              },
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mr8pv9638ihs3crzuxq",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mr8pv963atxc7dhuct"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "color": "#C10002",
+                        "spacing": 0,
+                        "data-type": "leaf"
+                      },
+                      "SKU图"
+                    ],
+                    [
+                      "span",
+                      {
+                        "spacing": 0,
+                        "data-type": "leaf"
+                      },
+                      "中有"
+                    ],
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "spacing": 0,
+                        "data-type": "leaf"
+                      },
+                      "分格显示的多个商品"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mr8pv96327iaqt56d1s",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mr8pv963oef1ygkb7ul"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mr8pv963zjh9dfduhu",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mr8pv963cdjagk4h0o"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ],
+                  [
+                    "img",
+                    {
+                      "uuid": "mr8ua9mnw61etbs7kqq",
+                      "name": "image.png",
+                      "size": 1806218,
+                      "width": 116,
+                      "height": 116,
+                      "src": "/core/api/resources/img/5eecdaf48460cde57f7285e122523bae60c6f9226648ad6875b8339e1c4c24831b75b38faadcd24bec177c308ebd53043fe045c239c2bddec9ee1a641d8cb5410345c52797c528d77884b0121a2b78c3cd92e4f73c0e0dd94fb4c8ed7016461c",
+                      "extraData": {
+                        "resourceId": "7ccac5c3-7e26-48fc-957a-52f93af4e68a",
+                        "metaData": {
+                          "size": 1806218,
+                          "originWidth": 973,
+                          "originHeight": 973,
+                          "format": "png",
+                          "ratio": 1
+                        }
+                      },
+                      "rotation": 0
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "leaf"
+                        },
+                        ""
+                      ]
+                    ]
+                  ],
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ],
+                  [
+                    "img",
+                    {
+                      "uuid": "mr8ua9mnjct3qm4pmd",
+                      "name": "image.png",
+                      "size": 712522,
+                      "width": 87,
+                      "height": 116.27884615384615,
+                      "src": "/core/api/resources/img/5eecdaf48460cde57f7285e122523bae60c6f9226648ad6875b8339e1c4c24831b75b38faadcd24bec177c308ebd5304eac61e8dd2b050b533050d1e9601c85c30d63524f409ccf8ba8b3eb9b0a88465b97a36f3ff17f9414fb4c8ed7016461c",
+                      "extraData": {
+                        "resourceId": "a179e029-df02-4c21-858f-c0d77608ea4d",
+                        "metaData": {
+                          "size": 712522,
+                          "originWidth": 728,
+                          "originHeight": 973,
+                          "format": "png",
+                          "ratio": 1
+                        }
+                      },
+                      "rotation": 0
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "leaf"
+                        },
+                        ""
+                      ]
+                    ]
+                  ],
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {
+                "uuid": "mr8pv962erpsp1gqvc7"
+              },
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mr8pv962n6jw4s7lp5l",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mr8pv9623jtgfaawzb2"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "color": "#C10002",
+                        "spacing": 0,
+                        "data-type": "leaf"
+                      },
+                      "SKU图"
+                    ],
+                    [
+                      "span",
+                      {
+                        "spacing": 0,
+                        "data-type": "leaf"
+                      },
+                      "中"
+                    ],
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "spacing": 0,
+                        "data-type": "leaf"
+                      },
+                      "没有商品"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mr8pv962h1ntcmn1a87",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mr8pv962wacqroyve4c"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mr8pv962t045alcrs5a",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mr8pv9628vwcgjycw7k"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ],
+                  [
+                    "img",
+                    {
+                      "uuid": "mr8ua9mn8lqvu1t6z9j",
+                      "name": "image.png",
+                      "size": 753719,
+                      "width": 116,
+                      "height": 115.88247213779128,
+                      "src": "/core/api/resources/img/5eecdaf48460cde57f7285e122523bae60c6f9226648ad6875b8339e1c4c24831b75b38faadcd24bec177c308ebd530423c034d0e2e6ba4fb3efb9af1eb411241263937fda31cd54b4d5864d3f4066d67dcf94dee934f62c4fb4c8ed7016461c",
+                      "extraData": {
+                        "resourceId": "2a3089a7-9724-430f-8472-d5454efbb83a",
+                        "metaData": {
+                          "size": 753719,
+                          "originWidth": 987,
+                          "originHeight": 986,
+                          "format": "png",
+                          "ratio": 1
+                        }
+                      },
+                      "rotation": 0
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "leaf"
+                        },
+                        ""
+                      ]
+                    ]
+                  ],
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {
+                "uuid": "mr8pv960hi5hgrbl6ck"
+              },
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mr8pv9603m4atccj013",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mr8pv960rze96rcmmi"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "color": "#C10002",
+                        "spacing": 0,
+                        "data-type": "leaf"
+                      },
+                      "SKU图"
+                    ],
+                    [
+                      "span",
+                      {
+                        "spacing": 0,
+                        "data-type": "leaf"
+                      },
+                      "中"
+                    ],
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "spacing": 0,
+                        "data-type": "leaf"
+                      },
+                      "商品主体不完整"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mr8pv960ida388nn4sm",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mr8pv960j08sufy5hkc"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mr8pv960fd2sefk2l8",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mr8pv9609t5aqkztpvm"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ],
+                  [
+                    "img",
+                    {
+                      "uuid": "mr8ua9mn04ndfz1tv7i",
+                      "name": "image.png",
+                      "size": 1216901,
+                      "width": 116,
+                      "height": 153.83288409703505,
+                      "src": "/core/api/resources/img/5eecdaf48460cde57f7285e122523bae60c6f9226648ad6875b8339e1c4c24831b75b38faadcd24bec177c308ebd53040e469717f386db21f67d60c853b6f09fcdfa65f7cb95eec8f0892d719a36f0c2784acfa99fa95a894fb4c8ed7016461c",
+                      "extraData": {
+                        "resourceId": "8e7f4b74-6721-4349-a013-191eb8dd6916",
+                        "metaData": {
+                          "size": 1216901,
+                          "originWidth": 742,
+                          "originHeight": 984,
+                          "format": "png",
+                          "ratio": 1
+                        }
+                      },
+                      "rotation": 0
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "leaf"
+                        },
+                        ""
+                      ]
+                    ]
+                  ],
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ]
+                ]
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mr8psz6lu1kbgf72t7",
+              "ind": {
+                "left": 0
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 9,
+                  "szUnit": "pt",
+                  "underline": {
+                    "value": "single"
+                  },
+                  "data-type": "leaf"
+                },
+                "*图片为商家示例图，仅作为示例展示使用，严禁抄袭或搬运"
+              ]
+            ]
+          ],
+          [
+            "h6",
+            {
+              "uuid": "mr8uaglc9usvpyuadm",
+              "ind": {
+                "left": 0
+              },
+              "spacing": {
+                "before": 19.333333333333332,
+                "after": 8.666666666666666,
+                "line": 0.9333333333333332
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "spacing": 0,
+                  "data-type": "leaf"
+                },
+                "Q4：如果我不想更改主图（主图中有赠品等），但是希望能用"
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "spacing": 0,
+                  "data-type": "leaf"
+                },
+                " SKU "
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "spacing": 0,
+                  "data-type": "leaf"
+                },
+                "裂变的功能，怎么办？"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mr8uf58wwlxw4rsmugj",
+              "ind": {
+                "left": 0
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "spacing": 0,
+                  "data-type": "leaf"
+                },
+                "建议您上传一张"
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "spacing": 0,
+                  "data-type": "leaf"
+                },
+                "没有赠品/没有分格显示的多个商品/没有代言人或明星"
+              ],
+              [
+                "span",
+                {
+                  "spacing": 0,
+                  "data-type": "leaf"
+                },
+                "的创意图到计划当中，然后再使用裂变功能。同时，要保证"
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "spacing": 0,
+                  "data-type": "leaf"
+                },
+                " SKU "
+              ],
+              [
+                "span",
+                {
+                  "spacing": 0,
+                  "data-type": "leaf"
+                },
+                "的图片也"
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "spacing": 0,
+                  "data-type": "leaf"
+                },
+                "没有赠品/没有分格显示的多个商品/商品主体完整"
+              ],
+              [
+                "span",
+                {
+                  "spacing": 0,
+                  "data-type": "leaf"
+                },
+                "哦~"
+              ]
+            ]
+          ],
+          [
+            "h1",
+            {
+              "uuid": "mr376j0o7lkj3xfpdx",
+              "spacing": {
+                "before": 32,
+                "after": 12,
+                "line": 0.9333333333333332
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 21,
+                  "szUnit": "pt",
+                  "spacing": 0,
+                  "data-type": "leaf"
+                },
+                "四、联系我们"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mr376kllvuxn9hi7p2"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": false,
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "spacing": 0,
+                  "data-type": "leaf"
+                },
+                "欢迎扫码加入钉钉群反馈您遇到的问题，小二会一对一及时解答～为了提升问题解决效率，入群请务必备注店铺名称~"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mr376kpe0nbcnto0ljoe",
+              "jc": "center"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "spacing": 0,
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ],
+            [
+              "img",
+              {
+                "uuid": "mr3b3xwcgu2mllsmjnt",
+                "name": "image.png",
+                "size": 376528,
+                "width": 440,
+                "height": 445.33,
+                "src": "/core/api/resources/img/5eecdaf48460cde57f7285e122523bae60c6f9226648ad6875b8339e1c4c24831b75b38faadcd24bec177c308ebd53040557e5262323103f525042579df232670c525022738547184bccae731b96c7c6dd1a69ecf257ab684fb4c8ed7016461c",
+                "extraData": {
+                  "resourceId": "f16391d0-1857-4b68-abc9-3a0ec4cdc5ab",
+                  "metaData": {
+                    "size": 376528,
+                    "originWidth": 660,
+                    "originHeight": 668,
+                    "format": "png",
+                    "ratio": 1
+                  }
+                }
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "spacing": 0,
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mr376ktspw3t1mdenlb"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "spacing": 0,
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mr376kxte64yjtisq3g"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "spacing": 0,
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ]
+        ],
+        "footers": {},
+        "version": 1
+      },
+      "refs": {}
+    }
+  }
+}

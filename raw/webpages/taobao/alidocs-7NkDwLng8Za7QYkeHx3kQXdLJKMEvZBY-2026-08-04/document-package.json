@@ -1,0 +1,1260 @@
+{
+  "version": 1,
+  "type": "application/x-alidocs-package",
+  "main": "00000000-0000-0000-0000-000000000001",
+  "plugins": "00000000-0000-0000-0000-000000000002",
+  "parts": {
+    "00000000-0000-0000-0000-000000000001": {
+      "id": "00000000-0000-0000-0000-000000000001",
+      "type": "application/x-alidocs-word",
+      "version": 1,
+      "data": {
+        "style": {
+          "docDefaults": {
+            "type": "paragraph",
+            "default": 1,
+            "name": "dingdocnormal",
+            "data": {
+              "rPr": {
+                "sz": 12,
+                "szUnit": "pt"
+              },
+              "pPr": {
+                "spacing": {
+                  "before": 12,
+                  "after": 12
+                }
+              }
+            }
+          }
+        },
+        "theme": [],
+        "settings": {
+          "titleCover": {
+            "isHide": true
+          }
+        },
+        "app": {},
+        "numberings": {},
+        "headers": {},
+        "body": [
+          "root",
+          {
+            "sectPr": {
+              "pgSz": {
+                "w": 1588,
+                "h": 1127
+              },
+              "pgMar": {
+                "header": 56.73,
+                "footer": 66.13,
+                "top": 48,
+                "bottom": 48,
+                "left": 72,
+                "right": 72,
+                "gutter": 0
+              }
+            },
+            "theme": {
+              "table": {
+                "tableCell": {
+                  "vAlign": "top"
+                }
+              }
+            },
+            "userData": {
+              "5937034140": {
+                "mgyr9in8mu9zkm3gl9j": {
+                  "fold": false
+                }
+              }
+            },
+            "uuid": "mpqn276c5xu3clduhdx"
+          },
+          [
+            "container",
+            {
+              "subType": "colorBlocks",
+              "metadata": {
+                "padding": {
+                  "top": 11,
+                  "right": 11,
+                  "bottom": 11,
+                  "left": 11
+                },
+                "borderRadius": 8,
+                "sticker": {
+                  "type": "dingding",
+                  "id": "emotion_001",
+                  "name": "[微笑]",
+                  "url": "https://g.alicdn.com/dingding/emotion-assets/0.76.0/mobile/emotion_001.png"
+                },
+                "bgcolor": "radial-gradient(68% 68% at 68% 100%, #F2F7F7 0%, rgba(242, 245, 255, 0) 100%), radial-gradient(53% 53% at 16% -12%, #FEF2F2 0%, rgba(242, 245, 255, 0) 100%), radial-gradient(55% 141% at 100% 100%, #E4EBFF 0%, rgba(242, 245, 255, 0) 100%), linear-gradient(99deg, #E9E7FF 0%, #E4EBFF 100%)",
+                "showstk": false,
+                "border": "#ffffff"
+              },
+              "uuid": "mncrgkemdsu0adjj6tq"
+            },
+            [
+              "p",
+              {
+                "uuid": "mncrgkemhb4h70kgoyf",
+                "jc": "center"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "sz": 16,
+                    "szUnit": "pt",
+                    "data-type": "leaf"
+                  },
+                  "产品功能内测中，内测命中商家，如有疑问，请加群沟通～ "
+                ],
+                [
+                  "span",
+                  {
+                    "bold": true,
+                    "sz": 16,
+                    "szUnit": "pt",
+                    "data-type": "leaf"
+                  },
+                  "群号：112815000125"
+                ]
+              ]
+            ]
+          ],
+          [
+            "container",
+            {
+              "subType": "colorBlocks",
+              "metadata": {
+                "padding": {
+                  "top": 11,
+                  "right": 11,
+                  "bottom": 11,
+                  "left": 11
+                },
+                "borderRadius": 8,
+                "sticker": {
+                  "id": "emotion_001",
+                  "name": "[微笑]",
+                  "type": "dingding",
+                  "url": "https://g.alicdn.com/dingding/emotion-assets/0.76.0/mobile/emotion_001.png"
+                },
+                "bgcolor": "#F5F6F7",
+                "showstk": false,
+                "border": null
+              },
+              "uuid": "mk6mkvqldz2duo8bju"
+            },
+            [
+              "h3",
+              {
+                "spacing": {},
+                "uuid": "mk6mnbzwl80fcl9f2fl"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "color": "linear-gradient(152deg, #C676FF 0%, #654CFF 41%, #405EFF 75%, #007FFF 99%)",
+                    "data-type": "leaf"
+                  },
+                  "🔧 产品升级背景"
+                ]
+              ]
+            ],
+            [
+              "p",
+              {
+                "ind": {},
+                "spacing": {},
+                "uuid": "mk6mnbzx6eza92my5nv"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "highlight": "rgb(246, 247, 248)",
+                    "sz": 12,
+                    "szUnit": "pt",
+                    "color": "#222328",
+                    "data-type": "leaf"
+                  },
+                  "在实际经营中，商家选择竞品不仅依赖手动指定具体对手，更普遍存在"
+                ],
+                [
+                  "span",
+                  {
+                    "bold": true,
+                    "highlight": "rgb(246, 247, 248)",
+                    "sz": 12,
+                    "szUnit": "pt",
+                    "color": "#222328",
+                    "data-type": "leaf"
+                  },
+                  "按行业特征"
+                ],
+                [
+                  "span",
+                  {
+                    "highlight": "rgb(246, 247, 248)",
+                    "sz": 12,
+                    "szUnit": "pt",
+                    "color": "#222328",
+                    "data-type": "leaf"
+                  },
+                  "批量圈选竞品的需求——例如聚焦于“功能相似”“核心卖点相近”或“风格调性一致”的商品集合，从而围绕某一细分赛道构建系统化的竞争对标池。"
+                ]
+              ]
+            ],
+            [
+              "p",
+              {
+                "ind": {},
+                "spacing": {},
+                "uuid": "mmk849j5hoegwgr17i"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "highlight": "rgb(246, 247, 248)",
+                    "sz": 12,
+                    "szUnit": "pt",
+                    "color": "#222328",
+                    "data-type": "leaf"
+                  },
+                  "然而，传统方式难以高效识别这类隐性竞争关系，导致竞品选择片面、投放效率受限。"
+                ]
+              ]
+            ],
+            [
+              "h3",
+              {
+                "ind": {},
+                "spacing": {
+                  "before": 24,
+                  "after": 8.666666666666666,
+                  "line": 0.9333333333333332
+                },
+                "uuid": "mmk8gdopk8h9fpvx0m"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "bold": true,
+                    "sz": 18,
+                    "szUnit": "pt",
+                    "color": "linear-gradient(152deg, #C676FF 0%, #654CFF 41%, #405EFF 75%, #007FFF 99%)",
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ],
+              [
+                "img",
+                {
+                  "extraData": {
+                    "metaData": {
+                      "format": "png",
+                      "originHeight": 200,
+                      "originWidth": 200,
+                      "ratio": 1,
+                      "size": 4992
+                    },
+                    "resourceId": "d1a8b3df-7253-43fe-9c36-57e5742705cb"
+                  },
+                  "height": 24,
+                  "name": "放大镜.png",
+                  "rotation": 0,
+                  "size": 4992,
+                  "src": "/core/api/resources/img/5eecdaf48460cde558f7e844b237f77c8268d4d46097194675b8339e1c4c24831b75b38faadcd24bec177c308ebd5304cbb0b1c4fa7afa7cc447292d0dcb83379035c605dcbf6160c1c329e4ad22ac3178684b86a235d60b4fb4c8ed7016461c",
+                  "uuid": "mpqn275w1w2i3p68ode",
+                  "width": 24
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "text"
+                  },
+                  [
+                    "span",
+                    {
+                      "bold": true,
+                      "sz": 18,
+                      "szUnit": "pt",
+                      "color": "linear-gradient(152deg, #C676FF 0%, #654CFF 41%, #405EFF 75%, #007FFF 99%)",
+                      "data-type": "leaf"
+                    },
+                    ""
+                  ]
+                ]
+              ],
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "bold": true,
+                    "sz": 18,
+                    "szUnit": "pt",
+                    "color": "linear-gradient(152deg, #C676FF 0%, #654CFF 41%, #405EFF 75%, #007FFF 99%)",
+                    "data-type": "leaf"
+                  },
+                  " "
+                ],
+                [
+                  "span",
+                  {
+                    "bold": true,
+                    "sz": 14.5,
+                    "szUnit": "pt",
+                    "color": "linear-gradient(152deg, #C676FF 0%, #654CFF 41%, #405EFF 75%, #007FFF 99%)",
+                    "data-type": "leaf"
+                  },
+                  "产品升级能力简介"
+                ]
+              ]
+            ],
+            [
+              "p",
+              {
+                "ind": {},
+                "spacing": {},
+                "uuid": "mmk849j5uw8frzr3c7"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "highlight": "rgb(246, 247, 248)",
+                    "sz": 12,
+                    "szUnit": "pt",
+                    "color": "#222328",
+                    "data-type": "leaf"
+                  },
+                  "为此，本次产品升级重磅推出 "
+                ],
+                [
+                  "span",
+                  {
+                    "bold": true,
+                    "sz": 12,
+                    "szUnit": "pt",
+                    "color": "linear-gradient(90deg, #FF7100 0%, #F300AD 100%)",
+                    "data-type": "leaf"
+                  },
+                  "「自定义竞争宝贝 · 趋势赛道探测」"
+                ],
+                [
+                  "span",
+                  {
+                    "sz": 12,
+                    "szUnit": "pt",
+                    "color": "linear-gradient(90deg, #FF7100 0%, #F300AD 100%)",
+                    "data-type": "leaf"
+                  },
+                  " "
+                ],
+                [
+                  "span",
+                  {
+                    "highlight": "rgb(246, 247, 248)",
+                    "sz": 12,
+                    "szUnit": "pt",
+                    "color": "#222328",
+                    "data-type": "leaf"
+                  },
+                  "能力："
+                ]
+              ]
+            ],
+            [
+              "table",
+              {
+                "colsWidth": [
+                  221,
+                  516
+                ],
+                "uuid": "mk6n1i4io5kr78fvqbh"
+              },
+              [
+                "tr",
+                {
+                  "uuid": "mk6n1i4i7ry0smpj0zw",
+                  "h": 41
+                },
+                [
+                  "tc",
+                  {
+                    "rowSpan": 1,
+                    "colSpan": 1,
+                    "fill": "radial-gradient(68% 68% at 68% 100%, #F2F7F7 0%, rgba(242, 245, 255, 0) 100%), radial-gradient(53% 53% at 16% -12%, #FEF2F2 0%, rgba(242, 245, 255, 0) 100%), radial-gradient(55% 141% at 100% 100%, #E4EBFF 0%, rgba(242, 245, 255, 0) 100%), linear-gradient(99deg, #E9E7FF 0%, #E4EBFF 100%)",
+                    "bdr": {
+                      "top": {
+                        "val": "single",
+                        "sz": 1,
+                        "color": "#e2e8f0"
+                      },
+                      "right": {
+                        "val": "single",
+                        "sz": 1,
+                        "color": "#e2e8f0"
+                      },
+                      "bottom": {
+                        "val": "single",
+                        "sz": 1,
+                        "color": "#e2e8f0"
+                      },
+                      "left": {
+                        "val": "single",
+                        "sz": 1,
+                        "color": "#e2e8f0"
+                      }
+                    },
+                    "uuid": "mk6n1i4ips0pedsvsp",
+                    "vAlign": "top"
+                  },
+                  [
+                    "p",
+                    {
+                      "uuid": "mk6n1i4i9vz66f2ydt4",
+                      "jc": "center"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "bold": true,
+                          "sz": 12,
+                          "szUnit": "pt",
+                          "color": "#4e5bfc",
+                          "data-type": "leaf"
+                        },
+                        "升级能力"
+                      ]
+                    ]
+                  ]
+                ],
+                [
+                  "tc",
+                  {
+                    "rowSpan": 1,
+                    "colSpan": 1,
+                    "fill": "radial-gradient(68% 68% at 68% 100%, #F2F7F7 0%, rgba(242, 245, 255, 0) 100%), radial-gradient(53% 53% at 16% -12%, #FEF2F2 0%, rgba(242, 245, 255, 0) 100%), radial-gradient(55% 141% at 100% 100%, #E4EBFF 0%, rgba(242, 245, 255, 0) 100%), linear-gradient(99deg, #E9E7FF 0%, #E4EBFF 100%)",
+                    "bdr": {
+                      "top": {
+                        "val": "single",
+                        "sz": 1,
+                        "color": "#e2e8f0"
+                      },
+                      "right": {
+                        "val": "single",
+                        "sz": 1,
+                        "color": "#e2e8f0"
+                      },
+                      "bottom": {
+                        "val": "single",
+                        "sz": 1,
+                        "color": "#e2e8f0"
+                      },
+                      "left": {
+                        "val": "single",
+                        "sz": 1,
+                        "color": "#e2e8f0"
+                      }
+                    },
+                    "uuid": "mk6n1i4iphaabb9vodd",
+                    "vAlign": "top"
+                  },
+                  [
+                    "p",
+                    {
+                      "uuid": "mk6n1i4igrculzoze4",
+                      "jc": "center"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "bold": true,
+                          "sz": 12,
+                          "szUnit": "pt",
+                          "color": "#4e5bfc",
+                          "data-type": "leaf"
+                        },
+                        "解决的核心问题"
+                      ]
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tr",
+                {
+                  "uuid": "mmk8ep0xc379m4f95b9",
+                  "h": 89
+                },
+                [
+                  "tc",
+                  {
+                    "rowSpan": 1,
+                    "colSpan": 1,
+                    "bdr": {
+                      "top": {
+                        "val": "single",
+                        "sz": 1,
+                        "color": "#e2e8f0"
+                      },
+                      "right": {
+                        "val": "single",
+                        "sz": 1,
+                        "color": "#e2e8f0"
+                      },
+                      "bottom": {
+                        "val": "single",
+                        "sz": 1,
+                        "color": "#e2e8f0"
+                      },
+                      "left": {
+                        "val": "single",
+                        "sz": 1,
+                        "color": "#e2e8f0"
+                      }
+                    },
+                    "uuid": "mmk8exk8rhdeqspgzgn",
+                    "vAlign": "middle"
+                  },
+                  [
+                    "p",
+                    {
+                      "uuid": "mmk8exk8egjisno55lv",
+                      "jc": "center"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "bold": true,
+                          "sz": 12,
+                          "szUnit": "pt",
+                          "color": "linear-gradient(90deg, #EB47FF 0%, #F95101 100%)",
+                          "data-type": "leaf"
+                        },
+                        "卖点趋势探测 "
+                      ]
+                    ],
+                    [
+                      "img",
+                      {
+                        "extraData": {
+                          "metaData": {
+                            "format": "png",
+                            "originHeight": 200,
+                            "originWidth": 200,
+                            "ratio": 1,
+                            "size": 3740
+                          },
+                          "resourceId": "c7e0cbf3-c8b0-404c-86f5-30d2e7eeee2a"
+                        },
+                        "height": 21,
+                        "name": "new (2).png",
+                        "rectClip": {
+                          "left": 0,
+                          "right": 0,
+                          "top": 9.35322,
+                          "bottom": 8.57377
+                        },
+                        "rotation": 0,
+                        "size": 3740,
+                        "src": "/core/api/resources/img/5eecdaf48460cde558f7e844b237f77c8268d4d46097194675b8339e1c4c24831b75b38faadcd24bec177c308ebd5304af4305c4caaa291090c497f6844eedb3c3f376b0057076db95a99655902c29f3eabbf01a02172a624fb4c8ed7016461c",
+                        "uuid": "mpqn275w410um60b26u",
+                        "width": 38
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "text"
+                        },
+                        [
+                          "span",
+                          {
+                            "bold": true,
+                            "sz": 14.5,
+                            "szUnit": "pt",
+                            "data-type": "leaf"
+                          },
+                          ""
+                        ]
+                      ]
+                    ],
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "bold": true,
+                          "sz": 12,
+                          "szUnit": "pt",
+                          "color": "linear-gradient(90deg, #EB47FF 0%, #F95101 100%)",
+                          "data-type": "leaf"
+                        },
+                        ""
+                      ]
+                    ]
+                  ]
+                ],
+                [
+                  "tc",
+                  {
+                    "rowSpan": 1,
+                    "colSpan": 1,
+                    "bdr": {
+                      "top": {
+                        "val": "single",
+                        "sz": 1,
+                        "color": "#e2e8f0"
+                      },
+                      "right": {
+                        "val": "single",
+                        "sz": 1,
+                        "color": "#e2e8f0"
+                      },
+                      "bottom": {
+                        "val": "single",
+                        "sz": 1,
+                        "color": "#e2e8f0"
+                      },
+                      "left": {
+                        "val": "single",
+                        "sz": 1,
+                        "color": "#e2e8f0"
+                      }
+                    },
+                    "uuid": "mmk8exk8shvbr144i5",
+                    "vAlign": "top"
+                  },
+                  [
+                    "p",
+                    {
+                      "uuid": "mmk8exk80359q7qfjvjx"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "highlight": "rgb(246, 247, 248)",
+                          "sz": 12,
+                          "szUnit": "pt",
+                          "color": "#222328",
+                          "data-type": "leaf"
+                        },
+                        "基于商品关键属性与市场定位等多维数据，"
+                      ],
+                      [
+                        "span",
+                        {
+                          "bold": true,
+                          "highlight": "rgb(246, 247, 248)",
+                          "sz": 12,
+                          "szUnit": "pt",
+                          "color": "#222328",
+                          "data-type": "leaf"
+                        },
+                        "智能识别并聚合具有相同卖点、趋势特征的商品集群"
+                      ],
+                      [
+                        "span",
+                        {
+                          "highlight": "rgb(246, 247, 248)",
+                          "sz": 12,
+                          "szUnit": "pt",
+                          "color": "#222328",
+                          "data-type": "leaf"
+                        },
+                        "，帮助商家一键圈选高相关性竞品集合，实现更精准的赛道对标与更高效的竞争投放。"
+                      ]
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tr",
+                {
+                  "uuid": "mk6n1i4inkva4gq7uom"
+                },
+                [
+                  "tc",
+                  {
+                    "rowSpan": 1,
+                    "colSpan": 1,
+                    "bdr": {
+                      "top": {
+                        "val": "single",
+                        "sz": 1,
+                        "color": "#e2e8f0"
+                      },
+                      "right": {
+                        "val": "single",
+                        "sz": 1,
+                        "color": "#e2e8f0"
+                      },
+                      "bottom": {
+                        "val": "single",
+                        "sz": 1,
+                        "color": "#e2e8f0"
+                      },
+                      "left": {
+                        "val": "single",
+                        "sz": 1,
+                        "color": "#e2e8f0"
+                      }
+                    },
+                    "uuid": "mk6n1i4i36m4xb18ipq",
+                    "vAlign": "middle"
+                  },
+                  [
+                    "p",
+                    {
+                      "uuid": "mk6n1i4i7hianvficts",
+                      "jc": "center"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "bold": true,
+                          "sz": 12,
+                          "szUnit": "pt",
+                          "color": "#252527",
+                          "data-type": "leaf"
+                        },
+                        "提升竞店选择效率 "
+                      ]
+                    ],
+                    [
+                      "img",
+                      {
+                        "extraData": {
+                          "metaData": {
+                            "format": "png",
+                            "originHeight": 200,
+                            "originWidth": 200,
+                            "ratio": 1,
+                            "size": 3740
+                          },
+                          "resourceId": "c7e0cbf3-c8b0-404c-86f5-30d2e7eeee2a"
+                        },
+                        "height": 21,
+                        "name": "new (2).png",
+                        "rectClip": {
+                          "bottom": 8.48945,
+                          "left": 0,
+                          "right": 0,
+                          "top": 9.26123
+                        },
+                        "rotation": 0,
+                        "size": 3740,
+                        "src": "/core/api/resources/img/5eecdaf48460cde558f7e844b237f77c8268d4d46097194675b8339e1c4c24831b75b38faadcd24bec177c308ebd5304af4305c4caaa291090c497f6844eedb3c3f376b0057076db95a99655902c29f3eabbf01a02172a624fb4c8ed7016461c",
+                        "uuid": "mpqn275wujb4r33r8",
+                        "width": 38
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "text"
+                        },
+                        [
+                          "span",
+                          {
+                            "bold": true,
+                            "sz": 14.5,
+                            "szUnit": "pt",
+                            "data-type": "leaf"
+                          },
+                          ""
+                        ]
+                      ]
+                    ],
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "bold": true,
+                          "sz": 12,
+                          "szUnit": "pt",
+                          "color": "#252527",
+                          "data-type": "leaf"
+                        },
+                        ""
+                      ]
+                    ]
+                  ]
+                ],
+                [
+                  "tc",
+                  {
+                    "rowSpan": 1,
+                    "colSpan": 1,
+                    "bdr": {
+                      "top": {
+                        "val": "single",
+                        "sz": 1,
+                        "color": "#e2e8f0"
+                      },
+                      "right": {
+                        "val": "single",
+                        "sz": 1,
+                        "color": "#e2e8f0"
+                      },
+                      "bottom": {
+                        "val": "single",
+                        "sz": 1,
+                        "color": "#e2e8f0"
+                      },
+                      "left": {
+                        "val": "single",
+                        "sz": 1,
+                        "color": "#e2e8f0"
+                      }
+                    },
+                    "uuid": "mk6n1i4in5eso0i9g8d",
+                    "vAlign": "top"
+                  },
+                  [
+                    "p",
+                    {
+                      "ind": {},
+                      "spacing": {},
+                      "uuid": "mmk8ni28gyfk83l0hh"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "highlight": "rgb(246, 247, 248)",
+                          "sz": 12,
+                          "szUnit": "pt",
+                          "color": "#222328",
+                          "data-type": "leaf"
+                        },
+                        "新增本店/本品数据基准对比能力，丰富竞品筛选条件，支持商家一键导入竞品清单，同时大幅提升单次可添加的竞品数量上限，让竞争对标更全面、操作更高效。"
+                      ]
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "table",
+              {
+                "colsWidth": [
+                  354.9303894042969,
+                  384.9303894042969
+                ],
+                "sr": true,
+                "uuid": "mkga2ffwbu0ag75gpcb"
+              },
+              [
+                "tr",
+                {
+                  "uuid": "mkga2ffwj3xb3lic6sf"
+                },
+                [
+                  "tc",
+                  {
+                    "vAlign": "top",
+                    "fill": "#FFFFFF",
+                    "uuid": "mmk9486ckrobgsl5qpi",
+                    "rowSpan": 1,
+                    "colSpan": 1
+                  },
+                  [
+                    "p",
+                    {
+                      "uuid": "mmk94basut0wihdiv"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "leaf"
+                        },
+                        ""
+                      ]
+                    ],
+                    [
+                      "img",
+                      {
+                        "uuid": "mpqn275wdd7m4k0pgi7",
+                        "name": "image.png",
+                        "size": 367007,
+                        "width": 346,
+                        "height": 156.52380952380952,
+                        "src": "/core/api/resources/img/5eecdaf48460cde52445abcfaddf21cc4e2bd77f3bf1b51c75b8339e1c4c24831b75b38faadcd24bec177c308ebd5304215bd1c57bb9185e0d4612c93fb62a00d2740dfcba26d6fa2101ea8c5eeec90b4873318d45911c584fb4c8ed7016461c",
+                        "extraData": {
+                          "resourceId": "776f2dd8-752e-4006-9e72-975ab61c4758",
+                          "metaData": {
+                            "size": 367007,
+                            "originWidth": 1848,
+                            "originHeight": 836,
+                            "format": "png",
+                            "ratio": 1
+                          }
+                        }
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "text"
+                        },
+                        [
+                          "span",
+                          {
+                            "data-type": "leaf"
+                          },
+                          ""
+                        ]
+                      ]
+                    ],
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "leaf"
+                        },
+                        ""
+                      ]
+                    ]
+                  ],
+                  [
+                    "p",
+                    {
+                      "uuid": "mmk88m3k44kiyittszs"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "bold": true,
+                          "data-type": "leaf"
+                        },
+                        "升级前："
+                      ]
+                    ]
+                  ],
+                  [
+                    "p",
+                    {
+                      "uuid": "mmk88sck8bmkpprl6pp"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "sz": 12,
+                          "szUnit": "pt",
+                          "color": "",
+                          "data-type": "leaf"
+                        },
+                        "商家需手动逐个添加自定义竞品或竞店，依赖自身经验与数据判断是否构成竞争关系。尤其在非标行业（如服饰、家居等），商品差异大、卖点分散，导致竞品识别成本高、覆盖不全，难以支撑高效精准的竞争投放。"
+                      ]
+                    ]
+                  ]
+                ],
+                [
+                  "tc",
+                  {
+                    "fill": "#FFFFFF",
+                    "vAlign": "top",
+                    "uuid": "mkga2ffwnev5vfx441i",
+                    "rowSpan": 1,
+                    "colSpan": 1
+                  },
+                  [
+                    "p",
+                    {
+                      "uuid": "mmk8dqcuog7f9l4sn7"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "leaf"
+                        },
+                        ""
+                      ]
+                    ],
+                    [
+                      "img",
+                      {
+                        "uuid": "mpqn275wwhwejr0zqds",
+                        "name": "image.png",
+                        "size": 392756,
+                        "width": 368,
+                        "height": 154.1692832409071,
+                        "src": "/core/api/resources/img/5eecdaf48460cde52445abcfaddf21cc4e2bd77f3bf1b51c75b8339e1c4c24831b75b38faadcd24bec177c308ebd5304dbb9d981d6b92a187b3685ed1f7150044155931436ddb4d2a323d028b4b7461fd18a3def5f2e7fdb4fb4c8ed7016461c",
+                        "extraData": {
+                          "resourceId": "9b8d8db9-353c-4bac-8823-400150fc971b",
+                          "metaData": {
+                            "size": 392756,
+                            "originWidth": 1690,
+                            "originHeight": 708,
+                            "format": "png",
+                            "ratio": 1
+                          }
+                        }
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "text"
+                        },
+                        [
+                          "span",
+                          {
+                            "data-type": "leaf"
+                          },
+                          ""
+                        ]
+                      ]
+                    ],
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "leaf"
+                        },
+                        ""
+                      ]
+                    ]
+                  ],
+                  [
+                    "p",
+                    {
+                      "uuid": "mmk8uiednu2xu6xuthd"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "bold": true,
+                          "data-type": "leaf"
+                        },
+                        "升级后："
+                      ]
+                    ]
+                  ],
+                  [
+                    "p",
+                    {
+                      "uuid": "mmk8wzpbxmbpjr26ejq"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "sz": 12,
+                          "szUnit": "pt",
+                          "color": "",
+                          "data-type": "leaf"
+                        },
+                        "系统基于所选商品，智能识别其"
+                      ],
+                      [
+                        "span",
+                        {
+                          "bold": true,
+                          "sz": 12,
+                          "szUnit": "pt",
+                          "color": "",
+                          "data-type": "leaf"
+                        },
+                        "核心卖点及关联的热门趋势赛道"
+                      ],
+                      [
+                        "span",
+                        {
+                          "sz": 12,
+                          "szUnit": "pt",
+                          "color": "",
+                          "data-type": "leaf"
+                        },
+                        "，并自动聚合处于"
+                      ],
+                      [
+                        "span",
+                        {
+                          "bold": true,
+                          "sz": 12,
+                          "szUnit": "pt",
+                          "color": "",
+                          "data-type": "leaf"
+                        },
+                        "同一赛道"
+                      ],
+                      [
+                        "span",
+                        {
+                          "sz": 12,
+                          "szUnit": "pt",
+                          "color": "",
+                          "data-type": "leaf"
+                        },
+                        "的高相关性商品集合，"
+                      ],
+                      [
+                        "span",
+                        {
+                          "bold": true,
+                          "sz": 12,
+                          "szUnit": "pt",
+                          "color": "linear-gradient(90deg, #FF7100 0%, #F300AD 100%)",
+                          "data-type": "leaf"
+                        },
+                        "帮助商家快速、批量发现真实赛道竞争的竞品"
+                      ],
+                      [
+                        "span",
+                        {
+                          "sz": 12,
+                          "szUnit": "pt",
+                          "color": "",
+                          "data-type": "leaf"
+                        },
+                        "，显著降低筛选门槛，提升竞争策略的广度与精准度！"
+                      ]
+                    ]
+                  ]
+                ]
+              ]
+            ]
+          ],
+          [
+            "h1",
+            {
+              "uuid": "mgyr9in8mu9zkm3gl9j",
+              "spacing": {
+                "before": 32,
+                "after": 12,
+                "line": 0.8615384615384615
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 21,
+                  "szUnit": "pt",
+                  "color": "#252527",
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ]
+        ],
+        "footers": {},
+        "version": 1
+      },
+      "refs": {}
+    }
+  }
+}

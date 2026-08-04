@@ -2,7 +2,7 @@
 title: AI Agent 工具链
 type: concept
 created: 2026-06-14
-updated: 2026-07-29
+updated: 2026-08-03
 domain: AI Agent工程
 tags: [toolchain, ai-agent, index]
 sources:
@@ -10,6 +10,8 @@ sources:
   - _meta/extraction-notes/company-shared-gpu-worker-2026-07-24/coverage-matrix.md
   - raw/articles/agent-driven-ecommerce-cli-methodology-2026-07-29/source-evidence.md
   - _meta/extraction-notes/agent-driven-ecommerce-cli-methodology-2026-07-29/coverage-matrix.md
+  - raw/articles/gigsgigscloud-shadowsocks-node-2026-08-03/source-evidence.md
+  - _meta/extraction-notes/gigsgigscloud-shadowsocks-node-2026-08-03/coverage-matrix.md
 status: active
 ---
 
@@ -23,6 +25,9 @@ Agent 开发中涉及的外部工具、API、通道和平台的集成方法与�
 - [[domains/AI Agent工程/05-工具链/02-飞书机器人Sealseek通道配置|飞书机器人 Sealseek 通道配置]]
 - [[domains/AI Agent工程/05-工具链/03-公司共享GPU工作节点与分时调度方法|公司共享 GPU 工作节点与分时调度方法]]：从远程 GPU 原型演进到多人可治理任务服务的方法；当前超分项目尚处原型阶段。
 - [[domains/AI Agent工程/05-工具链/04-Real-ESRGAN远程超分案例|Real-ESRGAN 远程超分案例]]：Tailscale + SSH/SCP + Windows GPU 的已验证初步测试。
+- [[domains/AI Agent工程/05-工具链/05-网络与远程节点/index|网络与远程节点]]：VPS、代理线路、云安全组、客户端接入和真实业务可达性的部署与验证方法。
+- [[domains/AI Agent工程/05-工具链/05-网络与远程节点/01-GigsGigsCloud东京Shadowsocks节点部署与运维|GigsGigsCloud 东京 Shadowsocks 节点部署与运维]]：东京 Premium China Route 的 Shadowsocks、Mihomo、测速和排障实践。
+- [[queries/VPS代理节点部署与排障|VPS 代理节点部署与排障]]：选线路、搭节点、测速、排障和客户端兼容性的 Agent 入口。
 - [[queries/公司GPU共享与远程任务调度|公司 GPU 共享与远程任务调度]]：公司 GPU 共享、异地访问和排队调度的 Agent 入口。
 
 ## 关联模块

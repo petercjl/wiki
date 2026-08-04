@@ -1,0 +1,608 @@
+{
+  "version": 1,
+  "type": "application/x-alidocs-package",
+  "main": "00000000-0000-0000-0000-000000000001",
+  "plugins": "00000000-0000-0000-0000-000000000002",
+  "parts": {
+    "00000000-0000-0000-0000-000000000001": {
+      "id": "00000000-0000-0000-0000-000000000001",
+      "type": "application/x-alidocs-word",
+      "version": 1,
+      "data": {
+        "style": {
+          "docDefaults": {
+            "type": "paragraph",
+            "default": 1,
+            "name": "dingdocnormal",
+            "data": {
+              "rPr": {
+                "sz": 12,
+                "szUnit": "pt"
+              },
+              "pPr": {
+                "spacing": {
+                  "before": 10,
+                  "after": 10
+                }
+              }
+            }
+          }
+        },
+        "theme": [],
+        "settings": {
+          "titleCover": {
+            "isHide": true
+          }
+        },
+        "app": {},
+        "numberings": {},
+        "headers": {},
+        "body": [
+          "root",
+          {
+            "sectPr": {
+              "pgSz": {
+                "w": 892,
+                "h": 1127
+              },
+              "pgMar": {
+                "top": 48,
+                "bottom": 48,
+                "left": 72,
+                "right": 72,
+                "header": 56.73,
+                "footer": 66.13,
+                "gutter": 0
+              }
+            },
+            "theme": {
+              "table": {
+                "tableCell": {
+                  "vAlign": "top"
+                }
+              }
+            }
+          },
+          [
+            "h1",
+            {
+              "uuid": "mg3n58l4oyamgn6w1h8",
+              "ind": {
+                "left": 0
+              },
+              "spacing": {
+                "before": 32,
+                "after": 12,
+                "line": 0.8615384615384615
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 21,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "大促限时福利："
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mg3n5bv1jsh6jyx6ous",
+              "ind": {
+                "firstLine": 32
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 16,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "为方便商家朋友更易获取"
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "italic": true,
+                  "sz": 16,
+                  "szUnit": "pt",
+                  "color": "linear-gradient(90deg, #2449FE 0%, #CA4BA7 100%)",
+                  "data-type": "leaf"
+                },
+                "“首页猜你喜欢”、“购中后猜你喜欢”"
+              ],
+              [
+                "span",
+                {
+                  "sz": 16,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "的优质流量；大促期间人群推广特意推出"
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "italic": true,
+                  "sz": 16,
+                  "szUnit": "pt",
+                  "color": "linear-gradient(90deg, #2449FE 0%, #CA4BA7 100%)",
+                  "data-type": "leaf"
+                },
+                "“重磅限时福利”"
+              ],
+              [
+                "span",
+                {
+                  "sz": 16,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "，若您选择"
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "italic": true,
+                  "sz": 16,
+                  "szUnit": "pt",
+                  "color": "linear-gradient(90deg, #2449FE 0%, #CA4BA7 100%)",
+                  "data-type": "leaf"
+                },
+                "“手动出价”"
+              ],
+              [
+                "span",
+                {
+                  "sz": 16,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "模式，则这条计划的"
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "italic": true,
+                  "sz": 16,
+                  "szUnit": "pt",
+                  "color": "linear-gradient(90deg, #2449FE 0%, #CA4BA7 100%)",
+                  "data-type": "leaf"
+                },
+                "“淘系其他信息流”资源位变为投放可选！"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mg3newrrxreaj4ebgqa",
+              "ind": {
+                "firstLine": 32
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 16,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "具体产品升级如下图所示（"
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "italic": true,
+                  "sz": 16,
+                  "szUnit": "pt",
+                  "color": "linear-gradient(90deg, #2449FE 0%, #CA4BA7 100%)",
+                  "data-type": "leaf"
+                },
+                "您只需在“手动出价”模式下的“资源位”板块内点击“开关”即可关闭！"
+              ],
+              [
+                "span",
+                {
+                  "sz": 16,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "）"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mg3n93nguy124jatzi",
+              "ind": {}
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ],
+            [
+              "img",
+              {
+                "uuid": "x3g6qp",
+                "name": "image.png",
+                "size": 958930,
+                "width": 748,
+                "height": 415.7211155378486,
+                "src": "/core/api/resources/img/5eecdaf48460cde5bd8df1c4e92db7a754b2bfba4117d03375b8339e1c4c24831b75b38faadcd24bec177c308ebd53045f2c68ee233ee41f605927741646bac3971ed1e7811908c7d037eceaedce58eab1134df8aefa9f034fb4c8ed7016461c",
+                "extraData": {
+                  "resourceId": "29e402fd-6187-49dd-8e1f-ec2b26875417",
+                  "metaData": {
+                    "size": 958930,
+                    "originWidth": 2008,
+                    "originHeight": 1116,
+                    "format": "png",
+                    "ratio": 1
+                  }
+                },
+                "outline": {},
+                "radius": 2,
+                "shadow": "var(--we_m_shadow, 0px 4px 24px 0px rgba(0, 0, 0, 0.1))"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "h1",
+            {
+              "uuid": "mg3nf8ows8doxccgv7g",
+              "ind": {
+                "left": 0
+              },
+              "spacing": {
+                "before": 32,
+                "after": 12,
+                "line": 0.8615384615384615
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 21,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "FAQ："
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mg3nfbe74t8fl8qoiel",
+              "ind": {
+                "left": 0
+              },
+              "list": {
+                "listId": "fxutouerknd",
+                "level": 0,
+                "isTaskList": false,
+                "isOrdered": false,
+                "listStyleType": "SCIR_ECIR_SREC",
+                "symbolStyle": {
+                  "sz": 16
+                },
+                "listStyle": {
+                  "format": "bullet",
+                  "text": "●",
+                  "align": "left"
+                }
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 16,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "如何获得本次“重磅限时福利”？"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mg3ngi42dv1wammq6jn",
+              "ind": {
+                "left": 0
+              },
+              "list": {
+                "listId": "fxutouerknd",
+                "level": 1,
+                "isTaskList": false,
+                "isOrdered": false,
+                "listStyleType": "SCIR_ECIR_SREC",
+                "symbolStyle": {
+                  "sz": 16
+                },
+                "listStyle": {
+                  "format": "bullet",
+                  "text": "○",
+                  "align": "left"
+                },
+                "extraData": {},
+                "isChecked": false,
+                "hideSymbol": false
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 16,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "本次活动为邀约制，不支持单独申请；具体请以后台通知/展示为准"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mg3ngfev0wv89x0ihsz",
+              "ind": {
+                "left": 0
+              },
+              "list": {
+                "listId": "fxutouerknd",
+                "level": 0,
+                "isTaskList": false,
+                "isOrdered": false,
+                "listStyleType": "SCIR_ECIR_SREC",
+                "symbolStyle": {
+                  "sz": 16
+                },
+                "listStyle": {
+                  "format": "bullet",
+                  "text": "●",
+                  "align": "left"
+                },
+                "extraData": {},
+                "isChecked": false,
+                "hideSymbol": false
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 16,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "本次“重磅限时福利”预计持续多久？"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mg3nhskzjfe1l3kvkai",
+              "ind": {
+                "left": 0
+              },
+              "list": {
+                "listId": "fxutouerknd",
+                "level": 1,
+                "isTaskList": false,
+                "isOrdered": false,
+                "listStyleType": "SCIR_ECIR_SREC",
+                "symbolStyle": {
+                  "sz": 16
+                },
+                "listStyle": {
+                  "format": "bullet",
+                  "text": "○",
+                  "align": "left"
+                },
+                "extraData": {},
+                "isChecked": false,
+                "hideSymbol": false
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 16,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "大促结束后回收"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mg3nhtyh1ctms8w044x",
+              "ind": {
+                "left": 0
+              },
+              "list": {
+                "listId": "fxutouerknd",
+                "level": 0,
+                "isTaskList": false,
+                "isOrdered": false,
+                "listStyleType": "SCIR_ECIR_SREC",
+                "symbolStyle": {
+                  "sz": 16
+                },
+                "listStyle": {
+                  "format": "bullet",
+                  "text": "●",
+                  "align": "left"
+                },
+                "extraData": {},
+                "isChecked": false,
+                "hideSymbol": false
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 16,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "本次“重磅限时福利”升级后，店铺的“手动出价”计划会投放到哪？"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mg3nkbiy3gpooxdda2q",
+              "ind": {
+                "left": 0
+              },
+              "list": {
+                "listId": "fxutouerknd",
+                "level": 1,
+                "isTaskList": false,
+                "isOrdered": false,
+                "listStyleType": "SCIR_ECIR_SREC",
+                "symbolStyle": {
+                  "sz": 16
+                },
+                "listStyle": {
+                  "format": "bullet",
+                  "text": "○",
+                  "align": "left"
+                },
+                "extraData": {},
+                "isChecked": false,
+                "hideSymbol": false
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 16,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "该计划只会投放到："
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "italic": true,
+                  "sz": 16,
+                  "szUnit": "pt",
+                  "color": "linear-gradient(90deg, #2449FE 0%, #CA4BA7 100%)",
+                  "data-type": "leaf"
+                },
+                "“首页猜你喜欢”、“全屏微详情”、“购中后猜你喜欢”"
+              ]
+            ]
+          ]
+        ],
+        "footers": {},
+        "version": 1
+      },
+      "refs": {}
+    }
+  }
+}

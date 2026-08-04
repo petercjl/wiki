@@ -1,0 +1,134 @@
+{
+  "version": 1,
+  "type": "application/x-alidocs-package",
+  "main": "00000000-0000-0000-0000-000000000001",
+  "plugins": "00000000-0000-0000-0000-000000000002",
+  "parts": {
+    "0fcb477d-0ea3-4c06-84fa-05ce1d1d55d3": {
+      "id": "0fcb477d-0ea3-4c06-84fa-05ce1d1d55d3",
+      "type": "application/x-alidocs-plugin-attachment",
+      "version": 1,
+      "data": {
+        "fileName": "2026年货节人群推广实操指南v3.pdf",
+        "fileType": "application/pdf",
+        "fileSize": 3240712,
+        "viewType": "preview",
+        "src": "/core/api/resources/051a87bf-c4c7-41e4-80eb-251d7aa239ab/detail",
+        "resourceId": "051a87bf-c4c7-41e4-80eb-251d7aa239ab",
+        "storagePath": "att/b1b9996e-41af-4574-a740-0e4547ba9498.pdf",
+        "uniqueId": "9175175d-cf24-4ac8-ad36-77f07c990807",
+        "previewSize": {
+          "height": 800
+        }
+      }
+    },
+    "00000000-0000-0000-0000-000000000001": {
+      "id": "00000000-0000-0000-0000-000000000001",
+      "type": "application/x-alidocs-word",
+      "version": 1,
+      "data": {
+        "style": {
+          "docDefaults": {
+            "type": "paragraph",
+            "default": 1,
+            "name": "dingdocnormal",
+            "data": {
+              "rPr": {
+                "sz": 12,
+                "szUnit": "pt"
+              },
+              "pPr": {
+                "spacing": {
+                  "before": 12,
+                  "after": 12
+                }
+              }
+            }
+          }
+        },
+        "theme": [],
+        "settings": {
+          "titleCover": {
+            "isHide": true
+          }
+        },
+        "app": {},
+        "numberings": {},
+        "headers": {},
+        "body": [
+          "root",
+          {
+            "sectPr": {
+              "pgSz": {
+                "w": 1588,
+                "h": 1127
+              },
+              "pgMar": {
+                "top": 48,
+                "bottom": 48,
+                "left": 72,
+                "right": 72,
+                "header": 56.73,
+                "footer": 66.13,
+                "gutter": 0
+              }
+            },
+            "theme": {
+              "table": {
+                "tableCell": {
+                  "vAlign": "top"
+                }
+              }
+            }
+          },
+          [
+            "card",
+            {
+              "cardType": "hetu",
+              "metadata": {
+                "id": "0fcb477d-0ea3-4c06-84fa-05ce1d1d55d3",
+                "type": "application/x-alidocs-plugin-attachment"
+              },
+              "uuid": "mjjnfaypjp1itchf0m"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mjjnf23wnwrixtryy5h"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ]
+        ],
+        "footers": {},
+        "version": 1
+      },
+      "refs": {}
+    }
+  }
+}

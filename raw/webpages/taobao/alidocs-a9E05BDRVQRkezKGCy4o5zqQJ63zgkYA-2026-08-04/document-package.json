@@ -1,0 +1,1596 @@
+{
+  "version": 1,
+  "type": "application/x-alidocs-package",
+  "main": "00000000-0000-0000-0000-000000000001",
+  "plugins": "00000000-0000-0000-0000-000000000002",
+  "parts": {
+    "00000000-0000-0000-0000-000000000001": {
+      "id": "00000000-0000-0000-0000-000000000001",
+      "type": "application/x-alidocs-word",
+      "version": 1,
+      "data": {
+        "style": {
+          "docDefaults": {
+            "type": "paragraph",
+            "default": 1,
+            "name": "dingdocnormal",
+            "data": {
+              "rPr": {
+                "sz": 12,
+                "szUnit": "pt"
+              },
+              "pPr": {
+                "spacing": {
+                  "before": 12,
+                  "after": 12
+                }
+              }
+            }
+          }
+        },
+        "theme": [],
+        "settings": {
+          "titleCover": {
+            "isHide": true
+          }
+        },
+        "app": {},
+        "numberings": {},
+        "headers": {},
+        "body": [
+          "root",
+          {
+            "sectPr": {
+              "pgSz": {
+                "w": 892,
+                "h": 1127
+              },
+              "pgMar": {
+                "top": 48,
+                "bottom": 48,
+                "left": 72,
+                "right": 72,
+                "header": 56.73,
+                "footer": 66.13,
+                "gutter": 0
+              }
+            },
+            "theme": {
+              "table": {
+                "tableCell": {
+                  "vAlign": "top"
+                }
+              }
+            }
+          },
+          [
+            "h4",
+            {
+              "ind": {
+                "left": 0
+              },
+              "uuid": "m79xh6b4shw0drfku5",
+              "spacing": {
+                "line": 1.15,
+                "lineRule": "auto"
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 11,
+                  "szUnit": "pt",
+                  "color": "#000000",
+                  "data-type": "leaf"
+                },
+                "1、店铺直达商家准入有哪些要求？"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "spacing": {
+                "line": 1.15,
+                "lineRule": "auto"
+              },
+              "uuid": "m79xodadm25flk4vn2i"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 11,
+                  "szUnit": "pt",
+                  "color": "",
+                  "underline": {
+                    "value": "single"
+                  },
+                  "data-type": "leaf"
+                },
+                "专营店、供应商账号、叉乘账号暂时不支持投放店铺直达。"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "spacing": {
+                "line": 1.15,
+                "lineRule": "auto"
+              },
+              "uuid": "m79xodadhe5p2sckbdv"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 11,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "2、淘宝商家和天猫商家需满足以下规则："
+              ]
+            ]
+          ],
+          [
+            "table",
+            {
+              "colsWidth": [
+                471,
+                348
+              ],
+              "uuid": "mo8daml4fufon44wtj"
+            },
+            [
+              "tr",
+              {
+                "uuid": "mo8daml4x8pj2314ufh"
+              },
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "vAlign": "top",
+                  "uuid": "mo8daml4plrfz7b1sy9"
+                },
+                [
+                  "p",
+                  {
+                    "spacing": {
+                      "line": 1.15,
+                      "lineRule": "auto"
+                    },
+                    "uuid": "m79xodadjh89oygwgj"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      "淘宝商家"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "vAlign": "top",
+                  "uuid": "mo8daml4jjfzxzpmqad"
+                },
+                [
+                  "p",
+                  {
+                    "jc": "left",
+                    "spacing": {
+                      "line": 1.15,
+                      "lineRule": "auto"
+                    },
+                    "uuid": "m79xodadcda0em5an0a"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      "天猫商家"
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {
+                "uuid": "mo8daml4ac60rc4r6ks"
+              },
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "vAlign": "top",
+                  "uuid": "mo8daml46wu65soedfc"
+                },
+                [
+                  "p",
+                  {
+                    "jc": "left",
+                    "spacing": {
+                      "line": 1.15,
+                      "lineRule": "auto"
+                    },
+                    "uuid": "m79xodaeshkyxwi4dii"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "#333333",
+                        "data-type": "leaf"
+                      },
+                      "店铺信用等级"
+                    ],
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "#f5222d",
+                        "data-type": "leaf"
+                      },
+                      "三星级及以上"
+                    ],
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "#333333",
+                        "data-type": "leaf"
+                      },
+                      "，如下图"
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "spacing": {
+                      "line": 1.15,
+                      "lineRule": "auto"
+                    },
+                    "uuid": "m79xodaelofkdw40g9s"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ],
+                  [
+                    "img",
+                    {
+                      "height": 129,
+                      "name": "",
+                      "src": "https://alidocs.oss-cn-zhangjiakou.aliyuncs.com/lark/https://yuque.antfin.com/chenchun.chen/gqhty9/mto262dcsv55oeqy/imgmoDKdfkkO3.png",
+                      "width": 119,
+                      "uuid": "mogykcq27zlnhsxwho3"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "sz": 11,
+                          "szUnit": "pt",
+                          "data-type": "leaf"
+                        },
+                        ""
+                      ]
+                    ]
+                  ],
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "jc": "left",
+                    "spacing": {
+                      "line": 1.15,
+                      "lineRule": "auto"
+                    },
+                    "uuid": "m79xodaefampbibumc7"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "#333333",
+                        "data-type": "leaf"
+                      },
+                      "淘宝店铺投放店铺直达时，需提供"
+                    ],
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "#f5222d",
+                        "data-type": "leaf"
+                      },
+                      "商标注册证（R标）"
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "jc": "left",
+                    "spacing": {
+                      "line": 1.15,
+                      "lineRule": "auto"
+                    },
+                    "uuid": "m79xodae7xs3alufkgm"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "#333333",
+                        "data-type": "leaf"
+                      },
+                      "店铺每项DSR在4.4及以上；"
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "jc": "left",
+                    "spacing": {
+                      "line": 1.15,
+                      "lineRule": "auto"
+                    },
+                    "uuid": "m79xodae5sc8fmxefcd"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ],
+                  [
+                    "a",
+                    {
+                      "href": "https://rule.alimama.com/#!/product/index?type=detail&id=1074&knowledgeId=11003965",
+                      "uuid": "mo8daml4uncra2q04ne"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "sz": 11,
+                          "szUnit": "pt",
+                          "data-type": "leaf"
+                        },
+                        "其他规则见链接"
+                      ]
+                    ]
+                  ],
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "vAlign": "top",
+                  "uuid": "mo8daml4fxfd5b89koj"
+                },
+                [
+                  "p",
+                  {
+                    "spacing": {
+                      "line": 1.15,
+                      "lineRule": "auto"
+                    },
+                    "uuid": "m79xodaf6wtdiyo1sz"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "list": {
+                      "isChecked": false,
+                      "isOrdered": true,
+                      "isTaskList": false,
+                      "level": 0,
+                      "listId": "97a13vby64u",
+                      "listStyle": {
+                        "align": "left",
+                        "format": "decimal",
+                        "text": "%1."
+                      }
+                    },
+                    "spacing": {
+                      "line": 1.15,
+                      "lineRule": "auto"
+                    },
+                    "uuid": "m79xodafe8wp8avlr9n"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "#333333",
+                        "data-type": "leaf"
+                      },
+                      "旗舰店、专卖店"
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "list": {
+                      "isChecked": false,
+                      "isOrdered": true,
+                      "isTaskList": false,
+                      "level": 0,
+                      "listId": "97a13vby64u",
+                      "listStyle": {
+                        "align": "left",
+                        "format": "decimal",
+                        "text": "%1."
+                      }
+                    },
+                    "spacing": {
+                      "line": 1.15,
+                      "lineRule": "auto"
+                    },
+                    "uuid": "m79xodafuepzp1s42b"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "#333333",
+                        "data-type": "leaf"
+                      },
+                      "店铺每项DSR在4.4以上"
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "list": {
+                      "isChecked": false,
+                      "isOrdered": true,
+                      "isTaskList": false,
+                      "level": 0,
+                      "listId": "97a13vby64u",
+                      "listStyle": {
+                        "align": "left",
+                        "format": "decimal",
+                        "text": "%1."
+                      }
+                    },
+                    "spacing": {
+                      "line": 1.15,
+                      "lineRule": "auto"
+                    },
+                    "uuid": "m79xodaf1zkir7t1gn2"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ],
+                  [
+                    "a",
+                    {
+                      "href": "https://rule.alimama.com/#!/product/index?type=detail&id=1074&knowledgeId=11003965",
+                      "uuid": "mo8daml4edj6pcuxowq"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "sz": 11,
+                          "szUnit": "pt",
+                          "data-type": "leaf"
+                        },
+                        "其他规则见链接"
+                      ]
+                    ]
+                  ],
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {
+                "uuid": "mo8daml4j99o5sq0pw8"
+              },
+              [
+                "tc",
+                {
+                  "colSpan": 2,
+                  "rowSpan": 1,
+                  "vAlign": "top",
+                  "uuid": "mo8daml4li3g7o6x6f"
+                },
+                [
+                  "p",
+                  {
+                    "spacing": {
+                      "line": 1.15,
+                      "lineRule": "auto"
+                    },
+                    "uuid": "m79xodagmzgrtliqeo"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "#333333",
+                        "data-type": "leaf"
+                      },
+                      "店铺状态、用户状态正常且"
+                    ]
+                  ],
+                  [
+                    "a",
+                    {
+                      "href": "https://rule.alimama.com/#!/product/index?type=detail&id=1074&knowledgeId=11005606",
+                      "uuid": "mo8daml4e3m2hu71fcr"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "sz": 11,
+                          "szUnit": "pt",
+                          "data-type": "leaf"
+                        },
+                        "店铺主营类目在支持投放的范围内；"
+                      ]
+                    ]
+                  ],
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "hidden": true,
+                  "rowSpan": 1,
+                  "vAlign": "top",
+                  "uuid": "mo8daml46gitohfmoou"
+                },
+                [
+                  "p",
+                  {
+                    "spacing": {
+                      "line": 1.15,
+                      "lineRule": "auto"
+                    },
+                    "uuid": "m79xodag40nvli2y176"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ]
+                ]
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "ind": {
+                "left": 0
+              },
+              "uuid": "m79xh9hdoyl96u9uopg",
+              "spacing": {}
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 11,
+                  "szUnit": "pt",
+                  "color": "#000000",
+                  "data-type": "leaf"
+                },
+                "3、店铺直达暂无权限如何申请？"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "maw9gjelqmn4tv64ssb"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "fonts": {
+                    "ascii": "等线",
+                    "hAnsi": "等线",
+                    "cs": "等线",
+                    "eastAsia": "等线"
+                  },
+                  "sz": 11,
+                  "szUnit": "pt",
+                  "color": "#000000",
+                  "data-type": "leaf"
+                },
+                "各位商家好，"
+              ],
+              [
+                "span",
+                {
+                  "fonts": {
+                    "ascii": "等线",
+                    "hAnsi": "等线",
+                    "cs": "等线",
+                    "eastAsia": "等线"
+                  },
+                  "sz": 11,
+                  "szUnit": "pt",
+                  "color": "",
+                  "data-type": "leaf"
+                },
+                "店铺直达现已全量开客，后续无需申请开通场景权限。投放前请上传品牌资质（品销宝和天猫的资质会自动同步）没有品牌资质就没有词包可以投放。"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "maw9gsfgcr87kk4x2sl"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "fonts": {
+                    "ascii": "等线",
+                    "hAnsi": "等线",
+                    "cs": "等线",
+                    "eastAsia": "等线"
+                  },
+                  "sz": 11,
+                  "szUnit": "pt",
+                  "color": "#000000",
+                  "data-type": "leaf"
+                },
+                "若您未展现店铺直达入口，请排查："
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "maw9gjem7j6xyzzht8"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "fonts": {
+                    "ascii": "等线",
+                    "hAnsi": "等线",
+                    "cs": "等线",
+                    "eastAsia": "等线"
+                  },
+                  "sz": 11,
+                  "szUnit": "pt",
+                  "color": "#000000",
+                  "data-type": "leaf"
+                },
+                "1）先看有没有「用主账号登陆」，首次开通需主账号登陆万相台无界；"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "maw9gjemgkm8p66y5rj"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "fonts": {
+                    "ascii": "等线",
+                    "hAnsi": "等线",
+                    "cs": "等线",
+                    "eastAsia": "等线"
+                  },
+                  "sz": 11,
+                  "szUnit": "pt",
+                  "color": "#000000",
+                  "data-type": "leaf"
+                },
+                "2）店铺需满足DSR在4.4及以上，店铺综合体验分在4.1及以上，淘宝店铺信用分3星及以上；"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "maw9gjem0zxls3s1vmci"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "fonts": {
+                    "ascii": "等线",
+                    "hAnsi": "等线",
+                    "cs": "等线",
+                    "eastAsia": "等线"
+                  },
+                  "sz": 11,
+                  "szUnit": "pt",
+                  "color": "#000000",
+                  "data-type": "leaf"
+                },
+                "3）店铺需满足近1年无界消耗>0（新店重点关注）；"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "maw9gjene0utz5rxfoa"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "fonts": {
+                    "ascii": "等线",
+                    "hAnsi": "等线",
+                    "cs": "等线",
+                    "eastAsia": "等线"
+                  },
+                  "sz": 11,
+                  "szUnit": "pt",
+                  "color": "#000000",
+                  "data-type": "leaf"
+                },
+                "4）暂不支持专营店、叉乘账号；"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "maw9gjenzibfxk7uayb"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "fonts": {
+                    "ascii": "等线",
+                    "hAnsi": "等线",
+                    "cs": "等线",
+                    "eastAsia": "等线"
+                  },
+                  "sz": 11,
+                  "szUnit": "pt",
+                  "color": "#000000",
+                  "data-type": "leaf"
+                },
+                "5）部分类目暂不准入（如处方药、计生），具体类目请查询，若显示展示场景不准入，则无法准入投放："
+              ]
+            ],
+            [
+              "a",
+              {
+                "type": "path",
+                "value": "https://rule.alimama.com/#/detail?id=11005606",
+                "data-type": "link",
+                "href": "",
+                "uuid": "maw9gjenhfc9tr49f4w"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "fonts": {
+                      "ascii": "等线",
+                      "hAnsi": "等线",
+                      "cs": "等线",
+                      "eastAsia": "等线"
+                    },
+                    "sz": 11,
+                    "szUnit": "pt",
+                    "color": "#000000",
+                    "data-type": "leaf"
+                  },
+                  "https://rule.alimama.com/#/detail?id=11005606"
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "fonts": {
+                    "ascii": "等线",
+                    "hAnsi": "等线",
+                    "cs": "等线",
+                    "eastAsia": "等线"
+                  },
+                  "sz": 11,
+                  "szUnit": "pt",
+                  "color": "#000000",
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "ind": {
+                "left": 0
+              },
+              "uuid": "m79xhbrexwxmpubih2s",
+              "spacing": {}
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 11,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "6）如何上传品牌资质？没有品牌资质就没有词包吗？"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "spacing": {
+                "line": 1.15,
+                "lineRule": "auto"
+              },
+              "uuid": "m79xnt4deuly4opwp2"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 11,
+                  "szUnit": "pt",
+                  "color": "#000000",
+                  "data-type": "leaf"
+                },
+                "是的，词包是依据店铺上传的品牌资质自动生成并进行拓展的。"
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 11,
+                  "szUnit": "pt",
+                  "color": "#E03E3E",
+                  "underline": {
+                    "value": "single"
+                  },
+                  "data-type": "leaf"
+                },
+                "有资质->有词包->可投放"
+              ],
+              [
+                "span",
+                {
+                  "sz": 11,
+                  "szUnit": "pt",
+                  "color": "#000000",
+                  "data-type": "leaf"
+                },
+                "。"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "list": {
+                "isChecked": false,
+                "isOrdered": false,
+                "isTaskList": false,
+                "level": 0,
+                "listId": "5by0shyn5wb",
+                "listStyle": {
+                  "align": "left",
+                  "format": "bullet",
+                  "text": "●"
+                },
+                "symbolStyle": {
+                  "sz": 11
+                }
+              },
+              "spacing": {
+                "line": 1.15,
+                "lineRule": "auto"
+              },
+              "uuid": "m79xnt4gfif4zuqc1pb"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 11,
+                  "szUnit": "pt",
+                  "color": "#000000",
+                  "data-type": "leaf"
+                },
+                "上传品牌资质步骤："
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "list": {
+                "isChecked": false,
+                "isOrdered": false,
+                "isTaskList": false,
+                "level": 0,
+                "listId": "5by0shyn5wb",
+                "listStyle": {
+                  "align": "left",
+                  "format": "bullet",
+                  "text": "●"
+                },
+                "extraData": {},
+                "hideSymbol": false,
+                "symbolStyle": {
+                  "sz": 11
+                }
+              },
+              "spacing": {
+                "line": 1.15,
+                "lineRule": "auto"
+              },
+              "uuid": "m8cpg1tqxuotwaj5yb"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 11,
+                  "szUnit": "pt",
+                  "color": "#000000",
+                  "data-type": "leaf"
+                },
+                "链接："
+              ]
+            ],
+            [
+              "a",
+              {
+                "href": "https://one.alimama.com/index.html#!/account/qualification/index?bizCode=universalBP",
+                "metadata": {
+                  "urlInfo": {
+                    "displayType": "link"
+                  },
+                  "cardInfo": {
+                    "displayType": "link"
+                  }
+                },
+                "uuid": "m8cpg442jp6gn5fzb1"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "sz": 11,
+                    "szUnit": "pt",
+                    "data-type": "leaf"
+                  },
+                  "https://one.alimama.com/index.html#!/account/qualification/index?bizCode=universalBP"
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 11,
+                  "szUnit": "pt",
+                  "color": "#000000",
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "spacing": {
+                "line": 1.15,
+                "lineRule": "auto"
+              },
+              "uuid": "m79xnt4h4zhuswos6a6"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 11,
+                  "szUnit": "pt",
+                  "color": "#000000",
+                  "data-type": "leaf"
+                },
+                "需要商家在无界-账户-资质管理-新增资质-上传"
+              ],
+              [
+                "span",
+                {
+                  "sz": 11,
+                  "szUnit": "pt",
+                  "color": "#f5222d",
+                  "data-type": "leaf"
+                },
+                "品牌资质"
+              ],
+              [
+                "span",
+                {
+                  "sz": 11,
+                  "szUnit": "pt",
+                  "color": "#000000",
+                  "data-type": "leaf"
+                },
+                "，一般资质审核通过后4-6天生成词包~"
+              ],
+              [
+                "span",
+                {
+                  "sz": 11,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "（"
+              ],
+              [
+                "span",
+                {
+                  "sz": 11,
+                  "szUnit": "pt",
+                  "color": "#000000",
+                  "data-type": "leaf"
+                },
+                "注意："
+              ],
+              [
+                "span",
+                {
+                  "sz": 11,
+                  "szUnit": "pt",
+                  "color": "#e8323c",
+                  "data-type": "leaf"
+                },
+                "特殊情况下如果授权品牌词相关性较差将无法生成词包"
+              ],
+              [
+                "span",
+                {
+                  "sz": 11,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "）。"
+              ],
+              [
+                "span",
+                {
+                  "sz": 11,
+                  "szUnit": "pt",
+                  "color": "#000000",
+                  "data-type": "leaf"
+                },
+                "品牌资质要求如下："
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "spacing": {
+                "line": 1.15,
+                "lineRule": "auto"
+              },
+              "uuid": "m79xnt4hr621rgt1o5b"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 11,
+                  "szUnit": "pt",
+                  "color": "#000000",
+                  "data-type": "leaf"
+                },
+                "a、商标注册证；"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "spacing": {
+                "line": 1.15,
+                "lineRule": "auto"
+              },
+              "uuid": "m79xnt4i9woq3vcer7r"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 11,
+                  "szUnit": "pt",
+                  "color": "#000000",
+                  "data-type": "leaf"
+                },
+                "b、商标持有者的主体证明：若主体是公司就是营业执照，若主体是个人就是身份证正反面。"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "spacing": {
+                "line": 1.15,
+                "lineRule": "auto"
+              },
+              "uuid": "m79xnt4iljrekqkcxvg"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 11,
+                  "szUnit": "pt",
+                  "color": "#000000",
+                  "data-type": "leaf"
+                },
+                "c、商标使用授权书：商标权利人(商标注册人)给店铺的销售及商标使用推广授权书。"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "spacing": {
+                "line": 1.15,
+                "lineRule": "auto"
+              },
+              "uuid": "m79xnt4jyrwwe0ke09"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 11,
+                  "szUnit": "pt",
+                  "color": "#E03E3E",
+                  "data-type": "leaf"
+                },
+                "品牌资质具体的说明和示例参见："
+              ]
+            ],
+            [
+              "a",
+              {
+                "href": "https://rule.alimama.com/?spm=a2e117.13868764.0.da0f51bf8.193620305Kk3qC#!/product/index?spm=a2e117.13868764.0.da0f51bf8.193620305Kk3qC&type=detail&id=1074&knowledgeId=11003937",
+                "uuid": "mo8daml6yhlf8l0htf8"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "sz": 11,
+                    "szUnit": "pt",
+                    "data-type": "leaf"
+                  },
+                  "https://rule.alimama.com/?spm=a2e117.13868764.0.da0f51bf8.193620305Kk3qC#!/product/index?spm=a2e117.13868764.0.da0f51bf8.193620305Kk3qC&type=detail&id=1074&knowledgeId=11003937"
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 11,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "spacing": {
+                "line": 1.15,
+                "lineRule": "auto"
+              },
+              "uuid": "m79xodahwmeibuh8ja"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 11,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ],
+            [
+              "img",
+              {
+                "height": 102,
+                "name": "",
+                "src": "https://alidocs.oss-cn-zhangjiakou.aliyuncs.com/lark/https://yuque.antfin.com/chenchun.chen/gqhty9/mto262dcsv55oeqy/img6YiuwsJpy7.png",
+                "width": 301,
+                "uuid": "mogykcq277ocwf9g8oe"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "sz": 11,
+                    "szUnit": "pt",
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 11,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ]
+        ],
+        "footers": {},
+        "version": 1
+      },
+      "refs": {}
+    }
+  }
+}

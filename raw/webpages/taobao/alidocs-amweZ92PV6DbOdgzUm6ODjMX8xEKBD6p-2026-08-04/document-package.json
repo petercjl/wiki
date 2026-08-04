@@ -1,0 +1,518 @@
+{
+  "version": 1,
+  "type": "application/x-alidocs-package",
+  "main": "00000000-0000-0000-0000-000000000001",
+  "plugins": "00000000-0000-0000-0000-000000000002",
+  "parts": {
+    "00000000-0000-0000-0000-000000000001": {
+      "id": "00000000-0000-0000-0000-000000000001",
+      "type": "application/x-alidocs-word",
+      "version": 1,
+      "data": {
+        "style": {
+          "docDefaults": {
+            "type": "paragraph",
+            "default": 1,
+            "name": "dingdocnormal",
+            "data": {
+              "rPr": {
+                "sz": 12,
+                "szUnit": "pt"
+              },
+              "pPr": {
+                "spacing": {
+                  "before": 10,
+                  "after": 10
+                }
+              }
+            }
+          }
+        },
+        "theme": [],
+        "settings": {
+          "titleCover": {
+            "isHide": true
+          }
+        },
+        "app": {},
+        "numberings": {},
+        "headers": {},
+        "body": [
+          "root",
+          {
+            "sectPr": {
+              "pgSz": {
+                "w": 892,
+                "h": 1127
+              },
+              "pgMar": {
+                "top": 48,
+                "bottom": 48,
+                "left": 72,
+                "right": 72,
+                "header": 56.73,
+                "footer": 66.13,
+                "gutter": 0
+              }
+            },
+            "theme": {
+              "table": {
+                "tableCell": {
+                  "vAlign": "top"
+                }
+              }
+            }
+          },
+          [
+            "p",
+            {
+              "uuid": "mhd6h2tquok5orwyzs"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": false,
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "rgb(23, 26, 29)",
+                  "data-type": "leaf"
+                },
+                "商家朋友们请注意！！"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mhd6hs2llbfci3jdiy"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": false,
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "rgb(23, 26, 29)",
+                  "data-type": "leaf"
+                },
+                "双11平台第二波消费券将于今晚到期，实时成交热度呈上升趋势，"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mhd6lzqe9dz6cfffxbv"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": false,
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "rgb(23, 26, 29)",
+                  "data-type": "leaf"
+                },
+                "为您奉上「货品全站推广」成交冲刺投放Tips~"
+              ]
+            ]
+          ],
+          [
+            "container",
+            {
+              "subType": "colorBlocks",
+              "metadata": {
+                "padding": {
+                  "top": 11,
+                  "right": 11,
+                  "bottom": 11,
+                  "left": 11
+                },
+                "borderRadius": 8,
+                "bgcolor": "radial-gradient(68% 68% at 68% 100%, #F2F7F7 0%, rgba(242, 245, 255, 0) 100%), radial-gradient(53% 53% at 16% -12%, #FEF2F2 0%, rgba(242, 245, 255, 0) 100%), radial-gradient(55% 141% at 100% 100%, #E4EBFF 0%, rgba(242, 245, 255, 0) 100%), linear-gradient(99deg, #E9E7FF 0%, #E4EBFF 100%)",
+                "showstk": false,
+                "border": null
+              },
+              "uuid": "mhd6hkabcefgq51gle"
+            },
+            [
+              "p",
+              {
+                "uuid": "mgul2gm7cifkjfykens",
+                "ind": {
+                  "left": 0
+                },
+                "list": {
+                  "listId": "6g2pty4lgei",
+                  "level": 0,
+                  "isTaskList": false,
+                  "isOrdered": false,
+                  "listStyleType": "SCIR_ECIR_SREC",
+                  "symbolStyle": {
+                    "bold": true,
+                    "color": "linear-gradient(90deg, #2449FE 0%, #CA4BA7 100%)"
+                  },
+                  "listStyle": {
+                    "format": "bullet",
+                    "text": "●",
+                    "align": "left"
+                  }
+                }
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "bold": true,
+                    "sz": 14,
+                    "szUnit": "pt",
+                    "color": "linear-gradient(90deg, #2449FE 0%, #CA4BA7 100%)",
+                    "data-type": "leaf"
+                  },
+                  "投放Tip1：在投计划追加预算，抢占流量高峰机遇"
+                ]
+              ]
+            ],
+            [
+              "p",
+              {
+                "uuid": "mgulgwzo2dr9pcojyoy",
+                "ind": {
+                  "left": 0
+                },
+                "list": {
+                  "listId": "6g2pty4lgei",
+                  "level": 1,
+                  "isTaskList": false,
+                  "isOrdered": false,
+                  "listStyleType": "SCIR_ECIR_SREC",
+                  "symbolStyle": {},
+                  "listStyle": {
+                    "format": "bullet",
+                    "text": "○",
+                    "align": "left"
+                  },
+                  "extraData": {},
+                  "isChecked": false,
+                  "hideSymbol": false
+                }
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "sz": 11,
+                    "szUnit": "pt",
+                    "color": "rgb(23, 26, 29)",
+                    "data-type": "leaf"
+                  },
+                  "系统监测今日流量持续攀升，建议于"
+                ],
+                [
+                  "span",
+                  {
+                    "bold": true,
+                    "highlight": "rgb(255, 245, 184)",
+                    "sz": 11,
+                    "szUnit": "pt",
+                    "color": "linear-gradient(90deg, #2449FE 0%, #CA4BA7 100%)",
+                    "data-type": "leaf"
+                  },
+                  "10.31日16:00前"
+                ],
+                [
+                  "span",
+                  {
+                    "sz": 11,
+                    "szUnit": "pt",
+                    "color": "rgb(23, 26, 29)",
+                    "data-type": "leaf"
+                  },
+                  "，针对表现优异的在投计划，"
+                ],
+                [
+                  "span",
+                  {
+                    "bold": true,
+                    "sz": 11,
+                    "szUnit": "pt",
+                    "color": "rgb(23, 26, 29)",
+                    "data-type": "leaf"
+                  },
+                  "单日预算提升30%-50%"
+                ],
+                [
+                  "span",
+                  {
+                    "sz": 11,
+                    "szUnit": "pt",
+                    "color": "rgb(23, 26, 29)",
+                    "data-type": "leaf"
+                  },
+                  "，避免因预算撞线错过高峰成交机遇！"
+                ]
+              ]
+            ],
+            [
+              "p",
+              {
+                "uuid": "mgul5uvjry157doknoh",
+                "ind": {
+                  "left": 0
+                },
+                "list": {
+                  "listId": "6g2pty4lgei",
+                  "level": 0,
+                  "isTaskList": false,
+                  "isOrdered": false,
+                  "listStyleType": "SCIR_ECIR_SREC",
+                  "symbolStyle": {
+                    "bold": true,
+                    "color": "linear-gradient(90deg, #2449FE 0%, #CA4BA7 100%)"
+                  },
+                  "listStyle": {
+                    "format": "bullet",
+                    "text": "●",
+                    "align": "left"
+                  }
+                }
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "bold": true,
+                    "sz": 14,
+                    "szUnit": "pt",
+                    "color": "linear-gradient(90deg, #2449FE 0%, #CA4BA7 100%)",
+                    "data-type": "leaf"
+                  },
+                  "投放Tip2：开启大促抢量利器，加速释放增量潜力"
+                ]
+              ]
+            ],
+            [
+              "p",
+              {
+                "uuid": "mgulgzw0we18uw5rzd",
+                "ind": {
+                  "left": 0
+                },
+                "list": {
+                  "listId": "6g2pty4lgei",
+                  "level": 1,
+                  "isTaskList": false,
+                  "isOrdered": false,
+                  "listStyleType": "SCIR_ECIR_SREC",
+                  "symbolStyle": {},
+                  "listStyle": {
+                    "format": "bullet",
+                    "text": "○",
+                    "align": "left"
+                  },
+                  "extraData": {},
+                  "isChecked": false,
+                  "hideSymbol": false
+                }
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "sz": 11,
+                    "szUnit": "pt",
+                    "color": "rgb(23, 26, 29)",
+                    "data-type": "leaf"
+                  },
+                  "建议您提前为在投计划开启大促抢量利器「一键起量」或升级「多目标出价」至直接成交模式，AI智能探索更多增量PV，加速助力冲刺销量峰值！"
+                ]
+              ]
+            ],
+            [
+              "p",
+              {
+                "uuid": "mgul7lwbja40e5ztjuq",
+                "ind": {
+                  "left": 0
+                },
+                "list": {
+                  "listId": "6g2pty4lgei",
+                  "level": 0,
+                  "isTaskList": false,
+                  "isOrdered": false,
+                  "listStyleType": "SCIR_ECIR_SREC",
+                  "symbolStyle": {
+                    "bold": true,
+                    "color": "linear-gradient(90deg, #2449FE 0%, #CA4BA7 100%)"
+                  },
+                  "listStyle": {
+                    "format": "bullet",
+                    "text": "●",
+                    "align": "left"
+                  },
+                  "extraData": {},
+                  "isChecked": false,
+                  "hideSymbol": false
+                }
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "bold": true,
+                    "sz": 14,
+                    "szUnit": "pt",
+                    "color": "linear-gradient(90deg, #2449FE 0%, #CA4BA7 100%)",
+                    "data-type": "leaf"
+                  },
+                  "投放Tip3：重点商品提前蓄力，备战最终爆发时刻"
+                ]
+              ]
+            ],
+            [
+              "p",
+              {
+                "uuid": "mgulhcisqvwl3cwlk2q",
+                "ind": {
+                  "left": 0
+                },
+                "list": {
+                  "listId": "6g2pty4lgei",
+                  "level": 1,
+                  "isTaskList": false,
+                  "isOrdered": false,
+                  "listStyleType": "SCIR_ECIR_SREC",
+                  "symbolStyle": {},
+                  "listStyle": {
+                    "format": "bullet",
+                    "text": "○",
+                    "align": "left"
+                  },
+                  "extraData": {},
+                  "isChecked": false,
+                  "hideSymbol": false
+                }
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "sz": 11,
+                    "szUnit": "pt",
+                    "color": "rgb(23, 26, 29)",
+                    "data-type": "leaf"
+                  },
+                  "建议您于"
+                ],
+                [
+                  "span",
+                  {
+                    "bold": true,
+                    "highlight": "rgb(255, 245, 184)",
+                    "sz": 11,
+                    "szUnit": "pt",
+                    "color": "linear-gradient(90deg, #2449FE 0%, #CA4BA7 100%)",
+                    "data-type": "leaf"
+                  },
+                  "10.31日16:00前"
+                ],
+                [
+                  "span",
+                  {
+                    "sz": 11,
+                    "szUnit": "pt",
+                    "color": "rgb(23, 26, 29)",
+                    "data-type": "leaf"
+                  },
+                  "为店铺核心商品新建「货品全站推广」计划，"
+                ],
+                [
+                  "span",
+                  {
+                    "bold": false,
+                    "sz": 11,
+                    "szUnit": "pt",
+                    "color": "rgb(23, 26, 29)",
+                    "data-type": "leaf"
+                  },
+                  "采纳平台出价建议"
+                ],
+                [
+                  "span",
+                  {
+                    "sz": 11,
+                    "szUnit": "pt",
+                    "color": "rgb(23, 26, 29)",
+                    "data-type": "leaf"
+                  },
+                  "高效完成冷启动，避免错失今晚黄金时段的曝光和成交！"
+                ]
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mhd6n7o0r4xuch9lqb"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ]
+        ],
+        "footers": {},
+        "version": 1
+      },
+      "refs": {}
+    }
+  }
+}

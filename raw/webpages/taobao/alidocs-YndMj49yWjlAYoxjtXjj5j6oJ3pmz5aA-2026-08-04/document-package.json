@@ -1,0 +1,1155 @@
+{
+  "version": 1,
+  "type": "application/x-alidocs-package",
+  "main": "00000000-0000-0000-0000-000000000001",
+  "plugins": "00000000-0000-0000-0000-000000000002",
+  "parts": {
+    "00000000-0000-0000-0000-000000000001": {
+      "id": "00000000-0000-0000-0000-000000000001",
+      "type": "application/x-alidocs-word",
+      "version": 1,
+      "data": {
+        "style": {
+          "docDefaults": {
+            "type": "paragraph",
+            "default": 1,
+            "name": "dingdocnormal",
+            "data": {
+              "pPr": {
+                "spacing": {
+                  "after": 8,
+                  "before": 8
+                }
+              },
+              "rPr": {
+                "sz": 12,
+                "szUnit": "pt"
+              }
+            }
+          },
+          "tableDefault": {
+            "type": "table",
+            "data": {
+              "tblPr": {
+                "bdr": {
+                  "bottom": {
+                    "color": "#D6D6D6",
+                    "space": 0,
+                    "sz": 1,
+                    "val": "single"
+                  },
+                  "insideH": {
+                    "color": "#D6D6D6",
+                    "space": 0,
+                    "sz": 1,
+                    "val": "single"
+                  },
+                  "insideV": {
+                    "color": "#D6D6D6",
+                    "space": 0,
+                    "sz": 1,
+                    "val": "single"
+                  },
+                  "left": {
+                    "color": "#D6D6D6",
+                    "space": 0,
+                    "sz": 1,
+                    "val": "single"
+                  },
+                  "right": {
+                    "color": "#D6D6D6",
+                    "space": 0,
+                    "sz": 1,
+                    "val": "single"
+                  },
+                  "top": {
+                    "color": "#D6D6D6",
+                    "space": 0,
+                    "sz": 1,
+                    "val": "single"
+                  }
+                }
+              }
+            }
+          },
+          "tableHeader": {
+            "type": "table",
+            "basedOn": "tableDefault",
+            "data": {
+              "tblStylePr": [
+                {
+                  "type": "firstRow",
+                  "tcPr": {
+                    "shd": {
+                      "fill": "#F5F6F7"
+                    }
+                  }
+                },
+                {
+                  "type": "firstCol",
+                  "tcPr": {
+                    "shd": {
+                      "fill": "#F5F6F7"
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        "theme": [],
+        "settings": {
+          "titleCover": {
+            "isHide": true
+          }
+        },
+        "app": {},
+        "numberings": {},
+        "headers": {},
+        "body": [
+          "root",
+          {
+            "uuid": "mdsa1j6po6sf6y9b3y",
+            "theme": {
+              "table": {
+                "tableCell": {
+                  "vAlign": "top"
+                }
+              }
+            },
+            "sectPr": {
+              "pgSz": {
+                "h": 1588,
+                "w": 1127
+              },
+              "pgMar": {
+                "top": 96,
+                "left": 72,
+                "right": 72,
+                "bottom": 96,
+                "footer": 66.13,
+                "gutter": 0,
+                "header": 56.73
+              }
+            }
+          },
+          [
+            "p",
+            {
+              "jc": "left",
+              "uuid": "m85kwkyc65jicd9epxa",
+              "ind": {
+                "firstLine": 32
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "为了帮助商家更好的了解计划当前投放阶段，判断和调整投放，新建或者在投的人群推广计划，平台会透出计划投放阶段，目前分三个阶段："
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "数据积累期（点击加速中）、数据积累期（成交积累中）、稳定投放期"
+              ],
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "。"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "jc": "left",
+              "uuid": "mejn605zymoqbvoimn",
+              "ind": {
+                "firstLine": 32
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "同时，本次升级已覆盖所有“持续推广”计划，只要该计划保持推广状态且有消耗即可获得平台“投放阶段”的解读"
+              ]
+            ]
+          ],
+          [
+            "h1",
+            {
+              "uuid": "mejkyb0nl0qgd29af2j",
+              "spacing": {
+                "before": 32,
+                "after": 12,
+                "line": 0.8615384615384615
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 21,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "各阶段解读"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "megq4s9cw6krhh1yl8",
+              "ind": {
+                "left": 0
+              },
+              "list": {
+                "listId": "1sdqkwnv0kb",
+                "level": 0,
+                "isTaskList": false,
+                "isOrdered": false,
+                "listStyleType": "SCIR_ECIR_SREC",
+                "symbolStyle": {},
+                "listStyle": {
+                  "format": "bullet",
+                  "text": "●",
+                  "align": "left"
+                }
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "数据积累期（点击加速中）"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mejnhl34ayn71nh4lm4",
+              "ind": {
+                "left": 0
+              },
+              "list": {
+                "listId": "1sdqkwnv0kb",
+                "level": 1,
+                "isTaskList": false,
+                "isOrdered": false,
+                "listStyleType": "SCIR_ECIR_SREC",
+                "symbolStyle": {},
+                "listStyle": {
+                  "format": "bullet",
+                  "text": "○",
+                  "align": "left"
+                },
+                "extraData": {},
+                "isChecked": false,
+                "hideSymbol": false
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": false,
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "当计划处在图示阶段（数据积累期，点击加速中），"
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "完成该阶段需完成“近3/7日点击量大于100”的要求（最大化/手动出价为3天，控成本/控ROI为7天）"
+              ],
+              [
+                "span",
+                {
+                  "bold": false,
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "；当本阶段要求完成的次日，状态会转换；当本阶段的状态超3/7天未转换，则进入“点击加速慢”，同时平台会给出相应提升建议"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mejnhmxdazwfvzj17no",
+              "ind": {
+                "left": 0
+              },
+              "list": {
+                "listId": "1sdqkwnv0kb",
+                "level": 1,
+                "isTaskList": false,
+                "isOrdered": false,
+                "listStyleType": "SCIR_ECIR_SREC",
+                "symbolStyle": {},
+                "listStyle": {
+                  "format": "bullet",
+                  "text": "○",
+                  "align": "left"
+                },
+                "extraData": {},
+                "isChecked": false,
+                "hideSymbol": false
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": false,
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "同时该阶段会有"
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "“平台冷启动”策略"
+              ],
+              [
+                "span",
+                {
+                  "bold": false,
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "助力，帮助新建计划快速度过冷启动"
+              ],
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "期"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "ind": {
+                "firstLine": 32,
+                "left": 32
+              },
+              "jc": "left",
+              "uuid": "mejlnvu1vvbry3m415"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ],
+            [
+              "img",
+              {
+                "extraData": {
+                  "metaData": {
+                    "format": "png",
+                    "originHeight": 1154,
+                    "originWidth": 856,
+                    "ratio": 1,
+                    "size": 648769
+                  },
+                  "resourceId": "fac2a979-c945-4872-a956-8437183c13c5"
+                },
+                "height": 404.4393,
+                "name": "image.png",
+                "outline": {
+                  "color": "var(--we_white1_color, rgba(255, 255, 255, 1))",
+                  "type": "solid",
+                  "width": 6
+                },
+                "radius": 2,
+                "shadow": "var(--we_m_shadow, 0px 4px 24px 0px rgba(0, 0, 0, 0.1))",
+                "size": 648769,
+                "src": "/core/api/resources/img/5eecdaf48460cde512e915d10ca1a1c2586bbe48a4df279875b8339e1c4c24831b75b38faadcd24bec177c308ebd5304253b3eb0f3b846c990cece5d958db2af0cfdc4ed553af317776bd6e4b0f1f6e7662e4b9b50e74d294fb4c8ed7016461c",
+                "uuid": "4g6agr",
+                "width": 300
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "megqabgnoual7fv6sdg",
+              "ind": {
+                "left": 0
+              },
+              "list": {
+                "listId": "1sdqkwnv0kb",
+                "level": 0,
+                "isTaskList": false,
+                "isOrdered": false,
+                "listStyleType": "SCIR_ECIR_SREC",
+                "symbolStyle": {},
+                "listStyle": {
+                  "format": "bullet",
+                  "text": "●",
+                  "align": "left"
+                },
+                "extraData": {},
+                "isChecked": false,
+                "hideSymbol": false
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "数据积累期（成交/加购/点击 积累中）"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mejnj240tt8b90oddw8",
+              "ind": {
+                "left": 0
+              },
+              "list": {
+                "listId": "1sdqkwnv0kb",
+                "level": 1,
+                "isTaskList": false,
+                "isOrdered": false,
+                "listStyleType": "SCIR_ECIR_SREC",
+                "symbolStyle": {},
+                "listStyle": {
+                  "format": "bullet",
+                  "text": "○",
+                  "align": "left"
+                },
+                "extraData": {},
+                "isChecked": false,
+                "hideSymbol": false
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": false,
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "当计划处在图示阶段（数据积"
+              ],
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "累期，成交/加购/点击 积累中"
+              ],
+              [
+                "span",
+                {
+                  "bold": false,
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "），"
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "完成该阶段需完成平台图示的要求"
+              ],
+              [
+                "span",
+                {
+                  "bold": false,
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "；当本阶段要求完成的次日，状态会转换；当本阶段的状态超7天未转换，则进入“积累慢”，同时平台会给出相应提升建议；具体要求如下"
+              ]
+            ]
+          ],
+          [
+            "table",
+            {
+              "colsWidth": [
+                156,
+                275,
+                275,
+                276
+              ],
+              "tblW": {
+                "type": "pct"
+              },
+              "uuid": "mcej4p0kjiu765xf1n",
+              "ind": {
+                "left": 32
+              }
+            },
+            [
+              "tr",
+              {
+                "uuid": "mcej4p0kjr5vp27wyss",
+                "isTblHeader": true,
+                "h": 48
+              },
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mcej4p0kkrjrkqc4hhg",
+                  "fill": "#F3F3F3",
+                  "vAlign": "middle"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mcej4p0kti0b4hy4hc",
+                    "jc": "center"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mcej4p0kuy70s9rw0ek",
+                  "fill": "#F3F3F3",
+                  "vAlign": "middle"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mcej4p0kvyduvjrfhcb",
+                    "jc": "center"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "data-type": "leaf"
+                      },
+                      "成交"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "fill": "#F3F3F3",
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mcej4p0kihzzj81jyy",
+                  "vAlign": "middle"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mcej4p0kwdnuzmm9wp",
+                    "jc": "center"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "data-type": "leaf"
+                      },
+                      "加购"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "fill": "#F3F3F3",
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mcekks7lje3xod4x8fe",
+                  "vAlign": "middle"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mcekks7l9etl8cqv8fg",
+                    "jc": "center"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "data-type": "leaf"
+                      },
+                      "点击"
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {
+                "uuid": "mcej4p0kmdxlkaiky0p",
+                "h": 45
+              },
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mcej4p0k7x0335vq55j",
+                  "vAlign": "middle"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mcej4p0kr6m360blqm",
+                    "jc": "center"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "data-type": "leaf"
+                      },
+                      "进入下一状态"
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "uuid": "mekugbw7km46bf1q9z",
+                    "jc": "center"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "data-type": "leaf"
+                      },
+                      "门槛"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mcej4p0k0b8fijxj4l9",
+                  "vAlign": "middle"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mcekloryhbk81kwduvr",
+                    "jc": "center"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "过去7天成交量 >= 5"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mcej4p0kj3px70864n",
+                  "vAlign": "middle"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mceklos0s1krk5mai5c",
+                    "jc": "center"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "过去7天加购量 >=15"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mcekks7olz3mj2579g",
+                  "vAlign": "middle"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mcekks7otsfj810g6ys",
+                    "jc": "center"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "过去7天点击 >=100"
+                    ]
+                  ]
+                ]
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mejn3n7arvu6liermz",
+              "ind": {
+                "firstLine": 32,
+                "left": 32
+              },
+              "jc": "left"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ],
+            [
+              "img",
+              {
+                "uuid": "ft26id",
+                "name": "image.png",
+                "size": 704543,
+                "width": 300,
+                "height": 471.7391,
+                "outline": {
+                  "width": 6,
+                  "type": "solid",
+                  "color": "var(--we_white1_color, rgba(255, 255, 255, 1))"
+                },
+                "radius": 2,
+                "shadow": "var(--we_m_shadow, 0px 4px 24px 0px rgba(0, 0, 0, 0.1))",
+                "src": "/core/api/resources/img/5eecdaf48460cde512e915d10ca1a1c2586bbe48a4df279875b8339e1c4c24831b75b38faadcd24bec177c308ebd53046383d06ca98b4bdfe487a64ccc8def50c7e339c0352340cf20f27b3a47a35f2d4dd36008338295224fb4c8ed7016461c",
+                "extraData": {
+                  "resourceId": "d0d899e2-ba79-4dea-9b3a-0a79e65fbc7c",
+                  "metaData": {
+                    "size": 704543,
+                    "originWidth": 828,
+                    "originHeight": 1302,
+                    "format": "png",
+                    "ratio": 1
+                  }
+                }
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "megqae7el6evtilftg",
+              "ind": {
+                "left": 0
+              },
+              "list": {
+                "listId": "1sdqkwnv0kb",
+                "level": 0,
+                "isTaskList": false,
+                "isOrdered": false,
+                "listStyleType": "SCIR_ECIR_SREC",
+                "symbolStyle": {},
+                "listStyle": {
+                  "format": "bullet",
+                  "text": "●",
+                  "align": "left"
+                },
+                "extraData": {},
+                "isChecked": false,
+                "hideSymbol": false
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "稳定投放期"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mejo3zips3nslp3tblh",
+              "ind": {
+                "left": 0
+              },
+              "list": {
+                "listId": "1sdqkwnv0kb",
+                "level": 1,
+                "isTaskList": false,
+                "isOrdered": false,
+                "listStyleType": "SCIR_ECIR_SREC",
+                "symbolStyle": {},
+                "listStyle": {
+                  "format": "bullet",
+                  "text": "○",
+                  "align": "left"
+                },
+                "extraData": {},
+                "isChecked": false,
+                "hideSymbol": false
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": false,
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "当计划处在图示阶段（稳定投放期），表明计划已达到稳定期，保持投放即可"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mejo3xmalt8aprv9pzo",
+              "ind": {
+                "firstLine": 32,
+                "left": 32
+              },
+              "jc": "left"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ],
+            [
+              "img",
+              {
+                "uuid": "uer5lp",
+                "name": "image.png",
+                "size": 581370,
+                "width": 300,
+                "height": 378.6408,
+                "outline": {
+                  "width": 6,
+                  "type": "solid",
+                  "color": "var(--we_white1_color, rgba(255, 255, 255, 1))"
+                },
+                "radius": 2,
+                "shadow": "var(--we_m_shadow, 0px 4px 24px 0px rgba(0, 0, 0, 0.1))",
+                "src": "/core/api/resources/img/5eecdaf48460cde512e915d10ca1a1c2586bbe48a4df279875b8339e1c4c24831b75b38faadcd24bec177c308ebd53045ac25064e99987604e259c652f56bd3cdd838df6c65b5afe173ec7f7c46b86a2c7dc7755d67931d14fb4c8ed7016461c",
+                "extraData": {
+                  "resourceId": "a36533db-3d8f-4f86-beda-f84163452524",
+                  "metaData": {
+                    "size": 581370,
+                    "originWidth": 824,
+                    "originHeight": 1040,
+                    "format": "png",
+                    "ratio": 1
+                  }
+                }
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ]
+        ],
+        "footers": {},
+        "version": 1
+      },
+      "refs": {}
+    }
+  }
+}

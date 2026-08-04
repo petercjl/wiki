@@ -1,0 +1,1221 @@
+{
+  "version": 1,
+  "type": "application/x-alidocs-package",
+  "main": "00000000-0000-0000-0000-000000000001",
+  "plugins": "00000000-0000-0000-0000-000000000002",
+  "parts": {
+    "00000000-0000-0000-0000-000000000001": {
+      "id": "00000000-0000-0000-0000-000000000001",
+      "type": "application/x-alidocs-word",
+      "version": 1,
+      "data": {
+        "style": {
+          "docDefaults": {
+            "type": "paragraph",
+            "default": 1,
+            "name": "dingdocnormal",
+            "data": {
+              "pPr": {
+                "spacing": {
+                  "after": 8,
+                  "before": 8
+                }
+              },
+              "rPr": {
+                "sz": 12,
+                "szUnit": "pt"
+              }
+            }
+          },
+          "tableDefault": {
+            "type": "table",
+            "data": {
+              "tblPr": {
+                "bdr": {
+                  "bottom": {
+                    "color": "#D6D6D6",
+                    "space": 0,
+                    "sz": 1,
+                    "val": "single"
+                  },
+                  "insideH": {
+                    "color": "#D6D6D6",
+                    "space": 0,
+                    "sz": 1,
+                    "val": "single"
+                  },
+                  "insideV": {
+                    "color": "#D6D6D6",
+                    "space": 0,
+                    "sz": 1,
+                    "val": "single"
+                  },
+                  "left": {
+                    "color": "#D6D6D6",
+                    "space": 0,
+                    "sz": 1,
+                    "val": "single"
+                  },
+                  "right": {
+                    "color": "#D6D6D6",
+                    "space": 0,
+                    "sz": 1,
+                    "val": "single"
+                  },
+                  "top": {
+                    "color": "#D6D6D6",
+                    "space": 0,
+                    "sz": 1,
+                    "val": "single"
+                  }
+                }
+              }
+            }
+          },
+          "tableHeader": {
+            "type": "table",
+            "basedOn": "tableDefault",
+            "data": {
+              "tblStylePr": [
+                {
+                  "type": "firstRow",
+                  "tcPr": {
+                    "shd": {
+                      "fill": "#F5F6F7"
+                    }
+                  }
+                },
+                {
+                  "type": "firstCol",
+                  "tcPr": {
+                    "shd": {
+                      "fill": "#F5F6F7"
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        "theme": [],
+        "settings": {
+          "titleCover": {
+            "isHide": true
+          }
+        },
+        "app": {},
+        "numberings": {},
+        "headers": {},
+        "body": [
+          "root",
+          {
+            "uuid": "mdsa1j6po6sf6y9b3y",
+            "theme": {
+              "table": {
+                "tableCell": {
+                  "vAlign": "top"
+                }
+              }
+            },
+            "sectPr": {
+              "pgSz": {
+                "h": 1588,
+                "w": 1127
+              },
+              "pgMar": {
+                "top": 96,
+                "left": 72,
+                "right": 72,
+                "bottom": 96,
+                "footer": 66.13,
+                "gutter": 0,
+                "header": 56.73
+              }
+            }
+          },
+          [
+            "p",
+            {
+              "uuid": "mdycq9f7g5u801rbqdh"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "为了帮助商家更好的设置计划目标投产比，我们在推荐目标投产比模块做了"
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "color": "linear-gradient(152deg, #C676FF 0%, #654CFF 41%, #405EFF 75%, #007FFF 99%)",
+                  "data-type": "leaf"
+                },
+                "全新升级"
+              ],
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "，新增披露或丰富了计划基础数据、趋势对比、采纳系统推荐目标投产比可获得权益、出价过低预警等内容，商家在设置目标投产比时可更好的决策和参考。"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "memgwgttnlpvpsa5l1o"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "实验数据显示，采纳系统推荐目标投产比的计划，"
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "color": "linear-gradient(152deg, #C676FF 0%, #654CFF 41%, #405EFF 75%, #007FFF 99%)",
+                  "data-type": "leaf"
+                },
+                "流量提升更多，成交增幅更大，投产比交付更稳定"
+              ],
+              [
+                "span",
+                {
+                  "color": "linear-gradient(152deg, #C676FF 0%, #654CFF 41%, #405EFF 75%, #007FFF 99%)",
+                  "data-type": "leaf"
+                },
+                "！"
+              ],
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "抓紧试试吧"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mdydiby5hlc0vxc8ekn"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mgtbvwx3957qbyx11tb"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 14,
+                  "szUnit": "pt",
+                  "color": "#FE0300",
+                  "data-type": "leaf"
+                },
+                "NEW"
+              ],
+              [
+                "span",
+                {
+                  "sz": 14,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "全店模式"
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 14,
+                  "szUnit": "pt",
+                  "color": "linear-gradient(152deg, #C676FF 0%, #654CFF 41%, #405EFF 75%, #007FFF 99%)",
+                  "data-type": "leaf"
+                },
+                "推荐目标投产比也已全量升级"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mgtbvx32t3e1y8mtacp"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mdydic5ej443hgk72h"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 16,
+                  "szUnit": "pt",
+                  "color": "linear-gradient(152deg, #C676FF 0%, #654CFF 41%, #405EFF 75%, #007FFF 99%)",
+                  "data-type": "leaf"
+                },
+                "整体样式"
+              ]
+            ]
+          ],
+          [
+            "table",
+            {
+              "colsWidth": [
+                14.47,
+                85.53
+              ],
+              "tblW": {
+                "w": 100,
+                "type": "pct"
+              },
+              "uuid": "mgtc6q4xnjh14n3nmps",
+              "styleId": "tableHeader",
+              "tblLook": {
+                "firstRow": 1,
+                "firstColumn": 0,
+                "lastRow": 0,
+                "lastColumn": 0
+              }
+            },
+            [
+              "tr",
+              {
+                "uuid": "mgtc6q4x3xa8yj0d44w"
+              },
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mgtc6q4xr56caue0tfd"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mgtc6q4xnjoheflzrro"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "sz": 14,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      "商品推广"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mgtc6q4xh01k80yyns"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mgtc6q4xbfm13w10iti"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ],
+                  [
+                    "img",
+                    {
+                      "uuid": "mgtc76mzz1prvphii7e",
+                      "name": "image.png",
+                      "size": 501733,
+                      "width": 889,
+                      "height": 424,
+                      "src": "/core/api/resources/img/5eecdaf48460cde5c77ae45b2bc3342605c44909fdb4623175b8339e1c4c24831b75b38faadcd24bec177c308ebd53048d3f86edb79a80274148424faa303a47dfe1948355159181be2e2e6ca214d019fb42569826bde4794fb4c8ed7016461c",
+                      "extraData": {
+                        "resourceId": "15e8c53a-bad3-412a-adb0-fa95362768a1",
+                        "metaData": {
+                          "size": 501733,
+                          "originWidth": 1778,
+                          "originHeight": 848,
+                          "format": "png",
+                          "ratio": 1
+                        }
+                      }
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "leaf"
+                        },
+                        ""
+                      ]
+                    ]
+                  ],
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {
+                "uuid": "mgtc6ugqcvgmnpqse9r"
+              },
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mgtc6ugq2yhqhz8u9b4"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mgtc6ugq6pr7krqyyhe"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "sz": 14,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      "全店模式"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mgtc6ugqq8un69rq11h"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mgtc6ugqw7sioc4scb"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ],
+                  [
+                    "img",
+                    {
+                      "uuid": "7bs9of",
+                      "name": "image.png",
+                      "size": 367141,
+                      "width": 781,
+                      "height": 336.48959608323133,
+                      "src": "/core/api/resources/img/5eecdaf48460cde5c77ae45b2bc3342605c44909fdb4623175b8339e1c4c24831b75b38faadcd24bec177c308ebd5304c445f0de1ccfb78b6dd03586b9e52d1df759f5a2a65c79f5640b5ea8243cde70fac99311986a37964fb4c8ed7016461c",
+                      "extraData": {
+                        "resourceId": "ccd5593f-f009-45c1-81bc-a78fa9d4dc8f",
+                        "metaData": {
+                          "size": 367141,
+                          "originWidth": 1634,
+                          "originHeight": 704,
+                          "format": "png",
+                          "ratio": 1
+                        }
+                      }
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "leaf"
+                        },
+                        ""
+                      ]
+                    ]
+                  ],
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "uuid": "mgtc739xl5hm4f2104n"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ]
+                ]
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mehwetmm2qrwdwgfsq9"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "data-type": "leaf"
+                },
+                "主要升级方向："
+              ],
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "将三档目标投产比推荐简化为一档，"
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "data-type": "leaf"
+                },
+                "界面更清晰"
+              ],
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "，同时信息披露及个性化"
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "data-type": "leaf"
+                },
+                "推荐理由更丰富"
+              ],
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "，升级推荐出价数值模型，AI智能提取-分析-产出适配推荐方案，"
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "data-type": "leaf"
+                },
+                "推荐值更匹配"
+              ],
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "，强化采纳出价权益，未采纳负向"
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "data-type": "leaf"
+                },
+                "提醒更明显"
+              ],
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "。帮助商家更好的设置出价，助力货品成长加速"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mehwhjfdqpe3un7rxib",
+              "ind": {
+                "left": 0
+              },
+              "list": {
+                "listId": "eh5hbezr7qq",
+                "level": 0,
+                "isTaskList": false,
+                "isOrdered": true,
+                "listStyleType": "DEC_LEN_LROM_P",
+                "symbolStyle": {},
+                "listStyle": {
+                  "format": "decimal",
+                  "text": "%1.",
+                  "align": "left"
+                }
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "data-type": "leaf"
+                },
+                "基础信息"
+              ],
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "：含计划、同行及市场等趋势对比数据，系统智能选择最适合计划当前参考的披露（实际以计划推荐信息展示为准）"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mdydjokbpgn7l3h49b",
+              "ind": {
+                "left": 0
+              },
+              "list": {
+                "listId": "eh5hbezr7qq",
+                "level": 0,
+                "isTaskList": false,
+                "isOrdered": true,
+                "listStyleType": "DEC_LEN_LROM_P",
+                "symbolStyle": {},
+                "listStyle": {
+                  "format": "decimal",
+                  "text": "%1.",
+                  "align": "left"
+                }
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "data-type": "leaf"
+                },
+                "推荐理由"
+              ],
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "：根据该商品或同行投放数据，系统个性化推荐适合计划当前参考的披露（实际以计划推荐理由展示为准）"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "ind": {
+                "left": 0
+              },
+              "list": {
+                "extraData": {},
+                "hideSymbol": false,
+                "isChecked": false,
+                "isOrdered": true,
+                "isTaskList": false,
+                "level": 1,
+                "listId": "eh5hbezr7qq",
+                "listStyle": {
+                  "align": "left",
+                  "format": "lowerLetter",
+                  "text": "%2."
+                },
+                "listStyleType": "DEC_LEN_LROM_P",
+                "symbolStyle": {}
+              },
+              "uuid": "memgt5hglapsobjzd7p"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "新品、新计划：推荐值主要参考同行设置的全站推出价，采纳后计划出价相对同行有竞争力"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "ind": {
+                "left": 0
+              },
+              "list": {
+                "extraData": {},
+                "hideSymbol": false,
+                "isChecked": false,
+                "isOrdered": true,
+                "isTaskList": false,
+                "level": 1,
+                "listId": "eh5hbezr7qq",
+                "listStyle": {
+                  "align": "left",
+                  "format": "lowerLetter",
+                  "text": "%2."
+                },
+                "listStyleType": "DEC_LEN_LROM_P",
+                "symbolStyle": {}
+              },
+              "uuid": "memgtn5neyhmw1g3i69"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "无界转投商品：推荐值主要参考无界投放数据，采纳后计划出价相较转投前竞争力相当，确保转投后计划拿量能力不掉"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "ind": {
+                "left": 0
+              },
+              "list": {
+                "extraData": {},
+                "hideSymbol": false,
+                "isChecked": false,
+                "isOrdered": true,
+                "isTaskList": false,
+                "level": 1,
+                "listId": "eh5hbezr7qq",
+                "listStyle": {
+                  "align": "left",
+                  "format": "lowerLetter",
+                  "text": "%2."
+                },
+                "listStyleType": "DEC_LEN_LROM_P",
+                "symbolStyle": {}
+              },
+              "uuid": "memlwtf3l7d5atmkons"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "之前投放过全站：推荐值主要参考同行设置的全站推出价及商品之前全站推设置出价，采纳后计划出价相对接近同行出价或商品之前出价，确保计划出价竞争力"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "ind": {
+                "left": 0
+              },
+              "list": {
+                "extraData": {},
+                "hideSymbol": false,
+                "isChecked": false,
+                "isOrdered": true,
+                "isTaskList": false,
+                "level": 1,
+                "listId": "eh5hbezr7qq",
+                "listStyle": {
+                  "align": "left",
+                  "format": "lowerLetter",
+                  "text": "%2."
+                },
+                "listStyleType": "DEC_LEN_LROM_P",
+                "symbolStyle": {}
+              },
+              "uuid": "memm01t4k7apfi1wg3s"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "在投全站推：推荐值主要参考同行设置的全站推出价及商品当前全站推设置出价，采纳后计划出价相对接近同行出价或商品当前出价，确保计划出价竞争力"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mdydsj19xrs2l5kx7a",
+              "ind": {
+                "left": 0
+              },
+              "list": {
+                "listId": "eh5hbezr7qq",
+                "level": 0,
+                "isTaskList": false,
+                "isOrdered": true,
+                "listStyleType": "DEC_LEN_LROM_P",
+                "symbolStyle": {},
+                "listStyle": {
+                  "format": "decimal",
+                  "text": "%1.",
+                  "align": "left"
+                }
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "data-type": "leaf"
+                },
+                "采纳权益"
+              ],
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "：含流量助推、成本保障等（以实际披露为准，"
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "data-type": "leaf"
+                },
+                "当前仅商品推广，全店模式待覆盖"
+              ],
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "）"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mehwoudfucfgev6zna",
+              "ind": {
+                "left": 0
+              },
+              "list": {
+                "listId": "eh5hbezr7qq",
+                "level": 0,
+                "isTaskList": false,
+                "isOrdered": true,
+                "listStyleType": "DEC_LEN_LROM_P",
+                "symbolStyle": {},
+                "listStyle": {
+                  "format": "decimal",
+                  "text": "%1.",
+                  "align": "left"
+                },
+                "extraData": {},
+                "isChecked": false,
+                "hideSymbol": false
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "data-type": "leaf"
+                },
+                "权益角标"
+              ],
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "：当前推荐出价采纳有机会获得的权益"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mehwoudh2dcqvtfnz0o",
+              "ind": {
+                "left": 0
+              },
+              "list": {
+                "listId": "eh5hbezr7qq",
+                "level": 0,
+                "isTaskList": false,
+                "isOrdered": true,
+                "listStyleType": "DEC_LEN_LROM_P",
+                "symbolStyle": {},
+                "listStyle": {
+                  "format": "decimal",
+                  "text": "%1.",
+                  "align": "left"
+                },
+                "extraData": {},
+                "isChecked": false,
+                "hideSymbol": false
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "data-type": "leaf"
+                },
+                "成效预估"
+              ],
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "：对应出价设置，系统预估可获得的成交、点击、曝光等增量"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mdydu310efn6jik9j9",
+              "ind": {
+                "left": 0
+              },
+              "list": {
+                "listId": "eh5hbezr7qq",
+                "level": 0,
+                "isTaskList": false,
+                "isOrdered": true,
+                "listStyleType": "DEC_LEN_LROM_P",
+                "symbolStyle": {},
+                "listStyle": {
+                  "format": "decimal",
+                  "text": "%1.",
+                  "align": "left"
+                }
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "data-type": "leaf"
+                },
+                "出价预警"
+              ],
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "：若计划设置出价过低（设置目标投产比过高），则在设置框披露相关预警，橙色为弱预警（出价竞争力弱、掉量）、红色为强预警（无法设置，请设置在建议值以下）"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mei6a1cxm0qp1cov27",
+              "ind": {
+                "left": 0
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mei6ka7h4r5ktwmtqzn",
+              "ind": {
+                "left": 0
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mei6a1nfx36afw720zs",
+              "ind": {
+                "left": 0
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 16,
+                  "szUnit": "pt",
+                  "color": "linear-gradient(152deg, #C676FF 0%, #654CFF 41%, #405EFF 75%, #007FFF 99%)",
+                  "data-type": "leaf"
+                },
+                "QA"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "ind": {
+                "left": 0
+              },
+              "uuid": "magl9u5uathab8pb4zw"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "问：为什么我的计划上有权益角标，并且采纳了对应的系统推荐出价，但是实际没有生效？"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "ind": {
+                "left": 0
+              },
+              "uuid": "magl9xtkrx500aallj"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "答：角标展示计划可享权益，采纳推荐出价后表示计划满足权益标资格，相关权益标也可在投放计划列表查看。权益标对应的内容是否生效，需结合权益本身的生效条件，如成本保障赔付的实际生效需满足计划新建天数、计划操作门槛、状态门槛、实际投产比低于目标投产比的70%等条件，以对应的权益&活动的说明及规则为准"
+              ]
+            ]
+          ]
+        ],
+        "footers": {},
+        "version": 1
+      },
+      "refs": {}
+    }
+  }
+}

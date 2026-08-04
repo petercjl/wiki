@@ -1,0 +1,251 @@
+{
+  "version": 1,
+  "type": "application/x-alidocs-package",
+  "main": "00000000-0000-0000-0000-000000000001",
+  "plugins": "00000000-0000-0000-0000-000000000002",
+  "parts": {
+    "00000000-0000-0000-0000-000000000001": {
+      "id": "00000000-0000-0000-0000-000000000001",
+      "type": "application/x-alidocs-word",
+      "version": 1,
+      "data": {
+        "style": {},
+        "theme": [],
+        "settings": {},
+        "app": {},
+        "numberings": {},
+        "headers": {},
+        "body": [
+          "root",
+          {},
+          [
+            "p",
+            {
+              "uuid": "mbyscznyric5n7rkz8"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "italic": true,
+                  "color": "#D0D0D0",
+                  "data-type": "leaf"
+                },
+                "原语雀文档链接："
+              ]
+            ],
+            [
+              "a",
+              {
+                "href": "https://yuque.antfin.com/chenchun.chen/gqhty9/iu0mz0k1sgmoqmko"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  "https://yuque.antfin.com/chenchun.chen/gqhty9/iu0mz0k1sgmoqmko"
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "hr",
+            {
+              "color": "#D8D8D8",
+              "sz": 2,
+              "type": "single",
+              "width": "100%"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "h2",
+            {},
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "1.手动出价和系统出价分时折扣的区别？"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {},
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "手动出价"
+              ],
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "是以商家出价直接进行投放，没有系统优化空间或者优化空间小，商家具有更多的可控性。因此需手动进行分时折扣设置，对宝贝在各个时间段内进行手动优化，增加拿量。"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {},
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "系统出价"
+              ],
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "则是根据客户目标，系统进行出价，系统优化空间大，把可控性交给系统，商家操作更便捷。一切以智能算法为主，不需要商家再进行手动调整出价。"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {},
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "​"
+              ]
+            ]
+          ],
+          [
+            "h2",
+            {},
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "2.为什么系统出价下不支持自定义折扣？"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {},
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "系统出价下商家缺少可控性，把可控性交给系统，通过智能算法，针对性的对计划进行调价，在转化高时自动提价，在转化低时降低投放，不需要在手动设置自定义折扣。如商家在某一时间段内不想投放，系统出价支持商家在不想投放的时间段内选择不投放。"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {},
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ]
+        ],
+        "footers": {},
+        "version": 1
+      },
+      "refs": {}
+    }
+  }
+}

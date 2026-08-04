@@ -1,0 +1,766 @@
+{
+  "version": 1,
+  "type": "application/x-alidocs-package",
+  "main": "00000000-0000-0000-0000-000000000001",
+  "plugins": "00000000-0000-0000-0000-000000000002",
+  "parts": {
+    "00000000-0000-0000-0000-000000000001": {
+      "id": "00000000-0000-0000-0000-000000000001",
+      "type": "application/x-alidocs-word",
+      "version": 1,
+      "data": {
+        "style": {},
+        "theme": [],
+        "settings": {},
+        "app": {},
+        "numberings": {},
+        "headers": {},
+        "body": [
+          "root",
+          {},
+          [
+            "p",
+            {
+              "uuid": "m8zgihmlsv6tfkzqf5"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "italic": true,
+                  "color": "#D0D0D0",
+                  "data-type": "leaf"
+                },
+                "原语雀文档链接："
+              ]
+            ],
+            [
+              "a",
+              {
+                "href": "https://yuque.antfin.com/chenchun.chen/gqhty9/esvhw1wtx0u66mm4"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  "https://yuque.antfin.com/chenchun.chen/gqhty9/esvhw1wtx0u66mm4"
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "hr",
+            {
+              "color": "#D8D8D8",
+              "sz": 2,
+              "type": "single",
+              "width": "100%"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "h1",
+            {
+              "jc": "left"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 16,
+                  "szUnit": "pt",
+                  "color": "#000000",
+                  "data-type": "leaf"
+                },
+                "一、功能价值"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {},
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ],
+            [
+              "img",
+              {
+                "height": 564,
+                "name": "",
+                "src": "https://alidocs.oss-cn-zhangjiakou.aliyuncs.com/lark/https://yuque.antfin.com/chenchun.chen/gqhty9/esvhw1wtx0u66mm4/imgM7HSn9fhJY.png",
+                "width": 1001.818160104358
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "h1",
+            {
+              "jc": "left"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 16,
+                  "szUnit": "pt",
+                  "color": "#000000",
+                  "data-type": "leaf"
+                },
+                "二、功能入口"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {},
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "data-type": "leaf"
+                },
+                "操作路径"
+              ],
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "：关键词推广-持续推广-自定义选品-关键词设置-人群设置"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "list": {
+                "isChecked": false,
+                "isOrdered": false,
+                "isTaskList": false,
+                "level": 0,
+                "listId": "list0",
+                "listStyle": {
+                  "align": "left",
+                  "format": "bullet",
+                  "text": "●"
+                }
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "注意："
+              ],
+              [
+                "span",
+                {
+                  "color": "#DF2A3F",
+                  "data-type": "leaf"
+                },
+                "只有【自定义选品】+【手动出价】，才可支持添加人群投放"
+              ],
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "。"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "list": {
+                "isChecked": false,
+                "isOrdered": false,
+                "isTaskList": false,
+                "level": 0,
+                "listId": "list0",
+                "listStyle": {
+                  "align": "left",
+                  "format": "bullet",
+                  "text": "●"
+                }
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "商家可根据自己的需求，选择合适的自定义人群进行投放。自定义人群包括：宝贝人群、店铺人群、行业人群、基础属性、达摩盘平台精选人群"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {},
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ],
+            [
+              "img",
+              {
+                "height": 468,
+                "name": "",
+                "src": "https://alidocs.oss-cn-zhangjiakou.aliyuncs.com/lark/https://yuque.antfin.com/chenchun.chen/gqhty9/esvhw1wtx0u66mm4/imgsM4XOYxuwr.png",
+                "width": 885.4545288085938
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "h1",
+            {},
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "三、概念解释"
+              ]
+            ]
+          ],
+          [
+            "h3",
+            {},
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "color": "#000000",
+                  "data-type": "leaf"
+                },
+                "1、直通车人群是在关键词展现的情况下才存在"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "jc": "justify"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "color": "#000000",
+                  "data-type": "leaf"
+                },
+                "没有关键词，不存在人群概念。若关键词出价过低，导致关键词无展现可能，即人群不存在，人群出价高低无意义，此时人群也拿不到流量。"
+              ]
+            ]
+          ],
+          [
+            "h3",
+            {},
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "color": "#000000",
+                  "data-type": "leaf"
+                },
+                "2、人群溢价"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "jc": "justify"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "color": "#000000",
+                  "data-type": "leaf"
+                },
+                "人群的溢价是对某类特别想投放的人群增加出价，以提升目标人群搜索时看到广告的几率，但不是说只投放这类特定人群。"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "jc": "justify"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "color": "#000000",
+                  "data-type": "leaf"
+                },
+                "举例：关键词【连衣裙】基础出价1元，人群25-30岁女溢价50%，除此之外没有设置其他溢价条件"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "list": {
+                "isChecked": false,
+                "isOrdered": false,
+                "isTaskList": false,
+                "level": 0,
+                "listId": "list1",
+                "listStyle": {
+                  "align": "left",
+                  "format": "bullet",
+                  "text": "●"
+                }
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "color": "#000000",
+                  "data-type": "leaf"
+                },
+                "如果搜索的人是28岁女，那么出价为1.5元"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "list": {
+                "isChecked": false,
+                "isOrdered": false,
+                "isTaskList": false,
+                "level": 0,
+                "listId": "list1",
+                "listStyle": {
+                  "align": "left",
+                  "format": "bullet",
+                  "text": "●"
+                }
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "color": "#000000",
+                  "data-type": "leaf"
+                },
+                "如果搜索的人是20岁女，那么出价为1元，而不是不出价！！！"
+              ]
+            ]
+          ],
+          [
+            "h1",
+            {},
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "四、投放技巧"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "jc": "left"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ],
+            [
+              "img",
+              {
+                "height": 563,
+                "name": "",
+                "src": "https://alidocs.oss-cn-zhangjiakou.aliyuncs.com/lark/https://yuque.antfin.com/chenchun.chen/gqhty9/esvhw1wtx0u66mm4/img2zlladkMxo.png",
+                "width": 999.9999783255842
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "h1",
+            {
+              "jc": "left"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 16,
+                  "szUnit": "pt",
+                  "color": "#000000",
+                  "data-type": "leaf"
+                },
+                "五、常见问题"
+              ]
+            ]
+          ],
+          [
+            "h3",
+            {
+              "jc": "left"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 14,
+                  "szUnit": "pt",
+                  "color": "#000000",
+                  "data-type": "leaf"
+                },
+                "1、为什么圈选多个标签后，人群推广没有展现或者展现少？"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "jc": "justify"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "color": "#000000",
+                  "data-type": "leaf"
+                },
+                "多个标签下的组合人群体量过少，加上这些人群也被其他人投放，可能符合的人群最近没逛淘宝，那么就会出现投放人群无展现或展现少的问题。建议人群标签圈选在3个标签内，且人群覆盖数尽量大于1万"
+              ]
+            ]
+          ],
+          [
+            "h3",
+            {},
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "color": "#000000",
+                  "data-type": "leaf"
+                },
+                "2、商品定位是男性、三十岁、月均消费1000，产品早期推广直接用这类人群？"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "jc": "justify"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "color": "#000000",
+                  "data-type": "leaf"
+                },
+                "不建议，原因如下："
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "list": {
+                "isChecked": false,
+                "isOrdered": false,
+                "isTaskList": false,
+                "level": 0,
+                "listId": "list2",
+                "listStyle": {
+                  "align": "left",
+                  "format": "bullet",
+                  "text": "●"
+                }
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "color": "#000000",
+                  "data-type": "leaf"
+                },
+                "产品早期的人群定位和实际市场情况可能有所差异，还有其他人群会进行购买消费"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "list": {
+                "isChecked": false,
+                "isOrdered": false,
+                "isTaskList": false,
+                "level": 0,
+                "listId": "list2",
+                "listStyle": {
+                  "align": "left",
+                  "format": "bullet",
+                  "text": "●"
+                }
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "color": "#000000",
+                  "data-type": "leaf"
+                },
+                "产品早期推广更加建议用精准的关键词匹配积累数据，可开通智能拉新人群功能，后续查看实际表现好的人群加入推广（推广7-15天后）"
+              ]
+            ]
+          ]
+        ],
+        "footers": {},
+        "version": 1
+      },
+      "refs": {}
+    }
+  }
+}

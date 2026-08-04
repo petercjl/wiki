@@ -1,0 +1,2780 @@
+{
+  "version": 1,
+  "type": "application/x-alidocs-package",
+  "main": "00000000-0000-0000-0000-000000000001",
+  "plugins": "00000000-0000-0000-0000-000000000002",
+  "parts": {
+    "96c6c834-e0b4-456d-aaad-b477210e10f4": {
+      "id": "96c6c834-e0b4-456d-aaad-b477210e10f4",
+      "type": "application/x-alidocs-plugin-attachment",
+      "version": 1,
+      "data": {
+        "spaceId": "2125320914",
+        "fileSize": 0,
+        "fileName": "线索推广-咨询明细&咨询有效打标",
+        "fileType": "adoc",
+        "fileId": "207646993282",
+        "corpId": "dingd8e1123006514592",
+        "modifiedTime": 1785132140000,
+        "dentryUuid": "Obva6QBXJwxNZoMOC6RGQBz38n4qY5Pr",
+        "bizType": "PORTAL",
+        "url": "https://alidocs.dingtalk.com/i/nodes/Obva6QBXJwxNZoMOC6RGQBz38n4qY5Pr",
+        "viewType": "text",
+        "dentryKey": "dz8eZ573zCzQwM1O",
+        "uniqueId": "96c6c834-e0b4-456d-aaad-b477210e10f4",
+        "metaUrl": "https://alidocs.dingtalk.com/i/nodes/Obva6QBXJwxNZoMOC6RGQBz38n4qY5Pr"
+      }
+    },
+    "00000000-0000-0000-0000-000000000001": {
+      "id": "00000000-0000-0000-0000-000000000001",
+      "type": "application/x-alidocs-word",
+      "version": 1,
+      "data": {
+        "style": {
+          "docDefaults": {
+            "type": "paragraph",
+            "default": 1,
+            "name": "dingdocnormal",
+            "data": {
+              "rPr": {
+                "sz": 12,
+                "szUnit": "pt"
+              },
+              "pPr": {
+                "spacing": {
+                  "before": 12,
+                  "after": 12
+                }
+              }
+            }
+          },
+          "tableDefault": {
+            "type": "table",
+            "data": {
+              "tblPr": {
+                "bdr": {
+                  "bottom": {
+                    "color": "#D6D6D6",
+                    "space": 0,
+                    "sz": 1,
+                    "val": "single"
+                  },
+                  "insideH": {
+                    "color": "#D6D6D6",
+                    "space": 0,
+                    "sz": 1,
+                    "val": "single"
+                  },
+                  "insideV": {
+                    "color": "#D6D6D6",
+                    "space": 0,
+                    "sz": 1,
+                    "val": "single"
+                  },
+                  "left": {
+                    "color": "#D6D6D6",
+                    "space": 0,
+                    "sz": 1,
+                    "val": "single"
+                  },
+                  "right": {
+                    "color": "#D6D6D6",
+                    "space": 0,
+                    "sz": 1,
+                    "val": "single"
+                  },
+                  "top": {
+                    "color": "#D6D6D6",
+                    "space": 0,
+                    "sz": 1,
+                    "val": "single"
+                  }
+                }
+              }
+            }
+          },
+          "tableHeader": {
+            "type": "table",
+            "basedOn": "tableDefault",
+            "data": {
+              "tblStylePr": [
+                {
+                  "type": "firstRow",
+                  "tcPr": {
+                    "shd": {
+                      "fill": "#F5F6F7"
+                    }
+                  }
+                },
+                {
+                  "type": "firstCol",
+                  "tcPr": {
+                    "shd": {
+                      "fill": "#F5F6F7"
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        "theme": [],
+        "settings": {
+          "titleCover": {
+            "isHide": true
+          }
+        },
+        "app": {},
+        "numberings": {},
+        "headers": {},
+        "body": [
+          "root",
+          {
+            "sectPr": {
+              "pgSz": {
+                "w": 892,
+                "h": 1127
+              },
+              "pgMar": {
+                "top": 48,
+                "bottom": 48,
+                "left": 72,
+                "right": 72,
+                "header": 56.73,
+                "footer": 66.13,
+                "gutter": 0
+              }
+            },
+            "theme": {
+              "table": {
+                "tableCell": {
+                  "vAlign": "top"
+                }
+              }
+            }
+          },
+          [
+            "h2",
+            {
+              "uuid": "mpw1uv2sejr2f68u1gp"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "一、咨询打标功能介绍"
+              ]
+            ]
+          ],
+          [
+            "h3",
+            {
+              "uuid": "mpw1uv2s9hn4wkj5m1r"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "1.1 功能概述"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mkv41zgq591bsfpe28h"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "“有效咨询打标”是"
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "data-type": "leaf"
+                },
+                "商家主动参与线索推广算法模型训练"
+              ],
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "的核心工具。商家可为每条旺旺咨询/留资打上“有效”、“无效”或其他自定义标签，平台可沉淀高质量正向人群与负向样本，针对商家线索推广持续个性化优化线索推广算法模型，实现"
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 14,
+                  "szUnit": "pt",
+                  "color": "#252527",
+                  "data-type": "leaf"
+                },
+                "“越打标，模型越懂你；越训练，线索越精准。”"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mpw2w7uq6fc2jd62fvu"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 14,
+                  "szUnit": "pt",
+                  "color": "#FE0300",
+                  "data-type": "leaf"
+                },
+                "【千牛客服打标工具】重磅上线！！！"
+              ],
+              [
+                "span",
+                {
+                  "sz": 14,
+                  "szUnit": "pt",
+                  "color": "#FE0300",
+                  "data-type": "leaf"
+                },
+                "将打标操作前置至客服接待环节，实时打标、即时生效，省去跨平台操作成本，显著提升工作效率。"
+              ]
+            ]
+          ],
+          [
+            "h3",
+            {
+              "uuid": "mpw1uv2ss0kghtkf2b"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "1.2 前置条件"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mpw1uv2sk0meoy4u44q"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "商家使用打标功能须满足以下条件："
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "list": {
+                "listId": "cet78ot7nuk",
+                "isOrdered": false,
+                "level": 0,
+                "listStyle": {
+                  "format": "bullet",
+                  "text": "●",
+                  "align": "left"
+                },
+                "symbolStyle": {
+                  "color": ""
+                }
+              },
+              "uuid": "mpw1uv2tyglm61v25s"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "color": "",
+                  "data-type": "leaf"
+                },
+                "商家已经开通了客户工作台【线索管理】及功能（报名链接："
+              ]
+            ],
+            [
+              "a",
+              {
+                "href": "https://survey.taobao.com/apps/zhiliao/VENIUcIwa）",
+                "uuid": "mpuwyqdtywlighbhbd"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "bold": true,
+                    "color": "",
+                    "data-type": "leaf"
+                  },
+                  "https://survey.taobao.com/apps/zhiliao/VENIUcIwa）"
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "color": "",
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "list": {
+                "listId": "cet78ot7nuk",
+                "isOrdered": false,
+                "level": 0,
+                "listStyle": {
+                  "format": "bullet",
+                  "text": "●",
+                  "align": "left"
+                },
+                "symbolStyle": {
+                  "color": "",
+                  "bold": true
+                }
+              },
+              "uuid": "mpw1uv2td7m8urd2f2"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "color": "",
+                  "data-type": "leaf"
+                },
+                "已在客户工作台完成标签体系设置（详见下文操作流程）"
+              ]
+            ]
+          ],
+          [
+            "h3",
+            {
+              "uuid": "mpw1uv2t2pjy57004uf"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "1.3 核心价值"
+              ]
+            ]
+          ],
+          [
+            "container",
+            {
+              "subType": "colorBlocks",
+              "metadata": {
+                "padding": {
+                  "top": 11,
+                  "right": 11,
+                  "bottom": 11,
+                  "left": 11
+                },
+                "borderRadius": 8,
+                "sticker": "气泡",
+                "bgcolor": "#FEF6E9",
+                "showstk": false,
+                "border": "#FFA344"
+              },
+              "uuid": "mkv4f3o11c6pauqiop"
+            },
+            [
+              "p",
+              {
+                "uuid": "mpw2vy4hdf18kxwcl44",
+                "jc": "center"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "bold": true,
+                    "sz": 14.5,
+                    "szUnit": "pt",
+                    "color": "rgb(255, 111, 4)",
+                    "data-type": "leaf"
+                  },
+                  "🎯产品优势"
+                ]
+              ]
+            ],
+            [
+              "p",
+              {
+                "uuid": "mpw2vy4h8krydf4to4k",
+                "jc": "center"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "bold": true,
+                    "sz": 12,
+                    "szUnit": "pt",
+                    "color": "#FE0300",
+                    "data-type": "leaf"
+                  },
+                  "看得清转化、教得会模型"
+                ],
+                [
+                  "span",
+                  {
+                    "sz": 12,
+                    "szUnit": "pt",
+                    "color": "rgb(255, 111, 4)",
+                    "data-type": "leaf"
+                  },
+                  "——让每一分推广预算都花在真正有效的客户上。"
+                ]
+              ]
+            ],
+            [
+              "p",
+              {
+                "uuid": "mpw2vy4h3hi2xn491gw"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "bold": true,
+                    "sz": 12,
+                    "szUnit": "pt",
+                    "color": "rgb(255, 111, 4)",
+                    "data-type": "leaf"
+                  },
+                  "🔥转化全链路一目了然："
+                ],
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  "支持按客服维度拆解接待量、有效咨询量、转化客资数，支持按计划ID、商品ID查询对应咨询，并且展示会话记录详情，完整还原"
+                ],
+                [
+                  "span",
+                  {
+                    "bold": true,
+                    "data-type": "leaf"
+                  },
+                  "“旺旺咨询 → 客服承接 → 客资转化”"
+                ],
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  "路径，帮助商家精准评估服务效能；且T+1 数据自动更新，30天归因周期保障分析完整性。"
+                ]
+              ]
+            ],
+            [
+              "p",
+              {
+                "uuid": "mpw2vy4hff5jrktygob"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "bold": true,
+                    "sz": 12,
+                    "szUnit": "pt",
+                    "color": "rgb(255, 111, 4)",
+                    "data-type": "leaf"
+                  },
+                  "🔥有效性打标反哺模型："
+                ],
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  "平台为每一条旺旺咨询/留资线索提供有效、无效标签，商家也可依据行业业务判断及实际语聊情况设置对应正/负向标签，并依据客服语聊详情进行有效性打标，"
+                ],
+                [
+                  "span",
+                  {
+                    "bold": true,
+                    "data-type": "leaf"
+                  },
+                  "打标数据实时反哺营销模型，实现“投得越久，人群越准，模型越用越聪明”。"
+                ]
+              ]
+            ],
+            [
+              "p",
+              {
+                "uuid": "mpw2vy4h4ng1f4rpgt"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "bold": true,
+                    "sz": 12,
+                    "szUnit": "pt",
+                    "color": "rgb(255, 111, 4)",
+                    "data-type": "leaf"
+                  },
+                  "🔥正负向训练降本增效："
+                ],
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  "通过沉淀正向高营销价值的人群与识别负向无效标签的用户行为（骚扰人群、空号、无意向用户）打造商家个性化数据池，无效/骚扰人群自动化过滤减少预算浪费，同时沉淀高营销价值的人群画像以精准放大优质咨询及线索，"
+                ],
+                [
+                  "span",
+                  {
+                    "bold": true,
+                    "data-type": "leaf"
+                  },
+                  "提升客服转化效率，驱动营销模型精准学习"
+                ],
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  "，形成"
+                ]
+              ],
+              [
+                "a",
+                {
+                  "href": "",
+                  "uuid": "mpw2vy4hmyzzig85top"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "text"
+                  },
+                  [
+                    "span",
+                    {
+                      "bold": true,
+                      "data-type": "leaf"
+                    },
+                    "“服务提效+推广提效”"
+                  ],
+                  [
+                    "span",
+                    {
+                      "data-type": "leaf"
+                    },
+                    "的正向循环"
+                  ]
+                ]
+              ],
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  "，实现降本增效双驱动，ROI持续提升。"
+                ]
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mrvoc4z8eyfvr0c51uc"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "h2",
+            {
+              "uuid": "mpw1uv2urtaop2smnzb"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "二、千牛端操作流程"
+              ]
+            ]
+          ],
+          [
+            "h3",
+            {
+              "uuid": "mpw1uv2v79w2e5atbz7"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "2.1 前置准备"
+              ]
+            ]
+          ],
+          [
+            "h4",
+            {
+              "uuid": "mrvo6cg8eni80ngjgkm",
+              "spacing": {
+                "before": 21.333333333333332,
+                "after": 8.666666666666666,
+                "line": 0.9333333333333332
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 13.5,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "2.2.1 开通【"
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 13.5,
+                  "szUnit": "pt",
+                  "color": "rgb(51, 51, 51)",
+                  "data-type": "leaf"
+                },
+                "客服咨询打标工具"
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 13.5,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "】"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mrvo7spudw0mtfvkxtu"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "操作说明："
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "#E03E3E",
+                  "data-type": "leaf"
+                },
+                "第一次使用，必须提前开通【客服咨询打标工具】功能！！！"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mrvoa1wuvciycxboc9t"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "data-type": "leaf"
+                },
+                "操作路径："
+              ],
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "线索管理 — 留资渠道 — 客服咨询打标工具（客户工作台线索管理入口："
+              ]
+            ],
+            [
+              "a",
+              {
+                "href": "https://business.alimama.com/#/lead/pages/LeadChart",
+                "uuid": "mrvo8amtzyzzmx33gtq"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  "线索管理"
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "）"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mrvo8s4natm2ppwr9zp",
+              "jc": "center"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ],
+            [
+              "img",
+              {
+                "uuid": "ash8py",
+                "name": "image.png",
+                "size": 848870,
+                "width": 358,
+                "height": 253,
+                "src": "/core/api/resources/img/5eecdaf48460cde5093427eda0a9e41bf4186c197a675e8775b8339e1c4c24831b75b38faadcd24bec177c308ebd53042a10f12280257390e9a2e704a1b043e4113066adff8904fd50f84fa27c7c6c380e16f8b56482b44e4fb4c8ed7016461c",
+                "extraData": {
+                  "resourceId": "49dcc50b-17ab-4118-aeeb-fe5a46791477",
+                  "metaData": {
+                    "size": 848870,
+                    "originWidth": 1346,
+                    "originHeight": 951,
+                    "format": "png",
+                    "ratio": 1
+                  }
+                },
+                "rotation": 0
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "h4",
+            {
+              "uuid": "mrvo7aidk1pz3u8u23d",
+              "spacing": {
+                "before": 21.333333333333332,
+                "after": 8.666666666666666,
+                "line": 0.9333333333333332
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 13.5,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "2.2.2 设置标签"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mpw1uv2wyisrmxpybf"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "data-type": "leaf"
+                },
+                "操作说明："
+              ],
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "平台提供预设标签模板，分\"有效\"、\"无效\"两个分类；商家如有自定义标签需求，须在客户工作台完成标签体系设置，千牛端客服打标功能方可正常使用商家自定义标签。"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mpw1uv2w70dgw8l3nmr"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "data-type": "leaf"
+                },
+                "操作路径"
+              ],
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "：线索管理 — 标签设置 — 咨询明细（客户工作台线索管理入口："
+              ]
+            ],
+            [
+              "a",
+              {
+                "href": "https://business.alimama.com/#/lead/pages/LeadChart",
+                "uuid": "m8r4sn2kku3321f1nrm"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  "线索管理"
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "）"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mpw1uv2w15i07zgq6j3"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "data-type": "leaf"
+                },
+                "设置说明"
+              ],
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "："
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "list": {
+                "listId": "ixbsoz3qi1",
+                "isOrdered": false,
+                "level": 0,
+                "listStyle": {
+                  "format": "bullet",
+                  "text": "●",
+                  "align": "left"
+                }
+              },
+              "uuid": "mpw1uv2wr9cuvdhlfwe"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "平台提供预设标签模板："
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "color": "#E03E3E",
+                  "data-type": "leaf"
+                },
+                "\"有效\"、\"无效\""
+              ],
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "两个分类"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "list": {
+                "listId": "ixbsoz3qi1",
+                "isOrdered": false,
+                "level": 0,
+                "listStyle": {
+                  "format": "bullet",
+                  "text": "●",
+                  "align": "left"
+                }
+              },
+              "uuid": "mpw1uv2w30g4akadiq5"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "商家可基于自身业务场景，在预设标签模板下自定义添加正向/负向标签（例如：\"空号/拒接\"、\"无意向\"、\"已加微\"、\"高意向\"等）"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "list": {
+                "listId": "ixbsoz3qi1",
+                "isOrdered": false,
+                "level": 0,
+                "listStyle": {
+                  "format": "bullet",
+                  "text": "●",
+                  "align": "left"
+                }
+              },
+              "uuid": "mpw1uv2xuuhwghbyll"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "data-type": "leaf"
+                },
+                "重要提示"
+              ],
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "："
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "color": "#E03E3E",
+                  "data-type": "leaf"
+                },
+                "商家所有自定义标签都必须分别归入\"有效\"、\"无效\"分类下，否则营销算法模型将无法分析及应用；除\"有效/无效\"两个分类外，其他分类均不生效"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "list": {
+                "listId": "ixbsoz3qi1",
+                "isOrdered": false,
+                "level": 0,
+                "listStyle": {
+                  "format": "bullet",
+                  "text": "●",
+                  "align": "left"
+                }
+              },
+              "uuid": "mpw1uv2y9qqjzpt9u2v"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "标签支持分组管理，便于长期维护"
+              ]
+            ]
+          ],
+          [
+            "h3",
+            {
+              "uuid": "mpw1uv2yhr07874uqbt"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "2.2 千牛端打标操作"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mpw1uv2z6mw0t2ece5f"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "data-type": "leaf"
+                },
+                "操作平台"
+              ],
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "：千牛平台 — 旺旺语聊页面"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mpw1uv2z2zes9b45kgg"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "data-type": "leaf"
+                },
+                "操作路径"
+              ],
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "：千牛平台 — 旺旺语聊页面 — 客户信息模块 — 添加备注"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mpw1uv2zytlhs1mbu4"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "data-type": "leaf"
+                },
+                "操作步骤"
+              ],
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "：当消费者发起旺旺咨询时，客服人员可按以下流程完成咨询打标："
+              ]
+            ]
+          ],
+          [
+            "table",
+            {
+              "colsWidth": [
+                244,
+                244,
+                244
+              ],
+              "tblW": {
+                "w": 100,
+                "type": "pct"
+              },
+              "uuid": "mpw387q6u7uhvwanmb",
+              "styleId": "tableHeader",
+              "tblLook": {
+                "firstRow": 1,
+                "firstColumn": 0,
+                "lastRow": 0,
+                "lastColumn": 0
+              }
+            },
+            [
+              "tr",
+              {
+                "uuid": "mpw387q6bsrehuv2k",
+                "isTblHeader": true
+              },
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mpw387q6zog0fvugmw",
+                  "vAlign": "middle"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mpw387q6sphdp1rec6",
+                    "jc": "center"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "data-type": "leaf"
+                      },
+                      "第一步：进入打标入口"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mpw387q6phtcf8f5sih",
+                  "vAlign": "middle"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mpw387q6tfq0pafd79f",
+                    "jc": "center"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "data-type": "leaf"
+                      },
+                      "第二步：选择标签"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mpw387q6gg7990b0abr",
+                  "vAlign": "middle"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mpw387q645r7rdkqi3a",
+                    "jc": "center"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "data-type": "leaf"
+                      },
+                      "第三步：提交保存"
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {
+                "uuid": "mpw387q6ocewmmlbyjm"
+              },
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mpw387q6a90rr2hzdnd",
+                  "vAlign": "middle"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mpw387q6tt29psn6af"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "于千牛平台旺旺语聊页面右侧，客户信息模块下方，点击"
+                    ],
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "color": "#E03E3E",
+                        "data-type": "leaf"
+                      },
+                      "【添加备注】"
+                    ],
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "按钮。"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mpw387q6pv5mgjy8tma",
+                  "vAlign": "middle"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mpw387q66vhpwnakfhc"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "系统浮层将展示商家于客户工作台预设的有效标签与无效标签。客服人员根据实际沟通情况，"
+                    ],
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "color": "#E03E3E",
+                        "data-type": "leaf"
+                      },
+                      "勾选对应标签"
+                    ],
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "。"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mpw387q6cquzi85vlua",
+                  "vAlign": "middle"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mpw387q6x9e36ykpun"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "点击"
+                    ],
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "color": "#E03E3E",
+                        "data-type": "leaf"
+                      },
+                      "【保存提交】"
+                    ],
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "按钮完成打标。客户信息模块将新增标签展示项，显示已打标签内容，打标结果实时同步至客户工作台。"
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {
+                "uuid": "mpw387q6uxaclpb71m"
+              },
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mpw387q6o8avdeabdrr",
+                  "vAlign": "middle"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mpw387q6tj60repzocs"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ],
+                  [
+                    "img",
+                    {
+                      "extraData": {
+                        "metaData": {
+                          "format": "png",
+                          "originHeight": 816,
+                          "originWidth": 1383,
+                          "ratio": 1,
+                          "size": 741507
+                        },
+                        "resourceId": "05594ef9-1ade-424f-984f-5b57f0f43020"
+                      },
+                      "height": 441.3362255965293,
+                      "name": "lQLPKHHt5K5e5w_NAzDNBWewE84u8ri4eAsJ8jLoTmnAAA_1383_816.png",
+                      "size": 741507,
+                      "src": "/core/api/resources/img/5eecdaf48460cde564ece24b2065a5b52cd337c7e5228ddb75b8339e1c4c24831b75b38faadcd24bec177c308ebd5304b88d4c51fcbd503a706d02284df03fc47966d9dcd96be6398cf1fd736420545d6f706ef27d0d4a4a4fb4c8ed7016461c",
+                      "uuid": "mpw7udtirm1auv2fpue",
+                      "width": 748
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "leaf"
+                        },
+                        ""
+                      ]
+                    ]
+                  ],
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mpw387q69sjb0ysha7o",
+                  "vAlign": "middle"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mpw387q6in31dmhgj3"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ],
+                  [
+                    "img",
+                    {
+                      "extraData": {
+                        "metaData": {
+                          "format": "png",
+                          "originHeight": 816,
+                          "originWidth": 1383,
+                          "ratio": 1,
+                          "size": 749421
+                        },
+                        "resourceId": "e1f8cf40-2859-4248-a345-8cf381e0b23a"
+                      },
+                      "height": 441.3353940764482,
+                      "name": "lQLPJx_RSHDmLA_NAzDNBWewtyhNEOX7A-gJ8jLtd-AwAA_1383_816.png",
+                      "size": 749421,
+                      "src": "/core/api/resources/img/5eecdaf48460cde564ece24b2065a5b52cd337c7e5228ddb75b8339e1c4c24831b75b38faadcd24bec177c308ebd5304d370ae537e416702ec3382a7ec0a79649ec5de221d34a6dc50e8e237e46c6ddcc0a971b4451c1a3a4fb4c8ed7016461c",
+                      "uuid": "mpw7udtipuzdfrx3wk",
+                      "width": 748
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "leaf"
+                        },
+                        ""
+                      ]
+                    ]
+                  ],
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mpw387q6t01h72dvhj9",
+                  "vAlign": "middle"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mpw387q6jvdq7ylbgis"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ],
+                  [
+                    "img",
+                    {
+                      "uuid": "mpw7udtiyq1v1nkyclp",
+                      "name": "3f842e99b9ca4be38d7dee078df043a4.png",
+                      "size": 748909,
+                      "width": 748,
+                      "height": 441.3353940764482,
+                      "src": "/core/api/resources/img/5eecdaf48460cde564ece24b2065a5b52cd337c7e5228ddb75b8339e1c4c24831b75b38faadcd24bec177c308ebd5304992864430c19f9520671571796bcf0349ff5c842ee06486f66f513952efcd84c429237a7dd1b5c014fb4c8ed7016461c",
+                      "extraData": {
+                        "resourceId": "19e15231-501e-40da-9b4e-abb2e4dd9b4c",
+                        "metaData": {
+                          "size": 748909,
+                          "originWidth": 1383,
+                          "originHeight": 816,
+                          "format": "png",
+                          "ratio": 1
+                        }
+                      }
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "leaf"
+                        },
+                        ""
+                      ]
+                    ]
+                  ],
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ]
+                ]
+              ]
+            ]
+          ],
+          [
+            "h3",
+            {
+              "uuid": "mpw1uv312ulmgvpc2ci"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "2.3 打标方式说明"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mpw1uv31g0z0r042zgl"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "平台支持"
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "data-type": "leaf"
+                },
+                "千牛客服端一键打标"
+              ],
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "和"
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "data-type": "leaf"
+                },
+                "客户工作台打标"
+              ],
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "两种方式，商家可根据实际业务场景灵活选用，同一个咨询使用一种打标方式即可。操作方式详见>>"
+              ]
+            ],
+            [
+              "tag",
+              {
+                "tagType": "hetu",
+                "metadata": {
+                  "type": "application/x-alidocs-plugin-attachment",
+                  "id": "96c6c834-e0b4-456d-aaad-b477210e10f4"
+                },
+                "uuid": "mpw3c4md160mjvrcnsii"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "list": {
+                "listId": "o0s5rv439k8",
+                "isOrdered": false,
+                "level": 0,
+                "listStyle": {
+                  "format": "bullet",
+                  "text": "●",
+                  "align": "left"
+                }
+              },
+              "uuid": "mpw1uv31jqz4u3ywhzh"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "data-type": "leaf"
+                },
+                "千牛客服端打标"
+              ],
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "：适用于客服在接待咨询过程中实时打标，操作便捷高效"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "list": {
+                "listId": "o0s5rv439k8",
+                "isOrdered": false,
+                "level": 0,
+                "listStyle": {
+                  "format": "bullet",
+                  "text": "●",
+                  "align": "left"
+                }
+              },
+              "uuid": "mpw1uv327i9gt370bv4"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "data-type": "leaf"
+                },
+                "客户工作台打标"
+              ],
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "：适用于管理人员后续批量打标或复核打标，支持查看完整会话详情后进行标签设置。"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mrvoc9a9xa6udus9g9j"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "h2",
+            {
+              "uuid": "mpw1uv32ndposs27nl"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "三、打标数据算法应用"
+              ]
+            ]
+          ],
+          [
+            "h3",
+            {
+              "uuid": "mpw1uv32qkpal76xtik"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "3.1 一期能力（已上线）：聚焦打标基建，启动数据沉淀"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mpw1uv33mfh27matsl"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "当前阶段，平台优先开放咨询打标功能，支持商家对每条旺旺咨询手动标记\"有效\"或\"无效\"标签，并可自定义符合自身业务的正向有效（如\"已加微\"\"高意向\"）与负向无效（如\"空号\"\"非目标客户\"）样本。"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mpw1uv33zuhhpo0hcp8"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "data-type": "leaf"
+                },
+                "核心目标"
+              ],
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "：帮助商家主动积累高质量训练数据，逐步构建专属的有效人群数据池。"
+              ]
+            ]
+          ],
+          [
+            "h3",
+            {
+              "uuid": "mpw1uv336ta700yz0u5"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "3.2 二期能力（已上线）："
+              ],
+              [
+                "span",
+                {
+                  "color": "#E03E3E",
+                  "data-type": "leaf"
+                },
+                "全新【提升有效咨询量】优化目标上线，智能提效"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mpw1uv33sr0z4phy8hc"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "平台将基于一期积累的历史打标数据与后续实时新增打标，全面升级\"有效咨询\"智能识别模型，"
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "data-type": "leaf"
+                },
+                "上线【提升有效咨询量】优化目标"
+              ],
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "。模型训练后随实时打标数据即时生效，系统将自动："
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "list": {
+                "listId": "gl981g4vzwm",
+                "isOrdered": false,
+                "level": 0,
+                "listStyle": {
+                  "format": "bullet",
+                  "text": "●",
+                  "align": "left"
+                }
+              },
+              "uuid": "mpw1uv335tpehz8okyi"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "减少对低效/无效人群的曝光"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "list": {
+                "listId": "gl981g4vzwm",
+                "isOrdered": false,
+                "level": 0,
+                "listStyle": {
+                  "format": "bullet",
+                  "text": "●",
+                  "align": "left"
+                }
+              },
+              "uuid": "mpw1uv34dqf77q93l8p"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "优先触达高转化潜力人群"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "list": {
+                "listId": "gl981g4vzwm",
+                "isOrdered": false,
+                "level": 0,
+                "listStyle": {
+                  "format": "bullet",
+                  "text": "●",
+                  "align": "left"
+                }
+              },
+              "uuid": "mpw1uv35udzaey2uuj"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "提升商家推广计划整体有效性"
+              ]
+            ]
+          ],
+          [
+            "h3",
+            {
+              "uuid": "mpw1uv35dj3akcr7m8s"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "color": "#E03E3E",
+                  "data-type": "leaf"
+                },
+                "3.3 关键行动建议"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "list": {
+                "listId": "p31p00xuay",
+                "isOrdered": false,
+                "level": 0,
+                "listStyle": {
+                  "format": "bullet",
+                  "text": "●",
+                  "align": "left"
+                }
+              },
+              "uuid": "mpw1uv3521abgu045i6"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "color": "#E03E3E",
+                  "data-type": "leaf"
+                },
+                "请务必启动咨询明细打标并持续进行"
+              ],
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "：模型效果高度依赖前期数据积累——打标越早、样本越全，模型越精准。"
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "data-type": "leaf"
+                },
+                "建议持续打标，确保模型收敛稳定，充分释放智能投放红利。"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "list": {
+                "listId": "p31p00xuay",
+                "isOrdered": false,
+                "level": 0,
+                "listStyle": {
+                  "format": "bullet",
+                  "text": "●",
+                  "align": "left"
+                }
+              },
+              "uuid": "mpw1uv35k8fgcbbk2bg"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "color": "#E03E3E",
+                  "data-type": "leaf"
+                },
+                "请务必开启【提高有效咨询量】投放"
+              ],
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "：配合打标数据使用，实时学习打标结果应用至广告模型，"
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "data-type": "leaf"
+                },
+                "实现“投得越久，人群越准，模型越用越聪明”。"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mrvochm8wc6s5xm4ad"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "h2",
+            {
+              "uuid": "mpw1uv36tcoulsipksd"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "四、常见问题"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mpw1uv36rq3pt4ydzqe"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "data-type": "leaf"
+                },
+                "问题一：为什么需要使用打标功能？"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mpw1uv36ru0v1sfxdo"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "答：打标功能可帮助商家主动积累高质量训练数据，让营销算法模型\"学会\"识别理想客户。打标越早、样本越全，模型越精准，可有效降低无效花费，提升ROI。"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mpw1uv36s24s3fpbqlc"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "data-type": "leaf"
+                },
+                "问题二：打错标签了，会影响模型吗？"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mpw1uv365ipsaqjav2l"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "答：影响有限，且可修正。模型具备一定抗噪能力，少量误标不会导致方向性偏差；支持随时修改或删除标签，系统会动态更新学习样本；建议结合聊天记录判断，提升打标准确率。"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mpw1uv37fr861lzky2k"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "data-type": "leaf"
+                },
+                "问题三：平台预设的标签不符合我们行业，能自定义吗？"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mpw1uv3746nlh4de8ze"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "答：完全可以！平台支持商家创建自定义正向/负向标签（如\"已到店\"\"预算<5万\"等）；标签可分组管理，适配不同业务线；自定义标签同样参与模型训练，贴合您的真实转化标准。"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mpw1uv370trfl2n1phb9"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "data-type": "leaf"
+                },
+                "问题四：如果我不打标，会有什么影响？"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mpw1uv37fbuxcy0t04g"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "答：模型将缺乏有效训练数据，可能导致：①无效线索比例高，浪费预算；②无法识别高营销价值的人群，错失精准放大机会；③长期来看，ROI低于同行，竞争力下降。"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mpw1uv38flo2m0w5uyt"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "data-type": "leaf"
+                },
+                "问题五：打标数据多久能看到效果？"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mpw1uv38s9he1j36bn"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "答：建议持续打标2周以上，模型收敛更稳定，效果提升更显著。打标数据实时反哺模型，系统将持续优化投放策略。"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mpw1uv38paye6pqlxbn"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "data-type": "leaf"
+                },
+                "问题六：千牛端打标和客户工作台打标有什么区别？"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mpw1uv38cah0eqjy5no"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "答：两者功能一致，均为对咨询记录进行标签标记。千牛端打标适用于客服在接待咨询过程中实时操作，更为便捷高效；客户工作台打标适用于管理人员后续批量操作或复核打标。商家可根据实际情况选择其中一种方式即可。"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mpw1uv38pcz9shuq8u"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "data-type": "leaf"
+                },
+                "问题七：打标权限如何管理？"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mpw1uv38801977ul1e"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "答：店铺主账号及子账号均可使用打标功能。商家可根据团队分工，为不同客服人员配置相应权限。"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mrvoekb3doxsyiwl83"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mpw1uv39580cwfgw1m3"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "data-type": "leaf"
+                },
+                "更新日期"
+              ],
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "：2026年7月"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mpw1uv3a2fet19a3xk4"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "data-type": "leaf"
+                },
+                "适用范围"
+              ],
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "：阿里妈妈线索推广产品商家"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mpw1uv3b9kjqbnba0o4"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "data-type": "leaf"
+                },
+                "如有疑问，请联系阿里妈妈官方客服或加线索推广官方客户群（群号：184000002543）获取进一步支持。"
+              ]
+            ]
+          ]
+        ],
+        "footers": {},
+        "version": 1
+      },
+      "refs": {}
+    }
+  }
+}

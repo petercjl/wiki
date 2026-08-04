@@ -1,0 +1,1585 @@
+{
+  "version": 1,
+  "type": "application/x-alidocs-package",
+  "main": "00000000-0000-0000-0000-000000000001",
+  "plugins": "00000000-0000-0000-0000-000000000002",
+  "parts": {
+    "00000000-0000-0000-0000-000000000001": {
+      "id": "00000000-0000-0000-0000-000000000001",
+      "type": "application/x-alidocs-word",
+      "version": 1,
+      "data": {
+        "style": {
+          "docDefaults": {
+            "type": "paragraph",
+            "default": 1,
+            "name": "dingdocnormal",
+            "data": {
+              "rPr": {
+                "sz": 12,
+                "szUnit": "pt"
+              },
+              "pPr": {
+                "spacing": {
+                  "before": 8,
+                  "after": 8
+                }
+              }
+            }
+          },
+          "tableDefault": {
+            "type": "table",
+            "data": {
+              "tblPr": {
+                "bdr": {
+                  "bottom": {
+                    "color": "#D6D6D6",
+                    "space": 0,
+                    "sz": 1,
+                    "val": "single"
+                  },
+                  "insideH": {
+                    "color": "#D6D6D6",
+                    "space": 0,
+                    "sz": 1,
+                    "val": "single"
+                  },
+                  "insideV": {
+                    "color": "#D6D6D6",
+                    "space": 0,
+                    "sz": 1,
+                    "val": "single"
+                  },
+                  "left": {
+                    "color": "#D6D6D6",
+                    "space": 0,
+                    "sz": 1,
+                    "val": "single"
+                  },
+                  "right": {
+                    "color": "#D6D6D6",
+                    "space": 0,
+                    "sz": 1,
+                    "val": "single"
+                  },
+                  "top": {
+                    "color": "#D6D6D6",
+                    "space": 0,
+                    "sz": 1,
+                    "val": "single"
+                  }
+                }
+              }
+            }
+          },
+          "tableHeader": {
+            "type": "table",
+            "basedOn": "tableDefault",
+            "data": {
+              "tblStylePr": [
+                {
+                  "type": "firstRow",
+                  "tcPr": {
+                    "shd": {
+                      "fill": "#F5F6F7"
+                    }
+                  }
+                },
+                {
+                  "type": "firstCol",
+                  "tcPr": {
+                    "shd": {
+                      "fill": "#F5F6F7"
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        "theme": [],
+        "settings": {
+          "titleCover": {
+            "isHide": true
+          }
+        },
+        "app": {},
+        "numberings": {},
+        "headers": {},
+        "body": [
+          "root",
+          {
+            "sectPr": {
+              "pgSz": {
+                "w": 892,
+                "h": 1127
+              },
+              "pgMar": {
+                "top": 48,
+                "bottom": 48,
+                "left": 72,
+                "right": 72,
+                "header": 56.73,
+                "footer": 66.13,
+                "gutter": 0
+              }
+            },
+            "theme": {
+              "table": {
+                "tableCell": {
+                  "vAlign": "top"
+                }
+              }
+            }
+          },
+          [
+            "h2",
+            {
+              "jc": "left",
+              "uuid": "mc9z7lej00ehq0mu4lp8k"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 16,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "一、功能简介"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mcd5qws92476uh4gb1p",
+              "ind": {
+                "firstLine": 32
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "在当前的广告投放背景下，商家朋友反馈想要知道我的同行同类目同层级的商家是怎么投放商品的？预算、出价、营销目标等怎么设置的？对于「流量智选」、「智能出价」等功能同行是否开启？优质的投放计划是什么样的？等一系列的声音，基于以上问题，我们上线了「案例魔方」功能，该功能基于阿里妈妈算法大模型，对同行业同类目同层级的商家进行相似性建模，探寻出同类目同价格带同成长周期的相似货品，针对近期的投放行为，找到其中的优秀案例，并由系统总结出其中的投放设置建议。"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mcd6n78bhwidw3wgtwa",
+              "ind": {
+                "firstLine": 32
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "初期该功能可覆盖部分行业的商家使用，支持"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mgyxjtvrn2inkwumdi",
+              "ind": {
+                "firstLine": 32
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "data-type": "leaf"
+                },
+                "「关键词推广」-「搜索卡位」"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mh06w6vuw1yb1eeler",
+              "ind": {
+                "firstLine": 32
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "data-type": "leaf"
+                },
+                "「关键词推广」-「趋势明星」"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mh06wdsr2t3ij9vfl9s",
+              "ind": {
+                "firstLine": 32
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "data-type": "leaf"
+                },
+                "「关键词推广」-「自定义推广」  "
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mi8klkh4ge9mkcmfw5o",
+              "ind": {
+                "firstLine": 32
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "data-type": "leaf"
+                },
+                "「人群推广」-「高效拉新」"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mi8kmkra0j90tlnmf5h",
+              "ind": {
+                "firstLine": 32
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "data-type": "leaf"
+                },
+                "「人群推广」-「常客转化」"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mgyy6m2vu95pvb02kt9",
+              "ind": {
+                "firstLine": 32
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "data-type": "leaf"
+                },
+                "「人群推广」-「自定义推广」场景使用"
+              ],
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "，后续会扩展到所有行业及全部的推广场景！"
+              ],
+              [
+                "span",
+                {
+                  "color": "#fe0300",
+                  "data-type": "leaf"
+                },
+                "欢迎商家朋友扫描下图二维码或钉钉搜索群号："
+              ],
+              [
+                "span",
+                {
+                  "sz": 10.5,
+                  "szUnit": "pt",
+                  "color": "#FE0300",
+                  "data-type": "leaf"
+                },
+                " 81920062109"
+              ],
+              [
+                "span",
+                {
+                  "color": "#fe0300",
+                  "data-type": "leaf"
+                },
+                "，入群了解更多竞品设置建议，获得更多成交！"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mi8kibdwsgtur9bt9w",
+              "ind": {
+                "firstLine": 32
+              },
+              "jc": "center"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "color": "#fe0300",
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ],
+            [
+              "img",
+              {
+                "uuid": "mi8kic5i7h6trucoloe",
+                "name": "截屏2025-11-21 15.57.32.png",
+                "size": 527711,
+                "width": 429,
+                "height": 415,
+                "src": "/core/api/resources/img/5eecdaf48460cde5e32b22402ec282bf26219f107f61e78c75b8339e1c4c24831b75b38faadcd24bec177c308ebd5304e5dc681f258e8f71c58727a06c3600ad98e36cd06f374e3ddc1834a8d5c7689fb3d300b67cb32f2d4fb4c8ed7016461c",
+                "extraData": {
+                  "resourceId": "c4cd087a-aa60-4871-84da-adc8169c3e9f",
+                  "metaData": {
+                    "size": 527711,
+                    "originWidth": 858,
+                    "originHeight": 830,
+                    "format": "png",
+                    "ratio": 1
+                  }
+                }
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "color": "#fe0300",
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "h2",
+            {
+              "jc": "left",
+              "uuid": "mc9z7lek2tid88b8zg7"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 16,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "二、功能介绍"
+              ]
+            ]
+          ],
+          [
+            "h3",
+            {
+              "jc": "left",
+              "uuid": "mc9z7lekg7ehlvzkd2b"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 14,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "1.案例魔方入口"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "list": {
+                "isChecked": false,
+                "isOrdered": false,
+                "isTaskList": false,
+                "level": 0,
+                "listId": "x9ymb1bwg7h",
+                "listStyle": {
+                  "align": "left",
+                  "format": "bullet",
+                  "text": "●"
+                }
+              },
+              "uuid": "mc9z7lek66687sq6gw4"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "位置：当前，案例魔方支持以下几个营销场景的投放"
+              ]
+            ]
+          ],
+          [
+            "table",
+            {
+              "colsWidth": [
+                25,
+                25,
+                25,
+                25
+              ],
+              "tblW": {
+                "w": 100,
+                "type": "pct"
+              },
+              "uuid": "mgyy8tibhlulc0vtoq6",
+              "styleId": "tableHeader",
+              "tblLook": {
+                "firstRow": 1,
+                "firstColumn": 0,
+                "lastRow": 0,
+                "lastColumn": 0
+              }
+            },
+            [
+              "tr",
+              {
+                "uuid": "mgyy8tibofcikzusgcr",
+                "isTblHeader": true
+              },
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mgyy8tiboto6pwso5h",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mgyya2v5yfb0n13h4z",
+                    "jc": "center"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "关键词推广-搜索卡位"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mgyya3f0sgcj5zkafcs",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mgyy8tia4797d92w763",
+                    "jc": "center"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "关键词推广-趋势明星"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mgyy8tibz5axn368c4",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mgyy8tibesb3989m7jj",
+                    "jc": "center"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "关键词推广-自定义推广"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mgyy8tibmdje4nblkub",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mgyy8tib5ex5v42rlar",
+                    "jc": "center"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "人群推广-自定义推广"
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {
+                "uuid": "mgyy8tib9im0e9a4z6l"
+              },
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mgyy8tibw8qzyr0m24j"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mgyy8tib3sdze73a2wi"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ],
+                  [
+                    "img",
+                    {
+                      "uuid": "ggl2hx",
+                      "name": "image.jpeg",
+                      "size": 151526,
+                      "width": 170,
+                      "height": 89.81666666666666,
+                      "src": "/core/api/resources/img/5eecdaf48460cde5e32b22402ec282bf26219f107f61e78c75b8339e1c4c24831b75b38faadcd24bec177c308ebd530498db99f330375fbd9b9e8fae4b4863ae7e902156c5e248b43bbf441137476f183543b8e73027f0514fb4c8ed7016461c",
+                      "extraData": {
+                        "resourceId": "f1934ace-3710-4df7-8a7c-9d07b7dc0c96",
+                        "metaData": {
+                          "size": 151526,
+                          "originWidth": 1200,
+                          "originHeight": 634,
+                          "format": "jpg",
+                          "ratio": 1
+                        }
+                      }
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "leaf"
+                        },
+                        ""
+                      ]
+                    ]
+                  ],
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mgyy8tibjjlcxb4ccbk"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mgyy8tib8w605avmsre"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ],
+                  [
+                    "img",
+                    {
+                      "uuid": "qy94qa",
+                      "name": "image.png",
+                      "size": 3106626,
+                      "width": 170,
+                      "height": 89.90639625585023,
+                      "src": "/core/api/resources/img/5eecdaf48460cde5e32b22402ec282bf26219f107f61e78c75b8339e1c4c24831b75b38faadcd24bec177c308ebd5304403faddd8041549f2093bcc6ce72ef73487b7120c20805abf6cedbe2616b0c13e52cf5d300be74bb4fb4c8ed7016461c",
+                      "extraData": {
+                        "resourceId": "5835a8c6-5f7c-4304-a006-c94309441c3f",
+                        "metaData": {
+                          "size": 3106626,
+                          "originWidth": 2564,
+                          "originHeight": 1356,
+                          "format": "png",
+                          "ratio": 1
+                        }
+                      }
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "leaf"
+                        },
+                        ""
+                      ]
+                    ]
+                  ],
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mgyy8tibbhez5mgfze5"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mgyy8tibm8sidhjqgar"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ],
+                  [
+                    "img",
+                    {
+                      "uuid": "nfkhzo",
+                      "name": "image.png",
+                      "size": 828602,
+                      "width": 170,
+                      "height": 92.22222222222223,
+                      "src": "/core/api/resources/img/5eecdaf48460cde5e32b22402ec282bf26219f107f61e78c75b8339e1c4c24831b75b38faadcd24bec177c308ebd5304fabd38d4887bea8380ff8b62408a7cf99f459edae3189e91158b3c2578259c4ccea38d3ea83506804fb4c8ed7016461c",
+                      "extraData": {
+                        "resourceId": "f280c70f-a215-4ace-8227-05ee302173dd",
+                        "metaData": {
+                          "size": 828602,
+                          "originWidth": 1224,
+                          "originHeight": 664,
+                          "format": "png",
+                          "ratio": 1
+                        }
+                      }
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "leaf"
+                        },
+                        ""
+                      ]
+                    ]
+                  ],
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mgyy8tib52b79piz8am"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mgyy8tibkqe33dpd4ag"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ],
+                  [
+                    "img",
+                    {
+                      "uuid": "cidzbt",
+                      "name": "image.jpeg",
+                      "size": 137125,
+                      "width": 169,
+                      "height": 90.97833333333334,
+                      "src": "/core/api/resources/img/5eecdaf48460cde5e32b22402ec282bf26219f107f61e78c75b8339e1c4c24831b75b38faadcd24bec177c308ebd5304e378a393de570bcc38973a0217ec010ca89d3c51c1c82e61685be2c384797b0506bb6ab2c671cac84fb4c8ed7016461c",
+                      "extraData": {
+                        "resourceId": "f039ff01-03c0-4706-a829-e0026e0b0dc6",
+                        "metaData": {
+                          "size": 137125,
+                          "originWidth": 1200,
+                          "originHeight": 646,
+                          "format": "jpg",
+                          "ratio": 1
+                        }
+                      }
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "leaf"
+                        },
+                        ""
+                      ]
+                    ]
+                  ],
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ]
+                ]
+              ]
+            ]
+          ],
+          [
+            "h3",
+            {
+              "jc": "left",
+              "uuid": "mc9z7lekoej59bykwg"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 14,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "2.选择货品"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mcd70ogady2lonz0woc",
+              "ind": {
+                "firstLine": 32
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "当进入新建计划页面时，您可以选择想要投放的宝贝，选中宝贝后，界面的右侧即可产出基于该宝贝系统给您推荐的优质案例。点击案例魔方的"
+              ],
+              [
+                "span",
+                {
+                  "color": "#FE0300",
+                  "data-type": "leaf"
+                },
+                "「一键抄作业」"
+              ],
+              [
+                "span",
+                {
+                  "color": "",
+                  "data-type": "leaf"
+                },
+                "即可将系统的配置建议填充至新建选项中。"
+              ]
+            ],
+            [
+              "img",
+              {
+                "uuid": "bm1lga",
+                "name": "截屏2025-06-26 17.42.44.png",
+                "size": 2909346,
+                "width": 748,
+                "height": 406,
+                "src": "/core/api/resources/img/5eecdaf48460cde5e32b22402ec282bf26219f107f61e78c75b8339e1c4c24831b75b38faadcd24bec177c308ebd53045bcb7dd7b31ea5b5d11a6c1fb10ff7a5e5fffb16bdb925f9d37ce1c04a97abb27a069acaaf36d26e4fb4c8ed7016461c",
+                "extraData": {
+                  "resourceId": "760668ca-eb91-4d55-a3de-b82f19e99f5e",
+                  "metaData": {
+                    "size": 2909346,
+                    "originWidth": 2540,
+                    "originHeight": 1380,
+                    "format": "png",
+                    "ratio": 1
+                  }
+                },
+                "rotation": 0
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mcd73b5dceqxavrkg5m"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ],
+            [
+              "img",
+              {
+                "uuid": "zmkmdv",
+                "name": "截屏2025-06-26 17.44.52.png",
+                "size": 3160019,
+                "width": 748,
+                "height": 405.90521327014216,
+                "src": "/core/api/resources/img/5eecdaf48460cde5e32b22402ec282bf26219f107f61e78c75b8339e1c4c24831b75b38faadcd24bec177c308ebd5304766f8816f124a38c5bbb60668c6182f469d3ef9120e589c83ea0934fd85fbd16d98330cb7c39d86d4fb4c8ed7016461c",
+                "extraData": {
+                  "resourceId": "5199d7ba-2db8-40c1-b9b0-7f3da860d609",
+                  "metaData": {
+                    "size": 3160019,
+                    "originWidth": 2532,
+                    "originHeight": 1374,
+                    "format": "png",
+                    "ratio": 1
+                  }
+                }
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "h3",
+            {
+              "uuid": "mcd761v9qqmydbypge",
+              "spacing": {
+                "before": 18.666666666666664,
+                "after": 8,
+                "line": 0.8529411764705882
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 14,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "3.案例魔方产出建议详情"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mcd7cvsx4qst6zv52y8",
+              "ind": {
+                "firstLine": 32
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "案例魔方板块重点包含「相似优秀案例商品」、「案例重点分析」、「魔方配置」3个板块，各板块内容详情如下："
+              ]
+            ]
+          ],
+          [
+            "h4",
+            {
+              "uuid": "mcd77o93ndvvzwugil",
+              "ind": {},
+              "spacing": {
+                "before": 16,
+                "after": 8,
+                "line": 0.8529411764705882
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "3.1相似优秀案例商品"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mcd7cry5zvkr9ag39j9",
+              "ind": {
+                "firstLine": 32
+              },
+              "jc": "left"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "当您完成「添加宝贝」后，阿里妈妈大模型会基于该宝贝的类目、价格带、生命周期等宝贝情况找出相似的投放表现好的3个同行业同层级同类目商家的宝贝。"
+              ]
+            ],
+            [
+              "img",
+              {
+                "uuid": "8zlgfv",
+                "name": "截屏2025-06-26 17.52.47.png",
+                "size": 3134031,
+                "width": 748,
+                "height": 402.4533333333333,
+                "src": "/core/api/resources/img/5eecdaf48460cde5e32b22402ec282bf26219f107f61e78c75b8339e1c4c24831b75b38faadcd24bec177c308ebd53045f855d5eb83c1f220ba3ae6a336d0086025899763fdf3925b634a78e9161ad9115a4a154d5dc9a334fb4c8ed7016461c",
+                "extraData": {
+                  "resourceId": "7eaf4f85-302b-4e0d-89de-948b0ceacd23",
+                  "metaData": {
+                    "size": 3134031,
+                    "originWidth": 2550,
+                    "originHeight": 1372,
+                    "format": "png",
+                    "ratio": 1
+                  }
+                }
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "h4",
+            {
+              "uuid": "mcd78qxum22rtn63yng",
+              "ind": {},
+              "spacing": {
+                "before": 16,
+                "after": 8,
+                "line": 0.8529411764705882
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "3.2 案例重点分析"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mcd7ifio658d6itaktq",
+              "ind": {
+                "firstLine": 32
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "系统会基于上述「相似优秀案例商品」中的投放设置总结出其中的投放亮点并结合实际的投放数据给出投放建议。"
+              ]
+            ],
+            [
+              "img",
+              {
+                "uuid": "bgileq",
+                "name": "截屏2025-06-26 17.55.04.png",
+                "size": 3182929,
+                "width": 748,
+                "height": 406.8275862068965,
+                "src": "/core/api/resources/img/5eecdaf48460cde5e32b22402ec282bf26219f107f61e78c75b8339e1c4c24831b75b38faadcd24bec177c308ebd530462d440f9642ee6bb93f6522359ac526fc5f4df62ea6709d4ec64f5c6b135f7e6044806fcccc9efb34fb4c8ed7016461c",
+                "extraData": {
+                  "resourceId": "f43ef42c-e669-412e-a4be-7f64d42b1cf5",
+                  "metaData": {
+                    "size": 3182929,
+                    "originWidth": 2552,
+                    "originHeight": 1388,
+                    "format": "png",
+                    "ratio": 1
+                  }
+                }
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "h4",
+            {
+              "uuid": "mcd78rvk2vgvvh64fln",
+              "ind": {},
+              "spacing": {
+                "before": 16,
+                "after": 8,
+                "line": 0.8529411764705882
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "3.3 魔方配置"
+              ]
+            ]
+          ],
+          [
+            "h4",
+            {
+              "uuid": "mce77lltg3qz16yoh96",
+              "ind": {
+                "firstLine": 32
+              },
+              "spacing": {
+                "before": 16,
+                "after": 8,
+                "line": 0.8529411764705882
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": false,
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "基于上述「相似优秀案例商品」的计划设置情况，系统会抽取其中的计划设置项，包括预算、出价方式、营销目标、人群选择、关键词选择等并入您的计划设置项，并且支持您手动去修改。"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mce7m02zqkm8y2840kl"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ],
+            [
+              "img",
+              {
+                "uuid": "ipozhk",
+                "name": "截屏2025-06-27 10.33.46.png",
+                "size": 3173928,
+                "width": 748,
+                "height": 408.6949685534591,
+                "src": "/core/api/resources/img/5eecdaf48460cde5e32b22402ec282bf26219f107f61e78c75b8339e1c4c24831b75b38faadcd24bec177c308ebd5304703c4a93a5efac3f51cd576431d3c0760015baef40671290d8168a41240ff38969d840e5fc9b11554fb4c8ed7016461c",
+                "extraData": {
+                  "resourceId": "216f7721-d8b3-4ae3-9ddb-9df699f80db8",
+                  "metaData": {
+                    "size": 3173928,
+                    "originWidth": 2544,
+                    "originHeight": 1390,
+                    "format": "png",
+                    "ratio": 1
+                  }
+                }
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "h3",
+            {
+              "jc": "left",
+              "uuid": "mc9z7lf8lc0wevmy14s"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 14,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "四、常见问题"
+              ]
+            ]
+          ],
+          [
+            "h4",
+            {
+              "jc": "left",
+              "uuid": "mc9z7lf81qlzmjyl1ku"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "Q：为什么当前店铺还未看到案例魔方入口？"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mc9z7lf8p69bjb2zmlm"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "A：该产品功能目前正处于内测逐步开放中，初期覆盖部分行业的商家使用，支持「关键词推广」-「搜索卡位」、「趋势明星」、「自定义推广」以及「人群推广」-「高效拉新」、「常客转化」、「自定义推广」场景，敬请关注后续官方动态！感谢您对我们产品的持续关注与支持！"
+              ]
+            ]
+          ]
+        ],
+        "footers": {},
+        "version": 1
+      },
+      "refs": {}
+    }
+  }
+}

@@ -1,0 +1,976 @@
+{
+  "version": 1,
+  "type": "application/x-alidocs-package",
+  "main": "00000000-0000-0000-0000-000000000001",
+  "plugins": "00000000-0000-0000-0000-000000000002",
+  "parts": {
+    "00000000-0000-0000-0000-000000000001": {
+      "id": "00000000-0000-0000-0000-000000000001",
+      "type": "application/x-alidocs-word",
+      "version": 1,
+      "data": {
+        "style": {},
+        "theme": [],
+        "settings": {},
+        "app": {},
+        "numberings": {},
+        "headers": {},
+        "body": [
+          "root",
+          {},
+          [
+            "p",
+            {
+              "uuid": "m7o5mttz02awqiugd5e5"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "italic": true,
+                  "color": "#D0D0D0",
+                  "data-type": "leaf"
+                },
+                "原语雀文档链接："
+              ]
+            ],
+            [
+              "a",
+              {
+                "href": "https://yuque.antfin.com/chenchun.chen/gqhty9/zu8qzvdzzge30n9i"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  "https://yuque.antfin.com/chenchun.chen/gqhty9/zu8qzvdzzge30n9i"
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "hr",
+            {
+              "color": "#D8D8D8",
+              "sz": 2,
+              "type": "single",
+              "width": "100%"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "table",
+            {
+              "colsWidth": [
+                202,
+                180,
+                106,
+                600
+              ]
+            },
+            [
+              "tr",
+              {},
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "fill": "#D8DAD9",
+                  "hidden": false,
+                  "rowSpan": 1,
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "jc": "center"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "highlight": "#D8DAD9",
+                        "data-type": "leaf"
+                      },
+                      "出价方式"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "fill": "#D8DAD9",
+                  "hidden": false,
+                  "rowSpan": 1,
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "jc": "center"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "highlight": "#D8DAD9",
+                        "data-type": "leaf"
+                      },
+                      "适用目标"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "fill": "#D8DAD9",
+                  "hidden": false,
+                  "rowSpan": 1,
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "jc": "center"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "highlight": "#D8DAD9",
+                        "data-type": "leaf"
+                      },
+                      "扣费逻辑"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "fill": "#D8DAD9",
+                  "hidden": false,
+                  "rowSpan": 1,
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "jc": "center"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "highlight": "#D8DAD9",
+                        "data-type": "leaf"
+                      },
+                      "介绍"
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {},
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "fill": "#D8DAD9",
+                  "hidden": false,
+                  "rowSpan": 1,
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "jc": "center"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "highlight": "#D8DAD9",
+                        "data-type": "leaf"
+                      },
+                      "最大化拿量"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "hidden": false,
+                  "rowSpan": 1,
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "jc": "center"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "促进点击、促进加购、促进成交"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "hidden": false,
+                  "rowSpan": 1,
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "jc": "center"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "点击扣费"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "hidden": false,
+                  "rowSpan": 1,
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "jc": "center"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "在预算范围内，系统根据优化目标智能出价，最大化实现目标规模"
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {},
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "fill": "#D8DAD9",
+                  "hidden": false,
+                  "rowSpan": 1,
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "jc": "center"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "highlight": "#D8DAD9",
+                        "data-type": "leaf"
+                      },
+                      "控投产比投放"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "hidden": false,
+                  "rowSpan": 1,
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "jc": "center"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "促进成交"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "hidden": false,
+                  "rowSpan": 1,
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "jc": "center"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "点击扣费"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "hidden": false,
+                  "rowSpan": 1,
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "jc": "center"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "支持设置ROI目标，算法会尽可能优化计划ROI在您的目标预期内"
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {},
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "fill": "#D8DAD9",
+                  "hidden": false,
+                  "rowSpan": 1,
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "jc": "center"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "highlight": "#D8DAD9",
+                        "data-type": "leaf"
+                      },
+                      "控成本投放（点击）"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "hidden": false,
+                  "rowSpan": 1,
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "jc": "center"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "促进点击、促进加购、促进成交"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "hidden": false,
+                  "rowSpan": 1,
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "jc": "center"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "点击扣费"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "hidden": false,
+                  "rowSpan": 1,
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "jc": "center"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "根据优化目标智能出价，控制平均（点击）成本尽量小于设置的成本预期价格"
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {},
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "fill": "#D8DAD9",
+                  "hidden": false,
+                  "rowSpan": 1,
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "jc": "center"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "highlight": "#D8DAD9",
+                        "data-type": "leaf"
+                      },
+                      "控成本投放（成交）"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "hidden": false,
+                  "rowSpan": 1,
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "jc": "center"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "促进成交"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "hidden": false,
+                  "rowSpan": 1,
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "jc": "center"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "点击扣费"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "hidden": false,
+                  "rowSpan": 1,
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "jc": "center"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "根据优化目标智能出价，控制平均（成交）成本尽量小于设置的成本预期价格"
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {},
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "fill": "#D8DAD9",
+                  "hidden": false,
+                  "rowSpan": 1,
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "jc": "center"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "highlight": "#D8DAD9",
+                        "data-type": "leaf"
+                      },
+                      "控成本投放（收藏加购）"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "hidden": false,
+                  "rowSpan": 1,
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "jc": "center"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "促进加购"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "hidden": false,
+                  "rowSpan": 1,
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "jc": "center"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "点击扣费"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "hidden": false,
+                  "rowSpan": 1,
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "jc": "center"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "根据优化目标智能出价，控制平均（收藏加购）成本尽量小于设置的成本预期价格"
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {},
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "fill": "#D8DAD9",
+                  "hidden": false,
+                  "rowSpan": 1,
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "jc": "center"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "highlight": "#D8DAD9",
+                        "data-type": "leaf"
+                      },
+                      "手动出价"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "hidden": false,
+                  "rowSpan": 1,
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "jc": "center"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "促进点击、促进加购、促进成交"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "hidden": false,
+                  "rowSpan": 1,
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "jc": "center"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "点击扣费"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "hidden": false,
+                  "rowSpan": 1,
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "jc": "center"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "全能调价将成本稳定在「目标出价」附近"
+                    ]
+                  ]
+                ]
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mbt0fsn3mgmyfiu2q3"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ]
+        ],
+        "footers": {},
+        "version": 1
+      },
+      "refs": {}
+    }
+  }
+}

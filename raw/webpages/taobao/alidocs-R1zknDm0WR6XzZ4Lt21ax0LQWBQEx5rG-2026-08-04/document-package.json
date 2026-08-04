@@ -1,0 +1,3679 @@
+{
+  "version": 1,
+  "type": "application/x-alidocs-package",
+  "main": "00000000-0000-0000-0000-000000000001",
+  "plugins": "00000000-0000-0000-0000-000000000002",
+  "parts": {
+    "00000000-0000-0000-0000-000000000001": {
+      "id": "00000000-0000-0000-0000-000000000001",
+      "type": "application/x-alidocs-word",
+      "version": 1,
+      "data": {
+        "style": {
+          "docDefaults": {
+            "type": "paragraph",
+            "default": 1,
+            "name": "dingdocnormal",
+            "data": {
+              "rPr": {
+                "sz": 12,
+                "szUnit": "pt"
+              },
+              "pPr": {
+                "spacing": {
+                  "before": 12,
+                  "after": 12
+                }
+              }
+            }
+          },
+          "tableDefault": {
+            "type": "table",
+            "data": {
+              "tblPr": {
+                "bdr": {
+                  "bottom": {
+                    "color": "#D6D6D6",
+                    "space": 0,
+                    "sz": 1,
+                    "val": "single"
+                  },
+                  "insideH": {
+                    "color": "#D6D6D6",
+                    "space": 0,
+                    "sz": 1,
+                    "val": "single"
+                  },
+                  "insideV": {
+                    "color": "#D6D6D6",
+                    "space": 0,
+                    "sz": 1,
+                    "val": "single"
+                  },
+                  "left": {
+                    "color": "#D6D6D6",
+                    "space": 0,
+                    "sz": 1,
+                    "val": "single"
+                  },
+                  "right": {
+                    "color": "#D6D6D6",
+                    "space": 0,
+                    "sz": 1,
+                    "val": "single"
+                  },
+                  "top": {
+                    "color": "#D6D6D6",
+                    "space": 0,
+                    "sz": 1,
+                    "val": "single"
+                  }
+                }
+              }
+            }
+          },
+          "tableHeader": {
+            "type": "table",
+            "basedOn": "tableDefault",
+            "data": {
+              "tblStylePr": [
+                {
+                  "type": "firstRow",
+                  "tcPr": {
+                    "shd": {
+                      "fill": "#F5F6F7"
+                    }
+                  }
+                },
+                {
+                  "type": "firstCol",
+                  "tcPr": {
+                    "shd": {
+                      "fill": "#F5F6F7"
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        "theme": [],
+        "settings": {
+          "titleCover": {
+            "isHide": true
+          }
+        },
+        "app": {},
+        "numberings": {},
+        "headers": {},
+        "body": [
+          "root",
+          {
+            "sectPr": {
+              "pgSz": {
+                "w": 892,
+                "h": 1127
+              },
+              "pgMar": {
+                "top": 48,
+                "bottom": 48,
+                "left": 72,
+                "right": 72,
+                "header": 56.73,
+                "footer": 66.13,
+                "gutter": 0
+              }
+            },
+            "theme": {
+              "table": {
+                "tableCell": {
+                  "vAlign": "top"
+                }
+              }
+            }
+          },
+          [
+            "h1",
+            {
+              "ind": {
+                "left": 0
+              },
+              "spacing": {
+                "after": 10,
+                "before": 26,
+                "line": 1
+              },
+              "uuid": "m96seqzs0tlt3rzdymho"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 21,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "一、活动时间"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "ind": {
+                "left": 0
+              },
+              "uuid": "m96seqzsik0l6d8hsf"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 10.5,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "报名截止时间"
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 10.5,
+                  "szUnit": "pt",
+                  "color": "linear-gradient(90deg, #EB47FF 0%, #F95101 100%)",
+                  "data-type": "leaf"
+                },
+                "：名额有限，先到先得，报名通道将在满额后自动关闭，建议您尽快完成报名哦^_^"
+              ]
+            ],
+            [
+              "br",
+              {
+                "type": "textWrapping",
+                "data": {},
+                "uuid": "m96seqzs2hrhqkn7jf"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 10.5,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "数据统计时间："
+              ],
+              [
+                "span",
+                {
+                  "sz": 10.5,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "2026年3月1日 00:00:00 至 2026年3月31日 23:59:59"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "ind": {
+                "left": 0
+              },
+              "uuid": "mm4hat420996304earca"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 10.5,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "h1",
+            {
+              "ind": {
+                "left": 0
+              },
+              "uuid": "mm4hatr5fepoq7mikej",
+              "spacing": {
+                "before": 32,
+                "after": 12,
+                "line": 0.9333333333333332
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 21,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "二、商家参与资格"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "ind": {
+                "left": 0
+              },
+              "uuid": "mm4hb1krf4xlw7hgbim"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 10.5,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "1、商家应为万相台·AI无界版/线索推广开通的教育培训商户（主营类目为教育培训）。"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "ind": {
+                "left": 0
+              },
+              "uuid": "mm4hfit3xpapwjwawal"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 10.5,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "2、活动商家入围条件包括过往活动报名率、达标率、过往营销投入情况、违规处罚等店铺经营情况等，是否获得活动资格，请通过“妈妈CLUB—赏金任务”路径查看。"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "ind": {
+                "left": 0
+              },
+              "uuid": "mm4hg1zioovqfonainf"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 10.5,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "h1",
+            {
+              "ind": {
+                "left": 0
+              },
+              "uuid": "mm4hb2alpsmph5pltpq",
+              "spacing": {
+                "before": 32,
+                "after": 12,
+                "line": 0.9333333333333332
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 21,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "三、活动激励规则"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "jc": "justify",
+              "spacing": {},
+              "uuid": "mm4i9jumqfk729huvp9"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 2.0\"",
+                    "cs": "\"Alibaba PuHuiTi 2.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 2.0\""
+                  },
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "rgb(0, 0, 0)",
+                  "data-type": "leaf"
+                },
+                "1、考核时间："
+              ],
+              [
+                "span",
+                {
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 2.0\"",
+                    "cs": "\"Alibaba PuHuiTi 2.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 2.0\""
+                  },
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "rgb(0, 0, 0)",
+                  "data-type": "leaf"
+                },
+                "2026年"
+              ],
+              [
+                "span",
+                {
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                    "cs": "\"Alibaba PuHuiTi 2.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 2.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 2.0\""
+                  },
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "",
+                  "data-type": "leaf"
+                },
+                "3月1日00:00:00-2026年3月31日23:59:59"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "jc": "justify",
+              "spacing": {},
+              "uuid": "m9ggtif233z3ljfr2qe"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "",
+                  "data-type": "leaf"
+                },
+                "2、报名时间："
+              ],
+              [
+                "span",
+                {
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 2.0\"",
+                    "cs": "\"Alibaba PuHuiTi 2.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 2.0\""
+                  },
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "rgb(0, 0, 0)",
+                  "data-type": "leaf"
+                },
+                "2026年"
+              ],
+              [
+                "span",
+                {
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                    "cs": "\"Alibaba PuHuiTi 2.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 2.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 2.0\""
+                  },
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "",
+                  "data-type": "leaf"
+                },
+                "3月5日00:00:00-2026年3月27日23:59:59"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "jc": "justify",
+              "spacing": {},
+              "uuid": "mmd45gz8o174tu8nmec"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "",
+                  "data-type": "leaf"
+                },
+                "3、活动对象："
+              ],
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "",
+                  "data-type": "leaf"
+                },
+                "参考【商家资格】展示规则，"
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "",
+                  "data-type": "leaf"
+                },
+                "以万相台AI无界·"
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "color": "#000000",
+                  "data-type": "leaf"
+                },
+                "赏金任务报名入口为准"
+              ],
+              [
+                "span",
+                {
+                  "color": "#000000",
+                  "data-type": "leaf"
+                },
+                "，如无报名入口则默认无参与资格。"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "jc": "justify",
+              "spacing": {},
+              "uuid": "mkw7y9rpfzixyov8h0v"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "data-type": "leaf"
+                },
+                "3、"
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                    "cs": "\"Alibaba PuHuiTi 2.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 2.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 2.0\""
+                  },
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "",
+                  "data-type": "leaf"
+                },
+                "广告范围：万相台AI无界"
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "data-type": "leaf"
+                },
+                "「线索推广」"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "jc": "justify",
+              "spacing": {},
+              "uuid": "mkw82ag2m8m6fwy032"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "data-type": "leaf"
+                },
+                "4、"
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                    "cs": "\"Alibaba PuHuiTi 2.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 2.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 2.0\""
+                  },
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "",
+                  "data-type": "leaf"
+                },
+                "考核激励："
+              ],
+              [
+                "span",
+                {
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                    "cs": "\"Alibaba PuHuiTi 2.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 2.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 2.0\""
+                  },
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "",
+                  "data-type": "leaf"
+                },
+                "商家在考核时间内，"
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                    "cs": "\"Alibaba PuHuiTi 2.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 2.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 2.0\""
+                  },
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "",
+                  "data-type": "leaf"
+                },
+                "线索广告实际消耗值"
+              ],
+              [
+                "span",
+                {
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                    "cs": "\"Alibaba PuHuiTi 2.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 2.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 2.0\""
+                  },
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "",
+                  "data-type": "leaf"
+                },
+                "达到考核要求，则"
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                    "cs": "\"Alibaba PuHuiTi 2.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 2.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 2.0\""
+                  },
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "",
+                  "data-type": "leaf"
+                },
+                "依据消耗档位返还5%~10%"
+              ],
+              [
+                "span",
+                {
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                    "cs": "\"Alibaba PuHuiTi 2.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 2.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 2.0\""
+                  },
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "",
+                  "data-type": "leaf"
+                },
+                "考核期实际线索消耗比例的"
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                    "cs": "\"Alibaba PuHuiTi 2.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 2.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 2.0\""
+                  },
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "",
+                  "data-type": "leaf"
+                },
+                "阿里妈妈线索广告优惠券「线索推广专属优惠券」"
+              ],
+              [
+                "span",
+                {
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                    "cs": "\"Alibaba PuHuiTi 2.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 2.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 2.0\""
+                  },
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "",
+                  "data-type": "leaf"
+                },
+                "，本期返点激励至高可达1万。本期消耗返激励规则可见下表（根据规则享最高返点比例，不叠加返点比例）"
+              ]
+            ]
+          ],
+          [
+            "table",
+            {
+              "colsWidth": [
+                55,
+                158,
+                224,
+                52,
+                226
+              ],
+              "styleId": "tableHeader",
+              "tblLook": {
+                "firstColumn": 0,
+                "firstRow": 1,
+                "lastColumn": 0,
+                "lastRow": 0
+              },
+              "uuid": "mm4howvmntuk37jqhi"
+            },
+            [
+              "tr",
+              {
+                "isTblHeader": false,
+                "uuid": "mm4howvm5i8plb5sw2"
+              },
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 2,
+                  "uuid": "mm4howvm50vpkaus5xd",
+                  "fill": "#e41d1d",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mm4howvmb81h0nv0shd",
+                    "jc": "center"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "fonts": {
+                          "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                          "hAnsi": "\"Alibaba PuHuiTi 2.0\"",
+                          "cs": "\"Alibaba PuHuiTi 2.0\"",
+                          "eastAsia": "\"Alibaba PuHuiTi 2.0\""
+                        },
+                        "sz": 12,
+                        "szUnit": "pt",
+                        "color": "#FFFFFF",
+                        "data-type": "leaf"
+                      },
+                      "商户分类"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "fill": "#e41d1d",
+                  "colSpan": 2,
+                  "rowSpan": 1,
+                  "uuid": "mm4oq7lq6qy418gbztd",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mm4oq7lqw9mzymi0ha"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "uuid": "mm4howvmsss5p625br",
+                    "jc": "center"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "fonts": {
+                          "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                          "hAnsi": "\"Alibaba PuHuiTi 2.0\"",
+                          "cs": "\"Alibaba PuHuiTi 2.0\"",
+                          "eastAsia": "\"Alibaba PuHuiTi 2.0\""
+                        },
+                        "sz": 12,
+                        "szUnit": "pt",
+                        "color": "#FFFFFF",
+                        "data-type": "leaf"
+                      },
+                      "消耗要求"
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "uuid": "mm4i53tmhn5llml1ns",
+                    "jc": "center"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "fonts": {
+                          "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                          "hAnsi": "\"Alibaba PuHuiTi 2.0\"",
+                          "cs": "\"Alibaba PuHuiTi 2.0\"",
+                          "eastAsia": "\"Alibaba PuHuiTi 2.0\""
+                        },
+                        "sz": 12,
+                        "szUnit": "pt",
+                        "color": "#FFFFFF",
+                        "data-type": "leaf"
+                      },
+                      "（元）"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "fill": "#e41d1d",
+                  "rowSpan": 1,
+                  "uuid": "mm4howvmavmgiuq9vmm",
+                  "hidden": true,
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mm4oqb2uh2te7h3yz5o"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 2,
+                  "uuid": "mm4howvmogr9z0syqf",
+                  "fill": "#e41d1d",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mm4howvmp2yquqf28dp",
+                    "jc": "center"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "fonts": {
+                          "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                          "hAnsi": "\"Alibaba PuHuiTi 2.0\"",
+                          "cs": "\"Alibaba PuHuiTi 2.0\"",
+                          "eastAsia": "\"Alibaba PuHuiTi 2.0\""
+                        },
+                        "sz": 12,
+                        "szUnit": "pt",
+                        "color": "#FFFFFF",
+                        "data-type": "leaf"
+                      },
+                      "返点比例"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 2,
+                  "uuid": "mm4hqerxvqja9vznonf",
+                  "fill": "#e41d1d",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mm4hqpf9mvs00p6e4o",
+                    "jc": "center"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "fonts": {
+                          "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                          "hAnsi": "\"Alibaba PuHuiTi 2.0\"",
+                          "cs": "\"Alibaba PuHuiTi 2.0\"",
+                          "eastAsia": "\"Alibaba PuHuiTi 2.0\""
+                        },
+                        "color": "#FFFFFF",
+                        "data-type": "leaf"
+                      },
+                      "整体返点计划采用联合封顶"
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "uuid": "mm4hqpfav2evqcl3oco",
+                    "jc": "center"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "fonts": {
+                          "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                          "hAnsi": "\"Alibaba PuHuiTi 2.0\"",
+                          "cs": "\"Alibaba PuHuiTi 2.0\"",
+                          "eastAsia": "\"Alibaba PuHuiTi 2.0\""
+                        },
+                        "color": "#FFFFFF",
+                        "data-type": "leaf"
+                      },
+                      "单账户最多可获得激励优惠券面额（元）"
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {
+                "isTblHeader": true,
+                "uuid": "mm4opcpllvdo1sueg2h"
+              },
+              [
+                "tc",
+                {
+                  "fill": "#e41d1d",
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mm4opcplg1g18atwvi",
+                  "hidden": true,
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mm4opcplej2n1f96184"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "fill": "#e41d1d",
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mm4oq7lsp94xdatw2u",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mm4oq7lsl352wddcnqb"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "color": "#FFFFFF",
+                        "data-type": "leaf"
+                      },
+                      "无界其他场景"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "fill": "#e41d1d",
+                  "rowSpan": 1,
+                  "uuid": "mm4opcplorzcfx5ycrh",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mm4opcpl6clm4m2ko3p"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "color": "#FFFFFF",
+                        "data-type": "leaf"
+                      },
+                      "线索推广场景"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "fill": "#e41d1d",
+                  "hidden": true,
+                  "rowSpan": 1,
+                  "uuid": "mm4opcplfe0b6k5swmv",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mm4opcpl0by3kb5wr6y7"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "fill": "#e41d1d",
+                  "hidden": true,
+                  "rowSpan": 1,
+                  "uuid": "mm4opcplbco68vbwxbu",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mm4opcpla598qalkdc"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {
+                "uuid": "mm4howvmuzme4hxquc"
+              },
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 2,
+                  "uuid": "mm4howvmq1jo9glz2o",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mm4howvmzxqad2wh92r"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "fonts": {
+                          "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                          "cs": "\"Alibaba PuHuiTi 2.0\"",
+                          "eastAsia": "\"Alibaba PuHuiTi 2.0\"",
+                          "hAnsi": "\"Alibaba PuHuiTi 2.0\""
+                        },
+                        "sz": 12,
+                        "szUnit": "pt",
+                        "color": "",
+                        "data-type": "leaf"
+                      },
+                      "新商"
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "uuid": "mm4i6gv2kr302lzq5wm"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "fonts": {
+                          "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                          "cs": "\"Alibaba PuHuiTi 2.0\"",
+                          "eastAsia": "\"Alibaba PuHuiTi 2.0\"",
+                          "hAnsi": "\"Alibaba PuHuiTi 2.0\""
+                        },
+                        "sz": 12,
+                        "szUnit": "pt",
+                        "color": "",
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 3,
+                  "uuid": "mm4oq7ltdtywv05zi09",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mm4oq7lts7zku73nbx"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "2026年3月消耗≥2025年3月消耗(2025.03.01~2025.03.31)"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mm4howvmpppfeh0qphm",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "jc": "right",
+                    "uuid": "mm4howvmjqyuz2xwek8"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "fonts": {
+                          "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                          "cs": "\"Alibaba PuHuiTi 2.0\"",
+                          "eastAsia": "\"Alibaba PuHuiTi 2.0\"",
+                          "hAnsi": "\"Alibaba PuHuiTi 2.0\""
+                        },
+                        "sz": 12,
+                        "szUnit": "pt",
+                        "color": "",
+                        "data-type": "leaf"
+                      },
+                      "10000"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mm4howvmepwti554rxi",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "jc": "right",
+                    "uuid": "mm4howvmjd4upp4bxz"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "fonts": {
+                          "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                          "cs": "\"Alibaba PuHuiTi 2.0\"",
+                          "eastAsia": "\"Alibaba PuHuiTi 2.0\"",
+                          "hAnsi": "\"Alibaba PuHuiTi 2.0\""
+                        },
+                        "sz": 12,
+                        "szUnit": "pt",
+                        "color": "",
+                        "data-type": "leaf"
+                      },
+                      "5%"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mm4hqerykcnhbkzx81",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "jc": "right",
+                    "uuid": "mm4hqerymcs0gptpa4p"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "1500"
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {
+                "h": 41,
+                "uuid": "mm4i2ssi2s2dt39bouo"
+              },
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "hidden": true,
+                  "rowSpan": 1,
+                  "uuid": "mm4i2ssi0co3pysm43ol",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mm4i2ssi11xfkcovdzi"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "hidden": true,
+                  "rowSpan": 1,
+                  "uuid": "mm4oq7lt4ugovbk6npo",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mm4oq7lt9e3cfi19mm"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mm4i2ssiwyp26tnls",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "jc": "right",
+                    "uuid": "mm4i2ssi8n5jrw72gt9"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "30000"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mm4i2ssi850z14haij3",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "jc": "right",
+                    "uuid": "mm4i2ssim32cky2hyti"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "10%"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mm4i2ssiun31djlyyb8",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "jc": "right",
+                    "uuid": "mm4i2ssiyzro5ldtdm"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "10000"
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {
+                "uuid": "mm4howvmvow3qaznji"
+              },
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mm4howvmnse6tor26fb",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mm4howvmg62q160g9fp"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "fonts": {
+                          "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                          "cs": "\"Alibaba PuHuiTi 2.0\"",
+                          "eastAsia": "\"Alibaba PuHuiTi 2.0\"",
+                          "hAnsi": "\"Alibaba PuHuiTi 2.0\""
+                        },
+                        "sz": 12,
+                        "szUnit": "pt",
+                        "color": "",
+                        "data-type": "leaf"
+                      },
+                      "老客"
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "uuid": "mm4i6imll0f7v2iz3m"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "fonts": {
+                          "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                          "cs": "\"Alibaba PuHuiTi 2.0\"",
+                          "eastAsia": "\"Alibaba PuHuiTi 2.0\"",
+                          "hAnsi": "\"Alibaba PuHuiTi 2.0\""
+                        },
+                        "sz": 12,
+                        "szUnit": "pt",
+                        "color": "",
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "hidden": true,
+                  "rowSpan": 1,
+                  "uuid": "mm4oq7ltsm4506mfk",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mm4oq7lteija9ebssa"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mm4howvmifgqdl9t0u7",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "jc": "left",
+                    "uuid": "mm4howvmccv83k7tpag"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "fonts": {
+                          "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                          "cs": "\"Alibaba PuHuiTi 2.0\"",
+                          "eastAsia": "\"Alibaba PuHuiTi 2.0\"",
+                          "hAnsi": "\"Alibaba PuHuiTi 2.0\""
+                        },
+                        "sz": 12,
+                        "szUnit": "pt",
+                        "color": "",
+                        "data-type": "leaf"
+                      },
+                      "因各商户过往营销投入情况不同，商家消耗门槛不一致，以AI无界·赏金任务页面门槛金额为准。"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mm4howvmhel7fu8g50p",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mm4howvmbjrix2u9wi",
+                    "jc": "right"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "fonts": {
+                          "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                          "cs": "\"Alibaba PuHuiTi 2.0\"",
+                          "eastAsia": "\"Alibaba PuHuiTi 2.0\"",
+                          "hAnsi": "\"Alibaba PuHuiTi 2.0\""
+                        },
+                        "sz": 12,
+                        "szUnit": "pt",
+                        "color": "",
+                        "data-type": "leaf"
+                      },
+                      "5%"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mm4hqerzcp4mdwijrku",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mm4hqerz3l233974c19",
+                    "jc": "right"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "10000"
+                    ]
+                  ]
+                ]
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mmd470ogrikjk1glskq"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "注：消耗达标需同时满足以下两个要求："
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mmeik0wfl3bd3nmlm19"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "1、2026年3月线索推广场景下广告实际消耗值达到考核要求"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mmeik5gnn7f8l0h7rp"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "2、2026年3月(2026.03.01~2026.03.31)商家除线索推广消耗以外的无界消耗需高于2025年3月(2025.03.012025.03.31)无界消耗。"
+              ]
+            ]
+          ],
+          [
+            "h1",
+            {
+              "spacing": {
+                "before": 32,
+                "after": 12,
+                "line": 0.9333333333333332
+              },
+              "uuid": "mkw87r189aw7k9yvgxb"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 21,
+                  "szUnit": "pt",
+                  "color": "#000000",
+                  "data-type": "leaf"
+                },
+                "四、活动入口"
+              ]
+            ]
+          ],
+          [
+            "table",
+            {
+              "colsWidth": [
+                586,
+                161
+              ],
+              "tblW": {
+                "w": 100,
+                "type": "pct"
+              },
+              "uuid": "ml4jwqmfwqrb689ab",
+              "styleId": "tableHeader",
+              "tblLook": {
+                "firstRow": 1,
+                "firstColumn": 0,
+                "lastRow": 0,
+                "lastColumn": 0
+              }
+            },
+            [
+              "tr",
+              {
+                "uuid": "mmemifcosamk38rwco",
+                "isTblHeader": true
+              },
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mmemifco9zil2rzv5w",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mmemifco2o37dml9syd",
+                    "jc": "center"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "具体路径"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mmemifco2ykf7g5atic",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mmemifcouefyev9i7",
+                    "jc": "center"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "一键直达"
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {
+                "uuid": "mmemifcojitgzb1jdv"
+              },
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mmemifcousm5xmmkpm",
+                  "vAlign": "middle"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mmemifcoy2baoxsoefg",
+                    "jc": "center"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 10.5,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      "万相台·无界版 首页-"
+                    ],
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "账户-妈妈CLUB-赏金任务"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "bdr": {
+                    "top": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#d9d9d9"
+                    },
+                    "right": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#d9d9d9"
+                    },
+                    "bottom": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#d9d9d9"
+                    },
+                    "left": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#d9d9d9"
+                    }
+                  },
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mmemifcoori24do46lf",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mmemifcoilfsnh4omm",
+                    "jc": "center"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": false,
+                        "sz": 12,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ],
+                  [
+                    "a",
+                    {
+                      "href": "https://one.alimama.com/index.html#!/club/activity?menuView=activity&isTmallShop=1&isOriginYbz=0&activityId=1567532&isAutoSign=0",
+                      "uuid": "mmeieokob8xnjdbuj3n"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "sz": 12,
+                          "szUnit": "pt",
+                          "data-type": "leaf"
+                        },
+                        "赏金任务入口"
+                      ]
+                    ]
+                  ],
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": false,
+                        "sz": 12,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ]
+                ]
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "spacing": {
+                "line": 2,
+                "lineRule": "exact"
+              },
+              "uuid": "mmemifcqr2xt3mila4q"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                    "cs": "\"Alibaba PuHuiTi 2.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 2.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 2.0\""
+                  },
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "",
+                  "data-type": "leaf"
+                },
+                "商家操作路径："
+              ],
+              [
+                "span",
+                {
+                  "sz": 10.5,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "万相台·无界版 首页-"
+              ],
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "账户-妈妈CLUB-赏金任务—"
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "data-type": "leaf"
+                },
+                "线索推广·教育培训限时消耗返—立即报名"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "spacing": {
+                "line": 2,
+                "lineRule": "exact"
+              },
+              "uuid": "mmeifihvw581vbcozbc"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                    "cs": "\"Alibaba PuHuiTi 2.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 2.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 2.0\""
+                  },
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "",
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ],
+            [
+              "img",
+              {
+                "uuid": "mmemifclrijgsgtrw18",
+                "name": "image.png",
+                "size": 1281909,
+                "width": 748,
+                "height": 180.19867031677745,
+                "src": "/core/api/resources/img/5eecdaf48460cde5720e440aec1455eb0921f11211b8e60c75b8339e1c4c24831b75b38faadcd24bec177c308ebd53041a935ae6e15d8b967a11afa6f05b92946d678fa9624be69cc9c0ad4e8a982789bc54a95298d479184fb4c8ed7016461c",
+                "extraData": {
+                  "resourceId": "13491fda-1829-4ff3-9c1f-47bad4a16db5",
+                  "metaData": {
+                    "size": 1281909,
+                    "originWidth": 2557,
+                    "originHeight": 616,
+                    "format": "png",
+                    "ratio": 1
+                  }
+                }
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                    "cs": "\"Alibaba PuHuiTi 2.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 2.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 2.0\""
+                  },
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "",
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "spacing": {
+                "line": 2,
+                "lineRule": "exact"
+              },
+              "uuid": "mm4ibdjmk6qfc0a1z3"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                    "cs": "\"Alibaba PuHuiTi 2.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 2.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 2.0\""
+                  },
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "",
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "h1",
+            {
+              "spacing": {
+                "before": 32,
+                "after": 12,
+                "line": 0.9333333333333332
+              },
+              "uuid": "mm4ic2pgrhuch35iz9b"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 21,
+                  "szUnit": "pt",
+                  "color": "#000000",
+                  "data-type": "leaf"
+                },
+                "五、优惠券规则"
+              ]
+            ]
+          ],
+          [
+            "h2",
+            {
+              "ind": {
+                "left": 0
+              },
+              "spacing": {
+                "before": 21,
+                "after": 5,
+                "line": 1
+              },
+              "uuid": "m96seqzzxasqmame4a"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 18,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "(一)发放规则"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "ind": {
+                "left": 0
+              },
+              "uuid": "m96ser008jnfgrtf8hc"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "奖励优惠券统一发放至 "
+              ],
+              [
+                "span",
+                {
+                  "highlight": "rgb(251, 222, 40)",
+                  "color": "rgb(223, 42, 63)",
+                  "data-type": "leaf"
+                },
+                "万相台·无界版"
+              ],
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "，优惠券仅限线索推广场景使用（"
+              ],
+              [
+                "span",
+                {
+                  "color": "rgb(51, 51, 51)",
+                  "data-type": "leaf"
+                },
+                "如果分配的金额带有小数点，则向上取整至最近的整数）"
+              ]
+            ]
+          ],
+          [
+            "h2",
+            {
+              "ind": {
+                "left": 0
+              },
+              "spacing": {
+                "before": 21,
+                "after": 5,
+                "line": 1
+              },
+              "uuid": "m96ser00yhe9evdsyw"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 18,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "(二)发放时间"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "ind": {
+                "left": 0
+              },
+              "uuid": "m96ser00chb4hblzhjt"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "color": "rgb(223, 42, 63)",
+                  "data-type": "leaf"
+                },
+                "优惠券在2026年4月21日23:59:59 前发放完成"
+              ],
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "，优惠券名称为"
+              ],
+              [
+                "span",
+                {
+                  "sz": 10.5,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "「"
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 10.5,
+                  "szUnit": "pt",
+                  "color": "rgb(223, 42, 63)",
+                  "data-type": "leaf"
+                },
+                "线索推广专属优惠券"
+              ],
+              [
+                "span",
+                {
+                  "sz": 10.5,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "」"
+              ],
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "，您可以关注万相台·无界版之相关公告。"
+              ],
+              [
+                "span",
+                {
+                  "color": "black",
+                  "data-type": "leaf"
+                },
+                "优惠券有效期60日，过期将无法使用。"
+              ],
+              [
+                "span",
+                {
+                  "sz": 10.5,
+                  "szUnit": "pt",
+                  "color": "",
+                  "data-type": "leaf"
+                },
+                "发放前行业小二会进行账户信息收集，务必及时提报，超时未提报自动视为放弃。"
+              ]
+            ]
+          ],
+          [
+            "h2",
+            {
+              "ind": {
+                "left": 0
+              },
+              "spacing": {
+                "before": 21,
+                "after": 5,
+                "line": 1
+              },
+              "uuid": "m96ser01fb8awesz8b9"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 18,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "(三)优惠券查看路径"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "ind": {
+                "left": 0
+              },
+              "uuid": "m96ser012mhdqkvyc36"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 10.5,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "万相台·无界版帐户-优惠券管理-我的优惠券（已生效/已失效）或 「操作记录」 中查看"
+              ]
+            ]
+          ],
+          [
+            "h2",
+            {
+              "ind": {
+                "left": 0
+              },
+              "spacing": {
+                "before": 21,
+                "after": 5,
+                "line": 1
+              },
+              "uuid": "m96ser01h1ide3258"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 18,
+                  "szUnit": "pt",
+                  "color": "black",
+                  "data-type": "leaf"
+                },
+                "(四)优惠券使用说明"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "ind": {
+                "left": 0
+              },
+              "uuid": "m96ser01y4flcxe191"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 10.5,
+                  "szUnit": "pt",
+                  "color": "rgb(51, 51, 51)",
+                  "data-type": "leaf"
+                },
+                "1、抵扣规则：可抵扣50%，即账户产生100元消耗，优惠券抵扣50元，现金支付50元"
+              ]
+            ],
+            [
+              "br",
+              {
+                "type": "textWrapping",
+                "data": {},
+                "uuid": "m96ser01kuazjio6rcc"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 10.5,
+                  "szUnit": "pt",
+                  "color": "rgb(51, 51, 51)",
+                  "data-type": "leaf"
+                },
+                "2、使用限制："
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "ind": {
+                "left": 0
+              },
+              "uuid": "mm4lz62eavccd14kor"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 10.5,
+                  "szUnit": "pt",
+                  "color": "rgb(51, 51, 51)",
+                  "data-type": "leaf"
+                },
+                "（1）需要保证账户有余额且有正在推广中的计划，优惠券将在推广产生花费后，系统自动按比例抵扣，该券支持多次核销扣款"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "ind": {
+                "left": 0
+              },
+              "uuid": "mm4lz9oza4ffbnhhovu"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 10.5,
+                  "szUnit": "pt",
+                  "color": "rgb(51, 51, 51)",
+                  "data-type": "leaf"
+                },
+                "（2）仅限线索推广使用"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "ind": {
+                "left": 0
+              },
+              "uuid": "mm4lynyu2ccgs0j12hi"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 10.5,
+                  "szUnit": "pt",
+                  "color": "rgb(51, 51, 51)",
+                  "data-type": "leaf"
+                },
+                "3、使用时间："
+              ],
+              [
+                "span",
+                {
+                  "sz": 10.5,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "预计自收到优惠券后的60天内使用完毕，逾期不使用则自动作废；"
+              ]
+            ],
+            [
+              "br",
+              {
+                "type": "textWrapping",
+                "data": {},
+                "uuid": "m96ser01wxw2n7hzexe"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 10.5,
+                  "szUnit": "pt",
+                  "color": "rgb(51, 51, 51)",
+                  "data-type": "leaf"
+                },
+                "4、该券不支持开发票，不可转赠，券过期后未使用余额自动回收，不再补发"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "ind": {
+                "left": 0
+              },
+              "uuid": "mm4ifs994f8kglpbyf5"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 10.5,
+                  "szUnit": "pt",
+                  "color": "rgb(51, 51, 51)",
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "h1",
+            {
+              "ind": {
+                "left": 0
+              },
+              "uuid": "mm4mu2bx8hbuncpe6ft",
+              "spacing": {
+                "before": 32,
+                "after": 12,
+                "line": 0.9333333333333332
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 21,
+                  "szUnit": "pt",
+                  "color": "rgb(51, 51, 51)",
+                  "data-type": "leaf"
+                },
+                "六"
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                    "cs": "\"Alibaba PuHuiTi 2.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 2.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 2.0\""
+                  },
+                  "sz": 21,
+                  "szUnit": "pt",
+                  "color": "rgb(0, 0, 0)",
+                  "data-type": "leaf"
+                },
+                "、常见QA"
+              ]
+            ]
+          ],
+          [
+            "h3",
+            {
+              "spacing": {},
+              "uuid": "mkwalrozofvos3qoumh"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "color": "rgb(13, 18, 57)",
+                  "data-type": "leaf"
+                },
+                "（一）关于报名与资格"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "ind": {},
+              "spacing": {},
+              "uuid": "mkwalrp01ci6965s1ek"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "rgb(13, 18, 57)",
+                  "data-type": "leaf"
+                },
+                "Q1：我在万相台找不到“赏金任务”报名入口，是不是没资格？还能不能参加？"
+              ]
+            ],
+            [
+              "br",
+              {
+                "type": "textWrapping",
+                "data": {},
+                "uuid": "mkwalrp0imawzv421gp"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "rgb(13, 18, 57)",
+                  "data-type": "leaf"
+                },
+                "✅ 答：本次活动采用定向邀约制，仅对符合【商家资格】的商家开放报名入口。若您在万相台AI无界中未看到该活动入口，则说明当前暂不符合参与条件，无法手动报名。建议持续优化店铺经营表现，后续活动可能开放。"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "ind": {},
+              "spacing": {},
+              "uuid": "mkwalrp0ypbgsqbyhne"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "rgb(13, 18, 57)",
+                  "data-type": "leaf"
+                },
+                "Q2：名额有限，怎么知道是否报上名了？错过报名时间还能补录吗？"
+              ]
+            ],
+            [
+              "br",
+              {
+                "type": "textWrapping",
+                "data": {},
+                "uuid": "mkwalrp0pikpg1el9mb"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "rgb(13, 18, 57)",
+                  "data-type": "leaf"
+                },
+                "✅ 答：成功提交报名即视为锁定名额，系统将显示“已报名”状态。报名时间截至3月27日，报名截止后通道自动关闭，不支持补录。建议尽早完成报名，避免错失机会。"
+              ]
+            ]
+          ],
+          [
+            "h3",
+            {
+              "spacing": {},
+              "uuid": "mkwalrp06o3zwqm8b3"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "color": "rgb(13, 18, 57)",
+                  "data-type": "leaf"
+                },
+                "（二）关于考核周期与消耗计算"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "ind": {},
+              "spacing": {},
+              "uuid": "mkwalrp0x1dqtw6rs6p"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "rgb(13, 18, 57)",
+                  "data-type": "leaf"
+                },
+                "Q3：考核时间是20206年3月1日到3月31日，但我3月20日才报名，会影响考核吗？"
+              ]
+            ],
+            [
+              "br",
+              {
+                "type": "textWrapping",
+                "data": {},
+                "uuid": "mkwalrp0gz8j3cqlqlt"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "rgb(13, 18, 57)",
+                  "data-type": "leaf"
+                },
+                "✅ 答：不影响！只要在3月27日前完成报名，系统将自动统计您在完整考核期（2026.03.01–2026.03.31）内的线索广告实际消耗，无需从报名日开始计算。"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "ind": {},
+              "spacing": {},
+              "uuid": "mkwalrp1nmvb6bfvd1q"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "rgb(13, 18, 57)",
+                  "data-type": "leaf"
+                },
+                "Q4：消耗只算“线索推广”计划吗？其他计划（如关键词推广、人群推广、店铺直达）算不算？"
+              ]
+            ],
+            [
+              "br",
+              {
+                "type": "textWrapping",
+                "data": {},
+                "uuid": "mkwalrp190u2hgo7qrh"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "rgb(13, 18, 57)",
+                  "data-type": "leaf"
+                },
+                "✅ 答：仅限万相台AI无界「线索推广」 场景下的实际消耗计入考核。其他推广类型不纳入。"
+              ]
+            ]
+          ],
+          [
+            "h3",
+            {
+              "spacing": {},
+              "uuid": "mkwalrp1frlf6tnwn4n"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "color": "rgb(13, 18, 57)",
+                  "data-type": "leaf"
+                },
+                "（三）关于激励门槛与发放"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "ind": {},
+              "spacing": {},
+              "uuid": "mkwalrp19l1qwzmqj3p"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "rgb(13, 18, 57)",
+                  "data-type": "leaf"
+                },
+                "Q5：除了线索广告消耗达标，为什么还要看“全店其他消耗”？这个要求合理吗？"
+              ]
+            ],
+            [
+              "br",
+              {
+                "type": "textWrapping",
+                "data": {},
+                "uuid": "mkwalrp1giebs6j2itb"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "rgb(13, 18, 57)",
+                  "data-type": "leaf"
+                },
+                "✅ 答：该设计旨在鼓励全域经营活跃度。具体规则为："
+              ],
+              [
+                "span",
+                {
+                  "bold": false,
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "rgb(13, 18, 57)",
+                  "data-type": "leaf"
+                },
+                "您在考核期（3.1-3.31）的非线索广告消耗（如商品推广、品牌广告等），需高于2025年3月1日–3月31日同期的消耗水平。此举确保商家在聚焦线索的同时，维持整体营销健康度，避免“单点押注”。"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "ind": {},
+              "spacing": {},
+              "uuid": "mkwalrp1c92k5obq2zp"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "rgb(13, 18, 57)",
+                  "data-type": "leaf"
+                },
+                "Q6：如果我刚好卡在档位边缘（比如差1元），能按高一档发券吗？"
+              ]
+            ],
+            [
+              "br",
+              {
+                "type": "textWrapping",
+                "data": {},
+                "uuid": "mkwalrp1x512gc8h9zh"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "rgb(13, 18, 57)",
+                  "data-type": "leaf"
+                },
+                "✅ 答：不能。激励严格按实际消耗所处档位对应比例返还，系统自动判定，不设人工干预。建议预留缓冲空间，确保达标。"
+              ]
+            ]
+          ],
+          [
+            "h3",
+            {
+              "spacing": {},
+              "uuid": "mkwalrp13f322c2fdq3"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "color": "rgb(13, 18, 57)",
+                  "data-type": "leaf"
+                },
+                "（四）关于优惠券使用"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "ind": {},
+              "spacing": {},
+              "uuid": "mkwalrp1t5wkjwxx7"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "rgb(13, 18, 57)",
+                  "data-type": "leaf"
+                },
+                "Q7：优惠券10000元封顶，但我的消耗很高，能不能多给？"
+              ]
+            ],
+            [
+              "br",
+              {
+                "type": "textWrapping",
+                "data": {},
+                "uuid": "mkwalrp1rff6vaew0j"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "rgb(13, 18, 57)",
+                  "data-type": "leaf"
+                },
+                "✅ 答：本次活动单商家最高返还10000元，暂无更多补贴。"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "ind": {},
+              "spacing": {},
+              "uuid": "mkwalrp28p89or8e9x"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "rgb(13, 18, 57)",
+                  "data-type": "leaf"
+                },
+                "Q8：优惠券怎么用？能和其他优惠叠加吗？"
+              ]
+            ],
+            [
+              "br",
+              {
+                "type": "textWrapping",
+                "data": {},
+                "uuid": "mkwalrp2c1ibm3l6zn"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "rgb(13, 18, 57)",
+                  "data-type": "leaf"
+                },
+                "✅ 答："
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "ind": {
+                "left": 0
+              },
+              "list": {
+                "listId": "gqbgydsi1ah",
+                "isOrdered": false,
+                "level": 0,
+                "listStyle": {
+                  "format": "bullet",
+                  "text": "●",
+                  "align": "left"
+                }
+              },
+              "uuid": "mkwalrp2zclfnjaqjrb"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "rgb(13, 18, 57)",
+                  "data-type": "leaf"
+                },
+                "仅限用于万相台AI无界「线索推广」；"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "ind": {
+                "left": 0
+              },
+              "list": {
+                "listId": "gqbgydsi1ah",
+                "isOrdered": false,
+                "level": 0,
+                "listStyle": {
+                  "format": "bullet",
+                  "text": "●",
+                  "align": "left"
+                }
+              },
+              "uuid": "mkwalrp2zz2kzpajimc"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "rgb(13, 18, 57)",
+                  "data-type": "leaf"
+                },
+                "支持1:1抵扣现金（如100元券 = 投100元花50元）；"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "ind": {
+                "left": 0
+              },
+              "list": {
+                "listId": "gqbgydsi1ah",
+                "isOrdered": false,
+                "level": 0,
+                "listStyle": {
+                  "format": "bullet",
+                  "text": "●",
+                  "align": "left"
+                }
+              },
+              "uuid": "mkwalrp27affk9ea8dm"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "rgb(13, 18, 57)",
+                  "data-type": "leaf"
+                },
+                "是否可叠加，请以券面最终说明为准，通常不可与其他大促券叠加。"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "ind": {},
+              "spacing": {},
+              "uuid": "mkwalrp255bm48mjo24"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "rgb(13, 18, 57)",
+                  "data-type": "leaf"
+                },
+                "Q9：如果60天内没用完，能延期吗？"
+              ]
+            ],
+            [
+              "br",
+              {
+                "type": "textWrapping",
+                "data": {},
+                "uuid": "mkwalrp22n16c5g0ovb"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "rgb(13, 18, 57)",
+                  "data-type": "leaf"
+                },
+                "✅ 答：不能。优惠券自到账起60天内有效，逾期自动作废，请务必及时使用。"
+              ]
+            ]
+          ],
+          [
+            "h3",
+            {
+              "spacing": {},
+              "uuid": "mkwalrp2i8vmy7vs73k"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "color": "rgb(13, 18, 57)",
+                  "data-type": "leaf"
+                },
+                "（五）关于激励到账时间"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "ind": {},
+              "spacing": {},
+              "uuid": "mkwalrp3bs8u56u2xnq"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "rgb(13, 18, 57)",
+                  "data-type": "leaf"
+                },
+                "Q10：说4月发券，但4月底还没收到怎么办？"
+              ]
+            ],
+            [
+              "br",
+              {
+                "type": "textWrapping",
+                "data": {},
+                "uuid": "mkwalrp30s2n8bn22qc"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "rgb(13, 18, 57)",
+                  "data-type": "leaf"
+                },
+                "✅ 答：激励将在活动结束后3周内发放完成，预计最迟4月21日到账。若4月21日仍未收到，请联系您的客户经理或阿里妈妈客服核查。"
+              ]
+            ]
+          ]
+        ],
+        "footers": {},
+        "version": 1
+      },
+      "refs": {}
+    }
+  }
+}

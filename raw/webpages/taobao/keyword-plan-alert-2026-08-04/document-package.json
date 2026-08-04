@@ -1,0 +1,696 @@
+{
+  "version": 1,
+  "type": "application/x-alidocs-package",
+  "main": "00000000-0000-0000-0000-000000000001",
+  "plugins": "00000000-0000-0000-0000-000000000002",
+  "parts": {
+    "00000000-0000-0000-0000-000000000001": {
+      "id": "00000000-0000-0000-0000-000000000001",
+      "type": "application/x-alidocs-word",
+      "version": 1,
+      "data": {
+        "style": {
+          "docDefaults": {
+            "type": "paragraph",
+            "default": 1,
+            "name": "dingdocnormal",
+            "data": {
+              "rPr": {
+                "sz": 12,
+                "szUnit": "pt"
+              },
+              "pPr": {
+                "spacing": {
+                  "before": 8,
+                  "after": 8
+                }
+              }
+            }
+          }
+        },
+        "theme": [],
+        "settings": {
+          "titleCover": {
+            "isHide": true
+          }
+        },
+        "app": {},
+        "numberings": {},
+        "headers": {},
+        "body": [
+          "root",
+          {
+            "sectPr": {
+              "pgSz": {
+                "w": 892,
+                "h": 1127
+              },
+              "pgMar": {
+                "top": 48,
+                "bottom": 48,
+                "left": 72,
+                "right": 72,
+                "header": 56.73,
+                "footer": 66.13,
+                "gutter": 0
+              }
+            },
+            "theme": {
+              "table": {
+                "tableCell": {
+                  "vAlign": "top"
+                }
+              }
+            }
+          },
+          [
+            "h1",
+            {
+              "uuid": "mclxzpgjf5w0b35ts3f",
+              "spacing": {
+                "before": 26.666666666666664,
+                "after": 9,
+                "line": 0.8529411764705882
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 20,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "一、哪些计划会触发系统预警？"
+              ]
+            ]
+          ],
+          [
+            "h3",
+            {
+              "uuid": "mclvaz2py4e6wbj4t3",
+              "spacing": {
+                "before": 18.666666666666664,
+                "after": 8,
+                "line": 0.8529411764705882
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 14,
+                  "szUnit": "pt",
+                  "color": "#FB8C00",
+                  "data-type": "leaf"
+                },
+                "1、哪些计划会触发「计划撞线预警」？"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mclvdtnx6myx2t11mf",
+              "ind": {
+                "left": 0
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "系统每日巡检，今日实时已撞线/即将撞线的计划，会触发计划撞线预警。具体条件为"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mclvf8ypqfzvmbuqua9",
+              "ind": {
+                "left": 0
+              },
+              "list": {
+                "listId": "ah8nxirvrqn",
+                "level": 0,
+                "isTaskList": false,
+                "isOrdered": false,
+                "listStyleType": "SCIR_ECIR_SREC",
+                "symbolStyle": {},
+                "listStyle": {
+                  "format": "bullet",
+                  "text": "●",
+                  "align": "left"
+                }
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "已撞线计划：预算已花完的计划"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mclvfh1aq4n2v1vfvmg",
+              "ind": {
+                "left": 0
+              },
+              "list": {
+                "listId": "ah8nxirvrqn",
+                "level": 0,
+                "isTaskList": false,
+                "isOrdered": false,
+                "listStyleType": "SCIR_ECIR_SREC",
+                "symbolStyle": {},
+                "listStyle": {
+                  "format": "bullet",
+                  "text": "●",
+                  "align": "left"
+                }
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "即将撞线的计划：今日实时花费/计划设置的预算>70%，该计划被认为是即将撞线"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mclvykwoxv8dgmqpxo",
+              "ind": {
+                "left": 0
+              },
+              "list": {
+                "listId": "ah8nxirvrqn",
+                "level": 0,
+                "isTaskList": false,
+                "isOrdered": false,
+                "listStyleType": "SCIR_ECIR_SREC",
+                "symbolStyle": {},
+                "listStyle": {
+                  "format": "bullet",
+                  "text": "●",
+                  "align": "left"
+                },
+                "extraData": {},
+                "isChecked": false,
+                "hideSymbol": false
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "不是流量金卡和手动出价的计划"
+              ]
+            ]
+          ],
+          [
+            "h3",
+            {
+              "uuid": "mclxylxqalw1lz5dz5k",
+              "spacing": {
+                "before": 18.666666666666664,
+                "after": 8,
+                "line": 0.8529411764705882
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 14,
+                  "szUnit": "pt",
+                  "color": "#FB8C00",
+                  "data-type": "leaf"
+                },
+                "2、哪些计划会触发「计划展现预警」？"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mclvt0ce0qfrddtkuuc"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "系统每日巡检，今日实时正常投放但是没有获得展现/低展现的计划，会触发计划展现预警。具体条件为："
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mclvxym67pzqhloqjm6",
+              "ind": {
+                "left": 0
+              },
+              "list": {
+                "listId": "r3l25lmnhp",
+                "level": 0,
+                "isTaskList": false,
+                "isOrdered": false,
+                "listStyleType": "SCIR_ECIR_SREC",
+                "symbolStyle": {},
+                "listStyle": {
+                  "format": "bullet",
+                  "text": "●",
+                  "align": "left"
+                },
+                "extraData": {},
+                "isChecked": false,
+                "hideSymbol": false
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "计划的投放状态为在线"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mclvv6w4pk37v70no3",
+              "ind": {
+                "left": 0
+              },
+              "list": {
+                "listId": "r3l25lmnhp",
+                "level": 0,
+                "isTaskList": false,
+                "isOrdered": false,
+                "listStyleType": "SCIR_ECIR_SREC",
+                "symbolStyle": {},
+                "listStyle": {
+                  "format": "bullet",
+                  "text": "●",
+                  "align": "left"
+                }
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "截至当前计划展现小于100的计划"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mclvvrb8i1bc86gac2a",
+              "ind": {
+                "left": 0
+              },
+              "list": {
+                "listId": "r3l25lmnhp",
+                "level": 0,
+                "isTaskList": false,
+                "isOrdered": false,
+                "listStyleType": "SCIR_ECIR_SREC",
+                "symbolStyle": {},
+                "listStyle": {
+                  "format": "bullet",
+                  "text": "●",
+                  "align": "left"
+                },
+                "extraData": {},
+                "isChecked": false,
+                "hideSymbol": false
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "投放诊断正常（如宝贝创意等审核通过）的计划"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mclvy9pjqxs2wk5vh2d",
+              "ind": {
+                "left": 0
+              },
+              "list": {
+                "listId": "r3l25lmnhp",
+                "level": 0,
+                "isTaskList": false,
+                "isOrdered": false,
+                "listStyleType": "SCIR_ECIR_SREC",
+                "symbolStyle": {},
+                "listStyle": {
+                  "format": "bullet",
+                  "text": "●",
+                  "align": "left"
+                },
+                "extraData": {},
+                "isChecked": false,
+                "hideSymbol": false
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "不是最大化拿量、手动出价、流量金卡计划"
+              ]
+            ]
+          ],
+          [
+            "h1",
+            {
+              "uuid": "mcly03hraphb1z04i1",
+              "spacing": {
+                "before": 26.666666666666664,
+                "after": 9,
+                "line": 0.8529411764705882
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 20,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "二、作为商家，我该如何优化计划？"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mclvgz8v02emg62v8h1q"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "操作路径：关键词推广→计划列表上方找到下图小蓝条→点击查看「已撞线/即将撞线、无展现/低展现」的计划→一键采纳建议"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mclvc3fbc1n2xkqt71c"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ],
+            [
+              "img",
+              {
+                "uuid": "mclxvi49zs3yheo4tc",
+                "name": "image.png",
+                "size": 3440752,
+                "width": 748,
+                "height": 307.38125,
+                "src": "/core/api/resources/img/5eecdaf48460cde59764543788f5001e9cdb072914784a6375b8339e1c4c24831b75b38faadcd24bec177c308ebd5304cf061b77d84c31d39390a5e0f16dd165b0094d7e866a7041c37290e52433027491bf7db3d1592d4f4fb4c8ed7016461c",
+                "extraData": {
+                  "resourceId": "9b6a2dea-909b-474b-85f0-bd70c9644ea2",
+                  "metaData": {
+                    "size": 3440752,
+                    "originWidth": 2878,
+                    "originHeight": 1182,
+                    "format": "png",
+                    "ratio": 1
+                  }
+                }
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "h1",
+            {
+              "uuid": "mclvixsny290sdsz4tm",
+              "spacing": {
+                "before": 26.666666666666664,
+                "after": 9,
+                "line": 0.8529411764705882
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 20,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "三、常见QA"
+              ]
+            ]
+          ],
+          [
+            "h3",
+            {
+              "uuid": "mclvj6dq4gkgmx0y2ce",
+              "spacing": {
+                "before": 18.666666666666664,
+                "after": 8,
+                "line": 0.8529411764705882
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 14,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "1、预算采纳次日，是否会恢复初始预算？"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mclvjvbpdjs49bbb0ue"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "不会。举例：6月2日的初始计划预算是40元，6月2日当天采纳了系统建议/将预算上调至50元，6月3日该计划的预算为50元，不会恢复至初始计划预算。"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mclvz93wnz9w5jm2uqk"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mclx7xsgsznzmrhqug"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mclx83vxlonm2x8x0r"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ]
+        ],
+        "footers": {},
+        "version": 1
+      },
+      "refs": {}
+    }
+  }
+}

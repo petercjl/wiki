@@ -1,0 +1,802 @@
+{
+  "version": 1,
+  "type": "application/x-alidocs-package",
+  "main": "00000000-0000-0000-0000-000000000001",
+  "plugins": "00000000-0000-0000-0000-000000000002",
+  "parts": {
+    "00000000-0000-0000-0000-000000000001": {
+      "id": "00000000-0000-0000-0000-000000000001",
+      "type": "application/x-alidocs-word",
+      "version": 1,
+      "data": {
+        "style": {
+          "docDefaults": {
+            "type": "paragraph",
+            "default": 1,
+            "name": "dingdocnormal",
+            "data": {
+              "rPr": {
+                "sz": 12,
+                "szUnit": "pt"
+              },
+              "pPr": {
+                "spacing": {
+                  "before": 10,
+                  "after": 10
+                }
+              }
+            }
+          }
+        },
+        "theme": [],
+        "settings": {
+          "titleCover": {
+            "isHide": true
+          }
+        },
+        "app": {},
+        "numberings": {},
+        "headers": {},
+        "body": [
+          "root",
+          {
+            "sectPr": {
+              "pgSz": {
+                "w": 892,
+                "h": 1127
+              },
+              "pgMar": {
+                "top": 48,
+                "bottom": 48,
+                "left": 72,
+                "right": 72,
+                "header": 56.73,
+                "footer": 66.13,
+                "gutter": 0
+              }
+            },
+            "theme": {
+              "table": {
+                "tableCell": {
+                  "vAlign": "top"
+                }
+              }
+            }
+          },
+          [
+            "container",
+            {
+              "subType": "colorBlocks",
+              "metadata": {
+                "padding": {
+                  "top": 11,
+                  "right": 11,
+                  "bottom": 11,
+                  "left": 11
+                },
+                "borderRadius": 8,
+                "bgcolor": "radial-gradient(68% 68% at 68% 100%, #F2F7F7 0%, rgba(242, 245, 255, 0) 100%), radial-gradient(53% 53% at 16% -12%, #FEF2F2 0%, rgba(242, 245, 255, 0) 100%), radial-gradient(55% 141% at 100% 100%, #E4EBFF 0%, rgba(242, 245, 255, 0) 100%), linear-gradient(99deg, #E9E7FF 0%, #E4EBFF 100%)",
+                "showstk": false,
+                "border": "#54A1E8"
+              },
+              "uuid": "mgum9s0o9cnkw3bspt8"
+            },
+            [
+              "p",
+              {
+                "uuid": "mgum9s0o57nbmeuk45"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "bold": true,
+                    "sz": 22,
+                    "szUnit": "pt",
+                    "color": "linear-gradient(90deg, #FF7100 0%, #F300AD 100%)",
+                    "data-type": "leaf"
+                  },
+                  "官方通知！未来3天（18-20日）不得不做的「货品全站推广」投放动作！"
+                ],
+                [
+                  "span",
+                  {
+                    "sz": 22,
+                    "szUnit": "pt",
+                    "color": "linear-gradient(90deg, #FF7100 0%, #F300AD 100%)",
+                    "data-type": "leaf"
+                  },
+                  "双11现货爆发近在眼前，这些操作你必须要知道！"
+                ]
+              ]
+            ]
+          ],
+          [
+            "h1",
+            {
+              "uuid": "mgul2gm7cifkjfykens",
+              "ind": {
+                "left": 0
+              },
+              "spacing": {
+                "before": 32,
+                "after": 12,
+                "line": 0.8615384615384615
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 18,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "动作一：新建预售商品计划，撬动「预售周期」周末的成交增量"
+              ]
+            ]
+          ],
+          [
+            "container",
+            {
+              "subType": "colorBlocks",
+              "metadata": {
+                "padding": {
+                  "top": 11,
+                  "right": 11,
+                  "bottom": 11,
+                  "left": 11
+                },
+                "borderRadius": 8,
+                "bgcolor": "#FFFAE5",
+                "showstk": false,
+                "border": null
+              },
+              "uuid": "mgupyj3pfe4wr4ckm0t"
+            },
+            [
+              "p",
+              {
+                "uuid": "mgupyj3pcd8uptbfcap"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "bold": true,
+                    "data-type": "leaf"
+                  },
+                  "10.17-10.19日期间，在「货品全站推广」场景投放优质预售商品，享至高500元优惠券，争夺周末增量成交！"
+                ]
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mgumo5bpr5cise5yg8",
+              "ind": {}
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "data-type": "leaf"
+                },
+                "1、活动时间："
+              ],
+              [
+                "span",
+                {
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 2.0\"",
+                    "cs": "\"Alibaba PuHuiTi 2.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 2.0\""
+                  },
+                  "data-type": "leaf"
+                },
+                "2025年10月15日00:00:00 - 2025年10月24日23:59:59（活动名额有限，先到先得！）"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mgumqtri555i1hna6kn"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "data-type": "leaf"
+                },
+                "2、哪些商家&商品可以参与活动？"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "ind": {
+                "left": 0
+              },
+              "uuid": "mgrnausmqnisymdivir",
+              "list": {
+                "listId": "wc8ffoot9q",
+                "level": 0,
+                "isTaskList": false,
+                "isOrdered": false,
+                "listStyleType": "SCIR_ECIR_SREC",
+                "symbolStyle": {},
+                "listStyle": {
+                  "format": "bullet",
+                  "text": "●",
+                  "align": "left"
+                }
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "途径一：点击以下链接："
+              ]
+            ],
+            [
+              "a",
+              {
+                "href": "https://one.alimama.com/index.html#!/club/activity?menuView=activity&activityId=1531508&isAutoSign=0",
+                "uuid": "mgrp8wwtmcd5sjzffgi"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  "https://one.alimama.com/index.html#!/club/activity?menuView=activity&activityId=1531508&isAutoSign=0"
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mgrn9j502009ysynohai",
+              "ind": {
+                "left": 0
+              },
+              "list": {
+                "listId": "wc8ffoot9q",
+                "level": 0,
+                "isTaskList": false,
+                "isOrdered": false,
+                "listStyleType": "SCIR_ECIR_SREC",
+                "symbolStyle": {},
+                "listStyle": {
+                  "format": "bullet",
+                  "text": "●",
+                  "align": "left"
+                }
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "途径二：万相台无界-账户-妈妈CLUB-赏金任务-"
+              ],
+              [
+                "span",
+                {
+                  "color": "linear-gradient(90deg, #FF7100 0%, #F300AD 100%)",
+                  "data-type": "leaf"
+                },
+                "优质预售商品惊喜券"
+              ],
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "，在如下位置查看符合标准的商品"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mgrn3fx8j0120qbt8y"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ],
+            [
+              "img",
+              {
+                "uuid": "mgumqmjpgzrpixl9s1s",
+                "name": "image.png",
+                "size": 2105398,
+                "width": 576,
+                "height": 238.32911392405066,
+                "src": "/core/api/resources/img/5eecdaf48460cde5c3658e59e479892095ec232fc97dfdbd75b8339e1c4c24831b75b38faadcd24bec177c308ebd53048dfae526ca19b1346b89c424cca832206870364a93c53385104e86ebdeb2925b506643f774e0935f4fb4c8ed7016461c",
+                "extraData": {
+                  "resourceId": "c85cf6b6-e478-409b-9857-b8dee344b16e",
+                  "metaData": {
+                    "size": 2105398,
+                    "originWidth": 2528,
+                    "originHeight": 1046,
+                    "format": "png",
+                    "ratio": 1
+                  }
+                },
+                "rotation": 0
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mgsvf6f0p4l6d39uuwp",
+              "ind": {
+                "left": 0
+              },
+              "list": {
+                "listId": "qcv1dsr69o",
+                "level": 0,
+                "isTaskList": false,
+                "isOrdered": false,
+                "listStyleType": "SCIR_ECIR_SREC",
+                "symbolStyle": {},
+                "listStyle": {
+                  "format": "bullet",
+                  "text": "●",
+                  "align": "left"
+                }
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "途径三：通过货品全站推广-选品列表-选择带有“预售惊喜券”标签的商品，即为本次活动覆盖的商品        "
+              ]
+            ],
+            [
+              "img",
+              {
+                "uuid": "mgumok76pdme8fr8so",
+                "name": "image.png",
+                "size": 440633,
+                "width": 576,
+                "height": 381,
+                "src": "/core/api/resources/img/5eecdaf48460cde5c3658e59e479892095ec232fc97dfdbd75b8339e1c4c24831b75b38faadcd24bec177c308ebd5304ef47286b895124359d38bf985ff15a0bd5f293375766293e4f633fe1f818799d8f223edc1cf136e24fb4c8ed7016461c",
+                "extraData": {
+                  "resourceId": "e6a143c5-9c90-4984-a7a9-4c531b10b005",
+                  "metaData": {
+                    "size": 440633,
+                    "originWidth": 1231,
+                    "originHeight": 814,
+                    "format": "png",
+                    "ratio": 1
+                  }
+                },
+                "rotation": 0
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "h1",
+            {
+              "uuid": "mgul5uvjry157doknoh",
+              "ind": {
+                "left": 0
+              },
+              "spacing": {
+                "before": 32,
+                "after": 12,
+                "line": 0.8615384615384615
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 18,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "动作二：提前新建计划，避免「爆发日」新建计划的冷启问题"
+              ]
+            ]
+          ],
+          [
+            "container",
+            {
+              "subType": "colorBlocks",
+              "metadata": {
+                "padding": {
+                  "top": 11,
+                  "right": 11,
+                  "bottom": 11,
+                  "left": 11
+                },
+                "borderRadius": 8,
+                "bgcolor": "#FFFAE5",
+                "showstk": false,
+                "border": null
+              },
+              "uuid": "mguq0hhk1o0krswx4kj"
+            },
+            [
+              "p",
+              {
+                "uuid": "mguq0k9qxhh5c4lu5yg",
+                "ind": {}
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  "10.18-10.19，提前新建「货品全站推广」计划加速冷启动，避免错过10.20爆发当日优质流量！计划数据积累期会存在一定的成交波动，建议在现货爆发前1-2天提前建好计划，以避免大促爆发当天因计划冷启带来的效率折损"
+                ]
+              ]
+            ],
+            [
+              "p",
+              {
+                "uuid": "mgulobjjtm07iebm8vc",
+                "ind": {}
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "color": "#E03E3E",
+                    "data-type": "leaf"
+                  },
+                  "Tips："
+                ],
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  "建议单计划日预算设置在200元以上，采纳平台出价建议，投放效果最佳～"
+                ]
+              ]
+            ]
+          ],
+          [
+            "h1",
+            {
+              "uuid": "mgul7lwbja40e5ztjuq",
+              "ind": {
+                "left": 0
+              },
+              "spacing": {
+                "before": 32,
+                "after": 12,
+                "line": 0.8615384615384615
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 18,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "动作三：为在投主计划新增投放调优能力，提升爆发日蓄水"
+              ]
+            ]
+          ],
+          [
+            "container",
+            {
+              "subType": "colorBlocks",
+              "metadata": {
+                "padding": {
+                  "top": 11,
+                  "right": 11,
+                  "bottom": 11,
+                  "left": 11
+                },
+                "borderRadius": 8,
+                "bgcolor": "#FFFAE5",
+                "showstk": false,
+                "border": null
+              },
+              "uuid": "mguq10ctm2lmw7tat9m"
+            },
+            [
+              "p",
+              {
+                "uuid": "mguq10ctx9a12ephjo"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  "10.20日前，在投计划提前增加多目标出价/一键起量预算，探索更多增量PV，为大促爆发提前蓄势！"
+                ]
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mgumve3k304w65wot5n",
+              "ind": {}
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "",
+                  "data-type": "leaf"
+                },
+                "货品全站推广升级"
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "",
+                  "data-type": "leaf"
+                },
+                "「多目标出价能力」"
+              ],
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "",
+                  "data-type": "leaf"
+                },
+                "，在基础预算下可以设置"
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "",
+                  "data-type": "leaf"
+                },
+                "「加购」、「直接成交」 的多维目标"
+              ],
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "",
+                  "data-type": "leaf"
+                },
+                "，可以在保障基础预算 roi 交付下进行多维增量探索，开启多目标增强计划整体竞价能力，"
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "",
+                  "data-type": "leaf"
+                },
+                "让计划效果 \"1+1>2\"，解决商家因为竞争力不足而无法放量的问题"
+              ],
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "",
+                  "data-type": "leaf"
+                },
+                "，增加 gmv 同时进行增量指标的交付，满足多种场景的运营需求；"
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "#FE0300",
+                  "data-type": "leaf"
+                },
+                "开启多目标综合可提升计划整体 gmv 增幅达 15%+，加购/直接成交+20%+；"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mgumwxjboq75kjgtreg",
+              "ind": {}
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "",
+                  "data-type": "leaf"
+                },
+                "货品全站推广升级「一键起量能力」 ，承担更多GMV目标的高预算商品必投，开启一键起量可以有效的带动核心计划的竞争力，抓住大促的成交爆发；放量遇到困难的商品建议加投，短期难以增加产品基础分，建议开启一键起量增加竞价能力，短期内提升 GMV，突破瓶颈期！"
+              ]
+            ]
+          ]
+        ],
+        "footers": {},
+        "version": 1
+      },
+      "refs": {}
+    }
+  }
+}

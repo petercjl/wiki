@@ -1,0 +1,3258 @@
+{
+  "version": 1,
+  "type": "application/x-alidocs-package",
+  "main": "00000000-0000-0000-0000-000000000001",
+  "plugins": "00000000-0000-0000-0000-000000000002",
+  "parts": {
+    "27ef147c-5f3f-46f8-9fc1-f186eab8d8a8": {
+      "id": "27ef147c-5f3f-46f8-9fc1-f186eab8d8a8",
+      "type": "application/x-alidocs-plugin-attachment",
+      "version": 1,
+      "data": {
+        "spaceId": "2125320914",
+        "fileSize": 0,
+        "fileName": "【千牛客服打标工具】使用指南",
+        "fileType": "adoc",
+        "fileId": "223508276257",
+        "corpId": "dingd8e1123006514592",
+        "modifiedTime": 1784700152000,
+        "dentryUuid": "a9E05BDRVQRkezKGCyAw6dAdJ63zgkYA",
+        "bizType": "PORTAL",
+        "url": "https://alidocs.dingtalk.com/i/nodes/a9E05BDRVQRkezKGCyAw6dAdJ63zgkYA",
+        "viewType": "text",
+        "dentryKey": "RqOYMJgYgiWBzbEG",
+        "uniqueId": "27ef147c-5f3f-46f8-9fc1-f186eab8d8a8",
+        "metaUrl": "https://alidocs.dingtalk.com/i/nodes/a9E05BDRVQRkezKGCyAw6dAdJ63zgkYA"
+      }
+    },
+    "00000000-0000-0000-0000-000000000001": {
+      "id": "00000000-0000-0000-0000-000000000001",
+      "type": "application/x-alidocs-word",
+      "version": 1,
+      "data": {
+        "style": {
+          "docDefaults": {
+            "type": "paragraph",
+            "default": 1,
+            "name": "dingdocnormal",
+            "data": {
+              "rPr": {
+                "sz": 12,
+                "szUnit": "pt"
+              },
+              "pPr": {
+                "spacing": {
+                  "before": 12,
+                  "after": 12
+                }
+              }
+            }
+          },
+          "tableDefault": {
+            "type": "table",
+            "data": {
+              "tblPr": {
+                "bdr": {
+                  "bottom": {
+                    "color": "#D6D6D6",
+                    "space": 0,
+                    "sz": 1,
+                    "val": "single"
+                  },
+                  "insideH": {
+                    "color": "#D6D6D6",
+                    "space": 0,
+                    "sz": 1,
+                    "val": "single"
+                  },
+                  "insideV": {
+                    "color": "#D6D6D6",
+                    "space": 0,
+                    "sz": 1,
+                    "val": "single"
+                  },
+                  "left": {
+                    "color": "#D6D6D6",
+                    "space": 0,
+                    "sz": 1,
+                    "val": "single"
+                  },
+                  "right": {
+                    "color": "#D6D6D6",
+                    "space": 0,
+                    "sz": 1,
+                    "val": "single"
+                  },
+                  "top": {
+                    "color": "#D6D6D6",
+                    "space": 0,
+                    "sz": 1,
+                    "val": "single"
+                  }
+                }
+              }
+            }
+          },
+          "tableHeader": {
+            "type": "table",
+            "basedOn": "tableDefault",
+            "data": {
+              "tblStylePr": [
+                {
+                  "type": "firstRow",
+                  "tcPr": {
+                    "shd": {
+                      "fill": "#F5F6F7"
+                    }
+                  }
+                },
+                {
+                  "type": "firstCol",
+                  "tcPr": {
+                    "shd": {
+                      "fill": "#F5F6F7"
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        "theme": [],
+        "settings": {
+          "titleCover": {
+            "isHide": true
+          }
+        },
+        "app": {},
+        "numberings": {},
+        "headers": {},
+        "body": [
+          "root",
+          {
+            "sectPr": {
+              "pgSz": {
+                "w": 892,
+                "h": 1127
+              },
+              "pgMar": {
+                "top": 48,
+                "bottom": 48,
+                "left": 72,
+                "right": 72,
+                "header": 56.73,
+                "footer": 66.13,
+                "gutter": 0
+              }
+            },
+            "theme": {
+              "table": {
+                "tableCell": {
+                  "vAlign": "top"
+                }
+              }
+            }
+          },
+          [
+            "h1",
+            {
+              "uuid": "mpuu8rt92nq9wnm1uf2",
+              "spacing": {
+                "before": 32,
+                "after": 12,
+                "line": 0.9333333333333332
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 21,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "一、企业微信邀约卡片是什么？"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mpuu8rt92pzob5v9oa8"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "企业微信邀约卡片系阿里妈妈为投放【线索推广】产品的商家所提供的线索收集工具，本产品旨在为合规经营商家提供安全、规范的留资渠道，助力商家在合规前提下高效完成线索转化，提升客户跟进效率。"
+              ]
+            ]
+          ],
+          [
+            "h3",
+            {
+              "uuid": "mpuu8rt9un3cb63g4kq"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "核心功能"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mpuu8rt92j66ygv192i"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "通过企业微信邀约卡片，商家可通过以下两种方式添加消费者："
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mpuu8rta0n68u2p468ei"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "其一，扫码添加：主动发送店铺企业微信，消费者扫码添加。商家可主动向消费者发送店铺的企业微信账号，引导消费者扫码添加。"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mpuu8rtan0vaiu3t5ye"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "其二，留下手机号：企业微信添加消费者微信号。商家可通过企微邀约卡片，获取消费者主动填写的个人微信，并使用企业微信添加完成建联。"
+              ]
+            ]
+          ],
+          [
+            "h3",
+            {
+              "uuid": "mpuy22pgkgxvvfvfuon",
+              "spacing": {
+                "before": 24,
+                "after": 8.666666666666666,
+                "line": 0.9333333333333332
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 14.5,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "产品优势"
+              ]
+            ]
+          ],
+          [
+            "table",
+            {
+              "colsWidth": [
+                106,
+                626
+              ],
+              "tblW": {
+                "type": "pct"
+              },
+              "styleId": "tableHeader",
+              "tblLook": {
+                "firstRow": 1,
+                "lastRow": 0,
+                "firstColumn": 0,
+                "lastColumn": 0
+              },
+              "uuid": "mpuu8rtyj5rnp7dk8wp"
+            },
+            [
+              "tr",
+              {
+                "isTblHeader": true,
+                "uuid": "mpuy22phal908yzo5l"
+              },
+              [
+                "tc",
+                {
+                  "rowSpan": 1,
+                  "colSpan": 1,
+                  "uuid": "mpuy22phrcx00l71zzh",
+                  "vAlign": "middle"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mpuy22ph0vpktpn8cmh"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "data-type": "leaf"
+                      },
+                      "优势项"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "rowSpan": 1,
+                  "colSpan": 1,
+                  "uuid": "mpuy22php525f7uddkn",
+                  "vAlign": "middle"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mpuy22ph86gk4m69oys"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "data-type": "leaf"
+                      },
+                      "详细说明"
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {
+                "uuid": "mpuy22phoi0roopsjg"
+              },
+              [
+                "tc",
+                {
+                  "rowSpan": 1,
+                  "colSpan": 1,
+                  "uuid": "mpuy22phpd6r6kmjx4h",
+                  "vAlign": "middle"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mpuy22ph8wn9niiznis"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "合规经营"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "rowSpan": 1,
+                  "colSpan": 1,
+                  "uuid": "mpuy22phbkh6gjbodn",
+                  "vAlign": "middle"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mpuy22phouexrhr1ube"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "于平台管控政策背景下提供合规留资渠道，有效降低违规风险"
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {
+                "uuid": "mpuy22ph9v31i069ytp"
+              },
+              [
+                "tc",
+                {
+                  "rowSpan": 1,
+                  "colSpan": 1,
+                  "uuid": "mpuy22pho2fgq7b68ed",
+                  "vAlign": "middle"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mpuy22ph4so5c8zjpc9"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "高效转化"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "rowSpan": 1,
+                  "colSpan": 1,
+                  "uuid": "mpuy22phvih1g6s5ka",
+                  "vAlign": "middle"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mpuy22phsahym81e3t"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "支持【留下手机号】和【扫码添加】两种方式，灵活适配不同消费者加微需求"
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {
+                "uuid": "mpuy22ph8dwppsb28fd"
+              },
+              [
+                "tc",
+                {
+                  "rowSpan": 1,
+                  "colSpan": 1,
+                  "uuid": "mpuy22ph8vfba1jq3yi",
+                  "vAlign": "middle"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mpuy22phpy03p3ajbg"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "状态追踪"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "rowSpan": 1,
+                  "colSpan": 1,
+                  "uuid": "mpuy22phlpg22pzn1u",
+                  "vAlign": "middle"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mpuy22ph18wy5n7stuz"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "实时回显用户操作状态，便于商家及时跟进处理"
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {
+                "uuid": "mpuy22phqga8ixyyf8p"
+              },
+              [
+                "tc",
+                {
+                  "rowSpan": 1,
+                  "colSpan": 1,
+                  "uuid": "mpuy22phsz8q1l8d0q9",
+                  "vAlign": "middle"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mpuy22phke2rxmatymg"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "团队协同"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "rowSpan": 1,
+                  "colSpan": 1,
+                  "uuid": "mpuy22pht102pdc455",
+                  "vAlign": "middle"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mpuy22phfotubgilbb9"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "支持批量添加企业微信账号，实现多人协作跟进线索"
+                    ]
+                  ]
+                ]
+              ]
+            ]
+          ],
+          [
+            "h1",
+            {
+              "uuid": "mpuu8rta2wmibd3xatu",
+              "spacing": {
+                "before": 32,
+                "after": 12,
+                "line": 0.9333333333333332
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 21,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "二、企微邀约卡片怎么开通？"
+              ]
+            ]
+          ],
+          [
+            "h3",
+            {
+              "uuid": "mpuu8rtaa2z6s8raidb"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "2.1 开通条件"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mpuu8rtbid8bejo2hma"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "商家须"
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "color": "#E03E3E",
+                  "data-type": "leaf"
+                },
+                "同时满足以下条件"
+              ],
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "方可开通："
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "list": {
+                "listId": "d0zasre7gi",
+                "isOrdered": false,
+                "level": 0,
+                "listStyle": {
+                  "format": "bullet",
+                  "text": "●",
+                  "align": "left"
+                },
+                "symbolStyle": {
+                  "color": "#E03E3E",
+                  "bold": true
+                }
+              },
+              "uuid": "mpuu8rtbzo9ubx1ke7j"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "color": "#E03E3E",
+                  "data-type": "leaf"
+                },
+                "商家已经开通了客户工作台【线索管理】功能（报名链接："
+              ]
+            ],
+            [
+              "a",
+              {
+                "href": "https://survey.taobao.com/apps/zhiliao/VENIUcIwa",
+                "uuid": "mqhsbltiesqv5ztk64c"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "color": "#E03E3E",
+                    "data-type": "leaf"
+                  },
+                  "https://survey.taobao.com/apps/zhiliao/VENIUcIwa"
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "color": "#E03E3E",
+                  "data-type": "leaf"
+                },
+                "）"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "list": {
+                "listId": "d0zasre7gi",
+                "isOrdered": false,
+                "level": 0,
+                "listStyle": {
+                  "format": "bullet",
+                  "text": "●",
+                  "align": "left"
+                },
+                "symbolStyle": {
+                  "sz": 12
+                }
+              },
+              "uuid": "mpuu8rtb5acspvneu0c"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "#E03E3E",
+                  "data-type": "leaf"
+                },
+                "在【线索推广】场景消耗大于规定金额次日12点生效，"
+              ],
+              [
+                "span",
+                {
+                  "bold": false,
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "#E03E3E",
+                  "data-type": "leaf"
+                },
+                "可以自动在阿里妈妈客户工作台开通权限，进入【线索管理】-【设置】-【留资渠道】页面。在企微邀约卡片下点击【确认开通】即可完成开通。"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "list": {
+                "listId": "d0zasre7gi",
+                "isOrdered": false,
+                "level": 0,
+                "listStyle": {
+                  "format": "bullet",
+                  "text": "●",
+                  "align": "left"
+                },
+                "symbolStyle": {
+                  "sz": 12,
+                  "bold": true
+                },
+                "extraData": {},
+                "isChecked": false,
+                "hideSymbol": false
+              },
+              "uuid": "mrdc5k9fxt3c95pbn6"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "#E03E3E",
+                  "data-type": "leaf"
+                },
+                "一键开启线索推广消耗："
+              ]
+            ],
+            [
+              "a",
+              {
+                "href": "https://one.alimama.com/index.html#!/manage/hky",
+                "uuid": "mrdcaoerlixqsq9216i"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "sz": 12,
+                    "szUnit": "pt",
+                    "color": "#E03E3E",
+                    "data-type": "leaf"
+                  },
+                  "https://one.alimama.com/index.html#!/manage/hky"
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "#E03E3E",
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "h3",
+            {
+              "uuid": "mpuu8rtbmdxxb7l6wqj"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "2.2 开通流程"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mpuu8rtct70q2tcjtg"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "data-type": "leaf"
+                },
+                "第一步：进入留资渠道配置页面"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mpuu8rtctf5tiaa74e"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "若商家满足开通条件，登录客户工作台后，进入【线索管理】-【设置】-【留资渠道】页面。在"
+              ],
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "",
+                  "data-type": "leaf"
+                },
+                "企微邀约卡片"
+              ],
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "下点击【确认开通】，平台检验账号内线索推广场景消耗规模符合开通门槛后，即可完成开通。"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mrlrono8nbdj2op8q78"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "#E03E3E",
+                  "data-type": "leaf"
+                },
+                "注意事项："
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mrlrp0fcrtned5wpv5q",
+              "ind": {
+                "left": 32
+              },
+              "list": {
+                "listId": "y1g9ia9iibp",
+                "level": 0,
+                "isTaskList": false,
+                "isOrdered": false,
+                "listStyleType": "SCIR_ECIR_SREC",
+                "symbolStyle": {
+                  "color": "#E03E3E",
+                  "bold": true
+                },
+                "listStyle": {
+                  "format": "bullet",
+                  "text": "●",
+                  "align": "left"
+                }
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "#E03E3E",
+                  "data-type": "leaf"
+                },
+                "开通门槛：平台自动化判定商家消耗规模是否符合开通门槛，不符合门槛商家将收到弹窗提升，具体开通门槛以商家后台弹窗提示为准。"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mrlrqthooqg6bhelfc",
+              "ind": {
+                "left": 32
+              },
+              "list": {
+                "listId": "y1g9ia9iibp",
+                "level": 0,
+                "isTaskList": false,
+                "isOrdered": false,
+                "listStyleType": "SCIR_ECIR_SREC",
+                "symbolStyle": {
+                  "color": "#E03E3E",
+                  "bold": true
+                },
+                "listStyle": {
+                  "format": "bullet",
+                  "text": "●",
+                  "align": "left"
+                },
+                "extraData": {},
+                "isChecked": false,
+                "hideSymbol": false
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "#E03E3E",
+                  "data-type": "leaf"
+                },
+                "回收规则：开通后若连续30天线索推广消耗不满足规定金额，卡片权限将暂时回收，待后续重新投放后可再次激活使用。"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mrlrtszxnx7ta70fbyg",
+              "ind": {
+                "left": 32
+              },
+              "list": {
+                "listId": "y1g9ia9iibp",
+                "level": 0,
+                "isTaskList": false,
+                "isOrdered": false,
+                "listStyleType": "SCIR_ECIR_SREC",
+                "symbolStyle": {
+                  "color": "#E03E3E",
+                  "bold": true
+                },
+                "listStyle": {
+                  "format": "bullet",
+                  "text": "●",
+                  "align": "left"
+                },
+                "extraData": {},
+                "isChecked": false,
+                "hideSymbol": false
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "#E03E3E",
+                  "data-type": "leaf"
+                },
+                "行业限制：新零售商家暂不支持开通企微邀约卡片。"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mpuu8rtclegwiszq0x"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ],
+            [
+              "img",
+              {
+                "uuid": "mpw7qffw52mw27zoqbl",
+                "name": "image.png",
+                "size": 898273,
+                "width": 748,
+                "height": 494.73612063056885,
+                "src": "/core/api/resources/img/5eecdaf48460cde5f4647f894876c5a7530094208ade44a575b8339e1c4c24831b75b38faadcd24bec177c308ebd5304ef8cf9323215292c56e8750972ee682b4943d8bce55746bfe96b166265a29afe7f502eac7aa926b74fb4c8ed7016461c",
+                "extraData": {
+                  "resourceId": "a95e4f5b-3692-4f30-b710-6dc6237f2e23",
+                  "metaData": {
+                    "size": 898273,
+                    "originWidth": 1459,
+                    "originHeight": 965,
+                    "format": "png",
+                    "ratio": 1
+                  }
+                }
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mpux5h46z5n1wo42km8",
+              "jc": "center"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "italic": true,
+                  "data-type": "leaf"
+                },
+                "图2：企微邀约卡片开通申请页面"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mpuu8rtcninqr42it6q"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "data-type": "leaf"
+                },
+                "第二步：配置邀约方式"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mpuu8rtcdvov34bms2"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "进入邀约卡片配置页面后，商家可根据业务需求选择邀约方式："
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "list": {
+                "listId": "s54j26dof2",
+                "isOrdered": false,
+                "level": 0,
+                "listStyle": {
+                  "format": "bullet",
+                  "text": "●",
+                  "align": "left"
+                }
+              },
+              "uuid": "mpuu8rtchw6nkhmt7n"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "data-type": "leaf"
+                },
+                "手机号加微"
+              ],
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "：系统默认开启，此选项不可关闭"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "list": {
+                "listId": "s54j26dof2",
+                "isOrdered": false,
+                "level": 0,
+                "listStyle": {
+                  "format": "bullet",
+                  "text": "●",
+                  "align": "left"
+                }
+              },
+              "uuid": "mpuu8rtdouvflhjbhh"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "data-type": "leaf"
+                },
+                "扫码加微"
+              ],
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "：商家可自主选择开启或关闭"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mpuu8rtdapjd1yt5vg"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "在邀约设置模块中，商家需添加员工企业微信账号。系统支持批量添加操作，商家需一一对应上传以下信息："
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "list": {
+                "listId": "r93qm58f41h",
+                "isOrdered": false,
+                "level": 0,
+                "listStyle": {
+                  "format": "bullet",
+                  "text": "●",
+                  "align": "left"
+                }
+              },
+              "uuid": "mpuu8rtda54xo7j9l6w"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "企业微信账号的企微号"
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "data-type": "leaf"
+                },
+                "（必填）"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "list": {
+                "listId": "r93qm58f41h",
+                "isOrdered": false,
+                "level": 0,
+                "listStyle": {
+                  "format": "bullet",
+                  "text": "●",
+                  "align": "left"
+                }
+              },
+              "uuid": "mpuu8rtddtmzaig6fu"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "企业微信二维码"
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "data-type": "leaf"
+                },
+                "（必填）"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mpuu8rtdjnocr98v2co"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "color": "#E03E3E",
+                  "data-type": "leaf"
+                },
+                "！！！重要提示：请确保上传的为企业微信官方二维码且在有效期内。如发现上传非企微二维码、过期二维码或其他违规行为，平台将直接收回使用权限。"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mpuu8rteecr42c4gn7"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ],
+            [
+              "img",
+              {
+                "uuid": "mpw7qffxsg368j8s64",
+                "name": "image.png",
+                "size": 985412,
+                "width": 748,
+                "height": 617.6708860759493,
+                "src": "/core/api/resources/img/5eecdaf48460cde5f4647f894876c5a7530094208ade44a575b8339e1c4c24831b75b38faadcd24bec177c308ebd5304a70516769234c7b075644e396143460d2c550f7a2bc79db04114d3419311421adbee94c6a2ca98514fb4c8ed7016461c",
+                "extraData": {
+                  "resourceId": "d3ca2910-1f04-4be0-84a1-46502724f940",
+                  "metaData": {
+                    "size": 985412,
+                    "originWidth": 1343,
+                    "originHeight": 1109,
+                    "format": "png",
+                    "ratio": 1
+                  }
+                }
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mpuu8rteitiftivr6f",
+              "jc": "center"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "italic": true,
+                  "data-type": "leaf"
+                },
+                "图2：邀约方式配置页面"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mpuu8rteptos0mxhtp"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "data-type": "leaf"
+                },
+                "第三步：确认开通状态"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mpuu8rtee5koxeeta6m"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "企业微信邀约卡片开通成功后，系统页面【企微邀约卡片】将显示【已开通】，表明功能已正常启用并可投入使用。点击【查看详情】，可查询已上传员工企微账号并支持批量删改。"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mpuu8rtexmhl93ad80a"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ],
+            [
+              "img",
+              {
+                "uuid": "19c0mg",
+                "name": "image.png",
+                "size": 528778,
+                "width": 748,
+                "height": 270.31930527722113,
+                "src": "/core/api/resources/img/5eecdaf48460cde5093427eda0a9e41ba255baafe39807a175b8339e1c4c24831b75b38faadcd24bec177c308ebd53049b283ab3c14435bdad492e59e1690ffbb4b26584845fda256f13f32f6a078ca413f0ee2d169e2aeb4fb4c8ed7016461c",
+                "extraData": {
+                  "resourceId": "c8b9615c-5234-4c42-b711-e34f11d1993b",
+                  "metaData": {
+                    "size": 528778,
+                    "originWidth": 1497,
+                    "originHeight": 541,
+                    "format": "png",
+                    "ratio": 1
+                  }
+                }
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mpuu8rte33w02ogerzc",
+              "jc": "center"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "italic": true,
+                  "data-type": "leaf"
+                },
+                "图3：已开通邀约卡片页面"
+              ]
+            ]
+          ],
+          [
+            "hr",
+            {
+              "uuid": "mpuu8rtfrm1cgky4a3"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "h2",
+            {
+              "uuid": "mpuu8rtf55dd5l9sfyu"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "三、如何使用？"
+              ]
+            ]
+          ],
+          [
+            "h3",
+            {
+              "uuid": "mpuu8rtfz0o2di351qe"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "3.1 配置方式"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mpuu8rtf6ugrg8nxvsi"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "企业微信邀约卡片功能上线初期，仅支持【商家手动发送】模式。"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "list": {
+                "listId": "y5yf29c2me",
+                "isOrdered": false,
+                "level": 0,
+                "listStyle": {
+                  "format": "bullet",
+                  "text": "●",
+                  "align": "left"
+                }
+              },
+              "uuid": "mpuu8rtgel35muwe0i9"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "适用场景：商家主动跟进高意向线索客户"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "list": {
+                "listId": "y5yf29c2me",
+                "isOrdered": false,
+                "level": 0,
+                "listStyle": {
+                  "format": "bullet",
+                  "text": "●",
+                  "align": "left"
+                }
+              },
+              "uuid": "mpuu8rtggumjytgknaj"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "操作方式：客服人员于千牛客户端手动选择目标企业微信账号，向消费者发送邀约卡片"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "list": {
+                "listId": "y5yf29c2me",
+                "isOrdered": false,
+                "level": 0,
+                "listStyle": {
+                  "format": "bullet",
+                  "text": "●",
+                  "align": "left"
+                }
+              },
+              "uuid": "mpuu8rtgs704ttuec3m"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "功能优势：实现精准触达，客服人员可根据消费者意向程度灵活把握跟进时机"
+              ]
+            ]
+          ],
+          [
+            "h3",
+            {
+              "uuid": "mpuu8rtofazkbeda2w7"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "3.2 使用步骤"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mpuu8rtoii30edgw4j"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "data-type": "leaf"
+                },
+                "第一步：发送企业微信卡片"
+              ]
+            ]
+          ],
+          [
+            "h3",
+            {
+              "uuid": "mr35877hp1adf0heqw"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "color": "#E03E3E",
+                  "data-type": "leaf"
+                },
+                "！！！【企微邀约卡片】开通后，客服首次使用前，务必刷新千牛客户端！！！"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mpuu8rto5bcvvdiqhr9"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "客服人员登录千牛客户端，在【线索推广】蓝色功能栏区域选择需发送的企业微信账号，点击【确认】按钮后，系统将向消费者发送企业微信邀约卡片。"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mpxs8zh01cljsi9f2nr"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "color": "#E03E3E",
+                  "data-type": "leaf"
+                },
+                "重要提示：仅支持已完成添加的企业微信账号通过邀约卡片进行线索跟进。"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mpuu8rtoonp3dn8cwl"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ],
+            [
+              "img",
+              {
+                "uuid": "mpw7qffxnzlwiwnctwe",
+                "name": "image.png",
+                "size": 731024,
+                "width": 748,
+                "height": 477.78010471204186,
+                "src": "/core/api/resources/img/5eecdaf48460cde5f4647f894876c5a7530094208ade44a575b8339e1c4c24831b75b38faadcd24bec177c308ebd5304cba3e41b6c158b05850e8d0612a2d762c151a1ad27f9b8cab01036ac77b7bb784a05c38ddb1933b74fb4c8ed7016461c",
+                "extraData": {
+                  "resourceId": "5b37ff02-74aa-4c99-b1b8-40c3cd8d22b1",
+                  "metaData": {
+                    "size": 731024,
+                    "originWidth": 1146,
+                    "originHeight": 732,
+                    "format": "png",
+                    "ratio": 1
+                  }
+                }
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mpuu8rto9k9966kh3p8",
+              "jc": "center"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "italic": true,
+                  "data-type": "leaf"
+                },
+                "图4：千牛工具栏邀请添加企业微信界面"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mpuu8rtp8ckopyerulq"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "data-type": "leaf"
+                },
+                "第二步：消费者完成添加操作"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mpuu8rtpkezkqmbgdt9"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "消费者可通过以下两种方式完成企业微信添加："
+              ]
+            ]
+          ],
+          [
+            "table",
+            {
+              "colsWidth": [
+                90,
+                310,
+                332
+              ],
+              "isColumnHeader": true,
+              "styleId": "tableHeader",
+              "tblLook": {
+                "firstColumn": 1,
+                "firstRow": 1,
+                "lastColumn": 0,
+                "lastRow": 0
+              },
+              "tblW": {
+                "type": "pct",
+                "w": 100
+              },
+              "uuid": "mpuxirlqbiku0371hem"
+            },
+            [
+              "tr",
+              {
+                "uuid": "mpuxirlq17p3cbvmq8c",
+                "isTblHeader": true
+              },
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mpuxpcogfc2qizax77",
+                  "vAlign": "middle"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mpuxpcog3js1qyy9lwp"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "data-type": "leaf"
+                      },
+                      "客资获取"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mpuxirlqftpoxs7u4vt",
+                  "vAlign": "middle"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mpuxirlq0ftr7pjha53",
+                    "jc": "center"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "color": "#E03E3E",
+                        "data-type": "leaf"
+                      },
+                      "留下手机号"
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "uuid": "mpuxobsj8djij5z0erb",
+                    "jc": "left"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "消费者于卡片内填写个人微信号并提交，提交成功后，卡片将实时回显用户当前状态\"已发送\"标识，客服端实时回显消费者填写的手机号码（暗文）。"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mpuxirlq4rsrb69fp4f",
+                  "vAlign": "middle"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mpuxirlqi9um8dna8sh",
+                    "jc": "center"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "color": "#E03E3E",
+                        "data-type": "leaf"
+                      },
+                      "扫码添加"
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "uuid": "mpuxop60ivckdk07wr",
+                    "jc": "left"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "消费者扫描客服人员发送的企业微信二维码，主动添加企业微信，卡片将实时回显用户当前状态\"已发送\"标识，客服端实时回显消费者添加状态，展示【待通过】提示。"
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {
+                "uuid": "mpuxpmscyo4102ydz4"
+              },
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mpuxpmsct6qiksvk6go",
+                  "vAlign": "middle"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mpuxpmsc2e2w6khlotb"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "data-type": "leaf"
+                      },
+                      "客资管理"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 2,
+                  "rowSpan": 1,
+                  "uuid": "mpuxpmscyj94an8h82a",
+                  "vAlign": "middle"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mpuxugt0giuef19wwai"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "点击【查看详情】可跳转至客户工作台，直接定位到该条客资并打标。"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mpuxpmscqi6ay6twr5h",
+                  "hidden": true,
+                  "vAlign": "middle"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mpuxpmscs5254cgyqb"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {
+                "uuid": "mpw24x4by4iq3zu599"
+              },
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mpw24x4aiomgq6r7bdq",
+                  "vAlign": "middle"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mpw24x4a53af6h5l5ir"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "data-type": "leaf"
+                      },
+                      "客资打标"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 2,
+                  "rowSpan": 1,
+                  "uuid": "mpw24x4br2naiq286ln",
+                  "vAlign": "middle"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mpw24x4b0wi9ngi0xk8l"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "data-type": "leaf"
+                      },
+                      "建议客服侧直接在语聊页面的客户信息下方【修改备注】完成客资打标"
+                    ],
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "，详细操作见>>"
+                    ]
+                  ],
+                  [
+                    "tag",
+                    {
+                      "tagType": "hetu",
+                      "metadata": {
+                        "type": "application/x-alidocs-plugin-attachment",
+                        "id": "27ef147c-5f3f-46f8-9fc1-f186eab8d8a8"
+                      },
+                      "uuid": "mpwb38er4ou2jxo89ht"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "leaf"
+                        },
+                        ""
+                      ]
+                    ]
+                  ],
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "color": "#E03E3E",
+                        "data-type": "leaf"
+                      },
+                      "（开发中，预计7月初上线）"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mpw24x4bokootfu7htr",
+                  "vAlign": "middle",
+                  "hidden": true
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mpw24x4bpbm5qlpuwwj"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {
+                "uuid": "mpuxo2f8cmvy3lej2om"
+              },
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mpuxpcoh8eeblhrxslm",
+                  "vAlign": "middle"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mpuxpcohstvwzn26c5"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "data-type": "leaf"
+                      },
+                      "示意图"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mpuxo2f87betmqra6a5",
+                  "vAlign": "middle"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mpuxo2f8n4pzw6dwk2f"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ],
+                  [
+                    "img",
+                    {
+                      "uuid": "mpw7qffxgzecajmlr5l",
+                      "name": "image.png",
+                      "size": 950559,
+                      "width": 748,
+                      "height": 480.0282790263887,
+                      "src": "/core/api/resources/img/5eecdaf48460cde5f4647f894876c5a7530094208ade44a575b8339e1c4c24831b75b38faadcd24bec177c308ebd53040f9d2b9d98c4806d09507747101cf72a73a803f5290ad19c657b5a08d8171dacdbf565d0cc2f5b994fb4c8ed7016461c",
+                      "extraData": {
+                        "resourceId": "3e19fc61-3f65-49f8-8bf9-e67c2ab2b1f8",
+                        "metaData": {
+                          "size": 950559,
+                          "originWidth": 1351,
+                          "originHeight": 867,
+                          "format": "png",
+                          "ratio": 1
+                        }
+                      }
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "leaf"
+                        },
+                        ""
+                      ]
+                    ]
+                  ],
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "uuid": "mpuxxf1bw3gudi13e9",
+                    "jc": "center"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "italic": true,
+                        "data-type": "leaf"
+                      },
+                      "图5：消费者已提交微信号状态"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mpuxo2f8r84ekzve4r",
+                  "vAlign": "middle"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mpuxo2f8jkcpcv5tgff"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ],
+                  [
+                    "img",
+                    {
+                      "uuid": "mpw7qffxta1jq52aibc",
+                      "name": "image.png",
+                      "size": 942297,
+                      "width": 322,
+                      "height": 203.76629139072847,
+                      "src": "/core/api/resources/img/5eecdaf48460cde5f4647f894876c5a7530094208ade44a575b8339e1c4c24831b75b38faadcd24bec177c308ebd530417a9bce3a4b916160a9889712afc91f1cd9c2a7e42ea256746c5d599d223add89bb3502bd95d4d344fb4c8ed7016461c",
+                      "extraData": {
+                        "resourceId": "5247360f-9973-4725-8eef-c446f9ed8675",
+                        "metaData": {
+                          "size": 942297,
+                          "originWidth": 1359,
+                          "originHeight": 860,
+                          "format": "png",
+                          "ratio": 1
+                        }
+                      }
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "leaf"
+                        },
+                        ""
+                      ]
+                    ]
+                  ],
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "uuid": "mpuxxlij48anu0vmvze",
+                    "jc": "center"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "italic": true,
+                        "data-type": "leaf"
+                      },
+                      "图6：消费者已扫码发送请求状态"
+                    ]
+                  ]
+                ]
+              ]
+            ]
+          ],
+          [
+            "hr",
+            {
+              "uuid": "mpuu8rtrsc4yxbolmj"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "h2",
+            {
+              "uuid": "mpuu8rtrltv0anjhj1"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "四、常见问题"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mpuu8rts4ho5z9z74uc"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "data-type": "leaf"
+                },
+                "问题一：开通企业微信邀约卡片须满足何种条件？"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mpuu8rtszrykqsjtrcm"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "答：商家须同时满足以下两项条件：其一，已开通线索管理功能；其二，在线索推广场景消耗超过规定金额（具体金额以系统页面提示为准）。满足条件后，功能将于次日生效。"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mreaivywxul05emextn"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "（"
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "data-type": "leaf"
+                },
+                "注：新零售商家暂不支持开通 企微邀约卡片"
+              ],
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "）"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mpuu8rtspcdm46fp7h9"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "data-type": "leaf"
+                },
+                "问题二：企业微信账号是否支持批量添加？"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mpuu8rttp3ca16ykh5"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "答：支持批量添加。商家可于邀约设置页面一次性上传多个员工企业微信账号的企微号及二维码，便于团队协同跟进线索。"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mpuu8rttzlk9ajsoji"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "data-type": "leaf"
+                },
+                "问题三：手机号加微与扫码加微有何区别？"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mpuu8rttlghljcinahh"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "答：手机号加微系消费者填写个人微信号，商家使用企业微信主动添加消费者；扫码加微系商家发送企业微信二维码，消费者主动扫码添加商家企业微信。手机号加微为系统默认开启且不可关闭，扫码加微商家可根据业务需要自主选择开启或关闭。"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mpuu8rtt018nhq4uecgp"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "data-type": "leaf"
+                },
+                "问题四：消费者填写微信号后，商家如何查看相关信息？"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mpuu8rtuo63a2rwn17"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "答：消费者提交微信号后，商家可于千牛客户端查看消费者留资信息，并通过企业微信添加消费者为好友。"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mpuu8rtuk87b9hhofo"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "data-type": "leaf"
+                },
+                "问题五：卡片状态显示\"已发送\"代表何种含义？"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mpuu8rtufjibpi6zqea"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "答：\"已发送\"状态表明消费者已成功提交留资信息（填写微信号或完成扫码），商家可据此及时跟进处理。"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mpuu8rtuuwd6mfteear"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "data-type": "leaf"
+                },
+                "问题六：企业微信邀约卡片支持哪些投放场景？"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mpuu8rtvj3zn3e7x41"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "答：本产品目前支持"
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "data-type": "leaf"
+                },
+                "线索推广"
+              ],
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "场景，商家须前置投放无界AI·线索推广，并开通客户工作台的线索管理模块，方可使用该功能。"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mpuu8rtvuzic2kv4ww"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "data-type": "leaf"
+                },
+                "问题七：若消费者填写的微信号存在错误，应如何处理？"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mpuu8rtvb8occby2g94"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "答：建议商家于添加过程中注意核对微信号格式规范。如添加失败，可与消费者联系确认正确微信号。"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mpuu8rtw5lra20ky495"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "data-type": "leaf"
+                },
+                "问题八：多名客服人员是否可同时使用企业微信邀约卡片？"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mpuu8rtwb0kzbqy94a"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "答：可以。商家于邀约设置中添加的企业微信账号，对应授权客服人员均可使用。建议商家根据团队分工合理配置账号权限。"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mpuu8rtw6k5bftheqlo"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "data-type": "leaf"
+                },
+                "问题九：企业微信邀约卡片是否收取费用？"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mpuu8rtxhlspic1zs7u"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "答：企业微信邀约卡片作为线索推广附赠功能，卡片使用本身不会收取费用，但若商家希望开通【企微会话回传】功能，则需额外付费，具体收费政策请以阿里妈妈·客户工作台为准。"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mpuu8rtxi8izmlu7h4e"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "data-type": "leaf"
+                },
+                "问题十：如何关闭扫码加微功能？"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mpuu8rtxqe9lhjgpe6"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "答：商家可于【线索管理】-【设置】-【留资渠道】页面的邀约设置模块中，关闭扫码加微选项。关闭后，消费者将无法通过扫码方式添加商家企业微信。"
+              ]
+            ]
+          ],
+          [
+            "hr",
+            {
+              "uuid": "mpuu8ru9i09suksec5d"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mpuu8rua9rqcb4gwbgs"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "data-type": "leaf"
+                },
+                "更新日期"
+              ],
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "：2026年7月"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mpuu8ruajk9z11ogdrg"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "data-type": "leaf"
+                },
+                "适用范围"
+              ],
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "：阿里妈妈线索推广产品商家"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mpuu8rubl1nv6385h7"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "data-type": "leaf"
+                },
+                "如有疑问，请联系阿里妈妈官方客服或加线索推广官方客户群（群号：159050038411）获取进一步支持。"
+              ]
+            ]
+          ]
+        ],
+        "footers": {},
+        "version": 1
+      },
+      "refs": {}
+    }
+  }
+}

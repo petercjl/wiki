@@ -1,0 +1,3887 @@
+{
+  "version": 1,
+  "type": "application/x-alidocs-package",
+  "main": "00000000-0000-0000-0000-000000000001",
+  "plugins": "00000000-0000-0000-0000-000000000002",
+  "parts": {
+    "0585918f-37d2-43b0-aeee-fc7384ed7aec": {
+      "id": "0585918f-37d2-43b0-aeee-fc7384ed7aec",
+      "type": "application/x-alidocs-plugin-draw",
+      "version": 1,
+      "data": {
+        "data": {
+          "type": "application/x-alidocs-package",
+          "version": 1,
+          "main": "stage",
+          "parts": {
+            "preferences": {
+              "id": "preferences",
+              "type": "application/x-alidocs-metadata",
+              "version": 1,
+              "data": {}
+            },
+            "shape_prompt_info": {
+              "id": "shape_prompt_info",
+              "type": "application/x-alidocs-metadata",
+              "version": 1,
+              "data": {}
+            },
+            "shape_update_info": {
+              "id": "shape_update_info",
+              "type": "application/x-alidocs-metadata",
+              "version": 1,
+              "data": {
+                "QGERyo6IF": [
+                  1756353147848,
+                  4445602179,
+                  "珈樱",
+                  1756353487371,
+                  4445602179,
+                  "珈樱"
+                ],
+                "xPofmriVO": [
+                  1756353178546,
+                  4445602179,
+                  "珈樱",
+                  1756353235464,
+                  4445602179,
+                  "珈樱"
+                ],
+                "0MSUL_WAJ": [
+                  1756353238446,
+                  4445602179,
+                  "珈樱",
+                  1756353251272,
+                  4445602179,
+                  "珈樱"
+                ],
+                "IQ10GALyWY": [
+                  0,
+                  "",
+                  "",
+                  1756353240363,
+                  4445602179,
+                  "珈樱"
+                ],
+                "ctxYAS8Cw": [
+                  1756353275695,
+                  4445602179,
+                  "珈樱",
+                  1756353280560,
+                  4445602179,
+                  "珈樱"
+                ],
+                "MwLUZEzAt": [
+                  1756353291228,
+                  4445602179,
+                  "珈樱",
+                  1756353347594,
+                  4445602179,
+                  "珈樱"
+                ],
+                "wiEtNWVEb": [
+                  1756353463357,
+                  4445602179,
+                  "珈樱",
+                  1756353477133,
+                  4445602179,
+                  "珈樱"
+                ],
+                "oPs8s9jgO7": [
+                  0,
+                  "",
+                  "",
+                  1756353464890,
+                  4445602179,
+                  "珈樱"
+                ]
+              }
+            },
+            "shape_lock_info": {
+              "id": "shape_lock_info",
+              "type": "application/x-alidocs-metadata",
+              "version": 1,
+              "data": {}
+            },
+            "tags": {
+              "id": "tags",
+              "type": "application/x-alidocs-metadata",
+              "version": 1,
+              "data": {}
+            },
+            "font_metadata": {
+              "id": "font_metadata",
+              "type": "application/x-alidocs-metadata",
+              "version": 1,
+              "data": {}
+            },
+            "stage": {
+              "id": "stage",
+              "type": "application/x-alidocs-draw",
+              "version": 1,
+              "data": {
+                "id": "stage",
+                "version": "2.0.0",
+                "title": "",
+                "description": "",
+                "background": null,
+                "dpi": 96,
+                "width": 800,
+                "height": 600,
+                "themes": [
+                  {
+                    "id": "default",
+                    "colors": {
+                      "lt1": "#FFFFFF",
+                      "dk1": "#000000",
+                      "lt2": "#E7E6E6",
+                      "dk2": "#44546A",
+                      "ac1": "#4472C4",
+                      "ac2": "#5DBEAC",
+                      "ac3": "#0089FF",
+                      "ac4": "#6C3BCF",
+                      "ac5": "#FB8C00",
+                      "ac6": "#E53935",
+                      "hlk": "#0563C1",
+                      "flk": "#954F72"
+                    },
+                    "fonts": {},
+                    "formats": {
+                      "stage": {},
+                      "scene": {
+                        "colors": {
+                          "tx1": "dk1",
+                          "sk1": "dk1",
+                          "fl1": "lt1"
+                        },
+                        "background": "transparent"
+                      },
+                      "shape": {
+                        "stroke": {
+                          "id": "cOIjfpn5JZxz",
+                          "type": "SolidColor",
+                          "content": {
+                            "value": "sk1",
+                            "lumMod": 80,
+                            "lumOff": 20
+                          }
+                        },
+                        "fill": {
+                          "id": "daDLEp3rDG7c",
+                          "type": "SolidColor",
+                          "content": {
+                            "value": "fl1",
+                            "lumMod": 20,
+                            "lumOff": 80
+                          }
+                        },
+                        "text": {
+                          "color": {
+                            "id": "ypae_xtwO2-i",
+                            "type": "SolidColor",
+                            "content": {
+                              "value": "tx1",
+                              "lumMod": 80
+                            }
+                          },
+                          "link": {
+                            "color": {
+                              "id": "qFdxL8nlLig8",
+                              "type": "SolidColor",
+                              "content": {
+                                "value": "hlk",
+                                "lumMod": 80
+                              }
+                            }
+                          },
+                          "placeholder": {
+                            "color": {
+                              "id": "GfO7jDot5ry3",
+                              "type": "SolidColor",
+                              "content": {
+                                "value": "lt1",
+                                "lumMod": 50
+                              }
+                            }
+                          }
+                        }
+                      },
+                      "extras": {
+                        "renderer": "default",
+                        "thumb": [
+                          "rgba(242, 242, 242, 0.8)",
+                          "#222"
+                        ],
+                        "colorPicker": [
+                          {
+                            "id": "lt1",
+                            "type": "ColorPickerValue",
+                            "content": [
+                              {
+                                "lumMod": 100
+                              },
+                              {
+                                "lumMod": 95
+                              },
+                              {
+                                "lumMod": 85
+                              },
+                              {
+                                "lumMod": 75
+                              },
+                              {
+                                "lumMod": 65
+                              },
+                              {
+                                "lumMod": 50
+                              }
+                            ]
+                          },
+                          {
+                            "id": "dk1",
+                            "type": "ColorPickerValue",
+                            "content": [
+                              {
+                                "lumMod": 100
+                              },
+                              {
+                                "lumMod": 50,
+                                "lumOff": 50
+                              },
+                              {
+                                "lumMod": 65,
+                                "lumOff": 35
+                              },
+                              {
+                                "lumMod": 75,
+                                "lumOff": 25
+                              },
+                              {
+                                "lumMod": 85,
+                                "lumOff": 15
+                              },
+                              {
+                                "lumMod": 95,
+                                "lumOff": 5
+                              }
+                            ]
+                          },
+                          {
+                            "id": "lt2",
+                            "type": "ColorPickerValue",
+                            "content": [
+                              {
+                                "lumMod": 100
+                              },
+                              {
+                                "lumMod": 90
+                              },
+                              {
+                                "lumMod": 75
+                              },
+                              {
+                                "lumMod": 60
+                              },
+                              {
+                                "lumMod": 40
+                              },
+                              {
+                                "lumMod": 25
+                              }
+                            ]
+                          },
+                          {
+                            "id": "dk2",
+                            "type": "ColorPickerValue",
+                            "content": [
+                              {
+                                "lumMod": 100
+                              },
+                              {
+                                "lumMod": 20,
+                                "lumOff": 80
+                              },
+                              {
+                                "lumMod": 40,
+                                "lumOff": 60
+                              },
+                              {
+                                "lumMod": 50,
+                                "lumOff": 50
+                              },
+                              {
+                                "lumMod": 60,
+                                "lumOff": 40
+                              },
+                              {
+                                "lumMod": 75,
+                                "lumOff": 25
+                              }
+                            ]
+                          },
+                          {
+                            "id": "ac1",
+                            "type": "ColorPickerValue",
+                            "content": [
+                              {
+                                "lumMod": 100
+                              },
+                              {
+                                "lumMod": 20,
+                                "lumOff": 80
+                              },
+                              {
+                                "lumMod": 40,
+                                "lumOff": 60
+                              },
+                              {
+                                "lumMod": 60,
+                                "lumOff": 40
+                              },
+                              {
+                                "lumMod": 75
+                              },
+                              {
+                                "lumMod": 50
+                              }
+                            ]
+                          },
+                          {
+                            "id": "ac2",
+                            "type": "ColorPickerValue",
+                            "content": [
+                              {
+                                "lumMod": 100
+                              },
+                              {
+                                "lumMod": 20,
+                                "lumOff": 80
+                              },
+                              {
+                                "lumMod": 40,
+                                "lumOff": 60
+                              },
+                              {
+                                "lumMod": 60,
+                                "lumOff": 40
+                              },
+                              {
+                                "lumMod": 75
+                              },
+                              {
+                                "lumMod": 50
+                              }
+                            ]
+                          },
+                          {
+                            "id": "ac3",
+                            "type": "ColorPickerValue",
+                            "content": [
+                              {
+                                "lumMod": 100
+                              },
+                              {
+                                "lumMod": 20,
+                                "lumOff": 80
+                              },
+                              {
+                                "lumMod": 40,
+                                "lumOff": 60
+                              },
+                              {
+                                "lumMod": 60,
+                                "lumOff": 40
+                              },
+                              {
+                                "lumMod": 75
+                              },
+                              {
+                                "lumMod": 50
+                              }
+                            ]
+                          },
+                          {
+                            "id": "ac4",
+                            "type": "ColorPickerValue",
+                            "content": [
+                              {
+                                "lumMod": 100
+                              },
+                              {
+                                "lumMod": 20,
+                                "lumOff": 80
+                              },
+                              {
+                                "lumMod": 40,
+                                "lumOff": 60
+                              },
+                              {
+                                "lumMod": 60,
+                                "lumOff": 40
+                              },
+                              {
+                                "lumMod": 75
+                              },
+                              {
+                                "lumMod": 50
+                              }
+                            ]
+                          },
+                          {
+                            "id": "ac5",
+                            "type": "ColorPickerValue",
+                            "content": [
+                              {
+                                "lumMod": 100
+                              },
+                              {
+                                "lumMod": 20,
+                                "lumOff": 80
+                              },
+                              {
+                                "lumMod": 40,
+                                "lumOff": 60
+                              },
+                              {
+                                "lumMod": 60,
+                                "lumOff": 40
+                              },
+                              {
+                                "lumMod": 75
+                              },
+                              {
+                                "lumMod": 50
+                              }
+                            ]
+                          },
+                          {
+                            "id": "ac6",
+                            "type": "ColorPickerValue",
+                            "content": [
+                              {
+                                "lumMod": 100
+                              },
+                              {
+                                "lumMod": 20,
+                                "lumOff": 80
+                              },
+                              {
+                                "lumMod": 40,
+                                "lumOff": 60
+                              },
+                              {
+                                "lumMod": 60,
+                                "lumOff": 40
+                              },
+                              {
+                                "lumMod": 75
+                              },
+                              {
+                                "lumMod": 50
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  {
+                    "id": "orange",
+                    "colors": {
+                      "lt1": "#FFFFFF",
+                      "dk1": "#000000",
+                      "lt2": "#FBEEC9",
+                      "dk2": "#4E3B30",
+                      "ac1": "#F0A22E",
+                      "ac2": "#A5644E",
+                      "ac3": "#B58B80",
+                      "ac4": "#C3986D",
+                      "ac5": "#A19574",
+                      "ac6": "#C17529",
+                      "hlk": "#AD1F1F",
+                      "flk": "#FFC42F"
+                    },
+                    "fonts": {},
+                    "formats": {
+                      "stage": {},
+                      "scene": {
+                        "colors": {
+                          "tx1": "ac3",
+                          "sk1": "ac3",
+                          "fl1": "ac3"
+                        },
+                        "background": {
+                          "id": "qumwBIM9U1",
+                          "type": "SolidColor",
+                          "content": {
+                            "value": "dk2",
+                            "lumMod": 20,
+                            "lumOff": 90
+                          }
+                        }
+                      },
+                      "shape": {
+                        "stroke": {
+                          "id": "vHtsMZDDDC",
+                          "type": "SolidColor",
+                          "content": {
+                            "value": "sk1",
+                            "lumMod": 80,
+                            "lumOff": 20
+                          }
+                        },
+                        "fill": {
+                          "id": "gdqx3j5VT2",
+                          "type": "SolidColor",
+                          "content": {
+                            "value": "fl1",
+                            "lumMod": 20,
+                            "lumOff": 80
+                          }
+                        },
+                        "text": {
+                          "color": {
+                            "id": "_zClC9Jl0e",
+                            "type": "SolidColor",
+                            "content": {
+                              "value": "tx1",
+                              "lumMod": 80
+                            }
+                          },
+                          "link": {
+                            "color": {
+                              "id": "DAaQaDqCw2",
+                              "type": "SolidColor",
+                              "content": {
+                                "value": "hlk",
+                                "lumMod": 80
+                              }
+                            }
+                          },
+                          "placeholder": {
+                            "color": {
+                              "id": "fgarE-tesn",
+                              "type": "SolidColor",
+                              "content": {
+                                "value": "lt1",
+                                "lumMod": 50
+                              }
+                            }
+                          }
+                        }
+                      },
+                      "extras": {
+                        "renderer": "default",
+                        "thumb": [
+                          "rgba(245, 241, 239, 0.8)",
+                          "rgb(136, 95, 80)"
+                        ],
+                        "colorPicker": [
+                          {
+                            "id": "lt1",
+                            "type": "ColorPickerValue",
+                            "content": [
+                              {
+                                "lumMod": 100
+                              },
+                              {
+                                "lumMod": 95
+                              },
+                              {
+                                "lumMod": 85
+                              },
+                              {
+                                "lumMod": 75
+                              },
+                              {
+                                "lumMod": 65
+                              },
+                              {
+                                "lumMod": 50
+                              }
+                            ]
+                          },
+                          {
+                            "id": "dk1",
+                            "type": "ColorPickerValue",
+                            "content": [
+                              {
+                                "lumMod": 100
+                              },
+                              {
+                                "lumMod": 50,
+                                "lumOff": 50
+                              },
+                              {
+                                "lumMod": 65,
+                                "lumOff": 35
+                              },
+                              {
+                                "lumMod": 75,
+                                "lumOff": 25
+                              },
+                              {
+                                "lumMod": 85,
+                                "lumOff": 15
+                              },
+                              {
+                                "lumMod": 95,
+                                "lumOff": 5
+                              }
+                            ]
+                          },
+                          {
+                            "id": "lt2",
+                            "type": "ColorPickerValue",
+                            "content": [
+                              {
+                                "lumMod": 100
+                              },
+                              {
+                                "lumMod": 90
+                              },
+                              {
+                                "lumMod": 75
+                              },
+                              {
+                                "lumMod": 50
+                              },
+                              {
+                                "lumMod": 25
+                              },
+                              {
+                                "lumMod": 10
+                              }
+                            ]
+                          },
+                          {
+                            "id": "dk2",
+                            "type": "ColorPickerValue",
+                            "content": [
+                              {
+                                "lumMod": 100
+                              },
+                              {
+                                "lumMod": 20,
+                                "lumOff": 80
+                              },
+                              {
+                                "lumMod": 40,
+                                "lumOff": 60
+                              },
+                              {
+                                "lumMod": 50,
+                                "lumOff": 50
+                              },
+                              {
+                                "lumMod": 60,
+                                "lumOff": 40
+                              },
+                              {
+                                "lumMod": 75,
+                                "lumOff": 25
+                              }
+                            ]
+                          },
+                          {
+                            "id": "ac1",
+                            "type": "ColorPickerValue",
+                            "content": [
+                              {
+                                "lumMod": 100
+                              },
+                              {
+                                "lumMod": 20,
+                                "lumOff": 80
+                              },
+                              {
+                                "lumMod": 40,
+                                "lumOff": 60
+                              },
+                              {
+                                "lumMod": 60,
+                                "lumOff": 40
+                              },
+                              {
+                                "lumMod": 75
+                              },
+                              {
+                                "lumMod": 50
+                              }
+                            ]
+                          },
+                          {
+                            "id": "ac2",
+                            "type": "ColorPickerValue",
+                            "content": [
+                              {
+                                "lumMod": 100
+                              },
+                              {
+                                "lumMod": 20,
+                                "lumOff": 80
+                              },
+                              {
+                                "lumMod": 40,
+                                "lumOff": 60
+                              },
+                              {
+                                "lumMod": 60,
+                                "lumOff": 40
+                              },
+                              {
+                                "lumMod": 75
+                              },
+                              {
+                                "lumMod": 50
+                              }
+                            ]
+                          },
+                          {
+                            "id": "ac3",
+                            "type": "ColorPickerValue",
+                            "content": [
+                              {
+                                "lumMod": 100
+                              },
+                              {
+                                "lumMod": 20,
+                                "lumOff": 80
+                              },
+                              {
+                                "lumMod": 40,
+                                "lumOff": 60
+                              },
+                              {
+                                "lumMod": 60,
+                                "lumOff": 40
+                              },
+                              {
+                                "lumMod": 75
+                              },
+                              {
+                                "lumMod": 50
+                              }
+                            ]
+                          },
+                          {
+                            "id": "ac4",
+                            "type": "ColorPickerValue",
+                            "content": [
+                              {
+                                "lumMod": 100
+                              },
+                              {
+                                "lumMod": 20,
+                                "lumOff": 80
+                              },
+                              {
+                                "lumMod": 40,
+                                "lumOff": 60
+                              },
+                              {
+                                "lumMod": 60,
+                                "lumOff": 40
+                              },
+                              {
+                                "lumMod": 75
+                              },
+                              {
+                                "lumMod": 50
+                              }
+                            ]
+                          },
+                          {
+                            "id": "ac5",
+                            "type": "ColorPickerValue",
+                            "content": [
+                              {
+                                "lumMod": 100
+                              },
+                              {
+                                "lumMod": 20,
+                                "lumOff": 80
+                              },
+                              {
+                                "lumMod": 40,
+                                "lumOff": 60
+                              },
+                              {
+                                "lumMod": 60,
+                                "lumOff": 40
+                              },
+                              {
+                                "lumMod": 75
+                              },
+                              {
+                                "lumMod": 50
+                              }
+                            ]
+                          },
+                          {
+                            "id": "ac6",
+                            "type": "ColorPickerValue",
+                            "content": [
+                              {
+                                "lumMod": 100
+                              },
+                              {
+                                "lumMod": 20,
+                                "lumOff": 80
+                              },
+                              {
+                                "lumMod": 40,
+                                "lumOff": 60
+                              },
+                              {
+                                "lumMod": 60,
+                                "lumOff": 40
+                              },
+                              {
+                                "lumMod": 75
+                              },
+                              {
+                                "lumMod": 50
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  {
+                    "id": "dark",
+                    "colors": {
+                      "lt1": "#FFFFFF",
+                      "dk1": "#000000",
+                      "lt2": "#F3F3F3",
+                      "dk2": "#1C1F21",
+                      "ac1": "#6089CD",
+                      "ac2": "#37A4D0",
+                      "ac3": "#5AADA8",
+                      "ac4": "#EBAF42",
+                      "ac5": "#D67B25",
+                      "ac6": "#CA6042",
+                      "hlk": "#6B9F25",
+                      "flk": "#9F6715"
+                    },
+                    "fonts": {},
+                    "formats": {
+                      "stage": {},
+                      "scene": {
+                        "colors": {
+                          "tx1": "ac3",
+                          "sk1": "ac3",
+                          "fl1": "ac3"
+                        },
+                        "background": {
+                          "id": "zMs_p3havYM",
+                          "type": "SolidColor",
+                          "content": {
+                            "value": "dk2",
+                            "lumMod": 105
+                          }
+                        }
+                      },
+                      "shape": {
+                        "stroke": {
+                          "id": "pOBJMhbpyUC",
+                          "type": "SolidColor",
+                          "content": {
+                            "value": "sk1",
+                            "lumMod": 80,
+                            "lumOff": 20
+                          }
+                        },
+                        "fill": {
+                          "id": "heWZGvXCTt9",
+                          "type": "SolidColor",
+                          "content": {
+                            "value": "fl1",
+                            "lumMod": 20,
+                            "lumOff": 80
+                          }
+                        },
+                        "text": {
+                          "color": {
+                            "id": "aKEq_PAdIcj",
+                            "type": "SolidColor",
+                            "content": {
+                              "value": "tx1",
+                              "lumMod": 80
+                            }
+                          },
+                          "link": {
+                            "color": {
+                              "id": "w3iYopAy1z_",
+                              "type": "SolidColor",
+                              "content": {
+                                "value": "hlk",
+                                "lumMod": 80
+                              }
+                            }
+                          },
+                          "placeholder": {
+                            "color": {
+                              "id": "uDCK5moD3GN",
+                              "type": "SolidColor",
+                              "content": {
+                                "value": "lt1",
+                                "lumMod": 50
+                              }
+                            }
+                          }
+                        }
+                      },
+                      "extras": {
+                        "renderer": "default",
+                        "thumb": [
+                          "rgb(29, 33, 35)",
+                          "rgba(231, 231, 231, 1)"
+                        ],
+                        "colorPicker": [
+                          {
+                            "id": "lt1",
+                            "type": "ColorPickerValue",
+                            "content": [
+                              {
+                                "lumMod": 100
+                              },
+                              {
+                                "lumMod": 95
+                              },
+                              {
+                                "lumMod": 85
+                              },
+                              {
+                                "lumMod": 75
+                              },
+                              {
+                                "lumMod": 65
+                              },
+                              {
+                                "lumMod": 50
+                              }
+                            ]
+                          },
+                          {
+                            "id": "dk1",
+                            "type": "ColorPickerValue",
+                            "content": [
+                              {
+                                "lumMod": 100
+                              },
+                              {
+                                "lumMod": 50,
+                                "lumOff": 50
+                              },
+                              {
+                                "lumMod": 65,
+                                "lumOff": 35
+                              },
+                              {
+                                "lumMod": 75,
+                                "lumOff": 25
+                              },
+                              {
+                                "lumMod": 85,
+                                "lumOff": 15
+                              },
+                              {
+                                "lumMod": 95,
+                                "lumOff": 5
+                              }
+                            ]
+                          },
+                          {
+                            "id": "lt2",
+                            "type": "ColorPickerValue",
+                            "content": [
+                              {
+                                "lumMod": 100
+                              },
+                              {
+                                "lumMod": 90
+                              },
+                              {
+                                "lumMod": 75
+                              },
+                              {
+                                "lumMod": 60
+                              },
+                              {
+                                "lumMod": 40
+                              },
+                              {
+                                "lumMod": 25
+                              }
+                            ]
+                          },
+                          {
+                            "id": "dk2",
+                            "type": "ColorPickerValue",
+                            "content": [
+                              {
+                                "lumMod": 100
+                              },
+                              {
+                                "lumMod": 20,
+                                "lumOff": 80
+                              },
+                              {
+                                "lumMod": 40,
+                                "lumOff": 60
+                              },
+                              {
+                                "lumMod": 50,
+                                "lumOff": 50
+                              },
+                              {
+                                "lumMod": 60,
+                                "lumOff": 40
+                              },
+                              {
+                                "lumMod": 75,
+                                "lumOff": 25
+                              }
+                            ]
+                          },
+                          {
+                            "id": "ac1",
+                            "type": "ColorPickerValue",
+                            "content": [
+                              {
+                                "lumMod": 100
+                              },
+                              {
+                                "lumMod": 20,
+                                "lumOff": 80
+                              },
+                              {
+                                "lumMod": 40,
+                                "lumOff": 60
+                              },
+                              {
+                                "lumMod": 60,
+                                "lumOff": 40
+                              },
+                              {
+                                "lumMod": 75
+                              },
+                              {
+                                "lumMod": 50
+                              }
+                            ]
+                          },
+                          {
+                            "id": "ac2",
+                            "type": "ColorPickerValue",
+                            "content": [
+                              {
+                                "lumMod": 100
+                              },
+                              {
+                                "lumMod": 20,
+                                "lumOff": 80
+                              },
+                              {
+                                "lumMod": 40,
+                                "lumOff": 60
+                              },
+                              {
+                                "lumMod": 60,
+                                "lumOff": 40
+                              },
+                              {
+                                "lumMod": 75
+                              },
+                              {
+                                "lumMod": 50
+                              }
+                            ]
+                          },
+                          {
+                            "id": "ac3",
+                            "type": "ColorPickerValue",
+                            "content": [
+                              {
+                                "lumMod": 100
+                              },
+                              {
+                                "lumMod": 20,
+                                "lumOff": 80
+                              },
+                              {
+                                "lumMod": 40,
+                                "lumOff": 60
+                              },
+                              {
+                                "lumMod": 60,
+                                "lumOff": 40
+                              },
+                              {
+                                "lumMod": 75
+                              },
+                              {
+                                "lumMod": 50
+                              }
+                            ]
+                          },
+                          {
+                            "id": "ac4",
+                            "type": "ColorPickerValue",
+                            "content": [
+                              {
+                                "lumMod": 100
+                              },
+                              {
+                                "lumMod": 20,
+                                "lumOff": 80
+                              },
+                              {
+                                "lumMod": 40,
+                                "lumOff": 60
+                              },
+                              {
+                                "lumMod": 60,
+                                "lumOff": 40
+                              },
+                              {
+                                "lumMod": 75
+                              },
+                              {
+                                "lumMod": 50
+                              }
+                            ]
+                          },
+                          {
+                            "id": "ac5",
+                            "type": "ColorPickerValue",
+                            "content": [
+                              {
+                                "lumMod": 100
+                              },
+                              {
+                                "lumMod": 20,
+                                "lumOff": 80
+                              },
+                              {
+                                "lumMod": 40,
+                                "lumOff": 60
+                              },
+                              {
+                                "lumMod": 60,
+                                "lumOff": 40
+                              },
+                              {
+                                "lumMod": 75
+                              },
+                              {
+                                "lumMod": 50
+                              }
+                            ]
+                          },
+                          {
+                            "id": "ac6",
+                            "type": "ColorPickerValue",
+                            "content": [
+                              {
+                                "lumMod": 100
+                              },
+                              {
+                                "lumMod": 20,
+                                "lumOff": 80
+                              },
+                              {
+                                "lumMod": 40,
+                                "lumOff": 60
+                              },
+                              {
+                                "lumMod": 60,
+                                "lumOff": 40
+                              },
+                              {
+                                "lumMod": 75
+                              },
+                              {
+                                "lumMod": 50
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  {
+                    "id": "peach",
+                    "colors": {
+                      "lt1": "#FFFFFF",
+                      "dk1": "#000000",
+                      "lt2": "#F3F3F3",
+                      "dk2": "#141B18",
+                      "ac1": "#BA55D3",
+                      "ac2": "#8CB17C",
+                      "ac3": "#2C7050",
+                      "ac4": "#F3B9B9",
+                      "ac5": "#DB7B7C",
+                      "ac6": "#D0C69B",
+                      "hlk": "#EE7B08",
+                      "flk": "#977B2D"
+                    },
+                    "fonts": {},
+                    "formats": {
+                      "stage": {},
+                      "scene": {
+                        "colors": {
+                          "tx1": "ac2",
+                          "sk1": "ac3",
+                          "fl1": "ac3"
+                        },
+                        "background": {
+                          "id": "E4OmDrPSnw_",
+                          "type": "SolidColor",
+                          "content": {
+                            "value": "dk2",
+                            "lumMod": 105
+                          }
+                        }
+                      },
+                      "shape": {
+                        "stroke": {
+                          "id": "H0imJ6iJowe",
+                          "type": "SolidColor",
+                          "content": {
+                            "value": "sk1",
+                            "lumMod": 80,
+                            "lumOff": 20
+                          }
+                        },
+                        "fill": {
+                          "id": "IEeZ5AMrZOr",
+                          "type": "SolidColor",
+                          "content": {
+                            "value": "fl1",
+                            "lumMod": 20,
+                            "lumOff": 80
+                          }
+                        },
+                        "text": {
+                          "color": {
+                            "id": "fe6GPCID0Kp",
+                            "type": "SolidColor",
+                            "content": {
+                              "value": "tx1",
+                              "lumMod": 80
+                            }
+                          },
+                          "link": {
+                            "color": {
+                              "id": "ssnh90JNAQr",
+                              "type": "SolidColor",
+                              "content": {
+                                "value": "hlk",
+                                "lumMod": 80
+                              }
+                            }
+                          },
+                          "placeholder": {
+                            "color": {
+                              "id": "kjtHbTxXWlA",
+                              "type": "SolidColor",
+                              "content": {
+                                "value": "lt1",
+                                "lumMod": 50
+                              }
+                            }
+                          }
+                        }
+                      },
+                      "extras": {
+                        "renderer": "default",
+                        "thumb": [
+                          "rgb(21, 28, 25)",
+                          "rgba(231, 231, 231, 1)"
+                        ],
+                        "colorPicker": [
+                          {
+                            "id": "lt1",
+                            "type": "ColorPickerValue",
+                            "content": [
+                              {
+                                "lumMod": 100
+                              },
+                              {
+                                "lumMod": 95
+                              },
+                              {
+                                "lumMod": 85
+                              },
+                              {
+                                "lumMod": 75
+                              },
+                              {
+                                "lumMod": 65
+                              },
+                              {
+                                "lumMod": 50
+                              }
+                            ]
+                          },
+                          {
+                            "id": "dk1",
+                            "type": "ColorPickerValue",
+                            "content": [
+                              {
+                                "lumMod": 100
+                              },
+                              {
+                                "lumMod": 50,
+                                "lumOff": 50
+                              },
+                              {
+                                "lumMod": 65,
+                                "lumOff": 35
+                              },
+                              {
+                                "lumMod": 75,
+                                "lumOff": 25
+                              },
+                              {
+                                "lumMod": 85,
+                                "lumOff": 15
+                              },
+                              {
+                                "lumMod": 95,
+                                "lumOff": 5
+                              }
+                            ]
+                          },
+                          {
+                            "id": "lt2",
+                            "type": "ColorPickerValue",
+                            "content": [
+                              {
+                                "lumMod": 100
+                              },
+                              {
+                                "lumMod": 90
+                              },
+                              {
+                                "lumMod": 75
+                              },
+                              {
+                                "lumMod": 60
+                              },
+                              {
+                                "lumMod": 40
+                              },
+                              {
+                                "lumMod": 25
+                              }
+                            ]
+                          },
+                          {
+                            "id": "dk2",
+                            "type": "ColorPickerValue",
+                            "content": [
+                              {
+                                "lumMod": 100
+                              },
+                              {
+                                "lumMod": 20,
+                                "lumOff": 80
+                              },
+                              {
+                                "lumMod": 40,
+                                "lumOff": 60
+                              },
+                              {
+                                "lumMod": 50,
+                                "lumOff": 50
+                              },
+                              {
+                                "lumMod": 60,
+                                "lumOff": 40
+                              },
+                              {
+                                "lumMod": 75,
+                                "lumOff": 25
+                              }
+                            ]
+                          },
+                          {
+                            "id": "ac1",
+                            "type": "ColorPickerValue",
+                            "content": [
+                              {
+                                "lumMod": 100
+                              },
+                              {
+                                "lumMod": 20,
+                                "lumOff": 80
+                              },
+                              {
+                                "lumMod": 40,
+                                "lumOff": 60
+                              },
+                              {
+                                "lumMod": 60,
+                                "lumOff": 40
+                              },
+                              {
+                                "lumMod": 75
+                              },
+                              {
+                                "lumMod": 50
+                              }
+                            ]
+                          },
+                          {
+                            "id": "ac2",
+                            "type": "ColorPickerValue",
+                            "content": [
+                              {
+                                "lumMod": 100
+                              },
+                              {
+                                "lumMod": 20,
+                                "lumOff": 80
+                              },
+                              {
+                                "lumMod": 40,
+                                "lumOff": 60
+                              },
+                              {
+                                "lumMod": 60,
+                                "lumOff": 40
+                              },
+                              {
+                                "lumMod": 75
+                              },
+                              {
+                                "lumMod": 50
+                              }
+                            ]
+                          },
+                          {
+                            "id": "ac3",
+                            "type": "ColorPickerValue",
+                            "content": [
+                              {
+                                "lumMod": 100
+                              },
+                              {
+                                "lumMod": 20,
+                                "lumOff": 80
+                              },
+                              {
+                                "lumMod": 40,
+                                "lumOff": 60
+                              },
+                              {
+                                "lumMod": 60,
+                                "lumOff": 40
+                              },
+                              {
+                                "lumMod": 75
+                              },
+                              {
+                                "lumMod": 50
+                              }
+                            ]
+                          },
+                          {
+                            "id": "ac4",
+                            "type": "ColorPickerValue",
+                            "content": [
+                              {
+                                "lumMod": 100
+                              },
+                              {
+                                "lumMod": 20,
+                                "lumOff": 80
+                              },
+                              {
+                                "lumMod": 40,
+                                "lumOff": 60
+                              },
+                              {
+                                "lumMod": 60,
+                                "lumOff": 40
+                              },
+                              {
+                                "lumMod": 75
+                              },
+                              {
+                                "lumMod": 50
+                              }
+                            ]
+                          },
+                          {
+                            "id": "ac5",
+                            "type": "ColorPickerValue",
+                            "content": [
+                              {
+                                "lumMod": 100
+                              },
+                              {
+                                "lumMod": 20,
+                                "lumOff": 80
+                              },
+                              {
+                                "lumMod": 40,
+                                "lumOff": 60
+                              },
+                              {
+                                "lumMod": 60,
+                                "lumOff": 40
+                              },
+                              {
+                                "lumMod": 75
+                              },
+                              {
+                                "lumMod": 50
+                              }
+                            ]
+                          },
+                          {
+                            "id": "ac6",
+                            "type": "ColorPickerValue",
+                            "content": [
+                              {
+                                "lumMod": 100
+                              },
+                              {
+                                "lumMod": 20,
+                                "lumOff": 80
+                              },
+                              {
+                                "lumMod": 40,
+                                "lumOff": 60
+                              },
+                              {
+                                "lumMod": 60,
+                                "lumOff": 40
+                              },
+                              {
+                                "lumMod": 75
+                              },
+                              {
+                                "lumMod": 50
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  {
+                    "id": "violet",
+                    "colors": {
+                      "lt1": "#FFFFFF",
+                      "dk1": "#000000",
+                      "lt2": "#DCD8DC",
+                      "dk2": "#373545",
+                      "ac1": "#AD84C6",
+                      "ac2": "#8784C7",
+                      "ac3": "#5D739A",
+                      "ac4": "#6997AF",
+                      "ac5": "#84ACB6",
+                      "ac6": "#6F8183",
+                      "hlk": "#69A020",
+                      "flk": "#8C8C8C"
+                    },
+                    "fonts": {},
+                    "formats": {
+                      "stage": {},
+                      "scene": {
+                        "colors": {
+                          "tx1": "ac3",
+                          "sk1": "ac3",
+                          "fl1": "ac3"
+                        },
+                        "background": {
+                          "id": "r7-leQWYTBT",
+                          "type": "SolidColor",
+                          "content": {
+                            "value": "lt2",
+                            "lumMod": 105
+                          }
+                        }
+                      },
+                      "shape": {
+                        "stroke": {
+                          "id": "dJnXjqNwjOP",
+                          "type": "SolidColor",
+                          "content": {
+                            "value": "sk1",
+                            "lumMod": 80,
+                            "lumOff": 20
+                          }
+                        },
+                        "fill": {
+                          "id": "FvuEL1w2JJF",
+                          "type": "SolidColor",
+                          "content": {
+                            "value": "fl1",
+                            "lumMod": 20,
+                            "lumOff": 80
+                          }
+                        },
+                        "text": {
+                          "color": {
+                            "id": "6hW0y-PTtCc",
+                            "type": "SolidColor",
+                            "content": {
+                              "value": "tx1",
+                              "lumMod": 80
+                            }
+                          },
+                          "link": {
+                            "color": {
+                              "id": "C4Fsi9CS3Sh",
+                              "type": "SolidColor",
+                              "content": {
+                                "value": "hlk",
+                                "lumMod": 80
+                              }
+                            }
+                          },
+                          "placeholder": {
+                            "color": {
+                              "id": "DOrsoS_PYss",
+                              "type": "SolidColor",
+                              "content": {
+                                "value": "lt1",
+                                "lumMod": 50
+                              }
+                            }
+                          }
+                        }
+                      },
+                      "extras": {
+                        "renderer": "default",
+                        "thumb": [
+                          "rgb(230, 227, 230)",
+                          "rgba(74, 92, 123, 1)"
+                        ],
+                        "colorPicker": [
+                          {
+                            "id": "lt1",
+                            "type": "ColorPickerValue",
+                            "content": [
+                              {
+                                "lumMod": 100
+                              },
+                              {
+                                "lumMod": 95
+                              },
+                              {
+                                "lumMod": 85
+                              },
+                              {
+                                "lumMod": 75
+                              },
+                              {
+                                "lumMod": 65
+                              },
+                              {
+                                "lumMod": 50
+                              }
+                            ]
+                          },
+                          {
+                            "id": "dk1",
+                            "type": "ColorPickerValue",
+                            "content": [
+                              {
+                                "lumMod": 100
+                              },
+                              {
+                                "lumMod": 50,
+                                "lumOff": 50
+                              },
+                              {
+                                "lumMod": 65,
+                                "lumOff": 35
+                              },
+                              {
+                                "lumMod": 75,
+                                "lumOff": 25
+                              },
+                              {
+                                "lumMod": 85,
+                                "lumOff": 15
+                              },
+                              {
+                                "lumMod": 95,
+                                "lumOff": 5
+                              }
+                            ]
+                          },
+                          {
+                            "id": "lt2",
+                            "type": "ColorPickerValue",
+                            "content": [
+                              {
+                                "lumMod": 100
+                              },
+                              {
+                                "lumMod": 90
+                              },
+                              {
+                                "lumMod": 75
+                              },
+                              {
+                                "lumMod": 60
+                              },
+                              {
+                                "lumMod": 40
+                              },
+                              {
+                                "lumMod": 25
+                              }
+                            ]
+                          },
+                          {
+                            "id": "dk2",
+                            "type": "ColorPickerValue",
+                            "content": [
+                              {
+                                "lumMod": 100
+                              },
+                              {
+                                "lumMod": 20,
+                                "lumOff": 80
+                              },
+                              {
+                                "lumMod": 40,
+                                "lumOff": 60
+                              },
+                              {
+                                "lumMod": 50,
+                                "lumOff": 50
+                              },
+                              {
+                                "lumMod": 60,
+                                "lumOff": 40
+                              },
+                              {
+                                "lumMod": 75,
+                                "lumOff": 25
+                              }
+                            ]
+                          },
+                          {
+                            "id": "ac1",
+                            "type": "ColorPickerValue",
+                            "content": [
+                              {
+                                "lumMod": 100
+                              },
+                              {
+                                "lumMod": 20,
+                                "lumOff": 80
+                              },
+                              {
+                                "lumMod": 40,
+                                "lumOff": 60
+                              },
+                              {
+                                "lumMod": 60,
+                                "lumOff": 40
+                              },
+                              {
+                                "lumMod": 75
+                              },
+                              {
+                                "lumMod": 50
+                              }
+                            ]
+                          },
+                          {
+                            "id": "ac2",
+                            "type": "ColorPickerValue",
+                            "content": [
+                              {
+                                "lumMod": 100
+                              },
+                              {
+                                "lumMod": 20,
+                                "lumOff": 80
+                              },
+                              {
+                                "lumMod": 40,
+                                "lumOff": 60
+                              },
+                              {
+                                "lumMod": 60,
+                                "lumOff": 40
+                              },
+                              {
+                                "lumMod": 75
+                              },
+                              {
+                                "lumMod": 50
+                              }
+                            ]
+                          },
+                          {
+                            "id": "ac3",
+                            "type": "ColorPickerValue",
+                            "content": [
+                              {
+                                "lumMod": 100
+                              },
+                              {
+                                "lumMod": 20,
+                                "lumOff": 80
+                              },
+                              {
+                                "lumMod": 40,
+                                "lumOff": 60
+                              },
+                              {
+                                "lumMod": 60,
+                                "lumOff": 40
+                              },
+                              {
+                                "lumMod": 75
+                              },
+                              {
+                                "lumMod": 50
+                              }
+                            ]
+                          },
+                          {
+                            "id": "ac4",
+                            "type": "ColorPickerValue",
+                            "content": [
+                              {
+                                "lumMod": 100
+                              },
+                              {
+                                "lumMod": 20,
+                                "lumOff": 80
+                              },
+                              {
+                                "lumMod": 40,
+                                "lumOff": 60
+                              },
+                              {
+                                "lumMod": 60,
+                                "lumOff": 40
+                              },
+                              {
+                                "lumMod": 75
+                              },
+                              {
+                                "lumMod": 50
+                              }
+                            ]
+                          },
+                          {
+                            "id": "ac5",
+                            "type": "ColorPickerValue",
+                            "content": [
+                              {
+                                "lumMod": 100
+                              },
+                              {
+                                "lumMod": 20,
+                                "lumOff": 80
+                              },
+                              {
+                                "lumMod": 40,
+                                "lumOff": 60
+                              },
+                              {
+                                "lumMod": 60,
+                                "lumOff": 40
+                              },
+                              {
+                                "lumMod": 75
+                              },
+                              {
+                                "lumMod": 50
+                              }
+                            ]
+                          },
+                          {
+                            "id": "ac6",
+                            "type": "ColorPickerValue",
+                            "content": [
+                              {
+                                "lumMod": 100
+                              },
+                              {
+                                "lumMod": 20,
+                                "lumOff": 80
+                              },
+                              {
+                                "lumMod": 40,
+                                "lumOff": 60
+                              },
+                              {
+                                "lumMod": 60,
+                                "lumOff": 40
+                              },
+                              {
+                                "lumMod": 75
+                              },
+                              {
+                                "lumMod": 50
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  {
+                    "id": "point",
+                    "colors": {
+                      "lt1": "#FFFFFF",
+                      "dk1": "#000000",
+                      "lt2": "#E3DED1",
+                      "dk2": "#323232",
+                      "ac1": "#F07F09",
+                      "ac2": "#9F2936",
+                      "ac3": "#1B587C",
+                      "ac4": "#4E8542",
+                      "ac5": "#604878",
+                      "ac6": "#C19859",
+                      "hlk": "#6B9F25",
+                      "flk": "#B26B02"
+                    },
+                    "fonts": {},
+                    "formats": {
+                      "stage": {},
+                      "scene": {
+                        "colors": {
+                          "tx1": "ac3",
+                          "sk1": "ac3",
+                          "fl1": "ac3"
+                        },
+                        "background": {
+                          "id": "LbYwaGBkVZ8",
+                          "type": "SolidColor",
+                          "content": {
+                            "value": "lt2",
+                            "lumMod": 105
+                          }
+                        }
+                      },
+                      "shape": {
+                        "stroke": {
+                          "id": "KnKuQtz2lXB",
+                          "type": "SolidColor",
+                          "content": {
+                            "value": "sk1",
+                            "lumMod": 80,
+                            "lumOff": 20
+                          }
+                        },
+                        "fill": {
+                          "id": "pT1Uc5-zr9b",
+                          "type": "SolidColor",
+                          "content": {
+                            "value": "fl1",
+                            "lumMod": 20,
+                            "lumOff": 80
+                          }
+                        },
+                        "text": {
+                          "color": {
+                            "id": "IR2w-zvur6o",
+                            "type": "SolidColor",
+                            "content": {
+                              "value": "tx1",
+                              "lumMod": 80
+                            }
+                          },
+                          "link": {
+                            "color": {
+                              "id": "CDS_vL6b2JJ",
+                              "type": "SolidColor",
+                              "content": {
+                                "value": "hlk",
+                                "lumMod": 80
+                              }
+                            }
+                          },
+                          "placeholder": {
+                            "color": {
+                              "id": "2O7YREfzj2Y",
+                              "type": "SolidColor",
+                              "content": {
+                                "value": "lt1",
+                                "lumMod": 50
+                              }
+                            }
+                          }
+                        }
+                      },
+                      "extras": {
+                        "renderer": "default",
+                        "thumb": [
+                          "rgb(235, 232, 223)",
+                          "rgba(22, 70, 99, 1)"
+                        ],
+                        "colorPicker": [
+                          {
+                            "id": "lt1",
+                            "type": "ColorPickerValue",
+                            "content": [
+                              {
+                                "lumMod": 100
+                              },
+                              {
+                                "lumMod": 95
+                              },
+                              {
+                                "lumMod": 85
+                              },
+                              {
+                                "lumMod": 75
+                              },
+                              {
+                                "lumMod": 65
+                              },
+                              {
+                                "lumMod": 50
+                              }
+                            ]
+                          },
+                          {
+                            "id": "dk1",
+                            "type": "ColorPickerValue",
+                            "content": [
+                              {
+                                "lumMod": 100
+                              },
+                              {
+                                "lumMod": 50,
+                                "lumOff": 50
+                              },
+                              {
+                                "lumMod": 65,
+                                "lumOff": 35
+                              },
+                              {
+                                "lumMod": 75,
+                                "lumOff": 25
+                              },
+                              {
+                                "lumMod": 85,
+                                "lumOff": 15
+                              },
+                              {
+                                "lumMod": 95,
+                                "lumOff": 5
+                              }
+                            ]
+                          },
+                          {
+                            "id": "lt2",
+                            "type": "ColorPickerValue",
+                            "content": [
+                              {
+                                "lumMod": 100
+                              },
+                              {
+                                "lumMod": 90
+                              },
+                              {
+                                "lumMod": 75
+                              },
+                              {
+                                "lumMod": 50
+                              },
+                              {
+                                "lumMod": 25
+                              },
+                              {
+                                "lumMod": 10
+                              }
+                            ]
+                          },
+                          {
+                            "id": "dk2",
+                            "type": "ColorPickerValue",
+                            "content": [
+                              {
+                                "lumMod": 100
+                              },
+                              {
+                                "lumMod": 20,
+                                "lumOff": 90
+                              },
+                              {
+                                "lumMod": 40,
+                                "lumOff": 75
+                              },
+                              {
+                                "lumMod": 50,
+                                "lumOff": 50
+                              },
+                              {
+                                "lumMod": 60,
+                                "lumOff": 25
+                              },
+                              {
+                                "lumMod": 75,
+                                "lumOff": 10
+                              }
+                            ]
+                          },
+                          {
+                            "id": "ac1",
+                            "type": "ColorPickerValue",
+                            "content": [
+                              {
+                                "lumMod": 100
+                              },
+                              {
+                                "lumMod": 20,
+                                "lumOff": 80
+                              },
+                              {
+                                "lumMod": 40,
+                                "lumOff": 60
+                              },
+                              {
+                                "lumMod": 60,
+                                "lumOff": 40
+                              },
+                              {
+                                "lumMod": 75
+                              },
+                              {
+                                "lumMod": 50
+                              }
+                            ]
+                          },
+                          {
+                            "id": "ac2",
+                            "type": "ColorPickerValue",
+                            "content": [
+                              {
+                                "lumMod": 100
+                              },
+                              {
+                                "lumMod": 20,
+                                "lumOff": 80
+                              },
+                              {
+                                "lumMod": 40,
+                                "lumOff": 60
+                              },
+                              {
+                                "lumMod": 60,
+                                "lumOff": 40
+                              },
+                              {
+                                "lumMod": 75
+                              },
+                              {
+                                "lumMod": 50
+                              }
+                            ]
+                          },
+                          {
+                            "id": "ac3",
+                            "type": "ColorPickerValue",
+                            "content": [
+                              {
+                                "lumMod": 100
+                              },
+                              {
+                                "lumMod": 20,
+                                "lumOff": 80
+                              },
+                              {
+                                "lumMod": 40,
+                                "lumOff": 60
+                              },
+                              {
+                                "lumMod": 60,
+                                "lumOff": 40
+                              },
+                              {
+                                "lumMod": 75
+                              },
+                              {
+                                "lumMod": 50
+                              }
+                            ]
+                          },
+                          {
+                            "id": "ac4",
+                            "type": "ColorPickerValue",
+                            "content": [
+                              {
+                                "lumMod": 100
+                              },
+                              {
+                                "lumMod": 20,
+                                "lumOff": 80
+                              },
+                              {
+                                "lumMod": 40,
+                                "lumOff": 60
+                              },
+                              {
+                                "lumMod": 60,
+                                "lumOff": 40
+                              },
+                              {
+                                "lumMod": 75
+                              },
+                              {
+                                "lumMod": 50
+                              }
+                            ]
+                          },
+                          {
+                            "id": "ac5",
+                            "type": "ColorPickerValue",
+                            "content": [
+                              {
+                                "lumMod": 100
+                              },
+                              {
+                                "lumMod": 20,
+                                "lumOff": 80
+                              },
+                              {
+                                "lumMod": 40,
+                                "lumOff": 60
+                              },
+                              {
+                                "lumMod": 60,
+                                "lumOff": 40
+                              },
+                              {
+                                "lumMod": 75
+                              },
+                              {
+                                "lumMod": 50
+                              }
+                            ]
+                          },
+                          {
+                            "id": "ac6",
+                            "type": "ColorPickerValue",
+                            "content": [
+                              {
+                                "lumMod": 100
+                              },
+                              {
+                                "lumMod": 20,
+                                "lumOff": 80
+                              },
+                              {
+                                "lumMod": 40,
+                                "lumOff": 60
+                              },
+                              {
+                                "lumMod": 60,
+                                "lumOff": 40
+                              },
+                              {
+                                "lumMod": 75
+                              },
+                              {
+                                "lumMod": 50
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    }
+                  }
+                ],
+                "masters": [],
+                "pages": [
+                  {
+                    "id": "page",
+                    "type": "page",
+                    "masterId": "",
+                    "description": "",
+                    "background": null,
+                    "themeId": "default",
+                    "colors": null,
+                    "transition": {},
+                    "animations": [],
+                    "skip": false,
+                    "shapes": [
+                      {
+                        "type": "DMLPreset",
+                        "x": -296.0703125,
+                        "y": -69.310546875,
+                        "width": 203.5,
+                        "height": 61.41796875,
+                        "angle": 0,
+                        "id": "QGERyo6IF",
+                        "fill": {
+                          "id": "daDLEp3rDG7c",
+                          "type": "SolidColor",
+                          "content": {
+                            "value": "fl1",
+                            "lumMod": 20,
+                            "lumOff": 80
+                          }
+                        },
+                        "fillRule": "nonzero",
+                        "stroke": {
+                          "id": "cOIjfpn5JZxz",
+                          "type": "SolidColor",
+                          "content": {
+                            "value": "sk1",
+                            "lumMod": 80,
+                            "lumOff": 20
+                          }
+                        },
+                        "strokeWidth": 1,
+                        "strokeDash": [],
+                        "strokeLinecap": "round",
+                        "strokeLinejoin": "round",
+                        "opacity": 1,
+                        "filter": "",
+                        "text": {
+                          "default": {
+                            "type": "rich-text",
+                            "children": [
+                              {
+                                "type": "paragraph",
+                                "children": [
+                                  {
+                                    "text": "归属于下列类目，",
+                                    "fontSize": 14,
+                                    "color": {
+                                      "id": "ypae_xtwO2-i",
+                                      "type": "SolidColor",
+                                      "content": {
+                                        "value": "tx1",
+                                        "lumMod": 80
+                                      }
+                                    },
+                                    "link": {
+                                      "color": {
+                                        "id": "qFdxL8nlLig8",
+                                        "type": "SolidColor",
+                                        "content": {
+                                          "value": "hlk",
+                                          "lumMod": 80
+                                        }
+                                      }
+                                    },
+                                    "placeholder": {
+                                      "color": {
+                                        "id": "GfO7jDot5ry3",
+                                        "type": "SolidColor",
+                                        "content": {
+                                          "value": "lt1",
+                                          "lumMod": 50
+                                        }
+                                      }
+                                    }
+                                  },
+                                  {
+                                    "fontSize": 14,
+                                    "color": {
+                                      "id": "kLV8fsZWfVJ",
+                                      "type": "SolidColor",
+                                      "content": {
+                                        "value": "ac6",
+                                        "lumMod": 100
+                                      }
+                                    },
+                                    "link": {
+                                      "color": {
+                                        "id": "qFdxL8nlLig8",
+                                        "type": "SolidColor",
+                                        "content": {
+                                          "value": "hlk",
+                                          "lumMod": 80
+                                        }
+                                      }
+                                    },
+                                    "placeholder": {
+                                      "color": {
+                                        "id": "GfO7jDot5ry3",
+                                        "type": "SolidColor",
+                                        "content": {
+                                          "value": "lt1",
+                                          "lumMod": 50
+                                        }
+                                      }
+                                    },
+                                    "text": "且为C店",
+                                    "bold": true
+                                  }
+                                ],
+                                "horizontalAlign": "center"
+                              }
+                            ],
+                            "placeholder": {
+                              "text": "双击输入内容"
+                            },
+                            "style": {
+                              "padding": [
+                                2,
+                                4
+                              ],
+                              "verticalAlign": "center"
+                            }
+                          },
+                          "$schema": "1"
+                        },
+                        "extras": {},
+                        "adjustValues": [
+                          5000
+                        ],
+                        "sticky": 0,
+                        "role": null,
+                        "placeholderId": null,
+                        "ability": null,
+                        "hidden": false,
+                        "geom": "roundRect"
+                      },
+                      {
+                        "type": "DMLPreset",
+                        "x": -28.8671875,
+                        "y": -162.9375,
+                        "width": 240.49609375,
+                        "height": 61.41796875,
+                        "angle": 0,
+                        "id": "xPofmriVO",
+                        "fill": {
+                          "id": "daDLEp3rDG7c",
+                          "type": "SolidColor",
+                          "content": {
+                            "value": "fl1",
+                            "lumMod": 20,
+                            "lumOff": 80
+                          }
+                        },
+                        "fillRule": "nonzero",
+                        "stroke": {
+                          "id": "cOIjfpn5JZxz",
+                          "type": "SolidColor",
+                          "content": {
+                            "value": "sk1",
+                            "lumMod": 80,
+                            "lumOff": 20
+                          }
+                        },
+                        "strokeWidth": 1,
+                        "strokeDash": [],
+                        "strokeLinecap": "round",
+                        "strokeLinejoin": "round",
+                        "opacity": 1,
+                        "filter": "",
+                        "text": {
+                          "default": {
+                            "type": "rich-text",
+                            "children": [
+                              {
+                                "type": "paragraph",
+                                "children": [
+                                  {
+                                    "text": "此前有通过线索推广获取客资数量>0",
+                                    "fontSize": 14,
+                                    "color": {
+                                      "id": "ypae_xtwO2-i",
+                                      "type": "SolidColor",
+                                      "content": {
+                                        "value": "tx1",
+                                        "lumMod": 80
+                                      }
+                                    },
+                                    "link": {
+                                      "color": {
+                                        "id": "qFdxL8nlLig8",
+                                        "type": "SolidColor",
+                                        "content": {
+                                          "value": "hlk",
+                                          "lumMod": 80
+                                        }
+                                      }
+                                    },
+                                    "placeholder": {
+                                      "color": {
+                                        "id": "GfO7jDot5ry3",
+                                        "type": "SolidColor",
+                                        "content": {
+                                          "value": "lt1",
+                                          "lumMod": 50
+                                        }
+                                      }
+                                    }
+                                  }
+                                ],
+                                "horizontalAlign": "center"
+                              }
+                            ],
+                            "placeholder": {
+                              "text": "双击输入内容"
+                            },
+                            "style": {
+                              "padding": [
+                                2,
+                                4
+                              ],
+                              "verticalAlign": "center"
+                            }
+                          },
+                          "$schema": "1"
+                        },
+                        "extras": {},
+                        "adjustValues": [
+                          5000
+                        ],
+                        "sticky": 0,
+                        "role": null,
+                        "placeholderId": null,
+                        "ability": null,
+                        "hidden": false,
+                        "geom": "roundRect"
+                      },
+                      {
+                        "type": "DMLPreset",
+                        "x": 270.6171875,
+                        "y": -162.9375,
+                        "width": 240.49609375,
+                        "height": 61.41796875,
+                        "angle": 0,
+                        "id": "0MSUL_WAJ",
+                        "fill": {
+                          "id": "daDLEp3rDG7c",
+                          "type": "SolidColor",
+                          "content": {
+                            "value": "fl1",
+                            "lumMod": 20,
+                            "lumOff": 80
+                          }
+                        },
+                        "fillRule": "nonzero",
+                        "stroke": {
+                          "id": "cOIjfpn5JZxz",
+                          "type": "SolidColor",
+                          "content": {
+                            "value": "sk1",
+                            "lumMod": 80,
+                            "lumOff": 20
+                          }
+                        },
+                        "strokeWidth": 1,
+                        "strokeDash": [],
+                        "strokeLinecap": "round",
+                        "strokeLinejoin": "round",
+                        "opacity": 1,
+                        "filter": "",
+                        "text": {
+                          "default": {
+                            "type": "rich-text",
+                            "children": [
+                              {
+                                "type": "paragraph",
+                                "children": [
+                                  {
+                                    "text": "明文权限回收，外呼权限不回收",
+                                    "fontSize": 14,
+                                    "color": {
+                                      "id": "ypae_xtwO2-i",
+                                      "type": "SolidColor",
+                                      "content": {
+                                        "value": "tx1",
+                                        "lumMod": 80
+                                      }
+                                    },
+                                    "link": {
+                                      "color": {
+                                        "id": "qFdxL8nlLig8",
+                                        "type": "SolidColor",
+                                        "content": {
+                                          "value": "hlk",
+                                          "lumMod": 80
+                                        }
+                                      }
+                                    },
+                                    "placeholder": {
+                                      "color": {
+                                        "id": "GfO7jDot5ry3",
+                                        "type": "SolidColor",
+                                        "content": {
+                                          "value": "lt1",
+                                          "lumMod": 50
+                                        }
+                                      }
+                                    }
+                                  }
+                                ],
+                                "horizontalAlign": "center"
+                              }
+                            ],
+                            "placeholder": {
+                              "text": "双击输入内容"
+                            },
+                            "style": {
+                              "padding": [
+                                2,
+                                4
+                              ],
+                              "verticalAlign": "center"
+                            }
+                          },
+                          "$schema": "1"
+                        },
+                        "extras": {},
+                        "adjustValues": [
+                          5000
+                        ],
+                        "sticky": 0,
+                        "role": null,
+                        "placeholderId": null,
+                        "ability": null,
+                        "hidden": false,
+                        "geom": "roundRect"
+                      },
+                      {
+                        "type": "elbowLine",
+                        "x": 212.12890625,
+                        "y": -132.228515625,
+                        "width": 57.98828125,
+                        "height": 0,
+                        "angle": 0,
+                        "id": "IQ10GALyWY",
+                        "fill": "",
+                        "fillRule": "nonzero",
+                        "stroke": {
+                          "id": "cOIjfpn5JZxz",
+                          "type": "SolidColor",
+                          "content": {
+                            "value": "sk1",
+                            "lumMod": 80,
+                            "lumOff": 20
+                          }
+                        },
+                        "strokeWidth": 1,
+                        "strokeDash": [],
+                        "strokeLinecap": "round",
+                        "strokeLinejoin": "round",
+                        "opacity": 1,
+                        "filter": "",
+                        "extras": {},
+                        "adjustValues": [],
+                        "sticky": 0,
+                        "role": null,
+                        "placeholderId": null,
+                        "ability": null,
+                        "hidden": false,
+                        "from": {
+                          "id": "xPofmriVO",
+                          "index": 1,
+                          "fallback": {
+                            "x": 0,
+                            "y": 0
+                          }
+                        },
+                        "to": {
+                          "id": "0MSUL_WAJ",
+                          "index": 3,
+                          "fallback": {
+                            "x": 57.98828125,
+                            "y": 0
+                          }
+                        },
+                        "throughPoints": [],
+                        "fromMarker": null,
+                        "toMarker": {
+                          "id": "kmv55PfxQA",
+                          "type": "ArrowMarker",
+                          "content": {
+                            "size": 5
+                          }
+                        },
+                        "pulseStatus": 12,
+                        "pulseDirection": 0,
+                        "pulseDuration": 2,
+                        "pulseColor": {
+                          "id": "NQc5c3M-yJ61",
+                          "type": "SolidColor",
+                          "content": {
+                            "value": "ac6",
+                            "lumMod": 100
+                          }
+                        }
+                      },
+                      {
+                        "type": "DMLPreset",
+                        "x": -80.1484375,
+                        "y": -147.171875,
+                        "width": 34.04296875,
+                        "height": 217.140625,
+                        "angle": 0,
+                        "id": "ctxYAS8Cw",
+                        "fill": {
+                          "id": "daDLEp3rDG7c",
+                          "type": "SolidColor",
+                          "content": {
+                            "value": "fl1",
+                            "lumMod": 20,
+                            "lumOff": 80
+                          }
+                        },
+                        "fillRule": "nonzero",
+                        "stroke": {
+                          "id": "cOIjfpn5JZxz",
+                          "type": "SolidColor",
+                          "content": {
+                            "value": "sk1",
+                            "lumMod": 80,
+                            "lumOff": 20
+                          }
+                        },
+                        "strokeWidth": 1,
+                        "strokeDash": [],
+                        "strokeLinecap": "round",
+                        "strokeLinejoin": "round",
+                        "opacity": 1,
+                        "filter": "",
+                        "text": {
+                          "default": {
+                            "type": "rich-text",
+                            "children": [
+                              {
+                                "type": "paragraph",
+                                "children": [
+                                  {
+                                    "text": "",
+                                    "fontSize": 14,
+                                    "color": {
+                                      "id": "ypae_xtwO2-i",
+                                      "type": "SolidColor",
+                                      "content": {
+                                        "value": "tx1",
+                                        "lumMod": 80
+                                      }
+                                    },
+                                    "link": {
+                                      "color": {
+                                        "id": "qFdxL8nlLig8",
+                                        "type": "SolidColor",
+                                        "content": {
+                                          "value": "hlk",
+                                          "lumMod": 80
+                                        }
+                                      }
+                                    },
+                                    "placeholder": {
+                                      "color": {
+                                        "id": "GfO7jDot5ry3",
+                                        "type": "SolidColor",
+                                        "content": {
+                                          "value": "lt1",
+                                          "lumMod": 50
+                                        }
+                                      }
+                                    }
+                                  }
+                                ],
+                                "horizontalAlign": "center"
+                              }
+                            ],
+                            "placeholder": {
+                              "text": "双击输入内容"
+                            },
+                            "style": {
+                              "padding": [
+                                2,
+                                4
+                              ],
+                              "verticalAlign": "center"
+                            }
+                          },
+                          "$schema": "1"
+                        },
+                        "extras": {},
+                        "adjustValues": [],
+                        "sticky": 0,
+                        "role": null,
+                        "placeholderId": null,
+                        "ability": null,
+                        "hidden": false,
+                        "geom": "leftBrace"
+                      },
+                      {
+                        "type": "DMLPreset",
+                        "x": -28.8671875,
+                        "y": 39.759765625,
+                        "width": 240.49609375,
+                        "height": 61.41796875,
+                        "angle": 0,
+                        "id": "MwLUZEzAt",
+                        "fill": {
+                          "id": "daDLEp3rDG7c",
+                          "type": "SolidColor",
+                          "content": {
+                            "value": "fl1",
+                            "lumMod": 20,
+                            "lumOff": 80
+                          }
+                        },
+                        "fillRule": "nonzero",
+                        "stroke": {
+                          "id": "cOIjfpn5JZxz",
+                          "type": "SolidColor",
+                          "content": {
+                            "value": "sk1",
+                            "lumMod": 80,
+                            "lumOff": 20
+                          }
+                        },
+                        "strokeWidth": 1,
+                        "strokeDash": [],
+                        "strokeLinecap": "round",
+                        "strokeLinejoin": "round",
+                        "opacity": 1,
+                        "filter": "",
+                        "text": {
+                          "default": {
+                            "type": "rich-text",
+                            "children": [
+                              {
+                                "type": "paragraph",
+                                "children": [
+                                  {
+                                    "text": "此前没有通过线索推广获取到过客资",
+                                    "fontSize": 14,
+                                    "color": {
+                                      "id": "ypae_xtwO2-i",
+                                      "type": "SolidColor",
+                                      "content": {
+                                        "value": "tx1",
+                                        "lumMod": 80
+                                      }
+                                    },
+                                    "link": {
+                                      "color": {
+                                        "id": "qFdxL8nlLig8",
+                                        "type": "SolidColor",
+                                        "content": {
+                                          "value": "hlk",
+                                          "lumMod": 80
+                                        }
+                                      }
+                                    },
+                                    "placeholder": {
+                                      "color": {
+                                        "id": "GfO7jDot5ry3",
+                                        "type": "SolidColor",
+                                        "content": {
+                                          "value": "lt1",
+                                          "lumMod": 50
+                                        }
+                                      }
+                                    }
+                                  }
+                                ],
+                                "horizontalAlign": "center"
+                              }
+                            ],
+                            "placeholder": {
+                              "text": "双击输入内容"
+                            },
+                            "style": {
+                              "padding": [
+                                2,
+                                4
+                              ],
+                              "verticalAlign": "center"
+                            }
+                          },
+                          "$schema": "1"
+                        },
+                        "extras": {},
+                        "adjustValues": [
+                          5000
+                        ],
+                        "sticky": 0,
+                        "role": null,
+                        "placeholderId": null,
+                        "ability": null,
+                        "hidden": false,
+                        "geom": "roundRect"
+                      },
+                      {
+                        "type": "DMLPreset",
+                        "x": 270.6171875,
+                        "y": 39.759765625,
+                        "width": 240.49609375,
+                        "height": 61.41796875,
+                        "angle": 0,
+                        "id": "wiEtNWVEb",
+                        "fill": {
+                          "id": "daDLEp3rDG7c",
+                          "type": "SolidColor",
+                          "content": {
+                            "value": "fl1",
+                            "lumMod": 20,
+                            "lumOff": 80
+                          }
+                        },
+                        "fillRule": "nonzero",
+                        "stroke": {
+                          "id": "cOIjfpn5JZxz",
+                          "type": "SolidColor",
+                          "content": {
+                            "value": "sk1",
+                            "lumMod": 80,
+                            "lumOff": 20
+                          }
+                        },
+                        "strokeWidth": 1,
+                        "strokeDash": [],
+                        "strokeLinecap": "round",
+                        "strokeLinejoin": "round",
+                        "opacity": 1,
+                        "filter": "",
+                        "text": {
+                          "default": {
+                            "type": "rich-text",
+                            "children": [
+                              {
+                                "type": "paragraph",
+                                "children": [
+                                  {
+                                    "text": "明文权限、外呼权限都会被回收",
+                                    "fontSize": 14,
+                                    "color": {
+                                      "id": "ypae_xtwO2-i",
+                                      "type": "SolidColor",
+                                      "content": {
+                                        "value": "tx1",
+                                        "lumMod": 80
+                                      }
+                                    },
+                                    "link": {
+                                      "color": {
+                                        "id": "qFdxL8nlLig8",
+                                        "type": "SolidColor",
+                                        "content": {
+                                          "value": "hlk",
+                                          "lumMod": 80
+                                        }
+                                      }
+                                    },
+                                    "placeholder": {
+                                      "color": {
+                                        "id": "GfO7jDot5ry3",
+                                        "type": "SolidColor",
+                                        "content": {
+                                          "value": "lt1",
+                                          "lumMod": 50
+                                        }
+                                      }
+                                    }
+                                  }
+                                ],
+                                "horizontalAlign": "center"
+                              }
+                            ],
+                            "placeholder": {
+                              "text": "双击输入内容"
+                            },
+                            "style": {
+                              "padding": [
+                                2,
+                                4
+                              ],
+                              "verticalAlign": "center"
+                            }
+                          },
+                          "$schema": "1"
+                        },
+                        "extras": {},
+                        "adjustValues": [
+                          5000
+                        ],
+                        "sticky": 0,
+                        "role": null,
+                        "placeholderId": null,
+                        "ability": null,
+                        "hidden": false,
+                        "geom": "roundRect"
+                      },
+                      {
+                        "type": "elbowLine",
+                        "x": 212.12890625,
+                        "y": 70.46875,
+                        "width": 57.98828125,
+                        "height": 0,
+                        "angle": 0,
+                        "id": "oPs8s9jgO7",
+                        "fill": "",
+                        "fillRule": "nonzero",
+                        "stroke": {
+                          "id": "cOIjfpn5JZxz",
+                          "type": "SolidColor",
+                          "content": {
+                            "value": "sk1",
+                            "lumMod": 80,
+                            "lumOff": 20
+                          }
+                        },
+                        "strokeWidth": 1,
+                        "strokeDash": [],
+                        "strokeLinecap": "round",
+                        "strokeLinejoin": "round",
+                        "opacity": 1,
+                        "filter": "",
+                        "extras": {},
+                        "adjustValues": [],
+                        "sticky": 0,
+                        "role": null,
+                        "placeholderId": null,
+                        "ability": null,
+                        "hidden": false,
+                        "from": {
+                          "id": "MwLUZEzAt",
+                          "index": 1,
+                          "fallback": {
+                            "x": 0,
+                            "y": 0
+                          }
+                        },
+                        "to": {
+                          "id": "wiEtNWVEb",
+                          "index": 3,
+                          "fallback": {
+                            "x": 57.98828125,
+                            "y": 0
+                          }
+                        },
+                        "throughPoints": [],
+                        "fromMarker": null,
+                        "toMarker": {
+                          "id": "w3FI73Qhi0",
+                          "type": "ArrowMarker",
+                          "content": {
+                            "size": 5
+                          }
+                        },
+                        "pulseStatus": 12,
+                        "pulseDirection": 0,
+                        "pulseDuration": 2,
+                        "pulseColor": {
+                          "id": "NQc5c3M-yJ61",
+                          "type": "SolidColor",
+                          "content": {
+                            "value": "ac6",
+                            "lumMod": 100
+                          }
+                        }
+                      }
+                    ],
+                    "role": null,
+                    "extras": {}
+                  }
+                ],
+                "extras": {}
+              },
+              "refs": {}
+            }
+          }
+        }
+      }
+    },
+    "00000000-0000-0000-0000-000000000001": {
+      "id": "00000000-0000-0000-0000-000000000001",
+      "type": "application/x-alidocs-word",
+      "version": 1,
+      "data": {
+        "style": {
+          "docDefaults": {
+            "type": "paragraph",
+            "default": 1,
+            "name": "dingdocnormal",
+            "data": {
+              "rPr": {
+                "sz": 12,
+                "szUnit": "pt"
+              },
+              "pPr": {
+                "spacing": {
+                  "before": 10,
+                  "after": 10
+                }
+              }
+            }
+          }
+        },
+        "theme": [],
+        "settings": {
+          "titleCover": {
+            "isHide": true
+          }
+        },
+        "app": {},
+        "numberings": {},
+        "headers": {},
+        "body": [
+          "root",
+          {
+            "sectPr": {
+              "pgSz": {
+                "w": 1588,
+                "h": 1127
+              },
+              "pgMar": {
+                "top": 48,
+                "bottom": 48,
+                "left": 72,
+                "right": 72,
+                "header": 56.73,
+                "footer": 66.13,
+                "gutter": 0
+              }
+            },
+            "theme": {
+              "table": {
+                "tableCell": {
+                  "vAlign": "top"
+                }
+              }
+            }
+          },
+          [
+            "p",
+            {
+              "ind": {},
+              "spacing": {},
+              "uuid": "mev7qkdqji85gqp0ge"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "rgb(13, 18, 57)",
+                  "data-type": "leaf"
+                },
+                "亲爱的商家您好："
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "ind": {
+                "firstLine": 32
+              },
+              "spacing": {},
+              "uuid": "mev7qkdq3gc0mspi0ul"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "rgb(13, 18, 57)",
+                  "data-type": "leaf"
+                },
+                "为更好地保障您的账号安全，防范潜在的信息风险，阿里妈妈客户工作台将针对部分高风险类目，逐步加强账号权限的管理与保护措施。自"
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "rgb(13, 18, 57)",
+                  "data-type": "leaf"
+                },
+                "9月1日"
+              ],
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "rgb(13, 18, 57)",
+                  "data-type": "leaf"
+                },
+                "起，"
+              ],
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "rgb(0, 0, 0)",
+                  "data-type": "leaf"
+                },
+                "要针对部分违规风险较高的类目进行外呼/线索明文查看的权限回收。"
+              ]
+            ]
+          ],
+          [
+            "card",
+            {
+              "cardType": "hetu",
+              "height": 304,
+              "metadata": {
+                "id": "0585918f-37d2-43b0-aeee-fc7384ed7aec",
+                "type": "application/x-alidocs-plugin-draw"
+              },
+              "uuid": "meuvb9ojutlzlqzc14"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "ind": {
+                "firstLine": 32
+              },
+              "spacing": {
+                "line": 1.15,
+                "lineRule": "auto"
+              },
+              "uuid": "mev7tyfcza1jvrx2jb"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "rgb(13, 18, 57)",
+                  "data-type": "leaf"
+                },
+                "自9月1日起，针对"
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "#E03E3E",
+                  "data-type": "leaf"
+                },
+                "以下类目的C店商家"
+              ],
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "rgb(13, 18, 57)",
+                  "data-type": "leaf"
+                },
+                "，我们将进行权限优化调整："
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "ind": {
+                "left": 32
+              },
+              "list": {
+                "listId": "k935oru0il",
+                "isOrdered": false,
+                "level": 0,
+                "listStyle": {
+                  "format": "bullet",
+                  "text": "●",
+                  "align": "left"
+                }
+              },
+              "spacing": {},
+              "uuid": "mev7qkdrgjwevobuquv"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "rgb(13, 18, 57)",
+                  "data-type": "leaf"
+                },
+                "若您属于以下类目，C店，此前已通过线索推广获得过客户线索（即有留资记录）："
+              ]
+            ],
+            [
+              "br",
+              {
+                "type": "textWrapping",
+                "data": {},
+                "uuid": "mev7tynjt1en35zrpd"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "rgb(13, 18, 57)",
+                  "data-type": "leaf"
+                },
+                "您将保留隐私号外呼权限，可继续通过平台安全外呼功能联系消费者；但线索的明文信息查看权限将进行回收，以进一步降低数据暴露风险。"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "ind": {
+                "left": 32
+              },
+              "list": {
+                "listId": "k935oru0il",
+                "isOrdered": false,
+                "level": 0,
+                "listStyle": {
+                  "format": "bullet",
+                  "text": "●",
+                  "align": "left"
+                }
+              },
+              "spacing": {},
+              "uuid": "mev7qkdrrzijeefudb"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "rgb(13, 18, 57)",
+                  "data-type": "leaf"
+                },
+                "若您属于以下类目，C店，此前未通过线索推广获取过客户线索（无留资记录）："
+              ]
+            ],
+            [
+              "br",
+              {
+                "type": "textWrapping",
+                "data": {},
+                "uuid": "mev7tynj1uck8zc0nq3"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "rgb(13, 18, 57)",
+                  "data-type": "leaf"
+                },
+                "为保障新商家的合规使用， 外呼及明文查看权限均不开放。"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "ind": {
+                "firstLine": 32
+              },
+              "spacing": {
+                "line": 1.15,
+                "lineRule": "auto"
+              },
+              "uuid": "meuvgyicm6bqy4b9vcd",
+              "jc": "center"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "rgb(0, 0, 0)",
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ],
+            [
+              "img",
+              {
+                "uuid": "bqt8fm",
+                "name": "image.png",
+                "size": 606733,
+                "width": 810,
+                "height": 945,
+                "src": "/core/api/resources/img/5eecdaf48460cde5c4be102460b058051d2878e88ecd127c75b8339e1c4c24831b75b38faadcd24bec177c308ebd5304d2702563a89572a0f4696f589201f8cab21d1fa9b8d2c4a3c69036e393dc03606c4210e0cd7808c34fb4c8ed7016461c",
+                "extraData": {
+                  "resourceId": "b9875f51-7e48-4de4-a8a7-82d3cc8dc253",
+                  "metaData": {
+                    "size": 606733,
+                    "originWidth": 810,
+                    "originHeight": 945,
+                    "format": "png",
+                    "ratio": 1
+                  }
+                }
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "rgb(0, 0, 0)",
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "meuvh7mxz34fmghw9xf",
+              "ind": {
+                "firstLine": 32
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "meuymyd8enshujapeu",
+              "ind": {
+                "firstLine": 32
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "其中游戏服务、数字生活、教育培训、宠物活体是所有C店不可用，其余类目商家，则可正常进行隐私号外呼、明文查看，"
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "data-type": "leaf"
+                },
+                "若您的店铺没有明文查看权限，请填写问卷进行开通"
+              ],
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "。https://survey.taobao.com/apps/zhiliao/VENIUcIwa （每周一、三、五下午开通权限。）"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mev7uvlmgesa4el0up4",
+              "ind": {
+                "firstLine": 32
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mev7usic2c912wqvlke",
+              "ind": {
+                "firstLine": 32
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "rgb(13, 18, 57)",
+                  "data-type": "leaf"
+                },
+                "本次调整旨在为商家构建更安全、更可持续的运营环境。由此带来的不便，敬请谅解。如您有任何疑问或需要支持，欢迎随时联系阿里妈妈客服，我们将竭诚为您服务。"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "meuys833fbu6hi9r8hu",
+              "ind": {
+                "firstLine": 32
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "meuys864nt0wmz330e",
+              "ind": {
+                "firstLine": 32
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "meuys89d80pbq8jj33n",
+              "ind": {
+                "firstLine": 32
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "h1",
+            {
+              "uuid": "meuys8brcg8tbam7pfh",
+              "ind": {
+                "firstLine": 32
+              },
+              "spacing": {
+                "before": 32,
+                "after": 12,
+                "line": 0.8615384615384615
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 21,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "常见问题"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "meuysc4eaosfvs3zg77",
+              "ind": {
+                "left": 32
+              },
+              "list": {
+                "listId": "b3wa3zjqszv",
+                "level": 0,
+                "isTaskList": false,
+                "isOrdered": true,
+                "listStyleType": "DEC_LEN_LROM_P",
+                "listStyle": {
+                  "format": "decimal",
+                  "text": "%1.",
+                  "align": "left"
+                },
+                "symbolStyle": {
+                  "bold": true
+                }
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "data-type": "leaf"
+                },
+                "若我的类目发生了切换，外呼/明文权限还能保留吗？"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "meuysxrkcfn2cxi58xc",
+              "ind": {
+                "left": 32
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "如果您切换后的类目命中上述类目id，则无法保留查看明文权限，外呼权限仍然保留。除以上类目以外，类目切换前后权限功能不做变更。"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "meuytxi6wvpcip7recd",
+              "ind": {
+                "left": 32
+              },
+              "list": {
+                "listId": "8pxnzsfxmg4",
+                "level": 0,
+                "isTaskList": false,
+                "isOrdered": true,
+                "listStyleType": "DEC_LEN_LROM_P",
+                "listStyle": {
+                  "format": "decimal",
+                  "text": "%1.",
+                  "align": "left"
+                },
+                "symbolStyle": {
+                  "bold": true
+                },
+                "start": 2
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "data-type": "leaf"
+                },
+                "我的类目不归属于上述类目，为什么明文查看权限也被回收了？"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "meuyuhcvt5ttwqsgcdj",
+              "ind": {
+                "left": 32
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "rgb(13, 18, 57)",
+                  "data-type": "leaf"
+                },
+                "为更好地保障您的信息安全"
+              ],
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "rgb(0, 0, 0)",
+                  "data-type": "leaf"
+                },
+                "，平台做了首次的明文查看权限回收的处理，您可以通过填写上述问卷申请明文查看权限。"
+              ]
+            ]
+          ]
+        ],
+        "footers": {},
+        "version": 1
+      },
+      "refs": {}
+    }
+  }
+}

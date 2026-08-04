@@ -1,0 +1,804 @@
+{
+  "version": 1,
+  "type": "application/x-alidocs-package",
+  "main": "00000000-0000-0000-0000-000000000001",
+  "plugins": "00000000-0000-0000-0000-000000000002",
+  "parts": {
+    "00000000-0000-0000-0000-000000000001": {
+      "id": "00000000-0000-0000-0000-000000000001",
+      "type": "application/x-alidocs-word",
+      "version": 1,
+      "data": {
+        "style": {
+          "docDefaults": {
+            "type": "paragraph",
+            "default": 1,
+            "name": "dingdocnormal",
+            "data": {
+              "rPr": {
+                "sz": 12,
+                "szUnit": "pt"
+              },
+              "pPr": {
+                "spacing": {
+                  "before": 12,
+                  "after": 12
+                }
+              }
+            }
+          }
+        },
+        "theme": [],
+        "settings": {
+          "titleCover": {
+            "url": "https://img.alicdn.com/imgextra/i4/O1CN01o88Fee1TjUWlM3Bs2_!!6000000002418-0-tps-3750-2500.jpg",
+            "thumb": "https://img.alicdn.com/imgextra/i4/O1CN01o88Fee1TjUWlM3Bs2_!!6000000002418-0-tps-3750-2500.jpg_360x360.jpg",
+            "isHide": true
+          }
+        },
+        "app": {},
+        "numberings": {},
+        "headers": {},
+        "body": [
+          "root",
+          {
+            "sectPr": {
+              "pgSz": {
+                "w": 892,
+                "h": 1127
+              },
+              "pgMar": {
+                "top": 48,
+                "bottom": 48,
+                "left": 72,
+                "right": 72,
+                "header": 56.73,
+                "footer": 66.13,
+                "gutter": 0
+              }
+            },
+            "theme": {
+              "table": {
+                "tableCell": {
+                  "vAlign": "top"
+                }
+              }
+            }
+          },
+          [
+            "h2",
+            {
+              "spacing": {},
+              "uuid": "mj8bbvhz5zgqhfmuuzf"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "color": "rgb(13, 18, 57)",
+                  "data-type": "leaf"
+                },
+                "📅 活动周期"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "ind": {},
+              "spacing": {},
+              "uuid": "mj8bbvhzu0pctdh88cp"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "rgb(13, 18, 57)",
+                  "data-type": "leaf"
+                },
+                "2026年1月28日 00:00 — 2026年2月3日 23:59（共7天）"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "blockquote": true,
+              "ind": {},
+              "spacing": {},
+              "uuid": "mj8bbvhzlrtgt47rim"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 10.5,
+                  "szUnit": "pt",
+                  "color": "rgb(139, 139, 139)",
+                  "data-type": "leaf"
+                },
+                "仅限收到官方活动邀约的商家参与"
+              ]
+            ]
+          ],
+          [
+            "hr",
+            {
+              "type": "solid",
+              "sz": 0.75,
+              "color": "rgb(220, 223, 230)",
+              "width": "100%",
+              "uuid": "mj8bbvhz2j03alxdza9"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "h2",
+            {
+              "spacing": {},
+              "uuid": "mj8bbvhzyamf6e6s5x"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "color": "rgb(13, 18, 57)",
+                  "data-type": "leaf"
+                },
+                "🎯 参与条件"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "ind": {
+                "left": 0
+              },
+              "list": {
+                "listId": "fnb3jaxzrzt",
+                "isOrdered": false,
+                "level": 0,
+                "listStyle": {
+                  "format": "bullet",
+                  "text": "●",
+                  "align": "left"
+                }
+              },
+              "uuid": "mj8bbvhzn99vx9fqu5"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "rgb(13, 18, 57)",
+                  "data-type": "leaf"
+                },
+                "商家已收到本次活动定向邀约通知；"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "ind": {
+                "left": 0
+              },
+              "list": {
+                "listId": "fnb3jaxzrzt",
+                "isOrdered": false,
+                "level": 0,
+                "listStyle": {
+                  "format": "bullet",
+                  "text": "●",
+                  "align": "left"
+                }
+              },
+              "uuid": "mj8bbvhzu2fbbbm1ze"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "rgb(13, 18, 57)",
+                  "data-type": "leaf"
+                },
+                "在活动期间，于万相台无界版中推广至少一个人群场景手动出价的推广计划；"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "ind": {
+                "left": 0
+              },
+              "list": {
+                "listId": "fnb3jaxzrzt",
+                "isOrdered": false,
+                "level": 0,
+                "listStyle": {
+                  "format": "bullet",
+                  "text": "●",
+                  "align": "left"
+                }
+              },
+              "uuid": "mj8bbvhzno0bz4akftp"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "rgb(13, 18, 57)",
+                  "data-type": "leaf"
+                },
+                "账户在人群场景下所有手动出价计划的整体点击成本≥ 0.3元。"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "blockquote": true,
+              "ind": {},
+              "spacing": {},
+              "uuid": "mj8bbvhzzln5pqja14"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 10.5,
+                  "szUnit": "pt",
+                  "color": "rgb(139, 139, 139)",
+                  "data-type": "leaf"
+                },
+                "计算公式 = 活动期内人群场景手动出价总消耗 / 总点击量（以平台后台数据为准）"
+              ]
+            ]
+          ],
+          [
+            "hr",
+            {
+              "type": "solid",
+              "sz": 0.75,
+              "color": "rgb(220, 223, 230)",
+              "width": "100%",
+              "uuid": "mj8bbvhze2zjpsh50k7"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "h2",
+            {
+              "spacing": {},
+              "uuid": "mj8bbvhzx4gxcunrqvs"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "color": "rgb(13, 18, 57)",
+                  "data-type": "leaf"
+                },
+                "🎁 达标奖励"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "ind": {},
+              "spacing": {},
+              "uuid": "mj8bbvhzr91bgxjqyf"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "rgb(13, 18, 57)",
+                  "data-type": "leaf"
+                },
+                "成功达标的受邀商家，将自 2026年1月28日 00:00 起，自动获得以下专属权益："
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "ind": {},
+              "spacing": {},
+              "uuid": "mj8bbvhzy8lqi25x7zh"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "rgb(13, 18, 57)",
+                  "data-type": "leaf"
+                },
+                "✅ 为期1个月的手动出价“淘系其他信息流投放可选”功能权限"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "ind": {
+                "left": 0
+              },
+              "list": {
+                "listId": "qkp66lymese",
+                "isOrdered": false,
+                "level": 0,
+                "listStyle": {
+                  "format": "bullet",
+                  "text": "●",
+                  "align": "left"
+                }
+              },
+              "uuid": "mj8bbvhz3oyadeknlb8"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "rgb(13, 18, 57)",
+                  "data-type": "leaf"
+                },
+                "有效期：2026年2月5日 — 2026年3月4日"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "ind": {
+                "left": 0
+              },
+              "list": {
+                "listId": "qkp66lymese",
+                "isOrdered": false,
+                "level": 0,
+                "listStyle": {
+                  "format": "bullet",
+                  "text": "●",
+                  "align": "left"
+                }
+              },
+              "uuid": "mj8bbvhz10izdn59m9i"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "rgb(13, 18, 57)",
+                  "data-type": "leaf"
+                },
+                "权益内容：在创建或编辑手动出价计划时，可自主勾选是否投放至 “淘系其他信息流”流量位"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "ind": {
+                "left": 0
+              },
+              "list": {
+                "listId": "qkp66lymese",
+                "isOrdered": false,
+                "level": 0,
+                "listStyle": {
+                  "format": "bullet",
+                  "text": "●",
+                  "align": "left"
+                }
+              },
+              "uuid": "mj8bbvhzmnb840q8jd"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "rgb(13, 18, 57)",
+                  "data-type": "leaf"
+                },
+                "助力商家精准拓展全域流量，抢占年末大促后及年货节前的关键曝光窗口！"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "blockquote": true,
+              "ind": {},
+              "spacing": {},
+              "uuid": "mj8bbvi0ilkmylpmo4c"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 10.5,
+                  "szUnit": "pt",
+                  "color": "rgb(139, 139, 139)",
+                  "data-type": "leaf"
+                },
+                "⚠️ 权益仅对达标账户自动开通，不可转让，逾期未使用视为放弃。"
+              ]
+            ]
+          ],
+          [
+            "hr",
+            {
+              "type": "solid",
+              "sz": 0.75,
+              "color": "rgb(220, 223, 230)",
+              "width": "100%",
+              "uuid": "mj8bbvi0u31li63daaa"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "h2",
+            {
+              "spacing": {},
+              "uuid": "mj8bbvi0jjnrxjltkl"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "color": "rgb(13, 18, 57)",
+                  "data-type": "leaf"
+                },
+                "📌 参与指引"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "ind": {
+                "left": 0
+              },
+              "list": {
+                "listId": "wdzbl8iv23",
+                "isOrdered": true,
+                "level": 0,
+                "listStyle": {
+                  "format": "bullet",
+                  "text": "●",
+                  "align": "left"
+                }
+              },
+              "uuid": "mj8bbvi0cgul3oj3b5f"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "rgb(13, 18, 57)",
+                  "data-type": "leaf"
+                },
+                "登录【万相台无界版】→ 进入【人群场景】→ 创建/优化手动出价计划；"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "ind": {
+                "left": 0
+              },
+              "list": {
+                "listId": "wdzbl8iv23",
+                "isOrdered": true,
+                "level": 0,
+                "listStyle": {
+                  "format": "bullet",
+                  "text": "●",
+                  "align": "left"
+                }
+              },
+              "uuid": "mj8bbvi0pdvfwxv0zrh"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "rgb(13, 18, 57)",
+                  "data-type": "leaf"
+                },
+                "合理提升出价，确保整体点击成本 ≥ 0.3元（建议结合优质素材+精准人群包提升效率）；"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "ind": {
+                "left": 0
+              },
+              "list": {
+                "listId": "wdzbl8iv23",
+                "isOrdered": true,
+                "level": 0,
+                "listStyle": {
+                  "format": "bullet",
+                  "text": "●",
+                  "align": "left"
+                }
+              },
+              "uuid": "mj8bbvi0w6469aa3nzb"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "rgb(13, 18, 57)",
+                  "data-type": "leaf"
+                },
+                "活动结束后，系统将于2月4日前完成数据校验，达标账户于2月5日自动生效权益。"
+              ]
+            ]
+          ],
+          [
+            "hr",
+            {
+              "type": "solid",
+              "sz": 0.75,
+              "color": "rgb(220, 223, 230)",
+              "width": "100%",
+              "uuid": "mj8bbvi0buek39tpqbc"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "h2",
+            {
+              "spacing": {},
+              "uuid": "mj8bbvi0jevs8118pai"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "color": "rgb(13, 18, 57)",
+                  "data-type": "leaf"
+                },
+                "💡 温馨提示"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "ind": {
+                "left": 0
+              },
+              "list": {
+                "listId": "efvorqqzw3r",
+                "isOrdered": false,
+                "level": 0,
+                "listStyle": {
+                  "format": "bullet",
+                  "text": "●",
+                  "align": "left"
+                }
+              },
+              "uuid": "mj8bbvi071stw3c7sfh"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "rgb(13, 18, 57)",
+                  "data-type": "leaf"
+                },
+                "本次为限量邀约制活动，权益名额有限，先达标先得；"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "ind": {
+                "left": 0
+              },
+              "list": {
+                "listId": "efvorqqzw3r",
+                "isOrdered": false,
+                "level": 0,
+                "listStyle": {
+                  "format": "bullet",
+                  "text": "●",
+                  "align": "left"
+                }
+              },
+              "uuid": "mj8bbvi0hnzqqljfsv9"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "rgb(13, 18, 57)",
+                  "data-type": "leaf"
+                },
+                "建议商家在活动期内保持计划稳定投放，避免因暂停或删除计划影响点击成本计算。"
+              ]
+            ]
+          ]
+        ],
+        "footers": {},
+        "version": 1
+      },
+      "refs": {}
+    }
+  }
+}

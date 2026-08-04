@@ -1,0 +1,2100 @@
+{
+  "version": 1,
+  "type": "application/x-alidocs-package",
+  "main": "00000000-0000-0000-0000-000000000001",
+  "plugins": "00000000-0000-0000-0000-000000000002",
+  "parts": {
+    "a28a4bd0-4b1f-4929-92ad-f9e285fbbb2b": {
+      "id": "a28a4bd0-4b1f-4929-92ad-f9e285fbbb2b",
+      "type": "application/x-alidocs-plugin-attachment",
+      "version": 1,
+      "data": {
+        "fileName": "案例魔方 v1.mp4",
+        "fileType": "video/mp4",
+        "fileSize": 64793439,
+        "viewType": "preview",
+        "src": "/core/api/resources/647dfdc7-aaee-400c-a1e6-537d4b969cfb/detail",
+        "resourceId": "647dfdc7-aaee-400c-a1e6-537d4b969cfb",
+        "storagePath": "att/47d81d6e-1a67-4ce8-ba43-a8a05d31c518.mp4",
+        "uniqueId": "a28a4bd0-4b1f-4929-92ad-f9e285fbbb2b",
+        "poster": {
+          "resourceId": "524fc455-c076-4c9e-a336-9f1aae7b6a30",
+          "resourceUrl": "https://alidocs.oss-cn-zhangjiakou.aliyuncs.com/res/J9LnW6j3dVKdZlvD/img/55ec3392-dc7d-4960-8348-9c635b9c1545",
+          "storagePath": "img/55ec3392-dc7d-4960-8348-9c635b9c1545"
+        }
+      }
+    },
+    "00000000-0000-0000-0000-000000000001": {
+      "id": "00000000-0000-0000-0000-000000000001",
+      "type": "application/x-alidocs-word",
+      "version": 1,
+      "data": {
+        "style": {
+          "docDefaults": {
+            "type": "paragraph",
+            "default": 1,
+            "name": "dingdocnormal",
+            "data": {
+              "rPr": {
+                "sz": 12,
+                "szUnit": "pt"
+              },
+              "pPr": {
+                "spacing": {
+                  "before": 12,
+                  "after": 12
+                }
+              }
+            }
+          },
+          "tableDefault": {
+            "type": "table",
+            "data": {
+              "tblPr": {
+                "bdr": {
+                  "bottom": {
+                    "color": "#D6D6D6",
+                    "space": 0,
+                    "sz": 1,
+                    "val": "single"
+                  },
+                  "insideH": {
+                    "color": "#D6D6D6",
+                    "space": 0,
+                    "sz": 1,
+                    "val": "single"
+                  },
+                  "insideV": {
+                    "color": "#D6D6D6",
+                    "space": 0,
+                    "sz": 1,
+                    "val": "single"
+                  },
+                  "left": {
+                    "color": "#D6D6D6",
+                    "space": 0,
+                    "sz": 1,
+                    "val": "single"
+                  },
+                  "right": {
+                    "color": "#D6D6D6",
+                    "space": 0,
+                    "sz": 1,
+                    "val": "single"
+                  },
+                  "top": {
+                    "color": "#D6D6D6",
+                    "space": 0,
+                    "sz": 1,
+                    "val": "single"
+                  }
+                }
+              }
+            }
+          },
+          "tableHeader": {
+            "type": "table",
+            "basedOn": "tableDefault",
+            "data": {
+              "tblStylePr": [
+                {
+                  "type": "firstRow",
+                  "tcPr": {
+                    "shd": {
+                      "fill": "#F5F6F7"
+                    }
+                  }
+                },
+                {
+                  "type": "firstCol",
+                  "tcPr": {
+                    "shd": {
+                      "fill": "#F5F6F7"
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        "theme": [],
+        "settings": {
+          "titleCover": {
+            "isHide": true
+          }
+        },
+        "app": {},
+        "numberings": {},
+        "headers": {},
+        "body": [
+          "root",
+          {
+            "sectPr": {
+              "pgSz": {
+                "w": 892,
+                "h": 1127
+              },
+              "pgMar": {
+                "top": 48,
+                "bottom": 48,
+                "left": 72,
+                "right": 72,
+                "header": 56.73,
+                "footer": 66.13,
+                "gutter": 0
+              }
+            },
+            "theme": {
+              "table": {
+                "tableCell": {
+                  "vAlign": "top"
+                }
+              }
+            }
+          },
+          [
+            "container",
+            {
+              "subType": "colorBlocks",
+              "metadata": {
+                "padding": {
+                  "top": 11,
+                  "right": 11,
+                  "bottom": 11,
+                  "left": 11
+                },
+                "borderRadius": 8,
+                "bgcolor": "linear-gradient(316deg, #FFFAE5 -13%, #FFFEFE 52%, #FFF8B9 125%)",
+                "showstk": true,
+                "border": null
+              },
+              "uuid": "mqhsqowr0ay6nief9mvc"
+            },
+            [
+              "p",
+              {
+                "uuid": "mqhsqowrqda7gjzh7y"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "bold": true,
+                    "sz": 14,
+                    "szUnit": "pt",
+                    "color": "#C10002",
+                    "data-type": "leaf"
+                  },
+                  "您是否也遇到这些难题？"
+                ]
+              ]
+            ],
+            [
+              "p",
+              {
+                "ind": {
+                  "left": 0
+                },
+                "list": {
+                  "listId": "diz52axlgo8",
+                  "level": 0,
+                  "symbolStyle": {
+                    "sz": 14
+                  },
+                  "extraData": {},
+                  "listStyleType": "SARR_SDIO_SCIR",
+                  "listStyle": {
+                    "format": "bullet",
+                    "text": "➔",
+                    "align": "left"
+                  },
+                  "hideSymbol": false,
+                  "isTaskList": false,
+                  "isOrdered": false
+                },
+                "uuid": "mqhs1bmr5a77ah7s8zf"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "sz": 14,
+                    "szUnit": "pt",
+                    "color": "rgb(23, 26, 29)",
+                    "data-type": "leaf"
+                  },
+                  "看到别人家的爆品投得风生水起，但自己照搬却效果平平？"
+                ]
+              ]
+            ],
+            [
+              "p",
+              {
+                "ind": {
+                  "left": 0
+                },
+                "list": {
+                  "listId": "diz52axlgo8",
+                  "level": 0,
+                  "symbolStyle": {
+                    "sz": 14
+                  },
+                  "extraData": {},
+                  "listStyleType": "SARR_SDIO_SCIR",
+                  "listStyle": {
+                    "format": "bullet",
+                    "text": "➔",
+                    "align": "left"
+                  },
+                  "hideSymbol": false,
+                  "isTaskList": false,
+                  "isOrdered": false
+                },
+                "uuid": "mqhs1bmrto9ov1zw1zj"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "sz": 14,
+                    "szUnit": "pt",
+                    "color": "rgb(23, 26, 29)",
+                    "data-type": "leaf"
+                  },
+                  "商品上线不知道该设什么出价、怎么设置投放调优？"
+                ]
+              ]
+            ],
+            [
+              "p",
+              {
+                "ind": {
+                  "left": 0
+                },
+                "list": {
+                  "listId": "diz52axlgo8",
+                  "level": 0,
+                  "symbolStyle": {
+                    "sz": 14
+                  },
+                  "extraData": {},
+                  "listStyleType": "SARR_SDIO_SCIR",
+                  "listStyle": {
+                    "format": "bullet",
+                    "text": "➔",
+                    "align": "left"
+                  },
+                  "hideSymbol": false,
+                  "isTaskList": false,
+                  "isOrdered": false
+                },
+                "uuid": "mqhs1bmr5alt6fy5zm"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "sz": 14,
+                    "szUnit": "pt",
+                    "color": "rgb(23, 26, 29)",
+                    "data-type": "leaf"
+                  },
+                  "想快速起量，但试错成本高，调来调去还是跑不出效果？"
+                ]
+              ]
+            ],
+            [
+              "p",
+              {
+                "ind": {
+                  "left": 0
+                },
+                "uuid": "mqhstryez3ler09rrr"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "bold": true,
+                    "sz": 14,
+                    "szUnit": "pt",
+                    "color": "#C10002",
+                    "data-type": "leaf"
+                  },
+                  "根本原因："
+                ],
+                [
+                  "span",
+                  {
+                    "sz": 14,
+                    "szUnit": "pt",
+                    "color": "#7e7F7F",
+                    "data-type": "leaf"
+                  },
+                  "每个商品的用户画像、竞争环境、生命周期都不同，“后验案例”无法直接复用——A商品的成功路径，未必适合B商品。"
+                ]
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mqhsu8wi09cj1xrd7xd"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 16,
+                  "szUnit": "pt",
+                  "color": "linear-gradient(152deg, #C676FF 0%, #654CFF 41%, #405EFF 75%, #007FFF 99%)",
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ],
+            [
+              "span",
+              {
+                "uuid": "mpp3ilqojgxhyp8wn8",
+                "newCode": {
+                  "type": "icon",
+                  "id": "Medal",
+                  "color": "special-color-ai"
+                },
+                "code": "",
+                "data-type": "emoji"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "highlight": null,
+                    "sz": 15,
+                    "szUnit": "pt",
+                    "color": "",
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "highlight": null,
+                  "sz": 15,
+                  "szUnit": "pt",
+                  "color": "",
+                  "data-type": "leaf"
+                },
+                " "
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 16,
+                  "szUnit": "pt",
+                  "color": "linear-gradient(152deg, #C676FF 0%, #654CFF 41%, #405EFF 75%, #007FFF 99%)",
+                  "data-type": "leaf"
+                },
+                "产品背景"
+              ]
+            ]
+          ],
+          [
+            "container",
+            {
+              "subType": "colorBlocks",
+              "metadata": {
+                "padding": {
+                  "top": 11,
+                  "right": 11,
+                  "bottom": 11,
+                  "left": 11
+                },
+                "borderRadius": 8,
+                "bgcolor": "#FFFFFF",
+                "showstk": false,
+                "border": "#9A6DD7"
+              },
+              "uuid": "mqhsuq0yvg63lewcyx"
+            },
+            [
+              "container",
+              {
+                "subType": "colorBlocks",
+                "metadata": {
+                  "padding": {
+                    "top": 11,
+                    "right": 11,
+                    "bottom": 11,
+                    "left": 11
+                  },
+                  "borderRadius": 8,
+                  "bgcolor": "linear-gradient(316deg, #F0EBF7 -13%, #FFFEFE 52%, #D5C8EE 125%)",
+                  "showstk": false,
+                  "border": null
+                },
+                "uuid": "mqhsv6kpzrw1l965evr"
+              },
+              [
+                "p",
+                {
+                  "uuid": "mqhsv6kpyewzroux3wg",
+                  "jc": "center"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "text"
+                  },
+                  [
+                    "span",
+                    {
+                      "bold": true,
+                      "sz": 14,
+                      "szUnit": "pt",
+                      "color": "linear-gradient(152deg, #C676FF 0%, #654CFF 41%, #405EFF 75%, #007FFF 99%)",
+                      "data-type": "leaf"
+                    },
+                    "魔方案例把“不确定”变成“可借鉴”"
+                  ]
+                ]
+              ]
+            ],
+            [
+              "p",
+              {
+                "uuid": "mqhsuv8m8z698gqw5mn",
+                "jc": "center"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "sz": 13,
+                    "szUnit": "pt",
+                    "color": "rgb(23, 26, 29)",
+                    "data-type": "leaf"
+                  },
+                  "货品全站推广推出"
+                ],
+                [
+                  "span",
+                  {
+                    "bold": true,
+                    "sz": 13,
+                    "szUnit": "pt",
+                    "color": "linear-gradient(152deg, #C676FF 0%, #654CFF 41%, #405EFF 75%, #007FFF 99%)",
+                    "data-type": "leaf"
+                  },
+                  "「案例魔方」"
+                ],
+                [
+                  "span",
+                  {
+                    "sz": 13,
+                    "szUnit": "pt",
+                    "color": "rgb(23, 26, 29)",
+                    "data-type": "leaf"
+                  },
+                  "，它不再给您看“别人的故事”，而是为您实时匹配与您商品"
+                ],
+                [
+                  "span",
+                  {
+                    "bold": true,
+                    "sz": 13,
+                    "szUnit": "pt",
+                    "color": "rgb(23, 26, 29)",
+                    "data-type": "leaf"
+                  },
+                  "高度相似"
+                ],
+                [
+                  "span",
+                  {
+                    "sz": 13,
+                    "szUnit": "pt",
+                    "color": "rgb(23, 26, 29)",
+                    "data-type": "leaf"
+                  },
+                  "的优秀案例，提炼出"
+                ],
+                [
+                  "span",
+                  {
+                    "bold": true,
+                    "sz": 13,
+                    "szUnit": "pt",
+                    "color": "rgb(23, 26, 29)",
+                    "data-type": "leaf"
+                  },
+                  "高浓度、可落地"
+                ],
+                [
+                  "span",
+                  {
+                    "sz": 13,
+                    "szUnit": "pt",
+                    "color": "rgb(23, 26, 29)",
+                    "data-type": "leaf"
+                  },
+                  "的投放策略，提升您采纳后的成功概率！"
+                ]
+              ]
+            ],
+            [
+              "table",
+              {
+                "colsWidth": [
+                  325,
+                  325
+                ],
+                "sr": true,
+                "uuid": "mqhszh3vp6yjd4zpivf"
+              },
+              [
+                "tr",
+                {
+                  "uuid": "mqhszh3v3hmwphqkiuy"
+                },
+                [
+                  "tc",
+                  {
+                    "fill": "#FFFFFF",
+                    "vAlign": "top",
+                    "uuid": "mqhszh3utj3fw0mt8g",
+                    "border": "#9A6DD7",
+                    "rowSpan": 1,
+                    "colSpan": 1
+                  },
+                  [
+                    "p",
+                    {
+                      "uuid": "mqhszh3uy407np3ftnb",
+                      "jc": "center"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "bold": true,
+                          "sz": 13,
+                          "szUnit": "pt",
+                          "color": "linear-gradient(152deg, #C676FF 0%, #654CFF 41%, #405EFF 75%, #007FFF 99%)",
+                          "data-type": "leaf"
+                        },
+                        "智能匹配相似优秀案例"
+                      ]
+                    ]
+                  ],
+                  [
+                    "p",
+                    {
+                      "list": {
+                        "listId": "xvy5ks72t6j",
+                        "isOrdered": false,
+                        "level": 0,
+                        "listStyle": {
+                          "format": "bullet",
+                          "text": "●",
+                          "align": "left"
+                        }
+                      },
+                      "uuid": "mqht0wxv2d24kdoaqbz"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "sz": 10.5,
+                          "szUnit": "pt",
+                          "color": "rgb(23, 26, 29)",
+                          "data-type": "leaf"
+                        },
+                        "系统基于您的商品（如类目、规格等）自动挖掘多个高GMV增速的相似商品；"
+                      ]
+                    ]
+                  ],
+                  [
+                    "p",
+                    {
+                      "uuid": "mqhtbrl2u6ncxdw041l"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "sz": 10.5,
+                          "szUnit": "pt",
+                          "color": "rgb(23, 26, 29)",
+                          "data-type": "leaf"
+                        },
+                        ""
+                      ]
+                    ]
+                  ],
+                  [
+                    "p",
+                    {
+                      "list": {
+                        "listId": "xvy5ks72t6j",
+                        "isOrdered": false,
+                        "level": 0,
+                        "listStyle": {
+                          "format": "bullet",
+                          "text": "●",
+                          "align": "left"
+                        }
+                      },
+                      "uuid": "mqhs3761qioy6563zf"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "sz": 10.5,
+                          "szUnit": "pt",
+                          "color": "rgb(23, 26, 29)",
+                          "data-type": "leaf"
+                        },
+                        "右侧展示这些"
+                      ],
+                      [
+                        "span",
+                        {
+                          "bold": true,
+                          "sz": 10.5,
+                          "szUnit": "pt",
+                          "color": "rgb(23, 26, 29)",
+                          "data-type": "leaf"
+                        },
+                        "“相似优秀案例”的"
+                      ],
+                      [
+                        "span",
+                        {
+                          "sz": 10.5,
+                          "szUnit": "pt",
+                          "color": "rgb(23, 26, 29)",
+                          "data-type": "leaf"
+                        },
+                        "关键信息： "
+                      ],
+                      [
+                        "span",
+                        {
+                          "sz": 10.5,
+                          "szUnit": "pt",
+                          "color": "rgb(23, 26, 29)",
+                          "underline": {
+                            "value": "single"
+                          },
+                          "data-type": "leaf"
+                        },
+                        "全网GMV金额、GMV增长增速"
+                      ],
+                      [
+                        "span",
+                        {
+                          "sz": 10.5,
+                          "szUnit": "pt",
+                          "color": "rgb(23, 26, 29)",
+                          "data-type": "leaf"
+                        },
+                        "等；"
+                      ]
+                    ]
+                  ]
+                ],
+                [
+                  "tc",
+                  {
+                    "fill": "#FFFFFF",
+                    "vAlign": "top",
+                    "uuid": "mqhszh3vipgaic97lv",
+                    "border": "#9A6DD7",
+                    "rowSpan": 1,
+                    "colSpan": 1
+                  },
+                  [
+                    "p",
+                    {
+                      "uuid": "mqhszh3vtnqsc9ckhw",
+                      "jc": "center"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "bold": true,
+                          "sz": 13,
+                          "szUnit": "pt",
+                          "color": "linear-gradient(152deg, #C676FF 0%, #654CFF 41%, #405EFF 75%, #007FFF 99%)",
+                          "data-type": "leaf"
+                        },
+                        "一键采纳，快速建计划"
+                      ]
+                    ]
+                  ],
+                  [
+                    "p",
+                    {
+                      "list": {
+                        "listId": "s5bbuyz3xo",
+                        "isOrdered": false,
+                        "level": 0,
+                        "listStyle": {
+                          "format": "bullet",
+                          "text": "●",
+                          "align": "left"
+                        }
+                      },
+                      "uuid": "mqht2m7619ndqac8yo1"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "sz": 10.5,
+                          "szUnit": "pt",
+                          "color": "rgb(23, 26, 29)",
+                          "data-type": "leaf"
+                        },
+                        "通过相似优秀案例 → 系统自动将该商品的核心投放配置（如出价目标、投放调优）转化为您的可用方案；"
+                      ]
+                    ]
+                  ],
+                  [
+                    "p",
+                    {
+                      "list": {
+                        "listId": "s5bbuyz3xo",
+                        "isOrdered": false,
+                        "level": 0,
+                        "listStyle": {
+                          "format": "bullet",
+                          "text": "●",
+                          "align": "left"
+                        }
+                      },
+                      "uuid": "mqht2rf7etxq50bkirj"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "sz": 10.5,
+                          "szUnit": "pt",
+                          "color": "rgb(23, 26, 29)",
+                          "data-type": "leaf"
+                        },
+                        "您可直接应用于新建货品全站推广计划，无需手动配置；"
+                      ]
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "p",
+              {
+                "uuid": "mqht2v5x139jsvm2ujhk",
+                "ind": {
+                  "left": 0
+                },
+                "list": {
+                  "listId": "z63ynsymze",
+                  "level": 0,
+                  "symbolStyle": {
+                    "color": "",
+                    "sz": 11
+                  },
+                  "extraData": {},
+                  "listStyleType": "SARR_SDIO_SCIR",
+                  "listStyle": {
+                    "format": "bullet",
+                    "text": "➔",
+                    "align": "left"
+                  },
+                  "hideSymbol": false,
+                  "isTaskList": false,
+                  "isOrdered": false
+                }
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "bold": true,
+                    "sz": 11,
+                    "szUnit": "pt",
+                    "color": "#C10002",
+                    "data-type": "leaf"
+                  },
+                  "当前支持一键配置："
+                ],
+                [
+                  "span",
+                  {
+                    "highlight": "#FFFFFF",
+                    "sz": 11,
+                    "szUnit": "pt",
+                    "color": "linear-gradient(152deg, #C676FF 0%, #654CFF 41%, #405EFF 75%, #007FFF 99%)",
+                    "data-type": "leaf"
+                  },
+                  "✔ "
+                ],
+                [
+                  "span",
+                  {
+                    "sz": 11,
+                    "szUnit": "pt",
+                    "color": "",
+                    "data-type": "leaf"
+                  },
+                  "出价目标（如「直接净成交」）"
+                ],
+                [
+                  "span",
+                  {
+                    "highlight": "#FFFFFF",
+                    "sz": 11,
+                    "szUnit": "pt",
+                    "color": "linear-gradient(152deg, #C676FF 0%, #654CFF 41%, #405EFF 75%, #007FFF 99%)",
+                    "data-type": "leaf"
+                  },
+                  "✔ "
+                ],
+                [
+                  "span",
+                  {
+                    "sz": 11,
+                    "szUnit": "pt",
+                    "color": "",
+                    "data-type": "leaf"
+                  },
+                  "投放调优建议（如多目标优化、一键起量）"
+                ]
+              ]
+            ],
+            [
+              "p",
+              {
+                "ind": {
+                  "left": 0
+                },
+                "spacing": {},
+                "uuid": "mqhs3s4nu0lbt4qojgj",
+                "list": {
+                  "listId": "xnu2jozlf4r",
+                  "level": 0,
+                  "symbolStyle": {
+                    "color": "",
+                    "sz": 11
+                  },
+                  "extraData": {},
+                  "listStyleType": "SARR_SDIO_SCIR",
+                  "listStyle": {
+                    "format": "bullet",
+                    "text": "➔",
+                    "align": "left"
+                  },
+                  "hideSymbol": false,
+                  "isTaskList": false,
+                  "isOrdered": false
+                }
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "bold": true,
+                    "sz": 11,
+                    "szUnit": "pt",
+                    "color": "#C10002",
+                    "data-type": "leaf"
+                  },
+                  "暂不支持："
+                ],
+                [
+                  "span",
+                  {
+                    "sz": 11,
+                    "szUnit": "pt",
+                    "color": "",
+                    "data-type": "leaf"
+                  },
+                  "预算金额、ROI目标值设定（需您手动输入）"
+                ]
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mqhs3762r94njzey84"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 18,
+                  "szUnit": "pt",
+                  "color": "linear-gradient(152deg, #C676FF 0%, #654CFF 41%, #405EFF 75%, #007FFF 99%)",
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ],
+            [
+              "span",
+              {
+                "uuid": "mqhtarurg8tj5hxb89i",
+                "code": "",
+                "newCode": {
+                  "type": "icon",
+                  "id": "Explore",
+                  "color": "special-color-ai"
+                },
+                "data-type": "emoji"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "highlight": null,
+                    "sz": 16,
+                    "szUnit": "pt",
+                    "color": "",
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "highlight": null,
+                  "sz": 16,
+                  "szUnit": "pt",
+                  "color": "",
+                  "data-type": "leaf"
+                },
+                " "
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 16,
+                  "szUnit": "pt",
+                  "color": "linear-gradient(152deg, #C676FF 0%, #654CFF 41%, #405EFF 75%, #007FFF 99%)",
+                  "data-type": "leaf"
+                },
+                "如何使用案例魔方？3步搞定！"
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 18,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                " "
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 18,
+                  "szUnit": "pt",
+                  "color": "#FE0300",
+                  "data-type": "leaf"
+                },
+                ">>>"
+              ]
+            ],
+            [
+              "a",
+              {
+                "href": "https://one.alimama.com/index.html#!/main/index?bizCode=onebpSite&defaultSettingStrategyId=common&defaultSettingStrategyType=onebpItemrMarketingMain",
+                "uuid": "mrafsv427oiw24um8x5"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "bold": true,
+                    "sz": 16,
+                    "szUnit": "pt",
+                    "data-type": "leaf"
+                  },
+                  "点击立即使用案例魔方"
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 16,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "table",
+            {
+              "colsWidth": [
+                31.99,
+                68.01
+              ],
+              "tblW": {
+                "w": 100,
+                "type": "pct"
+              },
+              "uuid": "mqht6ushk5dfckp254g",
+              "styleId": "tableHeader",
+              "tblLook": {
+                "firstRow": 1,
+                "firstColumn": 0,
+                "lastRow": 0,
+                "lastColumn": 0
+              }
+            },
+            [
+              "tr",
+              {
+                "uuid": "mqht6ush6owdlnq6kal",
+                "isTblHeader": true,
+                "h": 43
+              },
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mqht6ush2re37n2sex6",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mqht6ushl27bhvfkt3r",
+                    "jc": "center"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "sz": 12,
+                        "szUnit": "pt",
+                        "color": "linear-gradient(152deg, #C676FF 0%, #654CFF 41%, #405EFF 75%, #007FFF 99%)",
+                        "data-type": "leaf"
+                      },
+                      "步骤"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mqht6ushep43huqq43m",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mqht6ush3ux6l6tcv5e",
+                    "jc": "center"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "sz": 12,
+                        "szUnit": "pt",
+                        "color": "linear-gradient(152deg, #C676FF 0%, #654CFF 41%, #405EFF 75%, #007FFF 99%)",
+                        "data-type": "leaf"
+                      },
+                      "路径"
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {
+                "uuid": "mqht6ushv2aar8dn3q"
+              },
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mqht6ushwpgnl1sd9ee",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mqht6ushiblvbk9tz3"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "rgb(23, 26, 29)",
+                        "data-type": "leaf"
+                      },
+                      "第1步：进入"
+                    ]
+                  ],
+                  [
+                    "a",
+                    {
+                      "href": "https://one.alimama.com/index.html#!/main/index?bizCode=onebpSite&strategyPoints=plan%7CadossStrategyTrace%7C1781685427534%7C837035_212835%7C&sourceChannel=adossStrategy&accept=cubemodule&strategyPoints=plan%7CadossStrategyTrace%7C1781685427534%7C837035_212835%7C",
+                      "uuid": "mqhtiqf5dd1fkknvyle"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "sz": 11,
+                          "szUnit": "pt",
+                          "data-type": "leaf"
+                        },
+                        "货品全站推广创建页"
+                      ]
+                    ]
+                  ],
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mqht6ush123p7ngq1mxe",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mqht6ushh7amgclfp9h"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "rgb(23, 26, 29)",
+                        "data-type": "leaf"
+                      },
+                      "路径：【万相台无界版】→ 【货品全站推广】→ 【创建新计划】"
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {
+                "uuid": "mqht6ushl94fkv4xe0n"
+              },
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mqht6ushr74h69znyab",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mqht6ushtdg2pidcg1p"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "rgb(23, 26, 29)",
+                        "data-type": "leaf"
+                      },
+                      "第2步：选择您的推广商品"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mqht6ushcjizjvhxsgw",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mqht6ush6ccl15y03sr"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "rgb(23, 26, 29)",
+                        "data-type": "leaf"
+                      },
+                      "系统将自动触发案例魔方智能推荐，右侧展示相似优秀案例；"
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "uuid": "mqht7iy3p6ncji7x29"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "rgb(23, 26, 29)",
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ],
+                  [
+                    "img",
+                    {
+                      "uuid": "mr36yh9tf18wfbh88qi",
+                      "name": "image.png",
+                      "size": 1376724,
+                      "width": 489,
+                      "height": 261.214626391097,
+                      "src": "/core/api/resources/img/5eecdaf48460cde5793c2346941969dc8629cc068646eb7875b8339e1c4c24831b75b38faadcd24bec177c308ebd530472d1feb5c429a8cdf44ccb65d19e440539ec3ef7bcee36c2a4da434670d332263f9c59a66ad8153c4fb4c8ed7016461c",
+                      "extraData": {
+                        "resourceId": "e237b16a-c910-4bae-91eb-2ad37d84bd18",
+                        "metaData": {
+                          "size": 1376724,
+                          "originWidth": 2516,
+                          "originHeight": 1344,
+                          "format": "png",
+                          "ratio": 1
+                        }
+                      },
+                      "rotation": 0
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "sz": 11,
+                          "szUnit": "pt",
+                          "data-type": "leaf"
+                        },
+                        ""
+                      ]
+                    ]
+                  ],
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "rgb(23, 26, 29)",
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {
+                "uuid": "mqht779wrq4g6q13ch"
+              },
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mqht779woepo3kxy2i",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mqht779whuyze7oclkp"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "rgb(23, 26, 29)",
+                        "data-type": "leaf"
+                      },
+                      "第3步：查看 & 采纳策略"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mqht779wihak5sf2bnh",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "list": {
+                      "listId": "1u5fwwm4m5y",
+                      "isOrdered": false,
+                      "level": 0,
+                      "listStyle": {
+                        "format": "bullet",
+                        "text": "●",
+                        "align": "left"
+                      }
+                    },
+                    "uuid": "mqht7b9eurl10lafdt"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "rgb(23, 26, 29)",
+                        "data-type": "leaf"
+                      },
+                      "浏览右侧案例"
+                    ],
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "，"
+                    ],
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "rgb(23, 26, 29)",
+                        "data-type": "leaf"
+                      },
+                      "点击"
+                    ],
+                    [
+                      "span",
+                      {
+                        "highlight": "#FFFFFF",
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "linear-gradient(152deg, #C676FF 0%, #654CFF 41%, #405EFF 75%, #007FFF 99%)",
+                        "data-type": "leaf"
+                      },
+                      "【预览并调试策略】"
+                    ],
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "rgb(23, 26, 29)",
+                        "data-type": "leaf"
+                      },
+                      "，系统自动填充推荐配置；"
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "list": {
+                      "listId": "1u5fwwm4m5y",
+                      "isOrdered": false,
+                      "level": 0,
+                      "listStyle": {
+                        "format": "bullet",
+                        "text": "●",
+                        "align": "left"
+                      }
+                    },
+                    "uuid": "mqhs4eg7mnxojck8vqg"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "rgb(23, 26, 29)",
+                        "data-type": "leaf"
+                      },
+                      "补充预算、ROI设置等必要信息，发布计划即可！"
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {
+                "uuid": "mqht8xvo7h06yqf1vq4"
+              },
+              [
+                "tc",
+                {
+                  "colSpan": 2,
+                  "rowSpan": 1,
+                  "uuid": "mqht8xvo5c9036drs6c",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mqht8xvou8wf1vzmdu",
+                    "jc": "center"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "sz": 12,
+                        "szUnit": "pt",
+                        "color": "linear-gradient(152deg, #C676FF 0%, #654CFF 41%, #405EFF 75%, #007FFF 99%)",
+                        "data-type": "leaf"
+                      },
+                      "货品全站推广 × 魔方案例，助您把“别人的经验”，变成“自己的增长”！"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mqht8xvooy8wcvjz4eh",
+                  "hidden": true,
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mqht8xvo9yn5dnunpo",
+                    "jc": "center"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ]
+                ]
+              ]
+            ]
+          ],
+          [
+            "card",
+            {
+              "cardType": "hetu",
+              "metadata": {
+                "id": "a28a4bd0-4b1f-4929-92ad-f9e285fbbb2b",
+                "type": "application/x-alidocs-plugin-attachment"
+              },
+              "uuid": "mrkh00n1g16qa09mjgh"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mqhtkotdadnqe69hxm"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 18,
+                  "szUnit": "pt",
+                  "color": "linear-gradient(152deg, #C676FF 0%, #654CFF 41%, #405EFF 75%, #007FFF 99%)",
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ],
+            [
+              "span",
+              {
+                "uuid": "mqhtkozjrwqcyu3jf4e",
+                "newCode": {
+                  "type": "icon",
+                  "id": "Consult",
+                  "color": "special-color-ai"
+                },
+                "code": "",
+                "data-type": "emoji"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "highlight": null,
+                    "sz": 16,
+                    "szUnit": "pt",
+                    "color": "",
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "highlight": "#FFFFFF",
+                  "sz": 16,
+                  "szUnit": "pt",
+                  "color": "linear-gradient(152deg, #C676FF 0%, #654CFF 41%, #405EFF 75%, #007FFF 99%)",
+                  "data-type": "leaf"
+                },
+                " FAQ"
+              ]
+            ]
+          ],
+          [
+            "container",
+            {
+              "subType": "colorBlocks",
+              "metadata": {
+                "padding": {
+                  "top": 11,
+                  "right": 11,
+                  "bottom": 11,
+                  "left": 11
+                },
+                "borderRadius": 8,
+                "bgcolor": "#FFFFFF",
+                "showstk": false,
+                "border": "#9A6DD7"
+              },
+              "uuid": "mqhtl2svxdrcxnb6m9n"
+            },
+            [
+              "p",
+              {
+                "uuid": "mr48mq3t6f9ztd5068c",
+                "jc": "left"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "bold": true,
+                    "sz": 12,
+                    "szUnit": "pt",
+                    "color": "rgb(251, 140, 0)",
+                    "underline": {
+                      "value": "single"
+                    },
+                    "data-type": "leaf"
+                  },
+                  "1"
+                ],
+                [
+                  "span",
+                  {
+                    "bold": true,
+                    "sz": 12,
+                    "szUnit": "pt",
+                    "color": "rgb(249, 221, 178)",
+                    "data-type": "leaf"
+                  },
+                  "｜"
+                ],
+                [
+                  "span",
+                  {
+                    "bold": true,
+                    "underline": {
+                      "value": "single"
+                    },
+                    "data-type": "leaf"
+                  },
+                  "为什么我没有案例魔方？"
+                ]
+              ]
+            ],
+            [
+              "p",
+              {
+                "ind": {
+                  "left": 0
+                },
+                "uuid": "m7l9rkdcs0w11lqxdf"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "sz": 12,
+                    "szUnit": "pt",
+                    "color": "rgb(23, 26, 29)",
+                    "data-type": "leaf"
+                  },
+                  "该功能目前正在内测，后续将陆续开放，欢迎持续关注！"
+                ]
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "moaykewt3oxx1wncvur"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 16,
+                  "szUnit": "pt",
+                  "color": "linear-gradient(152deg, #C676FF 0%, #654CFF 41%, #405EFF 75%, #007FFF 99%)",
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ],
+            [
+              "span",
+              {
+                "uuid": "mqhtarurt1g0ilb1q1",
+                "newCode": {
+                  "type": "icon",
+                  "id": "Service",
+                  "color": "special-color-ai"
+                },
+                "code": "",
+                "data-type": "emoji"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "highlight": null,
+                    "sz": 15,
+                    "szUnit": "pt",
+                    "color": "",
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "highlight": null,
+                  "sz": 15,
+                  "szUnit": "pt",
+                  "color": "",
+                  "data-type": "leaf"
+                },
+                " "
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 16,
+                  "szUnit": "pt",
+                  "color": "linear-gradient(152deg, #C676FF 0%, #654CFF 41%, #405EFF 75%, #007FFF 99%)",
+                  "data-type": "leaf"
+                },
+                "商家答疑群"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mqhs6ltbn2gjgywnt5s"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": false,
+                  "sz": 14,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "如您对以上有任何疑问，可向阿里妈妈小袋鼠客服咨询或者钉钉扫码进群咨询；"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "moayjq6t5w2q4kf5d6v"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ],
+            [
+              "img",
+              {
+                "uuid": "89yrer",
+                "name": "image.png",
+                "size": 488235,
+                "width": 285,
+                "height": 310,
+                "src": "/core/api/resources/img/5eecdaf48460cde5daa8b734f89dd7a5fb9dae5980ed483475b8339e1c4c24831b75b38faadcd24bec177c308ebd5304efa9a587cfbf452defcd6918fc3f11df094080101948120e3580b343f7bfd6d2bb3a9ab96acce0774fb4c8ed7016461c",
+                "extraData": {
+                  "resourceId": "f9febf18-9913-4f36-bbed-f0b4c279098c",
+                  "metaData": {
+                    "size": 488235,
+                    "originWidth": 716,
+                    "originHeight": 778,
+                    "format": "png",
+                    "ratio": 1
+                  }
+                },
+                "rotation": 0
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                " "
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "ind": {},
+              "spacing": {},
+              "uuid": "mqhs2djhfsj2wwpjfj"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 13.5,
+                  "szUnit": "pt",
+                  "color": "rgb(23, 26, 29)",
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ]
+        ],
+        "footers": {},
+        "version": 1
+      },
+      "refs": {}
+    }
+  }
+}

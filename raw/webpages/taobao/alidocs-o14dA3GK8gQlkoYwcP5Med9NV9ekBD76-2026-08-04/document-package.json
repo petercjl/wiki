@@ -1,0 +1,4414 @@
+{
+  "version": 1,
+  "type": "application/x-alidocs-package",
+  "main": "00000000-0000-0000-0000-000000000001",
+  "plugins": "00000000-0000-0000-0000-000000000002",
+  "parts": {
+    "00000000-0000-0000-0000-000000000001": {
+      "id": "00000000-0000-0000-0000-000000000001",
+      "type": "application/x-alidocs-word",
+      "version": 1,
+      "data": {
+        "style": {
+          "docDefaults": {
+            "type": "paragraph",
+            "default": 1,
+            "name": "dingdocnormal",
+            "data": {
+              "rPr": {
+                "sz": 12,
+                "szUnit": "pt"
+              },
+              "pPr": {
+                "spacing": {
+                  "before": 10,
+                  "after": 10
+                }
+              }
+            }
+          },
+          "tableDefault": {
+            "type": "table",
+            "data": {
+              "tblPr": {
+                "bdr": {
+                  "bottom": {
+                    "color": "#D6D6D6",
+                    "space": 0,
+                    "sz": 1,
+                    "val": "single"
+                  },
+                  "insideH": {
+                    "color": "#D6D6D6",
+                    "space": 0,
+                    "sz": 1,
+                    "val": "single"
+                  },
+                  "insideV": {
+                    "color": "#D6D6D6",
+                    "space": 0,
+                    "sz": 1,
+                    "val": "single"
+                  },
+                  "left": {
+                    "color": "#D6D6D6",
+                    "space": 0,
+                    "sz": 1,
+                    "val": "single"
+                  },
+                  "right": {
+                    "color": "#D6D6D6",
+                    "space": 0,
+                    "sz": 1,
+                    "val": "single"
+                  },
+                  "top": {
+                    "color": "#D6D6D6",
+                    "space": 0,
+                    "sz": 1,
+                    "val": "single"
+                  }
+                }
+              }
+            }
+          },
+          "tableHeader": {
+            "type": "table",
+            "basedOn": "tableDefault",
+            "data": {
+              "tblStylePr": [
+                {
+                  "type": "firstRow",
+                  "tcPr": {
+                    "shd": {
+                      "fill": "#F5F6F7"
+                    }
+                  }
+                },
+                {
+                  "type": "firstCol",
+                  "tcPr": {
+                    "shd": {
+                      "fill": "#F5F6F7"
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        "theme": [],
+        "settings": {
+          "titleCover": {
+            "isHide": true
+          }
+        },
+        "app": {},
+        "numberings": {},
+        "headers": {},
+        "body": [
+          "root",
+          {
+            "sectPr": {
+              "pgSz": {
+                "w": 1127,
+                "h": 1588
+              },
+              "pgMar": {
+                "header": 56.73,
+                "footer": 66.13,
+                "top": 48,
+                "bottom": 48,
+                "left": 72,
+                "right": 72,
+                "gutter": 0
+              }
+            },
+            "theme": {
+              "table": {
+                "tableCell": {
+                  "vAlign": "top"
+                }
+              }
+            },
+            "uuid": "mf4v9twxwlgac9tw4rm"
+          },
+          [
+            "container",
+            {
+              "subType": "colorBlocks",
+              "metadata": {
+                "padding": {
+                  "top": 11,
+                  "right": 11,
+                  "bottom": 11,
+                  "left": 11
+                },
+                "borderRadius": 8,
+                "bgcolor": "#FFFFFF",
+                "showstk": false,
+                "border": "#FF7369"
+              },
+              "uuid": "mff1vsq72pxueu1he7g"
+            },
+            [
+              "p",
+              {
+                "uuid": "mff1vsq7bo1fci7sq9k",
+                "jc": "center"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "bold": true,
+                    "fonts": {
+                      "ascii": "DingTalk JinBuTi",
+                      "hAnsi": "DingTalk JinBuTi",
+                      "cs": "DingTalk JinBuTi",
+                      "eastAsia": "DingTalk JinBuTi"
+                    },
+                    "sz": 16,
+                    "szUnit": "pt",
+                    "color": "linear-gradient(90deg, #FF7100 0%, #F300AD 100%)",
+                    "data-type": "leaf"
+                  },
+                  "我想要定向投放L4/L5高消费力人群"
+                ]
+              ]
+            ],
+            [
+              "p",
+              {
+                "uuid": "mff24xp0c39d9geobps",
+                "jc": "center"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "bold": true,
+                    "fonts": {
+                      "ascii": "DingTalk JinBuTi",
+                      "hAnsi": "DingTalk JinBuTi",
+                      "cs": "DingTalk JinBuTi",
+                      "eastAsia": "DingTalk JinBuTi"
+                    },
+                    "sz": 16,
+                    "szUnit": "pt",
+                    "color": "linear-gradient(90deg, #FF7100 0%, #F300AD 100%)",
+                    "data-type": "leaf"
+                  },
+                  "我想要抢占首页猜你喜欢和购中后核心资源位"
+                ]
+              ]
+            ],
+            [
+              "p",
+              {
+                "uuid": "mff25l1z9zlq3n3el2r",
+                "jc": "center"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "bold": true,
+                    "fonts": {
+                      "ascii": "DingTalk JinBuTi",
+                      "hAnsi": "DingTalk JinBuTi",
+                      "cs": "DingTalk JinBuTi",
+                      "eastAsia": "DingTalk JinBuTi"
+                    },
+                    "sz": 16,
+                    "szUnit": "pt",
+                    "color": "linear-gradient(90deg, #FF7100 0%, #F300AD 100%)",
+                    "data-type": "leaf"
+                  },
+                  "我想要高效竞争，定向渗透指定品牌/店铺/商品核心营销人群"
+                ]
+              ]
+            ],
+            [
+              "p",
+              {
+                "uuid": "mff26bntc17p0g5e176",
+                "jc": "center"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "bold": true,
+                    "fonts": {
+                      "ascii": "DingTalk JinBuTi",
+                      "hAnsi": "DingTalk JinBuTi",
+                      "cs": "DingTalk JinBuTi",
+                      "eastAsia": "DingTalk JinBuTi"
+                    },
+                    "sz": 16,
+                    "szUnit": "pt",
+                    "color": "linear-gradient(90deg, #FF7100 0%, #F300AD 100%)",
+                    "data-type": "leaf"
+                  },
+                  "我想要投放淘宝钻石/黑钻会员和闪购蓝海机会人群"
+                ]
+              ]
+            ],
+            [
+              "p",
+              {
+                "uuid": "mff2a1vrki84g5rtvc",
+                "jc": "center"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "bold": true,
+                    "fonts": {
+                      "ascii": "DingTalk JinBuTi",
+                      "hAnsi": "DingTalk JinBuTi",
+                      "cs": "DingTalk JinBuTi",
+                      "eastAsia": "DingTalk JinBuTi"
+                    },
+                    "sz": 16,
+                    "szUnit": "pt",
+                    "color": "linear-gradient(90deg, #FF7100 0%, #F300AD 100%)",
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ]
+            ],
+            [
+              "p",
+              {
+                "uuid": "mff27102jqhfma521bc",
+                "jc": "center"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "bold": true,
+                    "fonts": {
+                      "ascii": "DingTalk JinBuTi",
+                      "hAnsi": "DingTalk JinBuTi",
+                      "cs": "DingTalk JinBuTi",
+                      "eastAsia": "DingTalk JinBuTi"
+                    },
+                    "sz": 20,
+                    "szUnit": "pt",
+                    "color": "linear-gradient(90deg, #FF7100 0%, #F300AD 100%)",
+                    "data-type": "leaf"
+                  },
+                  "不用担心！「个性化定制人群包」全满足你！"
+                ]
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mff2977kcql6muw6gis"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "container",
+            {
+              "subType": "colorBlocks",
+              "metadata": {
+                "padding": {
+                  "top": 11,
+                  "right": 11,
+                  "bottom": 11,
+                  "left": 11
+                },
+                "borderRadius": 8,
+                "bgcolor": "#F5F6F7",
+                "showstk": false,
+                "border": null
+              },
+              "uuid": "mf4utv7j1wiwh4stxjr"
+            },
+            [
+              "container",
+              {
+                "subType": "colorBlocks",
+                "metadata": {
+                  "padding": {
+                    "top": 11,
+                    "right": 11,
+                    "bottom": 11,
+                    "left": 11
+                  },
+                  "borderRadius": 8,
+                  "bgcolor": "#FFFFFF",
+                  "showstk": false,
+                  "border": null
+                },
+                "uuid": "mf4uwdpe9a2w0wv79ew"
+              },
+              [
+                "p",
+                {
+                  "uuid": "mf4uwdpevko7dp8hmod",
+                  "jc": "center"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "text"
+                  },
+                  [
+                    "span",
+                    {
+                      "bold": true,
+                      "fonts": {
+                        "ascii": "DingTalk JinBuTi",
+                        "hAnsi": "DingTalk JinBuTi",
+                        "cs": "DingTalk JinBuTi",
+                        "eastAsia": "DingTalk JinBuTi"
+                      },
+                      "sz": 24,
+                      "szUnit": "pt",
+                      "color": "linear-gradient(152deg, #C676FF 0%, #654CFF 41%, #405EFF 75%, #007FFF 99%)",
+                      "data-type": "leaf"
+                    },
+                    "支持“私人订制”「个性化定制人群包」能力全新上线"
+                  ]
+                ]
+              ],
+              [
+                "p",
+                {
+                  "uuid": "mf4vavgqi0qkfnrf82h",
+                  "jc": "center"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "text"
+                  },
+                  [
+                    "span",
+                    {
+                      "bold": true,
+                      "fonts": {
+                        "ascii": "DingTalk JinBuTi",
+                        "hAnsi": "DingTalk JinBuTi",
+                        "cs": "DingTalk JinBuTi",
+                        "eastAsia": "DingTalk JinBuTi"
+                      },
+                      "sz": 22,
+                      "szUnit": "pt",
+                      "color": "linear-gradient(152deg, #C676FF 0%, #654CFF 41%, #405EFF 75%, #007FFF 99%)",
+                      "data-type": "leaf"
+                    },
+                    "满足更多人群精细化运营诉求"
+                  ]
+                ]
+              ],
+              [
+                "container",
+                {
+                  "subType": "colorBlocks",
+                  "metadata": {
+                    "padding": {
+                      "top": 11,
+                      "right": 11,
+                      "bottom": 11,
+                      "left": 11
+                    },
+                    "borderRadius": 8,
+                    "bgcolor": "#F5F6F7",
+                    "showstk": false,
+                    "border": "#54A1E8"
+                  },
+                  "uuid": "mf6fxz2pu9015eha8t"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mf6fxz2pzfij6n9t2o",
+                    "jc": "center"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "fonts": {
+                          "ascii": "DingTalk JinBuTi",
+                          "hAnsi": "DingTalk JinBuTi",
+                          "cs": "DingTalk JinBuTi",
+                          "eastAsia": "DingTalk JinBuTi"
+                        },
+                        "sz": 16,
+                        "szUnit": "pt",
+                        "color": "linear-gradient(90deg, #FF7100 0%, #F300AD 100%)",
+                        "data-type": "leaf"
+                      },
+                      "定制一键直达"
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "uuid": "mf6fziqhhtpolcd7yx9",
+                    "jc": "center"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "fonts": {
+                          "ascii": "DingTalk JinBuTi",
+                          "hAnsi": "DingTalk JinBuTi",
+                          "cs": "DingTalk JinBuTi",
+                          "eastAsia": "DingTalk JinBuTi"
+                        },
+                        "sz": 12,
+                        "szUnit": "pt",
+                        "color": "linear-gradient(90deg, #FF7100 0%, #F300AD 100%)",
+                        "data-type": "leaf"
+                      },
+                      "填写问卷，最快提报后1-2天上线"
+                    ]
+                  ]
+                ],
+                [
+                  "table",
+                  {
+                    "colsWidth": [
+                      325,
+                      325
+                    ],
+                    "sr": true,
+                    "uuid": "mff2xexj21ub1dgr8t6"
+                  },
+                  [
+                    "tr",
+                    {
+                      "uuid": "mff2xexjar2oh2npwft"
+                    },
+                    [
+                      "tc",
+                      {
+                        "fill": "#FFFFFF",
+                        "vAlign": "top",
+                        "uuid": "mff2xexjgk7ki9wzrpf"
+                      },
+                      [
+                        "p",
+                        {
+                          "uuid": "mff2xexia3l7toliiea",
+                          "jc": "center"
+                        },
+                        [
+                          "span",
+                          {
+                            "data-type": "text"
+                          },
+                          [
+                            "span",
+                            {
+                              "fonts": {
+                                "ascii": "DingTalk JinBuTi",
+                                "hAnsi": "DingTalk JinBuTi",
+                                "cs": "DingTalk JinBuTi",
+                                "eastAsia": "DingTalk JinBuTi"
+                              },
+                              "sz": 12,
+                              "szUnit": "pt",
+                              "color": "linear-gradient(90deg, #FF7100 0%, #F300AD 100%)",
+                              "data-type": "leaf"
+                            },
+                            "链接填写定制需求"
+                          ]
+                        ]
+                      ],
+                      [
+                        "p",
+                        {
+                          "uuid": "mff2zhm3h87hv9w7yfm",
+                          "jc": "center"
+                        },
+                        [
+                          "span",
+                          {
+                            "data-type": "text"
+                          },
+                          [
+                            "span",
+                            {
+                              "fonts": {
+                                "ascii": "DingTalk JinBuTi",
+                                "hAnsi": "DingTalk JinBuTi",
+                                "cs": "DingTalk JinBuTi",
+                                "eastAsia": "DingTalk JinBuTi"
+                              },
+                              "sz": 12,
+                              "szUnit": "pt",
+                              "color": "linear-gradient(90deg, #FF7100 0%, #F300AD 100%)",
+                              "data-type": "leaf"
+                            },
+                            ""
+                          ]
+                        ]
+                      ],
+                      [
+                        "p",
+                        {
+                          "uuid": "mff2y6osv5jyosr8nb",
+                          "jc": "center"
+                        },
+                        [
+                          "span",
+                          {
+                            "data-type": "text"
+                          },
+                          [
+                            "span",
+                            {
+                              "fonts": {
+                                "ascii": "DingTalk JinBuTi",
+                                "hAnsi": "DingTalk JinBuTi",
+                                "cs": "DingTalk JinBuTi",
+                                "eastAsia": "DingTalk JinBuTi"
+                              },
+                              "sz": 12,
+                              "szUnit": "pt",
+                              "color": "#1642f5",
+                              "underline": {
+                                "value": "single"
+                              },
+                              "data-type": "leaf"
+                            },
+                            ""
+                          ]
+                        ],
+                        [
+                          "a",
+                          {
+                            "href": "https://survey.taobao.com/apps/zhiliao/eIRLJbWnB",
+                            "uuid": "mff30015cz7v55if24"
+                          },
+                          [
+                            "span",
+                            {
+                              "data-type": "text"
+                            },
+                            [
+                              "span",
+                              {
+                                "fonts": {
+                                  "ascii": "DingTalk JinBuTi",
+                                  "hAnsi": "DingTalk JinBuTi",
+                                  "cs": "DingTalk JinBuTi",
+                                  "eastAsia": "DingTalk JinBuTi"
+                                },
+                                "sz": 12,
+                                "szUnit": "pt",
+                                "color": "#1642f5",
+                                "underline": {
+                                  "value": "single"
+                                },
+                                "data-type": "leaf"
+                              },
+                              "个性化人群包定制需求收集"
+                            ]
+                          ]
+                        ],
+                        [
+                          "span",
+                          {
+                            "data-type": "text"
+                          },
+                          [
+                            "span",
+                            {
+                              "fonts": {
+                                "ascii": "DingTalk JinBuTi",
+                                "hAnsi": "DingTalk JinBuTi",
+                                "cs": "DingTalk JinBuTi",
+                                "eastAsia": "DingTalk JinBuTi"
+                              },
+                              "sz": 12,
+                              "szUnit": "pt",
+                              "color": "#1642f5",
+                              "underline": {
+                                "value": "single"
+                              },
+                              "data-type": "leaf"
+                            },
+                            ""
+                          ]
+                        ]
+                      ]
+                    ],
+                    [
+                      "tc",
+                      {
+                        "fill": "#FFFFFF",
+                        "vAlign": "top",
+                        "uuid": "mff2xexjrg84l7qelh9"
+                      },
+                      [
+                        "p",
+                        {
+                          "uuid": "mff2xexjxd4pp9dxbj",
+                          "jc": "center"
+                        },
+                        [
+                          "span",
+                          {
+                            "data-type": "text"
+                          },
+                          [
+                            "span",
+                            {
+                              "fonts": {
+                                "ascii": "DingTalk JinBuTi",
+                                "hAnsi": "DingTalk JinBuTi",
+                                "cs": "DingTalk JinBuTi",
+                                "eastAsia": "DingTalk JinBuTi"
+                              },
+                              "sz": 12,
+                              "szUnit": "pt",
+                              "color": "linear-gradient(90deg, #FF7100 0%, #F300AD 100%)",
+                              "data-type": "leaf"
+                            },
+                            "扫码填写定制需求"
+                          ]
+                        ]
+                      ],
+                      [
+                        "p",
+                        {
+                          "uuid": "mff3073pilwajzd5eze",
+                          "jc": "center"
+                        },
+                        [
+                          "span",
+                          {
+                            "data-type": "text"
+                          },
+                          [
+                            "span",
+                            {
+                              "fonts": {
+                                "ascii": "DingTalk JinBuTi",
+                                "hAnsi": "DingTalk JinBuTi",
+                                "cs": "DingTalk JinBuTi",
+                                "eastAsia": "DingTalk JinBuTi"
+                              },
+                              "sz": 12,
+                              "szUnit": "pt",
+                              "color": "linear-gradient(90deg, #FF7100 0%, #F300AD 100%)",
+                              "data-type": "leaf"
+                            },
+                            ""
+                          ]
+                        ]
+                      ],
+                      [
+                        "p",
+                        {
+                          "uuid": "mff308y6iszryhcbhgc",
+                          "jc": "center"
+                        },
+                        [
+                          "span",
+                          {
+                            "data-type": "text"
+                          },
+                          [
+                            "span",
+                            {
+                              "fonts": {
+                                "ascii": "DingTalk JinBuTi",
+                                "hAnsi": "DingTalk JinBuTi",
+                                "cs": "DingTalk JinBuTi",
+                                "eastAsia": "DingTalk JinBuTi"
+                              },
+                              "sz": 12,
+                              "szUnit": "pt",
+                              "color": "linear-gradient(90deg, #FF7100 0%, #F300AD 100%)",
+                              "data-type": "leaf"
+                            },
+                            ""
+                          ]
+                        ],
+                        [
+                          "img",
+                          {
+                            "uuid": "uh1umd",
+                            "name": "313131-256 (1).png",
+                            "size": 2153,
+                            "width": 128,
+                            "height": 128,
+                            "src": "/core/api/resources/img/5eecdaf48460cde5389316140835ae32f3749fca0b7a37ec75b8339e1c4c24831b75b38faadcd24bec177c308ebd5304dc5d33a66103aafa130ff120cc3835b117162443a027b7b01798dcabe96b7b4913dbb1c797a52d2d4fb4c8ed7016461c",
+                            "extraData": {
+                              "resourceId": "24c74047-3de3-4c7a-841f-fbf2a5209320",
+                              "metaData": {
+                                "size": 2153,
+                                "originWidth": 256,
+                                "originHeight": 256,
+                                "format": "png",
+                                "ratio": 1
+                              }
+                            }
+                          },
+                          [
+                            "span",
+                            {
+                              "data-type": "text"
+                            },
+                            [
+                              "span",
+                              {
+                                "data-type": "leaf"
+                              },
+                              ""
+                            ]
+                          ]
+                        ],
+                        [
+                          "span",
+                          {
+                            "data-type": "text"
+                          },
+                          [
+                            "span",
+                            {
+                              "fonts": {
+                                "ascii": "DingTalk JinBuTi",
+                                "hAnsi": "DingTalk JinBuTi",
+                                "cs": "DingTalk JinBuTi",
+                                "eastAsia": "DingTalk JinBuTi"
+                              },
+                              "sz": 12,
+                              "szUnit": "pt",
+                              "color": "linear-gradient(90deg, #FF7100 0%, #F300AD 100%)",
+                              "data-type": "leaf"
+                            },
+                            ""
+                          ]
+                        ]
+                      ]
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "uuid": "mf6g1mq8gg8jgoi5sw",
+                    "jc": "center"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "fonts": {
+                          "ascii": "DingTalk JinBuTi",
+                          "hAnsi": "DingTalk JinBuTi",
+                          "cs": "DingTalk JinBuTi",
+                          "eastAsia": "DingTalk JinBuTi"
+                        },
+                        "sz": 12,
+                        "szUnit": "pt",
+                        "color": "linear-gradient(90deg, #FF7100 0%, #F300AD 100%)",
+                        "data-type": "leaf"
+                      },
+                      "具体定制权限/规则请见："
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "uuid": "mf6g36ku574oq1h5qtr",
+                    "jc": "center",
+                    "ind": {
+                      "left": 0
+                    }
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "data-type": "leaf"
+                      },
+                      "可定制人群方向及玩法"
+                    ]
+                  ],
+                  [
+                    "a",
+                    {
+                      "href": "https://alidocs.dingtalk.com/i/nodes/o14dA3GK8gQlkoYwcP5Med9NV9ekBD76?utm_scene=team_space&iframeQuery=anchorId%3Duu_mf53qoh7m1gqny35do",
+                      "metadata": {
+                        "extData": {
+                          "referenceId": "6133fb1a-7e03-4d14-8626-81b306c5886e",
+                          "dentryUuid": "o14dA3GK8gQlkoYwcP5Med9NV9ekBD76"
+                        }
+                      },
+                      "uuid": "mf6g76z5dqjrib3lq2"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "italic": true,
+                          "sz": 10,
+                          "szUnit": "pt",
+                          "underline": {
+                            "value": "single"
+                          },
+                          "data-type": "leaf"
+                        },
+                        "（一键查看）"
+                      ]
+                    ]
+                  ],
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "italic": true,
+                        "sz": 10,
+                        "szUnit": "pt",
+                        "underline": {
+                          "value": "single"
+                        },
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "uuid": "mf6g79riutvknlhuv6",
+                    "jc": "center",
+                    "ind": {
+                      "left": 0
+                    }
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "sz": 12,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      "定制档位"
+                    ]
+                  ],
+                  [
+                    "a",
+                    {
+                      "href": "https://alidocs.dingtalk.com/i/nodes/o14dA3GK8gQlkoYwcP5Med9NV9ekBD76?utm_scene=team_space&iframeQuery=anchorId%3Duu_mf55156kul218lllwfh",
+                      "metadata": {
+                        "extData": {
+                          "referenceId": "5026d1db-6128-41b4-98d4-0590f8805335",
+                          "dentryUuid": "o14dA3GK8gQlkoYwcP5Med9NV9ekBD76"
+                        }
+                      },
+                      "uuid": "mf6ga2aqaq95kqj4nni"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "italic": true,
+                          "sz": 10,
+                          "szUnit": "pt",
+                          "underline": {
+                            "value": "single"
+                          },
+                          "data-type": "leaf"
+                        },
+                        "（一键查看）"
+                      ]
+                    ]
+                  ],
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "italic": true,
+                        "sz": 10,
+                        "szUnit": "pt",
+                        "underline": {
+                          "value": "single"
+                        },
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "uuid": "mf6g83a3rvrzu8pck1",
+                    "jc": "center",
+                    "ind": {
+                      "left": 0
+                    }
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "sz": 12,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      "具体定制SOP"
+                    ]
+                  ],
+                  [
+                    "a",
+                    {
+                      "href": "https://alidocs.dingtalk.com/i/nodes/o14dA3GK8gQlkoYwcP5Med9NV9ekBD76?utm_scene=team_space&iframeQuery=anchorId%3Duu_mf53zc7rp3wwtvmv9cd",
+                      "metadata": {
+                        "extData": {
+                          "referenceId": "915625bf-9b84-44fa-a161-27c64f4d9fce",
+                          "dentryUuid": "o14dA3GK8gQlkoYwcP5Med9NV9ekBD76"
+                        }
+                      },
+                      "uuid": "mf6gaftlo9gacpbhps"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "bold": false,
+                          "italic": true,
+                          "sz": 10,
+                          "szUnit": "pt",
+                          "underline": {
+                            "value": "single"
+                          },
+                          "data-type": "leaf"
+                        },
+                        "（一键查看）"
+                      ]
+                    ]
+                  ],
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": false,
+                        "italic": true,
+                        "sz": 10,
+                        "szUnit": "pt",
+                        "underline": {
+                          "value": "single"
+                        },
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "container",
+                {
+                  "subType": "colorBlocks",
+                  "metadata": {
+                    "padding": {
+                      "top": 11,
+                      "right": 11,
+                      "bottom": 11,
+                      "left": 11
+                    },
+                    "borderRadius": 8,
+                    "bgcolor": "#F5F6F7",
+                    "showstk": false,
+                    "border": null
+                  },
+                  "uuid": "mf50c7l9andv8g0nc0w"
+                },
+                [
+                  "p",
+                  {
+                    "jc": "center",
+                    "uuid": "mf53rzpb7190agp42at"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "fonts": {
+                          "ascii": "DingTalk JinBuTi",
+                          "cs": "DingTalk JinBuTi",
+                          "eastAsia": "DingTalk JinBuTi",
+                          "hAnsi": "DingTalk JinBuTi"
+                        },
+                        "sz": 18,
+                        "szUnit": "pt",
+                        "color": "linear-gradient(152deg, #C676FF 0%, #654CFF 41%, #405EFF 75%, #007FFF 99%)",
+                        "data-type": "leaf"
+                      },
+                      "定制优势"
+                    ]
+                  ]
+                ],
+                [
+                  "table",
+                  {
+                    "colsWidth": [
+                      325,
+                      325
+                    ],
+                    "sr": true,
+                    "uuid": "mf50d68sajc0y1myz"
+                  },
+                  [
+                    "tr",
+                    {
+                      "uuid": "mf50d68ssobigqxg7us"
+                    },
+                    [
+                      "tc",
+                      {
+                        "fill": "#FFFFFF",
+                        "vAlign": "top",
+                        "uuid": "mf50d68skdc2gi0ch7j",
+                        "border": ""
+                      },
+                      [
+                        "p",
+                        {
+                          "uuid": "mf50d68sc60jiqmkyaq",
+                          "jc": "center"
+                        },
+                        [
+                          "span",
+                          {
+                            "data-type": "text"
+                          },
+                          [
+                            "span",
+                            {
+                              "bold": true,
+                              "fonts": {
+                                "ascii": "DingTalk JinBuTi",
+                                "hAnsi": "DingTalk JinBuTi",
+                                "cs": "DingTalk JinBuTi",
+                                "eastAsia": "DingTalk JinBuTi"
+                              },
+                              "sz": 18,
+                              "szUnit": "pt",
+                              "data-type": "leaf"
+                            },
+                            "定制前"
+                          ]
+                        ]
+                      ],
+                      [
+                        "p",
+                        {
+                          "uuid": "mf50e1sle28o7cl9on",
+                          "ind": {
+                            "left": 0
+                          },
+                          "list": {
+                            "listId": "lr6my75v9o",
+                            "level": 0,
+                            "isTaskList": false,
+                            "isOrdered": false,
+                            "listStyleType": "SCIR_ECIR_SREC",
+                            "symbolStyle": {
+                              "fonts": "\"Alibaba PuHuiTi 3.0\"",
+                              "sz": 12
+                            },
+                            "listStyle": {
+                              "format": "bullet",
+                              "text": "●",
+                              "align": "left"
+                            }
+                          }
+                        },
+                        [
+                          "span",
+                          {
+                            "data-type": "text"
+                          },
+                          [
+                            "span",
+                            {
+                              "fonts": {
+                                "ascii": "\"Alibaba PuHuiTi 3.0\"",
+                                "hAnsi": "\"Alibaba PuHuiTi 3.0\"",
+                                "cs": "\"Alibaba PuHuiTi 3.0\"",
+                                "eastAsia": "\"Alibaba PuHuiTi 3.0\""
+                              },
+                              "sz": 12,
+                              "szUnit": "pt",
+                              "data-type": "leaf"
+                            },
+                            "大促流量/趋势瞬息万变，投放人群包只能依赖平台上新，错过流量红利；"
+                          ]
+                        ]
+                      ],
+                      [
+                        "p",
+                        {
+                          "uuid": "mf50k145hgaaps3214j",
+                          "ind": {
+                            "left": 0
+                          },
+                          "list": {
+                            "listId": "lr6my75v9o",
+                            "level": 0,
+                            "isTaskList": false,
+                            "isOrdered": false,
+                            "listStyleType": "SCIR_ECIR_SREC",
+                            "symbolStyle": {
+                              "fonts": "\"Alibaba PuHuiTi 3.0\"",
+                              "sz": 12
+                            },
+                            "listStyle": {
+                              "format": "bullet",
+                              "text": "●",
+                              "align": "left"
+                            },
+                            "extraData": {},
+                            "isChecked": false,
+                            "hideSymbol": false
+                          }
+                        },
+                        [
+                          "span",
+                          {
+                            "data-type": "text"
+                          },
+                          [
+                            "span",
+                            {
+                              "fonts": {
+                                "ascii": "\"Alibaba PuHuiTi 3.0\"",
+                                "hAnsi": "\"Alibaba PuHuiTi 3.0\"",
+                                "cs": "\"Alibaba PuHuiTi 3.0\"",
+                                "eastAsia": "\"Alibaba PuHuiTi 3.0\""
+                              },
+                              "sz": 12,
+                              "szUnit": "pt",
+                              "color": "rgb(13, 18, 57)",
+                              "data-type": "leaf"
+                            },
+                            "平台提供的人群包多为宽泛标签组合，难以满足商家更多精细化人群投放诉求；"
+                          ]
+                        ]
+                      ],
+                      [
+                        "p",
+                        {
+                          "uuid": "mf50qw34f6f5v9y1sft",
+                          "ind": {
+                            "left": 0
+                          },
+                          "list": {
+                            "listId": "lr6my75v9o",
+                            "level": 0,
+                            "isTaskList": false,
+                            "isOrdered": false,
+                            "listStyleType": "SCIR_ECIR_SREC",
+                            "symbolStyle": {
+                              "fonts": "\"Alibaba PuHuiTi 3.0\"",
+                              "sz": 12
+                            },
+                            "listStyle": {
+                              "format": "bullet",
+                              "text": "●",
+                              "align": "left"
+                            },
+                            "extraData": {},
+                            "isChecked": false,
+                            "hideSymbol": false
+                          }
+                        },
+                        [
+                          "span",
+                          {
+                            "data-type": "text"
+                          },
+                          [
+                            "span",
+                            {
+                              "fonts": {
+                                "ascii": "\"Alibaba PuHuiTi 3.0\"",
+                                "hAnsi": "\"Alibaba PuHuiTi 3.0\"",
+                                "cs": "\"Alibaba PuHuiTi 3.0\"",
+                                "eastAsia": "\"Alibaba PuHuiTi 3.0\""
+                              },
+                              "sz": 12,
+                              "szUnit": "pt",
+                              "color": "rgb(13, 18, 57)",
+                              "data-type": "leaf"
+                            },
+                            "双11流量竞争激烈，无法掌握竞对动向，缺乏针对性拦截策略，只能被动防御或广撒网抢量，错失主动出击机会。"
+                          ]
+                        ]
+                      ]
+                    ],
+                    [
+                      "tc",
+                      {
+                        "fill": "radial-gradient(68% 68% at 68% 100%, #F2F7F7 0%, rgba(242, 245, 255, 0) 100%), radial-gradient(53% 53% at 16% -12%, #FEF2F2 0%, rgba(242, 245, 255, 0) 100%), radial-gradient(55% 141% at 100% 100%, #E4EBFF 0%, rgba(242, 245, 255, 0) 100%), linear-gradient(99deg, #E9E7FF 0%, #E4EBFF 100%)",
+                        "vAlign": "top",
+                        "uuid": "mf50d68st2ynswihbm",
+                        "border": ""
+                      },
+                      [
+                        "p",
+                        {
+                          "uuid": "mf50d68shm817hs5z1",
+                          "jc": "center"
+                        },
+                        [
+                          "span",
+                          {
+                            "data-type": "text"
+                          },
+                          [
+                            "span",
+                            {
+                              "bold": true,
+                              "fonts": {
+                                "ascii": "DingTalk JinBuTi",
+                                "hAnsi": "DingTalk JinBuTi",
+                                "cs": "DingTalk JinBuTi",
+                                "eastAsia": "DingTalk JinBuTi"
+                              },
+                              "sz": 18,
+                              "szUnit": "pt",
+                              "color": "linear-gradient(152deg, #C676FF 0%, #654CFF 41%, #405EFF 75%, #007FFF 99%)",
+                              "data-type": "leaf"
+                            },
+                            "定制后"
+                          ]
+                        ]
+                      ],
+                      [
+                        "p",
+                        {
+                          "uuid": "mf50l244519ys4o9ct",
+                          "ind": {
+                            "left": 0
+                          },
+                          "list": {
+                            "listId": "u67zsx5grff",
+                            "level": 0,
+                            "symbolStyle": {
+                              "fonts": "\"Alibaba PuHuiTi 3.0\"",
+                              "sz": 12
+                            },
+                            "extraData": {},
+                            "listStyleType": "MAGIC_WAND_WAVING",
+                            "listStyle": {
+                              "format": "bullet",
+                              "text": "[魔法棒挥动]",
+                              "align": "left"
+                            },
+                            "hideSymbol": false,
+                            "isTaskList": false,
+                            "isOrdered": false
+                          }
+                        },
+                        [
+                          "span",
+                          {
+                            "data-type": "text"
+                          },
+                          [
+                            "span",
+                            {
+                              "fonts": {
+                                "ascii": "\"Alibaba PuHuiTi 3.0\"",
+                                "hAnsi": "\"Alibaba PuHuiTi 3.0\"",
+                                "cs": "\"Alibaba PuHuiTi 3.0\"",
+                                "eastAsia": "\"Alibaba PuHuiTi 3.0\""
+                              },
+                              "sz": 12,
+                              "szUnit": "pt",
+                              "color": "rgb(13, 18, 57)",
+                              "data-type": "leaf"
+                            },
+                            "告别“等包投放”，实现“我要谁，就圈谁”，营销节奏自主掌控"
+                          ]
+                        ]
+                      ],
+                      [
+                        "p",
+                        {
+                          "uuid": "mf50mp3nacq8wdsewun",
+                          "ind": {
+                            "left": 0
+                          },
+                          "list": {
+                            "listId": "u67zsx5grff",
+                            "level": 0,
+                            "symbolStyle": {
+                              "fonts": "\"Alibaba PuHuiTi 3.0\"",
+                              "sz": 12
+                            },
+                            "extraData": {},
+                            "listStyleType": "MAGIC_WAND_WAVING",
+                            "listStyle": {
+                              "format": "bullet",
+                              "text": "[魔法棒挥动]",
+                              "align": "left"
+                            },
+                            "hideSymbol": false,
+                            "isTaskList": false,
+                            "isOrdered": false,
+                            "isChecked": false
+                          }
+                        },
+                        [
+                          "span",
+                          {
+                            "data-type": "text"
+                          },
+                          [
+                            "span",
+                            {
+                              "fonts": {
+                                "ascii": "\"Alibaba PuHuiTi 3.0\"",
+                                "hAnsi": "\"Alibaba PuHuiTi 3.0\"",
+                                "cs": "\"Alibaba PuHuiTi 3.0\"",
+                                "eastAsia": "\"Alibaba PuHuiTi 3.0\""
+                              },
+                              "sz": 12,
+                              "szUnit": "pt",
+                              "color": "rgb(13, 18, 57)",
+                              "data-type": "leaf"
+                            },
+                            "支持个性化圈人诉求表达，完美契合商家当前经营诉求，实现高精度定向；"
+                          ]
+                        ]
+                      ],
+                      [
+                        "p",
+                        {
+                          "uuid": "mf518isoaragqoby8td",
+                          "ind": {
+                            "left": 0
+                          },
+                          "list": {
+                            "listId": "u67zsx5grff",
+                            "level": 0,
+                            "symbolStyle": {
+                              "fonts": "\"Alibaba PuHuiTi 3.0\"",
+                              "sz": 12
+                            },
+                            "extraData": {},
+                            "listStyleType": "MAGIC_WAND_WAVING",
+                            "listStyle": {
+                              "format": "bullet",
+                              "text": "[魔法棒挥动]",
+                              "align": "left"
+                            },
+                            "hideSymbol": false,
+                            "isTaskList": false,
+                            "isOrdered": false,
+                            "isChecked": false
+                          }
+                        },
+                        [
+                          "span",
+                          {
+                            "data-type": "text"
+                          },
+                          [
+                            "span",
+                            {
+                              "fonts": {
+                                "ascii": "\"Alibaba PuHuiTi 3.0\"",
+                                "hAnsi": "\"Alibaba PuHuiTi 3.0\"",
+                                "cs": "\"Alibaba PuHuiTi 3.0\"",
+                                "eastAsia": "\"Alibaba PuHuiTi 3.0\""
+                              },
+                              "sz": 12,
+                              "szUnit": "pt",
+                              "color": "rgb(13, 18, 57)",
+                              "data-type": "leaf"
+                            },
+                            "定制针对性人群包化被动为主动，实现精准截流、份额反超，打赢品牌争夺战。"
+                          ]
+                        ]
+                      ]
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "p",
+                {
+                  "uuid": "mf6huu9xv4mdada0uji"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "text"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "leaf"
+                    },
+                    ""
+                  ]
+                ]
+              ],
+              [
+                "container",
+                {
+                  "subType": "colorBlocks",
+                  "metadata": {
+                    "padding": {
+                      "top": 11,
+                      "right": 11,
+                      "bottom": 11,
+                      "left": 11
+                    },
+                    "borderRadius": 8,
+                    "bgcolor": "#F5F6F7",
+                    "showstk": false,
+                    "border": null
+                  },
+                  "uuid": "mf53qfzryn8r0e6s43s"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mf53qoh7m1gqny35do",
+                    "jc": "center"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "fonts": {
+                          "ascii": "DingTalk JinBuTi",
+                          "hAnsi": "DingTalk JinBuTi",
+                          "cs": "DingTalk JinBuTi",
+                          "eastAsia": "DingTalk JinBuTi"
+                        },
+                        "sz": 18,
+                        "szUnit": "pt",
+                        "color": "linear-gradient(152deg, #C676FF 0%, #654CFF 41%, #405EFF 75%, #007FFF 99%)",
+                        "data-type": "leaf"
+                      },
+                      "可定制人群方向和玩法参考"
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "uuid": "mf53qoh8vo535gz4e6k",
+                    "jc": "center"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "fonts": {
+                          "ascii": "DingTalk JinBuTi",
+                          "hAnsi": "DingTalk JinBuTi",
+                          "cs": "DingTalk JinBuTi",
+                          "eastAsia": "DingTalk JinBuTi"
+                        },
+                        "sz": 16,
+                        "szUnit": "pt",
+                        "color": "linear-gradient(152deg, #C676FF 0%, #654CFF 41%, #405EFF 75%, #007FFF 99%)",
+                        "data-type": "leaf"
+                      },
+                      "支持各方向圈选人群做"
+                    ],
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "fonts": {
+                          "ascii": "DingTalk JinBuTi",
+                          "hAnsi": "DingTalk JinBuTi",
+                          "cs": "DingTalk JinBuTi",
+                          "eastAsia": "DingTalk JinBuTi"
+                        },
+                        "sz": 16,
+                        "szUnit": "pt",
+                        "color": "linear-gradient(90deg, #FF7100 0%, #F300AD 100%)",
+                        "data-type": "leaf"
+                      },
+                      "交并叉运算"
+                    ],
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "fonts": {
+                          "ascii": "DingTalk JinBuTi",
+                          "hAnsi": "DingTalk JinBuTi",
+                          "cs": "DingTalk JinBuTi",
+                          "eastAsia": "DingTalk JinBuTi"
+                        },
+                        "sz": 16,
+                        "szUnit": "pt",
+                        "color": "linear-gradient(152deg, #C676FF 0%, #654CFF 41%, #405EFF 75%, #007FFF 99%)",
+                        "data-type": "leaf"
+                      },
+                      "，更多定制方向等你挖掘！"
+                    ]
+                  ]
+                ],
+                [
+                  "container",
+                  {
+                    "subType": "colorBlocks",
+                    "metadata": {
+                      "padding": {
+                        "top": 11,
+                        "right": 11,
+                        "bottom": 11,
+                        "left": 11
+                      },
+                      "borderRadius": 8,
+                      "bgcolor": "#FFFFFF",
+                      "showstk": false,
+                      "border": null
+                    },
+                    "uuid": "mf53r18ya3kg5jsjoud"
+                  },
+                  [
+                    "table",
+                    {
+                      "colsWidth": [
+                        17.36,
+                        38.91,
+                        43.730000000000004
+                      ],
+                      "tblW": {
+                        "w": 100,
+                        "type": "pct"
+                      },
+                      "uuid": "mf53qoh88qjwqcs5h62",
+                      "styleId": "tableHeader",
+                      "tblLook": {
+                        "firstRow": 1,
+                        "firstColumn": 0,
+                        "lastRow": 0,
+                        "lastColumn": 0
+                      }
+                    },
+                    [
+                      "tr",
+                      {
+                        "uuid": "mf53rdz759b2731dej8",
+                        "isTblHeader": true,
+                        "h": 46
+                      },
+                      [
+                        "tc",
+                        {
+                          "colSpan": 1,
+                          "rowSpan": 1,
+                          "uuid": "mf53rdz77qjhbqt5bc",
+                          "vAlign": "middle"
+                        },
+                        [
+                          "p",
+                          {
+                            "uuid": "mf53rdz7o5ywhvuagbe",
+                            "jc": "center"
+                          },
+                          [
+                            "span",
+                            {
+                              "data-type": "text"
+                            },
+                            [
+                              "span",
+                              {
+                                "bold": true,
+                                "fonts": {
+                                  "ascii": "DingTalk JinBuTi",
+                                  "hAnsi": "DingTalk JinBuTi",
+                                  "cs": "DingTalk JinBuTi",
+                                  "eastAsia": "DingTalk JinBuTi"
+                                },
+                                "sz": 12,
+                                "szUnit": "pt",
+                                "color": "linear-gradient(152deg, #C676FF 0%, #654CFF 41%, #405EFF 75%, #007FFF 99%)",
+                                "data-type": "leaf"
+                              },
+                              "定制方向"
+                            ]
+                          ]
+                        ]
+                      ],
+                      [
+                        "tc",
+                        {
+                          "colSpan": 1,
+                          "rowSpan": 1,
+                          "uuid": "mf53rdz7mzu4kbte8q",
+                          "vAlign": "top"
+                        },
+                        [
+                          "p",
+                          {
+                            "uuid": "mf53rdz7vomaruzd31a",
+                            "jc": "center"
+                          },
+                          [
+                            "span",
+                            {
+                              "data-type": "text"
+                            },
+                            [
+                              "span",
+                              {
+                                "bold": true,
+                                "fonts": {
+                                  "ascii": "DingTalk JinBuTi",
+                                  "hAnsi": "DingTalk JinBuTi",
+                                  "cs": "DingTalk JinBuTi",
+                                  "eastAsia": "DingTalk JinBuTi"
+                                },
+                                "sz": 12,
+                                "szUnit": "pt",
+                                "color": "linear-gradient(152deg, #C676FF 0%, #654CFF 41%, #405EFF 75%, #007FFF 99%)",
+                                "data-type": "leaf"
+                              },
+                              "详情"
+                            ]
+                          ]
+                        ]
+                      ],
+                      [
+                        "tc",
+                        {
+                          "colSpan": 1,
+                          "rowSpan": 1,
+                          "uuid": "mfqagsvc9nvzdptcj85"
+                        },
+                        [
+                          "p",
+                          {
+                            "uuid": "mfqagsvcsm2krmofqs"
+                          },
+                          [
+                            "span",
+                            {
+                              "data-type": "text"
+                            },
+                            [
+                              "span",
+                              {
+                                "data-type": "leaf"
+                              },
+                              "示例"
+                            ]
+                          ]
+                        ]
+                      ]
+                    ],
+                    [
+                      "tr",
+                      {
+                        "uuid": "mf53rdz7t9u98cu81km"
+                      },
+                      [
+                        "tc",
+                        {
+                          "colSpan": 1,
+                          "rowSpan": 1,
+                          "uuid": "mf53rdz7egn6z9vkxno",
+                          "vAlign": "middle"
+                        },
+                        [
+                          "p",
+                          {
+                            "uuid": "mf53rdz7y0miyobq4",
+                            "jc": "center"
+                          },
+                          [
+                            "span",
+                            {
+                              "data-type": "text"
+                            },
+                            [
+                              "span",
+                              {
+                                "bold": true,
+                                "fonts": {
+                                  "ascii": "DingTalk JinBuTi",
+                                  "hAnsi": "DingTalk JinBuTi",
+                                  "cs": "DingTalk JinBuTi",
+                                  "eastAsia": "DingTalk JinBuTi"
+                                },
+                                "color": "linear-gradient(152deg, #C676FF 0%, #654CFF 41%, #405EFF 75%, #007FFF 99%)",
+                                "data-type": "leaf"
+                              },
+                              "品效协同"
+                            ]
+                          ]
+                        ]
+                      ],
+                      [
+                        "tc",
+                        {
+                          "colSpan": 1,
+                          "rowSpan": 1,
+                          "uuid": "mf53rdz7m9w10vkv3le",
+                          "vAlign": "top"
+                        },
+                        [
+                          "p",
+                          {
+                            "uuid": "mfqaeapcbno33oeripl"
+                          },
+                          [
+                            "span",
+                            {
+                              "data-type": "text"
+                            },
+                            [
+                              "span",
+                              {
+                                "data-type": "leaf"
+                              },
+                              "双11"
+                            ],
+                            [
+                              "span",
+                              {
+                                "bold": true,
+                                "color": "#1642f5",
+                                "data-type": "leaf"
+                              },
+                              "品牌广告触达过的人群"
+                            ],
+                            [
+                              "span",
+                              {
+                                "data-type": "leaf"
+                              },
+                              "，回流到效果广告，利用人群超市做二次触达和放大，支持细分品牌广告产品和投放时间。"
+                            ]
+                          ]
+                        ],
+                        [
+                          "table",
+                          {
+                            "colsWidth": [
+                              325,
+                              325,
+                              325
+                            ],
+                            "sr": true,
+                            "uuid": "mf53rdz7airu1cmo2nv"
+                          },
+                          [
+                            "tr",
+                            {
+                              "uuid": "mf53rdz7ow7kdnfva0s"
+                            },
+                            [
+                              "tc",
+                              {
+                                "fill": "#FFFFFF",
+                                "vAlign": "top",
+                                "uuid": "mf53rdz7hl7nzkgpr0e",
+                                "rowSpan": 1,
+                                "colSpan": 1
+                              },
+                              [
+                                "p",
+                                {
+                                  "uuid": "mf53rdz7x4zq90autbb"
+                                },
+                                [
+                                  "span",
+                                  {
+                                    "data-type": "text"
+                                  },
+                                  [
+                                    "span",
+                                    {
+                                      "data-type": "leaf"
+                                    },
+                                    ""
+                                  ]
+                                ],
+                                [
+                                  "img",
+                                  {
+                                    "uuid": "mf53rdz3ug2eqgqwri",
+                                    "name": "image.png",
+                                    "size": 456501,
+                                    "width": 192,
+                                    "height": 118.09718670076727,
+                                    "src": "/core/api/resources/img/5eecdaf48460cde5389316140835ae32f3749fca0b7a37ec75b8339e1c4c24831b75b38faadcd24bec177c308ebd5304f7458acb538d1e9351f33bab0bb073e61a9083d23876fe36d4a0eeb8861a30f1e299a19d407889814fb4c8ed7016461c",
+                                    "extraData": {
+                                      "resourceId": "740f6057-659a-4749-a632-6ff6cec50969",
+                                      "metaData": {
+                                        "size": 456501,
+                                        "originWidth": 1564,
+                                        "originHeight": 962,
+                                        "format": "png",
+                                        "ratio": 1
+                                      }
+                                    }
+                                  },
+                                  [
+                                    "span",
+                                    {
+                                      "data-type": "text"
+                                    },
+                                    [
+                                      "span",
+                                      {
+                                        "data-type": "leaf"
+                                      },
+                                      ""
+                                    ]
+                                  ]
+                                ],
+                                [
+                                  "span",
+                                  {
+                                    "data-type": "text"
+                                  },
+                                  [
+                                    "span",
+                                    {
+                                      "data-type": "leaf"
+                                    },
+                                    ""
+                                  ]
+                                ]
+                              ]
+                            ],
+                            [
+                              "tc",
+                              {
+                                "vAlign": "top",
+                                "fill": "#FFFFFF",
+                                "uuid": "mf53rdz71wr00f2jhsd",
+                                "rowSpan": 1,
+                                "colSpan": 1
+                              },
+                              [
+                                "p",
+                                {
+                                  "uuid": "mf53rdz7wdq5v3xez0e"
+                                },
+                                [
+                                  "span",
+                                  {
+                                    "data-type": "text"
+                                  },
+                                  [
+                                    "span",
+                                    {
+                                      "data-type": "leaf"
+                                    },
+                                    ""
+                                  ]
+                                ]
+                              ]
+                            ],
+                            [
+                              "tc",
+                              {
+                                "fill": "#FFFFFF",
+                                "vAlign": "top",
+                                "uuid": "mf53rdz759g1sxvz9ue",
+                                "rowSpan": 1,
+                                "colSpan": 1
+                              },
+                              [
+                                "p",
+                                {
+                                  "uuid": "mf53rdz79rpsnf2uhah"
+                                },
+                                [
+                                  "span",
+                                  {
+                                    "data-type": "text"
+                                  },
+                                  [
+                                    "span",
+                                    {
+                                      "data-type": "leaf"
+                                    },
+                                    ""
+                                  ]
+                                ]
+                              ]
+                            ]
+                          ]
+                        ]
+                      ],
+                      [
+                        "tc",
+                        {
+                          "colSpan": 1,
+                          "rowSpan": 1,
+                          "uuid": "mfqagsviguq9ukuliaf"
+                        },
+                        [
+                          "p",
+                          {
+                            "uuid": "mfqagsvhtp1j4emj4ps"
+                          },
+                          [
+                            "span",
+                            {
+                              "data-type": "text"
+                            },
+                            [
+                              "span",
+                              {
+                                "data-type": "leaf"
+                              },
+                              "示例：我想要回流品牌特秀订单ID：xxxxxxxxxxx近7天曝光人群"
+                            ]
+                          ]
+                        ]
+                      ]
+                    ],
+                    [
+                      "tr",
+                      {
+                        "uuid": "mf53rdz7aqpqfu4ebnr",
+                        "h": 43
+                      },
+                      [
+                        "tc",
+                        {
+                          "colSpan": 1,
+                          "rowSpan": 1,
+                          "uuid": "mf53rdz7wsvm2d99p9k",
+                          "vAlign": "middle"
+                        },
+                        [
+                          "p",
+                          {
+                            "uuid": "mf53rdz7k7x7kqr44vp",
+                            "jc": "center"
+                          },
+                          [
+                            "span",
+                            {
+                              "data-type": "text"
+                            },
+                            [
+                              "span",
+                              {
+                                "bold": true,
+                                "fonts": {
+                                  "ascii": "DingTalk JinBuTi",
+                                  "hAnsi": "DingTalk JinBuTi",
+                                  "cs": "DingTalk JinBuTi",
+                                  "eastAsia": "DingTalk JinBuTi"
+                                },
+                                "color": "linear-gradient(152deg, #C676FF 0%, #654CFF 41%, #405EFF 75%, #007FFF 99%)",
+                                "data-type": "leaf"
+                              },
+                              "种草回流"
+                            ]
+                          ]
+                        ]
+                      ],
+                      [
+                        "tc",
+                        {
+                          "colSpan": 1,
+                          "rowSpan": 1,
+                          "uuid": "mf53rdz7r75bqloanb",
+                          "vAlign": "top"
+                        },
+                        [
+                          "p",
+                          {
+                            "uuid": "mf53rdz7cx3mp5xwd5"
+                          },
+                          [
+                            "span",
+                            {
+                              "data-type": "text"
+                            },
+                            [
+                              "span",
+                              {
+                                "data-type": "leaf"
+                              },
+                              ""
+                            ]
+                          ]
+                        ]
+                      ],
+                      [
+                        "tc",
+                        {
+                          "colSpan": 1,
+                          "rowSpan": 1,
+                          "uuid": "mfqagsvivc4jhlzkbh"
+                        },
+                        [
+                          "p",
+                          {
+                            "uuid": "mfqagsvisaq3s9o0b3"
+                          },
+                          [
+                            "span",
+                            {
+                              "data-type": "text"
+                            },
+                            [
+                              "span",
+                              {
+                                "data-type": "leaf"
+                              },
+                              ""
+                            ]
+                          ]
+                        ]
+                      ]
+                    ],
+                    [
+                      "tr",
+                      {
+                        "uuid": "mf53rdz787n1kalz0hy"
+                      },
+                      [
+                        "tc",
+                        {
+                          "colSpan": 1,
+                          "rowSpan": 1,
+                          "uuid": "mf53rdz7ju19b5tj7dl",
+                          "vAlign": "middle"
+                        },
+                        [
+                          "p",
+                          {
+                            "uuid": "mf53rdz76ft1rilhopx",
+                            "jc": "center"
+                          },
+                          [
+                            "span",
+                            {
+                              "data-type": "text"
+                            },
+                            [
+                              "span",
+                              {
+                                "bold": true,
+                                "fonts": {
+                                  "ascii": "DingTalk JinBuTi",
+                                  "hAnsi": "DingTalk JinBuTi",
+                                  "cs": "DingTalk JinBuTi",
+                                  "eastAsia": "DingTalk JinBuTi"
+                                },
+                                "color": "linear-gradient(152deg, #C676FF 0%, #654CFF 41%, #405EFF 75%, #007FFF 99%)",
+                                "data-type": "leaf"
+                              },
+                              "优质资源位"
+                            ]
+                          ]
+                        ]
+                      ],
+                      [
+                        "tc",
+                        {
+                          "colSpan": 1,
+                          "rowSpan": 1,
+                          "uuid": "mf53rdz7zy5d0p6j5d",
+                          "vAlign": "top"
+                        },
+                        [
+                          "p",
+                          {
+                            "uuid": "mf53rdz7tm3a83s7th"
+                          },
+                          [
+                            "span",
+                            {
+                              "data-type": "text"
+                            },
+                            [
+                              "span",
+                              {
+                                "data-type": "leaf"
+                              },
+                              "支持特定资源位定投"
+                            ]
+                          ]
+                        ],
+                        [
+                          "p",
+                          {
+                            "uuid": "mf6fuf8xszdtk9l8pqi"
+                          },
+                          [
+                            "span",
+                            {
+                              "data-type": "text"
+                            },
+                            [
+                              "span",
+                              {
+                                "data-type": "leaf"
+                              },
+                              "可选择"
+                            ],
+                            [
+                              "span",
+                              {
+                                "bold": true,
+                                "sz": 12,
+                                "szUnit": "pt",
+                                "color": "#1642f5",
+                                "data-type": "leaf"
+                              },
+                              "首页猜你"
+                            ],
+                            [
+                              "span",
+                              {
+                                "bold": true,
+                                "color": "#1642f5",
+                                "data-type": "leaf"
+                              },
+                              "喜欢/购中购后猜你喜欢/淘系焦点图/全屏微详情"
+                            ]
+                          ]
+                        ]
+                      ],
+                      [
+                        "tc",
+                        {
+                          "colSpan": 1,
+                          "rowSpan": 1,
+                          "uuid": "mfqagsvj8s3hc5k373e"
+                        },
+                        [
+                          "p",
+                          {
+                            "uuid": "mfqagsvjksrzeu899an"
+                          },
+                          [
+                            "span",
+                            {
+                              "data-type": "text"
+                            },
+                            [
+                              "span",
+                              {
+                                "data-type": "leaf"
+                              },
+                              "示例：我想要定投首页猜你喜欢核心资源位"
+                            ]
+                          ]
+                        ]
+                      ]
+                    ],
+                    [
+                      "tr",
+                      {
+                        "uuid": "mf53rdz7bw3pzivmxci"
+                      },
+                      [
+                        "tc",
+                        {
+                          "colSpan": 1,
+                          "rowSpan": 1,
+                          "uuid": "mf53rdz7xvtod34qvv",
+                          "vAlign": "middle"
+                        },
+                        [
+                          "p",
+                          {
+                            "uuid": "mf53rdz79mkjw6fyhqm",
+                            "jc": "center"
+                          },
+                          [
+                            "span",
+                            {
+                              "data-type": "text"
+                            },
+                            [
+                              "span",
+                              {
+                                "bold": true,
+                                "fonts": {
+                                  "ascii": "DingTalk JinBuTi",
+                                  "hAnsi": "DingTalk JinBuTi",
+                                  "cs": "DingTalk JinBuTi",
+                                  "eastAsia": "DingTalk JinBuTi"
+                                },
+                                "color": "linear-gradient(152deg, #C676FF 0%, #654CFF 41%, #405EFF 75%, #007FFF 99%)",
+                                "data-type": "leaf"
+                              },
+                              "用户特征"
+                            ]
+                          ]
+                        ]
+                      ],
+                      [
+                        "tc",
+                        {
+                          "colSpan": 1,
+                          "rowSpan": 1,
+                          "uuid": "mf53rdz7hmvncwo8gb4",
+                          "vAlign": "top"
+                        },
+                        [
+                          "p",
+                          {
+                            "uuid": "mf53rdz78o4qrbnag1"
+                          },
+                          [
+                            "span",
+                            {
+                              "data-type": "text"
+                            },
+                            [
+                              "span",
+                              {
+                                "data-type": "leaf"
+                              },
+                              ""
+                            ]
+                          ]
+                        ]
+                      ],
+                      [
+                        "tc",
+                        {
+                          "colSpan": 1,
+                          "rowSpan": 1,
+                          "uuid": "mfqagsvkqmxny09qbc"
+                        },
+                        [
+                          "p",
+                          {
+                            "uuid": "mfqagsvkpovmcbg47xs"
+                          },
+                          [
+                            "span",
+                            {
+                              "data-type": "text"
+                            },
+                            [
+                              "span",
+                              {
+                                "data-type": "leaf"
+                              },
+                              "示例：我想要定向投放女性，一线城市人群"
+                            ]
+                          ]
+                        ]
+                      ]
+                    ],
+                    [
+                      "tr",
+                      {
+                        "uuid": "mf53rdz7v673sprex0n"
+                      },
+                      [
+                        "tc",
+                        {
+                          "colSpan": 1,
+                          "rowSpan": 1,
+                          "uuid": "mf53rdz7emfvg5vtjj",
+                          "vAlign": "middle"
+                        },
+                        [
+                          "p",
+                          {
+                            "uuid": "mf53rdz7m9nlcg8sxg",
+                            "jc": "center"
+                          },
+                          [
+                            "span",
+                            {
+                              "data-type": "text"
+                            },
+                            [
+                              "span",
+                              {
+                                "bold": true,
+                                "fonts": {
+                                  "ascii": "DingTalk JinBuTi",
+                                  "hAnsi": "DingTalk JinBuTi",
+                                  "cs": "DingTalk JinBuTi",
+                                  "eastAsia": "DingTalk JinBuTi"
+                                },
+                                "color": "linear-gradient(152deg, #C676FF 0%, #654CFF 41%, #405EFF 75%, #007FFF 99%)",
+                                "data-type": "leaf"
+                              },
+                              "跨类目/行业拉新"
+                            ]
+                          ]
+                        ]
+                      ],
+                      [
+                        "tc",
+                        {
+                          "colSpan": 1,
+                          "rowSpan": 1,
+                          "uuid": "mf53rdz7gc894vybv2l",
+                          "vAlign": "top"
+                        },
+                        [
+                          "p",
+                          {
+                            "uuid": "mf53rdz7l4o6s6y68k"
+                          },
+                          [
+                            "span",
+                            {
+                              "data-type": "text"
+                            },
+                            [
+                              "span",
+                              {
+                                "data-type": "leaf"
+                              },
+                              ""
+                            ]
+                          ]
+                        ]
+                      ],
+                      [
+                        "tc",
+                        {
+                          "colSpan": 1,
+                          "rowSpan": 1,
+                          "uuid": "mfqagsvkr3yxraoqhbi"
+                        },
+                        [
+                          "p",
+                          {
+                            "uuid": "mfqagsvkpvx8yjopiam"
+                          },
+                          [
+                            "span",
+                            {
+                              "data-type": "text"
+                            },
+                            [
+                              "span",
+                              {
+                                "data-type": "leaf"
+                              },
+                              "示例：我想要快消行业近7天高活跃行为人群"
+                            ]
+                          ]
+                        ]
+                      ]
+                    ],
+                    [
+                      "tr",
+                      {
+                        "uuid": "mf53rdz792krd0v7apt"
+                      },
+                      [
+                        "tc",
+                        {
+                          "colSpan": 1,
+                          "rowSpan": 1,
+                          "uuid": "mf53rdz7rwrseb18n4",
+                          "vAlign": "middle"
+                        },
+                        [
+                          "p",
+                          {
+                            "uuid": "mf53rdz7e1draf7rojg",
+                            "jc": "center"
+                          },
+                          [
+                            "span",
+                            {
+                              "data-type": "text"
+                            },
+                            [
+                              "span",
+                              {
+                                "bold": true,
+                                "fonts": {
+                                  "ascii": "DingTalk JinBuTi",
+                                  "hAnsi": "DingTalk JinBuTi",
+                                  "cs": "DingTalk JinBuTi",
+                                  "eastAsia": "DingTalk JinBuTi"
+                                },
+                                "color": "linear-gradient(152deg, #C676FF 0%, #654CFF 41%, #405EFF 75%, #007FFF 99%)",
+                                "data-type": "leaf"
+                              },
+                              "定向竞争"
+                            ]
+                          ]
+                        ]
+                      ],
+                      [
+                        "tc",
+                        {
+                          "colSpan": 1,
+                          "rowSpan": 1,
+                          "uuid": "mf53rdz7ye3th0703c",
+                          "vAlign": "top"
+                        },
+                        [
+                          "p",
+                          {
+                            "uuid": "mf53rdz7az3vxabu2xu"
+                          },
+                          [
+                            "span",
+                            {
+                              "data-type": "text"
+                            },
+                            [
+                              "span",
+                              {
+                                "data-type": "leaf"
+                              },
+                              "支持定向竞争触达"
+                            ],
+                            [
+                              "span",
+                              {
+                                "bold": true,
+                                "color": "#1642f5",
+                                "data-type": "leaf"
+                              },
+                              "指定品牌/店铺/宝贝"
+                            ],
+                            [
+                              "span",
+                              {
+                                "data-type": "leaf"
+                              },
+                              "的"
+                            ],
+                            [
+                              "span",
+                              {
+                                "bold": true,
+                                "color": "#1642f5",
+                                "data-type": "leaf"
+                              },
+                              "浏览/搜索/收藏/加购/购买"
+                            ],
+                            [
+                              "span",
+                              {
+                                "data-type": "leaf"
+                              },
+                              "行为人群"
+                            ]
+                          ]
+                        ],
+                        [
+                          "table",
+                          {
+                            "colsWidth": [
+                              433.3333333333333,
+                              433.3333333333333,
+                              433.3333333333333
+                            ],
+                            "sr": true,
+                            "uuid": "mf6fpipqonpfvdtswe"
+                          },
+                          [
+                            "tr",
+                            {
+                              "uuid": "mf6fpipq4vnk6teizms"
+                            },
+                            [
+                              "tc",
+                              {
+                                "fill": "#FFFFFF",
+                                "vAlign": "top",
+                                "uuid": "mf6fpipqyylou7iv1f"
+                              },
+                              [
+                                "p",
+                                {
+                                  "uuid": "mf6fpipqs077933qk6l"
+                                },
+                                [
+                                  "span",
+                                  {
+                                    "data-type": "text"
+                                  },
+                                  [
+                                    "span",
+                                    {
+                                      "data-type": "leaf"
+                                    },
+                                    ""
+                                  ]
+                                ],
+                                [
+                                  "img",
+                                  {
+                                    "extraData": {
+                                      "metaData": {
+                                        "format": "png",
+                                        "originHeight": 398,
+                                        "originWidth": 1276,
+                                        "ratio": 1,
+                                        "size": 252934
+                                      },
+                                      "resourceId": "c860157c-84f3-48c5-b4a9-2053272a8d30"
+                                    },
+                                    "height": 39.30094043887147,
+                                    "name": "image.png",
+                                    "size": 252934,
+                                    "src": "/core/api/resources/img/5eecdaf48460cde5389316140835ae32f3749fca0b7a37ec75b8339e1c4c24831b75b38faadcd24bec177c308ebd5304d67f595c9541ad66dec4aac77a369828b42cd25343ec6e06e5d4311ac87aac320f752dedc4943ff14fb4c8ed7016461c",
+                                    "uuid": "fa18sw",
+                                    "width": 126
+                                  },
+                                  [
+                                    "span",
+                                    {
+                                      "data-type": "text"
+                                    },
+                                    [
+                                      "span",
+                                      {
+                                        "data-type": "leaf"
+                                      },
+                                      ""
+                                    ]
+                                  ]
+                                ],
+                                [
+                                  "span",
+                                  {
+                                    "data-type": "text"
+                                  },
+                                  [
+                                    "span",
+                                    {
+                                      "data-type": "leaf"
+                                    },
+                                    ""
+                                  ]
+                                ]
+                              ]
+                            ],
+                            [
+                              "tc",
+                              {
+                                "vAlign": "top",
+                                "fill": "#FFFFFF",
+                                "uuid": "mf6fpl4runk4z0d750b"
+                              },
+                              [
+                                "p",
+                                {
+                                  "uuid": "mf6fpl4r8k58qicu3i8"
+                                },
+                                [
+                                  "span",
+                                  {
+                                    "data-type": "text"
+                                  },
+                                  [
+                                    "span",
+                                    {
+                                      "data-type": "leaf"
+                                    },
+                                    ""
+                                  ]
+                                ],
+                                [
+                                  "img",
+                                  {
+                                    "extraData": {
+                                      "metaData": {
+                                        "format": "png",
+                                        "originHeight": 624,
+                                        "originWidth": 1290,
+                                        "ratio": 1,
+                                        "size": 387482
+                                      },
+                                      "resourceId": "f7b5dd97-bbd4-4870-b1e2-2b7542f0319a"
+                                    },
+                                    "height": 60.948837209302326,
+                                    "name": "image.png",
+                                    "size": 387482,
+                                    "src": "/core/api/resources/img/5eecdaf48460cde5389316140835ae32f3749fca0b7a37ec75b8339e1c4c24831b75b38faadcd24bec177c308ebd53045ab793c1b42aea37d82011bb74160b932b9b5f13b68911f88d577a07e9bb580e0e3ee620dc7058b24fb4c8ed7016461c",
+                                    "uuid": "8p91xf",
+                                    "width": 126
+                                  },
+                                  [
+                                    "span",
+                                    {
+                                      "data-type": "text"
+                                    },
+                                    [
+                                      "span",
+                                      {
+                                        "data-type": "leaf"
+                                      },
+                                      ""
+                                    ]
+                                  ]
+                                ],
+                                [
+                                  "span",
+                                  {
+                                    "data-type": "text"
+                                  },
+                                  [
+                                    "span",
+                                    {
+                                      "data-type": "leaf"
+                                    },
+                                    ""
+                                  ]
+                                ]
+                              ]
+                            ],
+                            [
+                              "tc",
+                              {
+                                "vAlign": "top",
+                                "fill": "#FFFFFF",
+                                "uuid": "mf6fpk609cko1o9i3pg"
+                              },
+                              [
+                                "p",
+                                {
+                                  "uuid": "mf6fpk607e2j5ljux9s"
+                                },
+                                [
+                                  "span",
+                                  {
+                                    "data-type": "text"
+                                  },
+                                  [
+                                    "span",
+                                    {
+                                      "data-type": "leaf"
+                                    },
+                                    ""
+                                  ]
+                                ],
+                                [
+                                  "img",
+                                  {
+                                    "extraData": {
+                                      "metaData": {
+                                        "format": "png",
+                                        "originHeight": 594,
+                                        "originWidth": 1360,
+                                        "ratio": 1,
+                                        "size": 384416
+                                      },
+                                      "resourceId": "5b720565-8343-459b-b174-62a7b4e7afe9"
+                                    },
+                                    "height": 55.03235294117647,
+                                    "name": "image.png",
+                                    "size": 384416,
+                                    "src": "/core/api/resources/img/5eecdaf48460cde5389316140835ae32f3749fca0b7a37ec75b8339e1c4c24831b75b38faadcd24bec177c308ebd530467b5a0bbbe88bac0806497dd0f98a3f69a2c8548ecbbbce92f882e31718339782555ee935238f0964fb4c8ed7016461c",
+                                    "uuid": "dsg7ws",
+                                    "width": 126
+                                  },
+                                  [
+                                    "span",
+                                    {
+                                      "data-type": "text"
+                                    },
+                                    [
+                                      "span",
+                                      {
+                                        "data-type": "leaf"
+                                      },
+                                      ""
+                                    ]
+                                  ]
+                                ],
+                                [
+                                  "span",
+                                  {
+                                    "data-type": "text"
+                                  },
+                                  [
+                                    "span",
+                                    {
+                                      "data-type": "leaf"
+                                    },
+                                    ""
+                                  ]
+                                ]
+                              ]
+                            ]
+                          ]
+                        ]
+                      ],
+                      [
+                        "tc",
+                        {
+                          "colSpan": 1,
+                          "rowSpan": 1,
+                          "uuid": "mfqagsvlyju70w2mli"
+                        },
+                        [
+                          "p",
+                          {
+                            "uuid": "mfqagsvlfoca4r0hdji"
+                          },
+                          [
+                            "span",
+                            {
+                              "data-type": "text"
+                            },
+                            [
+                              "span",
+                              {
+                                "data-type": "leaf"
+                              },
+                              "我想要xx品牌近15天内宝贝浏览搜索行为人群"
+                            ]
+                          ]
+                        ]
+                      ]
+                    ],
+                    [
+                      "tr",
+                      {
+                        "uuid": "mfdf685mft87t98llxm"
+                      },
+                      [
+                        "tc",
+                        {
+                          "colSpan": 1,
+                          "rowSpan": 1,
+                          "uuid": "mfdf685mjtf5gb2406",
+                          "vAlign": "middle"
+                        },
+                        [
+                          "p",
+                          {
+                            "uuid": "mfdf685myfwfw0d5cl",
+                            "jc": "center"
+                          },
+                          [
+                            "span",
+                            {
+                              "data-type": "text"
+                            },
+                            [
+                              "span",
+                              {
+                                "bold": true,
+                                "fonts": {
+                                  "ascii": "DingTalk JinBuTi",
+                                  "hAnsi": "DingTalk JinBuTi",
+                                  "cs": "DingTalk JinBuTi",
+                                  "eastAsia": "DingTalk JinBuTi"
+                                },
+                                "color": "linear-gradient(152deg, #C676FF 0%, #654CFF 41%, #405EFF 75%, #007FFF 99%)",
+                                "data-type": "leaf"
+                              },
+                              "锁定高消费人群"
+                            ]
+                          ]
+                        ]
+                      ],
+                      [
+                        "tc",
+                        {
+                          "colSpan": 1,
+                          "rowSpan": 1,
+                          "uuid": "mfdf685m0k5kph1x5fri"
+                        },
+                        [
+                          "p",
+                          {
+                            "uuid": "mfdf685mpeo7rgpbxx8"
+                          },
+                          [
+                            "span",
+                            {
+                              "data-type": "text"
+                            },
+                            [
+                              "span",
+                              {
+                                "data-type": "leaf"
+                              },
+                              ""
+                            ]
+                          ]
+                        ]
+                      ],
+                      [
+                        "tc",
+                        {
+                          "colSpan": 1,
+                          "rowSpan": 1,
+                          "uuid": "mfqagsvl9s2ey317lhj"
+                        },
+                        [
+                          "p",
+                          {
+                            "uuid": "mfqagsvl5xu9pr8t0pm"
+                          },
+                          [
+                            "span",
+                            {
+                              "data-type": "text"
+                            },
+                            [
+                              "span",
+                              {
+                                "data-type": "leaf"
+                              },
+                              "示例：我想要88vip和淘宝钻石/黑钻会员人群"
+                            ]
+                          ]
+                        ]
+                      ]
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "p",
+                {
+                  "uuid": "mf53z46kosvbhvbh4gg"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "text"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "leaf"
+                    },
+                    ""
+                  ]
+                ]
+              ],
+              [
+                "container",
+                {
+                  "subType": "colorBlocks",
+                  "metadata": {
+                    "padding": {
+                      "top": 11,
+                      "right": 11,
+                      "bottom": 11,
+                      "left": 11
+                    },
+                    "borderRadius": 8,
+                    "bgcolor": "#F5F6F7",
+                    "showstk": false,
+                    "border": null
+                  },
+                  "uuid": "mf55156kpl9rbgvq3c"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mf55156kul218lllwfh",
+                    "jc": "center"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "fonts": {
+                          "ascii": "DingTalk JinBuTi",
+                          "hAnsi": "DingTalk JinBuTi",
+                          "cs": "DingTalk JinBuTi",
+                          "eastAsia": "DingTalk JinBuTi"
+                        },
+                        "sz": 18,
+                        "szUnit": "pt",
+                        "color": "linear-gradient(152deg, #C676FF 0%, #654CFF 41%, #405EFF 75%, #007FFF 99%)",
+                        "data-type": "leaf"
+                      },
+                      "定制档位"
+                    ]
+                  ]
+                ],
+                [
+                  "container",
+                  {
+                    "subType": "colorBlocks",
+                    "metadata": {
+                      "padding": {
+                        "top": 11,
+                        "right": 11,
+                        "bottom": 11,
+                        "left": 11
+                      },
+                      "borderRadius": 8,
+                      "bgcolor": "#FFFFFF",
+                      "showstk": false,
+                      "border": null
+                    },
+                    "uuid": "mf5572w2bhk4516ft8"
+                  },
+                  [
+                    "table",
+                    {
+                      "colsWidth": [
+                        157,
+                        176,
+                        171,
+                        312
+                      ],
+                      "uuid": "mf25ibec79xf7oolrao",
+                      "styleId": "tableHeader",
+                      "tblLook": {
+                        "firstRow": 1,
+                        "firstColumn": 0,
+                        "lastRow": 0,
+                        "lastColumn": 0
+                      },
+                      "ind": {
+                        "left": 32
+                      }
+                    },
+                    [
+                      "tr",
+                      {
+                        "uuid": "mf2729cx1jln4jzf0vk",
+                        "isTblHeader": true
+                      },
+                      [
+                        "tc",
+                        {
+                          "colSpan": 1,
+                          "rowSpan": 1,
+                          "uuid": "mf2729cx8bnct01f3ie",
+                          "vAlign": "top"
+                        },
+                        [
+                          "p",
+                          {
+                            "uuid": "mf2729cx54shn958cft",
+                            "jc": "center"
+                          },
+                          [
+                            "span",
+                            {
+                              "data-type": "text"
+                            },
+                            [
+                              "span",
+                              {
+                                "bold": true,
+                                "fonts": {
+                                  "ascii": "DingTalk JinBuTi",
+                                  "hAnsi": "DingTalk JinBuTi",
+                                  "cs": "DingTalk JinBuTi",
+                                  "eastAsia": "DingTalk JinBuTi"
+                                },
+                                "sz": 12,
+                                "szUnit": "pt",
+                                "color": "linear-gradient(152deg, #C676FF 0%, #654CFF 41%, #405EFF 75%, #007FFF 99%)",
+                                "data-type": "leaf"
+                              },
+                              "档位"
+                            ]
+                          ]
+                        ]
+                      ],
+                      [
+                        "tc",
+                        {
+                          "colSpan": 1,
+                          "rowSpan": 1,
+                          "uuid": "mf2729cx1eds0i1glml",
+                          "vAlign": "top"
+                        },
+                        [
+                          "p",
+                          {
+                            "uuid": "mf2729cxwbpn869okg",
+                            "jc": "center"
+                          },
+                          [
+                            "span",
+                            {
+                              "data-type": "text"
+                            },
+                            [
+                              "span",
+                              {
+                                "bold": true,
+                                "fonts": {
+                                  "ascii": "DingTalk JinBuTi",
+                                  "hAnsi": "DingTalk JinBuTi",
+                                  "cs": "DingTalk JinBuTi",
+                                  "eastAsia": "DingTalk JinBuTi"
+                                },
+                                "sz": 12,
+                                "szUnit": "pt",
+                                "color": "linear-gradient(152deg, #C676FF 0%, #654CFF 41%, #405EFF 75%, #007FFF 99%)",
+                                "data-type": "leaf"
+                              },
+                              "可定制人群包数量"
+                            ]
+                          ]
+                        ]
+                      ],
+                      [
+                        "tc",
+                        {
+                          "colSpan": 1,
+                          "rowSpan": 1,
+                          "uuid": "mf2729cxyg7wb31hkph",
+                          "vAlign": "top"
+                        },
+                        [
+                          "p",
+                          {
+                            "uuid": "mf2729cxrqyq8wqf74f",
+                            "jc": "center"
+                          },
+                          [
+                            "span",
+                            {
+                              "data-type": "text"
+                            },
+                            [
+                              "span",
+                              {
+                                "bold": true,
+                                "fonts": {
+                                  "ascii": "DingTalk JinBuTi",
+                                  "hAnsi": "DingTalk JinBuTi",
+                                  "cs": "DingTalk JinBuTi",
+                                  "eastAsia": "DingTalk JinBuTi"
+                                },
+                                "sz": 12,
+                                "szUnit": "pt",
+                                "color": "linear-gradient(152deg, #C676FF 0%, #654CFF 41%, #405EFF 75%, #007FFF 99%)",
+                                "data-type": "leaf"
+                              },
+                              "单计划起投档位"
+                            ]
+                          ]
+                        ]
+                      ],
+                      [
+                        "tc",
+                        {
+                          "colSpan": 1,
+                          "rowSpan": 1,
+                          "uuid": "mf2729cx4nar3cv4lm2",
+                          "vAlign": "top"
+                        },
+                        [
+                          "p",
+                          {
+                            "uuid": "mf2729cxep73etzgjfh",
+                            "jc": "center"
+                          },
+                          [
+                            "span",
+                            {
+                              "data-type": "text"
+                            },
+                            [
+                              "span",
+                              {
+                                "bold": true,
+                                "fonts": {
+                                  "ascii": "DingTalk JinBuTi",
+                                  "hAnsi": "DingTalk JinBuTi",
+                                  "cs": "DingTalk JinBuTi",
+                                  "eastAsia": "DingTalk JinBuTi"
+                                },
+                                "sz": 12,
+                                "szUnit": "pt",
+                                "color": "linear-gradient(152deg, #C676FF 0%, #654CFF 41%, #405EFF 75%, #007FFF 99%)",
+                                "data-type": "leaf"
+                              },
+                              "升级标准"
+                            ]
+                          ]
+                        ]
+                      ]
+                    ],
+                    [
+                      "tr",
+                      {
+                        "uuid": "mf2729cxdwj3faiitgt",
+                        "h": 43
+                      },
+                      [
+                        "tc",
+                        {
+                          "colSpan": 1,
+                          "rowSpan": 1,
+                          "uuid": "mf2729cxadc9witqjcs",
+                          "vAlign": "top"
+                        },
+                        [
+                          "p",
+                          {
+                            "uuid": "mf2729cx0hn3hhdhkd2n",
+                            "jc": "center"
+                          },
+                          [
+                            "span",
+                            {
+                              "data-type": "text"
+                            },
+                            [
+                              "span",
+                              {
+                                "bold": true,
+                                "fonts": {
+                                  "ascii": "DingTalk JinBuTi",
+                                  "hAnsi": "DingTalk JinBuTi",
+                                  "cs": "DingTalk JinBuTi",
+                                  "eastAsia": "DingTalk JinBuTi"
+                                },
+                                "sz": 12,
+                                "szUnit": "pt",
+                                "color": "linear-gradient(152deg, #C676FF 0%, #654CFF 41%, #405EFF 75%, #007FFF 99%)",
+                                "data-type": "leaf"
+                              },
+                              "定制起航"
+                            ]
+                          ]
+                        ]
+                      ],
+                      [
+                        "tc",
+                        {
+                          "colSpan": 1,
+                          "rowSpan": 1,
+                          "uuid": "mf2729cx7hqym5avmud",
+                          "vAlign": "top"
+                        },
+                        [
+                          "p",
+                          {
+                            "uuid": "mf2729cxxmee06oojia",
+                            "jc": "center"
+                          },
+                          [
+                            "span",
+                            {
+                              "data-type": "text"
+                            },
+                            [
+                              "span",
+                              {
+                                "data-type": "leaf"
+                              },
+                              "3"
+                            ]
+                          ]
+                        ]
+                      ],
+                      [
+                        "tc",
+                        {
+                          "colSpan": 1,
+                          "rowSpan": 1,
+                          "uuid": "mf2729cxdncgn6jfdjv",
+                          "vAlign": "top"
+                        },
+                        [
+                          "p",
+                          {
+                            "uuid": "mf2729cxfxb6cw22kdq",
+                            "jc": "center"
+                          },
+                          [
+                            "span",
+                            {
+                              "data-type": "text"
+                            },
+                            [
+                              "span",
+                              {
+                                "data-type": "leaf"
+                              },
+                              "3w"
+                            ]
+                          ]
+                        ]
+                      ],
+                      [
+                        "tc",
+                        {
+                          "colSpan": 1,
+                          "rowSpan": 1,
+                          "uuid": "mf2729cx1wg58mm10l7",
+                          "vAlign": "top"
+                        },
+                        [
+                          "p",
+                          {
+                            "uuid": "mf2729cxibhb3gorwlm"
+                          },
+                          [
+                            "span",
+                            {
+                              "data-type": "text"
+                            },
+                            [
+                              "span",
+                              {
+                                "data-type": "leaf"
+                              },
+                              "/"
+                            ]
+                          ]
+                        ]
+                      ]
+                    ],
+                    [
+                      "tr",
+                      {
+                        "uuid": "mf2729cxhhrmkc2or2u"
+                      },
+                      [
+                        "tc",
+                        {
+                          "colSpan": 1,
+                          "rowSpan": 1,
+                          "uuid": "mf2729cx9g8v11mz3vj",
+                          "vAlign": "top"
+                        },
+                        [
+                          "p",
+                          {
+                            "uuid": "mf2729cxaccwx1b3g4",
+                            "jc": "center"
+                          },
+                          [
+                            "span",
+                            {
+                              "data-type": "text"
+                            },
+                            [
+                              "span",
+                              {
+                                "bold": true,
+                                "fonts": {
+                                  "ascii": "DingTalk JinBuTi",
+                                  "hAnsi": "DingTalk JinBuTi",
+                                  "cs": "DingTalk JinBuTi",
+                                  "eastAsia": "DingTalk JinBuTi"
+                                },
+                                "sz": 12,
+                                "szUnit": "pt",
+                                "color": "linear-gradient(152deg, #C676FF 0%, #654CFF 41%, #405EFF 75%, #007FFF 99%)",
+                                "data-type": "leaf"
+                              },
+                              "定制加码"
+                            ]
+                          ]
+                        ]
+                      ],
+                      [
+                        "tc",
+                        {
+                          "colSpan": 1,
+                          "rowSpan": 1,
+                          "uuid": "mf2729cx4b1p55m9vi9",
+                          "vAlign": "top"
+                        },
+                        [
+                          "p",
+                          {
+                            "uuid": "mf2729cxu1tu43vx8c",
+                            "jc": "center"
+                          },
+                          [
+                            "span",
+                            {
+                              "data-type": "text"
+                            },
+                            [
+                              "span",
+                              {
+                                "data-type": "leaf"
+                              },
+                              "7"
+                            ]
+                          ]
+                        ]
+                      ],
+                      [
+                        "tc",
+                        {
+                          "colSpan": 1,
+                          "rowSpan": 1,
+                          "uuid": "mf2729cxhuprx80j0p9",
+                          "vAlign": "top"
+                        },
+                        [
+                          "p",
+                          {
+                            "uuid": "mf2729cxcx8id1sr3z7",
+                            "jc": "center"
+                          },
+                          [
+                            "span",
+                            {
+                              "data-type": "text"
+                            },
+                            [
+                              "span",
+                              {
+                                "data-type": "leaf"
+                              },
+                              "3w"
+                            ]
+                          ]
+                        ]
+                      ],
+                      [
+                        "tc",
+                        {
+                          "colSpan": 1,
+                          "rowSpan": 1,
+                          "uuid": "mf2729cx3huf63bfq7w",
+                          "vAlign": "top"
+                        },
+                        [
+                          "p",
+                          {
+                            "uuid": "mf2729cxfv66kc5h2e8"
+                          },
+                          [
+                            "span",
+                            {
+                              "data-type": "text"
+                            },
+                            [
+                              "span",
+                              {
+                                "data-type": "leaf"
+                              },
+                              "定制人群包累计创建10w及以上预算"
+                            ]
+                          ]
+                        ]
+                      ]
+                    ],
+                    [
+                      "tr",
+                      {
+                        "uuid": "mf2729cxjxjqjdowmyc"
+                      },
+                      [
+                        "tc",
+                        {
+                          "colSpan": 1,
+                          "rowSpan": 1,
+                          "uuid": "mf2729cx3rhh3x7c1u8",
+                          "vAlign": "top"
+                        },
+                        [
+                          "p",
+                          {
+                            "uuid": "mf2729cx71yohr17l8n",
+                            "jc": "center"
+                          },
+                          [
+                            "span",
+                            {
+                              "data-type": "text"
+                            },
+                            [
+                              "span",
+                              {
+                                "bold": true,
+                                "fonts": {
+                                  "ascii": "DingTalk JinBuTi",
+                                  "hAnsi": "DingTalk JinBuTi",
+                                  "cs": "DingTalk JinBuTi",
+                                  "eastAsia": "DingTalk JinBuTi"
+                                },
+                                "sz": 12,
+                                "szUnit": "pt",
+                                "color": "linear-gradient(152deg, #C676FF 0%, #654CFF 41%, #405EFF 75%, #007FFF 99%)",
+                                "data-type": "leaf"
+                              },
+                              "终极定制"
+                            ]
+                          ]
+                        ]
+                      ],
+                      [
+                        "tc",
+                        {
+                          "colSpan": 1,
+                          "rowSpan": 1,
+                          "uuid": "mf2729cxlgd6cgji7",
+                          "vAlign": "top"
+                        },
+                        [
+                          "p",
+                          {
+                            "uuid": "mf2729cxajjp2kkbnr8",
+                            "jc": "center"
+                          },
+                          [
+                            "span",
+                            {
+                              "data-type": "text"
+                            },
+                            [
+                              "span",
+                              {
+                                "data-type": "leaf"
+                              },
+                              "20（支持汰换）"
+                            ]
+                          ]
+                        ]
+                      ],
+                      [
+                        "tc",
+                        {
+                          "colSpan": 1,
+                          "rowSpan": 1,
+                          "uuid": "mf2729cxmbyn1u417ti",
+                          "vAlign": "top"
+                        },
+                        [
+                          "p",
+                          {
+                            "uuid": "mf2729cxe3z6v8caclv",
+                            "jc": "center"
+                          },
+                          [
+                            "span",
+                            {
+                              "data-type": "text"
+                            },
+                            [
+                              "span",
+                              {
+                                "data-type": "leaf"
+                              },
+                              "1w"
+                            ]
+                          ]
+                        ]
+                      ],
+                      [
+                        "tc",
+                        {
+                          "colSpan": 1,
+                          "rowSpan": 1,
+                          "uuid": "mf2729cxb1gr2nuhpmk",
+                          "vAlign": "top"
+                        },
+                        [
+                          "p",
+                          {
+                            "uuid": "mf2729cxmjlt0neh3i"
+                          },
+                          [
+                            "span",
+                            {
+                              "data-type": "text"
+                            },
+                            [
+                              "span",
+                              {
+                                "data-type": "leaf"
+                              },
+                              "定制人群包累计创建20w及以上预算"
+                            ]
+                          ]
+                        ]
+                      ]
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "p",
+                {
+                  "uuid": "mf550vhq7zo2ya0l4b"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "text"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "leaf"
+                    },
+                    ""
+                  ]
+                ]
+              ],
+              [
+                "container",
+                {
+                  "subType": "colorBlocks",
+                  "metadata": {
+                    "padding": {
+                      "top": 11,
+                      "right": 11,
+                      "bottom": 11,
+                      "left": 11
+                    },
+                    "borderRadius": 8,
+                    "bgcolor": "#F5F6F7",
+                    "showstk": false,
+                    "border": null
+                  },
+                  "uuid": "mf53zc7rdp528sgtj3m"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mf53zc7rp3wwtvmv9cd",
+                    "jc": "center"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "fonts": {
+                          "ascii": "DingTalk JinBuTi",
+                          "hAnsi": "DingTalk JinBuTi",
+                          "cs": "DingTalk JinBuTi",
+                          "eastAsia": "DingTalk JinBuTi"
+                        },
+                        "sz": 18,
+                        "szUnit": "pt",
+                        "color": "linear-gradient(152deg, #C676FF 0%, #654CFF 41%, #405EFF 75%, #007FFF 99%)",
+                        "data-type": "leaf"
+                      },
+                      "如何定制"
+                    ]
+                  ]
+                ],
+                [
+                  "container",
+                  {
+                    "subType": "colorBlocks",
+                    "metadata": {
+                      "padding": {
+                        "top": 11,
+                        "right": 11,
+                        "bottom": 11,
+                        "left": 11
+                      },
+                      "borderRadius": 8,
+                      "bgcolor": "#FFFFFF",
+                      "showstk": false,
+                      "border": null
+                    },
+                    "uuid": "mf541uf7jj3ek3nnj6h"
+                  },
+                  [
+                    "p",
+                    {
+                      "uuid": "mf541uf7qdpqa1ca7qj",
+                      "jc": "center"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "bold": true,
+                          "fonts": {
+                            "ascii": "DingTalk JinBuTi",
+                            "hAnsi": "DingTalk JinBuTi",
+                            "cs": "DingTalk JinBuTi",
+                            "eastAsia": "DingTalk JinBuTi"
+                          },
+                          "sz": 14,
+                          "szUnit": "pt",
+                          "color": "linear-gradient(90deg, #FF7100 0%, #F300AD 100%)",
+                          "data-type": "leaf"
+                        },
+                        "STEP 1 查看近期人群超市消耗"
+                      ]
+                    ]
+                  ],
+                  [
+                    "p",
+                    {
+                      "uuid": "mf544mtw852kzwj42bk"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "leaf"
+                        },
+                        "申请定制近7日 "
+                      ]
+                    ],
+                    [
+                      "cangjie-textinline",
+                      {
+                        "subType": "label",
+                        "data": {
+                          "color": "var(--we_red3_color, rgba(200, 78, 67, 1))",
+                          "bgColor": "#FCDFDC"
+                        },
+                        "uuid": "mf54qzyy9ps23rg4hpf"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "text"
+                        },
+                        [
+                          "span",
+                          {
+                            "bold": true,
+                            "highlight": "radial-gradient(68% 68% at 68% 100%, #F2F7F7 0%, rgba(242, 245, 255, 0) 100%), radial-gradient(53% 53% at 16% -12%, #FEF2F2 0%, rgba(242, 245, 255, 0) 100%), radial-gradient(55% 141% at 100% 100%, #E4EBFF 0%, rgba(242, 245, 255, 0) 100%), linear-gradient(99deg, #E9E7FF 0%, #E4EBFF 100%)",
+                            "data-type": "leaf"
+                          },
+                          "人群超市消耗>= xx"
+                        ]
+                      ]
+                    ],
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "leaf"
+                        },
+                        "万客获得人群超市人群包定制权限"
+                      ]
+                    ]
+                  ],
+                  [
+                    "p",
+                    {
+                      "uuid": "mf548l41j5edcw8huxi"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "leaf"
+                        },
+                        ""
+                      ]
+                    ],
+                    [
+                      "img",
+                      {
+                        "uuid": "uuyalm",
+                        "name": "image.png",
+                        "size": 1347770,
+                        "width": 887,
+                        "height": 318.4576388888889,
+                        "src": "/core/api/resources/img/5eecdaf48460cde5389316140835ae32f3749fca0b7a37ec75b8339e1c4c24831b75b38faadcd24bec177c308ebd53041bbc82a4f3ee5ca90af7aac9f36a71a6e5a9c2300fb5af5a1f052717c63641d0c30f829f533fdc0b4fb4c8ed7016461c",
+                        "extraData": {
+                          "resourceId": "d6db158b-7627-47c9-aa9a-56e001319955",
+                          "metaData": {
+                            "size": 1347770,
+                            "originWidth": 2880,
+                            "originHeight": 1034,
+                            "format": "png",
+                            "ratio": 1
+                          }
+                        }
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "text"
+                        },
+                        [
+                          "span",
+                          {
+                            "data-type": "leaf"
+                          },
+                          ""
+                        ]
+                      ]
+                    ],
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "leaf"
+                        },
+                        ""
+                      ]
+                    ]
+                  ]
+                ],
+                [
+                  "container",
+                  {
+                    "subType": "colorBlocks",
+                    "metadata": {
+                      "padding": {
+                        "top": 11,
+                        "right": 11,
+                        "bottom": 11,
+                        "left": 11
+                      },
+                      "borderRadius": 8,
+                      "bgcolor": "#FFFFFF",
+                      "showstk": false,
+                      "border": null
+                    },
+                    "uuid": "mf54zpfc5p5glfs08qo"
+                  },
+                  [
+                    "p",
+                    {
+                      "uuid": "mf54zpfcgufbmx1ea6k",
+                      "jc": "center"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "bold": true,
+                          "fonts": {
+                            "ascii": "DingTalk JinBuTi",
+                            "hAnsi": "DingTalk JinBuTi",
+                            "cs": "DingTalk JinBuTi",
+                            "eastAsia": "DingTalk JinBuTi"
+                          },
+                          "sz": 14,
+                          "szUnit": "pt",
+                          "color": "linear-gradient(90deg, #FF7100 0%, #F300AD 100%)",
+                          "data-type": "leaf"
+                        },
+                        "STEP 2 明确自定义人群画像，填写问卷提报需求"
+                      ]
+                    ]
+                  ],
+                  [
+                    "table",
+                    {
+                      "colsWidth": [
+                        325,
+                        325
+                      ],
+                      "sr": true,
+                      "uuid": "mfgf9uf0ks9qz4etqbi"
+                    },
+                    [
+                      "tr",
+                      {
+                        "uuid": "mfgf9uf01wv0ixfvxst"
+                      },
+                      [
+                        "tc",
+                        {
+                          "fill": "#F5F6F7",
+                          "vAlign": "top",
+                          "uuid": "mfgf9uf0hdpibyd07m",
+                          "rowSpan": 1,
+                          "colSpan": 1
+                        },
+                        [
+                          "p",
+                          {
+                            "uuid": "mfgf9uf0pvjnu06evwl",
+                            "jc": "center"
+                          },
+                          [
+                            "span",
+                            {
+                              "data-type": "text"
+                            },
+                            [
+                              "span",
+                              {
+                                "fonts": {
+                                  "ascii": "DingTalk JinBuTi",
+                                  "hAnsi": "DingTalk JinBuTi",
+                                  "cs": "DingTalk JinBuTi",
+                                  "eastAsia": "DingTalk JinBuTi"
+                                },
+                                "sz": 12,
+                                "szUnit": "pt",
+                                "color": "linear-gradient(90deg, #FF7100 0%, #F300AD 100%)",
+                                "data-type": "leaf"
+                              },
+                              "链接填写定制需求"
+                            ]
+                          ]
+                        ],
+                        [
+                          "p",
+                          {
+                            "uuid": "mfgf9uf0znfwiizsr9",
+                            "jc": "center"
+                          },
+                          [
+                            "span",
+                            {
+                              "data-type": "text"
+                            },
+                            [
+                              "span",
+                              {
+                                "fonts": {
+                                  "ascii": "DingTalk JinBuTi",
+                                  "hAnsi": "DingTalk JinBuTi",
+                                  "cs": "DingTalk JinBuTi",
+                                  "eastAsia": "DingTalk JinBuTi"
+                                },
+                                "sz": 12,
+                                "szUnit": "pt",
+                                "color": "linear-gradient(90deg, #FF7100 0%, #F300AD 100%)",
+                                "data-type": "leaf"
+                              },
+                              ""
+                            ]
+                          ]
+                        ],
+                        [
+                          "p",
+                          {
+                            "uuid": "mfgf9uf0wgm4t8bm0hb",
+                            "jc": "center"
+                          },
+                          [
+                            "span",
+                            {
+                              "data-type": "text"
+                            },
+                            [
+                              "span",
+                              {
+                                "fonts": {
+                                  "ascii": "DingTalk JinBuTi",
+                                  "hAnsi": "DingTalk JinBuTi",
+                                  "cs": "DingTalk JinBuTi",
+                                  "eastAsia": "DingTalk JinBuTi"
+                                },
+                                "sz": 12,
+                                "szUnit": "pt",
+                                "color": "#1642f5",
+                                "underline": {
+                                  "value": "single"
+                                },
+                                "data-type": "leaf"
+                              },
+                              ""
+                            ]
+                          ],
+                          [
+                            "a",
+                            {
+                              "href": "https://survey.taobao.com/apps/zhiliao/eIRLJbWnB",
+                              "uuid": "mfgf9uf01dfkbduqlre"
+                            },
+                            [
+                              "span",
+                              {
+                                "data-type": "text"
+                              },
+                              [
+                                "span",
+                                {
+                                  "fonts": {
+                                    "ascii": "DingTalk JinBuTi",
+                                    "hAnsi": "DingTalk JinBuTi",
+                                    "cs": "DingTalk JinBuTi",
+                                    "eastAsia": "DingTalk JinBuTi"
+                                  },
+                                  "sz": 12,
+                                  "szUnit": "pt",
+                                  "color": "#1642f5",
+                                  "underline": {
+                                    "value": "single"
+                                  },
+                                  "data-type": "leaf"
+                                },
+                                "个性化人群包定制需求收集"
+                              ]
+                            ]
+                          ],
+                          [
+                            "span",
+                            {
+                              "data-type": "text"
+                            },
+                            [
+                              "span",
+                              {
+                                "fonts": {
+                                  "ascii": "DingTalk JinBuTi",
+                                  "hAnsi": "DingTalk JinBuTi",
+                                  "cs": "DingTalk JinBuTi",
+                                  "eastAsia": "DingTalk JinBuTi"
+                                },
+                                "sz": 12,
+                                "szUnit": "pt",
+                                "color": "#1642f5",
+                                "underline": {
+                                  "value": "single"
+                                },
+                                "data-type": "leaf"
+                              },
+                              ""
+                            ]
+                          ]
+                        ]
+                      ],
+                      [
+                        "tc",
+                        {
+                          "fill": "#F5F6F7",
+                          "vAlign": "top",
+                          "uuid": "mfgf9uf0l6487bv1t2s",
+                          "rowSpan": 1,
+                          "colSpan": 1
+                        },
+                        [
+                          "p",
+                          {
+                            "uuid": "mfgf9uf0nfymw1qwe7",
+                            "jc": "center"
+                          },
+                          [
+                            "span",
+                            {
+                              "data-type": "text"
+                            },
+                            [
+                              "span",
+                              {
+                                "fonts": {
+                                  "ascii": "DingTalk JinBuTi",
+                                  "hAnsi": "DingTalk JinBuTi",
+                                  "cs": "DingTalk JinBuTi",
+                                  "eastAsia": "DingTalk JinBuTi"
+                                },
+                                "sz": 12,
+                                "szUnit": "pt",
+                                "color": "linear-gradient(90deg, #FF7100 0%, #F300AD 100%)",
+                                "data-type": "leaf"
+                              },
+                              "扫码填写定制需求"
+                            ]
+                          ]
+                        ],
+                        [
+                          "p",
+                          {
+                            "uuid": "mfgf9uf0oa4w1d2dd08",
+                            "jc": "center"
+                          },
+                          [
+                            "span",
+                            {
+                              "data-type": "text"
+                            },
+                            [
+                              "span",
+                              {
+                                "fonts": {
+                                  "ascii": "DingTalk JinBuTi",
+                                  "hAnsi": "DingTalk JinBuTi",
+                                  "cs": "DingTalk JinBuTi",
+                                  "eastAsia": "DingTalk JinBuTi"
+                                },
+                                "sz": 12,
+                                "szUnit": "pt",
+                                "color": "linear-gradient(90deg, #FF7100 0%, #F300AD 100%)",
+                                "data-type": "leaf"
+                              },
+                              ""
+                            ]
+                          ]
+                        ],
+                        [
+                          "p",
+                          {
+                            "uuid": "mfgf9uf0rgwzon2o7h",
+                            "jc": "center"
+                          },
+                          [
+                            "span",
+                            {
+                              "data-type": "text"
+                            },
+                            [
+                              "span",
+                              {
+                                "fonts": {
+                                  "ascii": "DingTalk JinBuTi",
+                                  "hAnsi": "DingTalk JinBuTi",
+                                  "cs": "DingTalk JinBuTi",
+                                  "eastAsia": "DingTalk JinBuTi"
+                                },
+                                "sz": 12,
+                                "szUnit": "pt",
+                                "color": "linear-gradient(90deg, #FF7100 0%, #F300AD 100%)",
+                                "data-type": "leaf"
+                              },
+                              ""
+                            ]
+                          ],
+                          [
+                            "img",
+                            {
+                              "uuid": "mfgf9uexg43u131qnw",
+                              "name": "313131-256 (1).png",
+                              "size": 2153,
+                              "width": 128,
+                              "height": 128,
+                              "src": "/core/api/resources/img/5eecdaf48460cde5389316140835ae32f3749fca0b7a37ec75b8339e1c4c24831b75b38faadcd24bec177c308ebd5304dc5d33a66103aafa130ff120cc3835b117162443a027b7b01798dcabe96b7b4913dbb1c797a52d2d4fb4c8ed7016461c",
+                              "extraData": {
+                                "resourceId": "24c74047-3de3-4c7a-841f-fbf2a5209320",
+                                "metaData": {
+                                  "size": 2153,
+                                  "originWidth": 256,
+                                  "originHeight": 256,
+                                  "format": "png",
+                                  "ratio": 1
+                                }
+                              }
+                            },
+                            [
+                              "span",
+                              {
+                                "data-type": "text"
+                              },
+                              [
+                                "span",
+                                {
+                                  "data-type": "leaf"
+                                },
+                                ""
+                              ]
+                            ]
+                          ],
+                          [
+                            "span",
+                            {
+                              "data-type": "text"
+                            },
+                            [
+                              "span",
+                              {
+                                "fonts": {
+                                  "ascii": "DingTalk JinBuTi",
+                                  "hAnsi": "DingTalk JinBuTi",
+                                  "cs": "DingTalk JinBuTi",
+                                  "eastAsia": "DingTalk JinBuTi"
+                                },
+                                "sz": 12,
+                                "szUnit": "pt",
+                                "color": "linear-gradient(90deg, #FF7100 0%, #F300AD 100%)",
+                                "data-type": "leaf"
+                              },
+                              ""
+                            ]
+                          ]
+                        ]
+                      ]
+                    ]
+                  ]
+                ],
+                [
+                  "container",
+                  {
+                    "subType": "colorBlocks",
+                    "metadata": {
+                      "padding": {
+                        "top": 11,
+                        "right": 11,
+                        "bottom": 11,
+                        "left": 11
+                      },
+                      "borderRadius": 8,
+                      "bgcolor": "#FFFFFF",
+                      "showstk": false,
+                      "border": null
+                    },
+                    "uuid": "mf56iclz89s5pykcfdg"
+                  },
+                  [
+                    "p",
+                    {
+                      "uuid": "mf56iclzp9c56ur9n1",
+                      "jc": "center"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "bold": true,
+                          "fonts": {
+                            "ascii": "DingTalk JinBuTi",
+                            "hAnsi": "DingTalk JinBuTi",
+                            "cs": "DingTalk JinBuTi",
+                            "eastAsia": "DingTalk JinBuTi"
+                          },
+                          "sz": 14,
+                          "szUnit": "pt",
+                          "color": "linear-gradient(90deg, #FF7100 0%, #F300AD 100%)",
+                          "data-type": "leaf"
+                        },
+                        "STEP 3 定制人群包上线投放"
+                      ]
+                    ]
+                  ],
+                  [
+                    "p",
+                    {
+                      "uuid": "mf56iem0wt7lmzsryk"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "leaf"
+                        },
+                        "提报后最快可在1-2天上线"
+                      ]
+                    ]
+                  ],
+                  [
+                    "p",
+                    {
+                      "uuid": "mf57bbpm8xri395dix2"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "bold": true,
+                          "fonts": {
+                            "ascii": "DingTalk JinBuTi",
+                            "hAnsi": "DingTalk JinBuTi",
+                            "cs": "DingTalk JinBuTi",
+                            "eastAsia": "DingTalk JinBuTi"
+                          },
+                          "color": "#1564DC",
+                          "data-type": "leaf"
+                        },
+                        "投放链路：人群推广——人群超市——店铺核心人群增长"
+                      ]
+                    ]
+                  ]
+                ]
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mf4uu21spf2uiofhxee"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 3.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 3.0\"",
+                    "cs": "\"Alibaba PuHuiTi 3.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 3.0\""
+                  },
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ]
+        ],
+        "footers": {},
+        "version": 1
+      },
+      "refs": {}
+    }
+  }
+}

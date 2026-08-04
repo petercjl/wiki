@@ -1,0 +1,3381 @@
+{
+  "version": 1,
+  "type": "application/x-alidocs-package",
+  "main": "00000000-0000-0000-0000-000000000001",
+  "plugins": "00000000-0000-0000-0000-000000000002",
+  "parts": {
+    "00000000-0000-0000-0000-000000000001": {
+      "id": "00000000-0000-0000-0000-000000000001",
+      "type": "application/x-alidocs-word",
+      "version": 1,
+      "data": {
+        "style": {
+          "docDefaults": {
+            "type": "paragraph",
+            "default": 1,
+            "name": "dingdocnormal",
+            "data": {
+              "rPr": {
+                "sz": 12,
+                "szUnit": "pt"
+              },
+              "pPr": {
+                "spacing": {
+                  "before": 12,
+                  "after": 12
+                }
+              }
+            }
+          },
+          "tableDefault": {
+            "type": "table",
+            "data": {
+              "tblPr": {
+                "bdr": {
+                  "bottom": {
+                    "color": "#D6D6D6",
+                    "space": 0,
+                    "sz": 1,
+                    "val": "single"
+                  },
+                  "insideH": {
+                    "color": "#D6D6D6",
+                    "space": 0,
+                    "sz": 1,
+                    "val": "single"
+                  },
+                  "insideV": {
+                    "color": "#D6D6D6",
+                    "space": 0,
+                    "sz": 1,
+                    "val": "single"
+                  },
+                  "left": {
+                    "color": "#D6D6D6",
+                    "space": 0,
+                    "sz": 1,
+                    "val": "single"
+                  },
+                  "right": {
+                    "color": "#D6D6D6",
+                    "space": 0,
+                    "sz": 1,
+                    "val": "single"
+                  },
+                  "top": {
+                    "color": "#D6D6D6",
+                    "space": 0,
+                    "sz": 1,
+                    "val": "single"
+                  }
+                }
+              }
+            }
+          },
+          "tableHeader": {
+            "type": "table",
+            "basedOn": "tableDefault",
+            "data": {
+              "tblStylePr": [
+                {
+                  "type": "firstRow",
+                  "tcPr": {
+                    "shd": {
+                      "fill": "#F5F6F7"
+                    }
+                  }
+                },
+                {
+                  "type": "firstCol",
+                  "tcPr": {
+                    "shd": {
+                      "fill": "#F5F6F7"
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        "theme": [],
+        "settings": {
+          "titleCover": {
+            "isHide": true
+          }
+        },
+        "app": {},
+        "numberings": {},
+        "headers": {},
+        "body": [
+          "root",
+          {
+            "sectPr": {
+              "pgSz": {
+                "w": 892,
+                "h": 1127
+              },
+              "pgMar": {
+                "top": 48,
+                "bottom": 48,
+                "left": 72,
+                "right": 72,
+                "header": 56.73,
+                "footer": 66.13,
+                "gutter": 0
+              }
+            },
+            "theme": {
+              "table": {
+                "tableCell": {
+                  "vAlign": "top"
+                }
+              }
+            }
+          },
+          [
+            "container",
+            {
+              "subType": "colorBlocks",
+              "metadata": {
+                "padding": {
+                  "top": 11,
+                  "right": 11,
+                  "bottom": 11,
+                  "left": 11
+                },
+                "borderRadius": 8,
+                "sticker": {
+                  "type": "dingding",
+                  "id": "alidocs_emotion_037",
+                  "name": "[实心星星]",
+                  "url": "https://g.alicdn.com/alidocs/emotion-assets/0.0.6/alidocs_emotion_037.png"
+                },
+                "bgcolor": "linear-gradient(316deg, #F0EBF7 -13%, #FFFEFE 52%, #D5C8EE 125%)",
+                "showstk": true,
+                "border": "#9A6DD7"
+              },
+              "uuid": "mrlnftuxv8tyxmibpt"
+            },
+            [
+              "p",
+              {
+                "uuid": "mrlnfxp6kq4gyfsnpmb",
+                "jc": "center"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "bold": true,
+                    "sz": 22,
+                    "szUnit": "pt",
+                    "color": "linear-gradient(152deg, #C676FF 0%, #654CFF 41%, #405EFF 75%, #007FFF 99%)",
+                    "data-type": "leaf"
+                  },
+                  "企微邀约卡片重磅上线，线索推广全新旺旺获客方式"
+                ]
+              ]
+            ],
+            [
+              "p",
+              {
+                "uuid": "mrlngdn6a84tyw8lcsv"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "bold": true,
+                    "data-type": "leaf"
+                  },
+                  "产品能力："
+                ],
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  "企微邀约卡片是阿里妈妈为投放线索推广产品的商家提供的线索收集工具。商家可在旺旺咨询中向消费者发送企微添加卡片，消费者可扫码添加店铺企业微信。本产品旨在为合规经营商家提供安全、规范的留资渠道，助力商家在合规前提下高效完成线索转化，提升客户跟进效率。"
+                ]
+              ]
+            ],
+            [
+              "p",
+              {
+                "uuid": "mrln71l26gwa3hfzsaq"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "bold": true,
+                    "data-type": "leaf"
+                  },
+                  "限时福利："
+                ],
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  "为了让商家"
+                ],
+                [
+                  "span",
+                  {
+                    "bold": true,
+                    "data-type": "leaf"
+                  },
+                  "更快用上这一新能力"
+                ],
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  "，我们特别开启本次福利活动："
+                ],
+                [
+                  "span",
+                  {
+                    "bold": true,
+                    "sz": 14,
+                    "szUnit": "pt",
+                    "color": "linear-gradient(152deg, #C676FF 0%, #654CFF 41%, #405EFF 75%, #007FFF 99%)",
+                    "data-type": "leaf"
+                  },
+                  "无需等待计划消耗达标，下单【企微卡片权益包】即可快速开通权限，更早拿到生意助力。"
+                ]
+              ]
+            ]
+          ],
+          [
+            "h2",
+            {
+              "uuid": "mrln71l2klvj64777l9",
+              "ind": {
+                "hanging": 0,
+                "left": 0
+              },
+              "list": {
+                "listId": "v592nfaxzyj",
+                "level": 1,
+                "isTaskList": false,
+                "isOrdered": true,
+                "listStyleType": "DEC_DEC_DEC_P",
+                "symbolStyle": {
+                  "sz": 18,
+                  "bold": true
+                },
+                "listStyle": {
+                  "format": "decimal",
+                  "text": "%1",
+                  "align": "left"
+                },
+                "autoLevel": true
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "活动规则"
+              ]
+            ]
+          ],
+          [
+            "table",
+            {
+              "colsWidth": [
+                119,
+                628
+              ],
+              "tblW": {
+                "type": "pct"
+              },
+              "styleId": "tableHeader",
+              "tblLook": {
+                "firstRow": 1,
+                "lastRow": 0,
+                "firstColumn": 0,
+                "lastColumn": 0
+              },
+              "uuid": "mrln71l2shd59xd4qck"
+            },
+            [
+              "tr",
+              {
+                "isTblHeader": true,
+                "uuid": "mrln71l3zfkbgg08e9r"
+              },
+              [
+                "tc",
+                {
+                  "rowSpan": 1,
+                  "colSpan": 1,
+                  "uuid": "mrln71l3zyudgyv7qe",
+                  "fill": "radial-gradient(68% 68% at 68% 100%, #F2F7F7 0%, rgba(242, 245, 255, 0) 100%), radial-gradient(53% 53% at 16% -12%, #FEF2F2 0%, rgba(242, 245, 255, 0) 100%), radial-gradient(55% 141% at 100% 100%, #E4EBFF 0%, rgba(242, 245, 255, 0) 100%), linear-gradient(99deg, #E9E7FF 0%, #E4EBFF 100%)",
+                  "vAlign": "middle"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mrln71l3ppwvrummk8f"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "color": "",
+                        "data-type": "leaf"
+                      },
+                      "项目"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "rowSpan": 1,
+                  "colSpan": 1,
+                  "uuid": "mrln71l3j1rtkoy5et",
+                  "fill": "radial-gradient(68% 68% at 68% 100%, #F2F7F7 0%, rgba(242, 245, 255, 0) 100%), radial-gradient(53% 53% at 16% -12%, #FEF2F2 0%, rgba(242, 245, 255, 0) 100%), radial-gradient(55% 141% at 100% 100%, #E4EBFF 0%, rgba(242, 245, 255, 0) 100%), linear-gradient(99deg, #E9E7FF 0%, #E4EBFF 100%)",
+                  "vAlign": "middle"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mrln71l3aouznrjur5t"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "color": "",
+                        "data-type": "leaf"
+                      },
+                      "内容"
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {
+                "uuid": "mrln71l37h25hodwwm2"
+              },
+              [
+                "tc",
+                {
+                  "rowSpan": 1,
+                  "colSpan": 1,
+                  "uuid": "mrln71l3lm7ep8g33yr",
+                  "vAlign": "middle"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mrln71l361xh9dfehxr"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "活动对象"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "rowSpan": 1,
+                  "colSpan": 1,
+                  "uuid": "mrln71l432khcovzocj",
+                  "vAlign": "middle"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mrln71l4mgf77wx99pq"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "全量拥有线索推广场景权限的商家"
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {
+                "uuid": "mrln71l4579b22jpcd6",
+                "h": 41
+              },
+              [
+                "tc",
+                {
+                  "rowSpan": 1,
+                  "colSpan": 1,
+                  "uuid": "mrln71l45q0p25o25va",
+                  "vAlign": "middle"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mrln71l4x470ugh9a1"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "活动时间"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "rowSpan": 1,
+                  "colSpan": 1,
+                  "uuid": "mrln71l4md1smx8fe4",
+                  "vAlign": "middle"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mrln71l4kb0s4sw0xub"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "2026年7月15日 ~ 2026年8月16日"
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {
+                "uuid": "mrln71l4up4ld2c61n"
+              },
+              [
+                "tc",
+                {
+                  "rowSpan": 1,
+                  "colSpan": 1,
+                  "uuid": "mrln71l5w7bfjlc0r2s",
+                  "vAlign": "middle"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mrln71l5577bgmr159p"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "活动权益"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "rowSpan": 1,
+                  "colSpan": 1,
+                  "uuid": "mrln71l5nq5dezp60x",
+                  "vAlign": "middle"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mrln71l5o80m2rvpzk"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "线索推广消耗达标 or 下单【企微卡片权益包】即可获得企微邀约卡片权限"
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {
+                "uuid": "mrln71l51a3wt4onzd1"
+              },
+              [
+                "tc",
+                {
+                  "rowSpan": 1,
+                  "colSpan": 1,
+                  "uuid": "mrln71l5jnslu8iaqg",
+                  "vAlign": "middle"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mrln71l5zuh5tna42d"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "达标门槛"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "rowSpan": 1,
+                  "colSpan": 1,
+                  "uuid": "mrln71l5vfcv9qgx248",
+                  "vAlign": "middle"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mrln71l5e3t4qewakzg"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "无界账户在线索推广场景累计消耗 ≥ 500元"
+                    ]
+                  ]
+                ]
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mrn46fz9vvh8sv20bk"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "h2",
+            {
+              "uuid": "mrln71l68lmc36g7cql",
+              "ind": {
+                "hanging": 0,
+                "left": 0
+              },
+              "list": {
+                "listId": "v592nfaxzyj",
+                "level": 1,
+                "isTaskList": false,
+                "isOrdered": true,
+                "listStyleType": "DEC_DEC_DEC_P",
+                "symbolStyle": {
+                  "sz": 18,
+                  "bold": true
+                },
+                "listStyle": {
+                  "format": "decimal",
+                  "text": "%1",
+                  "align": "left"
+                },
+                "autoLevel": true
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "两种获取方式"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mrln71l6go6wn07kgur"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "商家可通过以下两种方式获得企微邀约卡片权限，二选一即可："
+              ]
+            ]
+          ],
+          [
+            "h3",
+            {
+              "uuid": "mrln71l6cvvjh1l14t"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "color": "#E03E3E",
+                  "data-type": "leaf"
+                },
+                "方式一：投放消耗达标"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mrln71l62z400efm6e5"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "活动期内，商家无界账户在线索推广场景的累计消耗达到 500元及以上，次日自动获得企微邀约卡片权限。"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mrln71l6saeucj7f1q"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "data-type": "leaf"
+                },
+                "消耗统计范围："
+              ],
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                " 商家无界账户在线索推广场景的实际消耗金额，以系统统计为准。"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mrln71l6ll4st8krsvq"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "data-type": "leaf"
+                },
+                "权限生效时间："
+              ],
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                " 消耗达标后次日自动开通，商家可登录阿里妈妈客户工作台查看并使用。"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mrln71l6iukc8u21nh"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "data-type": "leaf"
+                },
+                "权限有效期："
+              ],
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                " 开通后长期有效。若开通后连续30天线索推广消耗低于500元，卡片权限将暂时回收，待后续重新投放后可再次激活使用。"
+              ]
+            ]
+          ],
+          [
+            "h3",
+            {
+              "uuid": "mrln71l782tbv3o2eda"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "color": "#E03E3E",
+                  "data-type": "leaf"
+                },
+                "方式二：直接购买权益包（快速通道）"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mrln71l76o3g30psn55"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "不想等待消耗达标？商家可直接在【线索推广 - 新建计划 - 行业解决方案】页面下单【企微卡片权益包】。"
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 16,
+                  "szUnit": "pt",
+                  "color": "#E03E3E",
+                  "data-type": "leaf"
+                },
+                "下单后务必进入【客户工作台-线索管理-留资渠道-企微邀约卡片】点击【确认开通】，即可越过消耗门槛验证，直接开通卡片功能！"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mrn5hpsejquqgvzmly"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 14,
+                  "szUnit": "pt",
+                  "color": "#E03E3E",
+                  "data-type": "leaf"
+                },
+                "一键下单："
+              ]
+            ],
+            [
+              "a",
+              {
+                "href": "https://one.alimama.com/index.html#!/main/index?bizCode=onebpAdStrategyLiuZi",
+                "uuid": "mrn5i29wcgk395e313e"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  "https://one.alimama.com/index.html#!/main/index?bizCode=onebpAdStrategyLiuZi"
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "table",
+            {
+              "colsWidth": [
+                50,
+                50
+              ],
+              "tblW": {
+                "w": 100,
+                "type": "pct"
+              },
+              "uuid": "mrn65itlrl1tvxex9g",
+              "styleId": "tableHeader",
+              "tblLook": {
+                "firstRow": 1,
+                "firstColumn": 0,
+                "lastRow": 0,
+                "lastColumn": 0
+              }
+            },
+            [
+              "tr",
+              {
+                "isTblHeader": true,
+                "uuid": "mrn65itkguf9aidv4xm"
+              },
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mrn65itkoyoxrxhavwe",
+                  "fill": "radial-gradient(68% 68% at 68% 100%, #F2F7F7 0%, rgba(242, 245, 255, 0) 100%), radial-gradient(53% 53% at 16% -12%, #FEF2F2 0%, rgba(242, 245, 255, 0) 100%), radial-gradient(55% 141% at 100% 100%, #E4EBFF 0%, rgba(242, 245, 255, 0) 100%), linear-gradient(99deg, #E9E7FF 0%, #E4EBFF 100%)"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mrn65itkq100dalfitc",
+                    "jc": "center"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "data-type": "leaf"
+                      },
+                      "第一步：下单权益包"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mrn65itkry5llov2nj",
+                  "fill": "radial-gradient(68% 68% at 68% 100%, #F2F7F7 0%, rgba(242, 245, 255, 0) 100%), radial-gradient(53% 53% at 16% -12%, #FEF2F2 0%, rgba(242, 245, 255, 0) 100%), radial-gradient(55% 141% at 100% 100%, #E4EBFF 0%, rgba(242, 245, 255, 0) 100%), linear-gradient(99deg, #E9E7FF 0%, #E4EBFF 100%)"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mrn65itkvhgp3bbc3qm",
+                    "jc": "center"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "data-type": "leaf"
+                      },
+                      "第二步：点击确认开通，越过门槛验证"
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {
+                "uuid": "mrn65itliq9gw65gins"
+              },
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mrn65itkbzgnbxztpcd"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mrn65itkdbuoi8k0s8p"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "data-type": "leaf"
+                      },
+                      "操作平台：万相台AI无界·线索推广"
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "uuid": "mrn6aojrxigjh25ehcm"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ],
+                  [
+                    "img",
+                    {
+                      "uuid": "mrn668ylc5hpntvqevi",
+                      "name": "image.png",
+                      "size": 449986,
+                      "width": 482,
+                      "height": 273.1333333333334,
+                      "src": "/core/api/resources/img/5eecdaf48460cde505c4a3a8f6024d73907004b9423283dc75b8339e1c4c24831b75b38faadcd24bec177c308ebd53047faff333eaf656d1b1bff1a2f7490cd7aef48cd89ce41c10c996a9abeaeaaef734b9f5f787356a0e4fb4c8ed7016461c",
+                      "extraData": {
+                        "resourceId": "2357fa86-53ff-46e0-a47e-4eec9eba84f6",
+                        "metaData": {
+                          "size": 449986,
+                          "originWidth": 1080,
+                          "originHeight": 612,
+                          "format": "png",
+                          "ratio": 1
+                        }
+                      },
+                      "rotation": 0
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "leaf"
+                        },
+                        ""
+                      ]
+                    ]
+                  ],
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mrn65itlrqtrerij3ah"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mrn65itkcus4rylc4h"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "data-type": "leaf"
+                      },
+                      "操作平台：阿里妈妈·客户工作台"
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "uuid": "mrn6av1qtt2qvz1ka69"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ],
+                  [
+                    "img",
+                    {
+                      "uuid": "mrn66bsfuqw0yq1u5xh",
+                      "name": "image.png",
+                      "size": 384448,
+                      "width": 748,
+                      "height": 269.0903328050713,
+                      "src": "/core/api/resources/img/5eecdaf48460cde505c4a3a8f6024d73907004b9423283dc75b8339e1c4c24831b75b38faadcd24bec177c308ebd5304cccbfe6c491b7703b36f95399a3a4d8a8c7364ee90b34757e0b6dbb4315a5a40a7712793d9aa31764fb4c8ed7016461c",
+                      "extraData": {
+                        "resourceId": "507a6a76-c5bf-47e0-8753-2ebc6b251de9",
+                        "metaData": {
+                          "size": 384448,
+                          "originWidth": 1262,
+                          "originHeight": 454,
+                          "format": "png",
+                          "ratio": 1
+                        }
+                      }
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "leaf"
+                        },
+                        ""
+                      ]
+                    ]
+                  ],
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ]
+                ]
+              ]
+            ]
+          ],
+          [
+            "table",
+            {
+              "colsWidth": [
+                119,
+                628
+              ],
+              "tblW": {
+                "type": "pct"
+              },
+              "styleId": "tableHeader",
+              "tblLook": {
+                "firstRow": 1,
+                "lastRow": 0,
+                "firstColumn": 0,
+                "lastColumn": 0
+              },
+              "uuid": "mrln71l7yd46i5vv41"
+            },
+            [
+              "tr",
+              {
+                "isTblHeader": true,
+                "uuid": "mrln71l7ru56vx52duq"
+              },
+              [
+                "tc",
+                {
+                  "rowSpan": 1,
+                  "colSpan": 1,
+                  "uuid": "mrln71l7rxwyyvm2aen",
+                  "fill": "radial-gradient(68% 68% at 68% 100%, #F2F7F7 0%, rgba(242, 245, 255, 0) 100%), radial-gradient(53% 53% at 16% -12%, #FEF2F2 0%, rgba(242, 245, 255, 0) 100%), radial-gradient(55% 141% at 100% 100%, #E4EBFF 0%, rgba(242, 245, 255, 0) 100%), linear-gradient(99deg, #E9E7FF 0%, #E4EBFF 100%)",
+                  "vAlign": "middle"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mrln71l77ztc5jdbp5n"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "data-type": "leaf"
+                      },
+                      "项目"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "rowSpan": 1,
+                  "colSpan": 1,
+                  "uuid": "mrln71l7lnft0buu2a",
+                  "fill": "radial-gradient(68% 68% at 68% 100%, #F2F7F7 0%, rgba(242, 245, 255, 0) 100%), radial-gradient(53% 53% at 16% -12%, #FEF2F2 0%, rgba(242, 245, 255, 0) 100%), radial-gradient(55% 141% at 100% 100%, #E4EBFF 0%, rgba(242, 245, 255, 0) 100%), linear-gradient(99deg, #E9E7FF 0%, #E4EBFF 100%)",
+                  "vAlign": "middle"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mrln71l70mlfk2fdwen"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "data-type": "leaf"
+                      },
+                      "说明"
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {
+                "uuid": "mrln71l8nybipyqrpz"
+              },
+              [
+                "tc",
+                {
+                  "rowSpan": 1,
+                  "colSpan": 1,
+                  "uuid": "mrln71l87kp64tnztu",
+                  "vAlign": "middle"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mrln71l8ri5tmavk33"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "起投金额"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "rowSpan": 1,
+                  "colSpan": 1,
+                  "uuid": "mrln71l817vxclat7h3",
+                  "vAlign": "middle"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mrln71l92hpbw5e4mrv"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "最低 500元"
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {
+                "uuid": "mrln71l9563s2zwp8lr"
+              },
+              [
+                "tc",
+                {
+                  "rowSpan": 1,
+                  "colSpan": 1,
+                  "uuid": "mrln71l988xlg4qyxdg",
+                  "vAlign": "middle"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mrln71l9y7b17yk60s"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "退款规则"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "rowSpan": 1,
+                  "colSpan": 1,
+                  "uuid": "mrln71l98t8c3kyqpyh",
+                  "vAlign": "middle"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mrln71l9d1oeuslw5ci"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "color": "#E03E3E",
+                        "data-type": "leaf"
+                      },
+                      "不可退款！！！"
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {
+                "uuid": "mrln71laohkjkr3zbk"
+              },
+              [
+                "tc",
+                {
+                  "rowSpan": 1,
+                  "colSpan": 1,
+                  "uuid": "mrln71ladkysumt7jap",
+                  "vAlign": "middle"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mrln71lawacd9ikf2g9"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "权益发放"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "rowSpan": 1,
+                  "colSpan": 1,
+                  "uuid": "mrln71lc8abht7yo8w",
+                  "vAlign": "middle"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mrln71lco6drr542t3q"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "下单支付并开启投放后，直接满足任务目标，"
+                    ],
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "color": "#E03E3E",
+                        "data-type": "leaf"
+                      },
+                      "次日准时发放卡片权益"
+                    ]
+                  ]
+                ]
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mrn46d9olnt51foafb"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "h2",
+            {
+              "uuid": "mrln71lcsi4ijolyofp",
+              "ind": {
+                "hanging": 0,
+                "left": 0
+              },
+              "list": {
+                "listId": "v592nfaxzyj",
+                "level": 1,
+                "isTaskList": false,
+                "isOrdered": true,
+                "listStyleType": "DEC_DEC_DEC_P",
+                "symbolStyle": {
+                  "sz": 18,
+                  "bold": true
+                },
+                "listStyle": {
+                  "format": "decimal",
+                  "text": "%1",
+                  "align": "left"
+                },
+                "autoLevel": true
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "企微邀约卡片是什么？"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mrln71ld79wyec7ryxn"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "企微邀约卡片是阿里妈妈为投放线索推广产品的商家提供的线索收集工具。商家可在旺旺咨询中向消费者发送企微添加卡片，消费者通过以下两种方式完成企业微信添加："
+              ]
+            ]
+          ],
+          [
+            "table",
+            {
+              "colsWidth": [
+                124,
+                623
+              ],
+              "tblW": {
+                "type": "pct"
+              },
+              "styleId": "tableHeader",
+              "tblLook": {
+                "firstRow": 1,
+                "lastRow": 0,
+                "firstColumn": 0,
+                "lastColumn": 0
+              },
+              "uuid": "mrln71ldsakmpqhv4k"
+            },
+            [
+              "tr",
+              {
+                "isTblHeader": true,
+                "uuid": "mrln71ldiqn7navx0op"
+              },
+              [
+                "tc",
+                {
+                  "rowSpan": 1,
+                  "colSpan": 1,
+                  "uuid": "mrln71ldl86gskq0ox",
+                  "fill": "radial-gradient(68% 68% at 68% 100%, #F2F7F7 0%, rgba(242, 245, 255, 0) 100%), radial-gradient(53% 53% at 16% -12%, #FEF2F2 0%, rgba(242, 245, 255, 0) 100%), radial-gradient(55% 141% at 100% 100%, #E4EBFF 0%, rgba(242, 245, 255, 0) 100%), linear-gradient(99deg, #E9E7FF 0%, #E4EBFF 100%)",
+                  "vAlign": "middle"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mrln71ld8vcv8yceznn"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "data-type": "leaf"
+                      },
+                      "添加方式"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "rowSpan": 1,
+                  "colSpan": 1,
+                  "uuid": "mrln71le0b73i1u96qrs",
+                  "fill": "radial-gradient(68% 68% at 68% 100%, #F2F7F7 0%, rgba(242, 245, 255, 0) 100%), radial-gradient(53% 53% at 16% -12%, #FEF2F2 0%, rgba(242, 245, 255, 0) 100%), radial-gradient(55% 141% at 100% 100%, #E4EBFF 0%, rgba(242, 245, 255, 0) 100%), linear-gradient(99deg, #E9E7FF 0%, #E4EBFF 100%)",
+                  "vAlign": "middle"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mrln71le6k4sdlcdqww"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "data-type": "leaf"
+                      },
+                      "说明"
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {
+                "uuid": "mrln71le0z5a0a9bvo9b"
+              },
+              [
+                "tc",
+                {
+                  "rowSpan": 1,
+                  "colSpan": 1,
+                  "uuid": "mrln71lfuj49supw3rt",
+                  "vAlign": "middle"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mrln71lfn7dlsi0dm8"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "留下手机号"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "rowSpan": 1,
+                  "colSpan": 1,
+                  "uuid": "mrln71lfmj3v6v63mb",
+                  "vAlign": "middle"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mrln71lfzw2xgtqqgw"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "消费者在卡片内填写个人微信号并提交，商家使用企业微信主动添加消费者"
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {
+                "uuid": "mrln71lf1nwj894wb0z"
+              },
+              [
+                "tc",
+                {
+                  "rowSpan": 1,
+                  "colSpan": 1,
+                  "uuid": "mrln71lgmy0qvwz2qwk",
+                  "vAlign": "middle"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mrln71lgxdzgfh1anqr"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "扫码添加"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "rowSpan": 1,
+                  "colSpan": 1,
+                  "uuid": "mrln71lgbysw4yig5ak",
+                  "vAlign": "middle"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mrln71lgtyemf7hzrde"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "商家发送企业微信二维码，消费者扫码主动添加商家企业微信"
+                    ]
+                  ]
+                ]
+              ]
+            ]
+          ],
+          [
+            "h3",
+            {
+              "uuid": "mrln71lgemg0at66wn"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "产品优势一览"
+              ]
+            ]
+          ],
+          [
+            "table",
+            {
+              "colsWidth": [
+                128,
+                619
+              ],
+              "tblW": {
+                "type": "pct"
+              },
+              "styleId": "tableHeader",
+              "tblLook": {
+                "firstRow": 1,
+                "lastRow": 0,
+                "firstColumn": 0,
+                "lastColumn": 0
+              },
+              "uuid": "mrln71lh3g2sp8m0a2m"
+            },
+            [
+              "tr",
+              {
+                "isTblHeader": true,
+                "uuid": "mrln71lh73xury1aare"
+              },
+              [
+                "tc",
+                {
+                  "rowSpan": 1,
+                  "colSpan": 1,
+                  "uuid": "mrln71lhcfcosp27umc",
+                  "fill": "radial-gradient(68% 68% at 68% 100%, #F2F7F7 0%, rgba(242, 245, 255, 0) 100%), radial-gradient(53% 53% at 16% -12%, #FEF2F2 0%, rgba(242, 245, 255, 0) 100%), radial-gradient(55% 141% at 100% 100%, #E4EBFF 0%, rgba(242, 245, 255, 0) 100%), linear-gradient(99deg, #E9E7FF 0%, #E4EBFF 100%)",
+                  "vAlign": "middle"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mrln71lhzrj54yhl06f"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "data-type": "leaf"
+                      },
+                      "优势项"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "rowSpan": 1,
+                  "colSpan": 1,
+                  "uuid": "mrln71lh24llwfkx5ku",
+                  "fill": "radial-gradient(68% 68% at 68% 100%, #F2F7F7 0%, rgba(242, 245, 255, 0) 100%), radial-gradient(53% 53% at 16% -12%, #FEF2F2 0%, rgba(242, 245, 255, 0) 100%), radial-gradient(55% 141% at 100% 100%, #E4EBFF 0%, rgba(242, 245, 255, 0) 100%), linear-gradient(99deg, #E9E7FF 0%, #E4EBFF 100%)",
+                  "vAlign": "middle"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mrln71libnhupt7hupm"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "data-type": "leaf"
+                      },
+                      "详细说明"
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {
+                "uuid": "mrln71liq9pu5vbywm"
+              },
+              [
+                "tc",
+                {
+                  "rowSpan": 1,
+                  "colSpan": 1,
+                  "uuid": "mrln71lifx9ka0qog8i",
+                  "vAlign": "middle"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mrln71lia6fnbwnoe9j"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "合规经营"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "rowSpan": 1,
+                  "colSpan": 1,
+                  "uuid": "mrln71litf95q21v08k",
+                  "vAlign": "middle"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mrln71liwvjx4df7hxq"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "平台管控政策背景下提供合规留资渠道，有效降低违规风险"
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {
+                "uuid": "mrln71ljqsivs064qb"
+              },
+              [
+                "tc",
+                {
+                  "rowSpan": 1,
+                  "colSpan": 1,
+                  "uuid": "mrln71lj6yrmfmg1xmw",
+                  "vAlign": "middle"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mrln71lkuscnrxz98h8"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "高效转化"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "rowSpan": 1,
+                  "colSpan": 1,
+                  "uuid": "mrln71lk2exlo2fj4k",
+                  "vAlign": "middle"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mrln71lk5kociokcakv"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "支持手机号加微和扫码加微两种方式，灵活适配不同消费者加微需求"
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {
+                "uuid": "mrln71lk1g6b433e8er"
+              },
+              [
+                "tc",
+                {
+                  "rowSpan": 1,
+                  "colSpan": 1,
+                  "uuid": "mrln71lld4bupdrhvng",
+                  "vAlign": "middle"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mrln71llgccf10a6yzf"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "状态追踪"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "rowSpan": 1,
+                  "colSpan": 1,
+                  "uuid": "mrln71llamc4cl95z8o",
+                  "vAlign": "middle"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mrln71ll7qyl66gxe6"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "实时回显用户操作状态，便于商家及时跟进处理"
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {
+                "uuid": "mrln71lm4rikxe2q4ji"
+              },
+              [
+                "tc",
+                {
+                  "rowSpan": 1,
+                  "colSpan": 1,
+                  "uuid": "mrln71lmphawajcpoqp",
+                  "vAlign": "middle"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mrln71lm0ix6z6gm1vrc"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "团队协同"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "rowSpan": 1,
+                  "colSpan": 1,
+                  "uuid": "mrln71lmbeclln1acss",
+                  "vAlign": "middle"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mrln71lmzhmkvpbkkh"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "支持批量添加企业微信账号，实现多人协作跟进线索"
+                    ]
+                  ]
+                ]
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mrn46arycewfiafq1dl"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "h2",
+            {
+              "uuid": "mrln71lok8pctlg0q7",
+              "ind": {
+                "hanging": 0,
+                "left": 0
+              },
+              "list": {
+                "listId": "v592nfaxzyj",
+                "level": 1,
+                "isTaskList": false,
+                "isOrdered": true,
+                "listStyleType": "DEC_DEC_DEC_P",
+                "symbolStyle": {
+                  "sz": 18,
+                  "bold": true
+                },
+                "listStyle": {
+                  "format": "decimal",
+                  "text": "%1",
+                  "align": "left"
+                },
+                "autoLevel": true
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "使用三步走"
+              ]
+            ]
+          ],
+          [
+            "h3",
+            {
+              "uuid": "mrln71log8ibl9fflyf"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "第一步：确认开通状态"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mrln71lo5uzpdni2etx"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "消耗达标或购买权益包后，登录阿里妈妈客户工作台，进入【线索管理】-【设置】-【留资渠道】页面，查看企微邀约卡片是否已显示【已开通】。"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mrlrono8nbdj2op8q78"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "#E03E3E",
+                  "data-type": "leaf"
+                },
+                "注意事项："
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mrlrqthooqg6bhelfc",
+              "ind": {
+                "left": 32
+              },
+              "list": {
+                "listId": "zwoysiw2o9",
+                "level": 0,
+                "isTaskList": false,
+                "isOrdered": false,
+                "listStyleType": "SCIR_ECIR_SREC",
+                "symbolStyle": {
+                  "color": "#E03E3E",
+                  "bold": true
+                },
+                "listStyle": {
+                  "format": "bullet",
+                  "text": "●",
+                  "align": "left"
+                },
+                "extraData": {},
+                "isChecked": false,
+                "hideSymbol": false
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "#E03E3E",
+                  "data-type": "leaf"
+                },
+                "回收规则：开通后若连续30天线索推广消耗不满足规定金额，卡片权限将暂时回收，待后续重新投放后可再次激活使用。"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mrlrtszxnx7ta70fbyg",
+              "ind": {
+                "left": 32
+              },
+              "list": {
+                "listId": "zwoysiw2o9",
+                "level": 0,
+                "isTaskList": false,
+                "isOrdered": false,
+                "listStyleType": "SCIR_ECIR_SREC",
+                "symbolStyle": {
+                  "color": "#E03E3E",
+                  "bold": true
+                },
+                "listStyle": {
+                  "format": "bullet",
+                  "text": "●",
+                  "align": "left"
+                },
+                "extraData": {},
+                "isChecked": false,
+                "hideSymbol": false
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "#E03E3E",
+                  "data-type": "leaf"
+                },
+                "行业限制：新零售商家暂不支持开通企微邀约卡片。"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mpuu8rtclegwiszq0x"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ],
+            [
+              "img",
+              {
+                "uuid": "mrn47mbi9ifeb46pfts",
+                "name": "image.png",
+                "size": 898273,
+                "width": 748,
+                "height": 494.73612063056885,
+                "src": "/core/api/resources/img/5eecdaf48460cde5f4647f894876c5a7530094208ade44a575b8339e1c4c24831b75b38faadcd24bec177c308ebd5304ef8cf9323215292c56e8750972ee682b4943d8bce55746bfe96b166265a29afe7f502eac7aa926b74fb4c8ed7016461c",
+                "extraData": {
+                  "resourceId": "a95e4f5b-3692-4f30-b710-6dc6237f2e23",
+                  "metaData": {
+                    "size": 898273,
+                    "originWidth": 1459,
+                    "originHeight": 965,
+                    "format": "png",
+                    "ratio": 1
+                  }
+                }
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "h3",
+            {
+              "uuid": "mrln71lota3fb4wzao"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "第二步：配置邀约方式"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mrln71lob4rmk0cspdl"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "在邀约卡片配置页面，根据业务需求选择邀约方式："
+              ]
+            ]
+          ],
+          [
+            "table",
+            {
+              "colsWidth": [
+                374,
+                373
+              ],
+              "tblW": {
+                "type": "pct"
+              },
+              "styleId": "tableHeader",
+              "tblLook": {
+                "firstRow": 1,
+                "lastRow": 0,
+                "firstColumn": 0,
+                "lastColumn": 0
+              },
+              "uuid": "mrln71lp46dgwp3rhpg"
+            },
+            [
+              "tr",
+              {
+                "isTblHeader": true,
+                "uuid": "mrln71lpmn1xrylwet"
+              },
+              [
+                "tc",
+                {
+                  "rowSpan": 1,
+                  "colSpan": 1,
+                  "uuid": "mrln71lpxi7hm2z1atc",
+                  "vAlign": "middle"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mrln71lp7dqk4rhslz3"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "方式"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "rowSpan": 1,
+                  "colSpan": 1,
+                  "uuid": "mrln71lpip9ieiuj8an",
+                  "vAlign": "middle"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mrln71lpzsbjfpmiwek"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "说明"
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {
+                "uuid": "mrln71lp9piejfztu2j"
+              },
+              [
+                "tc",
+                {
+                  "rowSpan": 1,
+                  "colSpan": 1,
+                  "uuid": "mrln71lpgz5kam7k9l",
+                  "vAlign": "middle"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mrln71lpgfcu9db2qat"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "手机号加微"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "rowSpan": 1,
+                  "colSpan": 1,
+                  "uuid": "mrln71lqxww87qunrer",
+                  "vAlign": "middle"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mrln71lqirhz73dlet"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "系统默认开启，不可关闭"
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {
+                "uuid": "mrln71lqaiubtahjhk4"
+              },
+              [
+                "tc",
+                {
+                  "rowSpan": 1,
+                  "colSpan": 1,
+                  "uuid": "mrln71lq64yi5qo6hh4",
+                  "vAlign": "middle"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mrln71lqmb9uyuq246"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "扫码加微"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "rowSpan": 1,
+                  "colSpan": 1,
+                  "uuid": "mrln71lqo1kr295np2g",
+                  "vAlign": "middle"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mrln71lqlh0sa6sj8md"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "商家可自主选择开启或关闭"
+                    ]
+                  ]
+                ]
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mrln71lqx1f5s2tkgo"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "在邀约设置模块中，添加员工企业微信账号，支持批量添加操作，需上传以下信息："
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "list": {
+                "listId": "f3bvl5poxj8",
+                "isOrdered": false,
+                "level": 0,
+                "listStyle": {
+                  "format": "bullet",
+                  "text": "●",
+                  "align": "left"
+                }
+              },
+              "uuid": "mrln71lq408fimh68d4"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "企微号（必填）"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "list": {
+                "listId": "f3bvl5poxj8",
+                "isOrdered": false,
+                "level": 0,
+                "listStyle": {
+                  "format": "bullet",
+                  "text": "●",
+                  "align": "left"
+                }
+              },
+              "uuid": "mrln71lrrklnjx5bfri"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "企微二维码（必填）"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "blockquote": true,
+              "uuid": "mrln71lrlkpg6o8743b"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "⚠️ 请确保上传的是企业微信官方二维码且在有效期内。如发现上传非企微二维码、过期二维码或其他违规行为，平台将直接收回使用权限。"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mrn48gqgllqrx6vfhpn"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ],
+            [
+              "img",
+              {
+                "uuid": "mrn48i9px5ewux31sba",
+                "name": "image.png",
+                "size": 985412,
+                "width": 748,
+                "height": 617.6708860759493,
+                "src": "/core/api/resources/img/5eecdaf48460cde5f4647f894876c5a7530094208ade44a575b8339e1c4c24831b75b38faadcd24bec177c308ebd5304a70516769234c7b075644e396143460d2c550f7a2bc79db04114d3419311421adbee94c6a2ca98514fb4c8ed7016461c",
+                "extraData": {
+                  "resourceId": "d3ca2910-1f04-4be0-84a1-46502724f940",
+                  "metaData": {
+                    "size": 985412,
+                    "originWidth": 1343,
+                    "originHeight": 1109,
+                    "format": "png",
+                    "ratio": 1
+                  }
+                }
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "h3",
+            {
+              "uuid": "mrln71lrnawxnrf2h78"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "第三步：发送邀约卡片"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mrln71lr3ob818g4u8o"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "客服人员登录千牛客户端，在线索推广功能栏区域选择需发送的企业微信账号，点击确认后系统将向消费者发送企微邀约卡片。"
+              ]
+            ]
+          ],
+          [
+            "h3",
+            {
+              "uuid": "mr35877hp1adf0heqw"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "color": "#E03E3E",
+                  "data-type": "leaf"
+                },
+                "！！！【企微邀约卡片】开通后，客服首次使用前，务必刷新千牛客户端！！！"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mpuu8rtoonp3dn8cwl"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ],
+            [
+              "img",
+              {
+                "uuid": "mrn4985ta3w2qxeqnt",
+                "name": "image.png",
+                "size": 731024,
+                "width": 748,
+                "height": 477.78010471204186,
+                "src": "/core/api/resources/img/5eecdaf48460cde5f4647f894876c5a7530094208ade44a575b8339e1c4c24831b75b38faadcd24bec177c308ebd5304cba3e41b6c158b05850e8d0612a2d762c151a1ad27f9b8cab01036ac77b7bb784a05c38ddb1933b74fb4c8ed7016461c",
+                "extraData": {
+                  "resourceId": "5b37ff02-74aa-4c99-b1b8-40c3cd8d22b1",
+                  "metaData": {
+                    "size": 731024,
+                    "originWidth": 1146,
+                    "originHeight": 732,
+                    "format": "png",
+                    "ratio": 1
+                  }
+                }
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mrn49lm44hm2xyingfd"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "h2",
+            {
+              "uuid": "mrln71lrote0o3osjf",
+              "ind": {
+                "hanging": 0,
+                "left": 0
+              },
+              "list": {
+                "listId": "v592nfaxzyj",
+                "level": 1,
+                "isTaskList": false,
+                "isOrdered": true,
+                "listStyleType": "DEC_DEC_DEC_P",
+                "symbolStyle": {
+                  "sz": 18,
+                  "bold": true
+                },
+                "listStyle": {
+                  "format": "decimal",
+                  "text": "%1",
+                  "align": "left"
+                },
+                "autoLevel": true
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "常见问题"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mrln71lskmvr6b3op6b"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "data-type": "leaf"
+                },
+                "Q：活动期间消耗未达到500元怎么办？"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mrln71lsvk5z494x3g"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "A：可继续投放直至达标，也可直接购买【企微卡片权益包】快速获得权限。"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mrln71lsj8d8g5n472e"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "data-type": "leaf"
+                },
+                "Q：权限开通后在哪里使用？"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mrln71lssq7o2faw24"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "A：登录阿里妈妈客户工作台，进入【线索管理】模块即可使用。客服人员在千牛客户端的线索推广功能栏中发送企微邀约卡片。"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mrln71lsp4oi6u0vp2"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "data-type": "leaf"
+                },
+                "Q：企微邀约卡片是否收费？"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mrln71lsxfis4xfbdsl"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "A：企微邀约卡片作为线索推广附赠功能，卡片使用本身不收取费用。若需开通【企微会话回传】功能，则需额外付费，具体以阿里妈妈客户工作台页面为准。"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mrln71lsq4eddzk24mr"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "data-type": "leaf"
+                },
+                "Q：权限开通后可以关闭吗？"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mrln71lt34uuf1cuv2t"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "A：可以。商家可在【线索管理】-【设置】-【留资渠道】页面的邀约设置模块中，关闭扫码加微选项。手机号加微为系统默认开启，不可关闭。"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mrln71ltef905r1qjfg"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "data-type": "leaf"
+                },
+                "Q：如果开通后长时间不使用会怎样？"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mrln71lt21akmu76x5r"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "A：开通后若连续180天无线索推广消耗，卡片权限将暂时回收，待后续重新投放后可再次激活使用。"
+              ]
+            ]
+          ],
+          [
+            "h2",
+            {
+              "uuid": "mrln71ltzk0mctmvi3"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "活动说明"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "list": {
+                "listId": "5su0dt3bu99",
+                "isOrdered": true,
+                "level": 0,
+                "listStyle": {
+                  "format": "decimal",
+                  "text": "%1.",
+                  "align": "left"
+                }
+              },
+              "uuid": "mrln71lt557ho6k19tb"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "本活动由阿里妈妈主办，具体规则以【万相台AI无界·赏金任务】活动页面展示为准。"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "list": {
+                "listId": "5su0dt3bu99",
+                "isOrdered": true,
+                "level": 0,
+                "listStyle": {
+                  "format": "decimal",
+                  "text": "%1.",
+                  "align": "left"
+                }
+              },
+              "uuid": "mrln71lugo2oa5porkq"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "商家参与活动即视为同意本活动规则及相关协议。"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "list": {
+                "listId": "5su0dt3bu99",
+                "isOrdered": true,
+                "level": 0,
+                "listStyle": {
+                  "format": "decimal",
+                  "text": "%1.",
+                  "align": "left"
+                }
+              },
+              "uuid": "mrln71luf0p9sxto9vg"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "阿里妈妈保留在法律允许范围内对本活动规则进行解释和调整的权利。"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "list": {
+                "listId": "5su0dt3bu99",
+                "isOrdered": true,
+                "level": 0,
+                "listStyle": {
+                  "format": "decimal",
+                  "text": "%1.",
+                  "align": "left"
+                }
+              },
+              "uuid": "mrln71lupob7miy3rj"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "如发现商家存在违规行为，阿里妈妈有权取消其活动资格并收回相关权益。"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "blockquote": true,
+              "uuid": "mrln71lvgk19avc9lxa"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "如有疑问，请联系阿里妈妈官方客服或加入线索推广官方客户群（群号：159050038411）获取进一步支持。"
+              ]
+            ]
+          ]
+        ],
+        "footers": {},
+        "version": 1
+      },
+      "refs": {}
+    }
+  }
+}

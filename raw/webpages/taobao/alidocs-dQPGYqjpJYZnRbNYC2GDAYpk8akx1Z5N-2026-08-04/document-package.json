@@ -1,0 +1,3225 @@
+{
+  "version": 1,
+  "type": "application/x-alidocs-package",
+  "main": "00000000-0000-0000-0000-000000000001",
+  "plugins": "00000000-0000-0000-0000-000000000002",
+  "parts": {
+    "00000000-0000-0000-0000-000000000001": {
+      "id": "00000000-0000-0000-0000-000000000001",
+      "type": "application/x-alidocs-word",
+      "version": 1,
+      "data": {
+        "style": {
+          "docDefaults": {
+            "type": "paragraph",
+            "default": 1,
+            "name": "dingdocnormal",
+            "data": {
+              "rPr": {
+                "sz": 12,
+                "szUnit": "pt"
+              },
+              "pPr": {
+                "spacing": {
+                  "before": 10,
+                  "after": 10
+                }
+              }
+            }
+          },
+          "tableDefault": {
+            "type": "table",
+            "data": {
+              "tblPr": {
+                "bdr": {
+                  "bottom": {
+                    "color": "#D6D6D6",
+                    "space": 0,
+                    "sz": 1,
+                    "val": "single"
+                  },
+                  "insideH": {
+                    "color": "#D6D6D6",
+                    "space": 0,
+                    "sz": 1,
+                    "val": "single"
+                  },
+                  "insideV": {
+                    "color": "#D6D6D6",
+                    "space": 0,
+                    "sz": 1,
+                    "val": "single"
+                  },
+                  "left": {
+                    "color": "#D6D6D6",
+                    "space": 0,
+                    "sz": 1,
+                    "val": "single"
+                  },
+                  "right": {
+                    "color": "#D6D6D6",
+                    "space": 0,
+                    "sz": 1,
+                    "val": "single"
+                  },
+                  "top": {
+                    "color": "#D6D6D6",
+                    "space": 0,
+                    "sz": 1,
+                    "val": "single"
+                  }
+                }
+              }
+            }
+          },
+          "tableHeader": {
+            "type": "table",
+            "basedOn": "tableDefault",
+            "data": {
+              "tblStylePr": [
+                {
+                  "type": "firstRow",
+                  "tcPr": {
+                    "shd": {
+                      "fill": "#F5F6F7"
+                    }
+                  }
+                },
+                {
+                  "type": "firstCol",
+                  "tcPr": {
+                    "shd": {
+                      "fill": "#F5F6F7"
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        "theme": [],
+        "settings": {
+          "titleCover": {
+            "isHide": true
+          }
+        },
+        "app": {},
+        "numberings": {},
+        "headers": {},
+        "body": [
+          "root",
+          {
+            "sectPr": {
+              "pgSz": {
+                "w": 1127,
+                "h": 1588
+              },
+              "pgMar": {
+                "header": 56.73,
+                "footer": 66.13,
+                "top": 48,
+                "bottom": 48,
+                "left": 72,
+                "right": 72,
+                "gutter": 0
+              }
+            },
+            "theme": {
+              "table": {
+                "tableCell": {
+                  "vAlign": "top"
+                }
+              }
+            },
+            "uuid": "mfz17gaxfzhmo73jehj"
+          },
+          [
+            "container",
+            {
+              "subType": "colorBlocks",
+              "metadata": {
+                "padding": {
+                  "top": 11,
+                  "right": 11,
+                  "bottom": 11,
+                  "left": 11
+                },
+                "borderRadius": 8,
+                "bgcolor": "linear-gradient(316deg, #E8F2FE -13%, #FFFEFE 52%, #B7DCFB 125%)",
+                "showstk": false,
+                "border": "#54A1E8"
+              },
+              "uuid": "mfz16rffjt36wfgkpoq"
+            },
+            [
+              "p",
+              {
+                "uuid": "mfz16rffat215vzjgu4",
+                "jc": "center"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "bold": true,
+                    "fonts": {
+                      "ascii": "DingTalk JinBuTi",
+                      "hAnsi": "DingTalk JinBuTi",
+                      "cs": "DingTalk JinBuTi",
+                      "eastAsia": "DingTalk JinBuTi"
+                    },
+                    "sz": 20,
+                    "szUnit": "pt",
+                    "color": "#1642f5",
+                    "data-type": "leaf"
+                  },
+                  "全新升级！人群屏蔽功能支持达摩盘打包人群屏蔽"
+                ]
+              ]
+            ],
+            [
+              "table",
+              {
+                "colsWidth": [
+                  325,
+                  325
+                ],
+                "sr": true,
+                "uuid": "mfz1ch6uyro0w4oejdf"
+              },
+              [
+                "tr",
+                {
+                  "uuid": "mfz1ch6uom8nui5k4p"
+                },
+                [
+                  "tc",
+                  {
+                    "fill": "#FFFFFF",
+                    "vAlign": "top",
+                    "uuid": "mfz1ch6um004mz78xm",
+                    "border": "#54A1E8"
+                  },
+                  [
+                    "p",
+                    {
+                      "uuid": "mfz1ch6u8cpon1l4ftc",
+                      "jc": "center"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "bold": true,
+                          "fonts": {
+                            "ascii": "DingTalk JinBuTi",
+                            "hAnsi": "DingTalk JinBuTi",
+                            "cs": "DingTalk JinBuTi",
+                            "eastAsia": "DingTalk JinBuTi"
+                          },
+                          "color": "#1642f5",
+                          "data-type": "leaf"
+                        },
+                        "Before"
+                      ]
+                    ]
+                  ],
+                  [
+                    "p",
+                    {
+                      "uuid": "mfz1cwpvkltpf4pxrro",
+                      "jc": "center"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "leaf"
+                        },
+                        "只能固定选择几个人群标签进行屏蔽"
+                      ]
+                    ]
+                  ],
+                  [
+                    "p",
+                    {
+                      "uuid": "mfz1hb4q77fk7duqci8"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "leaf"
+                        },
+                        ""
+                      ]
+                    ],
+                    [
+                      "img",
+                      {
+                        "uuid": "dbx1ob",
+                        "name": "image.png",
+                        "size": 1720300,
+                        "width": 423,
+                        "height": 228.53750000000002,
+                        "src": "/core/api/resources/img/5eecdaf48460cde52f8c2d546b75cac10ea337659f3b3bbe75b8339e1c4c24831b75b38faadcd24bec177c308ebd5304d1127d62ec25451419542d058bb596e8e79c41f2e1a6558aee9eeb57f83dcb8e2a805950c67a6fd04fb4c8ed7016461c",
+                        "extraData": {
+                          "resourceId": "c0a23528-6ab1-4564-95f3-ca390f02d8d5",
+                          "metaData": {
+                            "size": 1720300,
+                            "originWidth": 2880,
+                            "originHeight": 1556,
+                            "format": "png",
+                            "ratio": 1
+                          }
+                        }
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "text"
+                        },
+                        [
+                          "span",
+                          {
+                            "data-type": "leaf"
+                          },
+                          ""
+                        ]
+                      ]
+                    ],
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "leaf"
+                        },
+                        ""
+                      ]
+                    ]
+                  ]
+                ],
+                [
+                  "tc",
+                  {
+                    "fill": "#FFFFFF",
+                    "vAlign": "top",
+                    "uuid": "mfz1ch6u4p1dj34nai9",
+                    "border": "#54A1E8"
+                  },
+                  [
+                    "p",
+                    {
+                      "uuid": "mfz1ch6ujkbeydaafen",
+                      "jc": "center"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "bold": true,
+                          "fonts": {
+                            "ascii": "DingTalk JinBuTi",
+                            "hAnsi": "DingTalk JinBuTi",
+                            "cs": "DingTalk JinBuTi",
+                            "eastAsia": "DingTalk JinBuTi"
+                          },
+                          "sz": 12,
+                          "szUnit": "pt",
+                          "color": "#1642f5",
+                          "data-type": "leaf"
+                        },
+                        "After"
+                      ]
+                    ]
+                  ],
+                  [
+                    "p",
+                    {
+                      "uuid": "mfz1gjv9530tzhpn20j"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "bold": true,
+                          "fonts": {
+                            "ascii": "\"Alibaba PuHuiTi 3.0\"",
+                            "hAnsi": "\"Alibaba PuHuiTi 3.0\"",
+                            "cs": "\"Alibaba PuHuiTi 3.0\"",
+                            "eastAsia": "\"Alibaba PuHuiTi 3.0\""
+                          },
+                          "color": "linear-gradient(90deg, #28B4BE 0%, #3935DD 100%)",
+                          "data-type": "leaf"
+                        },
+                        "屏蔽选项更灵活更多样，支持达摩盘人群标签自主圈选屏蔽"
+                      ]
+                    ]
+                  ],
+                  [
+                    "p",
+                    {
+                      "uuid": "mhbowk1wt72t12am7e"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "bold": true,
+                          "fonts": {
+                            "ascii": "\"Alibaba PuHuiTi 3.0\"",
+                            "hAnsi": "\"Alibaba PuHuiTi 3.0\"",
+                            "cs": "\"Alibaba PuHuiTi 3.0\"",
+                            "eastAsia": "\"Alibaba PuHuiTi 3.0\""
+                          },
+                          "color": "linear-gradient(90deg, #28B4BE 0%, #3935DD 100%)",
+                          "data-type": "leaf"
+                        },
+                        ""
+                      ]
+                    ],
+                    [
+                      "img",
+                      {
+                        "uuid": "dkoggx",
+                        "name": "image.png",
+                        "size": 2001253,
+                        "width": 423,
+                        "height": 228.53750000000002,
+                        "src": "/core/api/resources/img/5eecdaf48460cde52f8c2d546b75cac10ea337659f3b3bbe75b8339e1c4c24831b75b38faadcd24bec177c308ebd53043eac0f8696dfa1d00c5214557adcd98c01d742f7da687dd3cc6cc17d219a25cf56b8232639b4c5334fb4c8ed7016461c",
+                        "extraData": {
+                          "resourceId": "bc6f4f5a-67ad-4fb5-9c32-ec6935b0e64f",
+                          "metaData": {
+                            "size": 2001253,
+                            "originWidth": 2880,
+                            "originHeight": 1556,
+                            "format": "png",
+                            "ratio": 1
+                          }
+                        }
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "text"
+                        },
+                        [
+                          "span",
+                          {
+                            "data-type": "leaf"
+                          },
+                          ""
+                        ]
+                      ]
+                    ],
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "bold": true,
+                          "fonts": {
+                            "ascii": "\"Alibaba PuHuiTi 3.0\"",
+                            "hAnsi": "\"Alibaba PuHuiTi 3.0\"",
+                            "cs": "\"Alibaba PuHuiTi 3.0\"",
+                            "eastAsia": "\"Alibaba PuHuiTi 3.0\""
+                          },
+                          "color": "linear-gradient(90deg, #28B4BE 0%, #3935DD 100%)",
+                          "data-type": "leaf"
+                        },
+                        ""
+                      ]
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "p",
+              {
+                "uuid": "mfz1jeiz7rs8yfo4n9s",
+                "jc": "center"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "bold": true,
+                    "italic": true,
+                    "underline": {
+                      "value": "single"
+                    },
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ]
+            ],
+            [
+              "p",
+              {
+                "uuid": "mfz1kxrg5oxaz6lwkf8",
+                "jc": "center"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "bold": true,
+                    "italic": true,
+                    "underline": {
+                      "value": "single"
+                    },
+                    "data-type": "leaf"
+                  },
+                  "该能力尚未全量，为邀请制，暂不支持申请"
+                ]
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mfz16y1enmpucw14irg"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "container",
+            {
+              "subType": "colorBlocks",
+              "metadata": {
+                "padding": {
+                  "top": 11,
+                  "right": 11,
+                  "bottom": 11,
+                  "left": 11
+                },
+                "borderRadius": 8,
+                "bgcolor": "#F5F6F7",
+                "showstk": false,
+                "border": null
+              },
+              "uuid": "mfz1qmsyw32y1l6ikft"
+            },
+            [
+              "p",
+              {
+                "uuid": "mfz1qmsycacjrwml1l9",
+                "jc": "center"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "bold": true,
+                    "fonts": {
+                      "ascii": "DingTalk JinBuTi",
+                      "hAnsi": "DingTalk JinBuTi",
+                      "cs": "DingTalk JinBuTi",
+                      "eastAsia": "DingTalk JinBuTi"
+                    },
+                    "sz": 20,
+                    "szUnit": "pt",
+                    "color": "#1642f5",
+                    "data-type": "leaf"
+                  },
+                  "使用SOP"
+                ]
+              ]
+            ],
+            [
+              "table",
+              {
+                "colsWidth": [
+                  269,
+                  629
+                ],
+                "sr": true,
+                "uuid": "mhirczm0vkdblrggs9g"
+              },
+              [
+                "tr",
+                {
+                  "uuid": "mhirczm03hzijazwly2"
+                },
+                [
+                  "tc",
+                  {
+                    "fill": "#FFFFFF",
+                    "vAlign": "top",
+                    "uuid": "mhirczm0hpaz41zhz7q",
+                    "border": "#54A1E8"
+                  },
+                  [
+                    "p",
+                    {
+                      "uuid": "mhirczm0k1zs09ksfti",
+                      "jc": "center"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "bold": true,
+                          "fonts": {
+                            "ascii": "DingTalk JinBuTi",
+                            "hAnsi": "DingTalk JinBuTi",
+                            "cs": "DingTalk JinBuTi",
+                            "eastAsia": "DingTalk JinBuTi"
+                          },
+                          "sz": 16,
+                          "szUnit": "pt",
+                          "color": "#1642f5",
+                          "data-type": "leaf"
+                        },
+                        "步骤"
+                      ]
+                    ]
+                  ]
+                ],
+                [
+                  "tc",
+                  {
+                    "fill": "#FFFFFF",
+                    "vAlign": "top",
+                    "uuid": "mhirczm0ann630aih9",
+                    "border": "#54A1E8"
+                  },
+                  [
+                    "p",
+                    {
+                      "uuid": "mhirczm0prjxonsfinf",
+                      "jc": "center"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "bold": true,
+                          "fonts": {
+                            "ascii": "DingTalk JinBuTi",
+                            "hAnsi": "DingTalk JinBuTi",
+                            "cs": "DingTalk JinBuTi",
+                            "eastAsia": "DingTalk JinBuTi"
+                          },
+                          "sz": 16,
+                          "szUnit": "pt",
+                          "color": "#1642f5",
+                          "data-type": "leaf"
+                        },
+                        "详情"
+                      ]
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "table",
+              {
+                "colsWidth": [
+                  269,
+                  629
+                ],
+                "sr": true,
+                "uuid": "mhirin85o41k58pcljd"
+              },
+              [
+                "tr",
+                {
+                  "uuid": "mhirin85h3z09lj6efs"
+                },
+                [
+                  "tc",
+                  {
+                    "fill": "#FFFFFF",
+                    "vAlign": "middle",
+                    "uuid": "mhirin85csfjgv7gep",
+                    "border": "#54A1E8",
+                    "rowSpan": 1,
+                    "colSpan": 1
+                  },
+                  [
+                    "p",
+                    {
+                      "uuid": "mhirin85zn6dq0vd2fl",
+                      "jc": "center"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "fonts": {
+                            "ascii": "DingTalk JinBuTi",
+                            "hAnsi": "DingTalk JinBuTi",
+                            "cs": "DingTalk JinBuTi",
+                            "eastAsia": "DingTalk JinBuTi"
+                          },
+                          "sz": 14,
+                          "szUnit": "pt",
+                          "color": "",
+                          "data-type": "leaf"
+                        },
+                        "新建人群推广计划"
+                      ]
+                    ]
+                  ]
+                ],
+                [
+                  "tc",
+                  {
+                    "fill": "#FFFFFF",
+                    "vAlign": "top",
+                    "uuid": "mhirin85baagy0p50oi",
+                    "border": "#54A1E8",
+                    "rowSpan": 1,
+                    "colSpan": 1
+                  },
+                  [
+                    "p",
+                    {
+                      "uuid": "mhirin859461vfwdxad",
+                      "jc": "left"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "leaf"
+                        },
+                        ""
+                      ]
+                    ],
+                    [
+                      "cangjie-textinline",
+                      {
+                        "subType": "label",
+                        "data": {
+                          "color": "var(--we_red3_color, rgba(200, 78, 67, 1))",
+                          "bgColor": "#FCDFDC"
+                        },
+                        "uuid": "mhirmmagrc9501s6ohe"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "text"
+                        },
+                        [
+                          "span",
+                          {
+                            "fonts": {
+                              "ascii": "DingTalk JinBuTi",
+                              "hAnsi": "DingTalk JinBuTi",
+                              "cs": "DingTalk JinBuTi",
+                              "eastAsia": "DingTalk JinBuTi"
+                            },
+                            "sz": 12,
+                            "szUnit": "pt",
+                            "color": "",
+                            "data-type": "leaf"
+                          },
+                          "高效拉新"
+                        ]
+                      ]
+                    ],
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "fonts": {
+                            "ascii": "DingTalk JinBuTi",
+                            "hAnsi": "DingTalk JinBuTi",
+                            "cs": "DingTalk JinBuTi",
+                            "eastAsia": "DingTalk JinBuTi"
+                          },
+                          "sz": 12,
+                          "szUnit": "pt",
+                          "color": "",
+                          "data-type": "leaf"
+                        },
+                        ""
+                      ]
+                    ],
+                    [
+                      "cangjie-textinline",
+                      {
+                        "subType": "label",
+                        "data": {
+                          "color": "var(--we_red3_color, rgba(200, 78, 67, 1))",
+                          "bgColor": "#FCDFDC"
+                        },
+                        "uuid": "mhirnon0fq16wc1unod"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "text"
+                        },
+                        [
+                          "span",
+                          {
+                            "fonts": {
+                              "ascii": "DingTalk JinBuTi",
+                              "hAnsi": "DingTalk JinBuTi",
+                              "cs": "DingTalk JinBuTi",
+                              "eastAsia": "DingTalk JinBuTi"
+                            },
+                            "sz": 12,
+                            "szUnit": "pt",
+                            "color": "",
+                            "data-type": "leaf"
+                          },
+                          "常客转化"
+                        ]
+                      ]
+                    ],
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "fonts": {
+                            "ascii": "DingTalk JinBuTi",
+                            "hAnsi": "DingTalk JinBuTi",
+                            "cs": "DingTalk JinBuTi",
+                            "eastAsia": "DingTalk JinBuTi"
+                          },
+                          "sz": 12,
+                          "szUnit": "pt",
+                          "color": "",
+                          "data-type": "leaf"
+                        },
+                        ""
+                      ]
+                    ],
+                    [
+                      "cangjie-textinline",
+                      {
+                        "subType": "label",
+                        "data": {
+                          "color": "var(--we_red3_color, rgba(200, 78, 67, 1))",
+                          "bgColor": "#FCDFDC"
+                        },
+                        "uuid": "mhirnpxua6ai815mlg"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "text"
+                        },
+                        [
+                          "span",
+                          {
+                            "fonts": {
+                              "ascii": "DingTalk JinBuTi",
+                              "hAnsi": "DingTalk JinBuTi",
+                              "cs": "DingTalk JinBuTi",
+                              "eastAsia": "DingTalk JinBuTi"
+                            },
+                            "sz": 12,
+                            "szUnit": "pt",
+                            "color": "",
+                            "data-type": "leaf"
+                          },
+                          "自定义推广"
+                        ]
+                      ]
+                    ],
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "fonts": {
+                            "ascii": "DingTalk JinBuTi",
+                            "hAnsi": "DingTalk JinBuTi",
+                            "cs": "DingTalk JinBuTi",
+                            "eastAsia": "DingTalk JinBuTi"
+                          },
+                          "sz": 12,
+                          "szUnit": "pt",
+                          "color": "",
+                          "data-type": "leaf"
+                        },
+                        "三大营销目标可使用新升级人群屏蔽能力"
+                      ]
+                    ]
+                  ],
+                  [
+                    "p",
+                    {
+                      "uuid": "mhirl5su2536h8hsmpq",
+                      "jc": "center"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "bold": true,
+                          "fonts": {
+                            "ascii": "DingTalk JinBuTi",
+                            "hAnsi": "DingTalk JinBuTi",
+                            "cs": "DingTalk JinBuTi",
+                            "eastAsia": "DingTalk JinBuTi"
+                          },
+                          "sz": 16,
+                          "szUnit": "pt",
+                          "color": "#1642f5",
+                          "data-type": "leaf"
+                        },
+                        ""
+                      ]
+                    ],
+                    [
+                      "img",
+                      {
+                        "uuid": "gu31dr",
+                        "name": "image.png",
+                        "size": 818822,
+                        "width": 603,
+                        "height": 175.3147512864494,
+                        "src": "/core/api/resources/img/5eecdaf48460cde52f8c2d546b75cac10ea337659f3b3bbe75b8339e1c4c24831b75b38faadcd24bec177c308ebd5304d2120b17cd3e89fb231398c50f11928148de142b1f18f008889ddbc17e7fe0e9fd97b8890870c7474fb4c8ed7016461c",
+                        "extraData": {
+                          "resourceId": "c0e195a6-b6c9-498c-8c1f-c64353c0f58a",
+                          "metaData": {
+                            "size": 818822,
+                            "originWidth": 2332,
+                            "originHeight": 678,
+                            "format": "png",
+                            "ratio": 1
+                          }
+                        }
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "text"
+                        },
+                        [
+                          "span",
+                          {
+                            "data-type": "leaf"
+                          },
+                          ""
+                        ]
+                      ]
+                    ],
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "bold": true,
+                          "fonts": {
+                            "ascii": "DingTalk JinBuTi",
+                            "hAnsi": "DingTalk JinBuTi",
+                            "cs": "DingTalk JinBuTi",
+                            "eastAsia": "DingTalk JinBuTi"
+                          },
+                          "sz": 16,
+                          "szUnit": "pt",
+                          "color": "#1642f5",
+                          "data-type": "leaf"
+                        },
+                        ""
+                      ]
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "table",
+              {
+                "colsWidth": [
+                  269,
+                  629
+                ],
+                "sr": true,
+                "uuid": "mhirq9e1avl0w3w7r6u"
+              },
+              [
+                "tr",
+                {
+                  "uuid": "mhirq9e1wynbd4susf"
+                },
+                [
+                  "tc",
+                  {
+                    "fill": "#FFFFFF",
+                    "vAlign": "middle",
+                    "uuid": "mhirq9e15avpa2syae5",
+                    "border": "#54A1E8",
+                    "rowSpan": 1,
+                    "colSpan": 1
+                  },
+                  [
+                    "p",
+                    {
+                      "uuid": "mhirq9e19xs83e4zf0j",
+                      "jc": "center"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "fonts": {
+                            "ascii": "DingTalk JinBuTi",
+                            "hAnsi": "DingTalk JinBuTi",
+                            "cs": "DingTalk JinBuTi",
+                            "eastAsia": "DingTalk JinBuTi"
+                          },
+                          "sz": 14,
+                          "szUnit": "pt",
+                          "color": "",
+                          "data-type": "leaf"
+                        },
+                        "设置过滤人群"
+                      ]
+                    ]
+                  ]
+                ],
+                [
+                  "tc",
+                  {
+                    "fill": "#FFFFFF",
+                    "vAlign": "top",
+                    "uuid": "mhirq9e15333chcfvd5",
+                    "border": "#54A1E8",
+                    "rowSpan": 1,
+                    "colSpan": 1
+                  },
+                  [
+                    "table",
+                    {
+                      "colsWidth": [
+                        325,
+                        325,
+                        325
+                      ],
+                      "sr": true,
+                      "uuid": "mhirry3hxebjblde8l"
+                    },
+                    [
+                      "tr",
+                      {
+                        "uuid": "mhirry3hizcess4a9xn"
+                      },
+                      [
+                        "tc",
+                        {
+                          "fill": "rgba(129, 169, 250, 0.12)",
+                          "uuid": "mhirry3hri3s9m4w6xn",
+                          "vAlign": "top"
+                        },
+                        [
+                          "p",
+                          {
+                            "uuid": "mhirry3h25u2cxgk9l9",
+                            "jc": "center"
+                          },
+                          [
+                            "span",
+                            {
+                              "data-type": "text"
+                            },
+                            [
+                              "span",
+                              {
+                                "fonts": {
+                                  "ascii": "DingTalk JinBuTi",
+                                  "hAnsi": "DingTalk JinBuTi",
+                                  "cs": "DingTalk JinBuTi",
+                                  "eastAsia": "DingTalk JinBuTi"
+                                },
+                                "sz": 12,
+                                "szUnit": "pt",
+                                "color": "",
+                                "data-type": "leaf"
+                              },
+                              "高效拉新"
+                            ]
+                          ]
+                        ],
+                        [
+                          "p",
+                          {
+                            "uuid": "mhirsiutq7f80lj6l7"
+                          },
+                          [
+                            "span",
+                            {
+                              "data-type": "text"
+                            },
+                            [
+                              "span",
+                              {
+                                "bold": true,
+                                "fonts": {
+                                  "ascii": "DingTalk JinBuTi",
+                                  "hAnsi": "DingTalk JinBuTi",
+                                  "cs": "DingTalk JinBuTi",
+                                  "eastAsia": "DingTalk JinBuTi"
+                                },
+                                "sz": 16,
+                                "szUnit": "pt",
+                                "color": "#1642f5",
+                                "data-type": "leaf"
+                              },
+                              ""
+                            ]
+                          ],
+                          [
+                            "img",
+                            {
+                              "uuid": "ggm7yr",
+                              "name": "image.png",
+                              "size": 746050,
+                              "width": 169,
+                              "height": 84.40923737916219,
+                              "src": "/core/api/resources/img/5eecdaf48460cde52f8c2d546b75cac10ea337659f3b3bbe75b8339e1c4c24831b75b38faadcd24bec177c308ebd5304ed13f60099df950913ba8e93885d5b2bca371b1f2ff301c6018dcba782b80b9add35caebba6976644fb4c8ed7016461c",
+                              "extraData": {
+                                "resourceId": "1f4d48b9-0281-454a-8fa7-9143a1156af0",
+                                "metaData": {
+                                  "size": 746050,
+                                  "originWidth": 1862,
+                                  "originHeight": 930,
+                                  "format": "png",
+                                  "ratio": 1
+                                }
+                              }
+                            },
+                            [
+                              "span",
+                              {
+                                "data-type": "text"
+                              },
+                              [
+                                "span",
+                                {
+                                  "data-type": "leaf"
+                                },
+                                ""
+                              ]
+                            ]
+                          ],
+                          [
+                            "span",
+                            {
+                              "data-type": "text"
+                            },
+                            [
+                              "span",
+                              {
+                                "bold": true,
+                                "fonts": {
+                                  "ascii": "DingTalk JinBuTi",
+                                  "hAnsi": "DingTalk JinBuTi",
+                                  "cs": "DingTalk JinBuTi",
+                                  "eastAsia": "DingTalk JinBuTi"
+                                },
+                                "sz": 16,
+                                "szUnit": "pt",
+                                "color": "#1642f5",
+                                "data-type": "leaf"
+                              },
+                              ""
+                            ]
+                          ]
+                        ]
+                      ],
+                      [
+                        "tc",
+                        {
+                          "vAlign": "top",
+                          "fill": "rgba(225, 136, 204, 0.1)",
+                          "uuid": "mhirrzb3kbomcz9qg1g"
+                        },
+                        [
+                          "p",
+                          {
+                            "uuid": "mhirrzb3adlob9s3m34",
+                            "jc": "center"
+                          },
+                          [
+                            "span",
+                            {
+                              "data-type": "text"
+                            },
+                            [
+                              "span",
+                              {
+                                "fonts": {
+                                  "ascii": "DingTalk JinBuTi",
+                                  "hAnsi": "DingTalk JinBuTi",
+                                  "cs": "DingTalk JinBuTi",
+                                  "eastAsia": "DingTalk JinBuTi"
+                                },
+                                "sz": 12,
+                                "szUnit": "pt",
+                                "color": "",
+                                "data-type": "leaf"
+                              },
+                              "常客转化"
+                            ]
+                          ]
+                        ],
+                        [
+                          "p",
+                          {
+                            "uuid": "mhirtl8wt5pb37ldmy"
+                          },
+                          [
+                            "span",
+                            {
+                              "data-type": "text"
+                            },
+                            [
+                              "span",
+                              {
+                                "fonts": {
+                                  "ascii": "DingTalk JinBuTi",
+                                  "hAnsi": "DingTalk JinBuTi",
+                                  "cs": "DingTalk JinBuTi",
+                                  "eastAsia": "DingTalk JinBuTi"
+                                },
+                                "sz": 12,
+                                "szUnit": "pt",
+                                "color": "",
+                                "data-type": "leaf"
+                              },
+                              ""
+                            ]
+                          ],
+                          [
+                            "img",
+                            {
+                              "uuid": "h2m1wr",
+                              "name": "image.png",
+                              "size": 319175,
+                              "width": 169,
+                              "height": 51.70417193426043,
+                              "src": "/core/api/resources/img/5eecdaf48460cde52f8c2d546b75cac10ea337659f3b3bbe75b8339e1c4c24831b75b38faadcd24bec177c308ebd530430eb3f52b13308f738e057b98c7a0a271af2f8a4896c1497774b1d2dbda409ce37418c786c86d2784fb4c8ed7016461c",
+                              "extraData": {
+                                "resourceId": "fb89061e-20be-46d4-82a4-064274ebdcc9",
+                                "metaData": {
+                                  "size": 319175,
+                                  "originWidth": 1582,
+                                  "originHeight": 484,
+                                  "format": "png",
+                                  "ratio": 1
+                                }
+                              }
+                            },
+                            [
+                              "span",
+                              {
+                                "data-type": "text"
+                              },
+                              [
+                                "span",
+                                {
+                                  "data-type": "leaf"
+                                },
+                                ""
+                              ]
+                            ]
+                          ],
+                          [
+                            "span",
+                            {
+                              "data-type": "text"
+                            },
+                            [
+                              "span",
+                              {
+                                "fonts": {
+                                  "ascii": "DingTalk JinBuTi",
+                                  "hAnsi": "DingTalk JinBuTi",
+                                  "cs": "DingTalk JinBuTi",
+                                  "eastAsia": "DingTalk JinBuTi"
+                                },
+                                "sz": 12,
+                                "szUnit": "pt",
+                                "color": "",
+                                "data-type": "leaf"
+                              },
+                              ""
+                            ]
+                          ]
+                        ],
+                        [
+                          "p",
+                          {
+                            "uuid": "mhirtytcrorxile95qi"
+                          },
+                          [
+                            "span",
+                            {
+                              "data-type": "text"
+                            },
+                            [
+                              "span",
+                              {
+                                "data-type": "leaf"
+                              },
+                              ""
+                            ]
+                          ]
+                        ]
+                      ],
+                      [
+                        "tc",
+                        {
+                          "fill": "rgba(181, 146, 253, 0.1)",
+                          "vAlign": "top",
+                          "uuid": "mhirry3h689ledi2s2f"
+                        },
+                        [
+                          "p",
+                          {
+                            "uuid": "mhirry3h0wii31zrvaj",
+                            "jc": "center"
+                          },
+                          [
+                            "span",
+                            {
+                              "data-type": "text"
+                            },
+                            [
+                              "span",
+                              {
+                                "fonts": {
+                                  "ascii": "DingTalk JinBuTi",
+                                  "hAnsi": "DingTalk JinBuTi",
+                                  "cs": "DingTalk JinBuTi",
+                                  "eastAsia": "DingTalk JinBuTi"
+                                },
+                                "sz": 12,
+                                "szUnit": "pt",
+                                "color": "",
+                                "data-type": "leaf"
+                              },
+                              "自定义推广"
+                            ]
+                          ]
+                        ],
+                        [
+                          "p",
+                          {
+                            "uuid": "mhirw7qgs1sg1cuyef"
+                          },
+                          [
+                            "span",
+                            {
+                              "data-type": "text"
+                            },
+                            [
+                              "span",
+                              {
+                                "fonts": {
+                                  "ascii": "DingTalk JinBuTi",
+                                  "hAnsi": "DingTalk JinBuTi",
+                                  "cs": "DingTalk JinBuTi",
+                                  "eastAsia": "DingTalk JinBuTi"
+                                },
+                                "sz": 12,
+                                "szUnit": "pt",
+                                "color": "",
+                                "data-type": "leaf"
+                              },
+                              ""
+                            ]
+                          ],
+                          [
+                            "img",
+                            {
+                              "uuid": "f2nqgk",
+                              "name": "image.png",
+                              "size": 624079,
+                              "width": 169,
+                              "height": 70.43199129488575,
+                              "src": "/core/api/resources/img/5eecdaf48460cde52f8c2d546b75cac10ea337659f3b3bbe75b8339e1c4c24831b75b38faadcd24bec177c308ebd53043c084cc641e99837741441264c45c2f562c44db18dd74221e68498f705a1483c4ee30fa0b3f7f4544fb4c8ed7016461c",
+                              "extraData": {
+                                "resourceId": "ef3a97a3-ac77-480b-b8a2-84aaec0ac2fa",
+                                "metaData": {
+                                  "size": 624079,
+                                  "originWidth": 1838,
+                                  "originHeight": 766,
+                                  "format": "png",
+                                  "ratio": 1
+                                }
+                              }
+                            },
+                            [
+                              "span",
+                              {
+                                "data-type": "text"
+                              },
+                              [
+                                "span",
+                                {
+                                  "data-type": "leaf"
+                                },
+                                ""
+                              ]
+                            ]
+                          ],
+                          [
+                            "span",
+                            {
+                              "data-type": "text"
+                            },
+                            [
+                              "span",
+                              {
+                                "fonts": {
+                                  "ascii": "DingTalk JinBuTi",
+                                  "hAnsi": "DingTalk JinBuTi",
+                                  "cs": "DingTalk JinBuTi",
+                                  "eastAsia": "DingTalk JinBuTi"
+                                },
+                                "sz": 12,
+                                "szUnit": "pt",
+                                "color": "",
+                                "data-type": "leaf"
+                              },
+                              ""
+                            ]
+                          ]
+                        ]
+                      ]
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "table",
+              {
+                "colsWidth": [
+                  269,
+                  629
+                ],
+                "sr": true,
+                "uuid": "mhirxjp20b1mx1z09oeb"
+              },
+              [
+                "tr",
+                {
+                  "uuid": "mhirxjp2s8pk4jrqp2h"
+                },
+                [
+                  "tc",
+                  {
+                    "fill": "#FFFFFF",
+                    "vAlign": "middle",
+                    "uuid": "mhirxjp29zfyvlpv5p6",
+                    "border": "#54A1E8",
+                    "rowSpan": 1,
+                    "colSpan": 1
+                  },
+                  [
+                    "p",
+                    {
+                      "uuid": "mhirxjp2p1yor9essc",
+                      "jc": "center"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "fonts": {
+                            "ascii": "DingTalk JinBuTi",
+                            "hAnsi": "DingTalk JinBuTi",
+                            "cs": "DingTalk JinBuTi",
+                            "eastAsia": "DingTalk JinBuTi"
+                          },
+                          "sz": 14,
+                          "szUnit": "pt",
+                          "color": "",
+                          "data-type": "leaf"
+                        },
+                        "设置屏蔽性别年龄人群"
+                      ]
+                    ]
+                  ]
+                ],
+                [
+                  "tc",
+                  {
+                    "fill": "#FFFFFF",
+                    "vAlign": "top",
+                    "uuid": "mhirxjp23d3v6n9icfj",
+                    "border": "#54A1E8",
+                    "rowSpan": 1,
+                    "colSpan": 1
+                  },
+                  [
+                    "p",
+                    {
+                      "uuid": "mhiry9j608m04ndg9o69"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "fonts": {
+                            "ascii": "DingTalk JinBuTi",
+                            "hAnsi": "DingTalk JinBuTi",
+                            "cs": "DingTalk JinBuTi",
+                            "eastAsia": "DingTalk JinBuTi"
+                          },
+                          "sz": 12,
+                          "szUnit": "pt",
+                          "color": "",
+                          "data-type": "leaf"
+                        },
+                        "选择需要屏蔽的性别及用户年龄段，确定后点击添加人群"
+                      ]
+                    ]
+                  ],
+                  [
+                    "p",
+                    {
+                      "uuid": "mhirzn2c8haydf5r09l"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "leaf"
+                        },
+                        ""
+                      ]
+                    ],
+                    [
+                      "img",
+                      {
+                        "uuid": "dr9irz",
+                        "name": "image.png",
+                        "size": 1659537,
+                        "width": 603,
+                        "height": 325.7875,
+                        "src": "/core/api/resources/img/5eecdaf48460cde52f8c2d546b75cac10ea337659f3b3bbe75b8339e1c4c24831b75b38faadcd24bec177c308ebd5304ab2dfb492c2e65ae59afd6fc4fbdefbcce61956657551b70f752c98a3c3a865c13f10788214a0dd04fb4c8ed7016461c",
+                        "extraData": {
+                          "resourceId": "1067e62f-e1a0-4ef5-9364-2b60055ffc6a",
+                          "metaData": {
+                            "size": 1659537,
+                            "originWidth": 2880,
+                            "originHeight": 1556,
+                            "format": "png",
+                            "ratio": 1
+                          }
+                        }
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "text"
+                        },
+                        [
+                          "span",
+                          {
+                            "data-type": "leaf"
+                          },
+                          ""
+                        ]
+                      ]
+                    ],
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "leaf"
+                        },
+                        ""
+                      ]
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "table",
+              {
+                "colsWidth": [
+                  269,
+                  629
+                ],
+                "sr": true,
+                "uuid": "mhis0lm91o8exxv9b35"
+              },
+              [
+                "tr",
+                {
+                  "uuid": "mhis0lm927szm1cenzv"
+                },
+                [
+                  "tc",
+                  {
+                    "fill": "#FFFFFF",
+                    "vAlign": "middle",
+                    "uuid": "mhis0lm9365nmhpxhyh",
+                    "border": "#54A1E8",
+                    "rowSpan": 1,
+                    "colSpan": 1
+                  },
+                  [
+                    "p",
+                    {
+                      "uuid": "mhis0lm9s3fkmbvv6o",
+                      "jc": "center"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "fonts": {
+                            "ascii": "DingTalk JinBuTi",
+                            "hAnsi": "DingTalk JinBuTi",
+                            "cs": "DingTalk JinBuTi",
+                            "eastAsia": "DingTalk JinBuTi"
+                          },
+                          "sz": 14,
+                          "szUnit": "pt",
+                          "color": "",
+                          "data-type": "leaf"
+                        },
+                        "设置互动人群屏蔽"
+                      ]
+                    ]
+                  ]
+                ],
+                [
+                  "tc",
+                  {
+                    "fill": "#FFFFFF",
+                    "vAlign": "top",
+                    "uuid": "mhis0lm9gyhbtja8inl",
+                    "border": "#54A1E8",
+                    "rowSpan": 1,
+                    "colSpan": 1
+                  },
+                  [
+                    "p",
+                    {
+                      "uuid": "mhis0lm9kz5uw9ju9ma"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "fonts": {
+                            "ascii": "DingTalk JinBuTi",
+                            "hAnsi": "DingTalk JinBuTi",
+                            "cs": "DingTalk JinBuTi",
+                            "eastAsia": "DingTalk JinBuTi"
+                          },
+                          "sz": 12,
+                          "szUnit": "pt",
+                          "color": "",
+                          "data-type": "leaf"
+                        },
+                        "根据当前的经营需求，选择需要屏蔽的互动人群，确认后点击添加人群"
+                      ]
+                    ]
+                  ],
+                  [
+                    "p",
+                    {
+                      "uuid": "mhis0lm9qoidnjncetc"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "leaf"
+                        },
+                        ""
+                      ]
+                    ],
+                    [
+                      "img",
+                      {
+                        "uuid": "12nalw",
+                        "name": "image.png",
+                        "size": 1714293,
+                        "width": 603,
+                        "height": 325.7875,
+                        "src": "/core/api/resources/img/5eecdaf48460cde52f8c2d546b75cac10ea337659f3b3bbe75b8339e1c4c24831b75b38faadcd24bec177c308ebd5304aab27bcd68e05338de0a8d24a44013fb34cb43a623508c0cd54ef065009b3b5a2e3373ea93a9176a4fb4c8ed7016461c",
+                        "extraData": {
+                          "resourceId": "8152a122-306f-42db-ac83-d836f4bbd41c",
+                          "metaData": {
+                            "size": 1714293,
+                            "originWidth": 2880,
+                            "originHeight": 1556,
+                            "format": "png",
+                            "ratio": 1
+                          }
+                        }
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "text"
+                        },
+                        [
+                          "span",
+                          {
+                            "data-type": "leaf"
+                          },
+                          ""
+                        ]
+                      ]
+                    ],
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "leaf"
+                        },
+                        ""
+                      ]
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "table",
+              {
+                "colsWidth": [
+                  269,
+                  629
+                ],
+                "sr": true,
+                "uuid": "mhis2pwxmika0l1rkj"
+              },
+              [
+                "tr",
+                {
+                  "uuid": "mhis2pwx1x23lzgthlo"
+                },
+                [
+                  "tc",
+                  {
+                    "fill": "#FFFFFF",
+                    "vAlign": "middle",
+                    "uuid": "mhis2pwxboc2ggxr4nu",
+                    "border": "#54A1E8",
+                    "rowSpan": 1,
+                    "colSpan": 1
+                  },
+                  [
+                    "p",
+                    {
+                      "uuid": "mhis2pwxhjs5tgj01m",
+                      "jc": "center"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "fonts": {
+                            "ascii": "DingTalk JinBuTi",
+                            "hAnsi": "DingTalk JinBuTi",
+                            "cs": "DingTalk JinBuTi",
+                            "eastAsia": "DingTalk JinBuTi"
+                          },
+                          "sz": 14,
+                          "szUnit": "pt",
+                          "color": "",
+                          "data-type": "leaf"
+                        },
+                        "设置自定义人群屏蔽"
+                      ]
+                    ]
+                  ]
+                ],
+                [
+                  "tc",
+                  {
+                    "fill": "#FFFFFF",
+                    "vAlign": "top",
+                    "uuid": "mhis2pwxcug02qlshz",
+                    "border": "#54A1E8",
+                    "rowSpan": 1,
+                    "colSpan": 1
+                  },
+                  [
+                    "table",
+                    {
+                      "colsWidth": [
+                        325,
+                        325
+                      ],
+                      "sr": true,
+                      "uuid": "mhis3yiqrsgipx7ocme"
+                    },
+                    [
+                      "tr",
+                      {
+                        "uuid": "mhis3yiq7uy4paunnt9"
+                      },
+                      [
+                        "tc",
+                        {
+                          "fill": "rgba(129, 169, 250, 0.12)",
+                          "vAlign": "top",
+                          "uuid": "mhis3yiqg3pi1oqoofp"
+                        },
+                        [
+                          "p",
+                          {
+                            "uuid": "mhis3yiq5zrtol3tty8",
+                            "ind": {
+                              "left": 0
+                            },
+                            "list": {
+                              "listId": "c3g4j20w4rb",
+                              "level": 0,
+                              "isTaskList": false,
+                              "isOrdered": false,
+                              "listStyleType": "SCIR_ECIR_SREC",
+                              "symbolStyle": {
+                                "fonts": "DingTalk JinBuTi",
+                                "color": "",
+                                "sz": 12
+                              },
+                              "listStyle": {
+                                "format": "bullet",
+                                "text": "●",
+                                "align": "left"
+                              }
+                            }
+                          },
+                          [
+                            "span",
+                            {
+                              "data-type": "text"
+                            },
+                            [
+                              "span",
+                              {
+                                "fonts": {
+                                  "ascii": "DingTalk JinBuTi",
+                                  "hAnsi": "DingTalk JinBuTi",
+                                  "cs": "DingTalk JinBuTi",
+                                  "eastAsia": "DingTalk JinBuTi"
+                                },
+                                "sz": 12,
+                                "szUnit": "pt",
+                                "color": "",
+                                "data-type": "leaf"
+                              },
+                              "可选择已同步到人群推广的人群，点击添加进行屏蔽"
+                            ]
+                          ]
+                        ],
+                        [
+                          "p",
+                          {
+                            "uuid": "mhis461hkt5p5ymfwpj"
+                          },
+                          [
+                            "span",
+                            {
+                              "data-type": "text"
+                            },
+                            [
+                              "span",
+                              {
+                                "data-type": "leaf"
+                              },
+                              ""
+                            ]
+                          ],
+                          [
+                            "img",
+                            {
+                              "uuid": "mkamebh4cdnzzykj0vv",
+                              "name": "image.png",
+                              "size": 1709874,
+                              "width": 272,
+                              "height": 146.95555555555555,
+                              "src": "/core/api/resources/img/5eecdaf48460cde52f8c2d546b75cac10ea337659f3b3bbe75b8339e1c4c24831b75b38faadcd24bec177c308ebd5304ba79cb1b8b91ca839221ab4418f4cca5a59a760dc3066a0bff936e81aeaa21fc52a2c9d5c20e66874fb4c8ed7016461c",
+                              "extraData": {
+                                "resourceId": "c9d86a3b-1d16-4e41-87d3-7d3494abc302",
+                                "metaData": {
+                                  "size": 1709874,
+                                  "originWidth": 2880,
+                                  "originHeight": 1556,
+                                  "format": "png",
+                                  "ratio": 1
+                                }
+                              }
+                            },
+                            [
+                              "span",
+                              {
+                                "data-type": "text"
+                              },
+                              [
+                                "span",
+                                {
+                                  "data-type": "leaf"
+                                },
+                                ""
+                              ]
+                            ]
+                          ],
+                          [
+                            "span",
+                            {
+                              "data-type": "text"
+                            },
+                            [
+                              "span",
+                              {
+                                "data-type": "leaf"
+                              },
+                              ""
+                            ]
+                          ]
+                        ]
+                      ],
+                      [
+                        "tc",
+                        {
+                          "fill": "rgba(181, 146, 253, 0.1)",
+                          "vAlign": "top",
+                          "uuid": "mhis3yiqeq5xppn0bpe"
+                        },
+                        [
+                          "p",
+                          {
+                            "uuid": "mhis3yiqtoozukvzxir",
+                            "ind": {
+                              "left": 0
+                            },
+                            "list": {
+                              "listId": "r7uy7kk0zj",
+                              "level": 0,
+                              "isTaskList": false,
+                              "isOrdered": false,
+                              "listStyleType": "SCIR_ECIR_SREC",
+                              "symbolStyle": {
+                                "fonts": "DingTalk JinBuTi",
+                                "color": "",
+                                "sz": 12
+                              },
+                              "listStyle": {
+                                "format": "bullet",
+                                "text": "●",
+                                "align": "left"
+                              }
+                            }
+                          },
+                          [
+                            "span",
+                            {
+                              "data-type": "text"
+                            },
+                            [
+                              "span",
+                              {
+                                "fonts": {
+                                  "ascii": "DingTalk JinBuTi",
+                                  "hAnsi": "DingTalk JinBuTi",
+                                  "cs": "DingTalk JinBuTi",
+                                  "eastAsia": "DingTalk JinBuTi"
+                                },
+                                "sz": 12,
+                                "szUnit": "pt",
+                                "color": "",
+                                "data-type": "leaf"
+                              },
+                              "可点击新建人群，前往达摩盘后台，根据人群运营诉求，定制需屏蔽。"
+                            ]
+                          ]
+                        ],
+                        [
+                          "p",
+                          {
+                            "uuid": "mhis51l4piey7ng5ls"
+                          },
+                          [
+                            "span",
+                            {
+                              "data-type": "text"
+                            },
+                            [
+                              "span",
+                              {
+                                "data-type": "leaf"
+                              },
+                              ""
+                            ]
+                          ],
+                          [
+                            "img",
+                            {
+                              "uuid": "zpdgtd",
+                              "name": "image.png",
+                              "size": 1712704,
+                              "width": 272,
+                              "height": 146.95555555555555,
+                              "src": "/core/api/resources/img/5eecdaf48460cde52f8c2d546b75cac10ea337659f3b3bbe75b8339e1c4c24831b75b38faadcd24bec177c308ebd530496ba0f67bc20a160d3f741d110415bbeb3185bf1b0327849df7edfea3422bfe2f54015e70df0aa5f4fb4c8ed7016461c",
+                              "extraData": {
+                                "resourceId": "41420def-f9d3-42f5-b6e7-72e0097f70da",
+                                "metaData": {
+                                  "size": 1712704,
+                                  "originWidth": 2880,
+                                  "originHeight": 1556,
+                                  "format": "png",
+                                  "ratio": 1
+                                }
+                              }
+                            },
+                            [
+                              "span",
+                              {
+                                "data-type": "text"
+                              },
+                              [
+                                "span",
+                                {
+                                  "data-type": "leaf"
+                                },
+                                ""
+                              ]
+                            ]
+                          ],
+                          [
+                            "span",
+                            {
+                              "data-type": "text"
+                            },
+                            [
+                              "span",
+                              {
+                                "data-type": "leaf"
+                              },
+                              ""
+                            ]
+                          ]
+                        ]
+                      ]
+                    ]
+                  ]
+                ]
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mfz1rnypcmq2soj960w"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "container",
+            {
+              "subType": "colorBlocks",
+              "metadata": {
+                "padding": {
+                  "top": 11,
+                  "right": 11,
+                  "bottom": 11,
+                  "left": 11
+                },
+                "borderRadius": 8,
+                "bgcolor": "#F5F6F7",
+                "showstk": false,
+                "border": null
+              },
+              "uuid": "mfz1s1dsibyl0ii58tq"
+            },
+            [
+              "p",
+              {
+                "uuid": "mfz1s1ds5pgig877rhc",
+                "jc": "center"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "bold": true,
+                    "fonts": {
+                      "ascii": "DingTalk JinBuTi",
+                      "hAnsi": "DingTalk JinBuTi",
+                      "cs": "DingTalk JinBuTi",
+                      "eastAsia": "DingTalk JinBuTi"
+                    },
+                    "sz": 20,
+                    "szUnit": "pt",
+                    "color": "#1642f5",
+                    "data-type": "leaf"
+                  },
+                  "常见QA"
+                ]
+              ]
+            ],
+            [
+              "container",
+              {
+                "subType": "colorBlocks",
+                "metadata": {
+                  "padding": {
+                    "top": 11,
+                    "right": 11,
+                    "bottom": 11,
+                    "left": 11
+                  },
+                  "borderRadius": 8,
+                  "bgcolor": "#FFFFFF",
+                  "showstk": false,
+                  "border": "#54A1E8"
+                },
+                "uuid": "mhis8758defk0etc0mm"
+              },
+              [
+                "p",
+                {
+                  "uuid": "mhislsqspnhfu3wn8i"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "text"
+                  },
+                  [
+                    "span",
+                    {
+                      "bold": true,
+                      "fonts": {
+                        "ascii": "DingTalk JinBuTi",
+                        "hAnsi": "DingTalk JinBuTi",
+                        "cs": "DingTalk JinBuTi",
+                        "eastAsia": "DingTalk JinBuTi"
+                      },
+                      "sz": 20,
+                      "szUnit": "pt",
+                      "color": "#1642f5",
+                      "data-type": "leaf"
+                    },
+                    "Q"
+                  ],
+                  [
+                    "span",
+                    {
+                      "bold": true,
+                      "fonts": {
+                        "ascii": "DingTalk JinBuTi",
+                        "hAnsi": "DingTalk JinBuTi",
+                        "cs": "DingTalk JinBuTi",
+                        "eastAsia": "DingTalk JinBuTi"
+                      },
+                      "sz": 16,
+                      "szUnit": "pt",
+                      "color": "#1642f5",
+                      "data-type": "leaf"
+                    },
+                    ":"
+                  ],
+                  [
+                    "span",
+                    {
+                      "fonts": {
+                        "ascii": "DingTalk JinBuTi",
+                        "hAnsi": "DingTalk JinBuTi",
+                        "cs": "DingTalk JinBuTi",
+                        "eastAsia": "DingTalk JinBuTi"
+                      },
+                      "sz": 14,
+                      "szUnit": "pt",
+                      "color": "",
+                      "data-type": "leaf"
+                    },
+                    "为什么我没有自定义屏蔽人群能力"
+                  ]
+                ]
+              ],
+              [
+                "p",
+                {
+                  "uuid": "mhislsqsydi797r5fl"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "text"
+                  },
+                  [
+                    "span",
+                    {
+                      "bold": true,
+                      "fonts": {
+                        "ascii": "DingTalk JinBuTi",
+                        "hAnsi": "DingTalk JinBuTi",
+                        "cs": "DingTalk JinBuTi",
+                        "eastAsia": "DingTalk JinBuTi"
+                      },
+                      "sz": 20,
+                      "szUnit": "pt",
+                      "color": "#1642f5",
+                      "data-type": "leaf"
+                    },
+                    "A"
+                  ],
+                  [
+                    "span",
+                    {
+                      "bold": true,
+                      "fonts": {
+                        "ascii": "DingTalk JinBuTi",
+                        "hAnsi": "DingTalk JinBuTi",
+                        "cs": "DingTalk JinBuTi",
+                        "eastAsia": "DingTalk JinBuTi"
+                      },
+                      "sz": 16,
+                      "szUnit": "pt",
+                      "color": "#1642f5",
+                      "data-type": "leaf"
+                    },
+                    ":"
+                  ],
+                  [
+                    "span",
+                    {
+                      "fonts": {
+                        "ascii": "DingTalk JinBuTi",
+                        "hAnsi": "DingTalk JinBuTi",
+                        "cs": "DingTalk JinBuTi",
+                        "eastAsia": "DingTalk JinBuTi"
+                      },
+                      "sz": 14,
+                      "szUnit": "pt",
+                      "color": "",
+                      "data-type": "leaf"
+                    },
+                    "该能力目前在内测阶段，为邀请制，是否开通能力请关注平台通知"
+                  ]
+                ]
+              ]
+            ],
+            [
+              "container",
+              {
+                "subType": "colorBlocks",
+                "metadata": {
+                  "padding": {
+                    "top": 11,
+                    "right": 11,
+                    "bottom": 11,
+                    "left": 11
+                  },
+                  "borderRadius": 8,
+                  "bgcolor": "#FFFFFF",
+                  "showstk": false,
+                  "border": "#54A1E8"
+                },
+                "uuid": "mhisergkqnfep172vzc"
+              },
+              [
+                "p",
+                {
+                  "uuid": "mhisergktbo6yofenpa"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "text"
+                  },
+                  [
+                    "span",
+                    {
+                      "bold": true,
+                      "fonts": {
+                        "ascii": "DingTalk JinBuTi",
+                        "hAnsi": "DingTalk JinBuTi",
+                        "cs": "DingTalk JinBuTi",
+                        "eastAsia": "DingTalk JinBuTi"
+                      },
+                      "sz": 20,
+                      "szUnit": "pt",
+                      "color": "#1642f5",
+                      "data-type": "leaf"
+                    },
+                    "Q"
+                  ],
+                  [
+                    "span",
+                    {
+                      "bold": true,
+                      "fonts": {
+                        "ascii": "DingTalk JinBuTi",
+                        "hAnsi": "DingTalk JinBuTi",
+                        "cs": "DingTalk JinBuTi",
+                        "eastAsia": "DingTalk JinBuTi"
+                      },
+                      "sz": 16,
+                      "szUnit": "pt",
+                      "color": "#1642f5",
+                      "data-type": "leaf"
+                    },
+                    ":"
+                  ],
+                  [
+                    "span",
+                    {
+                      "fonts": {
+                        "ascii": "DingTalk JinBuTi",
+                        "cs": "DingTalk JinBuTi",
+                        "eastAsia": "DingTalk JinBuTi",
+                        "hAnsi": "DingTalk JinBuTi"
+                      },
+                      "sz": 14,
+                      "szUnit": "pt",
+                      "color": "",
+                      "data-type": "leaf"
+                    },
+                    "为什么我在达摩盘自定义屏蔽人群后，屏蔽自定义人群里没有我定制的人群可以选择"
+                  ]
+                ]
+              ],
+              [
+                "p",
+                {
+                  "uuid": "mhisergk6y8rppjwtiq"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "text"
+                  },
+                  [
+                    "span",
+                    {
+                      "bold": true,
+                      "fonts": {
+                        "ascii": "DingTalk JinBuTi",
+                        "hAnsi": "DingTalk JinBuTi",
+                        "cs": "DingTalk JinBuTi",
+                        "eastAsia": "DingTalk JinBuTi"
+                      },
+                      "sz": 20,
+                      "szUnit": "pt",
+                      "color": "#1642f5",
+                      "data-type": "leaf"
+                    },
+                    "A"
+                  ],
+                  [
+                    "span",
+                    {
+                      "bold": true,
+                      "fonts": {
+                        "ascii": "DingTalk JinBuTi",
+                        "hAnsi": "DingTalk JinBuTi",
+                        "cs": "DingTalk JinBuTi",
+                        "eastAsia": "DingTalk JinBuTi"
+                      },
+                      "sz": 16,
+                      "szUnit": "pt",
+                      "color": "#1642f5",
+                      "data-type": "leaf"
+                    },
+                    ":"
+                  ],
+                  [
+                    "span",
+                    {
+                      "fonts": {
+                        "ascii": "DingTalk JinBuTi",
+                        "hAnsi": "DingTalk JinBuTi",
+                        "cs": "DingTalk JinBuTi",
+                        "eastAsia": "DingTalk JinBuTi"
+                      },
+                      "sz": 14,
+                      "szUnit": "pt",
+                      "color": "",
+                      "data-type": "leaf"
+                    },
+                    "需将达摩盘定制的人群推送至屏蔽人群设置。具体操作链路：选择渠道-人群推广屏蔽人群-同步数据"
+                  ]
+                ]
+              ],
+              [
+                "p",
+                {
+                  "uuid": "mhisl45g9fksa85qm36"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "text"
+                  },
+                  [
+                    "span",
+                    {
+                      "bold": true,
+                      "fonts": {
+                        "ascii": "DingTalk JinBuTi",
+                        "hAnsi": "DingTalk JinBuTi",
+                        "cs": "DingTalk JinBuTi",
+                        "eastAsia": "DingTalk JinBuTi"
+                      },
+                      "sz": 14,
+                      "szUnit": "pt",
+                      "color": "",
+                      "data-type": "leaf"
+                    },
+                    ""
+                  ]
+                ],
+                [
+                  "img",
+                  {
+                    "uuid": "x1fzsc",
+                    "name": "image.png",
+                    "size": 494323,
+                    "width": 717,
+                    "height": 364,
+                    "src": "/core/api/resources/img/5eecdaf48460cde52f8c2d546b75cac10ea337659f3b3bbe75b8339e1c4c24831b75b38faadcd24bec177c308ebd5304208b8e9f0c9f60fbea158dbdfba5c4842d2d60a4d3d805338d5831e054b900056ed4d9bcdd2c939c4fb4c8ed7016461c",
+                    "extraData": {
+                      "resourceId": "924db13f-f29d-46f4-8dd5-8b3f4d3cd38b",
+                      "metaData": {
+                        "size": 494323,
+                        "originWidth": 1434,
+                        "originHeight": 728,
+                        "format": "png",
+                        "ratio": 1
+                      }
+                    }
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ]
+                ],
+                [
+                  "span",
+                  {
+                    "data-type": "text"
+                  },
+                  [
+                    "span",
+                    {
+                      "bold": true,
+                      "fonts": {
+                        "ascii": "DingTalk JinBuTi",
+                        "hAnsi": "DingTalk JinBuTi",
+                        "cs": "DingTalk JinBuTi",
+                        "eastAsia": "DingTalk JinBuTi"
+                      },
+                      "sz": 14,
+                      "szUnit": "pt",
+                      "color": "",
+                      "data-type": "leaf"
+                    },
+                    ""
+                  ]
+                ]
+              ]
+            ],
+            [
+              "container",
+              {
+                "subType": "colorBlocks",
+                "metadata": {
+                  "padding": {
+                    "top": 11,
+                    "right": 11,
+                    "bottom": 11,
+                    "left": 11
+                  },
+                  "borderRadius": 8,
+                  "bgcolor": "#FFFFFF",
+                  "showstk": false,
+                  "border": "#54A1E8"
+                },
+                "uuid": "mhisn19b73bwi2gz0g2"
+              },
+              [
+                "p",
+                {
+                  "uuid": "mhism0mi4dkd6gkvg6d"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "text"
+                  },
+                  [
+                    "span",
+                    {
+                      "bold": true,
+                      "fonts": {
+                        "ascii": "DingTalk JinBuTi",
+                        "hAnsi": "DingTalk JinBuTi",
+                        "cs": "DingTalk JinBuTi",
+                        "eastAsia": "DingTalk JinBuTi"
+                      },
+                      "sz": 20,
+                      "szUnit": "pt",
+                      "color": "#1642f5",
+                      "data-type": "leaf"
+                    },
+                    "Q"
+                  ],
+                  [
+                    "span",
+                    {
+                      "bold": true,
+                      "fonts": {
+                        "ascii": "DingTalk JinBuTi",
+                        "hAnsi": "DingTalk JinBuTi",
+                        "cs": "DingTalk JinBuTi",
+                        "eastAsia": "DingTalk JinBuTi"
+                      },
+                      "sz": 16,
+                      "szUnit": "pt",
+                      "color": "#1642f5",
+                      "data-type": "leaf"
+                    },
+                    ":"
+                  ],
+                  [
+                    "span",
+                    {
+                      "fonts": {
+                        "ascii": "DingTalk JinBuTi",
+                        "hAnsi": "DingTalk JinBuTi",
+                        "cs": "DingTalk JinBuTi",
+                        "eastAsia": "DingTalk JinBuTi"
+                      },
+                      "sz": 14,
+                      "szUnit": "pt",
+                      "color": "",
+                      "data-type": "leaf"
+                    },
+                    "为什么会显示“新增人群覆盖数超过自定义人群可屏蔽人数上限”的报错"
+                  ]
+                ]
+              ],
+              [
+                "p",
+                {
+                  "uuid": "mhism0miae9fvbycnv5"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "text"
+                  },
+                  [
+                    "span",
+                    {
+                      "bold": true,
+                      "fonts": {
+                        "ascii": "DingTalk JinBuTi",
+                        "hAnsi": "DingTalk JinBuTi",
+                        "cs": "DingTalk JinBuTi",
+                        "eastAsia": "DingTalk JinBuTi"
+                      },
+                      "sz": 20,
+                      "szUnit": "pt",
+                      "color": "#1642f5",
+                      "data-type": "leaf"
+                    },
+                    "A"
+                  ],
+                  [
+                    "span",
+                    {
+                      "bold": true,
+                      "fonts": {
+                        "ascii": "DingTalk JinBuTi",
+                        "hAnsi": "DingTalk JinBuTi",
+                        "cs": "DingTalk JinBuTi",
+                        "eastAsia": "DingTalk JinBuTi"
+                      },
+                      "sz": 16,
+                      "szUnit": "pt",
+                      "color": "#1642f5",
+                      "data-type": "leaf"
+                    },
+                    ":"
+                  ],
+                  [
+                    "span",
+                    {
+                      "fonts": {
+                        "ascii": "DingTalk JinBuTi",
+                        "hAnsi": "DingTalk JinBuTi",
+                        "cs": "DingTalk JinBuTi",
+                        "eastAsia": "DingTalk JinBuTi"
+                      },
+                      "sz": 14,
+                      "szUnit": "pt",
+                      "color": "",
+                      "data-type": "leaf"
+                    },
+                    "自定义人群可屏蔽人数上限与人群推广场景消耗挂钩，可通过增加在人群推广场景的预算投入提高可屏蔽人群上限。人群推广场景消耗及对应自定义可屏蔽人群上限如下："
+                  ]
+                ]
+              ],
+              [
+                "table",
+                {
+                  "colsWidth": [
+                    208,
+                    186
+                  ],
+                  "uuid": "mdobvq65fmmmk13q3dj",
+                  "styleId": "tableHeader",
+                  "tblLook": {
+                    "firstRow": 1,
+                    "firstColumn": 0,
+                    "lastRow": 0,
+                    "lastColumn": 0
+                  },
+                  "ind": {
+                    "left": 192
+                  }
+                },
+                [
+                  "tr",
+                  {
+                    "uuid": "mdobvq65umd5wdvi8xo",
+                    "isTblHeader": true
+                  },
+                  [
+                    "tc",
+                    {
+                      "colSpan": 1,
+                      "rowSpan": 1,
+                      "uuid": "mdobvq657g4gvtu2tm4",
+                      "vAlign": "top"
+                    },
+                    [
+                      "p",
+                      {
+                        "uuid": "mdobvq65nv5me27415"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "text"
+                        },
+                        [
+                          "span",
+                          {
+                            "color": "",
+                            "data-type": "leaf"
+                          },
+                          "近15天‘人群场景’累计消耗"
+                        ]
+                      ]
+                    ]
+                  ],
+                  [
+                    "tc",
+                    {
+                      "colSpan": 1,
+                      "rowSpan": 1,
+                      "uuid": "mdobvq65izqmzka5fl",
+                      "vAlign": "top"
+                    },
+                    [
+                      "p",
+                      {
+                        "uuid": "mdobvq65x2kf14qu3a"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "text"
+                        },
+                        [
+                          "span",
+                          {
+                            "color": "",
+                            "data-type": "leaf"
+                          },
+                          "自定义人群可屏蔽上限"
+                        ]
+                      ]
+                    ]
+                  ]
+                ],
+                [
+                  "tr",
+                  {
+                    "uuid": "mdobvq65v36ekcmsgt",
+                    "h": 44
+                  },
+                  [
+                    "tc",
+                    {
+                      "colSpan": 1,
+                      "rowSpan": 1,
+                      "uuid": "mdobvq65imexqe1dsud",
+                      "vAlign": "top"
+                    },
+                    [
+                      "p",
+                      {
+                        "uuid": "mdobvq65jf22wjc2kwi"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "text"
+                        },
+                        [
+                          "span",
+                          {
+                            "color": "",
+                            "data-type": "leaf"
+                          },
+                          "大于 "
+                        ],
+                        [
+                          "span",
+                          {
+                            "data-type": "leaf"
+                          },
+                          "500,000"
+                        ]
+                      ]
+                    ]
+                  ],
+                  [
+                    "tc",
+                    {
+                      "colSpan": 1,
+                      "rowSpan": 1,
+                      "uuid": "mdobvq65bznzkvvq0dp",
+                      "vAlign": "top"
+                    },
+                    [
+                      "p",
+                      {
+                        "uuid": "mdobvq65opq2o24fdgh"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "text"
+                        },
+                        [
+                          "span",
+                          {
+                            "data-type": "leaf"
+                          },
+                          "100,000,000"
+                        ]
+                      ]
+                    ]
+                  ]
+                ],
+                [
+                  "tr",
+                  {
+                    "uuid": "mdobvq65r7uj4f0ewql"
+                  },
+                  [
+                    "tc",
+                    {
+                      "colSpan": 1,
+                      "rowSpan": 1,
+                      "uuid": "mdobvq656jxkmytc3xf",
+                      "vAlign": "top"
+                    },
+                    [
+                      "p",
+                      {
+                        "uuid": "mdobvq65540r4fgiptq"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "text"
+                        },
+                        [
+                          "span",
+                          {
+                            "data-type": "leaf"
+                          },
+                          "400,000～500,000"
+                        ]
+                      ]
+                    ]
+                  ],
+                  [
+                    "tc",
+                    {
+                      "colSpan": 1,
+                      "rowSpan": 1,
+                      "uuid": "mdobvq6532svtdlp6pk",
+                      "vAlign": "top"
+                    },
+                    [
+                      "p",
+                      {
+                        "uuid": "mdobvq65kzmb78aacc"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "text"
+                        },
+                        [
+                          "span",
+                          {
+                            "data-type": "leaf"
+                          },
+                          "80,000,000"
+                        ]
+                      ]
+                    ]
+                  ]
+                ],
+                [
+                  "tr",
+                  {
+                    "uuid": "mdobzi4it65baz00bvl"
+                  },
+                  [
+                    "tc",
+                    {
+                      "colSpan": 1,
+                      "rowSpan": 1,
+                      "uuid": "mdobzi4ixz4lvwan81p",
+                      "vAlign": "top"
+                    },
+                    [
+                      "p",
+                      {
+                        "uuid": "mdobzi4iqaidd3bqw1"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "text"
+                        },
+                        [
+                          "span",
+                          {
+                            "data-type": "leaf"
+                          },
+                          "200,000～400,000"
+                        ]
+                      ]
+                    ]
+                  ],
+                  [
+                    "tc",
+                    {
+                      "colSpan": 1,
+                      "rowSpan": 1,
+                      "uuid": "mdobzm3s7eyte84xpcj",
+                      "vAlign": "top"
+                    },
+                    [
+                      "p",
+                      {
+                        "uuid": "mdobzm3sqtzzm68nh8o"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "text"
+                        },
+                        [
+                          "span",
+                          {
+                            "data-type": "leaf"
+                          },
+                          "60,000,000"
+                        ]
+                      ]
+                    ]
+                  ]
+                ],
+                [
+                  "tr",
+                  {
+                    "uuid": "mdobzigrf9r033gb6yd",
+                    "h": 44
+                  },
+                  [
+                    "tc",
+                    {
+                      "colSpan": 1,
+                      "rowSpan": 1,
+                      "uuid": "mdobzigr523m90gd2tk",
+                      "vAlign": "top"
+                    },
+                    [
+                      "p",
+                      {
+                        "uuid": "mdobzigrisx9zr4m99h"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "text"
+                        },
+                        [
+                          "span",
+                          {
+                            "data-type": "leaf"
+                          },
+                          "100,000～200,000"
+                        ]
+                      ]
+                    ]
+                  ],
+                  [
+                    "tc",
+                    {
+                      "colSpan": 1,
+                      "rowSpan": 1,
+                      "uuid": "mdobzm3taq5zsa5z7ic",
+                      "vAlign": "top"
+                    },
+                    [
+                      "p",
+                      {
+                        "uuid": "mdobzm3sx57n1136i3k"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "text"
+                        },
+                        [
+                          "span",
+                          {
+                            "data-type": "leaf"
+                          },
+                          "40,000,000"
+                        ]
+                      ]
+                    ]
+                  ]
+                ],
+                [
+                  "tr",
+                  {
+                    "uuid": "mdobzjfofmiv7hmtue9"
+                  },
+                  [
+                    "tc",
+                    {
+                      "colSpan": 1,
+                      "rowSpan": 1,
+                      "uuid": "mdobzjfo26j3kt9u14k",
+                      "vAlign": "top"
+                    },
+                    [
+                      "p",
+                      {
+                        "uuid": "mdobzjfo35rqzq8serj"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "text"
+                        },
+                        [
+                          "span",
+                          {
+                            "data-type": "leaf"
+                          },
+                          "50,000～100,000"
+                        ]
+                      ]
+                    ]
+                  ],
+                  [
+                    "tc",
+                    {
+                      "colSpan": 1,
+                      "rowSpan": 1,
+                      "uuid": "mdobzjfo8br90p5pcm6",
+                      "vAlign": "top"
+                    },
+                    [
+                      "p",
+                      {
+                        "uuid": "mdobzjfokxsejo497f"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "text"
+                        },
+                        [
+                          "span",
+                          {
+                            "data-type": "leaf"
+                          },
+                          "20,000,000"
+                        ]
+                      ]
+                    ]
+                  ]
+                ],
+                [
+                  "tr",
+                  {
+                    "uuid": "mdoc0c1pf4juqqd0j6c"
+                  },
+                  [
+                    "tc",
+                    {
+                      "colSpan": 1,
+                      "rowSpan": 1,
+                      "uuid": "mdoc0c1pjdunh93vst",
+                      "vAlign": "top"
+                    },
+                    [
+                      "p",
+                      {
+                        "uuid": "mdoc0c1ptdgbf4ik49p"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "text"
+                        },
+                        [
+                          "span",
+                          {
+                            "data-type": "leaf"
+                          },
+                          "小于50,000"
+                        ]
+                      ]
+                    ]
+                  ],
+                  [
+                    "tc",
+                    {
+                      "colSpan": 1,
+                      "rowSpan": 1,
+                      "uuid": "mdoc0c1pkao1dl1482",
+                      "vAlign": "top"
+                    },
+                    [
+                      "p",
+                      {
+                        "uuid": "mdoc0c1p8ggkilgz99h"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "text"
+                        },
+                        [
+                          "span",
+                          {
+                            "data-type": "leaf"
+                          },
+                          "0"
+                        ]
+                      ]
+                    ]
+                  ]
+                ]
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mfz1srtn7koch4vy3yx"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ]
+        ],
+        "footers": {},
+        "version": 1
+      },
+      "refs": {}
+    }
+  }
+}

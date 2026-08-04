@@ -1,0 +1,1034 @@
+{
+  "version": 1,
+  "type": "application/x-alidocs-package",
+  "main": "00000000-0000-0000-0000-000000000001",
+  "plugins": "00000000-0000-0000-0000-000000000002",
+  "parts": {
+    "00000000-0000-0000-0000-000000000001": {
+      "id": "00000000-0000-0000-0000-000000000001",
+      "type": "application/x-alidocs-word",
+      "version": 1,
+      "data": {
+        "style": {},
+        "theme": [],
+        "settings": {},
+        "app": {},
+        "numberings": {},
+        "headers": {},
+        "body": [
+          "root",
+          {},
+          [
+            "p",
+            {
+              "uuid": "m95isxwx1ggihykrkld"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "italic": true,
+                  "color": "#D0D0D0",
+                  "data-type": "leaf"
+                },
+                "原语雀文档链接："
+              ]
+            ],
+            [
+              "a",
+              {
+                "href": "https://yuque.antfin.com/chenchun.chen/gqhty9/dga4qodk1we0rk68"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  "https://yuque.antfin.com/chenchun.chen/gqhty9/dga4qodk1we0rk68"
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "hr",
+            {
+              "color": "#D8D8D8",
+              "sz": 2,
+              "type": "single",
+              "width": "100%"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "h5",
+            {},
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "出价类型"
+              ]
+            ]
+          ],
+          [
+            "table",
+            {
+              "colsWidth": [
+                179,
+                113,
+                113,
+                183
+              ]
+            },
+            [
+              "tr",
+              {},
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "hidden": false,
+                  "rowSpan": 1,
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "jc": "center"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 12,
+                        "szUnit": "pt",
+                        "color": "#000000",
+                        "data-type": "leaf"
+                      },
+                      "​"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "hidden": false,
+                  "rowSpan": 1,
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "jc": "center"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 12,
+                        "szUnit": "pt",
+                        "color": "#000000",
+                        "data-type": "leaf"
+                      },
+                      "最大化出价"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "hidden": false,
+                  "rowSpan": 1,
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "jc": "center"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 12,
+                        "szUnit": "pt",
+                        "color": "#000000",
+                        "data-type": "leaf"
+                      },
+                      "自定义出价"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "hidden": false,
+                  "rowSpan": 1,
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "jc": "center"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 12,
+                        "szUnit": "pt",
+                        "color": "#000000",
+                        "data-type": "leaf"
+                      },
+                      "控成本成交、控ROI"
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {},
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "hidden": false,
+                  "rowSpan": 1,
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "jc": "center"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 12,
+                        "szUnit": "pt",
+                        "color": "#000000",
+                        "data-type": "leaf"
+                      },
+                      "可操作性"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "hidden": false,
+                  "rowSpan": 1,
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "jc": "center"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "sz": 12,
+                        "szUnit": "pt",
+                        "color": "#117CEE",
+                        "data-type": "leaf"
+                      },
+                      "低"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "hidden": false,
+                  "rowSpan": 1,
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "jc": "center"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "sz": 12,
+                        "szUnit": "pt",
+                        "color": "#DF2A3F",
+                        "data-type": "leaf"
+                      },
+                      "高"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "hidden": false,
+                  "rowSpan": 1,
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "jc": "center"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "sz": 12,
+                        "szUnit": "pt",
+                        "color": "#ECAA04",
+                        "data-type": "leaf"
+                      },
+                      "一般"
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {},
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "hidden": false,
+                  "rowSpan": 1,
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "jc": "center"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 12,
+                        "szUnit": "pt",
+                        "color": "#000000",
+                        "data-type": "leaf"
+                      },
+                      "短期ppc"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "hidden": false,
+                  "rowSpan": 1,
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "jc": "center"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "sz": 12,
+                        "szUnit": "pt",
+                        "color": "#DF2A3F",
+                        "data-type": "leaf"
+                      },
+                      "高"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "hidden": false,
+                  "rowSpan": 1,
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "jc": "center"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "sz": 12,
+                        "szUnit": "pt",
+                        "color": "#117CEE",
+                        "data-type": "leaf"
+                      },
+                      "低"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "hidden": false,
+                  "rowSpan": 1,
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "jc": "center"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "sz": 12,
+                        "szUnit": "pt",
+                        "color": "#DF2A3F",
+                        "data-type": "leaf"
+                      },
+                      "高"
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {},
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "hidden": false,
+                  "rowSpan": 1,
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "jc": "center"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 12,
+                        "szUnit": "pt",
+                        "color": "#000000",
+                        "data-type": "leaf"
+                      },
+                      "稳定性"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "hidden": false,
+                  "rowSpan": 1,
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "jc": "center"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "sz": 12,
+                        "szUnit": "pt",
+                        "color": "#117CEE",
+                        "data-type": "leaf"
+                      },
+                      "低"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "hidden": false,
+                  "rowSpan": 1,
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "jc": "center"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "sz": 12,
+                        "szUnit": "pt",
+                        "color": "#DF2A3F",
+                        "data-type": "leaf"
+                      },
+                      "高"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "hidden": false,
+                  "rowSpan": 1,
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "jc": "center"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "sz": 12,
+                        "szUnit": "pt",
+                        "color": "#ECAA04",
+                        "data-type": "leaf"
+                      },
+                      "一般"
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {},
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "hidden": false,
+                  "rowSpan": 1,
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "jc": "center"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 12,
+                        "szUnit": "pt",
+                        "color": "#000000",
+                        "data-type": "leaf"
+                      },
+                      "长期ROI"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "hidden": false,
+                  "rowSpan": 1,
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "jc": "center"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "sz": 12,
+                        "szUnit": "pt",
+                        "color": "#DF2A3F",
+                        "data-type": "leaf"
+                      },
+                      "高"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "hidden": false,
+                  "rowSpan": 1,
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "jc": "center"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "sz": 12,
+                        "szUnit": "pt",
+                        "color": "#ECAA04",
+                        "data-type": "leaf"
+                      },
+                      "一般"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "hidden": false,
+                  "rowSpan": 1,
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "jc": "center"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "sz": 12,
+                        "szUnit": "pt",
+                        "color": "#DF2A3F",
+                        "data-type": "leaf"
+                      },
+                      "高"
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {},
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "hidden": false,
+                  "rowSpan": 1,
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "jc": "center"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 12,
+                        "szUnit": "pt",
+                        "color": "#000000",
+                        "data-type": "leaf"
+                      },
+                      "便捷操作"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "hidden": false,
+                  "rowSpan": 1,
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "jc": "center"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "sz": 12,
+                        "szUnit": "pt",
+                        "color": "#DF2A3F",
+                        "data-type": "leaf"
+                      },
+                      "高"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "hidden": false,
+                  "rowSpan": 1,
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "jc": "center"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "sz": 12,
+                        "szUnit": "pt",
+                        "color": "#117CEE",
+                        "data-type": "leaf"
+                      },
+                      "低"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "hidden": false,
+                  "rowSpan": 1,
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "jc": "center"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "sz": 12,
+                        "szUnit": "pt",
+                        "color": "#DF2A3F",
+                        "data-type": "leaf"
+                      },
+                      "高"
+                    ]
+                  ]
+                ]
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "m95isxwyrttlg2tmjuq"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ],
+            [
+              "br",
+              {
+                "type": "textWrapping"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "最大化出价一般适用于商家计划进行收割或者对计划操控要求弱，系统帮助商家调控时段出价，获客维度广，更加便捷。"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {},
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "自定义出价常见于商家对自身产品人群有着充分的了解，商家可以把控预算分配，确保触达到自己想要的人群，商家流量数据稳定性较强，"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {},
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "控成本出价与控roi出价，商家使用的场景较为广泛，系统根据商家设置的数值，去调整人群与资源位的出价，帮助商家达到设置数值的区间，效果较为综合。"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {},
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "h3",
+            {},
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "​"
+              ]
+            ]
+          ]
+        ],
+        "footers": {},
+        "version": 1
+      },
+      "refs": {}
+    }
+  }
+}

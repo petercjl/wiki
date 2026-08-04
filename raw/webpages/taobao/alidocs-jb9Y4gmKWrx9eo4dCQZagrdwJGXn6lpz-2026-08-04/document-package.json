@@ -1,0 +1,1670 @@
+{
+  "version": 1,
+  "type": "application/x-alidocs-package",
+  "main": "00000000-0000-0000-0000-000000000001",
+  "plugins": "00000000-0000-0000-0000-000000000002",
+  "parts": {
+    "00000000-0000-0000-0000-000000000001": {
+      "id": "00000000-0000-0000-0000-000000000001",
+      "type": "application/x-alidocs-word",
+      "version": 1,
+      "data": {
+        "style": {
+          "docDefaults": {
+            "type": "paragraph",
+            "default": 1,
+            "name": "dingdocnormal",
+            "data": {
+              "rPr": {
+                "sz": 12,
+                "szUnit": "pt"
+              },
+              "pPr": {
+                "spacing": {
+                  "before": 12,
+                  "after": 12
+                }
+              }
+            }
+          },
+          "tableDefault": {
+            "type": "table",
+            "data": {
+              "tblPr": {
+                "bdr": {
+                  "bottom": {
+                    "color": "#D6D6D6",
+                    "space": 0,
+                    "sz": 1,
+                    "val": "single"
+                  },
+                  "insideH": {
+                    "color": "#D6D6D6",
+                    "space": 0,
+                    "sz": 1,
+                    "val": "single"
+                  },
+                  "insideV": {
+                    "color": "#D6D6D6",
+                    "space": 0,
+                    "sz": 1,
+                    "val": "single"
+                  },
+                  "left": {
+                    "color": "#D6D6D6",
+                    "space": 0,
+                    "sz": 1,
+                    "val": "single"
+                  },
+                  "right": {
+                    "color": "#D6D6D6",
+                    "space": 0,
+                    "sz": 1,
+                    "val": "single"
+                  },
+                  "top": {
+                    "color": "#D6D6D6",
+                    "space": 0,
+                    "sz": 1,
+                    "val": "single"
+                  }
+                }
+              }
+            }
+          },
+          "tableHeader": {
+            "type": "table",
+            "basedOn": "tableDefault",
+            "data": {
+              "tblStylePr": [
+                {
+                  "type": "firstRow",
+                  "tcPr": {
+                    "shd": {
+                      "fill": "#F5F6F7"
+                    }
+                  }
+                },
+                {
+                  "type": "firstCol",
+                  "tcPr": {
+                    "shd": {
+                      "fill": "#F5F6F7"
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        "theme": [],
+        "settings": {
+          "titleCover": {
+            "isHide": true
+          }
+        },
+        "app": {},
+        "numberings": {},
+        "headers": {},
+        "body": [
+          "root",
+          {
+            "sectPr": {
+              "pgSz": {
+                "w": 892,
+                "h": 1127
+              },
+              "pgMar": {
+                "top": 48,
+                "bottom": 48,
+                "left": 72,
+                "right": 72,
+                "header": 56.73,
+                "footer": 66.13,
+                "gutter": 0
+              }
+            },
+            "theme": {
+              "table": {
+                "tableCell": {
+                  "vAlign": "top"
+                }
+              }
+            }
+          },
+          [
+            "h2",
+            {
+              "uuid": "mmeh6pwma8k6rn91cn",
+              "spacing": {
+                "before": 28,
+                "after": 10,
+                "line": 0.9333333333333332
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 18,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "一、千牛无线端推广入口"
+              ]
+            ]
+          ],
+          [
+            "h3",
+            {
+              "uuid": "mmei01dvj0mdu7dh4a9",
+              "spacing": {
+                "before": 24,
+                "after": 8.666666666666666,
+                "line": 0.9333333333333332
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 14.5,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "线索推广计划创建"
+              ]
+            ]
+          ],
+          [
+            "table",
+            {
+              "colsWidth": [
+                150,
+                150,
+                150,
+                149,
+                148
+              ],
+              "styleId": "tableHeader",
+              "tblLook": {
+                "firstColumn": 0,
+                "firstRow": 1,
+                "lastColumn": 0,
+                "lastRow": 0
+              },
+              "uuid": "mfqhfacrcumdwdmf5nm",
+              "tblW": {
+                "w": 100,
+                "type": "pct"
+              }
+            },
+            [
+              "tr",
+              {
+                "uuid": "mfqhfacq1z9xajl7h3i",
+                "isTblHeader": true,
+                "h": 47
+              },
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mfqhfacqavdbpdd0rma",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mfqhfacqap809astcv"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "sz": 14,
+                        "szUnit": "pt",
+                        "color": "",
+                        "data-type": "leaf"
+                      },
+                      "入口一"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 2,
+                  "rowSpan": 1,
+                  "uuid": "mmehfxuk2eptnzp4k7",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mmehfxukeo0igv0lnl6"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "sz": 14,
+                        "szUnit": "pt",
+                        "color": "",
+                        "data-type": "leaf"
+                      },
+                      "入口二"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mmehfyr5rjsln3nud0s",
+                  "hidden": true,
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mmehfyr5w7an2okqa1m"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 2,
+                  "rowSpan": 1,
+                  "uuid": "mmehtwi3r38pjh2w2o",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mmehtwi3t2zwlfrhvie"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "sz": 14,
+                        "szUnit": "pt",
+                        "color": "",
+                        "data-type": "leaf"
+                      },
+                      "入口三"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mmehuxhyy7sxlmwx9n",
+                  "hidden": true,
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mmehuxhyyfgqz7xre9"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {
+                "uuid": "mg38jeh3zqc9cxskz9k"
+              },
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mg38jeh3d8kf9fevbvw",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mg38jeh3sxteazulofe"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "点击边看边投-"
+                    ],
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "data-type": "leaf"
+                      },
+                      "线索推广广告"
+                    ],
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "直接进入线索场域"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mmehfxuldejo8a95qe5",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mmehfxulx83vxk9hale"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "点击首页中的“"
+                    ],
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "data-type": "leaf"
+                      },
+                      "+创建计划"
+                    ],
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "”"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mmehfyr56vs25m5n6x9",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mmehfyr5t72mhts2tqj"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "右滑找到"
+                    ],
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "data-type": "leaf"
+                      },
+                      "线索推广"
+                    ],
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "点击进入"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mmehtwi394l0goy7a0h",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mmehtwi36kco4uy1gdf"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "点击下方"
+                    ],
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "data-type": "leaf"
+                      },
+                      "创建"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mmehuxhzvac2jbbbtxm",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mmehuxhzhh2onaf3d4"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "右滑找到"
+                    ],
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "data-type": "leaf"
+                      },
+                      "线索推广"
+                    ],
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "点击进入"
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {
+                "uuid": "mfqhfacr4wnwumnf9c",
+                "h": 318
+              },
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mfqhfacq5td4czz7wo8",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mfqhfacqitrrvhdf0oi"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "sz": 21,
+                        "szUnit": "pt",
+                        "color": "",
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ],
+                  [
+                    "img",
+                    {
+                      "uuid": "mmemjylf1h1slaivutq",
+                      "name": "image.png",
+                      "size": 235894,
+                      "width": 167,
+                      "height": 369.24913494809687,
+                      "src": "/core/api/resources/img/5eecdaf48460cde5d98c1f822886e0fb8f65d9608924850375b8339e1c4c2483d73fcbd75708105f8d68742cd653602afa4cc552274ccc0302de6d360f7f4e67867f2241e35781dadee2fce86e78f54af722768aa40324d8f67ee1afcf83fb5f",
+                      "extraData": {
+                        "resourceId": "4025cbf1-b873-4cee-ac25-a5106d9d31fa",
+                        "metaData": {
+                          "size": 235894,
+                          "originWidth": 289,
+                          "originHeight": 639,
+                          "format": "png",
+                          "ratio": 1
+                        }
+                      },
+                      "rotation": 0
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "leaf"
+                        },
+                        ""
+                      ]
+                    ]
+                  ],
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "sz": 21,
+                        "szUnit": "pt",
+                        "color": "",
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mmehfxul2tg8x3a032o",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mmehfxulbpdtx7zqc4l"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ],
+                  [
+                    "img",
+                    {
+                      "uuid": "mmemjylfqn3600d22x",
+                      "name": "image.png",
+                      "size": 331062,
+                      "width": 170,
+                      "height": 359.15897643917117,
+                      "src": "/core/api/resources/img/5eecdaf48460cde5d98c1f822886e0fb8f65d9608924850375b8339e1c4c2483d73fcbd75708105f8d68742cd653602a473a1bc8310192c01bccf5ddcabbc3a5f7e6418f0a88dd39954b9218182c62ef580419048cba1ad372bb49369144a437",
+                      "extraData": {
+                        "resourceId": "e2dfb19c-a795-4ca7-a055-31121b2a2058",
+                        "metaData": {
+                          "size": 331062,
+                          "originWidth": 355,
+                          "originHeight": 750,
+                          "format": "png",
+                          "ratio": 1
+                        }
+                      }
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "leaf"
+                        },
+                        ""
+                      ]
+                    ]
+                  ],
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mmehfyr6ku796xpu4xm",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mmehfyr6ryli29euz2p"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ],
+                  [
+                    "img",
+                    {
+                      "uuid": "mmemjylfpcpfbrmdac",
+                      "name": "image.png",
+                      "size": 244033,
+                      "width": 170,
+                      "height": 358.04679381892544,
+                      "src": "/core/api/resources/img/5eecdaf48460cde5d98c1f822886e0fb8f65d9608924850375b8339e1c4c2483d73fcbd75708105f8d68742cd653602a822951806323f8960f6f1c876007318bd90dc140f706b73fa89fae8d4ab45940f6b10ce1ebab6de8e85d3f1206a8cf97",
+                      "extraData": {
+                        "resourceId": "2b92cbe0-6a3b-46f1-bbd7-2948882e5797",
+                        "metaData": {
+                          "size": 244033,
+                          "originWidth": 358,
+                          "originHeight": 754,
+                          "format": "png",
+                          "ratio": 1
+                        }
+                      }
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "leaf"
+                        },
+                        ""
+                      ]
+                    ]
+                  ],
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mmehtwi4hamyfn7h4q",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mmehtwi49bz3d729r8"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ],
+                  [
+                    "img",
+                    {
+                      "uuid": "mmemjylfr0uplow2m5r",
+                      "name": "image.png",
+                      "size": 339575,
+                      "width": 132,
+                      "height": 285.48448941552385,
+                      "src": "/core/api/resources/img/5eecdaf48460cde5d98c1f822886e0fb8f65d9608924850375b8339e1c4c2483d73fcbd75708105f8d68742cd653602a7a5c135778ee098ca9e2a787cbee178177bd74e224aae23fd4ceb33f999ae7655237b9aca5efc3d422af7b36f2dab9c3",
+                      "extraData": {
+                        "resourceId": "9d9cd986-48ee-4b66-ad88-f9b4e48b69a3",
+                        "metaData": {
+                          "size": 339575,
+                          "originWidth": 338,
+                          "originHeight": 731,
+                          "format": "png",
+                          "ratio": 1
+                        }
+                      }
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "leaf"
+                        },
+                        ""
+                      ]
+                    ]
+                  ],
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mmehuxhzo59lf4l2xo",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mmehuxhzh98lauj6cud"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ],
+                  [
+                    "img",
+                    {
+                      "uuid": "mmemjylfdh6m1hafwb",
+                      "name": "image.png",
+                      "size": 244033,
+                      "width": 170,
+                      "height": 358.04679381892544,
+                      "src": "/core/api/resources/img/5eecdaf48460cde5d98c1f822886e0fb8f65d9608924850375b8339e1c4c2483d73fcbd75708105f8d68742cd653602a822951806323f8960f6f1c876007318bd90dc140f706b73fa89fae8d4ab45940f6b10ce1ebab6de8e85d3f1206a8cf97",
+                      "extraData": {
+                        "resourceId": "2b92cbe0-6a3b-46f1-bbd7-2948882e5797",
+                        "metaData": {
+                          "size": 244033,
+                          "originWidth": 358,
+                          "originHeight": 754,
+                          "format": "png",
+                          "ratio": 1
+                        }
+                      }
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "leaf"
+                        },
+                        ""
+                      ]
+                    ]
+                  ],
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ]
+                ]
+              ]
+            ]
+          ],
+          [
+            "h2",
+            {
+              "uuid": "mmei0p62lyxr5domkj",
+              "spacing": {
+                "before": 28,
+                "after": 10,
+                "line": 0.9333333333333332
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 18,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "二、计划管理"
+              ]
+            ]
+          ],
+          [
+            "h3",
+            {
+              "ind": {
+                "left": 0
+              },
+              "uuid": "mmei1phto9afb6sy05",
+              "spacing": {
+                "before": 24,
+                "after": 8.666666666666666,
+                "line": 0.9333333333333332
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 14.5,
+                  "szUnit": "pt",
+                  "color": "rgb(24, 28, 31)",
+                  "data-type": "leaf"
+                },
+                "计划管理支持查看并修改所有在线索推广场景下的存量计划，包括PC端历史创建的计划"
+              ]
+            ]
+          ],
+          [
+            "table",
+            {
+              "colsWidth": [
+                300
+              ],
+              "styleId": "tableHeader",
+              "tblLook": {
+                "firstColumn": 0,
+                "firstRow": 1,
+                "lastColumn": 0,
+                "lastRow": 0
+              },
+              "uuid": "mmei2r7riy1g28bfelf"
+            },
+            [
+              "tr",
+              {
+                "uuid": "mmei2r7rjod9wth98q",
+                "isTblHeader": true,
+                "h": 50
+              },
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mmei2r7rq13ys55sxpd",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mmei2r7rip9xc15uad"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "sz": 14,
+                        "szUnit": "pt",
+                        "color": "",
+                        "data-type": "leaf"
+                      },
+                      "入口"
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {
+                "uuid": "mmei2r7rlwf07b0a85a",
+                "h": 41
+              },
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mmei2r7rhaq7u3ua1mk",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mmei2r7r57xb155o9dq"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "点击下方"
+                    ],
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "data-type": "leaf"
+                      },
+                      "管理"
+                    ],
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "进入计划管理-—右滑点击"
+                    ],
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "data-type": "leaf"
+                      },
+                      "线索推广"
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {
+                "uuid": "mmei2r7raud93d7gux7",
+                "h": 633
+              },
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mmei2r7rdxw06no3trd",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mmei2r7rfhnlt1atjib"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ],
+                  [
+                    "img",
+                    {
+                      "uuid": "mmemjylgr2pbz53oe9g",
+                      "name": "image.png",
+                      "size": 270958,
+                      "width": 279,
+                      "height": 609,
+                      "src": "/core/api/resources/img/5eecdaf48460cde5d98c1f822886e0fb8f65d9608924850375b8339e1c4c2483d73fcbd75708105f8d68742cd653602a7a5c135778ee098cf35a93916308fda4cc9599c21d2a0f819ac635e96da399573887f58e1c2ab6bd4def32b653e0080d",
+                      "extraData": {
+                        "resourceId": "90a77a7b-9732-4f0f-bd96-3bb8f47f7c54",
+                        "metaData": {
+                          "size": 270958,
+                          "originWidth": 318,
+                          "originHeight": 694,
+                          "format": "png",
+                          "ratio": 1
+                        }
+                      },
+                      "rotation": 0
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "leaf"
+                        },
+                        ""
+                      ]
+                    ]
+                  ],
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ]
+                ]
+              ]
+            ]
+          ],
+          [
+            "h2",
+            {
+              "uuid": "mmeiggymyva7rj0mr9",
+              "spacing": {
+                "before": 28,
+                "after": 10,
+                "line": 0.9333333333333332
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 18,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "三、报表数据"
+              ]
+            ]
+          ],
+          [
+            "h3",
+            {
+              "ind": {
+                "left": 0
+              },
+              "uuid": "mmejgjl1qmjwxj8l7wl",
+              "spacing": {
+                "before": 24,
+                "after": 8.666666666666666,
+                "line": 0.9333333333333332
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 14.5,
+                  "szUnit": "pt",
+                  "color": "rgb(24, 28, 31)",
+                  "data-type": "leaf"
+                },
+                "报表数据查询支持在账户花费总览下点击“线索推广”进入，查看该场景下的消耗数据"
+              ]
+            ]
+          ],
+          [
+            "table",
+            {
+              "colsWidth": [
+                300,
+                300
+              ],
+              "styleId": "tableHeader",
+              "tblLook": {
+                "firstColumn": 0,
+                "firstRow": 1,
+                "lastColumn": 0,
+                "lastRow": 0
+              },
+              "uuid": "mmeishb4f602w001q6k"
+            },
+            [
+              "tr",
+              {
+                "uuid": "mmeishb4yv3lpw2gu1",
+                "isTblHeader": true,
+                "h": 50
+              },
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mmeishb4clfb97oblu9",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mmeishb4uq0tle194t"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "sz": 14,
+                        "szUnit": "pt",
+                        "color": "",
+                        "data-type": "leaf"
+                      },
+                      "入口一"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mmeiv0tcfz9ckid4lm",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mmeiv0tch9aoymmmhq"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "sz": 14,
+                        "szUnit": "pt",
+                        "color": "",
+                        "data-type": "leaf"
+                      },
+                      "入口二"
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {
+                "uuid": "mmeishb4o72y4kvdx9e",
+                "h": 41
+              },
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mmeishb405nub518or45",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mmeishb43sdcn14nyg8"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "点击下方"
+                    ],
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "data-type": "leaf"
+                      },
+                      "报表"
+                    ],
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "进入—点击账户花费总览\""
+                    ],
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "data-type": "leaf"
+                      },
+                      "线索推广\""
+                    ],
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "查询"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mmeiv0teebxh6gkmkfj",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mmeiv0tez5jypwb5wxj"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "点击下方"
+                    ],
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "data-type": "leaf"
+                      },
+                      "报表"
+                    ],
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "进入—右滑找到\""
+                    ],
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "data-type": "leaf"
+                      },
+                      "线索推广\"点击"
+                    ],
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "查询"
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {
+                "uuid": "mmeishb4q8j5oqhzq5a",
+                "h": 612
+              },
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mmeishb4ekf98enure",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mmeishb4qlkqjv4qhbc"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ],
+                  [
+                    "img",
+                    {
+                      "uuid": "mmemjylgn127pipf8sd",
+                      "name": "image.png",
+                      "size": 301426,
+                      "width": 307,
+                      "height": 638.676122931442,
+                      "src": "/core/api/resources/img/5eecdaf48460cde5d98c1f822886e0fb8f65d9608924850375b8339e1c4c2483d73fcbd75708105f8d68742cd653602a6d6e809e475597e6bd3525137d97fa343be488c992342d4e0cec12667a114931230b322460fc2b4d0da32af9896ca87e",
+                      "extraData": {
+                        "resourceId": "cd3ab900-7a56-4f01-aee6-3476d3fcf9f8",
+                        "metaData": {
+                          "size": 301426,
+                          "originWidth": 423,
+                          "originHeight": 880,
+                          "format": "png",
+                          "ratio": 1
+                        }
+                      },
+                      "rotation": 0
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "leaf"
+                        },
+                        ""
+                      ]
+                    ]
+                  ],
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mmeiv0te4svf9w11a8w",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mmeiv0teoqc6l3sbh2"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ],
+                  [
+                    "img",
+                    {
+                      "uuid": "mmemjylg256cf4e9eu2",
+                      "name": "image.png",
+                      "size": 316466,
+                      "width": 283,
+                      "height": 569.2830626450116,
+                      "src": "/core/api/resources/img/5eecdaf48460cde5d98c1f822886e0fb8f65d9608924850375b8339e1c4c2483d73fcbd75708105f8d68742cd653602afa4cc552274ccc030c29600d2896d0cb4403acff6b9d34ad9a991f6d299c2c74847f7be2395adbf3868dbb36e83d431d",
+                      "extraData": {
+                        "resourceId": "44cad60a-41e7-410c-86a8-3d9c0424d7e4",
+                        "metaData": {
+                          "size": 316466,
+                          "originWidth": 431,
+                          "originHeight": 867,
+                          "format": "png",
+                          "ratio": 1
+                        }
+                      }
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "leaf"
+                        },
+                        ""
+                      ]
+                    ]
+                  ],
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ]
+                ]
+              ]
+            ]
+          ]
+        ],
+        "footers": {},
+        "version": 1
+      },
+      "refs": {}
+    }
+  }
+}

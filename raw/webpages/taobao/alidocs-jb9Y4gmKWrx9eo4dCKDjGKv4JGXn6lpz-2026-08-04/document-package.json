@@ -1,0 +1,4582 @@
+{
+  "version": 1,
+  "type": "application/x-alidocs-package",
+  "main": "00000000-0000-0000-0000-000000000001",
+  "plugins": "00000000-0000-0000-0000-000000000002",
+  "parts": {
+    "00000000-0000-0000-0000-000000000001": {
+      "id": "00000000-0000-0000-0000-000000000001",
+      "type": "application/x-alidocs-word",
+      "version": 1,
+      "data": {
+        "style": {
+          "tableDefault": {
+            "type": "table",
+            "data": {
+              "tblPr": {
+                "bdr": {
+                  "bottom": {
+                    "color": "#D6D6D6",
+                    "space": 0,
+                    "sz": 1,
+                    "val": "single"
+                  },
+                  "insideH": {
+                    "color": "#D6D6D6",
+                    "space": 0,
+                    "sz": 1,
+                    "val": "single"
+                  },
+                  "insideV": {
+                    "color": "#D6D6D6",
+                    "space": 0,
+                    "sz": 1,
+                    "val": "single"
+                  },
+                  "left": {
+                    "color": "#D6D6D6",
+                    "space": 0,
+                    "sz": 1,
+                    "val": "single"
+                  },
+                  "right": {
+                    "color": "#D6D6D6",
+                    "space": 0,
+                    "sz": 1,
+                    "val": "single"
+                  },
+                  "top": {
+                    "color": "#D6D6D6",
+                    "space": 0,
+                    "sz": 1,
+                    "val": "single"
+                  }
+                }
+              }
+            }
+          },
+          "tableHeader": {
+            "type": "table",
+            "basedOn": "tableDefault",
+            "data": {
+              "tblStylePr": [
+                {
+                  "type": "firstRow",
+                  "tcPr": {
+                    "shd": {
+                      "fill": "#F5F6F7"
+                    }
+                  }
+                },
+                {
+                  "type": "firstCol",
+                  "tcPr": {
+                    "shd": {
+                      "fill": "#F5F6F7"
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        "theme": [],
+        "settings": {},
+        "app": {},
+        "numberings": {},
+        "headers": {},
+        "body": [
+          "root",
+          {
+            "sectPr": {
+              "pgSz": {
+                "w": 1127,
+                "h": 1588
+              },
+              "pgMar": {
+                "top": 96,
+                "bottom": 96,
+                "left": 72,
+                "right": 72,
+                "header": 56.73,
+                "footer": 66.13,
+                "gutter": 0
+              }
+            },
+            "uuid": "m7a6zst2ohmpf2py91b"
+          },
+          [
+            "p",
+            {
+              "uuid": "m7a6z1i0pbe2qnoks4",
+              "jc": "justify"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 14,
+                  "szUnit": "pt",
+                  "color": "linear-gradient(152deg, #C676FF 0%, #654CFF 41%, #405EFF 75%, #007FFF 99%)",
+                  "data-type": "leaf"
+                },
+                "「AI效果智达」"
+              ],
+              [
+                "span",
+                {
+                  "sz": 14,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "是平台对货品全站推"
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 14,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "控投产比投放"
+              ],
+              [
+                "span",
+                {
+                  "sz": 14,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "计划提升效果达成交付的一项能力，系统通过AI生成式出价模型，更智能地优化投放效果达成，使得计划实际投产比更接近商家设置的目标投产比。"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mgpwtl72nfeet2a91i",
+              "jc": "justify"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 14,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mgpwtlykupdyk31mdg",
+              "jc": "justify"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 14,
+                  "szUnit": "pt",
+                  "color": "#FE0300",
+                  "data-type": "leaf"
+                },
+                "NEW"
+              ],
+              [
+                "span",
+                {
+                  "sz": 14,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "全店模式已全量升级"
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 14,
+                  "szUnit": "pt",
+                  "color": "linear-gradient(152deg, #C676FF 0%, #654CFF 41%, #405EFF 75%, #007FFF 99%)",
+                  "data-type": "leaf"
+                },
+                "AI效果智达"
+              ]
+            ]
+          ],
+          [
+            "container",
+            {
+              "subType": "colorBlocks",
+              "metadata": {
+                "padding": {
+                  "top": 11,
+                  "right": 11,
+                  "bottom": 11,
+                  "left": 11
+                },
+                "borderRadius": 8,
+                "sticker": "气泡",
+                "bgcolor": "#B7DCFB",
+                "showstk": false,
+                "border": null
+              },
+              "uuid": "m7a6zdxhjjzlzjd6vho"
+            },
+            [
+              "p",
+              {
+                "ind": {
+                  "left": 0
+                },
+                "uuid": "m7a6zua1fnv6xffygh9"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "bold": true,
+                    "sz": 14,
+                    "szUnit": "pt",
+                    "data-type": "leaf"
+                  },
+                  "升级点在哪？  "
+                ]
+              ]
+            ],
+            [
+              "p",
+              {
+                "uuid": "m7sqrjl2yengdoku8ao",
+                "ind": {
+                  "left": 0
+                },
+                "list": {
+                  "listId": "u3j991urkcb",
+                  "level": 0,
+                  "isTaskList": false,
+                  "isOrdered": false,
+                  "listStyleType": "SCIR_ECIR_SREC",
+                  "symbolStyle": {
+                    "sz": 14,
+                    "color": ""
+                  },
+                  "listStyle": {
+                    "format": "bullet",
+                    "text": "●",
+                    "align": "left"
+                  }
+                }
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "sz": 14,
+                    "szUnit": "pt",
+                    "color": "",
+                    "data-type": "leaf"
+                  },
+                  "系统通过AI生成式出价模型，更智能的优化投放效果达成，"
+                ],
+                [
+                  "span",
+                  {
+                    "bold": true,
+                    "sz": 14,
+                    "szUnit": "pt",
+                    "color": "",
+                    "data-type": "leaf"
+                  },
+                  "实现ROI的更稳定交付"
+                ],
+                [
+                  "span",
+                  {
+                    "sz": 14,
+                    "szUnit": "pt",
+                    "color": "",
+                    "data-type": "leaf"
+                  },
+                  "，计划实际投产比更接近商家设置的目标投产比，推广效果更有确定性（升级对控投产比投放生效，对最大化拿量不生效；一键起量计划对控投产比的基础预算生效，对起量预算不生效）。"
+                ]
+              ]
+            ],
+            [
+              "p",
+              {
+                "uuid": "m7sqrjl2epb6qfgtanc",
+                "ind": {
+                  "left": 0
+                },
+                "list": {
+                  "listId": "u3j991urkcb",
+                  "level": 0,
+                  "isTaskList": false,
+                  "isOrdered": false,
+                  "listStyleType": "SCIR_ECIR_SREC",
+                  "symbolStyle": {
+                    "sz": 14,
+                    "color": ""
+                  },
+                  "listStyle": {
+                    "format": "bullet",
+                    "text": "●",
+                    "align": "left"
+                  }
+                }
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "sz": 14,
+                    "szUnit": "pt",
+                    "color": "",
+                    "data-type": "leaf"
+                  },
+                  "将推广"
+                ],
+                [
+                  "span",
+                  {
+                    "bold": true,
+                    "sz": 14,
+                    "szUnit": "pt",
+                    "color": "",
+                    "data-type": "leaf"
+                  },
+                  "成交记录在转化当天"
+                ],
+                [
+                  "span",
+                  {
+                    "sz": 14,
+                    "szUnit": "pt",
+                    "color": "",
+                    "data-type": "leaf"
+                  },
+                  "，投放效果无需等待多天，实现天与天之间对比"
+                ]
+              ]
+            ],
+            [
+              "p",
+              {
+                "uuid": "mb4hrx8fdm8ixhp613t",
+                "ind": {
+                  "left": 0
+                },
+                "jc": "center"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "sz": 14,
+                    "szUnit": "pt",
+                    "color": "",
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ],
+              [
+                "img",
+                {
+                  "uuid": "6ypvfg",
+                  "name": "image.png",
+                  "size": 3254376,
+                  "width": 910,
+                  "height": 511.875,
+                  "src": "/core/api/resources/img/5eecdaf48460cde5129eedd7b1a69daf5f518d03f3a0892f58e70b814913bc360a414d3de9277d871abf3af1cbd75249a8ecae047ee56b4d8af0f8098bfa696d67cd981e35a6574fc2e0fae0a5f85766533fe3c7ca1aa8c2fc653b69905bac42",
+                  "extraData": {
+                    "resourceId": "02e9828f-d884-4868-8f33-aa881297d438",
+                    "metaData": {
+                      "size": 3254376,
+                      "originWidth": 3840,
+                      "originHeight": 2160,
+                      "format": "png",
+                      "ratio": 1
+                    }
+                  }
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "text"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "leaf"
+                    },
+                    ""
+                  ]
+                ]
+              ],
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "sz": 14,
+                    "szUnit": "pt",
+                    "color": "",
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ]
+            ],
+            [
+              "p",
+              {
+                "uuid": "m7sqrjl24h2v5ody9rs"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "sz": 14,
+                    "szUnit": "pt",
+                    "color": "",
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ]
+            ],
+            [
+              "p",
+              {
+                "ind": {
+                  "left": 0
+                },
+                "uuid": "m7a6zua2lswpw0zoom"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "bold": true,
+                    "sz": 14,
+                    "szUnit": "pt",
+                    "data-type": "leaf"
+                  },
+                  "商家需要做什么？"
+                ]
+              ]
+            ],
+            [
+              "p",
+              {
+                "uuid": "m7sqt7zyrzrxt3usdhs",
+                "ind": {
+                  "left": 0
+                },
+                "list": {
+                  "listId": "93mkw923rp",
+                  "level": 0,
+                  "isTaskList": false,
+                  "isOrdered": false,
+                  "listStyleType": "SCIR_ECIR_SREC",
+                  "symbolStyle": {
+                    "sz": 14,
+                    "color": "rgb(0, 0, 0)"
+                  },
+                  "listStyle": {
+                    "format": "bullet",
+                    "text": "●",
+                    "align": "left"
+                  }
+                }
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "sz": 14,
+                    "szUnit": "pt",
+                    "color": "rgb(0, 0, 0)",
+                    "data-type": "leaf"
+                  },
+                  "需要保持计划"
+                ],
+                [
+                  "span",
+                  {
+                    "bold": true,
+                    "highlight": "#FCC102",
+                    "sz": 14,
+                    "szUnit": "pt",
+                    "color": "rgb(0, 0, 0)",
+                    "data-type": "leaf"
+                  },
+                  "持续稳定投放"
+                ],
+                [
+                  "span",
+                  {
+                    "sz": 14,
+                    "szUnit": "pt",
+                    "color": "rgb(0, 0, 0)",
+                    "data-type": "leaf"
+                  },
+                  "，系统自动升级控投产比投放计划的效果达成能力，使得实际投产比更接近您设置的目标投产比；"
+                ]
+              ]
+            ],
+            [
+              "p",
+              {
+                "uuid": "m7sqt7zy8mvf5lrle06",
+                "ind": {
+                  "left": 0
+                },
+                "list": {
+                  "listId": "93mkw923rp",
+                  "level": 0,
+                  "isTaskList": false,
+                  "isOrdered": false,
+                  "listStyleType": "SCIR_ECIR_SREC",
+                  "symbolStyle": {
+                    "sz": 14,
+                    "color": "rgb(0, 0, 0)"
+                  },
+                  "listStyle": {
+                    "format": "bullet",
+                    "text": "●",
+                    "align": "left"
+                  }
+                }
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "sz": 14,
+                    "szUnit": "pt",
+                    "color": "rgb(0, 0, 0)",
+                    "data-type": "leaf"
+                  },
+                  "请您"
+                ],
+                [
+                  "span",
+                  {
+                    "bold": true,
+                    "highlight": "#FCC102",
+                    "sz": 14,
+                    "szUnit": "pt",
+                    "color": "rgb(0, 0, 0)",
+                    "data-type": "leaf"
+                  },
+                  "积极提升计划日预算和出价"
+                ],
+                [
+                  "span",
+                  {
+                    "sz": 14,
+                    "szUnit": "pt",
+                    "color": "rgb(0, 0, 0)",
+                    "data-type": "leaf"
+                  },
+                  "，充足的预算和有竞争力的出价，利于系统持续稳定优化投放效果"
+                ]
+              ]
+            ],
+            [
+              "p",
+              {
+                "ind": {
+                  "left": 0
+                },
+                "uuid": "m7a6zua26oolnve0wgp"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "sz": 14,
+                    "szUnit": "pt",
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ]
+            ],
+            [
+              "p",
+              {
+                "ind": {
+                  "left": 0
+                },
+                "uuid": "m7a6zua3s0ez7ycd6q"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "bold": true,
+                    "sz": 14,
+                    "szUnit": "pt",
+                    "data-type": "leaf"
+                  },
+                  "商家案例"
+                ]
+              ]
+            ],
+            [
+              "p",
+              {
+                "uuid": "m7sqtftufgk382c1gmb",
+                "ind": {
+                  "left": 0
+                },
+                "list": {
+                  "listId": "b1u9dyc992h",
+                  "level": 0,
+                  "isTaskList": false,
+                  "isOrdered": false,
+                  "listStyleType": "SCIR_ECIR_SREC",
+                  "symbolStyle": {
+                    "sz": 14,
+                    "color": "rgb(0, 0, 0)"
+                  },
+                  "listStyle": {
+                    "format": "bullet",
+                    "text": "●",
+                    "align": "left"
+                  }
+                }
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "sz": 14,
+                    "szUnit": "pt",
+                    "color": "rgb(0, 0, 0)",
+                    "data-type": "leaf"
+                  },
+                  "某快消行业商家，在系统升级"
+                ],
+                [
+                  "span",
+                  {
+                    "bold": true,
+                    "sz": 14,
+                    "szUnit": "pt",
+                    "color": "linear-gradient(152deg, #C676FF 0%, #654CFF 41%, #405EFF 75%, #007FFF 99%)",
+                    "data-type": "leaf"
+                  },
+                  "「AI效果智达」"
+                ],
+                [
+                  "span",
+                  {
+                    "sz": 14,
+                    "szUnit": "pt",
+                    "color": "rgb(0, 0, 0)",
+                    "data-type": "leaf"
+                  },
+                  "后，计划当日的实际ROI达成提升明显，商家"
+                ],
+                [
+                  "span",
+                  {
+                    "bold": true,
+                    "highlight": "#FCC102",
+                    "sz": 14,
+                    "szUnit": "pt",
+                    "color": "rgb(0, 0, 0)",
+                    "data-type": "leaf"
+                  },
+                  "积极追加计划预算，合理提升出价"
+                ],
+                [
+                  "span",
+                  {
+                    "sz": 14,
+                    "szUnit": "pt",
+                    "color": "rgb(0, 0, 0)",
+                    "data-type": "leaf"
+                  },
+                  "，账户日均拿量及成交金额提升30%+"
+                ]
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "m7sr3uz3a0cb0lqo9ym"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mb4hrmvevp26u8i02ok"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {},
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "​"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {},
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 16,
+                  "szUnit": "pt",
+                  "color": "linear-gradient(152deg, #C676FF 0%, #654CFF 41%, #405EFF 75%, #007FFF 99%)",
+                  "data-type": "leaf"
+                },
+                "数据展示调整"
+              ]
+            ]
+          ],
+          [
+            "table",
+            {
+              "colsWidth": [
+                195,
+                939
+              ],
+              "uuid": "m7wwyud8kit8svier3h"
+            },
+            [
+              "tr",
+              {},
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "hidden": false,
+                  "rowSpan": 1,
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "jc": "left"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "sz": 12,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      "位置"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "hidden": false,
+                  "rowSpan": 1,
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "jc": "left"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "sz": 12,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      "变化"
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {},
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "hidden": false,
+                  "rowSpan": 1,
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "jc": "left"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "sz": 12,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      "万相台无界-首页"
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "jc": "left"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "sz": 12,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      "万相台无界-营销场景报表"
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "jc": "left"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "sz": 12,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      "货品全站推广-结案报表"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "hidden": false,
+                  "rowSpan": 1,
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "jc": "left"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "sz": 12,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      "转化统计方式新增「按转化时间」"
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "jc": "left"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "sz": 12,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      "货品全站推广的详细数据及结案报表，建议用「按转化时间」口径，成交、加购收藏等深度行为转化数据记录在转化产生当天，方便天与天对比，无需多天归因等待"
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {},
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 12,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "list": {
+                      "isChecked": false,
+                      "isOrdered": false,
+                      "isTaskList": false,
+                      "level": 0,
+                      "listId": "list0",
+                      "listStyle": {
+                        "align": "left",
+                        "format": "bullet",
+                        "text": "●"
+                      }
+                    }
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "sz": 12,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      "按点击时间：系统追溯推广效果（如成交）对应的末次推广点击，并将推广效果（如成交）记录在点击发生时间"
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "list": {
+                      "isChecked": false,
+                      "isOrdered": false,
+                      "isTaskList": false,
+                      "level": 0,
+                      "listId": "list0",
+                      "listStyle": {
+                        "align": "left",
+                        "format": "bullet",
+                        "text": "●"
+                      }
+                    }
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "sz": 12,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      "按转化时间：系统追溯推广效果（如成交）对应的末次推广点击，并将推广效果（如成交）记录在转化产生时间"
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "jc": "left"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 12,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ],
+                  [
+                    "img",
+                    {
+                      "uuid": "9xfpsu",
+                      "name": "image.png",
+                      "size": 301935,
+                      "width": 845.33,
+                      "height": 554,
+                      "src": "/core/api/resources/img/5eecdaf48460cde5129eedd7b1a69daf5f518d03f3a0892f58e70b814913bc360a414d3de9277d871abf3af1cbd75249e592dc2a8bd23db00f0a73acdf5a45bff98dec1460bb46f5ebc2bd6e1c997423d8aa7a8bcae5255bfc653b69905bac42",
+                      "extraData": {
+                        "resourceId": "d4f39300-6960-4edc-b81c-f782c8cd8245",
+                        "metaData": {
+                          "size": 301935,
+                          "originWidth": 1268,
+                          "originHeight": 831,
+                          "format": "png",
+                          "ratio": 1
+                        }
+                      }
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "leaf"
+                        },
+                        ""
+                      ]
+                    ]
+                  ],
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 12,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {},
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "hidden": false,
+                  "rowSpan": 1,
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "jc": "left"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "sz": 12,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      "万相台无界-实时报表"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "hidden": false,
+                  "rowSpan": 1,
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "jc": "left"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "sz": 12,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      "实时报表不含货品全站推广数据，请在货品全站推广计划列表查看实时数据"
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "jc": "left"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 12,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ],
+                  [
+                    "img",
+                    {
+                      "uuid": "8wcqpq",
+                      "name": "image.png",
+                      "size": 187890,
+                      "width": 660.67,
+                      "height": 368,
+                      "src": "/core/api/resources/img/5eecdaf48460cde5129eedd7b1a69daf5f518d03f3a0892f58e70b814913bc360a414d3de9277d871abf3af1cbd7524976f4f472c86d823e9a3ef773caefc50a6cc4832ff66d119de3709b0d5e6bf751b6da56d904d54646fc653b69905bac42",
+                      "extraData": {
+                        "resourceId": "e5c3cc0a-cc54-4eda-b710-c4d4111b5ee0",
+                        "metaData": {
+                          "size": 187890,
+                          "originWidth": 991,
+                          "originHeight": 552,
+                          "format": "png",
+                          "ratio": 1
+                        }
+                      }
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "leaf"
+                        },
+                        ""
+                      ]
+                    ]
+                  ],
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 12,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {
+                "uuid": "m7wwyud9gdmygn6nhsn"
+              },
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "hidden": false,
+                  "rowSpan": 1,
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "jc": "left"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "sz": 12,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      "货品全站推广场景页-数据汇总"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "hidden": false,
+                  "rowSpan": 1,
+                  "vAlign": "top",
+                  "uuid": "m7wwyud98pn7mruzp6k"
+                },
+                [
+                  "p",
+                  {
+                    "jc": "left"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "sz": 12,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      "数据汇总的效果相关指标按实际效果产生时间汇总（"
+                    ],
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "highlight": "#FCC102",
+                        "sz": 12,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      "如成交按成交产生时间记录"
+                    ],
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "sz": 12,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      "），页面数据仅供参考，历史推广数据以报表数据为准 "
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "jc": "left"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "sz": 12,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      "右上角时间筛选今日为分时累计数据，提供按小时累计效果，曲线上每个点的数据均为0点至该时刻的累计数据；筛选其他时间为对应时间当日数据，提供分日变化情况"
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "jc": "left",
+                    "uuid": "m7wwyud978fq6mj96ke"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 12,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ],
+                  [
+                    "img",
+                    {
+                      "uuid": "ck4gvf",
+                      "name": "image.png",
+                      "size": 290792,
+                      "width": 922,
+                      "height": 280.1608286536896,
+                      "src": "/core/api/resources/img/5eecdaf48460cde5129eedd7b1a69daf5f518d03f3a0892f58e70b814913bc360a414d3de9277d871abf3af1cbd752493648d1fe94b9b21e2400ce70239d71855d64997fe6963510fbf7f25a6eaa01e33985919d295f1672fc653b69905bac42",
+                      "extraData": {
+                        "resourceId": "a4f8456c-56a0-498c-b6fc-673bf8498e65",
+                        "metaData": {
+                          "size": 290792,
+                          "originWidth": 1787,
+                          "originHeight": 543,
+                          "format": "png",
+                          "ratio": 1
+                        }
+                      }
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "leaf"
+                        },
+                        ""
+                      ]
+                    ]
+                  ],
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 12,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {},
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "hidden": false,
+                  "rowSpan": 1,
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "jc": "left"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "sz": 12,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      "货品全站推广场景页-计划列表-详情"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "hidden": false,
+                  "rowSpan": 1,
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "jc": "left"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "sz": 12,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      "原「累计转化数据」和「分时基础数据」合并为「分时数据」，披露成交转化、基础指标、潜在转化、成交意向等维度数据"
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "jc": "left"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "sz": 12,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      "右上角时间筛选今日为分时累计数据，提供按小时累计效果，曲线上每个点的数据均为0点至该时刻的累计数据；筛选其他时间为对应时间当日数据，提供分日变化情况"
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "jc": "left"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 12,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ],
+                  [
+                    "img",
+                    {
+                      "height": 506,
+                      "name": "",
+                      "src": "https://alidocs.oss-cn-zhangjiakou.aliyuncs.com/lark/https://yuque.antfin.com/chenchun.chen/gqhty9/og8uhutzulideq8d/imgyolqasQMIA.png",
+                      "width": 1228
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "sz": 12,
+                          "szUnit": "pt",
+                          "data-type": "leaf"
+                        },
+                        ""
+                      ]
+                    ]
+                  ],
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 12,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ]
+                ]
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "m8qozk5oxvqp5hnjxp"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "m8qozkudj4axmaaukz"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "m8dx0a8pgcjivu9rnnc",
+              "ind": {
+                "left": 0
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 18,
+                  "szUnit": "pt",
+                  "color": "linear-gradient(152deg, #C676FF 0%, #654CFF 41%, #405EFF 75%, #007FFF 99%)",
+                  "data-type": "leaf"
+                },
+                "Q&A"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "m8zq3wd2vcc29mv47vb",
+              "ind": {
+                "left": 0
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "问：为什么升级后在无界看到的货品全站推广效果和在货品全站推广内看到的"
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "数据不一致"
+              ],
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "？"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "ind": {
+                "left": 0
+              },
+              "uuid": "m8zq4sxjqyz80o515hh"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "答：无界的效果默认"
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "按点击时间统计"
+              ],
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "，货品全站推广「AI效果智达」升级后默认"
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "按转化时间统计"
+              ],
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "，二者统计口径不一致，会有数据差异。升级后，货品全站推广的效果建议按转化时间统计查看，货品全站推广的数据请在货品全站推广场景或货品全站推广报表查看。"
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "货品全站推广的详细数据及结案报表，建议用「按转化时间」口径查看，成交、加购收藏等深度行为转化数据记录在转化产生当天，方便天与天对比，无需多天归因等待"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "m8zqi0vudzzhz09mjme",
+              "ind": {
+                "left": 0
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "m97wl4wr8w3nx0vuyd4",
+              "ind": {
+                "left": 0
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "m8dx0gjyymi18h8js7",
+              "ind": {
+                "left": 0
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "问：为什么升级后"
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "无界实时报表不含"
+              ],
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "货品全站推广的数据了？"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "m8dx17qvjvywo0hjybt",
+              "ind": {
+                "left": 0
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "答：无界其他场景的实时数据"
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "按点击时间统计"
+              ],
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "，货品全站推广「AI效果智达」升级后，"
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "按转化时间统计"
+              ],
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "，数据统计口径不同，无法在同一报表汇总。货品全站推广实时数据请至货品全站推广投放列表页查看"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "m8qp3qxthf6vwef8aoj",
+              "ind": {
+                "left": 0
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "m96f3c5x7dqdplmlfqg",
+              "ind": {
+                "left": 0
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "ind": {
+                "left": 0
+              },
+              "uuid": "m8qp3olkhtvte4cy3c"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "问：为什么升级后货品全站推广场景页的实时趋势图从原分小时绝对值变成"
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "按小时累计"
+              ],
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "了？"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "ind": {
+                "left": 0
+              },
+              "uuid": "m8qp3olld5xdl5d3koo"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "答：请关注升级后实时及多日的ROI达成情况，保持计划稳定投放，避免因短时其他指标的正常波动，对计划做"
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "频繁无效操作"
+              ],
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "（如反复启停、频繁来回改价），影响系统优化"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "ind": {
+                "left": 0
+              },
+              "uuid": "m8y679gll0kkmyh2d5m"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "ind": {
+                "left": 0
+              },
+              "uuid": "m96f3d6lmxsq37g178m"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "ind": {
+                "left": 0
+              },
+              "uuid": "mmvu27aijmqblxfxw3"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "问：为什么当天计划"
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "没有投放，有转化效果数据"
+              ],
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "？"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "ind": {
+                "left": 0
+              },
+              "uuid": "m8y67h9v0dl0yhzbyv8q"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "答：升级后货品全站推广的效果默认"
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "按转化时间记录"
+              ],
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "，当天未投放或者刚开启投放，可能会有过去几天的计划点击在当天产生成交，记录在当天，是正常现象，请您关注计划整体的效果交付情况"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "ind": {
+                "left": 0
+              },
+              "uuid": "m8y6bpw3wbvs0s6sskd"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "ind": {
+                "left": 0
+              },
+              "uuid": "m96f3f6rh0qszh988ho"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "ind": {
+                "left": 0
+              },
+              "uuid": "m8y6bq20anog9e7lhh"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "问：计划删除后，在投计划列表的计划效果数据和合计行"
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "数据对不上"
+              ],
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "？"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "ind": {
+                "left": 0
+              },
+              "uuid": "m8y6gupzlxugqh5ydbf"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "答：升级后货品全站推广的效果默认"
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "按转化时间记录"
+              ],
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "，投放计划被删除后会有过去几天的推广点击在当天产生的成交记录在当天，在计划投放列表和合计数据对不上（已删除计划不展示在在投计划列表），请您"
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "在货品全站推广报表查询"
+              ],
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "含已删除的计划数据明细"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "ind": {
+                "left": 0
+              },
+              "uuid": "m8zj7c16ore074onsj"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "ind": {
+                "left": 0
+              },
+              "uuid": "m96f3gfatth8v9c7vsg"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "ind": {
+                "left": 0
+              },
+              "uuid": "m8zj7c8epixv7yp0zeb"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "问：为什么计划的"
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "点击单价波动较大，短期扣费较多"
+              ],
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "？"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "ind": {
+                "left": 0
+              },
+              "uuid": "m8zj7gfa5m0r8gmnji"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "答：系统智能匹配流量，更好的让计划实际投产比接近目标投产比。不同流量的精准度不同，系统基于"
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "流量价值预估动态出价"
+              ],
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "，点击成本可能因此波动较大，请关注计划实际投产比达成情况；预估转化率高的精准流量，系统会以较高的出价竞争，因此精准流量集中的时段可能扣费较多，属正常现象，请保持计划稳定投放。同时，点击单价也与计划目标投产比相关，目标投产比设置越低，点击单价相对更高。全站推广按点击扣费，实时数据仅供参考，因数据积累的原因可能存在一定延迟，建议关注计划日终报表整体数据"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "ind": {
+                "left": 0
+              },
+              "uuid": "me74l12pz93cgi3rsvo"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "ind": {
+                "left": 0
+              },
+              "uuid": "me74l90i127qilkaotbk"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "ind": {
+                "left": 0
+              },
+              "uuid": "me74l72o87orcusg05m"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "问：为什么计划"
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "实时的投产比波动较大"
+              ],
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "，上一个小时投产比高，这个小时投产比低，甚至只花钱无成交？"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "ind": {
+                "left": 0
+              },
+              "uuid": "me74l72qnhx9twgvyj"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "答：计划实时投产比和实时流量不完全是均匀的、投放数据稀疏等有关，消耗量级、点击数、订单笔数少容易使得实时投产比波动。AI效果智达尽量保证天级别的实际投产比达成，尽可能让实时的投产比波动更低。系统会基于计划实时效果智能动态调价，当前投产比达成好的后续加大流量探索，当前投产比达成偏低的后续控制投放成本，来优化天级别的交付稳定。建议您保持计划稳定投放，设置充足的预算，关注计划天级别或多天的实际投产比"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "ind": {
+                "left": 0
+              },
+              "uuid": "me74l1m4e9f70fykawf"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "ind": {
+                "left": 0
+              },
+              "uuid": "maghhyk6x50hftmgp3e"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "ind": {
+                "left": 0
+              },
+              "uuid": "maghhe5h9jlugui6xfs"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "问：为什么大促的预售预热期，"
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "实际投产比达成偏低"
+              ],
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "？"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "ind": {
+                "left": 0
+              },
+              "uuid": "maghhu0zet8100kacvw"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "答：大促预售预热期消费者以收藏加购为主，成交转化有一定抑制，建议观察大促全周期（预售、预热、正式、爆发）的整体投产比达成情况，可在货品全站推广报表选择官方活动周期查看整体效果 "
+              ]
+            ],
+            [
+              "a",
+              {
+                "href": "https://one.alimama.com/index.html#!/report/site?rptType=site&bizCode=onebpSite",
+                "uuid": "maorx15stcd6jgut4od"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "sz": 12,
+                    "szUnit": "pt",
+                    "data-type": "leaf"
+                  },
+                  "点击跳转"
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "ind": {
+                "left": 0
+              },
+              "uuid": "magl9u1ri6pldmob9i"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "ind": {
+                "left": 0
+              },
+              "uuid": "maglc2ospncxcr2rh6"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "ind": {
+                "left": 0
+              },
+              "uuid": "magl9u5uathab8pb4zw"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "问："
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "预售商品"
+              ],
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "的推广效果怎么判断？"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "ind": {
+                "left": 0
+              },
+              "uuid": "magl9xtkrx500aallj"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "答：有预售的大促期，预售商品在货品全站推广按"
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "rgb(51, 51, 51)",
+                  "data-type": "leaf"
+                },
+                "总预售成交金额"
+              ],
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "rgb(51, 51, 51)",
+                  "data-type": "leaf"
+                },
+                "（推广预售商品在15日内引导用户产生的所有支付宝交易的总成交金额（含定金、尾款及运费））优化，相应的投产比交付为"
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "含预售投产比"
+              ],
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "（包含预售尾款的总成交金额/花费），建议推广预售商品的商家关注"
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "含预售投产比、"
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "rgb(51, 51, 51)",
+                  "data-type": "leaf"
+                },
+                "总预售成交金额"
+              ],
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "，判断推广效果的达成。预售指标可在货品全站推广相关数据字段右侧的小齿轮配置"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "ind": {
+                "left": 0
+              },
+              "uuid": "mgpz5yhwer3dt73m9z9"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "ind": {
+                "left": 0
+              },
+              "uuid": "maxpa3xvdpc9bktbs5d"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 18,
+                  "szUnit": "pt",
+                  "color": "linear-gradient(152deg, #C676FF 0%, #654CFF 41%, #405EFF 75%, #007FFF 99%)",
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "ind": {
+                "left": 0
+              },
+              "uuid": "mbiujv8g639eicyshgr"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 18,
+                  "szUnit": "pt",
+                  "color": "linear-gradient(152deg, #C676FF 0%, #654CFF 41%, #405EFF 75%, #007FFF 99%)",
+                  "data-type": "leaf"
+                },
+                "案例大赏"
+              ]
+            ]
+          ],
+          [
+            "table",
+            {
+              "colsWidth": [
+                50,
+                50
+              ],
+              "tblW": {
+                "w": 100,
+                "type": "pct"
+              },
+              "uuid": "mgpz6deqe2rfyy4dwud",
+              "styleId": "tableHeader",
+              "tblLook": {
+                "firstRow": 1,
+                "firstColumn": 0,
+                "lastRow": 0,
+                "lastColumn": 0
+              }
+            },
+            [
+              "tr",
+              {
+                "uuid": "mgpz6deqx9xb9avi7fs"
+              },
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mgpz6deq87sk4l8pzcl"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mgpz6deqz1yyy8ncdk9"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "sz": 18,
+                        "szUnit": "pt",
+                        "color": "linear-gradient(152deg, #C676FF 0%, #654CFF 41%, #405EFF 75%, #007FFF 99%)",
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ],
+                  [
+                    "img",
+                    {
+                      "uuid": "6lmrug",
+                      "name": "image.png",
+                      "size": 1738551,
+                      "width": 474,
+                      "height": 435.38096129776187,
+                      "src": "/core/api/resources/img/5eecdaf48460cde5129eedd7b1a69daf5f518d03f3a0892f58e70b814913bc360a414d3de9277d871abf3af1cbd752491d27e29daaed0ef9697b39c9f7ea72336cd8d59619158bcc8c31ac907f2e7bb89639063f3a734af0fc653b69905bac42",
+                      "extraData": {
+                        "resourceId": "aabbd85b-a932-4e94-998b-64d2ba1ec17f",
+                        "metaData": {
+                          "size": 1738551,
+                          "originWidth": 1522,
+                          "originHeight": 1398,
+                          "format": "png",
+                          "ratio": 1
+                        }
+                      }
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "leaf"
+                        },
+                        ""
+                      ]
+                    ]
+                  ],
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "sz": 18,
+                        "szUnit": "pt",
+                        "color": "linear-gradient(152deg, #C676FF 0%, #654CFF 41%, #405EFF 75%, #007FFF 99%)",
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mgpz6deq2rz3fba9n8"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "manr4xtjysi1p29iazn"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "sz": 12,
+                        "szUnit": "pt",
+                        "color": "linear-gradient(152deg, #C676FF 0%, #654CFF 41%, #405EFF 75%, #007FFF 99%)",
+                        "data-type": "leaf"
+                      },
+                      "ROI交付更稳定"
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "uuid": "mgpz9paiwtthxtggfm"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "rgb(13, 18, 57)",
+                        "data-type": "leaf"
+                      },
+                      "维特丝官方旗舰店"
+                    ],
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "rgb(13, 18, 57)",
+                        "data-type": "leaf"
+                      },
+                      "作为国产品牌中销量领先的个护行业头部品牌，在升级「AI效果智达」前，"
+                    ],
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "rgb(13, 18, 57)",
+                        "data-type": "leaf"
+                      },
+                      "其货品全站推广的ROI交付效果相对较差，导致出价策略与预算设置受到显著影响。"
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "uuid": "maor5h77wclzphfkha8"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "rgb(13, 18, 57)",
+                        "data-type": "leaf"
+                      },
+                      "商家应用："
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "uuid": "maor6yx2x52figc5m29"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "rgb(13, 18, 57)",
+                        "data-type": "leaf"
+                      },
+                      "通过系统升级后，其计划当日的ROI表现实现显著提升，商家随即采取积极策略追加计划预算并合理调高出价。"
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "uuid": "map1g3109o9gr3ryozf"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "rgb(13, 18, 57)",
+                        "data-type": "leaf"
+                      },
+                      "商家打法："
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "uuid": "map1gcijpkl3fr2233d",
+                    "ind": {
+                      "left": 0
+                    },
+                    "list": {
+                      "listId": "z8tjrtlu2s",
+                      "level": 0,
+                      "isTaskList": false,
+                      "isOrdered": true,
+                      "listStyleType": "DEC_LEN_LROM_P",
+                      "symbolStyle": {
+                        "sz": 11,
+                        "color": "rgb(13, 18, 57)"
+                      },
+                      "listStyle": {
+                        "format": "decimal",
+                        "text": "%1.",
+                        "align": "left"
+                      }
+                    }
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "rgb(13, 18, 57)",
+                        "data-type": "leaf"
+                      },
+                      "商品选择平台推荐品，选择控投产比出价方式，roi设置在三挡roi之内"
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "uuid": "map1p9czmpvsq5qp82",
+                    "ind": {
+                      "left": 0
+                    },
+                    "list": {
+                      "listId": "z8tjrtlu2s",
+                      "level": 0,
+                      "isTaskList": false,
+                      "isOrdered": true,
+                      "listStyleType": "DEC_LEN_LROM_P",
+                      "symbolStyle": {
+                        "sz": 11,
+                        "color": "rgb(13, 18, 57)"
+                      },
+                      "listStyle": {
+                        "format": "decimal",
+                        "text": "%1.",
+                        "align": "left"
+                      },
+                      "extraData": {},
+                      "isChecked": false,
+                      "hideSymbol": false
+                    }
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "rgb(13, 18, 57)",
+                        "data-type": "leaf"
+                      },
+                      "自定义创意，第一张创意图加上赠品福利，第二张创意图附加上不同的利益点，第三张图打标店铺当前活动"
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "uuid": "map1rr51qhn8xwmkju",
+                    "ind": {
+                      "left": 0
+                    },
+                    "list": {
+                      "listId": "z8tjrtlu2s",
+                      "level": 0,
+                      "isTaskList": false,
+                      "isOrdered": true,
+                      "listStyleType": "DEC_LEN_LROM_P",
+                      "symbolStyle": {
+                        "sz": 11,
+                        "color": "rgb(13, 18, 57)"
+                      },
+                      "listStyle": {
+                        "format": "decimal",
+                        "text": "%1.",
+                        "align": "left"
+                      },
+                      "extraData": {},
+                      "isChecked": false,
+                      "hideSymbol": false
+                    }
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "rgb(13, 18, 57)",
+                        "data-type": "leaf"
+                      },
+                      "大促期间开启一键起量，日销期保持计划稳定投放"
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "uuid": "maor5uzf6zuvqkn94xy"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "rgb(13, 18, 57)",
+                        "data-type": "leaf"
+                      },
+                      "升级成效显著："
+                    ],
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "#FE0300",
+                        "data-type": "leaf"
+                      },
+                      "账户日均拿量及成交金额均提升30%以上，整体计划ROI达标率更提升12%，较投前基础期实现13%增长"
+                    ],
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "rgb(13, 18, 57)",
+                        "data-type": "leaf"
+                      },
+                      "。商家反馈表示：\""
+                    ],
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "rgb(13, 18, 57)",
+                        "data-type": "leaf"
+                      },
+                      "升级后ROI稳定性明显增强，与预期目标的差距进一步缩小，投放效率显著提升，因此我们非常愿意继续加大投放基数"
+                    ],
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "rgb(13, 18, 57)",
+                        "data-type": "leaf"
+                      },
+                      "\"，充分体现了技术升级对品牌电商营销效能的赋能价值。"
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {
+                "uuid": "mgpz6deqdainteh8zg"
+              },
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mgpz6deqy5zo6q0lq8"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mgpz6deq93jlprplf3b"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "sz": 18,
+                        "szUnit": "pt",
+                        "color": "linear-gradient(152deg, #C676FF 0%, #654CFF 41%, #405EFF 75%, #007FFF 99%)",
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ],
+                  [
+                    "img",
+                    {
+                      "uuid": "mgpz6qe94hwcyixbl1x",
+                      "name": "7ca8e5d61d1de989abab7813a6b88903.png",
+                      "size": 1105078,
+                      "width": 701,
+                      "height": 645.3333579521116,
+                      "src": "/core/api/resources/img/5eecdaf48460cde5843d8cbee2ae2b5f488f369a3186d2f875b8339e1c4c24831b75b38faadcd24bec177c308ebd5304cad9a703db100809cefe3f73f9a410be0aabcb0a4bc63e41ca700c308b338f8ab7e53cb1c10d73604fb4c8ed7016461c",
+                      "extraData": {
+                        "resourceId": "6f41a6eb-4b03-40bf-9d9c-013e71459054",
+                        "metaData": {
+                          "size": 1105078,
+                          "originWidth": 1763,
+                          "originHeight": 1623,
+                          "format": "png",
+                          "ratio": 1
+                        }
+                      }
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "leaf"
+                        },
+                        ""
+                      ]
+                    ]
+                  ],
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "sz": 18,
+                        "szUnit": "pt",
+                        "color": "linear-gradient(152deg, #C676FF 0%, #654CFF 41%, #405EFF 75%, #007FFF 99%)",
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mgpz6deqa94vv2z4ee8"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "manr58rw1x57indur2f"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "sz": 12,
+                        "szUnit": "pt",
+                        "color": "linear-gradient(152deg, #C676FF 0%, #654CFF 41%, #405EFF 75%, #007FFF 99%)",
+                        "data-type": "leaf"
+                      },
+                      "优化投放效果达成"
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "uuid": "mgpz951mw9ewznqkla"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "sz": 10,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      "艳嫩旗舰店"
+                    ],
+                    [
+                      "span",
+                      {
+                        "sz": 10,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      "作为产业带美妆商家，此前在货品全站推广投放中面临“"
+                    ],
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "sz": 10,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      "ROI不稳定、效果欠佳"
+                    ],
+                    [
+                      "span",
+                      {
+                        "sz": 10,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      "”的问题，导致投放信心受挫。"
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "uuid": "maor9opcd62qwzsj46b"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "rgb(13, 18, 57)",
+                        "data-type": "leaf"
+                      },
+                      "商家应用："
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "uuid": "maor9zk4v53gwl1y3bh"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 10,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      "在投计划的出价和预算设置更放开，并且增加50%的商品在货品全站推广投放"
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "uuid": "map26otjr0bx8q1umnm"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "rgb(13, 18, 57)",
+                        "data-type": "leaf"
+                      },
+                      "商家全站思路："
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "uuid": "map26s819n7ykiddbrn",
+                    "ind": {
+                      "left": 0
+                    },
+                    "list": {
+                      "listId": "xkgp6036whr",
+                      "level": 0,
+                      "isTaskList": false,
+                      "isOrdered": false,
+                      "listStyleType": "SCIR_ECIR_SREC",
+                      "symbolStyle": {
+                        "sz": 11,
+                        "color": "rgb(13, 18, 57)"
+                      },
+                      "listStyle": {
+                        "format": "bullet",
+                        "text": "●",
+                        "align": "left"
+                      }
+                    }
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "rgb(13, 18, 57)",
+                        "data-type": "leaf"
+                      },
+                      "店铺商品全部开控投产比出价，力求拿到更加稳定的稳定的roi"
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "uuid": "maw8ihak40kszzlstdx",
+                    "ind": {
+                      "left": 0
+                    },
+                    "list": {
+                      "listId": "xkgp6036whr",
+                      "level": 0,
+                      "isTaskList": false,
+                      "isOrdered": false,
+                      "listStyleType": "SCIR_ECIR_SREC",
+                      "symbolStyle": {
+                        "sz": 11,
+                        "color": "rgb(13, 18, 57)"
+                      },
+                      "listStyle": {
+                        "format": "bullet",
+                        "text": "●",
+                        "align": "left"
+                      },
+                      "extraData": {},
+                      "isChecked": false,
+                      "hideSymbol": false
+                    }
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "rgb(13, 18, 57)",
+                        "data-type": "leaf"
+                      },
+                      "新计划开启一键起量，起量预算设置为50，roi设置在平台推荐范围内"
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "uuid": "maw9qc9jhwv12l5f6qo",
+                    "ind": {
+                      "left": 0
+                    },
+                    "list": {
+                      "listId": "xkgp6036whr",
+                      "level": 0,
+                      "isTaskList": false,
+                      "isOrdered": false,
+                      "listStyleType": "SCIR_ECIR_SREC",
+                      "symbolStyle": {
+                        "sz": 11,
+                        "color": "rgb(13, 18, 57)"
+                      },
+                      "listStyle": {
+                        "format": "bullet",
+                        "text": "●",
+                        "align": "left"
+                      },
+                      "extraData": {},
+                      "isChecked": false,
+                      "hideSymbol": false
+                    }
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "rgb(13, 18, 57)",
+                        "data-type": "leaf"
+                      },
+                      "roi交付已达标计划提升10%日预算，持续15天roi不达标计划暂停"
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "uuid": "maorc4ps2jfysyeehkd"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 10,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      "成功实现货品全站推广流量与成交额翻倍增长，同时"
+                    ],
+                    [
+                      "span",
+                      {
+                        "sz": 10,
+                        "szUnit": "pt",
+                        "color": "#FE0300",
+                        "data-type": "leaf"
+                      },
+                      "账户整体计划ROI达标率提升15%+，"
+                    ],
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "#FE0300",
+                        "data-type": "leaf"
+                      },
+                      "较投前基础期实现10%增长"
+                    ],
+                    [
+                      "span",
+                      {
+                        "sz": 10,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      "。商家表示，"
+                    ],
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "sz": 10,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      "当前投放更易平衡ROI与规模增长，无需过度担忧投产误差，因此已坚定加大投入力度，全面聚焦货品全站推广布局"
+                    ],
+                    [
+                      "span",
+                      {
+                        "sz": 10,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      "。"
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {
+                "uuid": "mgpz71s8lyon9sgs2gl"
+              },
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mgpz71s8uzm0faou62"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mgpz71s8qv4mazxzaw9",
+                    "jc": "center"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ],
+                  [
+                    "img",
+                    {
+                      "uuid": "mgpz72xer9w0jjm46k",
+                      "name": "贝诗霓旗舰店.png",
+                      "size": 963059,
+                      "width": 701,
+                      "height": 645.3335224049916,
+                      "src": "/core/api/resources/img/5eecdaf48460cde5811c6b2d18b5824245693d637910fef175b8339e1c4c24831b75b38faadcd24bec177c308ebd530497a776353af370e1b1bceea27eccd84795792cf179dd3eeb4fa257f075d1afbad9ee67fd63b1417e4fb4c8ed7016461c",
+                      "extraData": {
+                        "resourceId": "6beb00b6-594d-4708-bdc2-238e9ff7efb6",
+                        "metaData": {
+                          "size": 963059,
+                          "originWidth": 1763,
+                          "originHeight": 1623,
+                          "format": "png",
+                          "ratio": 1
+                        }
+                      }
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "leaf"
+                        },
+                        ""
+                      ]
+                    ]
+                  ],
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mgpz71s885odfjdatou"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "manr5gmegpi2yzkz0jd"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "sz": 12,
+                        "szUnit": "pt",
+                        "color": "linear-gradient(152deg, #C676FF 0%, #654CFF 41%, #405EFF 75%, #007FFF 99%)",
+                        "data-type": "leaf"
+                      },
+                      "先达标再放量"
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "uuid": "mgpz8s2kh0zu5dx0syt"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "rgb(13, 18, 57)",
+                        "data-type": "leaf"
+                      },
+                      "贝诗霓旗舰店"
+                    ],
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "rgb(13, 18, 57)",
+                        "data-type": "leaf"
+                      },
+                      "作为产业带服饰商家，主营女士牛仔裤，此前将全部预算投入货品全站推广，"
+                    ],
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "rgb(13, 18, 57)",
+                        "data-type": "leaf"
+                      },
+                      "初期效果显著，但随着竞争加剧，流量增长放缓、投产比持续下滑，即便不断调高投产目标也难见改善，投放信心受挫"
+                    ],
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "rgb(13, 18, 57)",
+                        "data-type": "leaf"
+                      },
+                      "。"
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "uuid": "maordiwv7uxeiyk2f7c"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "rgb(13, 18, 57)",
+                        "data-type": "leaf"
+                      },
+                      "商家应用："
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "uuid": "maordp5r7smvdmcue6i"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "rgb(13, 18, 57)",
+                        "data-type": "leaf"
+                      },
+                      "商家积极接入平台交付能力升级白名单"
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "uuid": "maw9x6qjghf5r603jv6"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "rgb(13, 18, 57)",
+                        "data-type": "leaf"
+                      },
+                      "全店核心思路"
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "uuid": "mawajqi8r3tm4qjks5n",
+                    "ind": {
+                      "left": 0
+                    },
+                    "list": {
+                      "listId": "zskwkj90lw",
+                      "level": 0,
+                      "isTaskList": false,
+                      "isOrdered": false,
+                      "listStyleType": "SCIR_ECIR_SREC",
+                      "symbolStyle": {
+                        "sz": 11,
+                        "color": "rgb(13, 18, 57)"
+                      },
+                      "listStyle": {
+                        "format": "bullet",
+                        "text": "●",
+                        "align": "left"
+                      }
+                    }
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "rgb(13, 18, 57)",
+                        "data-type": "leaf"
+                      },
+                      "女装类目，核心是上新+动销，店铺固定在每周上新超30个品的频率"
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "uuid": "mawak8mudxte3jeqdb5",
+                    "ind": {
+                      "left": 0
+                    },
+                    "list": {
+                      "listId": "zskwkj90lw",
+                      "level": 0,
+                      "isTaskList": false,
+                      "isOrdered": false,
+                      "listStyleType": "SCIR_ECIR_SREC",
+                      "symbolStyle": {
+                        "sz": 11,
+                        "color": "rgb(13, 18, 57)"
+                      },
+                      "listStyle": {
+                        "format": "bullet",
+                        "text": "●",
+                        "align": "left"
+                      },
+                      "extraData": {},
+                      "isChecked": false,
+                      "hideSymbol": false
+                    }
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "rgb(13, 18, 57)",
+                        "data-type": "leaf"
+                      },
+                      "新品先使用直通车进行测款测图，完善好商品的基础内容且有一定的数据基础之后使用货品全站推广进行推广"
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "uuid": "maxazo2qgsada89k47l",
+                    "ind": {
+                      "left": 0
+                    },
+                    "list": {
+                      "listId": "zskwkj90lw",
+                      "level": 0,
+                      "isTaskList": false,
+                      "isOrdered": false,
+                      "listStyleType": "SCIR_ECIR_SREC",
+                      "symbolStyle": {
+                        "sz": 11,
+                        "color": "rgb(13, 18, 57)"
+                      },
+                      "listStyle": {
+                        "format": "bullet",
+                        "text": "●",
+                        "align": "left"
+                      },
+                      "extraData": {},
+                      "isChecked": false,
+                      "hideSymbol": false
+                    }
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "rgb(13, 18, 57)",
+                        "data-type": "leaf"
+                      },
+                      "货品全站推广期间，通过设置不同的roi来进行测试，最踪选择最优的roi设置和预算进行投流"
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "uuid": "maordybcu4bq4t1qhd"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "rgb(13, 18, 57)",
+                        "data-type": "leaf"
+                      },
+                      "系统升级后数据表现大幅提升："
+                    ],
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "#FE0300",
+                        "data-type": "leaf"
+                      },
+                      "账户整体流量与成交规模增长超50%，计划ROI达标率更提升15%以上，较投前基础期实现12%增长"
+                    ],
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "rgb(13, 18, 57)",
+                        "data-type": "leaf"
+                      },
+                      "。商家反馈称，"
+                    ],
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "rgb(13, 18, 57)",
+                        "data-type": "leaf"
+                      },
+                      "新版ROI系统精准匹配了其核心需求"
+                    ],
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "rgb(13, 18, 57)",
+                        "data-type": "leaf"
+                      },
+                      "——\""
+                    ],
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "rgb(13, 18, 57)",
+                        "data-type": "leaf"
+                      },
+                      "先达标、再放量"
+                    ],
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "rgb(13, 18, 57)",
+                        "data-type": "leaf"
+                      },
+                      "\"，"
+                    ],
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "rgb(13, 18, 57)",
+                        "data-type": "leaf"
+                      },
+                      "升级前因投产常不达预期而不敢降低目标放量，如今不仅稳定达成预设投产，更敢于通过调低ROI阈值进一步拓量，对系统效果给予高度认可，直言\"如果没升级，连基础目标都难以实现，更无从谈增长\"。此次升级不仅提振了商家投放信心，更通过数据实证验证了系统对中小商家精细化运营的赋能价值"
+                    ],
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "rgb(13, 18, 57)",
+                        "data-type": "leaf"
+                      },
+                      "。"
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {
+                "uuid": "mgpzb024revtdhhvz0n"
+              },
+              [
+                "tc",
+                {
+                  "colSpan": 2,
+                  "rowSpan": 1,
+                  "uuid": "mgpzb0245xq3olknf4h"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mgpzb0247aimsdu219y",
+                    "jc": "center"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ],
+                  [
+                    "img",
+                    {
+                      "uuid": "mgpzb2o3cse51eorblf",
+                      "name": "image.png",
+                      "size": 2251789,
+                      "width": 540,
+                      "height": 1633,
+                      "src": "/core/api/resources/img/5eecdaf48460cde5129eedd7b1a69daf5f518d03f3a0892f58e70b814913bc360a414d3de9277d871abf3af1cbd75249453e1e087a44118780e192e17283b34034b7298b9c37e70477a8d1462103ea5f4922fc16a8a9dcaffc653b69905bac42",
+                      "extraData": {
+                        "resourceId": "3513fe34-a3ce-40ac-b156-d8408ab6dac1",
+                        "metaData": {
+                          "size": 2251789,
+                          "originWidth": 1080,
+                          "originHeight": 3266,
+                          "format": "png",
+                          "ratio": 1
+                        }
+                      }
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "leaf"
+                        },
+                        ""
+                      ]
+                    ]
+                  ],
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mgpzb024hx58fctrmgb",
+                  "hidden": true
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mgpzb024nyey5nsykcm"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ]
+                ]
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "ind": {
+                "left": 0
+              },
+              "uuid": "mgpz5ntmz3w5xch4xjq"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 18,
+                  "szUnit": "pt",
+                  "color": "linear-gradient(152deg, #C676FF 0%, #654CFF 41%, #405EFF 75%, #007FFF 99%)",
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ]
+        ],
+        "footers": {},
+        "version": 1
+      },
+      "refs": {}
+    }
+  }
+}

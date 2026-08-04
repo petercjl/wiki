@@ -1,0 +1,893 @@
+{
+  "version": 1,
+  "type": "application/x-alidocs-package",
+  "main": "00000000-0000-0000-0000-000000000001",
+  "plugins": "00000000-0000-0000-0000-000000000002",
+  "parts": {
+    "00000000-0000-0000-0000-000000000001": {
+      "id": "00000000-0000-0000-0000-000000000001",
+      "type": "application/x-alidocs-word",
+      "version": 1,
+      "data": {
+        "style": {
+          "docDefaults": {
+            "type": "paragraph",
+            "default": 1,
+            "name": "dingdocnormal",
+            "data": {
+              "rPr": {
+                "sz": 12,
+                "szUnit": "pt"
+              },
+              "pPr": {
+                "spacing": {
+                  "before": 8,
+                  "after": 8
+                }
+              }
+            }
+          }
+        },
+        "theme": [],
+        "settings": {
+          "titleCover": {
+            "isHide": true
+          }
+        },
+        "app": {},
+        "numberings": {},
+        "headers": {},
+        "body": [
+          "root",
+          {
+            "sectPr": {
+              "pgSz": {
+                "w": 1588,
+                "h": 1127
+              },
+              "pgMar": {
+                "top": 48,
+                "bottom": 48,
+                "left": 72,
+                "right": 72,
+                "header": 56.73,
+                "footer": 66.13,
+                "gutter": 0
+              }
+            },
+            "theme": {
+              "table": {
+                "tableCell": {
+                  "vAlign": "top"
+                }
+              }
+            }
+          },
+          [
+            "p",
+            {
+              "uuid": "mcx3thpr5qfwx25yjdm"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "尊敬的商家朋友们："
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mcx4r2k8ch12aquq6tr"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "阿里妈妈客户工作台 "
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "data-type": "leaf"
+                },
+                "【线索智能外呼】"
+              ],
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                " 功能现已正式上线！此功能旨在帮助您更便捷、高效地通过电话触达与管理客户线索。"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mcx4rvsm1067dkj34he"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "为确保您顺利使用该功能，请务必提前完成以下步骤："
+              ]
+            ]
+          ],
+          [
+            "h2",
+            {
+              "uuid": "mcx3v43mx5bifw7u4co",
+              "spacing": {
+                "before": 21.333333333333332,
+                "after": 9,
+                "line": 0.8529411764705882
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 16,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "1、设置预留手机号"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mcx5k6s7s23zsgd6kyp"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "在阿里妈妈客户工作台线索管理>通话设置>设置预留手机号，注意："
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "color": "#C10002",
+                  "data-type": "leaf"
+                },
+                "应运营商要求，手机号码必须先完成实名认证和报备，才可以正常使用外呼，否则会被运营商拦截导致呼叫失败"
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "data-type": "leaf"
+                },
+                "。"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mcx5hptyhbhhpvzzq1"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mcx5hpzzfrvg259l3gj"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "data-type": "leaf"
+                },
+                "‼️请注意："
+              ],
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "目前通话实名认证，需要商家填写姓名、证件号码、身份证、证件照进行认证，具体审核时间5-7天，"
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "color": "#C10002",
+                  "data-type": "leaf"
+                },
+                "审核状态为「审核中」「审核通过」均可使用外呼功能，只有「审核失败」不可以使用"
+              ],
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "。"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mcx47jdwkujfvqv5p8"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ],
+            [
+              "img",
+              {
+                "uuid": "mcy7ssutv2lnlt5s4k",
+                "name": "image.png",
+                "size": 543397,
+                "width": 459,
+                "height": 259.65328467153284,
+                "src": "/core/api/resources/img/5eecdaf48460cde575c6911d136679c41b03fdb46630d60675b8339e1c4c2483d73fcbd75708105f8d68742cd653602a27905087190dd0b98bd32b2035188a986bd5aec40a1e973cd80447dc3278b1c71fe564f835c5b089057d20e00746bc68",
+                "extraData": {
+                  "resourceId": "59556bae-c6cd-47a4-b9d7-e9d319557299",
+                  "metaData": {
+                    "size": 543397,
+                    "originWidth": 1096,
+                    "originHeight": 620,
+                    "format": "png",
+                    "ratio": 1
+                  }
+                },
+                "rotation": 0
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ],
+            [
+              "img",
+              {
+                "uuid": "mcy7ssuuca2fwdd28ep",
+                "name": "image.png",
+                "size": 268508,
+                "width": 220,
+                "height": 260,
+                "src": "/core/api/resources/img/5eecdaf48460cde575c6911d136679c41b03fdb46630d60675b8339e1c4c2483d73fcbd75708105f8d68742cd653602a0524375348f90ffd7e21290b1adbf923a8fce0109dbb46cf9c616a6a5214d19108cc210481f3fc9c5ad409afd0ca289d",
+                "extraData": {
+                  "resourceId": "61c8ca0d-b06a-42c6-8d8b-fcd920e8ad4d",
+                  "metaData": {
+                    "size": 268508,
+                    "originWidth": 566,
+                    "originHeight": 669,
+                    "format": "png",
+                    "ratio": 1
+                  }
+                },
+                "rotation": 0
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mcx4gdl5ga61s0oemu6"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mcx4inyp2vvrb0dur1t"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "点击此处进入设置页面："
+              ]
+            ],
+            [
+              "a",
+              {
+                "href": "https://business.alimama.com/#/lead/pages/setting/phone",
+                "uuid": "mcx4ioa0efasnyyz1h"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  ">>预留手机号设置链接<<"
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mcx5iq26e1cch3o2yoj"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "h2",
+            {
+              "uuid": "mcx5iq61fomis57hif5",
+              "spacing": {
+                "before": 21.333333333333332,
+                "after": 9,
+                "line": 0.8529411764705882
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 16,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "2、开始智能外呼"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mcx5klvdsp3bz2yycii"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "进入线索管理-销售线索-进行电话拨打即可"
+              ]
+            ],
+            [
+              "img",
+              {
+                "uuid": "mcy7ssuu6sxg5zvztcu",
+                "name": "image.png",
+                "size": 1736949,
+                "width": 748,
+                "height": 360.559375,
+                "src": "/core/api/resources/img/5eecdaf48460cde575c6911d136679c41b03fdb46630d60675b8339e1c4c2483d73fcbd75708105f8d68742cd653602aaac77b6f1abe50dfe80044c1c545ff8a2a254d8e83737e9913b4b01c4e091fccad3aa2d94a609bd55aa53daf1a5c47ff",
+                "extraData": {
+                  "resourceId": "80e7b39d-1db9-4db3-a303-fcaf539a7d87",
+                  "metaData": {
+                    "size": 1736949,
+                    "originWidth": 2854,
+                    "originHeight": 1376,
+                    "format": "png",
+                    "ratio": 1
+                  }
+                }
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mcx5jm34x1bujpvim5o"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mcx5n8dre2s9s1eyru"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mcx5n8h5vpqi2ix5hut"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mcx5n8k3s90mqf09xpb"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "FAQ："
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mcx5naulzptd5ap90of"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                " "
+              ],
+              [
+                "span",
+                {
+                  "underline": {
+                    "value": "single"
+                  },
+                  "data-type": "leaf"
+                },
+                "Q：双向呼叫模式和隐私号码模式有什么区别？"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mcx5nkz71mlsmemjkui"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                " A：双向外呼模式，平台承担通话费用，隐私号码模式费用自行承担。"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mcx5ncfpoj0tu7awx98"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ],
+            [
+              "img",
+              {
+                "uuid": "mcy7ssuunubosrlj9xm",
+                "name": "image.png",
+                "size": 1104890,
+                "width": 748,
+                "height": 314.39375,
+                "src": "/core/api/resources/img/5eecdaf48460cde575c6911d136679c41b03fdb46630d60675b8339e1c4c2483d73fcbd75708105f8d68742cd653602afc228fb22ff2c4af85cf3ba57fc34d24d9c1bb4da585f8bcab3717ed16d7caaa0c0dcff4019d318585d582ea8623bcb0",
+                "extraData": {
+                  "resourceId": "0a269edb-80bd-407f-9783-4b3d8ee0e938",
+                  "metaData": {
+                    "size": 1104890,
+                    "originWidth": 2290,
+                    "originHeight": 962,
+                    "format": "png",
+                    "ratio": 1
+                  }
+                }
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mcx5nbgxwwx73du3ob"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mcx5oukhkn0ej3pg17e"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "underline": {
+                    "value": "single"
+                  },
+                  "data-type": "leaf"
+                },
+                " Q：没有实名认证是否可以使用外呼功能？"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mcx5qllrei99u6nctye"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "不支持"
+              ],
+              [
+                "span",
+                {
+                  "bold": false,
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "，应国家运营商要求，手机号码必须先完成实名认证和报备，才可以正常使用外呼，否则会被运营商拦截导致呼叫失败。"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mcx5r5g6uwlplaugd6p"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": false,
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mcx5r5izx5eiguuk6rk"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "underline": {
+                    "value": "single"
+                  },
+                  "data-type": "leaf"
+                },
+                "Q：实名认证要多久？"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mcx5rbnvubmfpbr40fp"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "不确定，具体审核时间受政府管控，但不耽误外呼功能的使用，审核中、审核通过都可以进行外呼。"
+              ]
+            ]
+          ]
+        ],
+        "footers": {},
+        "version": 1
+      },
+      "refs": {}
+    }
+  }
+}

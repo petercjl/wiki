@@ -1,0 +1,3314 @@
+{
+  "version": 1,
+  "type": "application/x-alidocs-package",
+  "main": "00000000-0000-0000-0000-000000000001",
+  "plugins": "00000000-0000-0000-0000-000000000002",
+  "parts": {
+    "00000000-0000-0000-0000-000000000001": {
+      "id": "00000000-0000-0000-0000-000000000001",
+      "type": "application/x-alidocs-word",
+      "version": 1,
+      "data": {
+        "style": {
+          "docDefaults": {
+            "type": "paragraph",
+            "default": 1,
+            "name": "dingdocnormal",
+            "data": {
+              "rPr": {
+                "sz": 12,
+                "szUnit": "pt"
+              },
+              "pPr": {
+                "spacing": {
+                  "before": 8,
+                  "after": 8
+                }
+              }
+            }
+          },
+          "tableDefault": {
+            "type": "table",
+            "data": {
+              "tblPr": {
+                "bdr": {
+                  "bottom": {
+                    "color": "#D6D6D6",
+                    "space": 0,
+                    "sz": 1,
+                    "val": "single"
+                  },
+                  "insideH": {
+                    "color": "#D6D6D6",
+                    "space": 0,
+                    "sz": 1,
+                    "val": "single"
+                  },
+                  "insideV": {
+                    "color": "#D6D6D6",
+                    "space": 0,
+                    "sz": 1,
+                    "val": "single"
+                  },
+                  "left": {
+                    "color": "#D6D6D6",
+                    "space": 0,
+                    "sz": 1,
+                    "val": "single"
+                  },
+                  "right": {
+                    "color": "#D6D6D6",
+                    "space": 0,
+                    "sz": 1,
+                    "val": "single"
+                  },
+                  "top": {
+                    "color": "#D6D6D6",
+                    "space": 0,
+                    "sz": 1,
+                    "val": "single"
+                  }
+                }
+              }
+            }
+          },
+          "tableHeader": {
+            "type": "table",
+            "basedOn": "tableDefault",
+            "data": {
+              "tblStylePr": [
+                {
+                  "type": "firstRow",
+                  "tcPr": {
+                    "shd": {
+                      "fill": "#F5F6F7"
+                    }
+                  }
+                },
+                {
+                  "type": "firstCol",
+                  "tcPr": {
+                    "shd": {
+                      "fill": "#F5F6F7"
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        "theme": [],
+        "settings": {
+          "titleCover": {
+            "isHide": true
+          }
+        },
+        "app": {},
+        "numberings": {},
+        "headers": {},
+        "body": [
+          "root",
+          {
+            "sectPr": {
+              "pgSz": {
+                "w": 892,
+                "h": 1127
+              },
+              "pgMar": {
+                "top": 48,
+                "bottom": 48,
+                "left": 72,
+                "right": 72,
+                "header": 56.73,
+                "footer": 66.13,
+                "gutter": 0
+              }
+            },
+            "theme": {
+              "table": {
+                "tableCell": {
+                  "vAlign": "top"
+                }
+              }
+            },
+            "userData": {
+              "4468695154": {
+                "mk0v7fezd7vfalm7ap": {
+                  "fold": false
+                }
+              }
+            },
+            "uuid": "mn5d1a8d7l4dp5zj883"
+          },
+          [
+            "container",
+            {
+              "subType": "colorBlocks",
+              "metadata": {
+                "padding": {
+                  "top": 11,
+                  "right": 11,
+                  "bottom": 11,
+                  "left": 11
+                },
+                "borderRadius": 8,
+                "bgcolor": "#F0EBF7",
+                "showstk": false,
+                "border": "#9A6DD7"
+              },
+              "uuid": "mcu7d8kvnqoz7usriid"
+            },
+            [
+              "container",
+              {
+                "subType": "colorBlocks",
+                "metadata": {
+                  "padding": {
+                    "top": 11,
+                    "right": 11,
+                    "bottom": 11,
+                    "left": 11
+                  },
+                  "borderRadius": 8,
+                  "bgcolor": "#FFFFFF",
+                  "showstk": false,
+                  "border": "#9A6DD7"
+                },
+                "uuid": "mcucqog511hiz8f49g2"
+              },
+              [
+                "h1",
+                {
+                  "jc": "center",
+                  "uuid": "mcucqog5kni2g5xgtqk",
+                  "spacing": {
+                    "before": 26.666666666666664,
+                    "after": 9,
+                    "line": 0.8529411764705882
+                  }
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "text"
+                  },
+                  [
+                    "span",
+                    {
+                      "bold": true,
+                      "sz": 20,
+                      "szUnit": "pt",
+                      "color": "linear-gradient(90deg, #2449FE 0%, #CA4BA7 100%)",
+                      "data-type": "leaf"
+                    },
+                    "                 「货品全站推广」超级88投放攻略                    "
+                  ]
+                ]
+              ],
+              [
+                "container",
+                {
+                  "subType": "colorBlocks",
+                  "metadata": {
+                    "padding": {
+                      "top": 11,
+                      "right": 11,
+                      "bottom": 11,
+                      "left": 11
+                    },
+                    "borderRadius": 8,
+                    "bgcolor": "#F5F6F7",
+                    "showstk": false,
+                    "border": "#9A6DD7"
+                  },
+                  "uuid": "mcudplshbch1nc40234"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mcudplshirenuex9fam"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "",
+                        "data-type": "leaf"
+                      },
+                      "亲爱的商家朋友："
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "uuid": "mcue6krp3xxwd9xgqz8"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "linear-gradient(152deg, #C676FF 0%, #654CFF 41%, #405EFF 75%, #007FFF 99%)",
+                        "data-type": "leaf"
+                      },
+                      "阿里妈妈重磅发布「超级88」策略："
+                    ],
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "",
+                        "data-type": "leaf"
+                      },
+                      "每月8日/18日S级大促配合直播预售+10亿定金红包玩法；"
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "uuid": "mcue7azrxzcwmj9lbh"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "#f108c3",
+                        "data-type": "leaf"
+                      },
+                      "货品全站推广焕新升级，更多超多福利加码"
+                    ],
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "",
+                        "data-type": "leaf"
+                      },
+                      "，速来查看超级88投放攻略，掌握大促流量密码，让好货高效突围市场！"
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "table",
+              {
+                "colsWidth": [
+                  145.33333333333331,
+                  217.33333333333331,
+                  361.3333333333333
+                ],
+                "sr": true,
+                "uuid": "mcu7g9ubngg0omfkxs"
+              },
+              [
+                "tr",
+                {
+                  "uuid": "mcu7g9ubn5dyukxdktg"
+                },
+                [
+                  "tc",
+                  {
+                    "fill": "#FFFFFF",
+                    "vAlign": "top",
+                    "uuid": "mcu7g9ubiiecar8x9l",
+                    "rowSpan": 1,
+                    "colSpan": 1,
+                    "border": "#9A6DD7"
+                  },
+                  [
+                    "p",
+                    {
+                      "uuid": "mcu7g9ub3ra0m5y5s8d",
+                      "jc": "left"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "bold": true,
+                          "sz": 11,
+                          "szUnit": "pt",
+                          "color": "#252527",
+                          "data-type": "leaf"
+                        },
+                        " "
+                      ],
+                      [
+                        "span",
+                        {
+                          "sz": 11,
+                          "szUnit": "pt",
+                          "data-type": "leaf"
+                        },
+                        " "
+                      ],
+                      [
+                        "span",
+                        {
+                          "bold": true,
+                          "sz": 11,
+                          "szUnit": "pt",
+                          "color": "#252527",
+                          "data-type": "leaf"
+                        },
+                        " 📅 7月8日场"
+                      ]
+                    ]
+                  ]
+                ],
+                [
+                  "tc",
+                  {
+                    "vAlign": "top",
+                    "fill": "#FFFFFF",
+                    "uuid": "mcu7g9ubp2ifqtjvgt",
+                    "rowSpan": 1,
+                    "colSpan": 1,
+                    "border": "#9A6DD7"
+                  },
+                  [
+                    "p",
+                    {
+                      "uuid": "mcu7g9ubnkq1uot0s0o"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "bold": true,
+                          "sz": 11,
+                          "szUnit": "pt",
+                          "color": "linear-gradient(90deg, #2449FE 0%, #CA4BA7 100%)",
+                          "data-type": "leaf"
+                        },
+                        "        直播预售活动预热                "
+                      ],
+                      [
+                        "span",
+                        {
+                          "bold": true,
+                          "sz": 10,
+                          "szUnit": "pt",
+                          "color": "#f326f3",
+                          "data-type": "leaf"
+                        },
+                        "⏰7月5日14:00"
+                      ]
+                    ]
+                  ]
+                ],
+                [
+                  "tc",
+                  {
+                    "fill": "#FFFFFF",
+                    "vAlign": "top",
+                    "uuid": "mcu7g9ubol40h75ite",
+                    "rowSpan": 1,
+                    "colSpan": 1,
+                    "border": "#9A6DD7"
+                  },
+                  [
+                    "p",
+                    {
+                      "uuid": "mcu7g9ubll8a0bd4qkk",
+                      "jc": "left"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "bold": true,
+                          "sz": 11,
+                          "szUnit": "pt",
+                          "color": "linear-gradient(90deg, #2449FE 0%, #CA4BA7 100%)",
+                          "data-type": "leaf"
+                        },
+                        "                            现货活动售卖 "
+                      ]
+                    ]
+                  ],
+                  [
+                    "p",
+                    {
+                      "uuid": "mcu7g9ubcp7p0earh7h",
+                      "jc": "left"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "leaf"
+                        },
+                        "                        "
+                      ],
+                      [
+                        "span",
+                        {
+                          "bold": true,
+                          "sz": 10,
+                          "szUnit": "pt",
+                          "data-type": "leaf"
+                        },
+                        "⏰"
+                      ],
+                      [
+                        "span",
+                        {
+                          "bold": true,
+                          "sz": 10,
+                          "szUnit": "pt",
+                          "color": "#f326f3",
+                          "data-type": "leaf"
+                        },
+                        "7月8日20:00"
+                      ]
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "table",
+              {
+                "colsWidth": [
+                  145.33333333333331,
+                  217.33333333333331,
+                  361.3333333333333
+                ],
+                "sr": true,
+                "uuid": "mcu7g9uc4y4w33d739"
+              },
+              [
+                "tr",
+                {
+                  "uuid": "mcu7g9ucg0abmpzw07"
+                },
+                [
+                  "tc",
+                  {
+                    "fill": "#FFFFFF",
+                    "vAlign": "top",
+                    "uuid": "mcu7g9ucsjb9l89c4ql",
+                    "rowSpan": 1,
+                    "colSpan": 1,
+                    "border": "#9A6DD7"
+                  },
+                  [
+                    "p",
+                    {
+                      "uuid": "mcu7g9ucrivpclha7di",
+                      "jc": "left"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "bold": true,
+                          "sz": 11,
+                          "szUnit": "pt",
+                          "data-type": "leaf"
+                        },
+                        "   "
+                      ],
+                      [
+                        "span",
+                        {
+                          "bold": true,
+                          "sz": 11,
+                          "szUnit": "pt",
+                          "color": "#252527",
+                          "data-type": "leaf"
+                        },
+                        "📅"
+                      ],
+                      [
+                        "span",
+                        {
+                          "bold": true,
+                          "sz": 11,
+                          "szUnit": "pt",
+                          "color": "",
+                          "data-type": "leaf"
+                        },
+                        "7月18日场"
+                      ]
+                    ]
+                  ]
+                ],
+                [
+                  "tc",
+                  {
+                    "vAlign": "top",
+                    "fill": "#FFFFFF",
+                    "uuid": "mcu7g9ucx3pkg2k213",
+                    "rowSpan": 1,
+                    "colSpan": 1,
+                    "border": "#9A6DD7"
+                  },
+                  [
+                    "p",
+                    {
+                      "uuid": "mcu7g9ucbqbkl8axun"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "bold": true,
+                          "sz": 11,
+                          "szUnit": "pt",
+                          "color": "linear-gradient(90deg, #2449FE 0%, #CA4BA7 100%)",
+                          "data-type": "leaf"
+                        },
+                        "       直播预售活动预热          "
+                      ],
+                      [
+                        "span",
+                        {
+                          "data-type": "leaf"
+                        },
+                        "     "
+                      ],
+                      [
+                        "span",
+                        {
+                          "bold": true,
+                          "sz": 10,
+                          "szUnit": "pt",
+                          "color": "#E03E3E",
+                          "data-type": "leaf"
+                        },
+                        "⏰"
+                      ],
+                      [
+                        "span",
+                        {
+                          "bold": true,
+                          "sz": 10,
+                          "szUnit": "pt",
+                          "color": "#f326f3",
+                          "data-type": "leaf"
+                        },
+                        "7月15日14:00"
+                      ]
+                    ]
+                  ]
+                ],
+                [
+                  "tc",
+                  {
+                    "fill": "#FFFFFF",
+                    "vAlign": "top",
+                    "uuid": "mcu7g9uc6e02mhaf6g4",
+                    "rowSpan": 1,
+                    "colSpan": 1,
+                    "border": "#9A6DD7"
+                  },
+                  [
+                    "p",
+                    {
+                      "uuid": "mcu7g9uc5imf21p6b27",
+                      "jc": "left"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "bold": true,
+                          "sz": 11,
+                          "szUnit": "pt",
+                          "color": "linear-gradient(90deg, #2449FE 0%, #CA4BA7 100%)",
+                          "data-type": "leaf"
+                        },
+                        "                            现货活动售卖 "
+                      ]
+                    ]
+                  ],
+                  [
+                    "p",
+                    {
+                      "uuid": "mcucslllysj8q0lkqq8",
+                      "jc": "left"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "leaf"
+                        },
+                        "                        "
+                      ],
+                      [
+                        "span",
+                        {
+                          "bold": true,
+                          "sz": 10,
+                          "szUnit": "pt",
+                          "data-type": "leaf"
+                        },
+                        "⏰"
+                      ],
+                      [
+                        "span",
+                        {
+                          "bold": true,
+                          "sz": 10,
+                          "szUnit": "pt",
+                          "color": "#f326f3",
+                          "data-type": "leaf"
+                        },
+                        "7月18日20:00"
+                      ]
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "table",
+              {
+                "colsWidth": [
+                  142,
+                  570
+                ],
+                "sr": true,
+                "uuid": "mcu7h62o4muf3o0e72"
+              },
+              [
+                "tr",
+                {
+                  "uuid": "mcu7h62ov6p5yugmup"
+                },
+                [
+                  "tc",
+                  {
+                    "border": "#9A6DD7",
+                    "fill": "#FFFFFF",
+                    "uuid": "mcu7h62ogs5uryxq4aj",
+                    "vAlign": "top",
+                    "rowSpan": 1,
+                    "colSpan": 1
+                  },
+                  [
+                    "p",
+                    {
+                      "jc": "center",
+                      "uuid": "mcu7h62o6wpl776ciga"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "bold": true,
+                          "sz": 12,
+                          "szUnit": "pt",
+                          "data-type": "leaf"
+                        },
+                        ""
+                      ]
+                    ]
+                  ],
+                  [
+                    "p",
+                    {
+                      "jc": "center",
+                      "uuid": "mcvkulwlzqssrtontof"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "bold": true,
+                          "sz": 12,
+                          "szUnit": "pt",
+                          "data-type": "leaf"
+                        },
+                        ""
+                      ]
+                    ]
+                  ],
+                  [
+                    "p",
+                    {
+                      "jc": "center",
+                      "uuid": "mcvkum1a9hygud8kgxt"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "bold": true,
+                          "sz": 12,
+                          "szUnit": "pt",
+                          "data-type": "leaf"
+                        },
+                        ""
+                      ]
+                    ]
+                  ],
+                  [
+                    "p",
+                    {
+                      "jc": "center",
+                      "uuid": "mcvkum69jpnexkqwmb"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "bold": true,
+                          "sz": 12,
+                          "szUnit": "pt",
+                          "data-type": "leaf"
+                        },
+                        ""
+                      ]
+                    ]
+                  ],
+                  [
+                    "p",
+                    {
+                      "jc": "center",
+                      "uuid": "mcu7nx3il8hrn2kd3iq"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "bold": true,
+                          "sz": 12,
+                          "szUnit": "pt",
+                          "color": "linear-gradient(152deg, #C676FF 0%, #654CFF 41%, #405EFF 75%, #007FFF 99%)",
+                          "data-type": "leaf"
+                        },
+                        "选品"
+                      ]
+                    ]
+                  ]
+                ],
+                [
+                  "tc",
+                  {
+                    "fill": "#F5F6F7",
+                    "uuid": "mcu7h62ow4dro68qe7",
+                    "vAlign": "top",
+                    "rowSpan": 1,
+                    "colSpan": 1
+                  },
+                  [
+                    "container",
+                    {
+                      "subType": "colorBlocks",
+                      "metadata": {
+                        "padding": {
+                          "top": 11,
+                          "right": 11,
+                          "bottom": 11,
+                          "left": 11
+                        },
+                        "borderRadius": 8,
+                        "bgcolor": "#FFFFFF",
+                        "showstk": false,
+                        "border": null
+                      },
+                      "uuid": "mdcsqj9r4ae0pdn1h5v"
+                    },
+                    [
+                      "p",
+                      {
+                        "uuid": "mdcsqj9rdbrn3e7bjc9"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "text"
+                        },
+                        [
+                          "span",
+                          {
+                            "sz": 10,
+                            "szUnit": "pt",
+                            "data-type": "leaf"
+                          },
+                          "围绕货品生命周期建设（内测）"
+                        ],
+                        [
+                          "span",
+                          {
+                            "bold": true,
+                            "sz": 10,
+                            "szUnit": "pt",
+                            "data-type": "leaf"
+                          },
+                          "新品、潜力品、机会爆品成长的能力"
+                        ],
+                        [
+                          "span",
+                          {
+                            "sz": 10,
+                            "szUnit": "pt",
+                            "data-type": "leaf"
+                          },
+                          "，助力各阶段商品在大促期间成交爆发更强！"
+                        ],
+                        [
+                          "span",
+                          {
+                            "bold": true,
+                            "sz": 10,
+                            "szUnit": "pt",
+                            "data-type": "leaf"
+                          },
+                          "建议锁定平台推荐商品；"
+                        ],
+                        [
+                          "span",
+                          {
+                            "bold": true,
+                            "sz": 10,
+                            "szUnit": "pt",
+                            "color": "#C10002",
+                            "data-type": "leaf"
+                          },
+                          "优选「平台推荐」商品，可获取“专属流量扶持”、“成本保障权益”"
+                        ]
+                      ]
+                    ]
+                  ],
+                  [
+                    "p",
+                    {
+                      "uuid": "mcvkodr1jdptga4bcqe"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "bold": true,
+                          "sz": 10,
+                          "szUnit": "pt",
+                          "color": "#C10002",
+                          "data-type": "leaf"
+                        },
+                        "新品："
+                      ],
+                      [
+                        "span",
+                        {
+                          "sz": 10,
+                          "szUnit": "pt",
+                          "color": "",
+                          "data-type": "leaf"
+                        },
+                        "新品推荐使用「一键起量」+「多目标出价」，配合平台专属出价策略与流量扶持机制高效协同，全站助力新品快速破百；"
+                      ]
+                    ]
+                  ],
+                  [
+                    "p",
+                    {
+                      "uuid": "mcvkof5f03e9z1hkp1uv"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "bold": true,
+                          "sz": 10,
+                          "szUnit": "pt",
+                          "color": "#C10002",
+                          "data-type": "leaf"
+                        },
+                        "潜力品："
+                      ],
+                      [
+                        "span",
+                        {
+                          "bold": false,
+                          "sz": 10,
+                          "szUnit": "pt",
+                          "color": "",
+                          "data-type": "leaf"
+                        },
+                        "通过商品的用户特征及商品属性，挖掘预测未来有GMV增长空间的商品进行推荐，通过「净成交出价」交付确收GMV，「多目标出价-直接成交」进行商品集中打爆，带动潜力品成交跃迁；"
+                      ]
+                    ]
+                  ],
+                  [
+                    "p",
+                    {
+                      "uuid": "mcvkojim11mm7od5o6tc"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "bold": true,
+                          "sz": 10,
+                          "szUnit": "pt",
+                          "color": "#C10002",
+                          "data-type": "leaf"
+                        },
+                        "机会爆品："
+                      ],
+                      [
+                        "span",
+                        {
+                          "bold": false,
+                          "sz": 10,
+                          "szUnit": "pt",
+                          "color": "",
+                          "data-type": "leaf"
+                        },
+                        "通过「多目标出价」/「一键起量」等增量能力的运用，在爆品稳定销量的同时，进行roi 交付稳定， 提升拿量能力，撬动PV增长；"
+                      ]
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "table",
+              {
+                "colsWidth": [
+                  142,
+                  570
+                ],
+                "sr": true,
+                "uuid": "mcu7htwp2udhkw20mhf"
+              },
+              [
+                "tr",
+                {
+                  "uuid": "mcu7htwpsumqee5fhw"
+                },
+                [
+                  "tc",
+                  {
+                    "fill": "#FFFFFF",
+                    "vAlign": "top",
+                    "uuid": "mcu7htwpwsovvexdvzg",
+                    "border": "#9A6DD7",
+                    "rowSpan": 1,
+                    "colSpan": 1
+                  },
+                  [
+                    "p",
+                    {
+                      "uuid": "mcu7htwpaflz8ca36qu",
+                      "jc": "center"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "bold": true,
+                          "sz": 12,
+                          "szUnit": "pt",
+                          "data-type": "leaf"
+                        },
+                        ""
+                      ]
+                    ]
+                  ],
+                  [
+                    "p",
+                    {
+                      "jc": "center",
+                      "uuid": "mcu7nyjqrwl2svhfcfd"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "bold": true,
+                          "sz": 12,
+                          "szUnit": "pt",
+                          "data-type": "leaf"
+                        },
+                        ""
+                      ]
+                    ]
+                  ],
+                  [
+                    "p",
+                    {
+                      "uuid": "mcu7nywb6k3rm5ouj7j",
+                      "jc": "center"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "bold": true,
+                          "sz": 12,
+                          "szUnit": "pt",
+                          "data-type": "leaf"
+                        },
+                        ""
+                      ]
+                    ]
+                  ],
+                  [
+                    "p",
+                    {
+                      "uuid": "mcu7nz1m2f6fqso9md4",
+                      "jc": "center"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "bold": true,
+                          "sz": 12,
+                          "szUnit": "pt",
+                          "data-type": "leaf"
+                        },
+                        ""
+                      ]
+                    ]
+                  ],
+                  [
+                    "p",
+                    {
+                      "uuid": "mcu7nz677y2jqyrl59",
+                      "jc": "center"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "bold": true,
+                          "sz": 12,
+                          "szUnit": "pt",
+                          "data-type": "leaf"
+                        },
+                        ""
+                      ]
+                    ]
+                  ],
+                  [
+                    "p",
+                    {
+                      "uuid": "mcu7nzklruthlu5ros",
+                      "jc": "center"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "bold": true,
+                          "sz": 12,
+                          "szUnit": "pt",
+                          "data-type": "leaf"
+                        },
+                        ""
+                      ]
+                    ]
+                  ],
+                  [
+                    "p",
+                    {
+                      "uuid": "mcu7nzpx1h6kr30rczc",
+                      "jc": "center"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "bold": true,
+                          "sz": 12,
+                          "szUnit": "pt",
+                          "data-type": "leaf"
+                        },
+                        ""
+                      ]
+                    ]
+                  ],
+                  [
+                    "p",
+                    {
+                      "uuid": "mcu7nzugq4pm9aotfp",
+                      "jc": "center"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "bold": true,
+                          "sz": 12,
+                          "szUnit": "pt",
+                          "data-type": "leaf"
+                        },
+                        ""
+                      ]
+                    ]
+                  ],
+                  [
+                    "p",
+                    {
+                      "uuid": "mcu7nzz6k3rwtjtiew",
+                      "jc": "center"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "bold": true,
+                          "sz": 12,
+                          "szUnit": "pt",
+                          "color": "linear-gradient(152deg, #C676FF 0%, #654CFF 41%, #405EFF 75%, #007FFF 99%)",
+                          "data-type": "leaf"
+                        },
+                        "出价&能力推荐"
+                      ]
+                    ]
+                  ]
+                ],
+                [
+                  "tc",
+                  {
+                    "fill": "#F5F6F7",
+                    "vAlign": "top",
+                    "uuid": "mcu7htwpgsl9ktgcjzw",
+                    "rowSpan": 1,
+                    "colSpan": 1
+                  },
+                  [
+                    "table",
+                    {
+                      "colsWidth": [
+                        194.99481201171875,
+                        338.99481201171875
+                      ],
+                      "sr": true,
+                      "uuid": "mcu7i8dvcwcahnejya"
+                    },
+                    [
+                      "tr",
+                      {
+                        "uuid": "mcu7i8dvkbqkjx3gbo"
+                      },
+                      [
+                        "tc",
+                        {
+                          "fill": "#FFFFFF",
+                          "vAlign": "top",
+                          "uuid": "mcu7i8dvki2lcpyuna",
+                          "border": "",
+                          "rowSpan": 1,
+                          "colSpan": 1
+                        },
+                        [
+                          "p",
+                          {
+                            "uuid": "mcvdtny3vnixlmzoyt",
+                            "jc": "center"
+                          },
+                          [
+                            "span",
+                            {
+                              "data-type": "text"
+                            },
+                            [
+                              "span",
+                              {
+                                "bold": true,
+                                "sz": 11,
+                                "szUnit": "pt",
+                                "data-type": "leaf"
+                              },
+                              "-"
+                            ]
+                          ]
+                        ]
+                      ],
+                      [
+                        "tc",
+                        {
+                          "fill": "#FFFFFF",
+                          "vAlign": "top",
+                          "uuid": "mcu7i8dvgcc1c287zn",
+                          "border": "",
+                          "rowSpan": 1,
+                          "colSpan": 1
+                        },
+                        [
+                          "p",
+                          {
+                            "uuid": "mcu7i8dv5ccok5e72zw"
+                          },
+                          [
+                            "span",
+                            {
+                              "data-type": "text"
+                            },
+                            [
+                              "span",
+                              {
+                                "bold": true,
+                                "sz": 10,
+                                "szUnit": "pt",
+                                "color": "#C10002",
+                                "data-type": "leaf"
+                              },
+                              "一键起量："
+                            ],
+                            [
+                              "span",
+                              {
+                                "sz": 10,
+                                "szUnit": "pt",
+                                "data-type": "leaf"
+                              },
+                              "保障基础预算交付，进行灵活起量成交探索，可以"
+                            ],
+                            [
+                              "span",
+                              {
+                                "bold": true,
+                                "sz": 10,
+                                "szUnit": "pt",
+                                "data-type": "leaf"
+                              },
+                              "自定义时段及地域能力的起量能力；"
+                            ]
+                          ]
+                        ]
+                      ]
+                    ]
+                  ],
+                  [
+                    "table",
+                    {
+                      "colsWidth": [
+                        193.99481201171875,
+                        339.99481201171875
+                      ],
+                      "sr": true,
+                      "uuid": "mcu7ip0bplpolzo79aa"
+                    },
+                    [
+                      "tr",
+                      {
+                        "uuid": "mcu7ip0bf72k6jvg6cv"
+                      },
+                      [
+                        "tc",
+                        {
+                          "border": "",
+                          "fill": "#FFFFFF",
+                          "uuid": "mcu7ip0bowmhxvtyxoc",
+                          "vAlign": "top",
+                          "rowSpan": 1,
+                          "colSpan": 1
+                        },
+                        [
+                          "p",
+                          {
+                            "uuid": "mcu7ip0bzooyt7as7oc",
+                            "jc": "center"
+                          },
+                          [
+                            "span",
+                            {
+                              "data-type": "text"
+                            },
+                            [
+                              "span",
+                              {
+                                "bold": true,
+                                "sz": 11,
+                                "szUnit": "pt",
+                                "data-type": "leaf"
+                              },
+                              ""
+                            ]
+                          ]
+                        ],
+                        [
+                          "p",
+                          {
+                            "uuid": "mcvdttumoe6m2squ4n",
+                            "jc": "center"
+                          },
+                          [
+                            "span",
+                            {
+                              "data-type": "text"
+                            },
+                            [
+                              "span",
+                              {
+                                "bold": true,
+                                "sz": 11,
+                                "szUnit": "pt",
+                                "data-type": "leaf"
+                              },
+                              "-"
+                            ]
+                          ]
+                        ]
+                      ],
+                      [
+                        "tc",
+                        {
+                          "fill": "#FFFFFF",
+                          "vAlign": "top",
+                          "uuid": "mcu7ip0bb2bjaoe1luh",
+                          "border": "",
+                          "rowSpan": 1,
+                          "colSpan": 1
+                        },
+                        [
+                          "p",
+                          {
+                            "uuid": "mcu7ip0bp49oe6po4r"
+                          },
+                          [
+                            "span",
+                            {
+                              "data-type": "text"
+                            },
+                            [
+                              "span",
+                              {
+                                "bold": true,
+                                "sz": 10,
+                                "szUnit": "pt",
+                                "color": "#C10002",
+                                "data-type": "leaf"
+                              },
+                              "最大化拿量："
+                            ],
+                            [
+                              "span",
+                              {
+                                "sz": 10,
+                                "szUnit": "pt",
+                                "data-type": "leaf"
+                              },
+                              "系统最大程度帮助优化转化价值的自动出价产品，最大化成交，满足"
+                            ],
+                            [
+                              "span",
+                              {
+                                "bold": true,
+                                "sz": 10,
+                                "szUnit": "pt",
+                                "data-type": "leaf"
+                              },
+                              "「充分跑量」「流量均衡」「最大化转化效果」"
+                            ],
+                            [
+                              "span",
+                              {
+                                "sz": 10,
+                                "szUnit": "pt",
+                                "data-type": "leaf"
+                              },
+                              "的投放诉求；"
+                            ]
+                          ]
+                        ]
+                      ]
+                    ]
+                  ],
+                  [
+                    "table",
+                    {
+                      "colsWidth": [
+                        193.99481201171875,
+                        339.99481201171875
+                      ],
+                      "sr": true,
+                      "uuid": "mcu7j4c79mhbcyq0tvf"
+                    },
+                    [
+                      "tr",
+                      {
+                        "uuid": "mcu7j4c72hdyobfp0uc"
+                      },
+                      [
+                        "tc",
+                        {
+                          "fill": "#FFFFFF",
+                          "vAlign": "top",
+                          "uuid": "mcu7j4c7i1c6xskb4ed",
+                          "border": "",
+                          "rowSpan": 1,
+                          "colSpan": 1
+                        },
+                        [
+                          "p",
+                          {
+                            "uuid": "mcu7j4c76it8awbixc8"
+                          },
+                          [
+                            "span",
+                            {
+                              "data-type": "text"
+                            },
+                            [
+                              "span",
+                              {
+                                "bold": true,
+                                "sz": 10,
+                                "szUnit": "pt",
+                                "color": "#C10002",
+                                "data-type": "leaf"
+                              },
+                              "多目标出价-加购："
+                            ],
+                            [
+                              "span",
+                              {
+                                "sz": 10,
+                                "szUnit": "pt",
+                                "data-type": "leaf"
+                              },
+                              "保障基础预算交付的同时，预热期加强对浅层加购积累，提升大促爆发；"
+                            ]
+                          ]
+                        ]
+                      ],
+                      [
+                        "tc",
+                        {
+                          "fill": "#FFFFFF",
+                          "vAlign": "top",
+                          "uuid": "mcu7j4c76271n8f6wjj",
+                          "border": "",
+                          "rowSpan": 1,
+                          "colSpan": 1
+                        },
+                        [
+                          "p",
+                          {
+                            "uuid": "mcu7j4c75ogayji8sh"
+                          },
+                          [
+                            "span",
+                            {
+                              "data-type": "text"
+                            },
+                            [
+                              "span",
+                              {
+                                "bold": true,
+                                "sz": 10,
+                                "szUnit": "pt",
+                                "color": "#C10002",
+                                "data-type": "leaf"
+                              },
+                              "多目标出价-直接成交："
+                            ],
+                            [
+                              "span",
+                              {
+                                "sz": 10,
+                                "szUnit": "pt",
+                                "data-type": "leaf"
+                              },
+                              "开启多目标直接成交，增加计划整体竞争力，爆发期探索直接成交增量，加速活动单品的快速打爆；"
+                            ]
+                          ]
+                        ]
+                      ]
+                    ]
+                  ],
+                  [
+                    "container",
+                    {
+                      "subType": "colorBlocks",
+                      "metadata": {
+                        "padding": {
+                          "top": 11,
+                          "right": 11,
+                          "bottom": 11,
+                          "left": 11
+                        },
+                        "borderRadius": 8,
+                        "bgcolor": "#FFFFFF",
+                        "showstk": false,
+                        "border": null
+                      },
+                      "uuid": "mcu7jkkm1ibxq4xnxnq"
+                    },
+                    [
+                      "p",
+                      {
+                        "uuid": "mcu7jkkm56fmt48pue4"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "text"
+                        },
+                        [
+                          "span",
+                          {
+                            "bold": true,
+                            "sz": 10,
+                            "szUnit": "pt",
+                            "color": "#C10002",
+                            "data-type": "leaf"
+                          },
+                          "全店模式："
+                        ],
+                        [
+                          "span",
+                          {
+                            "sz": 10,
+                            "szUnit": "pt",
+                            "data-type": "leaf"
+                          },
+                          "建议采纳系统推荐的全店ROI及日预算，开启自动规则及时补充全店模式下的预算额度，选择有基础销量的爆品/次爆品/潜力品，助力全店GMV打爆；"
+                        ]
+                      ]
+                    ]
+                  ],
+                  [
+                    "table",
+                    {
+                      "colsWidth": [
+                        193.99481201171875,
+                        339.99481201171875
+                      ],
+                      "sr": true,
+                      "uuid": "mcu7jyzj50zbl518y1r"
+                    },
+                    [
+                      "tr",
+                      {
+                        "uuid": "mcu7jyzjd40pvujbf15"
+                      },
+                      [
+                        "tc",
+                        {
+                          "fill": "#FFFFFF",
+                          "vAlign": "top",
+                          "uuid": "mcu7jyzj3ht6sqg7wge",
+                          "border": "",
+                          "rowSpan": 1,
+                          "colSpan": 1
+                        },
+                        [
+                          "p",
+                          {
+                            "uuid": "mcu7jyzjnngjmdo1wo",
+                            "jc": "center"
+                          },
+                          [
+                            "span",
+                            {
+                              "data-type": "text"
+                            },
+                            [
+                              "span",
+                              {
+                                "bold": true,
+                                "sz": 11,
+                                "szUnit": "pt",
+                                "data-type": "leaf"
+                              },
+                              "-"
+                            ]
+                          ]
+                        ]
+                      ],
+                      [
+                        "tc",
+                        {
+                          "fill": "#FFFFFF",
+                          "vAlign": "top",
+                          "uuid": "mcu7jyzjakey8ib6xsu",
+                          "border": "",
+                          "rowSpan": 1,
+                          "colSpan": 1
+                        },
+                        [
+                          "p",
+                          {
+                            "uuid": "mcu7jyzjk50sfnu5iz8"
+                          },
+                          [
+                            "span",
+                            {
+                              "data-type": "text"
+                            },
+                            [
+                              "span",
+                              {
+                                "bold": true,
+                                "sz": 10,
+                                "szUnit": "pt",
+                                "color": "#C10002",
+                                "data-type": "leaf"
+                              },
+                              "净成交出价："
+                            ],
+                            [
+                              "span",
+                              {
+                                "sz": 10,
+                                "szUnit": "pt",
+                                "data-type": "leaf"
+                              },
+                              "系统AI智能预判，最大化净成交金额，尽量降低退款订单影响；"
+                            ]
+                          ]
+                        ]
+                      ]
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "table",
+              {
+                "colsWidth": [
+                  142,
+                  570
+                ],
+                "sr": true,
+                "uuid": "mcu7kerwv262e1014c"
+              },
+              [
+                "tr",
+                {
+                  "uuid": "mcu7kerw7xdyxqfu77x"
+                },
+                [
+                  "tc",
+                  {
+                    "fill": "#FFFFFF",
+                    "vAlign": "top",
+                    "uuid": "mcu7kerwskg4oj5k29",
+                    "border": "#9A6DD7",
+                    "rowSpan": 1,
+                    "colSpan": 1
+                  },
+                  [
+                    "p",
+                    {
+                      "uuid": "mcu7kerw6bpvynnzzuj",
+                      "jc": "center"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "bold": true,
+                          "sz": 12,
+                          "szUnit": "pt",
+                          "data-type": "leaf"
+                        },
+                        ""
+                      ]
+                    ]
+                  ],
+                  [
+                    "p",
+                    {
+                      "uuid": "mcu7o23uwvpp7n1s5n",
+                      "jc": "left"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "color": "linear-gradient(152deg, #C676FF 0%, #654CFF 41%, #405EFF 75%, #007FFF 99%)",
+                          "data-type": "leaf"
+                        },
+                        "      "
+                      ]
+                    ]
+                  ],
+                  [
+                    "p",
+                    {
+                      "uuid": "mcucu26f6t1jk3o54pd",
+                      "jc": "left"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "color": "linear-gradient(152deg, #C676FF 0%, #654CFF 41%, #405EFF 75%, #007FFF 99%)",
+                          "data-type": "leaf"
+                        },
+                        "      "
+                      ],
+                      [
+                        "span",
+                        {
+                          "bold": true,
+                          "sz": 12,
+                          "szUnit": "pt",
+                          "color": "linear-gradient(152deg, #C676FF 0%, #654CFF 41%, #405EFF 75%, #007FFF 99%)",
+                          "data-type": "leaf"
+                        },
+                        "预算建议"
+                      ]
+                    ]
+                  ]
+                ],
+                [
+                  "tc",
+                  {
+                    "fill": "#F5F6F7",
+                    "vAlign": "top",
+                    "uuid": "mcu7kerw9g37j54lhq4",
+                    "rowSpan": 1,
+                    "colSpan": 1
+                  },
+                  [
+                    "container",
+                    {
+                      "subType": "colorBlocks",
+                      "metadata": {
+                        "padding": {
+                          "top": 11,
+                          "right": 11,
+                          "bottom": 11,
+                          "left": 11
+                        },
+                        "borderRadius": 8,
+                        "sticker": {
+                          "type": "dingding",
+                          "id": "alidocs_emotion_001",
+                          "name": "[优先级: 1]",
+                          "url": "https://g.alicdn.com/alidocs/emotion-assets/0.0.6/alidocs_emotion_001.png"
+                        },
+                        "bgcolor": "#FFFFFF",
+                        "showstk": true,
+                        "border": null
+                      },
+                      "uuid": "mcucglvlgtqb1e0avtb"
+                    },
+                    [
+                      "p",
+                      {
+                        "uuid": "mcucgnzaehszlkw9z2s",
+                        "jc": "left",
+                        "ind": {
+                          "left": 0
+                        }
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "text"
+                        },
+                        [
+                          "span",
+                          {
+                            "bold": true,
+                            "sz": 10,
+                            "szUnit": "pt",
+                            "data-type": "leaf"
+                          },
+                          "基础预算："
+                        ],
+                        [
+                          "span",
+                          {
+                            "bold": false,
+                            "sz": 10,
+                            "szUnit": "pt",
+                            "data-type": "leaf"
+                          },
+                          "预算建议不低于平台推荐预算（"
+                        ],
+                        [
+                          "span",
+                          {
+                            "sz": 10,
+                            "szUnit": "pt",
+                            "data-type": "leaf"
+                          },
+                          "每天建议不要调整超过两次，同时每次调整的幅度不宜过大"
+                        ],
+                        [
+                          "span",
+                          {
+                            "bold": false,
+                            "sz": 10,
+                            "szUnit": "pt",
+                            "data-type": "leaf"
+                          },
+                          "）"
+                        ]
+                      ]
+                    ]
+                  ],
+                  [
+                    "container",
+                    {
+                      "subType": "colorBlocks",
+                      "metadata": {
+                        "padding": {
+                          "top": 11,
+                          "right": 11,
+                          "bottom": 11,
+                          "left": 11
+                        },
+                        "borderRadius": 8,
+                        "sticker": {
+                          "type": "dingding",
+                          "id": "alidocs_emotion_002",
+                          "name": "[优先级: 2]",
+                          "url": "https://g.alicdn.com/alidocs/emotion-assets/0.0.6/alidocs_emotion_002.png"
+                        },
+                        "bgcolor": "#FFFFFF",
+                        "showstk": true,
+                        "border": null
+                      },
+                      "uuid": "mcucn5un57i46zatspp"
+                    },
+                    [
+                      "p",
+                      {
+                        "uuid": "mcucn5undaq65et4bu"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "text"
+                        },
+                        [
+                          "span",
+                          {
+                            "bold": true,
+                            "sz": 10,
+                            "szUnit": "pt",
+                            "data-type": "leaf"
+                          },
+                          "单独设置起量/多目标预算："
+                        ],
+                        [
+                          "span",
+                          {
+                            "bold": false,
+                            "sz": 10,
+                            "szUnit": "pt",
+                            "data-type": "leaf"
+                          },
+                          "如开启一键起量/多目标出价能力，建议采纳平台推荐预算，投放效果更优，预算建议不低于基础预算值的 20%；"
+                        ]
+                      ]
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "table",
+              {
+                "colsWidth": [
+                  142,
+                  570
+                ],
+                "sr": true,
+                "uuid": "mcu7kxnu8poliieroh8"
+              },
+              [
+                "tr",
+                {
+                  "uuid": "mcu7kxnuyvja5cphed"
+                },
+                [
+                  "tc",
+                  {
+                    "fill": "#FFFFFF",
+                    "vAlign": "top",
+                    "uuid": "mcu7kxnu2ra21ns1hlm",
+                    "border": "#9A6DD7",
+                    "rowSpan": 1,
+                    "colSpan": 1
+                  },
+                  [
+                    "p",
+                    {
+                      "uuid": "mcu7kxnu2hm6hi3a6o4",
+                      "jc": "center"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "bold": true,
+                          "sz": 12,
+                          "szUnit": "pt",
+                          "color": "linear-gradient(152deg, #C676FF 0%, #654CFF 41%, #405EFF 75%, #007FFF 99%)",
+                          "data-type": "leaf"
+                        },
+                        " "
+                      ]
+                    ]
+                  ],
+                  [
+                    "p",
+                    {
+                      "uuid": "mcucgwnzvx1tomup2dg",
+                      "jc": "left"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "leaf"
+                        },
+                        "  "
+                      ]
+                    ]
+                  ],
+                  [
+                    "p",
+                    {
+                      "uuid": "mcucgz1p9x3mz50obfs",
+                      "jc": "left"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "leaf"
+                        },
+                        "  "
+                      ]
+                    ]
+                  ],
+                  [
+                    "p",
+                    {
+                      "uuid": "mcucou4eypcjm66j57",
+                      "jc": "left"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "bold": true,
+                          "sz": 12,
+                          "szUnit": "pt",
+                          "color": "linear-gradient(152deg, #C676FF 0%, #654CFF 41%, #405EFF 75%, #007FFF 99%)",
+                          "data-type": "leaf"
+                        },
+                        ""
+                      ]
+                    ]
+                  ],
+                  [
+                    "p",
+                    {
+                      "uuid": "mcucouxm3kz6h4ubshq",
+                      "jc": "left"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "bold": true,
+                          "sz": 12,
+                          "szUnit": "pt",
+                          "color": "linear-gradient(152deg, #C676FF 0%, #654CFF 41%, #405EFF 75%, #007FFF 99%)",
+                          "data-type": "leaf"
+                        },
+                        "  数据监控建议"
+                      ]
+                    ]
+                  ]
+                ],
+                [
+                  "tc",
+                  {
+                    "fill": "#F5F6F7",
+                    "vAlign": "top",
+                    "uuid": "mcu7kxnu8ldwcmxy5pb",
+                    "rowSpan": 1,
+                    "colSpan": 1
+                  },
+                  [
+                    "container",
+                    {
+                      "subType": "colorBlocks",
+                      "metadata": {
+                        "padding": {
+                          "top": 11,
+                          "right": 11,
+                          "bottom": 11,
+                          "left": 11
+                        },
+                        "borderRadius": 8,
+                        "bgcolor": "#FFFFFF",
+                        "showstk": false,
+                        "border": null
+                      },
+                      "uuid": "mcuaipdweecwdmircba"
+                    },
+                    [
+                      "p",
+                      {
+                        "uuid": "mcucjdsr8a2nsi6agiw"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "text"
+                        },
+                        [
+                          "span",
+                          {
+                            "bold": true,
+                            "sz": 10,
+                            "szUnit": "pt",
+                            "color": "#C10002",
+                            "data-type": "leaf"
+                          },
+                          "基础计划"
+                        ]
+                      ]
+                    ],
+                    [
+                      "p",
+                      {
+                        "list": {
+                          "isChecked": false,
+                          "isOrdered": false,
+                          "isTaskList": false,
+                          "level": 0,
+                          "listId": "iqpqw88kzol",
+                          "listStyle": {
+                            "format": "bullet",
+                            "text": "●",
+                            "align": "left"
+                          },
+                          "symbolStyle": {
+                            "sz": 10
+                          },
+                          "extraData": {},
+                          "hideSymbol": false
+                        },
+                        "uuid": "mcucjf2a98fkeok7h6f"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "text"
+                        },
+                        [
+                          "span",
+                          {
+                            "sz": 10,
+                            "szUnit": "pt",
+                            "data-type": "leaf"
+                          },
+                          "可在投放列表页跳转"
+                        ],
+                        [
+                          "span",
+                          {
+                            "bold": true,
+                            "sz": 10,
+                            "szUnit": "pt",
+                            "color": "#C10002",
+                            "data-type": "leaf"
+                          },
+                          "「报表」"
+                        ],
+                        [
+                          "span",
+                          {
+                            "sz": 10,
+                            "szUnit": "pt",
+                            "data-type": "leaf"
+                          },
+                          "看多日投放数据，根据数据评估计划整体投放效果"
+                        ]
+                      ]
+                    ],
+                    [
+                      "p",
+                      {
+                        "list": {
+                          "isChecked": false,
+                          "isOrdered": false,
+                          "isTaskList": false,
+                          "level": 0,
+                          "listId": "iqpqw88kzol",
+                          "listStyle": {
+                            "format": "bullet",
+                            "text": "●",
+                            "align": "left"
+                          },
+                          "extraData": {},
+                          "hideSymbol": false,
+                          "symbolStyle": {
+                            "sz": 10
+                          }
+                        },
+                        "uuid": "mcucaybemg88rl5pz2h"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "text"
+                        },
+                        [
+                          "span",
+                          {
+                            "sz": 10,
+                            "szUnit": "pt",
+                            "data-type": "leaf"
+                          },
+                          "评估前提：尽量用"
+                        ],
+                        [
+                          "span",
+                          {
+                            "bold": true,
+                            "sz": 10,
+                            "szUnit": "pt",
+                            "data-type": "leaf"
+                          },
+                          "稳定投放期的数据"
+                        ],
+                        [
+                          "span",
+                          {
+                            "sz": 10,
+                            "szUnit": "pt",
+                            "data-type": "leaf"
+                          },
+                          "对比投放前的数据，同时建议多天均值对比，如投前7天对比投后7天"
+                        ],
+                        [
+                          "span",
+                          {
+                            "data-type": "leaf"
+                          },
+                          "，"
+                        ],
+                        [
+                          "span",
+                          {
+                            "sz": 10,
+                            "szUnit": "pt",
+                            "data-type": "leaf"
+                          },
+                          "再结合生意参谋或者全站增长数据，分析投放商品投前投后变化情况，判断投放效果"
+                        ]
+                      ]
+                    ]
+                  ],
+                  [
+                    "container",
+                    {
+                      "subType": "colorBlocks",
+                      "metadata": {
+                        "padding": {
+                          "top": 11,
+                          "right": 11,
+                          "bottom": 11,
+                          "left": 11
+                        },
+                        "borderRadius": 8,
+                        "bgcolor": "#FFFFFF",
+                        "showstk": false,
+                        "border": null
+                      },
+                      "uuid": "mcucijx31j4d348bv7r"
+                    },
+                    [
+                      "p",
+                      {
+                        "uuid": "mcucj2em34hcr6ohfco"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "text"
+                        },
+                        [
+                          "span",
+                          {
+                            "bold": true,
+                            "sz": 10,
+                            "szUnit": "pt",
+                            "color": "#C10002",
+                            "data-type": "leaf"
+                          },
+                          "开启"
+                        ],
+                        [
+                          "span",
+                          {
+                            "bold": true,
+                            "sz": 9,
+                            "szUnit": "pt",
+                            "color": "#C10002",
+                            "data-type": "leaf"
+                          },
+                          "「"
+                        ],
+                        [
+                          "span",
+                          {
+                            "bold": true,
+                            "sz": 10,
+                            "szUnit": "pt",
+                            "color": "#C10002",
+                            "data-type": "leaf"
+                          },
+                          "一键起量/多目标出价"
+                        ],
+                        [
+                          "span",
+                          {
+                            "bold": true,
+                            "sz": 9,
+                            "szUnit": "pt",
+                            "color": "#C10002",
+                            "data-type": "leaf"
+                          },
+                          "」"
+                        ],
+                        [
+                          "span",
+                          {
+                            "bold": true,
+                            "sz": 10,
+                            "szUnit": "pt",
+                            "color": "#C10002",
+                            "data-type": "leaf"
+                          },
+                          "计划"
+                        ]
+                      ]
+                    ],
+                    [
+                      "p",
+                      {
+                        "uuid": "mcucl930dorc3uc7w29",
+                        "ind": {
+                          "left": 0
+                        },
+                        "list": {
+                          "listId": "cla9uevokyu",
+                          "level": 0,
+                          "isTaskList": false,
+                          "isOrdered": false,
+                          "listStyleType": "SCIR_ECIR_SREC",
+                          "symbolStyle": {
+                            "sz": 9
+                          },
+                          "listStyle": {
+                            "format": "bullet",
+                            "text": "●",
+                            "align": "left"
+                          }
+                        }
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "text"
+                        },
+                        [
+                          "span",
+                          {
+                            "sz": 9,
+                            "szUnit": "pt",
+                            "data-type": "leaf"
+                          },
+                          "点击「计划」下的"
+                        ],
+                        [
+                          "span",
+                          {
+                            "bold": true,
+                            "sz": 9,
+                            "szUnit": "pt",
+                            "color": "#C10002",
+                            "data-type": "leaf"
+                          },
+                          "「投放调优」"
+                        ],
+                        [
+                          "span",
+                          {
+                            "sz": 9,
+                            "szUnit": "pt",
+                            "data-type": "leaf"
+                          },
+                          "页面->在投放调优右侧的投放调优数据进行查看一键起量/多目标效果增量效果（一键起量/加购/直接成交）"
+                        ]
+                      ]
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "container",
+              {
+                "metadata": {
+                  "bgcolor": "#FFFFFF",
+                  "border": "#9A6DD7",
+                  "borderRadius": 8,
+                  "padding": {
+                    "bottom": 11,
+                    "left": 11,
+                    "right": 11,
+                    "top": 11
+                  },
+                  "showstk": true,
+                  "sticker": {
+                    "color": "special-color-ai",
+                    "id": "Login",
+                    "type": "icon"
+                  }
+                },
+                "subType": "colorBlocks",
+                "uuid": "mcuduc7jlt5a9ch513"
+              },
+              [
+                "p",
+                {
+                  "uuid": "mcuduc7jme07v4kyqs"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "text"
+                  },
+                  [
+                    "span",
+                    {
+                      "bold": true,
+                      "color": "linear-gradient(90deg, #10CCF7 0%, #AB44FB 100%)",
+                      "data-type": "leaf"
+                    },
+                    "万相台无界·货品全站推广，与您并肩冲刺，抢跑年中增量红利，祝超级88冲刺登顶！ "
+                  ]
+                ]
+              ]
+            ]
+          ],
+          [
+            "container",
+            {
+              "subType": "colorBlocks",
+              "metadata": {
+                "padding": {
+                  "top": 11,
+                  "right": 11,
+                  "bottom": 11,
+                  "left": 11
+                },
+                "borderRadius": 8,
+                "bgcolor": "#F0EBF7",
+                "showstk": false,
+                "border": null
+              },
+              "uuid": "mcvhbz52uui54127bea"
+            },
+            [
+              "container",
+              {
+                "subType": "colorBlocks",
+                "metadata": {
+                  "padding": {
+                    "top": 11,
+                    "right": 11,
+                    "bottom": 11,
+                    "left": 11
+                  },
+                  "borderRadius": 8,
+                  "bgcolor": "#FFFFFF",
+                  "showstk": false,
+                  "border": null
+                },
+                "uuid": "mcvk2i7af1csdyk7dis"
+              },
+              [
+                "h1",
+                {
+                  "jc": "center",
+                  "spacing": {
+                    "after": 9,
+                    "before": 26.666666666666664,
+                    "line": 0.8529411764705882
+                  },
+                  "uuid": "mcvk2i7agvsmd1u3oup"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "text"
+                  },
+                  [
+                    "span",
+                    {
+                      "bold": true,
+                      "sz": 20,
+                      "szUnit": "pt",
+                      "color": "linear-gradient(90deg, #2449FE 0%, #CA4BA7 100%)",
+                      "data-type": "leaf"
+                    },
+                    "「货品全站推广」福利活动"
+                  ]
+                ]
+              ]
+            ],
+            [
+              "p",
+              {
+                "uuid": "moiawc33rbv4pur8xe",
+                "jc": "left"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "sz": 11,
+                    "szUnit": "pt",
+                    "color": "#C10002",
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ]
+            ],
+            [
+              "p",
+              {
+                "uuid": "moiawm7iy2vni7jhsv8",
+                "jc": "center"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "sz": 11,
+                    "szUnit": "pt",
+                    "color": "#C10002",
+                    "data-type": "leaf"
+                  },
+                  "敬请期待"
+                ]
+              ]
+            ],
+            [
+              "p",
+              {
+                "uuid": "moiawo6vdj5lru0hwpe",
+                "jc": "center"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "sz": 11,
+                    "szUnit": "pt",
+                    "color": "#C10002",
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ]
+            ]
+          ],
+          [
+            "table",
+            {
+              "colsWidth": [
+                161.00521850585938,
+                163.00521850585938,
+                196.0053944105513,
+                192.0050426011675
+              ],
+              "sr": true,
+              "uuid": "mcvdh4lx9zhl70i3cc5"
+            },
+            [
+              "tr",
+              {
+                "uuid": "mcvdh4lxakuqw9gi7z"
+              },
+              [
+                "tc",
+                {
+                  "fill": "#F0EBF7",
+                  "vAlign": "top",
+                  "uuid": "mcvdh4lxmbi4c49x4ds",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mcvdhldalhsqetz5na",
+                    "jc": "center"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "sz": 10,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      "百大QA分享"
+                    ],
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "sz": 10,
+                        "szUnit": "pt",
+                        "color": "#f108c3",
+                        "data-type": "leaf"
+                      },
+                      "看这里"
+                    ],
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "#f108c3",
+                        "data-type": "leaf"
+                      },
+                      "↓"
+                    ]
+                  ]
+                ],
+                [
+                  "container",
+                  {
+                    "subType": "colorBlocks",
+                    "metadata": {
+                      "padding": {
+                        "top": 11,
+                        "right": 11,
+                        "bottom": 11,
+                        "left": 11
+                      },
+                      "borderRadius": 8,
+                      "bgcolor": "#F5F6F7",
+                      "showstk": false,
+                      "border": "#9A6DD7"
+                    },
+                    "uuid": "mcvdhdh47bwvtx6bux"
+                  },
+                  [
+                    "p",
+                    {
+                      "uuid": "mcvdhdh48exlp6db3pk",
+                      "jc": "center"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "leaf"
+                        },
+                        ""
+                      ]
+                    ],
+                    [
+                      "img",
+                      {
+                        "uuid": "mcyffb4x3lsevwr1xma",
+                        "name": "f4772a14ae2656dfcb0e8a012010afa7.png",
+                        "size": 4253,
+                        "width": 186.67,
+                        "height": 186.67,
+                        "src": "/core/api/resources/img/5eecdaf48460cde50f0dd6997010a2f45b20d27caf10501375b8339e1c4c24831b75b38faadcd24bec177c308ebd5304dcf5da1e6219673a34696072d0cd3384b5b5b5efd3a4e5bcbf2e6d20feba58c205aabc6f421774bf4fb4c8ed7016461c",
+                        "extraData": {
+                          "resourceId": "9f89cd01-be9c-4dd5-ac66-5a36f7fd3c40",
+                          "metaData": {
+                            "size": 4253,
+                            "originWidth": 280,
+                            "originHeight": 280,
+                            "format": "png",
+                            "ratio": 1
+                          }
+                        }
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "text"
+                        },
+                        [
+                          "span",
+                          {
+                            "data-type": "leaf"
+                          },
+                          ""
+                        ]
+                      ]
+                    ],
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "leaf"
+                        },
+                        ""
+                      ]
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "vAlign": "top",
+                  "fill": "#F0EBF7",
+                  "uuid": "mcvdosl54ugsli9tt7j",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mcvdhkh8gflw6s6ehg5",
+                    "jc": "center"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "sz": 10,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      "百大案例分享"
+                    ],
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "sz": 10,
+                        "szUnit": "pt",
+                        "color": "#f108c3",
+                        "data-type": "leaf"
+                      },
+                      "看这里"
+                    ],
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "#f108c3",
+                        "data-type": "leaf"
+                      },
+                      "↓"
+                    ]
+                  ]
+                ],
+                [
+                  "container",
+                  {
+                    "subType": "colorBlocks",
+                    "metadata": {
+                      "padding": {
+                        "top": 11,
+                        "right": 11,
+                        "bottom": 11,
+                        "left": 11
+                      },
+                      "borderRadius": 8,
+                      "bgcolor": "#F5F6F7",
+                      "showstk": false,
+                      "border": "#9A6DD7"
+                    },
+                    "uuid": "mcvdhiss7jkrn47rvi"
+                  },
+                  [
+                    "p",
+                    {
+                      "uuid": "mcvdozugqviu51gqq3j",
+                      "jc": "center"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "leaf"
+                        },
+                        ""
+                      ]
+                    ],
+                    [
+                      "img",
+                      {
+                        "uuid": "mcyffb4xwuiv37tepj",
+                        "name": "8ecaf14189bc1dbe6f016357b3d6ee0b.png",
+                        "size": 4542,
+                        "width": 186.67,
+                        "height": 186.67,
+                        "src": "/core/api/resources/img/5eecdaf48460cde50f0dd6997010a2f45b20d27caf10501375b8339e1c4c24831b75b38faadcd24bec177c308ebd5304cff34df80bfd77d4284e7074eb1296bdc14f30cd9e00c1cb912527723783113d9a0e3bffe28b57114fb4c8ed7016461c",
+                        "extraData": {
+                          "resourceId": "066da217-9755-41d0-a199-e292891bdeda",
+                          "metaData": {
+                            "size": 4542,
+                            "originWidth": 280,
+                            "originHeight": 280,
+                            "format": "png",
+                            "ratio": 1
+                          }
+                        }
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "text"
+                        },
+                        [
+                          "span",
+                          {
+                            "data-type": "leaf"
+                          },
+                          ""
+                        ]
+                      ]
+                    ],
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "leaf"
+                        },
+                        ""
+                      ]
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "vAlign": "top",
+                  "fill": "#F0EBF7",
+                  "uuid": "mcvfd8ifru559ecp3l",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mcvfd8ifmt0bxoxl4ec"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "sz": 10,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      "  货品全站推广详情"
+                    ],
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "sz": 10,
+                        "szUnit": "pt",
+                        "color": "#f108c3",
+                        "data-type": "leaf"
+                      },
+                      "看这里"
+                    ],
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "#f108c3",
+                        "data-type": "leaf"
+                      },
+                      "↓"
+                    ]
+                  ]
+                ],
+                [
+                  "container",
+                  {
+                    "subType": "colorBlocks",
+                    "metadata": {
+                      "padding": {
+                        "top": 11,
+                        "right": 11,
+                        "bottom": 11,
+                        "left": 11
+                      },
+                      "borderRadius": 8,
+                      "bgcolor": "#F5F6F7",
+                      "showstk": false,
+                      "border": "#9A6DD7"
+                    },
+                    "uuid": "mcvfq7bfrwfb769m3or"
+                  },
+                  [
+                    "p",
+                    {
+                      "uuid": "mcvfq7bfnpkj0coa0ar",
+                      "jc": "center"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "bold": true,
+                          "sz": 11,
+                          "szUnit": "pt",
+                          "data-type": "leaf"
+                        },
+                        ""
+                      ]
+                    ],
+                    [
+                      "img",
+                      {
+                        "uuid": "mcyffb4xacb5czjdoyb",
+                        "name": "b33af10bf766e39cd12c238322804974.png",
+                        "size": 3986,
+                        "width": 115,
+                        "height": 115,
+                        "src": "/core/api/resources/img/5eecdaf48460cde50f0dd6997010a2f45b20d27caf10501375b8339e1c4c24831b75b38faadcd24bec177c308ebd530429a16a00d4371e70fc6b600b7964f80376f2ebb836138fc263eed34130bed09a1ba4e0b0b179ff094fb4c8ed7016461c",
+                        "extraData": {
+                          "resourceId": "10dad057-2c90-45ec-824a-527d74b75b53",
+                          "metaData": {
+                            "size": 3986,
+                            "originWidth": 280,
+                            "originHeight": 280,
+                            "format": "png",
+                            "ratio": 1
+                          }
+                        },
+                        "rotation": 0
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "text"
+                        },
+                        [
+                          "span",
+                          {
+                            "data-type": "leaf"
+                          },
+                          ""
+                        ]
+                      ]
+                    ],
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "bold": true,
+                          "sz": 11,
+                          "szUnit": "pt",
+                          "data-type": "leaf"
+                        },
+                        ""
+                      ]
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "fill": "#F0EBF7",
+                  "vAlign": "top",
+                  "uuid": "mcvdh4lxl2xysnbhqta",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mcvdp50x1uiwc1pufuj",
+                    "jc": "center"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "sz": 10,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      "货品全站推广答疑"
+                    ],
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "sz": 10,
+                        "szUnit": "pt",
+                        "color": "#f108c3",
+                        "data-type": "leaf"
+                      },
+                      "来这里"
+                    ],
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "#f108c3",
+                        "data-type": "leaf"
+                      },
+                      "↓"
+                    ]
+                  ]
+                ],
+                [
+                  "container",
+                  {
+                    "subType": "colorBlocks",
+                    "metadata": {
+                      "padding": {
+                        "top": 11,
+                        "right": 11,
+                        "bottom": 11,
+                        "left": 11
+                      },
+                      "borderRadius": 8,
+                      "bgcolor": "#F5F6F7",
+                      "showstk": false,
+                      "border": "#9A6DD7"
+                    },
+                    "uuid": "mcvdp2vmhc0k4llh4ph"
+                  },
+                  [
+                    "p",
+                    {
+                      "uuid": "mcvdp2vmhqde7goza3m",
+                      "jc": "center"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "leaf"
+                        },
+                        ""
+                      ]
+                    ],
+                    [
+                      "img",
+                      {
+                        "uuid": "79hrwr",
+                        "name": "image.png",
+                        "size": 154463,
+                        "width": 111,
+                        "height": 115,
+                        "src": "/core/api/resources/img/5eecdaf48460cde5eadaed293fe695e48c9221cffb67fd6175b8339e1c4c24831b75b38faadcd24bec177c308ebd5304633e7cc2fcc8e0592ae74c0ea0b2ba6868fcd19c9367264316de47e5946ebdb7eeef321fccae135c4fb4c8ed7016461c",
+                        "extraData": {
+                          "resourceId": "936926f9-43b5-4443-8232-af6ed7295e96",
+                          "metaData": {
+                            "size": 154463,
+                            "originWidth": 356,
+                            "originHeight": 370,
+                            "format": "png",
+                            "ratio": 1
+                          }
+                        },
+                        "rotation": 0
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "text"
+                        },
+                        [
+                          "span",
+                          {
+                            "data-type": "leaf"
+                          },
+                          ""
+                        ]
+                      ]
+                    ],
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "leaf"
+                        },
+                        ""
+                      ]
+                    ]
+                  ]
+                ]
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "ind": {
+                "left": 0
+              },
+              "uuid": "mcu4rhzir86p6f6ldtr"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ]
+        ],
+        "footers": {},
+        "version": 1
+      },
+      "refs": {}
+    }
+  }
+}

@@ -1,0 +1,3011 @@
+{
+  "version": 1,
+  "type": "application/x-alidocs-package",
+  "main": "00000000-0000-0000-0000-000000000001",
+  "plugins": "00000000-0000-0000-0000-000000000002",
+  "parts": {
+    "00000000-0000-0000-0000-000000000001": {
+      "id": "00000000-0000-0000-0000-000000000001",
+      "type": "application/x-alidocs-word",
+      "version": 1,
+      "data": {
+        "style": {
+          "docDefaults": {
+            "type": "paragraph",
+            "default": 1,
+            "name": "dingdocnormal",
+            "data": {
+              "rPr": {
+                "sz": 12,
+                "szUnit": "pt"
+              },
+              "pPr": {
+                "spacing": {
+                  "before": 12,
+                  "after": 12
+                }
+              }
+            }
+          },
+          "tableDefault": {
+            "type": "table",
+            "data": {
+              "tblPr": {
+                "bdr": {
+                  "bottom": {
+                    "color": "#D6D6D6",
+                    "space": 0,
+                    "sz": 1,
+                    "val": "single"
+                  },
+                  "insideH": {
+                    "color": "#D6D6D6",
+                    "space": 0,
+                    "sz": 1,
+                    "val": "single"
+                  },
+                  "insideV": {
+                    "color": "#D6D6D6",
+                    "space": 0,
+                    "sz": 1,
+                    "val": "single"
+                  },
+                  "left": {
+                    "color": "#D6D6D6",
+                    "space": 0,
+                    "sz": 1,
+                    "val": "single"
+                  },
+                  "right": {
+                    "color": "#D6D6D6",
+                    "space": 0,
+                    "sz": 1,
+                    "val": "single"
+                  },
+                  "top": {
+                    "color": "#D6D6D6",
+                    "space": 0,
+                    "sz": 1,
+                    "val": "single"
+                  }
+                }
+              }
+            }
+          },
+          "tableHeader": {
+            "type": "table",
+            "basedOn": "tableDefault",
+            "data": {
+              "tblStylePr": [
+                {
+                  "type": "firstRow",
+                  "tcPr": {
+                    "shd": {
+                      "fill": "#F5F6F7"
+                    }
+                  }
+                },
+                {
+                  "type": "firstCol",
+                  "tcPr": {
+                    "shd": {
+                      "fill": "#F5F6F7"
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        "theme": [],
+        "settings": {
+          "titleCover": {
+            "isHide": true
+          }
+        },
+        "app": {},
+        "numberings": {},
+        "headers": {},
+        "body": [
+          "root",
+          {
+            "sectPr": {
+              "pgSz": {
+                "w": 892,
+                "h": 1127
+              },
+              "pgMar": {
+                "top": 48,
+                "bottom": 48,
+                "left": 72,
+                "right": 72,
+                "header": 56.73,
+                "footer": 66.13,
+                "gutter": 0
+              }
+            },
+            "theme": {
+              "table": {
+                "tableCell": {
+                  "vAlign": "top"
+                }
+              }
+            }
+          },
+          [
+            "h1",
+            {
+              "ind": {
+                "left": 0
+              },
+              "spacing": {
+                "after": 10,
+                "before": 26,
+                "line": 1
+              },
+              "uuid": "m96seqzs0tlt3rzdymho"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 2.0\"",
+                    "cs": "\"Alibaba PuHuiTi 2.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 2.0\""
+                  },
+                  "sz": 21,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "一、"
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 2.0\"",
+                    "cs": "\"Alibaba PuHuiTi 2.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 2.0\""
+                  },
+                  "sz": 21,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "商家参与资格"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "ind": {
+                "left": 0
+              },
+              "uuid": "mm4hb1krf4xlw7hgbim"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 2.0\"",
+                    "cs": "\"Alibaba PuHuiTi 2.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 2.0\""
+                  },
+                  "sz": 10.5,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "1、商家应为万相台·AI无界版/线索推广开通商家"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "ind": {
+                "left": 0
+              },
+              "uuid": "mmijo2vu9rgpmobsc1"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 2.0\"",
+                    "cs": "\"Alibaba PuHuiTi 2.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 2.0\""
+                  },
+                  "sz": 10.5,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "2、商家过去3个月在线索推广场景消耗＞0。"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "ind": {
+                "left": 0
+              },
+              "uuid": "mmijnpztq9146jh707l"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 2.0\"",
+                    "cs": "\"Alibaba PuHuiTi 2.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 2.0\""
+                  },
+                  "sz": 10.5,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "h1",
+            {
+              "ind": {
+                "left": 0
+              },
+              "uuid": "mm4hb2alpsmph5pltpq",
+              "spacing": {
+                "before": 32,
+                "after": 12,
+                "line": 0.9333333333333332
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 2.0\"",
+                    "cs": "\"Alibaba PuHuiTi 2.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 2.0\""
+                  },
+                  "sz": 21,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "二、成本保障规则"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "jc": "justify",
+              "spacing": {},
+              "uuid": "mm4i9jumqfk729huvp9"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 2.0\"",
+                    "cs": "\"Alibaba PuHuiTi 2.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 2.0\""
+                  },
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "rgb(0, 0, 0)",
+                  "data-type": "leaf"
+                },
+                "1、考核时间："
+              ],
+              [
+                "span",
+                {
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 2.0\"",
+                    "cs": "\"Alibaba PuHuiTi 2.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 2.0\""
+                  },
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "rgb(0, 0, 0)",
+                  "data-type": "leaf"
+                },
+                "2026年"
+              ],
+              [
+                "span",
+                {
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 2.0\"",
+                    "cs": "\"Alibaba PuHuiTi 2.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 2.0\""
+                  },
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "",
+                  "data-type": "leaf"
+                },
+                "3月1日00:00:00-2026年3月31日23:59:59"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "jc": "justify",
+              "spacing": {},
+              "uuid": "m9ggtif233z3ljfr2qe"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 2.0\"",
+                    "cs": "\"Alibaba PuHuiTi 2.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 2.0\""
+                  },
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "",
+                  "data-type": "leaf"
+                },
+                "2、活动对象："
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "ind": {
+                "left": 32
+              },
+              "jc": "justify",
+              "list": {
+                "isOrdered": false,
+                "isTaskList": false,
+                "level": 0,
+                "listId": "9tuqwdeeovf",
+                "listStyle": {
+                  "align": "left",
+                  "format": "bullet",
+                  "text": "●"
+                },
+                "listStyleType": "SCIR_ECIR_SREC",
+                "symbolStyle": {
+                  "fonts": "\"Alibaba PuHuiTi 2.0\""
+                }
+              },
+              "spacing": {},
+              "uuid": "mmisem99mtjg3sffv"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 2.0\"",
+                    "cs": "\"Alibaba PuHuiTi 2.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 2.0\""
+                  },
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "",
+                  "data-type": "leaf"
+                },
+                "活动周期内（3.10~3.31），使用"
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 2.0\"",
+                    "cs": "\"Alibaba PuHuiTi 2.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 2.0\""
+                  },
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "",
+                  "data-type": "leaf"
+                },
+                "线索推广·优化留资获客·控成本投放"
+              ],
+              [
+                "span",
+                {
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 2.0\"",
+                    "cs": "\"Alibaba PuHuiTi 2.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 2.0\""
+                  },
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "",
+                  "data-type": "leaf"
+                },
+                "出价能力的商家，均默认参与成本保障活动。"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "ind": {
+                "left": 32
+              },
+              "jc": "justify",
+              "list": {
+                "extraData": {},
+                "hideSymbol": false,
+                "isChecked": false,
+                "isOrdered": false,
+                "isTaskList": false,
+                "level": 0,
+                "listId": "9tuqwdeeovf",
+                "listStyle": {
+                  "align": "left",
+                  "format": "bullet",
+                  "text": "●"
+                },
+                "listStyleType": "SCIR_ECIR_SREC",
+                "symbolStyle": {
+                  "fonts": "\"Alibaba PuHuiTi 2.0\""
+                }
+              },
+              "spacing": {},
+              "uuid": "mmiseoq0l6umh1vm8hc"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 2.0\"",
+                    "cs": "\"Alibaba PuHuiTi 2.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 2.0\""
+                  },
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "",
+                  "data-type": "leaf"
+                },
+                "参与门槛："
+              ],
+              [
+                "span",
+                {
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 2.0\"",
+                    "cs": "\"Alibaba PuHuiTi 2.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 2.0\""
+                  },
+                  "color": "rgb(0, 0, 0)",
+                  "data-type": "leaf"
+                },
+                "2026年3月线索推广场景日均消耗不得低于2026年1月日均消耗，且2026年3月线索推广场景消耗≥2000元。"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "jc": "justify",
+              "spacing": {},
+              "uuid": "mkw7y9rpfzixyov8h0v"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 2.0\"",
+                    "cs": "\"Alibaba PuHuiTi 2.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 2.0\""
+                  },
+                  "data-type": "leaf"
+                },
+                "3、"
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 2.0\"",
+                    "cs": "\"Alibaba PuHuiTi 2.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 2.0\""
+                  },
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "",
+                  "data-type": "leaf"
+                },
+                "推广范围：万相台AI无界"
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 2.0\"",
+                    "cs": "\"Alibaba PuHuiTi 2.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 2.0\""
+                  },
+                  "data-type": "leaf"
+                },
+                "「线索推广」"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "jc": "justify",
+              "spacing": {},
+              "uuid": "mkw82ag2m8m6fwy032"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 2.0\"",
+                    "cs": "\"Alibaba PuHuiTi 2.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 2.0\""
+                  },
+                  "data-type": "leaf"
+                },
+                "4、成本保障说明："
+              ],
+              [
+                "span",
+                {
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 2.0\"",
+                    "cs": "\"Alibaba PuHuiTi 2.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 2.0\""
+                  },
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "rgb(0, 0, 0)",
+                  "data-type": "leaf"
+                },
+                "若控线索成本计划周期内成本超出商家设置的1.2倍，则针对超出消耗给予保障激励，每个账户最多返一次，"
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 2.0\"",
+                    "cs": "\"Alibaba PuHuiTi 2.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 2.0\""
+                  },
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "rgb(0, 0, 0)",
+                  "data-type": "leaf"
+                },
+                "单个商家投放保障金额上限500元。"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "jc": "justify",
+              "spacing": {},
+              "uuid": "mmijutrnwy1lwhxds5"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 2.0\"",
+                    "cs": "\"Alibaba PuHuiTi 2.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 2.0\""
+                  },
+                  "data-type": "leaf"
+                },
+                "5、"
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 2.0\"",
+                    "cs": "\"Alibaba PuHuiTi 2.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 2.0\""
+                  },
+                  "color": "#E03E3E",
+                  "data-type": "leaf"
+                },
+                "成本保障期内计划要求："
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "ind": {
+                "left": 0
+              },
+              "jc": "justify",
+              "list": {
+                "isOrdered": false,
+                "isTaskList": false,
+                "level": 1,
+                "listId": "tb9gezki9f",
+                "listStyle": {
+                  "align": "left",
+                  "format": "bullet",
+                  "text": "○"
+                },
+                "listStyleType": "SCIR_ECIR_SREC",
+                "symbolStyle": {
+                  "fonts": "\"Alibaba PuHuiTi 2.0\""
+                }
+              },
+              "spacing": {},
+              "uuid": "mmijv1okkzycmsrmlm"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 2.0\"",
+                    "cs": "\"Alibaba PuHuiTi 2.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 2.0\""
+                  },
+                  "data-type": "leaf"
+                },
+                "为保证计划投放稳定性，要求"
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 2.0\"",
+                    "cs": "\"Alibaba PuHuiTi 2.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 2.0\""
+                  },
+                  "data-type": "leaf"
+                },
+                "优化留资获客·控成本投放"
+              ],
+              [
+                "span",
+                {
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 2.0\"",
+                    "cs": "\"Alibaba PuHuiTi 2.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 2.0\""
+                  },
+                  "data-type": "leaf"
+                },
+                "计划投放天数≥7天"
+              ],
+              [
+                "span",
+                {
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 2.0\"",
+                    "cs": "\"Alibaba PuHuiTi 2.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 2.0\""
+                  },
+                  "color": "rgb(0, 0, 0)",
+                  "data-type": "leaf"
+                },
+                "且计划累计转化线索量≥6。"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "ind": {
+                "left": 0
+              },
+              "jc": "justify",
+              "list": {
+                "isOrdered": false,
+                "isTaskList": false,
+                "level": 1,
+                "listId": "tb9gezki9f",
+                "listStyle": {
+                  "align": "left",
+                  "format": "bullet",
+                  "text": "○"
+                },
+                "listStyleType": "SCIR_ECIR_SREC",
+                "symbolStyle": {
+                  "color": "rgb(0, 0, 0)",
+                  "fonts": "\"Alibaba PuHuiTi 2.0\""
+                }
+              },
+              "spacing": {},
+              "uuid": "mmijvu3siickqc03dqh"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 2.0\"",
+                    "cs": "\"Alibaba PuHuiTi 2.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 2.0\""
+                  },
+                  "color": "rgb(0, 0, 0)",
+                  "data-type": "leaf"
+                },
+                "计划出价不得低于建议出价的80%"
+              ],
+              [
+                "span",
+                {
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 2.0\"",
+                    "cs": "\"Alibaba PuHuiTi 2.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 2.0\""
+                  },
+                  "color": "rgb(0, 0, 0)",
+                  "data-type": "leaf"
+                },
+                "，计划每天不暂停、不删除、不切换出价方式"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "ind": {
+                "left": 0
+              },
+              "jc": "justify",
+              "list": {
+                "isOrdered": false,
+                "isTaskList": false,
+                "level": 1,
+                "listId": "tb9gezki9f",
+                "listStyle": {
+                  "align": "left",
+                  "format": "bullet",
+                  "text": "○"
+                },
+                "listStyleType": "SCIR_ECIR_SREC",
+                "symbolStyle": {
+                  "color": "rgb(0, 0, 0)",
+                  "fonts": "\"Alibaba PuHuiTi 2.0\""
+                }
+              },
+              "spacing": {},
+              "uuid": "mmijxd2uvgfe7caxmok"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 2.0\"",
+                    "cs": "\"Alibaba PuHuiTi 2.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 2.0\""
+                  },
+                  "color": "rgb(0, 0, 0)",
+                  "data-type": "leaf"
+                },
+                "计划若修改线索出价，修改后出价不低于活动周期初始设置成本。"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "jc": "justify",
+              "spacing": {},
+              "uuid": "mmijsjua0evi2lg8qr2"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 2.0\"",
+                    "cs": "\"Alibaba PuHuiTi 2.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 2.0\""
+                  },
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "",
+                  "data-type": "leaf"
+                },
+                "6、"
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 2.0\"",
+                    "cs": "\"Alibaba PuHuiTi 2.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 2.0\""
+                  },
+                  "color": "rgb(0, 0, 0)",
+                  "data-type": "leaf"
+                },
+                "保障金额测算逻辑：\n"
+              ],
+              [
+                "span",
+                {
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 2.0\"",
+                    "cs": "\"Alibaba PuHuiTi 2.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 2.0\""
+                  },
+                  "color": "rgb(0, 0, 0)",
+                  "data-type": "leaf"
+                },
+                "活动保障金额=【计划实际消耗-计划预期消耗】，【计划预期消耗=设置线索成本*1.2*线索量】，计划在活动期间多次调成本的，系统按最高线索成本为保障目标\n示例：平台建议出价区间为[90,110]，商家设置线索成本100元，实际获取了10个线索，花费1400元，则活动保障金额=【计划实际消耗-计划预期消耗】=【1400元-100元*1.2*10】=200元"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "jc": "justify",
+              "spacing": {},
+              "uuid": "mmim5xdyld87ohtaei"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 2.0\"",
+                    "cs": "\"Alibaba PuHuiTi 2.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 2.0\""
+                  },
+                  "data-type": "leaf"
+                },
+                "7、"
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 2.0\"",
+                    "cs": "\"Alibaba PuHuiTi 2.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 2.0\""
+                  },
+                  "color": "rgb(0, 0, 0)",
+                  "data-type": "leaf"
+                },
+                "保障券发放说明："
+              ],
+              [
+                "span",
+                {
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 2.0\"",
+                    "cs": "\"Alibaba PuHuiTi 2.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 2.0\""
+                  },
+                  "color": "rgb(0, 0, 0)",
+                  "data-type": "leaf"
+                },
+                "代金券类型为满折券，可50%比例抵扣线索推广费用，仅限于线索场景使用；4.30日前发放到账，自发放后30日有效"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mm4oua508euy9j8qgqr"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 2.0\"",
+                    "cs": "\"Alibaba PuHuiTi 2.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 2.0\""
+                  },
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "h1",
+            {
+              "spacing": {
+                "before": 32,
+                "after": 12,
+                "line": 0.9333333333333332
+              },
+              "uuid": "mkw87r189aw7k9yvgxb"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 2.0\"",
+                    "cs": "\"Alibaba PuHuiTi 2.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 2.0\""
+                  },
+                  "sz": 21,
+                  "szUnit": "pt",
+                  "color": "#000000",
+                  "data-type": "leaf"
+                },
+                "三"
+              ],
+              [
+                "span",
+                {
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 2.0\"",
+                    "cs": "\"Alibaba PuHuiTi 2.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 2.0\""
+                  },
+                  "data-type": "leaf"
+                },
+                "、活动入口"
+              ]
+            ]
+          ],
+          [
+            "table",
+            {
+              "colsWidth": [
+                732
+              ],
+              "tblW": {
+                "w": 100,
+                "type": "pct"
+              },
+              "uuid": "ml4jwqmfwqrb689ab",
+              "styleId": "tableHeader",
+              "tblLook": {
+                "firstRow": 1,
+                "firstColumn": 0,
+                "lastRow": 0,
+                "lastColumn": 0
+              }
+            },
+            [
+              "tr",
+              {
+                "uuid": "ml4jwqmfq0omjyx2r1",
+                "isTblHeader": true
+              },
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "ml4jwqmftwf6av0l4rm",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "ml4jwqmf83lq9aq4sik",
+                    "jc": "center"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "fonts": {
+                          "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                          "hAnsi": "\"Alibaba PuHuiTi 2.0\"",
+                          "cs": "\"Alibaba PuHuiTi 2.0\"",
+                          "eastAsia": "\"Alibaba PuHuiTi 2.0\""
+                        },
+                        "data-type": "leaf"
+                      },
+                      "具体路径"
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {
+                "uuid": "ml4jwqmffstlcpt8oo"
+              },
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "ml4jwqmflnw5tab8qn",
+                  "vAlign": "middle"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "ml4jwqmf7w67xzhilv",
+                    "jc": "center"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "fonts": {
+                          "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                          "hAnsi": "\"Alibaba PuHuiTi 2.0\"",
+                          "cs": "\"Alibaba PuHuiTi 2.0\"",
+                          "eastAsia": "\"Alibaba PuHuiTi 2.0\""
+                        },
+                        "sz": 10.5,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      "万相台·无界版-"
+                    ],
+                    [
+                      "span",
+                      {
+                        "fonts": {
+                          "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                          "hAnsi": "\"Alibaba PuHuiTi 2.0\"",
+                          "cs": "\"Alibaba PuHuiTi 2.0\"",
+                          "eastAsia": "\"Alibaba PuHuiTi 2.0\""
+                        },
+                        "data-type": "leaf"
+                      },
+                      "线索推广-新建【"
+                    ],
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "fonts": {
+                          "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                          "hAnsi": "\"Alibaba PuHuiTi 2.0\"",
+                          "cs": "\"Alibaba PuHuiTi 2.0\"",
+                          "eastAsia": "\"Alibaba PuHuiTi 2.0\""
+                        },
+                        "sz": 12,
+                        "szUnit": "pt",
+                        "color": "",
+                        "data-type": "leaf"
+                      },
+                      "优化留资获客·控成本投放"
+                    ],
+                    [
+                      "span",
+                      {
+                        "fonts": {
+                          "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                          "hAnsi": "\"Alibaba PuHuiTi 2.0\"",
+                          "cs": "\"Alibaba PuHuiTi 2.0\"",
+                          "eastAsia": "\"Alibaba PuHuiTi 2.0\""
+                        },
+                        "data-type": "leaf"
+                      },
+                      "】计划"
+                    ]
+                  ]
+                ]
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "spacing": {
+                "line": 2,
+                "lineRule": "exact"
+              },
+              "uuid": "mm4ibdjmk6qfc0a1z3"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 2.0\"",
+                    "cs": "\"Alibaba PuHuiTi 2.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 2.0\""
+                  },
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "",
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "h1",
+            {
+              "spacing": {
+                "before": 32,
+                "after": 12,
+                "line": 0.9333333333333332
+              },
+              "uuid": "mm4ic2pgrhuch35iz9b"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 2.0\"",
+                    "cs": "\"Alibaba PuHuiTi 2.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 2.0\""
+                  },
+                  "sz": 21,
+                  "szUnit": "pt",
+                  "color": "#000000",
+                  "data-type": "leaf"
+                },
+                "四、线索成本保障金规则"
+              ]
+            ]
+          ],
+          [
+            "h2",
+            {
+              "ind": {
+                "left": 0
+              },
+              "spacing": {
+                "before": 21,
+                "after": 5,
+                "line": 1
+              },
+              "uuid": "m96seqzzxasqmame4a"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 2.0\"",
+                    "cs": "\"Alibaba PuHuiTi 2.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 2.0\""
+                  },
+                  "sz": 18,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "(一)发放规则"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "ind": {
+                "left": 0
+              },
+              "uuid": "m96ser008jnfgrtf8hc"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 2.0\"",
+                    "cs": "\"Alibaba PuHuiTi 2.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 2.0\""
+                  },
+                  "data-type": "leaf"
+                },
+                "线索成本保障金统一发放至 "
+              ],
+              [
+                "span",
+                {
+                  "highlight": "rgb(251, 222, 40)",
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 2.0\"",
+                    "cs": "\"Alibaba PuHuiTi 2.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 2.0\""
+                  },
+                  "color": "rgb(223, 42, 63)",
+                  "data-type": "leaf"
+                },
+                "万相台AI无界"
+              ],
+              [
+                "span",
+                {
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 2.0\"",
+                    "cs": "\"Alibaba PuHuiTi 2.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 2.0\""
+                  },
+                  "data-type": "leaf"
+                },
+                "，仅限线索推广场景使用。"
+              ]
+            ]
+          ],
+          [
+            "h2",
+            {
+              "ind": {
+                "left": 0
+              },
+              "spacing": {
+                "before": 21,
+                "after": 5,
+                "line": 1
+              },
+              "uuid": "m96ser00yhe9evdsyw"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 2.0\"",
+                    "cs": "\"Alibaba PuHuiTi 2.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 2.0\""
+                  },
+                  "sz": 18,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "(二)发放时间"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "ind": {
+                "left": 0
+              },
+              "uuid": "m96ser00chb4hblzhjt"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 2.0\"",
+                    "cs": "\"Alibaba PuHuiTi 2.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 2.0\""
+                  },
+                  "color": "rgb(223, 42, 63)",
+                  "data-type": "leaf"
+                },
+                "线索成本保障金在2026年4月30日23:59:59 前发放完成"
+              ],
+              [
+                "span",
+                {
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 2.0\"",
+                    "cs": "\"Alibaba PuHuiTi 2.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 2.0\""
+                  },
+                  "data-type": "leaf"
+                },
+                "，名称为"
+              ],
+              [
+                "span",
+                {
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 2.0\"",
+                    "cs": "\"Alibaba PuHuiTi 2.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 2.0\""
+                  },
+                  "sz": 10.5,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "「"
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 2.0\"",
+                    "cs": "\"Alibaba PuHuiTi 2.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 2.0\""
+                  },
+                  "sz": 10.5,
+                  "szUnit": "pt",
+                  "color": "rgb(223, 42, 63)",
+                  "data-type": "leaf"
+                },
+                "线索专属优惠券"
+              ],
+              [
+                "span",
+                {
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 2.0\"",
+                    "cs": "\"Alibaba PuHuiTi 2.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 2.0\""
+                  },
+                  "sz": 10.5,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "」"
+              ],
+              [
+                "span",
+                {
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 2.0\"",
+                    "cs": "\"Alibaba PuHuiTi 2.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 2.0\""
+                  },
+                  "data-type": "leaf"
+                },
+                "，您可以关注万相台AI无界相关公告。"
+              ],
+              [
+                "span",
+                {
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 2.0\"",
+                    "cs": "\"Alibaba PuHuiTi 2.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 2.0\""
+                  },
+                  "color": "black",
+                  "data-type": "leaf"
+                },
+                "线索专属优惠券有效期30日，过期将无法使用。"
+              ],
+              [
+                "span",
+                {
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 2.0\"",
+                    "cs": "\"Alibaba PuHuiTi 2.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 2.0\""
+                  },
+                  "sz": 10.5,
+                  "szUnit": "pt",
+                  "color": "",
+                  "data-type": "leaf"
+                },
+                "发放前行业小二会进行账户信息收集，务必及时提报，超时未提报自动视为放弃。"
+              ]
+            ]
+          ],
+          [
+            "h2",
+            {
+              "ind": {
+                "left": 0
+              },
+              "spacing": {
+                "before": 21,
+                "after": 5,
+                "line": 1
+              },
+              "uuid": "m96ser01fb8awesz8b9"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 2.0\"",
+                    "cs": "\"Alibaba PuHuiTi 2.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 2.0\""
+                  },
+                  "sz": 18,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "(三)线索专属优惠券查看路径"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "ind": {
+                "left": 0
+              },
+              "uuid": "m96ser012mhdqkvyc36"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 2.0\"",
+                    "cs": "\"Alibaba PuHuiTi 2.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 2.0\""
+                  },
+                  "sz": 10.5,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "万相台AI无界版帐户-优惠券管理-我的优惠券（已生效/已失效）或 「操作记录」 中查看"
+              ]
+            ]
+          ],
+          [
+            "h2",
+            {
+              "ind": {
+                "left": 0
+              },
+              "spacing": {
+                "before": 21,
+                "after": 5,
+                "line": 1
+              },
+              "uuid": "m96ser01h1ide3258"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 2.0\"",
+                    "cs": "\"Alibaba PuHuiTi 2.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 2.0\""
+                  },
+                  "sz": 18,
+                  "szUnit": "pt",
+                  "color": "black",
+                  "data-type": "leaf"
+                },
+                "(四)线索专属优惠券使用说明"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "ind": {
+                "left": 0
+              },
+              "uuid": "m96ser01y4flcxe191"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 2.0\"",
+                    "cs": "\"Alibaba PuHuiTi 2.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 2.0\""
+                  },
+                  "sz": 10.5,
+                  "szUnit": "pt",
+                  "color": "rgb(51, 51, 51)",
+                  "data-type": "leaf"
+                },
+                "1、抵扣规则：可抵扣50%，即账户产生100元消耗，线索专属优惠券抵扣50元，现金支付50元"
+              ]
+            ],
+            [
+              "br",
+              {
+                "type": "textWrapping",
+                "data": {},
+                "uuid": "m96ser01kuazjio6rcc"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "fonts": {
+                      "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                      "hAnsi": "\"Alibaba PuHuiTi 2.0\"",
+                      "cs": "\"Alibaba PuHuiTi 2.0\"",
+                      "eastAsia": "\"Alibaba PuHuiTi 2.0\""
+                    },
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 2.0\"",
+                    "cs": "\"Alibaba PuHuiTi 2.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 2.0\""
+                  },
+                  "sz": 10.5,
+                  "szUnit": "pt",
+                  "color": "rgb(51, 51, 51)",
+                  "data-type": "leaf"
+                },
+                "2、使用限制："
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "ind": {
+                "left": 0
+              },
+              "uuid": "mm4lz62eavccd14kor"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 2.0\"",
+                    "cs": "\"Alibaba PuHuiTi 2.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 2.0\""
+                  },
+                  "sz": 10.5,
+                  "szUnit": "pt",
+                  "color": "rgb(51, 51, 51)",
+                  "data-type": "leaf"
+                },
+                "（1）需要保证账户有余额且有正在推广中的计划，线索专属优惠券将在推广产生花费后，系统自动按比例抵扣，该券支持多次核销扣款"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "ind": {
+                "left": 0
+              },
+              "uuid": "mm4lz9oza4ffbnhhovu"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 2.0\"",
+                    "cs": "\"Alibaba PuHuiTi 2.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 2.0\""
+                  },
+                  "sz": 10.5,
+                  "szUnit": "pt",
+                  "color": "rgb(51, 51, 51)",
+                  "data-type": "leaf"
+                },
+                "（2）仅限线索推广使用。"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "ind": {
+                "left": 0
+              },
+              "uuid": "mm4lynyu2ccgs0j12hi"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 2.0\"",
+                    "cs": "\"Alibaba PuHuiTi 2.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 2.0\""
+                  },
+                  "sz": 10.5,
+                  "szUnit": "pt",
+                  "color": "rgb(51, 51, 51)",
+                  "data-type": "leaf"
+                },
+                "3、使用时间："
+              ],
+              [
+                "span",
+                {
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 2.0\"",
+                    "cs": "\"Alibaba PuHuiTi 2.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 2.0\""
+                  },
+                  "sz": 10.5,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "预计自收到线索专属优惠券后的60天内使用完毕，逾期不使用则自动作废；"
+              ]
+            ],
+            [
+              "br",
+              {
+                "type": "textWrapping",
+                "data": {},
+                "uuid": "m96ser01wxw2n7hzexe"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "fonts": {
+                      "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                      "hAnsi": "\"Alibaba PuHuiTi 2.0\"",
+                      "cs": "\"Alibaba PuHuiTi 2.0\"",
+                      "eastAsia": "\"Alibaba PuHuiTi 2.0\""
+                    },
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 2.0\"",
+                    "cs": "\"Alibaba PuHuiTi 2.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 2.0\""
+                  },
+                  "sz": 10.5,
+                  "szUnit": "pt",
+                  "color": "rgb(51, 51, 51)",
+                  "data-type": "leaf"
+                },
+                "4、该券不支持开发票，不可转赠，券过期后未使用余额自动回收，不再补发"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "ind": {
+                "left": 0
+              },
+              "uuid": "mm4ifs994f8kglpbyf5"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 2.0\"",
+                    "cs": "\"Alibaba PuHuiTi 2.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 2.0\""
+                  },
+                  "sz": 10.5,
+                  "szUnit": "pt",
+                  "color": "rgb(51, 51, 51)",
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "h1",
+            {
+              "ind": {
+                "left": 0
+              },
+              "uuid": "mm4mu2bx8hbuncpe6ft",
+              "spacing": {
+                "before": 32,
+                "after": 12,
+                "line": 0.9333333333333332
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 2.0\"",
+                    "cs": "\"Alibaba PuHuiTi 2.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 2.0\""
+                  },
+                  "sz": 21,
+                  "szUnit": "pt",
+                  "color": "rgb(51, 51, 51)",
+                  "data-type": "leaf"
+                },
+                "五"
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 2.0\"",
+                    "cs": "\"Alibaba PuHuiTi 2.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 2.0\""
+                  },
+                  "sz": 21,
+                  "szUnit": "pt",
+                  "color": "rgb(0, 0, 0)",
+                  "data-type": "leaf"
+                },
+                "、常见QA"
+              ]
+            ]
+          ],
+          [
+            "h3",
+            {
+              "spacing": {},
+              "uuid": "mkwalrozofvos3qoumh"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 2.0\"",
+                    "cs": "\"Alibaba PuHuiTi 2.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 2.0\""
+                  },
+                  "color": "",
+                  "data-type": "leaf"
+                },
+                "（一）关于报名与资格"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "ind": {},
+              "spacing": {},
+              "uuid": "mkwalrp01ci6965s1ek"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 2.0\"",
+                    "cs": "\"Alibaba PuHuiTi 2.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 2.0\""
+                  },
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "",
+                  "data-type": "leaf"
+                },
+                "Q1：我在万相台找不到“赏金任务”报名入口，是不是没资格？还能不能参加？"
+              ]
+            ],
+            [
+              "br",
+              {
+                "type": "textWrapping",
+                "data": {},
+                "uuid": "mkwalrp0imawzv421gp"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "fonts": {
+                      "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                      "hAnsi": "\"Alibaba PuHuiTi 2.0\"",
+                      "cs": "\"Alibaba PuHuiTi 2.0\"",
+                      "eastAsia": "\"Alibaba PuHuiTi 2.0\""
+                    },
+                    "color": "",
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 2.0\"",
+                    "cs": "\"Alibaba PuHuiTi 2.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 2.0\""
+                  },
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "",
+                  "data-type": "leaf"
+                },
+                "✅ 答：本次活动活动周期内（3.10~3.31），使用"
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 2.0\"",
+                    "cs": "\"Alibaba PuHuiTi 2.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 2.0\""
+                  },
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "",
+                  "data-type": "leaf"
+                },
+                "线索推广·优化留资获客·控成本投放"
+              ],
+              [
+                "span",
+                {
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 2.0\"",
+                    "cs": "\"Alibaba PuHuiTi 2.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 2.0\""
+                  },
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "",
+                  "data-type": "leaf"
+                },
+                "出价能力的商家，均默认参与成本保障活动，无需商家报名。"
+              ]
+            ]
+          ],
+          [
+            "h3",
+            {
+              "spacing": {},
+              "uuid": "mkwalrp06o3zwqm8b3"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 2.0\"",
+                    "cs": "\"Alibaba PuHuiTi 2.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 2.0\""
+                  },
+                  "color": "",
+                  "data-type": "leaf"
+                },
+                "（二）关于考核周期与消耗计算"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "ind": {},
+              "spacing": {},
+              "uuid": "mkwalrp0x1dqtw6rs6p"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 2.0\"",
+                    "cs": "\"Alibaba PuHuiTi 2.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 2.0\""
+                  },
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "",
+                  "data-type": "leaf"
+                },
+                "Q2：考核时间是20206年3月1日到3月31日，但我3月30日才开启"
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 2.0\"",
+                    "cs": "\"Alibaba PuHuiTi 2.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 2.0\""
+                  },
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "",
+                  "data-type": "leaf"
+                },
+                "优化留资获客·控成本投放，"
+              ],
+              [
+                "span",
+                {
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 2.0\"",
+                    "cs": "\"Alibaba PuHuiTi 2.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 2.0\""
+                  },
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "",
+                  "data-type": "leaf"
+                },
+                "影响考核吗？"
+              ]
+            ],
+            [
+              "br",
+              {
+                "type": "textWrapping",
+                "data": {},
+                "uuid": "mkwalrp0gz8j3cqlqlt"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "fonts": {
+                      "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                      "hAnsi": "\"Alibaba PuHuiTi 2.0\"",
+                      "cs": "\"Alibaba PuHuiTi 2.0\"",
+                      "eastAsia": "\"Alibaba PuHuiTi 2.0\""
+                    },
+                    "color": "",
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 2.0\"",
+                    "cs": "\"Alibaba PuHuiTi 2.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 2.0\""
+                  },
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "",
+                  "data-type": "leaf"
+                },
+                "✅ 答：不影响！只要活动期(2026.03.10–2026.03.31)内设置"
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 2.0\"",
+                    "cs": "\"Alibaba PuHuiTi 2.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 2.0\""
+                  },
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "",
+                  "data-type": "leaf"
+                },
+                "优化留资获客·控成本投放并消耗"
+              ],
+              [
+                "span",
+                {
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 2.0\"",
+                    "cs": "\"Alibaba PuHuiTi 2.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 2.0\""
+                  },
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "",
+                  "data-type": "leaf"
+                },
+                "，系统将自动统计您在完整考核期（2026.03.01–2026.03.31）内的线索推广实际消耗，无需从控成本投放开始日期计算。"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "ind": {},
+              "spacing": {},
+              "uuid": "mkwalrp1nmvb6bfvd1q"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 2.0\"",
+                    "cs": "\"Alibaba PuHuiTi 2.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 2.0\""
+                  },
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "",
+                  "data-type": "leaf"
+                },
+                "Q3：消耗只算“线索推广”计划吗？其他计划（如关键词推广、人群推广、店铺直达）算不算？"
+              ]
+            ],
+            [
+              "br",
+              {
+                "type": "textWrapping",
+                "data": {},
+                "uuid": "mkwalrp190u2hgo7qrh"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "fonts": {
+                      "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                      "hAnsi": "\"Alibaba PuHuiTi 2.0\"",
+                      "cs": "\"Alibaba PuHuiTi 2.0\"",
+                      "eastAsia": "\"Alibaba PuHuiTi 2.0\""
+                    },
+                    "color": "",
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 2.0\"",
+                    "cs": "\"Alibaba PuHuiTi 2.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 2.0\""
+                  },
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "",
+                  "data-type": "leaf"
+                },
+                "✅ 答：仅限万相台AI无界「线索推广」 场景下实际消耗计入考核，其他推广类型不纳入。"
+              ]
+            ]
+          ],
+          [
+            "h3",
+            {
+              "spacing": {},
+              "uuid": "mkwalrp1frlf6tnwn4n"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 2.0\"",
+                    "cs": "\"Alibaba PuHuiTi 2.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 2.0\""
+                  },
+                  "color": "",
+                  "data-type": "leaf"
+                },
+                "（三）关于激励门槛与发放"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "ind": {},
+              "spacing": {},
+              "uuid": "mkwalrp19l1qwzmqj3p"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 2.0\"",
+                    "cs": "\"Alibaba PuHuiTi 2.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 2.0\""
+                  },
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "",
+                  "data-type": "leaf"
+                },
+                "Q4：如果我刚好卡在档位边缘（比如差1元），能发券吗？"
+              ]
+            ],
+            [
+              "br",
+              {
+                "type": "textWrapping",
+                "data": {},
+                "uuid": "mkwalrp1x512gc8h9zh"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "fonts": {
+                      "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                      "hAnsi": "\"Alibaba PuHuiTi 2.0\"",
+                      "cs": "\"Alibaba PuHuiTi 2.0\"",
+                      "eastAsia": "\"Alibaba PuHuiTi 2.0\""
+                    },
+                    "color": "",
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 2.0\"",
+                    "cs": "\"Alibaba PuHuiTi 2.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 2.0\""
+                  },
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "",
+                  "data-type": "leaf"
+                },
+                "✅ 答：不能。激励严格按实际成本超出情况返还，系统自动判定。建议预留缓冲空间，确保达标。"
+              ]
+            ]
+          ],
+          [
+            "h3",
+            {
+              "spacing": {},
+              "uuid": "mkwalrp13f322c2fdq3"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 2.0\"",
+                    "cs": "\"Alibaba PuHuiTi 2.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 2.0\""
+                  },
+                  "color": "",
+                  "data-type": "leaf"
+                },
+                "（四）关于保障金使用"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "ind": {},
+              "spacing": {},
+              "uuid": "mkwalrp1t5wkjwxx7"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 2.0\"",
+                    "cs": "\"Alibaba PuHuiTi 2.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 2.0\""
+                  },
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "",
+                  "data-type": "leaf"
+                },
+                "Q5：保障金500元封顶，但我的消耗很高，能不能多给？"
+              ]
+            ],
+            [
+              "br",
+              {
+                "type": "textWrapping",
+                "data": {},
+                "uuid": "mkwalrp1rff6vaew0j"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "fonts": {
+                      "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                      "hAnsi": "\"Alibaba PuHuiTi 2.0\"",
+                      "cs": "\"Alibaba PuHuiTi 2.0\"",
+                      "eastAsia": "\"Alibaba PuHuiTi 2.0\""
+                    },
+                    "color": "",
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 2.0\"",
+                    "cs": "\"Alibaba PuHuiTi 2.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 2.0\""
+                  },
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "",
+                  "data-type": "leaf"
+                },
+                "✅ 答：本次活动单商家最高返还500元。"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "ind": {},
+              "spacing": {},
+              "uuid": "mkwalrp28p89or8e9x"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 2.0\"",
+                    "cs": "\"Alibaba PuHuiTi 2.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 2.0\""
+                  },
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "",
+                  "data-type": "leaf"
+                },
+                "Q6：保障金怎么用？能和其他优惠叠加吗？"
+              ]
+            ],
+            [
+              "br",
+              {
+                "type": "textWrapping",
+                "data": {},
+                "uuid": "mkwalrp2c1ibm3l6zn"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "fonts": {
+                      "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                      "hAnsi": "\"Alibaba PuHuiTi 2.0\"",
+                      "cs": "\"Alibaba PuHuiTi 2.0\"",
+                      "eastAsia": "\"Alibaba PuHuiTi 2.0\""
+                    },
+                    "color": "",
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 2.0\"",
+                    "cs": "\"Alibaba PuHuiTi 2.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 2.0\""
+                  },
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "",
+                  "data-type": "leaf"
+                },
+                "✅ 答："
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "ind": {
+                "left": 0
+              },
+              "list": {
+                "listId": "y62tqfgrbl",
+                "isOrdered": false,
+                "level": 0,
+                "listStyle": {
+                  "format": "bullet",
+                  "text": "●",
+                  "align": "left"
+                },
+                "symbolStyle": {
+                  "fonts": "\"Alibaba PuHuiTi 2.0\"",
+                  "color": ""
+                }
+              },
+              "uuid": "mkwalrp2zclfnjaqjrb"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 2.0\"",
+                    "cs": "\"Alibaba PuHuiTi 2.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 2.0\""
+                  },
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "",
+                  "data-type": "leaf"
+                },
+                "仅限用于万相台AI无界「线索推广」；"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "ind": {
+                "left": 0
+              },
+              "list": {
+                "listId": "y62tqfgrbl",
+                "isOrdered": false,
+                "level": 0,
+                "listStyle": {
+                  "format": "bullet",
+                  "text": "●",
+                  "align": "left"
+                },
+                "symbolStyle": {
+                  "fonts": "\"Alibaba PuHuiTi 2.0\"",
+                  "color": ""
+                }
+              },
+              "uuid": "mkwalrp2zz2kzpajimc"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 2.0\"",
+                    "cs": "\"Alibaba PuHuiTi 2.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 2.0\""
+                  },
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "",
+                  "data-type": "leaf"
+                },
+                "支持1:1抵扣现金（如100元券 = 投100元花50元）；"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "ind": {
+                "left": 0
+              },
+              "list": {
+                "listId": "y62tqfgrbl",
+                "isOrdered": false,
+                "level": 0,
+                "listStyle": {
+                  "format": "bullet",
+                  "text": "●",
+                  "align": "left"
+                },
+                "symbolStyle": {
+                  "fonts": "\"Alibaba PuHuiTi 2.0\"",
+                  "color": ""
+                }
+              },
+              "uuid": "mkwalrp27affk9ea8dm"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 2.0\"",
+                    "cs": "\"Alibaba PuHuiTi 2.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 2.0\""
+                  },
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "",
+                  "data-type": "leaf"
+                },
+                "是否可叠加，请以券面最终说明为准，通常不可与其他大促券叠加。"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "ind": {},
+              "spacing": {},
+              "uuid": "mkwalrp255bm48mjo24"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 2.0\"",
+                    "cs": "\"Alibaba PuHuiTi 2.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 2.0\""
+                  },
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "",
+                  "data-type": "leaf"
+                },
+                "Q7：如果60天内没用完，能延期吗？"
+              ]
+            ],
+            [
+              "br",
+              {
+                "type": "textWrapping",
+                "data": {},
+                "uuid": "mkwalrp22n16c5g0ovb"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "fonts": {
+                      "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                      "hAnsi": "\"Alibaba PuHuiTi 2.0\"",
+                      "cs": "\"Alibaba PuHuiTi 2.0\"",
+                      "eastAsia": "\"Alibaba PuHuiTi 2.0\""
+                    },
+                    "color": "",
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 2.0\"",
+                    "cs": "\"Alibaba PuHuiTi 2.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 2.0\""
+                  },
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "",
+                  "data-type": "leaf"
+                },
+                "✅ 答：不能。保障金自到账起60天内有效，逾期自动作废，请务必及时使用。"
+              ]
+            ]
+          ],
+          [
+            "h3",
+            {
+              "spacing": {},
+              "uuid": "mkwalrp2i8vmy7vs73k"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 2.0\"",
+                    "cs": "\"Alibaba PuHuiTi 2.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 2.0\""
+                  },
+                  "color": "",
+                  "data-type": "leaf"
+                },
+                "（五）关于保障金到账时间"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "ind": {},
+              "spacing": {},
+              "uuid": "mkwalrp3bs8u56u2xnq"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 2.0\"",
+                    "cs": "\"Alibaba PuHuiTi 2.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 2.0\""
+                  },
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "",
+                  "data-type": "leaf"
+                },
+                "Q8：说4月发券，但4月底还没收到怎么办？"
+              ]
+            ],
+            [
+              "br",
+              {
+                "type": "textWrapping",
+                "data": {},
+                "uuid": "mkwalrp30s2n8bn22qc"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "fonts": {
+                      "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                      "hAnsi": "\"Alibaba PuHuiTi 2.0\"",
+                      "cs": "\"Alibaba PuHuiTi 2.0\"",
+                      "eastAsia": "\"Alibaba PuHuiTi 2.0\""
+                    },
+                    "color": "",
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 2.0\"",
+                    "cs": "\"Alibaba PuHuiTi 2.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 2.0\""
+                  },
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "",
+                  "data-type": "leaf"
+                },
+                "✅ 答：激励将在活动结束后3周内发放完成，预计最迟4月30日到账。若4月30日仍未收到，请联系您的客户经理或阿里妈妈客服核查。"
+              ]
+            ]
+          ]
+        ],
+        "footers": {},
+        "version": 1
+      },
+      "refs": {}
+    }
+  }
+}

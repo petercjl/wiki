@@ -1,0 +1,3044 @@
+{
+  "version": 1,
+  "type": "application/x-alidocs-package",
+  "main": "00000000-0000-0000-0000-000000000001",
+  "plugins": "00000000-0000-0000-0000-000000000002",
+  "parts": {
+    "00000000-0000-0000-0000-000000000001": {
+      "id": "00000000-0000-0000-0000-000000000001",
+      "type": "application/x-alidocs-word",
+      "version": 1,
+      "data": {
+        "style": {
+          "docDefaults": {
+            "type": "paragraph",
+            "default": 1,
+            "name": "dingdocnormal",
+            "data": {
+              "rPr": {
+                "sz": 12,
+                "szUnit": "pt"
+              },
+              "pPr": {
+                "spacing": {
+                  "before": 12,
+                  "after": 12
+                }
+              }
+            }
+          }
+        },
+        "theme": [],
+        "settings": {
+          "titleCover": {
+            "isHide": true
+          }
+        },
+        "app": {},
+        "numberings": {},
+        "headers": {},
+        "body": [
+          "root",
+          {
+            "sectPr": {
+              "pgSz": {
+                "w": 892,
+                "h": 1127
+              },
+              "pgMar": {
+                "top": 48,
+                "bottom": 48,
+                "left": 72,
+                "right": 72,
+                "header": 56.73,
+                "footer": 66.13,
+                "gutter": 0
+              }
+            },
+            "theme": {
+              "table": {
+                "tableCell": {
+                  "vAlign": "top"
+                }
+              }
+            },
+            "userData": {
+              "40971389": {
+                "mqqgipbmv9e07zmlbm": {
+                  "fold": false
+                },
+                "mqqgis5hfz5ogdtoilc": {
+                  "fold": false
+                }
+              }
+            },
+            "uuid": "mqrf35x94os84adlg2c"
+          },
+          [
+            "h1",
+            {
+              "uuid": "mqqgipbmv9e07zmlbm",
+              "spacing": {
+                "before": 32,
+                "after": 12,
+                "line": 0.9333333333333332
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 21,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "在哪里看数据"
+              ]
+            ]
+          ],
+          [
+            "h3",
+            {
+              "uuid": "mqqgjyjyknjr7gnr3r",
+              "spacing": {
+                "before": 24,
+                "after": 8.666666666666666,
+                "line": 0.9333333333333332
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 14.5,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "推广页面"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mqrf5dxzxwmvb9lfn5p"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 11,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "推广页面的管理模式上区分「全站标准模式」和「全站费比模式」模块，全站费比模式在推广管理页面数据和管理内"
+              ],
+              [
+                "span",
+                {
+                  "bold": false,
+                  "sz": 11,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "容单独呈现，数据指标不入首页报表、基础报表。"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mqrf81cp61ye4hoc5yu",
+              "ind": {
+                "left": 0
+              },
+              "list": {
+                "listId": "1jo1030kh7e",
+                "level": 0,
+                "isTaskList": false,
+                "isOrdered": false,
+                "listStyleType": "SCIR_ECIR_SREC",
+                "symbolStyle": {
+                  "sz": 11
+                },
+                "listStyle": {
+                  "format": "bullet",
+                  "text": "●",
+                  "align": "left"
+                }
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 11,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "统计口径：计划投放期间产生的直接效果"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mqrf8jgvmekjwvkjkod",
+              "ind": {
+                "left": 0
+              },
+              "list": {
+                "listId": "1jo1030kh7e",
+                "level": 0,
+                "isTaskList": false,
+                "isOrdered": false,
+                "listStyleType": "SCIR_ECIR_SREC",
+                "symbolStyle": {
+                  "sz": 11
+                },
+                "listStyle": {
+                  "format": "bullet",
+                  "text": "●",
+                  "align": "left"
+                },
+                "extraData": {},
+                "isChecked": false,
+                "hideSymbol": false
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": false,
+                  "sz": 11,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "时间组件：自定义选择查看 今日/昨日/过去7天/过去15天自定义的数据"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mqqglfbyg2bvddvxwee"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ],
+            [
+              "img",
+              {
+                "uuid": "yty7dz",
+                "name": "image.png",
+                "size": 570085,
+                "width": 748,
+                "height": 175.90811982973253,
+                "src": "/core/api/resources/img/5eecdaf48460cde5a1237de3d8d569a4b4e0b73419f33e4b75b8339e1c4c24831b75b38faadcd24bec177c308ebd5304214913db21db54fa7bab55f9f722f9dd83d0fd12180903b13ca86c0c918c507d8a09955c3fbf141a4fb4c8ed7016461c",
+                "extraData": {
+                  "resourceId": "7c894a65-6684-4df5-bad3-4a3ef188745b",
+                  "metaData": {
+                    "size": 570085,
+                    "originWidth": 1905,
+                    "originHeight": 448,
+                    "format": "png",
+                    "ratio": 1
+                  }
+                }
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "h3",
+            {
+              "uuid": "mqqgk4iuwnizskxepai",
+              "spacing": {
+                "before": 24,
+                "after": 8.666666666666666,
+                "line": 0.9333333333333332
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 14.5,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "报表结案"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mqqgkylmor3tlxyzs6"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "待上线"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mqqgkuft1hxnleghv31"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ],
+            [
+              "img",
+              {
+                "uuid": "c03btd",
+                "name": "image.png",
+                "size": 514172,
+                "width": 748,
+                "height": 197.74703749489225,
+                "src": "/core/api/resources/img/5eecdaf48460cde5a1237de3d8d569a4b4e0b73419f33e4b75b8339e1c4c24831b75b38faadcd24bec177c308ebd5304bf8c5f3afaf4acfc746be10c01845521e9a307a033df833026494e7a38f47c5dd5dc32dae3e433c64fb4c8ed7016461c",
+                "extraData": {
+                  "resourceId": "9886a0f4-1d0a-4c73-b9fa-e2fb9c82bc8d",
+                  "metaData": {
+                    "size": 514172,
+                    "originWidth": 1740,
+                    "originHeight": 460,
+                    "format": "png",
+                    "ratio": 1
+                  }
+                }
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "h1",
+            {
+              "uuid": "mqqgis5hfz5ogdtoilc",
+              "spacing": {
+                "before": 32,
+                "after": 12,
+                "line": 0.9333333333333332
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 21,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "关于数据的口径"
+              ]
+            ]
+          ],
+          [
+            "table",
+            {
+              "colsWidth": [
+                193,
+                177,
+                1552
+              ],
+              "uuid": "mqrwckdx6vguk7wiay"
+            },
+            [
+              "tr",
+              {
+                "h": 18.6632,
+                "uuid": "mqrwckdwp43n729jj3c"
+              },
+              [
+                "tc",
+                {
+                  "rowSpan": 1,
+                  "colSpan": 1,
+                  "bdr": {
+                    "top": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#000000"
+                    },
+                    "right": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#000000"
+                    },
+                    "bottom": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#000000"
+                    },
+                    "left": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#000000"
+                    }
+                  },
+                  "uuid": "mqrwckdw3zle45z7re2"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mqrwckdw0u76lv2bb96c"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "rgb(0, 0, 0)",
+                        "data-type": "leaf"
+                      },
+                      "数据指标分类"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "rowSpan": 1,
+                  "colSpan": 1,
+                  "bdr": {
+                    "right": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#000000"
+                    },
+                    "top": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#000000"
+                    },
+                    "bottom": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#000000"
+                    }
+                  },
+                  "uuid": "mqrwckdwk20y4m45tt"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mqrwckdw9p7rjrwtkdl"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "rgb(0, 0, 0)",
+                        "data-type": "leaf"
+                      },
+                      "指标名称"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "rowSpan": 1,
+                  "colSpan": 1,
+                  "bdr": {
+                    "right": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#000000"
+                    },
+                    "top": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#000000"
+                    },
+                    "bottom": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#000000"
+                    }
+                  },
+                  "uuid": "mqrwckdw9yavlt6soi4"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mqrwckdwws66rjxon7b"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "rgb(0, 0, 0)",
+                        "data-type": "leaf"
+                      },
+                      "指标定义"
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {
+                "h": 18.6632,
+                "uuid": "mqrwckdwq4463n6fo"
+              },
+              [
+                "tc",
+                {
+                  "rowSpan": 6,
+                  "colSpan": 1,
+                  "bdr": {
+                    "left": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#000000"
+                    },
+                    "right": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#000000"
+                    },
+                    "bottom": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#000000"
+                    }
+                  },
+                  "uuid": "mqrwckdwc8sxq20cmkg"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mqrwckdwlfivw6q7ft8"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "rgb(0, 0, 0)",
+                        "data-type": "leaf"
+                      },
+                      "核心位置数据"
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "uuid": "mqrwckdwvjoegh1kizn"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "rgb(0, 0, 0)",
+                        "data-type": "leaf"
+                      },
+                      "（公域效果）"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "rowSpan": 1,
+                  "colSpan": 1,
+                  "bdr": {
+                    "right": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#000000"
+                    },
+                    "bottom": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#000000"
+                    }
+                  },
+                  "uuid": "mqrwckdwh8tuoq5vbm"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mqrwckdwu29ono6b46q"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "rgb(0, 0, 0)",
+                        "data-type": "leaf"
+                      },
+                      "核心位置展现量"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "rowSpan": 1,
+                  "colSpan": 1,
+                  "bdr": {
+                    "right": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#000000"
+                    },
+                    "bottom": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#000000"
+                    }
+                  },
+                  "uuid": "mqrwckdwn4fxwk93jyi"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mqrwckdwms00ttp7ha"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "rgb(0, 0, 0)",
+                        "data-type": "leaf"
+                      },
+                      "推广内容被用户看到的次数（去除因用户快速划过、主图未完全展现等情况产生的无效曝光），不包含私域/直播/联盟/百补/秒杀"
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {
+                "h": 18.6632,
+                "uuid": "mqrwckdwjnvi7jberh"
+              },
+              [
+                "tc",
+                {
+                  "hidden": true,
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mqrwckdwdp4grxigh5f"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mqrwckdwo59pcqpb8pn"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "rowSpan": 1,
+                  "colSpan": 1,
+                  "bdr": {
+                    "right": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#000000"
+                    },
+                    "bottom": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#000000"
+                    }
+                  },
+                  "uuid": "mqrwckdw44chapzzuf9"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mqrwckdw7die7cakdp"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "rgb(0, 0, 0)",
+                        "data-type": "leaf"
+                      },
+                      "核心位置点击量"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "rowSpan": 1,
+                  "colSpan": 1,
+                  "bdr": {
+                    "right": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#000000"
+                    },
+                    "bottom": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#000000"
+                    }
+                  },
+                  "uuid": "mqrwckdwc4psozvdwgt"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mqrwckdwd3pelxsgsmc"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "rgb(0, 0, 0)",
+                        "data-type": "leaf"
+                      },
+                      "推广内容被用户点击的次数（该数据为反作弊过滤后的数据），不包含私域/直播/联盟/百补/秒杀"
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {
+                "h": 18.6632,
+                "uuid": "mqrwckdwhuaiyufu5xq"
+              },
+              [
+                "tc",
+                {
+                  "hidden": true,
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mqrwckdwapq7j6rx64o"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mqrwckdwbrb9578l5ff"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "rowSpan": 1,
+                  "colSpan": 1,
+                  "bdr": {
+                    "right": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#000000"
+                    },
+                    "bottom": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#000000"
+                    }
+                  },
+                  "uuid": "mqrwckdw34132c12ut9"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mqrwckdwv320a75zhx"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "rgb(0, 0, 0)",
+                        "data-type": "leaf"
+                      },
+                      "核心位置点击率"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "rowSpan": 1,
+                  "colSpan": 1,
+                  "bdr": {
+                    "right": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#000000"
+                    },
+                    "bottom": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#000000"
+                    }
+                  },
+                  "uuid": "mqrwckdwfn6q7u14j29"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mqrwckdwhs4y93nh6kk"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "rgb(0, 0, 0)",
+                        "data-type": "leaf"
+                      },
+                      "核心位置点击量 / 核心位置展现量"
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {
+                "h": 18.6632,
+                "uuid": "mqrwckdwjp9065fzxq"
+              },
+              [
+                "tc",
+                {
+                  "hidden": true,
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mqrwckdwje02yfb0tjs"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mqrwckdwmq8sxmkylop"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "rowSpan": 1,
+                  "colSpan": 1,
+                  "bdr": {
+                    "right": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#000000"
+                    },
+                    "bottom": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#000000"
+                    }
+                  },
+                  "uuid": "mqrwckdw933h8yvca4b"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mqrwckdw5jw3jbkjm0w"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "rgb(0, 0, 0)",
+                        "data-type": "leaf"
+                      },
+                      "核心位置购物车数"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "rowSpan": 1,
+                  "colSpan": 1,
+                  "bdr": {
+                    "right": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#000000"
+                    },
+                    "bottom": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#000000"
+                    }
+                  },
+                  "uuid": "mqrwckdwbtgyf0croy"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mqrwckdwzkc8qcfy3yc"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "rgb(0, 0, 0)",
+                        "data-type": "leaf"
+                      },
+                      "推广商品15日内引导用户直接在推广宝贝的详情页面产生加入购物车行为的次数，不包含私域/直播/联盟/百补/秒杀"
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {
+                "h": 18.6632,
+                "uuid": "mqrwckdw40tduf82zwo"
+              },
+              [
+                "tc",
+                {
+                  "hidden": true,
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mqrwckdw9uswpi8bl1s"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mqrwckdwx5cxfknte3a"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "rowSpan": 1,
+                  "colSpan": 1,
+                  "bdr": {
+                    "right": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#000000"
+                    },
+                    "bottom": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#000000"
+                    }
+                  },
+                  "uuid": "mqrwckdwq5geu0tre8"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mqrwckdwlecep9on4g"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "rgb(0, 0, 0)",
+                        "data-type": "leaf"
+                      },
+                      "核心位置宝贝收藏数"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "rowSpan": 1,
+                  "colSpan": 1,
+                  "bdr": {
+                    "right": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#000000"
+                    },
+                    "bottom": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#000000"
+                    }
+                  },
+                  "uuid": "mqrwckdwoa3wwp1j8y"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mqrwckdwdm0eii8k8zd"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "rgb(0, 0, 0)",
+                        "data-type": "leaf"
+                      },
+                      "推广商品15日内引导用户直接在推广宝贝的详情页面产生收藏宝贝行为的次数，不包含私域/直播/联盟/百补/秒杀"
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {
+                "h": 18.6806,
+                "uuid": "mqrwckdwupqyl2s5xnj"
+              },
+              [
+                "tc",
+                {
+                  "hidden": true,
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mqrwckdw2xbzf29asjp"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mqrwckdwfu1g8spmz4"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "rowSpan": 1,
+                  "colSpan": 1,
+                  "bdr": {
+                    "right": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#000000"
+                    },
+                    "bottom": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#000000"
+                    }
+                  },
+                  "uuid": "mqrwckdwfhwqca9q4p"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mqrwckdweo9hmpyoq8"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "rgb(0, 0, 0)",
+                        "data-type": "leaf"
+                      },
+                      "核心位置宝贝收藏加购数"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "rowSpan": 1,
+                  "colSpan": 1,
+                  "bdr": {
+                    "right": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#000000"
+                    },
+                    "bottom": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#000000"
+                    }
+                  },
+                  "uuid": "mqrwckdwtomnxjpztg"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mqrwckdwk3so387w45"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "rgb(0, 0, 0)",
+                        "data-type": "leaf"
+                      },
+                      "核心位置购物车数 + 核心位置宝贝收藏数"
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {
+                "h": 18.6632,
+                "uuid": "mqrwckdwbylic9jxb2r"
+              },
+              [
+                "tc",
+                {
+                  "rowSpan": 4,
+                  "colSpan": 1,
+                  "bdr": {
+                    "left": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#000000"
+                    },
+                    "right": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#000000"
+                    },
+                    "bottom": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#000000"
+                    }
+                  },
+                  "uuid": "mqrwckdw005d26fwoq596"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mqrwckdwyer9b4s7kv"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "rgb(0, 0, 0)",
+                        "data-type": "leaf"
+                      },
+                      "费比数据"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "rowSpan": 1,
+                  "colSpan": 1,
+                  "bdr": {
+                    "right": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#000000"
+                    },
+                    "bottom": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#000000"
+                    }
+                  },
+                  "uuid": "mqrwckdw8r64943zkz6"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mqrwckdwy8mfs1im4nh"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "rgb(0, 0, 0)",
+                        "data-type": "leaf"
+                      },
+                      "全站费比"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "rowSpan": 1,
+                  "colSpan": 1,
+                  "bdr": {
+                    "right": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#000000"
+                    },
+                    "bottom": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#000000"
+                    }
+                  },
+                  "uuid": "mqrwckdwp360dnu5u5m"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mqrwckdwz453wai2nfb"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "rgb(0, 0, 0)",
+                        "data-type": "leaf"
+                      },
+                      "花费 / 投放期间，推广商品产生的淘系全站直接成交金额"
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {
+                "h": 18.6632,
+                "uuid": "mqrwckdxjqdm6gyon8"
+              },
+              [
+                "tc",
+                {
+                  "hidden": true,
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mqrwckdwnytwl8an97m"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mqrwckdw60kf2guddcu"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "rowSpan": 1,
+                  "colSpan": 1,
+                  "bdr": {
+                    "right": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#000000"
+                    },
+                    "bottom": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#000000"
+                    }
+                  },
+                  "uuid": "mqrwckdw9en9cqf2pes"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mqrwckdw4xovhtv0x0v"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "rgb(0, 0, 0)",
+                        "data-type": "leaf"
+                      },
+                      "花费"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "rowSpan": 1,
+                  "colSpan": 1,
+                  "bdr": {
+                    "right": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#000000"
+                    },
+                    "bottom": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#000000"
+                    }
+                  },
+                  "uuid": "mqrwckdwwp5ha8ujiv8"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mqrwckdwd4my4cuts8f"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "rgb(0, 0, 0)",
+                        "data-type": "leaf"
+                      },
+                      "推广内容被用户点击或发生其他约定计费的行为所花费的金额"
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {
+                "h": 18.6632,
+                "uuid": "mqrwckdxx2yzzy0cyi8"
+              },
+              [
+                "tc",
+                {
+                  "hidden": true,
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mqrwckdx8pna1xnum0o"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mqrwckdx8679r285lmc"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "rowSpan": 1,
+                  "colSpan": 1,
+                  "bdr": {
+                    "right": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#000000"
+                    },
+                    "bottom": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#000000"
+                    }
+                  },
+                  "uuid": "mqrwckdxg9lk3n5ra24"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mqrwckdxa1gjm1jaax5"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "rgb(0, 0, 0)",
+                        "data-type": "leaf"
+                      },
+                      "全站费比（含预售）"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "rowSpan": 1,
+                  "colSpan": 1,
+                  "bdr": {
+                    "right": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#000000"
+                    },
+                    "bottom": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#000000"
+                    }
+                  },
+                  "uuid": "mqrwckdxwv84yar5po"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mqrwckdxchi2zelyzsv"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "rgb(0, 0, 0)",
+                        "data-type": "leaf"
+                      },
+                      "花费 / 投放期间内推广商品产生的淘系全站直接成交金额（包含预售尾款的直接净成交金额）"
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {
+                "h": 18.6632,
+                "uuid": "mqrwckdxm7sqpynvs6r"
+              },
+              [
+                "tc",
+                {
+                  "hidden": true,
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mqrwckdxeqb6ybbs1j"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mqrwckdxexj5eosms6f"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "rowSpan": 1,
+                  "colSpan": 1,
+                  "bdr": {
+                    "right": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#000000"
+                    },
+                    "bottom": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#000000"
+                    }
+                  },
+                  "uuid": "mqrwckdx54fs2n4n5h"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mqrwckdxxd4h3xh62o"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "rgb(0, 0, 0)",
+                        "data-type": "leaf"
+                      },
+                      "全站净费比"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "rowSpan": 1,
+                  "colSpan": 1,
+                  "bdr": {
+                    "right": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#000000"
+                    },
+                    "bottom": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#000000"
+                    }
+                  },
+                  "uuid": "mqrwckdxlxft0vvoe7"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mqrwckdxamulqliptdi"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "rgb(0, 0, 0)",
+                        "data-type": "leaf"
+                      },
+                      "花费 / 投放期间内推广商品产生的淘系全站直接净成交金额（（即系统会针对消费者支付成功1小时内且在当日23:59:59前退款的订单进行优化），预售订单按尾款支付时刻记录整单金额（含定金、尾款及运费））"
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {
+                "h": 18.6632,
+                "uuid": "mqrwckdx514uilr4nom"
+              },
+              [
+                "tc",
+                {
+                  "rowSpan": 2,
+                  "colSpan": 1,
+                  "bdr": {
+                    "left": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#000000"
+                    },
+                    "right": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#000000"
+                    },
+                    "bottom": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#000000"
+                    }
+                  },
+                  "uuid": "mqrwckdxtz3tsmh47io"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mqrwckdxvl8tbdnwlbg"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "rgb(0, 0, 0)",
+                        "data-type": "leaf"
+                      },
+                      "成交转化"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "rowSpan": 1,
+                  "colSpan": 1,
+                  "bdr": {
+                    "right": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#000000"
+                    },
+                    "bottom": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#000000"
+                    }
+                  },
+                  "uuid": "mqrwckdxui4vxatwgs"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mqrwckdxg93jrdptyvq"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "rgb(0, 0, 0)",
+                        "data-type": "leaf"
+                      },
+                      "全站成交金额"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "rowSpan": 1,
+                  "colSpan": 1,
+                  "bdr": {
+                    "right": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#000000"
+                    },
+                    "bottom": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#000000"
+                    }
+                  },
+                  "uuid": "mqrwckdxaxg3qscghl"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mqrwckdxfi6dipyyga"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "rgb(0, 0, 0)",
+                        "data-type": "leaf"
+                      },
+                      "投放期间，推广内容引导用户直接在推广宝贝的详情页面拍下并通过支付宝交易的成交金额，预售订单按尾款支付时刻记录整单金额（含定金、尾款及运费）"
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {
+                "h": 18.6632,
+                "uuid": "mqrwckdxdixr3ow80ii"
+              },
+              [
+                "tc",
+                {
+                  "hidden": true,
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mqrwckdxs94e25o2wvl"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mqrwckdxl200c8oojym"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "rowSpan": 1,
+                  "colSpan": 1,
+                  "bdr": {
+                    "right": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#000000"
+                    },
+                    "bottom": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#000000"
+                    }
+                  },
+                  "uuid": "mqrwckdxox2k90lm49g"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mqrwckdxkviug23s96i"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "rgb(0, 0, 0)",
+                        "data-type": "leaf"
+                      },
+                      "全站成交笔数"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "rowSpan": 1,
+                  "colSpan": 1,
+                  "bdr": {
+                    "right": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#000000"
+                    },
+                    "bottom": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#000000"
+                    }
+                  },
+                  "uuid": "mqrwckdxwfg76t1t7w"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mqrwckdx268fqo0u4aj"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "rgb(0, 0, 0)",
+                        "data-type": "leaf"
+                      },
+                      "投放期间，推广内容引导用户直接在推广宝贝的详情页面拍下并通过支付宝交易的笔数，预售订单按尾款支付时刻记录整单金额（含定金、尾款及运费）"
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {
+                "h": 18.6632,
+                "uuid": "mqrwckdxqm3w0iecmv"
+              },
+              [
+                "tc",
+                {
+                  "rowSpan": 3,
+                  "colSpan": 1,
+                  "bdr": {
+                    "left": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#000000"
+                    },
+                    "right": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#000000"
+                    },
+                    "bottom": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#000000"
+                    }
+                  },
+                  "uuid": "mqrwckdx63ea0cauicp"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mqrwckdxv3icag9npqo"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "rgb(0, 0, 0)",
+                        "data-type": "leaf"
+                      },
+                      "净成交转化"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "rowSpan": 1,
+                  "colSpan": 1,
+                  "bdr": {
+                    "right": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#000000"
+                    },
+                    "bottom": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#000000"
+                    }
+                  },
+                  "uuid": "mqrwckdxy99ia1a4ru"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mqrwckdxyomy0gl6w6"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "rgb(0, 0, 0)",
+                        "data-type": "leaf"
+                      },
+                      "全站净成交金额"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "rowSpan": 1,
+                  "colSpan": 1,
+                  "bdr": {
+                    "right": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#000000"
+                    },
+                    "bottom": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#000000"
+                    }
+                  },
+                  "uuid": "mqrwckdxwj1yfy1suzq"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mqrwckdxr18jvgoqk8q"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "rgb(0, 0, 0)",
+                        "data-type": "leaf"
+                      },
+                      "投放期间，推广商品在15日内引导用户产生的所有支付宝交易的净成交金额（即系统会针对消费者支付成功1小时内且在当日23:59:59前退款的订单进行优化），预售订单按尾款支付时刻记录整单金额（含定金、尾款及运费）"
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {
+                "h": 18.6632,
+                "uuid": "mqrwckdxyw91gi8pt7a"
+              },
+              [
+                "tc",
+                {
+                  "hidden": true,
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mqrwckdxsvb1oyx0bap"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mqrwckdxynpn3c0u2g"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "rowSpan": 1,
+                  "colSpan": 1,
+                  "bdr": {
+                    "right": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#000000"
+                    },
+                    "bottom": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#000000"
+                    }
+                  },
+                  "uuid": "mqrwckdxfzfgwia56r"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mqrwckdxeigve7hxr4n"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "rgb(0, 0, 0)",
+                        "data-type": "leaf"
+                      },
+                      "全站净成交笔数"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "rowSpan": 1,
+                  "colSpan": 1,
+                  "bdr": {
+                    "right": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#000000"
+                    },
+                    "bottom": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#000000"
+                    }
+                  },
+                  "uuid": "mqrwckdxxyu2x5bxkz"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mqrwckdxs8onzst0klb"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "rgb(0, 0, 0)",
+                        "data-type": "leaf"
+                      },
+                      "投放期间，推广商品在15日内引导用户产生的所有支付宝交易的净成交笔数（即系统会针对消费者支付成功1小时内且在当日23:59:59前退款的订单进行优化），预售订单按尾款支付时刻记录整单金额（含定金、尾款及运费）"
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {
+                "h": 18.6632,
+                "uuid": "mqrwckdxkyek4evlaua"
+              },
+              [
+                "tc",
+                {
+                  "hidden": true,
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mqrwckdxut6l4c5185"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mqrwckdxunbk6v5sa6"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "rowSpan": 1,
+                  "colSpan": 1,
+                  "bdr": {
+                    "right": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#000000"
+                    },
+                    "bottom": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#000000"
+                    }
+                  },
+                  "uuid": "mqrwckdxqwsnyev4aqf"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mqrwckdxo89t34rizv"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "rgb(0, 0, 0)",
+                        "data-type": "leaf"
+                      },
+                      "全站净成交金额占比"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "rowSpan": 1,
+                  "colSpan": 1,
+                  "bdr": {
+                    "right": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#000000"
+                    },
+                    "bottom": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#000000"
+                    }
+                  },
+                  "uuid": "mqrwckdx38qx2ydetwk"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mqrwckdxp62ae69xnq"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "rgb(0, 0, 0)",
+                        "data-type": "leaf"
+                      },
+                      "全站净成交金额 / 全站成交金额"
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {
+                "h": 18.6632,
+                "uuid": "mqrwckdxvy33g8juxb"
+              },
+              [
+                "tc",
+                {
+                  "rowSpan": 2,
+                  "colSpan": 1,
+                  "bdr": {
+                    "left": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#000000"
+                    },
+                    "right": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#000000"
+                    },
+                    "bottom": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#000000"
+                    }
+                  },
+                  "uuid": "mqrwckdxlsvlxr4zyai"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mqrwckdxtvd0uc4ylos"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "rgb(0, 0, 0)",
+                        "data-type": "leaf"
+                      },
+                      "助推数据"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "rowSpan": 1,
+                  "colSpan": 1,
+                  "bdr": {
+                    "right": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#000000"
+                    },
+                    "bottom": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#000000"
+                    }
+                  },
+                  "uuid": "mqrwckdx27toisfn1xxj"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mqrwckdxvehc0wk46e"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "rgb(0, 0, 0)",
+                        "data-type": "leaf"
+                      },
+                      "平台助推总成交金额"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "rowSpan": 1,
+                  "colSpan": 1,
+                  "bdr": {
+                    "right": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#000000"
+                    },
+                    "bottom": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#000000"
+                    }
+                  },
+                  "uuid": "mqrwckdxalmbsa0jdko"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mqrwckdxlau56dz2bj9"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "rgb(0, 0, 0)",
+                        "data-type": "leaf"
+                      },
+                      "助推的推广内容引导产生的宝贝直接成交金额，预售订单按尾款支付时刻记录整单金额（含定金、尾款及运费）"
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {
+                "h": 18.6632,
+                "uuid": "mqrwckdxps6534ypmkf"
+              },
+              [
+                "tc",
+                {
+                  "hidden": true,
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mqrwckdxoc4nr1p7k0s"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mqrwckdxzwgay2yrtro"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "rowSpan": 1,
+                  "colSpan": 1,
+                  "bdr": {
+                    "right": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#000000"
+                    },
+                    "bottom": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#000000"
+                    }
+                  },
+                  "uuid": "mqrwckdxyly0tjel1po"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mqrwckdxga3eagjo35s"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "rgb(0, 0, 0)",
+                        "data-type": "leaf"
+                      },
+                      "平台助推点击量"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "rowSpan": 1,
+                  "colSpan": 1,
+                  "bdr": {
+                    "right": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#000000"
+                    },
+                    "bottom": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#000000"
+                    }
+                  },
+                  "uuid": "mqrwckdx0lcrwkwzpb2"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mqrwckdxjbrd7wl6w4f"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "rgb(0, 0, 0)",
+                        "data-type": "leaf"
+                      },
+                      "助推的推广内容在核心资源位下被用户点击的次数"
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {
+                "h": 18.6632,
+                "uuid": "mqrwckdxbur3h9sstlw"
+              },
+              [
+                "tc",
+                {
+                  "rowSpan": 2,
+                  "colSpan": 1,
+                  "bdr": {
+                    "left": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#000000"
+                    },
+                    "right": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#000000"
+                    },
+                    "bottom": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#000000"
+                    }
+                  },
+                  "uuid": "mqrwckdx9lq1ric4ug6"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mqrwckdx6jziuna6oxr"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "rgb(0, 0, 0)",
+                        "data-type": "leaf"
+                      },
+                      "成交意向"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "rowSpan": 1,
+                  "colSpan": 1,
+                  "bdr": {
+                    "right": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#000000"
+                    },
+                    "bottom": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#000000"
+                    }
+                  },
+                  "uuid": "mqrwckdxuvo5jl9qfhh"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mqrwckdx2loxy6thun6"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "rgb(0, 0, 0)",
+                        "data-type": "leaf"
+                      },
+                      "全站预售成交金额"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "rowSpan": 1,
+                  "colSpan": 1,
+                  "bdr": {
+                    "right": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#000000"
+                    },
+                    "bottom": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#000000"
+                    }
+                  },
+                  "uuid": "mqrwckdxbcuyf9qkt1u"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mqrwckdxbpowhoclk48"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "rgb(0, 0, 0)",
+                        "data-type": "leaf"
+                      },
+                      "投放期间，推广预售商品在15日内引导用户产生的所有支付宝交易的预售订单总成交金额（含定金、尾款及运费），按定金支付时刻记录整单金额，包含私域/直播/联盟/百补/秒杀"
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {
+                "h": 18.6632,
+                "uuid": "mqrwckdx0u04hvpymuyr"
+              },
+              [
+                "tc",
+                {
+                  "hidden": true,
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mqrwckdxyiscoovpzi"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mqrwckdx4lh789j1h9t"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "rowSpan": 1,
+                  "colSpan": 1,
+                  "bdr": {
+                    "right": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#000000"
+                    },
+                    "bottom": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#000000"
+                    }
+                  },
+                  "uuid": "mqrwckdxthq1rg9pvkl"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mqrwckdxykazepqbsd"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "rgb(0, 0, 0)",
+                        "data-type": "leaf"
+                      },
+                      "全站预售成交笔数"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "rowSpan": 1,
+                  "colSpan": 1,
+                  "bdr": {
+                    "right": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#000000"
+                    },
+                    "bottom": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#000000"
+                    }
+                  },
+                  "uuid": "mqrwckdxm7rcouow1im"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mqrwckdx583hbb88zhx"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "rgb(0, 0, 0)",
+                        "data-type": "leaf"
+                      },
+                      "投放期间，推广预售商品在15日内引导用户产生的所有支付宝交易的预售订单总成交笔数（含定金、尾款及运费），按定金支付时刻记录整单金额，包含私域/直播/联盟/百补/秒杀"
+                    ]
+                  ]
+                ]
+              ]
+            ]
+          ],
+          [
+            "h1",
+            {
+              "uuid": "mqqgixbxncllu24z4ht",
+              "spacing": {
+                "before": 32,
+                "after": 12,
+                "line": 0.9333333333333332
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 21,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "常见Q&A"
+              ]
+            ]
+          ]
+        ],
+        "footers": {},
+        "version": 1
+      },
+      "refs": {}
+    }
+  }
+}

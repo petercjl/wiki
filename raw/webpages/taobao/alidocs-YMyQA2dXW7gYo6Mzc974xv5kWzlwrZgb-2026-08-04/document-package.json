@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "type": "application/x-alidocs-package",
+  "main": "00000000-0000-0000-0000-000000000001",
+  "plugins": "00000000-0000-0000-0000-000000000002",
+  "parts": {
+    "51975bf3-bf15-414f-99c5-a1e629915a02": {
+      "id": "51975bf3-bf15-414f-99c5-a1e629915a02",
+      "type": "application/x-alidocs-plugin-attachment",
+      "version": 1,
+      "data": {
+        "spaceId": "2125320914",
+        "fileSize": 0,
+        "fileName": "活动汇总",
+        "fileType": "folder",
+        "fileId": "173542799976",
+        "corpId": "undefined",
+        "modifiedTime": 1760172078000,
+        "dentryUuid": "14lgGw3P8vxjwogPCDK1dK3KV5daZ90D",
+        "url": "https://alidocs.dingtalk.com/i/nodes/14lgGw3P8vxjwogPCDK1dK3KV5daZ90D?utm_scene=team_space",
+        "viewType": "wideCard",
+        "uniqueId": "d7f5cb00-40a5-4cc9-90ba-71dd52ef7f95",
+        "icon": {
+          "type": "icon",
+          "id": "Journey",
+          "color": "special-color-ai"
+        },
+        "metaUrl": "https://alidocs.dingtalk.com/i/nodes/14lgGw3P8vxjwogPCDK1dK3KV5daZ90D?utm_scene=team_space"
+      }
+    },
+    "00000000-0000-0000-0000-000000000001": {
+      "id": "00000000-0000-0000-0000-000000000001",
+      "type": "application/x-alidocs-word",
+      "version": 1,
+      "data": {
+        "style": {
+          "docDefaults": {
+            "type": "paragraph",
+            "default": 1,
+            "name": "dingdocnormal",
+            "data": {
+              "rPr": {
+                "sz": 12,
+                "szUnit": "pt"
+              },
+              "pPr": {
+                "spacing": {
+                  "before": 8,
+                  "after": 8
+                }
+              }
+            }
+          }
+        },
+        "theme": [],
+        "settings": {
+          "titleCover": {
+            "isHide": true
+          }
+        },
+        "app": {},
+        "numberings": {},
+        "headers": {},
+        "body": [
+          "root",
+          {
+            "sectPr": {
+              "pgSz": {
+                "w": 892,
+                "h": 1127
+              },
+              "pgMar": {
+                "top": 48,
+                "bottom": 48,
+                "left": 72,
+                "right": 72,
+                "header": 56.73,
+                "footer": 66.13,
+                "gutter": 0
+              }
+            },
+            "theme": {
+              "table": {
+                "tableCell": {
+                  "vAlign": "top"
+                }
+              }
+            }
+          },
+          [
+            "p",
+            {
+              "uuid": "m9hwb8h2o79oh1gnde"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "color": "#FE0300",
+                  "data-type": "leaf"
+                },
+                "请点击跳转查看超级短视频完整活动"
+              ]
+            ]
+          ],
+          [
+            "card",
+            {
+              "cardType": "hetu",
+              "metadata": {
+                "id": "51975bf3-bf15-414f-99c5-a1e629915a02",
+                "type": "application/x-alidocs-plugin-attachment"
+              },
+              "uuid": "m9hwawikh5psrwwsn8k"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "m9hwavel0bjuoim9fnv9"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ]
+        ],
+        "footers": {},
+        "version": 1
+      },
+      "refs": {}
+    }
+  }
+}

@@ -1,0 +1,3643 @@
+{
+  "version": 1,
+  "type": "application/x-alidocs-package",
+  "main": "00000000-0000-0000-0000-000000000001",
+  "plugins": "00000000-0000-0000-0000-000000000002",
+  "parts": {
+    "00000000-0000-0000-0000-000000000001": {
+      "id": "00000000-0000-0000-0000-000000000001",
+      "type": "application/x-alidocs-word",
+      "version": 1,
+      "data": {
+        "style": {
+          "tableDefault": {
+            "type": "table",
+            "data": {
+              "tblPr": {
+                "bdr": {
+                  "bottom": {
+                    "color": "#D6D6D6",
+                    "space": 0,
+                    "sz": 1,
+                    "val": "single"
+                  },
+                  "insideH": {
+                    "color": "#D6D6D6",
+                    "space": 0,
+                    "sz": 1,
+                    "val": "single"
+                  },
+                  "insideV": {
+                    "color": "#D6D6D6",
+                    "space": 0,
+                    "sz": 1,
+                    "val": "single"
+                  },
+                  "left": {
+                    "color": "#D6D6D6",
+                    "space": 0,
+                    "sz": 1,
+                    "val": "single"
+                  },
+                  "right": {
+                    "color": "#D6D6D6",
+                    "space": 0,
+                    "sz": 1,
+                    "val": "single"
+                  },
+                  "top": {
+                    "color": "#D6D6D6",
+                    "space": 0,
+                    "sz": 1,
+                    "val": "single"
+                  }
+                }
+              }
+            }
+          },
+          "tableHeader": {
+            "type": "table",
+            "basedOn": "tableDefault",
+            "data": {
+              "tblStylePr": [
+                {
+                  "type": "firstRow",
+                  "tcPr": {
+                    "shd": {
+                      "fill": "#F5F6F7"
+                    }
+                  }
+                },
+                {
+                  "type": "firstCol",
+                  "tcPr": {
+                    "shd": {
+                      "fill": "#F5F6F7"
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        "theme": [],
+        "settings": {},
+        "app": {},
+        "numberings": {},
+        "headers": {},
+        "body": [
+          "root",
+          {},
+          [
+            "h1",
+            {
+              "uuid": "mpyy4smywvift1u5b4",
+              "spacing": {
+                "before": 32,
+                "after": 12,
+                "line": 0.9333333333333332
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 21,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "26年小版本迭代"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mpq9fuuctcbe6rsj37",
+              "ind": {
+                "left": 0
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "highlight": "rgb(252, 252, 250)",
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 2.0\"",
+                    "cs": "\"Alibaba PuHuiTi 2.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 2.0\""
+                  },
+                  "sz": 11,
+                  "szUnit": "pt",
+                  "color": "rgb(10, 10, 9)",
+                  "data-type": "leaf"
+                },
+                "本次流量解析升级优化调整，旨在进一步优化流量匹配的精准度与投放体验的便捷性"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mpz7ekzswk3tbdn3a3"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 14,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "预估6/13前针对全部商家逐步完成迭代"
+              ],
+              [
+                "span",
+                {
+                  "sz": 14,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "，如升级过程中商家有疑问可加钉钉群"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mpz7dhuxj31davqmkg"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ],
+            [
+              "img",
+              {
+                "uuid": "mpz7ekzrw3j0kio48b",
+                "name": "image.png",
+                "size": 239167,
+                "width": 367,
+                "height": 362.8136882129278,
+                "src": "/core/api/resources/img/5eecdaf48460cde59d6dab77a60d1733180021097f1e0af458e70b814913bc360a414d3de9277d871abf3af1cbd7524916d1f6df72b0220fe12bf7de18a54fae1b0747f831aa2c444ada86ad64bcc77453272a02f7ccbb55fc653b69905bac42",
+                "extraData": {
+                  "resourceId": "e688bb8d-cd95-4fa1-8c60-8b5eee4a74ec",
+                  "metaData": {
+                    "size": 239167,
+                    "originWidth": 526,
+                    "originHeight": 520,
+                    "format": "png",
+                    "ratio": 1
+                  }
+                },
+                "rotation": 0
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mpz7egt44zs75hb4zrv",
+              "ind": {
+                "left": 0
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "highlight": "rgb(252, 252, 250)",
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 2.0\"",
+                    "cs": "\"Alibaba PuHuiTi 2.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 2.0\""
+                  },
+                  "color": "rgb(10, 10, 9)",
+                  "bold": true,
+                  "sz": 14,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "主要包含以下两点核心优化："
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "ind": {},
+              "spacing": {},
+              "uuid": "mpq9ips0jyf7hvhlwip"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "highlight": "rgb(252, 252, 250)",
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 2.0\"",
+                    "cs": "\"Alibaba PuHuiTi 2.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 2.0\""
+                  },
+                  "sz": 11,
+                  "szUnit": "pt",
+                  "color": "rgb(10, 10, 9)",
+                  "data-type": "leaf"
+                },
+                "语义识别更精准，关键词覆盖更丰富"
+              ]
+            ],
+            [
+              "br",
+              {
+                "type": "textWrapping",
+                "data": {},
+                "uuid": "mpq9ips0spbqejissgo"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "fonts": {
+                      "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                      "hAnsi": "\"Alibaba PuHuiTi 2.0\"",
+                      "cs": "\"Alibaba PuHuiTi 2.0\"",
+                      "eastAsia": "\"Alibaba PuHuiTi 2.0\""
+                    },
+                    "sz": 11,
+                    "szUnit": "pt",
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "highlight": "rgb(252, 252, 250)",
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 2.0\"",
+                    "cs": "\"Alibaba PuHuiTi 2.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 2.0\""
+                  },
+                  "sz": 11,
+                  "szUnit": "pt",
+                  "color": "rgb(10, 10, 9)",
+                  "data-type": "leaf"
+                },
+                "系统对关键词的归一化逻辑进行了精细化升级。一方面，"
+              ],
+              [
+                "span",
+                {
+                  "highlight": "rgb(252, 252, 250)",
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 2.0\"",
+                    "cs": "\"Alibaba PuHuiTi 2.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 2.0\""
+                  },
+                  "sz": 11,
+                  "szUnit": "pt",
+                  "color": "#FE0300",
+                  "data-type": "leaf"
+                },
+                "优化了"
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "highlight": "rgb(252, 252, 250)",
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 2.0\"",
+                    "cs": "\"Alibaba PuHuiTi 2.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 2.0\""
+                  },
+                  "sz": 11,
+                  "szUnit": "pt",
+                  "color": "#FE0300",
+                  "data-type": "leaf"
+                },
+                "词语顺序的处理机制"
+              ],
+              [
+                "span",
+                {
+                  "highlight": "rgb(252, 252, 250)",
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 2.0\"",
+                    "cs": "\"Alibaba PuHuiTi 2.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 2.0\""
+                  },
+                  "sz": 11,
+                  "szUnit": "pt",
+                  "color": "rgb(10, 10, 9)",
+                  "data-type": "leaf"
+                },
+                "，使匹配更加符合用户搜索习惯（"
+              ],
+              [
+                "span",
+                {
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 2.0\"",
+                    "cs": "\"Alibaba PuHuiTi 2.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 2.0\""
+                  },
+                  "sz": 11,
+                  "szUnit": "pt",
+                  "color": "rgb(10, 10, 9)",
+                  "data-type": "leaf"
+                },
+                "如凉拖外穿女、女士外穿凉拖鞋，旧版本归一化为两个词，新版本归一化为凉拖鞋外穿女"
+              ],
+              [
+                "span",
+                {
+                  "highlight": "rgb(252, 252, 250)",
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 2.0\"",
+                    "cs": "\"Alibaba PuHuiTi 2.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 2.0\""
+                  },
+                  "sz": 11,
+                  "szUnit": "pt",
+                  "color": "rgb(10, 10, 9)",
+                  "data-type": "leaf"
+                },
+                "）；另一方面，"
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "highlight": "rgb(252, 252, 250)",
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 2.0\"",
+                    "cs": "\"Alibaba PuHuiTi 2.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 2.0\""
+                  },
+                  "sz": 11,
+                  "szUnit": "pt",
+                  "color": "#FE0300",
+                  "data-type": "leaf"
+                },
+                "调整了同义词的合并标准"
+              ],
+              [
+                "span",
+                {
+                  "highlight": "rgb(252, 252, 250)",
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 2.0\"",
+                    "cs": "\"Alibaba PuHuiTi 2.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 2.0\""
+                  },
+                  "sz": 11,
+                  "szUnit": "pt",
+                  "color": "rgb(10, 10, 9)",
+                  "data-type": "leaf"
+                },
+                "，保留了更多长尾词的独立性（如"
+              ],
+              [
+                "span",
+                {
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 2.0\"",
+                    "cs": "\"Alibaba PuHuiTi 2.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 2.0\""
+                  },
+                  "sz": 11,
+                  "szUnit": "pt",
+                  "color": "rgb(10, 10, 9)",
+                  "data-type": "leaf"
+                },
+                "原创生日裙、生日裙子原创，旧版本归一化为一个词，新版本归一化为两个词"
+              ],
+              [
+                "span",
+                {
+                  "highlight": "rgb(252, 252, 250)",
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 2.0\"",
+                    "cs": "\"Alibaba PuHuiTi 2.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 2.0\""
+                  },
+                  "sz": 11,
+                  "szUnit": "pt",
+                  "color": "rgb(10, 10, 9)",
+                  "data-type": "leaf"
+                },
+                "）。这有助于您触达更多样化的搜索需求，积累更全面的数据资产。"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "ind": {},
+              "spacing": {},
+              "uuid": "mpq9ips1b9p39pa1yf"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "highlight": "rgb(252, 252, 250)",
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 2.0\"",
+                    "cs": "\"Alibaba PuHuiTi 2.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 2.0\""
+                  },
+                  "sz": 11,
+                  "szUnit": "pt",
+                  "color": "rgb(10, 10, 9)",
+                  "data-type": "leaf"
+                },
+                "全平台数据口径统一，操作体验更一致"
+              ]
+            ],
+            [
+              "br",
+              {
+                "type": "textWrapping",
+                "data": {},
+                "uuid": "mpq9ips14n0epcht8q8"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "fonts": {
+                      "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                      "hAnsi": "\"Alibaba PuHuiTi 2.0\"",
+                      "cs": "\"Alibaba PuHuiTi 2.0\"",
+                      "eastAsia": "\"Alibaba PuHuiTi 2.0\""
+                    },
+                    "sz": 11,
+                    "szUnit": "pt",
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "highlight": "rgb(252, 252, 250)",
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 2.0\"",
+                    "cs": "\"Alibaba PuHuiTi 2.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 2.0\""
+                  },
+                  "sz": 11,
+                  "szUnit": "pt",
+                  "color": "rgb(10, 10, 9)",
+                  "data-type": "leaf"
+                },
+                "实现了关键词推荐、流量解析与投放底层数据的全链路对齐。例如，“苹果”与“apple”等中英文词汇现在可兼容添加，消除了以往因口径差异导致的操作壁垒，让您的投放策略制定与效果复盘更加直观、高效。"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "ind": {},
+              "spacing": {},
+              "uuid": "mpqau4dhy7swsdloc0l"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "highlight": "rgb(252, 252, 250)",
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 2.0\"",
+                    "cs": "\"Alibaba PuHuiTi 2.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 2.0\""
+                  },
+                  "sz": 11,
+                  "szUnit": "pt",
+                  "color": "#FE0300",
+                  "data-type": "leaf"
+                },
+                "关键词归一化优化升级举例如下："
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mpqaxgdhx4cj7hm27vd"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 11,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ],
+            [
+              "img",
+              {
+                "uuid": "mpz7da37c6sw15t7kr",
+                "name": "54c7c25e5bb716a7933de71c6e7992fd.png",
+                "size": 63375,
+                "width": 330,
+                "height": 322.6898734177215,
+                "src": "/core/api/resources/img/5eecdaf48460cde51b7eb2becf85675ffcf9bd296a68d02375b8339e1c4c24831b75b38faadcd24bec177c308ebd5304e549c95f285c38cdb0c230ce7b2b5a2d57cb44f90f4dcca18c2d68bc8a08fcc88b3419a4859712f64fb4c8ed7016461c",
+                "extraData": {
+                  "resourceId": "c7acc105-c552-4d3a-b693-1e96b0a5a805",
+                  "metaData": {
+                    "size": 63375,
+                    "originWidth": 632,
+                    "originHeight": 618,
+                    "format": "png",
+                    "ratio": 1
+                  }
+                },
+                "rotation": 0
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "sz": 11,
+                    "szUnit": "pt",
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 11,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "ind": {},
+              "spacing": {},
+              "uuid": "mpq9nsodb649xtflym"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "highlight": "rgb(252, 252, 250)",
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 2.0\"",
+                    "cs": "\"Alibaba PuHuiTi 2.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 2.0\""
+                  },
+                  "sz": 20,
+                  "szUnit": "pt",
+                  "color": "rgb(10, 10, 9)",
+                  "data-type": "leaf"
+                },
+                "对您的影响和建议如下："
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "ind": {},
+              "spacing": {},
+              "uuid": "mpq9nezi67ascn5n4ov"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 2.0\"",
+                    "cs": "\"Alibaba PuHuiTi 2.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 2.0\""
+                  },
+                  "sz": 11,
+                  "szUnit": "pt",
+                  "color": "#FE0300",
+                  "data-type": "leaf"
+                },
+                "新旧数据请勿直接对比"
+              ],
+              [
+                "span",
+                {
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 2.0\"",
+                    "cs": "\"Alibaba PuHuiTi 2.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 2.0\""
+                  },
+                  "sz": 11,
+                  "szUnit": "pt",
+                  "color": "#FE0300",
+                  "data-type": "leaf"
+                },
+                "："
+              ],
+              [
+                "span",
+                {
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 2.0\"",
+                    "cs": "\"Alibaba PuHuiTi 2.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 2.0\""
+                  },
+                  "sz": 11,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "由于归一化规则已变更，调整前后的部分关键词指标不具备可比性，建议不要直接进行环比或同比对照。"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mpq9myy9d737y9xsikh"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 2.0\"",
+                    "cs": "\"Alibaba PuHuiTi 2.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 2.0\""
+                  },
+                  "sz": 11,
+                  "szUnit": "pt",
+                  "color": "#FE0300",
+                  "data-type": "leaf"
+                },
+                "看趋势比看单点数值更有意义"
+              ],
+              [
+                "span",
+                {
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 2.0\"",
+                    "cs": "\"Alibaba PuHuiTi 2.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 2.0\""
+                  },
+                  "sz": 11,
+                  "szUnit": "pt",
+                  "color": "#FE0300",
+                  "data-type": "leaf"
+                },
+                "："
+              ],
+              [
+                "span",
+                {
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 2.0\"",
+                    "cs": "\"Alibaba PuHuiTi 2.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 2.0\""
+                  },
+                  "sz": 11,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "建议以调整后的数据为新基准，重点关注周度或月度的变化走势，而非某一天的绝对数值大小。"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mpq9myy92snd701lz4w"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 2.0\"",
+                    "cs": "\"Alibaba PuHuiTi 2.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 2.0\""
+                  },
+                  "sz": 11,
+                  "szUnit": "pt",
+                  "color": "#FE0300",
+                  "data-type": "leaf"
+                },
+                "善用细分词挖掘新机会"
+              ],
+              [
+                "span",
+                {
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 2.0\"",
+                    "cs": "\"Alibaba PuHuiTi 2.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 2.0\""
+                  },
+                  "sz": 11,
+                  "szUnit": "pt",
+                  "color": "#FE0300",
+                  "data-type": "leaf"
+                },
+                "："
+              ],
+              [
+                "span",
+                {
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 2.0\"",
+                    "cs": "\"Alibaba PuHuiTi 2.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 2.0\""
+                  },
+                  "sz": 11,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "新版拆分出的长尾词往往对应更明确的消费意图，可作为选词拓词的重要参考，有助于提升推广精准度与投产效率。"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mpz7ezgy992jdzuswr"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mpz7ezlh6vkgxi57mkd"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "另外，升级过程中，可能出现优质人群组合延迟产出的问题"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mpz8yudrlgdw9wju6p"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ],
+            [
+              "img",
+              {
+                "uuid": "c6t9sz",
+                "name": "6617f17fe688498ea2fedd694c26bfd8.png",
+                "size": 848418,
+                "width": 594,
+                "height": 501,
+                "src": "/core/api/resources/img/5eecdaf48460cde59d6dab77a60d1733180021097f1e0af458e70b814913bc360a414d3de9277d871abf3af1cbd752491958762fd09bc38670ff7dcdfee79f6ee72b24048b97a1cc7ce61fbd07d37ab0cbf604d523d5b2ecfc653b69905bac42",
+                "extraData": {
+                  "resourceId": "3532facc-f021-4936-b57d-712f28aeabc8",
+                  "metaData": {
+                    "size": 848418,
+                    "originWidth": 1348,
+                    "originHeight": 1136,
+                    "format": "png",
+                    "ratio": 1
+                  }
+                },
+                "rotation": 0
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mpz8yulrpd9u1stosmg"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mpz7ezp784ghbkwihcq"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "h1",
+            {
+              "uuid": "mce9oww6t4ljh2pzefk",
+              "spacing": {
+                "before": 26.666666666666664,
+                "after": 9,
+                "line": 0.8529411764705882
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 20,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "25年新版"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mceifx6iaefzkwg54ri"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "新！ 流量解析新版，涵盖搜索推广全场景数据，精准洞察消费者搜索需求；"
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "已面向全部商家开放"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mfw9clj5r74ijzsfcs"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "有疑问可扫描加钉钉群沟通"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mf2096rndc7mntv2zl9"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "",
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "h3",
+            {
+              "uuid": "mdxyc0fc38nog9fjb0k",
+              "spacing": {
+                "before": 24,
+                "after": 8.666666666666666,
+                "line": 0.8615384615384615
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 14.5,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "新版说明"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mclrfsa7spxw2j1wm4h"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "",
+                  "data-type": "leaf"
+                },
+                "当前无界后台已实现全场景搜索推广投放覆盖。为更全面、精准地反映消费者搜索行为数据，现对流量解析功能进行升级优化。升级内容包括：①全面覆盖无界投放全场景的搜索推广关键词数据；②以消费者实际搜索词为核心（拍立淘意图词将被优化），优化归一化处理逻辑提升词识别能力，更贴合用户搜索意向。受到"
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "",
+                  "data-type": "leaf"
+                },
+                "新增场景覆盖、搜索词归一化及数据指数化"
+              ],
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "",
+                  "data-type": "leaf"
+                },
+                "影响，新版流量解析数据"
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "",
+                  "data-type": "leaf"
+                },
+                "与旧版不具备可比性"
+              ],
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "",
+                  "data-type": "leaf"
+                },
+                "，且新版将展示更多搜索关键词。"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mcsj8w0xrpohb9s7yk"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "",
+                  "data-type": "leaf"
+                },
+                "新归一化逻辑举例：旧版本【酱牛肉】和【牛肉酱】数据被归一；新版本【酱牛肉】和【牛肉酱】属不同类目含义不同，识别为两个不同的词（女连衣裙、连衣裙女仅语序改变含义不变的，依旧归一为一个词）"
+              ]
+            ]
+          ],
+          [
+            "h3",
+            {
+              "uuid": "mdxycnxl0wz8abils2gn",
+              "spacing": {
+                "before": 24,
+                "after": 8.666666666666666,
+                "line": 0.8615384615384615
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 14.5,
+                  "szUnit": "pt",
+                  "color": "",
+                  "data-type": "leaf"
+                },
+                "升级影响"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mbyqcnelgxggm4owfxw"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "流量解析升级后字段影响如下（新旧数据不可比）："
+              ]
+            ]
+          ],
+          [
+            "table",
+            {
+              "colsWidth": [
+                302,
+                284,
+                396
+              ],
+              "tblW": {
+                "w": 100,
+                "type": "pct"
+              },
+              "uuid": "mce9qgzmr4jrldchk1h",
+              "styleId": "tableHeader",
+              "tblLook": {
+                "firstRow": 1,
+                "firstColumn": 0,
+                "lastRow": 0,
+                "lastColumn": 0
+              }
+            },
+            [
+              "tr",
+              {
+                "uuid": "mce9qgzm26haw23cf83",
+                "isTblHeader": true
+              },
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mce9qgzm53s0jsybcd3",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mce9qgzmzcmjtopj46"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "data-type": "leaf"
+                      },
+                      "影响模块"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mce9qgzmfx88vgppi7o",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mce9qgzmjvuxutv8mh"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "data-type": "leaf"
+                      },
+                      "截图示意"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mce9qgzmm8ah8pj8wc",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mce9qgzmrkcgdu2kmq9"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "data-type": "leaf"
+                      },
+                      "影响字段"
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {
+                "uuid": "mce9qgzm6kzmyb7gts"
+              },
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mce9qgzmqhd6pgkey8l",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mce9qgzm1jkgk246342"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "无界-洞察-流量解析  "
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "uuid": "mcx0ix97869e536pjyj"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "uuid": "mcx0jcupa4ay5al66y"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "注：【搜索词榜单】&【我的收藏词】&【优质人群组合】模块，"
+                    ],
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "data-type": "leaf"
+                      },
+                      "新版开通后隔天改变，其他当下改变"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mce9qgzmvm7eia5yjgo",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mce9qgzmkhqlsyt43wp"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ],
+                  [
+                    "img",
+                    {
+                      "uuid": "mdxybwxu7qnq6qzubsd",
+                      "name": "image.png",
+                      "size": 1420865,
+                      "width": 201,
+                      "height": 123.11250000000001,
+                      "src": "/core/api/resources/img/5eecdaf48460cde55fb4d8a4f3f1405ffd05af81504189bb75b8339e1c4c24831b75b38faadcd24bec177c308ebd5304138b8cf4f104b4db3bad954b7dd3cd23b9aac97b213d0c04ae26a61e2c9b1bf9d3f99a7f24020d914fb4c8ed7016461c",
+                      "extraData": {
+                        "resourceId": "66225f6a-7744-4255-880b-1e7b5d992b55",
+                        "metaData": {
+                          "size": 1420865,
+                          "originWidth": 1926,
+                          "originHeight": 1179,
+                          "format": "png",
+                          "ratio": 1
+                        }
+                      },
+                      "rotation": 0
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "leaf"
+                        },
+                        ""
+                      ]
+                    ]
+                  ],
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mce9qgzmvzl8f6b1nur",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mce9qgzmk6090udyv6"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "流量解析【市场数据趋势】、【相关词推荐】、【人群画像分析】、【竞争流量透视】tab下，"
+                    ],
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "data-type": "leaf"
+                      },
+                      "与市场大盘有关字段均有影响"
+                    ],
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "（如展现指数、点击指数、点击率、点击转化率、竞争指数、市场均价等等）"
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "uuid": "mcehgyjsv7cnufu1pvq"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {
+                "uuid": "mce9qgzmlznpo2qnw4"
+              },
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mce9qgzmd8h6i0bikx",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mce9qgzmet26qx34z3g"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "无界-关键词推广-添加关键词投放"
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "uuid": "mcx1eg6ro3qgtpc6lu"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "无界-小万-添加关键词投放"
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "uuid": "mcx155y6tb6ic6wq9m"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "uuid": "mcx156a1x6i1qd4ckkd"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "注：新版开通后隔天改变"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mce9qgzmdv1txypkk8",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mce9qgzmevme7hfpxtt"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ],
+                  [
+                    "img",
+                    {
+                      "uuid": "mdxybwxu0fnnwtgfraan",
+                      "name": "image.png",
+                      "size": 679746,
+                      "width": 170,
+                      "height": 75.703125,
+                      "src": "/core/api/resources/img/5eecdaf48460cde51b7eb2becf85675ffcf9bd296a68d02375b8339e1c4c24831b75b38faadcd24bec177c308ebd5304e1f7719bb5f487880d9fe80ff197703ae3821961a9c401521d59027351963ec03c3a38c1913dd93e4fb4c8ed7016461c",
+                      "extraData": {
+                        "resourceId": "1c7d5879-84f0-48da-afa8-2503f95ad7d8",
+                        "metaData": {
+                          "size": 679746,
+                          "originWidth": 1630,
+                          "originHeight": 726,
+                          "format": "png",
+                          "ratio": 1
+                        }
+                      },
+                      "rotation": 0
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "leaf"
+                        },
+                        ""
+                      ]
+                    ]
+                  ],
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ],
+                  [
+                    "img",
+                    {
+                      "uuid": "mdxybwxukvxw9coe3wl",
+                      "name": "image.png",
+                      "size": 697887,
+                      "width": 158,
+                      "height": 150.93028095733612,
+                      "src": "/core/api/resources/img/5eecdaf48460cde55fb4d8a4f3f1405ffd05af81504189bb75b8339e1c4c24831b75b38faadcd24bec177c308ebd5304837fdbbce51946630efdab4cd5788d90c5a92a5fd770ddb8d824e2cf87d4e3eb61619ca2618a0ea34fb4c8ed7016461c",
+                      "extraData": {
+                        "resourceId": "7601c1a3-6750-4a34-a67c-8288d0abfd95",
+                        "metaData": {
+                          "size": 697887,
+                          "originWidth": 961,
+                          "originHeight": 918,
+                          "format": "png",
+                          "ratio": 1
+                        }
+                      },
+                      "rotation": 0
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "leaf"
+                        },
+                        ""
+                      ]
+                    ]
+                  ],
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mce9qgzm6xhv6mbwh6n",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mce9qgzm4xoyyytzvrg"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "搜索指数、市场点击率、市场点击转化率、市场平均出价"
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {
+                "uuid": "mce9qgzm74wa4j5hph2"
+              },
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mce9qgzm73vl0u4mzv",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mce9qgzmgzvd5kyge25"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "无界-首页-关键词机会榜"
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "uuid": "mcx15jfmyxcgho253jg"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "uuid": "mcx15jjsjaz6xwszwdh"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "注：新版开通后隔天改变"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mce9qgzmb76eo2fe3jv",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mce9qgzmu1amonj4rca"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ],
+                  [
+                    "img",
+                    {
+                      "uuid": "mdxybwxu90d53o7175b",
+                      "name": "image.png",
+                      "size": 237524,
+                      "width": 158,
+                      "height": 135.78913738019168,
+                      "src": "/core/api/resources/img/5eecdaf48460cde55fb4d8a4f3f1405ffd05af81504189bb75b8339e1c4c24831b75b38faadcd24bec177c308ebd5304c1c50e429b83602dc86739c0e2d1c78a03ce693b539dda5beca90e84192c6ff959023b84357d54644fb4c8ed7016461c",
+                      "extraData": {
+                        "resourceId": "e420fa2c-deaf-4475-98b8-af4a46722ae8",
+                        "metaData": {
+                          "size": 237524,
+                          "originWidth": 626,
+                          "originHeight": 538,
+                          "format": "png",
+                          "ratio": 1
+                        }
+                      },
+                      "rotation": 0
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "leaf"
+                        },
+                        ""
+                      ]
+                    ]
+                  ],
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mce9qgzm78c4ztonjgd",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mce9qgzm8wxl1nhcs5k"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "竞争指数、搜索指数、蓝海指数"
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {
+                "uuid": "mcehv8ibga056xsgv68"
+              },
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mcehv8ibqu7pwjwk92",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mcehv8ibbzcegvsr5ih"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "无界-报表-场景结案-BEST方法论结案"
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "uuid": "mcx15l03g3m6tldetm"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "uuid": "mcx15l48idy8bf33hpd"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mcehv8ibeykyli3lp5k",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mcehv8ibh6rbkkkotgf"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ],
+                  [
+                    "img",
+                    {
+                      "uuid": "mdxybwxursscaj7rcns",
+                      "name": "image.png",
+                      "size": 921502,
+                      "width": 243,
+                      "height": 119.98125,
+                      "src": "/core/api/resources/img/5eecdaf48460cde51b7eb2becf85675ffcf9bd296a68d02375b8339e1c4c24831b75b38faadcd24bec177c308ebd53041fefe5a598b830dcca7d349512bf25790bb714c5534c3cc1846107205028351589c7c74f045e1a0a4fb4c8ed7016461c",
+                      "extraData": {
+                        "resourceId": "fa95b861-a5d0-4075-b98c-c8caa02c0fb3",
+                        "metaData": {
+                          "size": 921502,
+                          "originWidth": 1700,
+                          "originHeight": 840,
+                          "format": "png",
+                          "ratio": 1
+                        }
+                      }
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "leaf"
+                        },
+                        ""
+                      ]
+                    ]
+                  ],
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mcehv8ibw68zdoh6z9s",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mceiewlallwlyry0zu"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "市场平均出价、飘升度、竞争指数、搜索指数"
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "uuid": "mceiewlb5qnzr85yot5"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "    "
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "uuid": "mceiewlb4borz9z5rsw"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ]
+                ]
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mdxy6mbag64rk2mhwil"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mdxy6mf4rr3ibcrulb"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mdxy51numpuy5r85dy"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "h1",
+            {
+              "uuid": "mdxy51rt4hid40uozv",
+              "spacing": {
+                "before": 26.666666666666664,
+                "after": 9,
+                "line": 0.8529411764705882
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 20,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "24年版本"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "m7a3fpx8464hx29t16w"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "italic": true,
+                  "color": "#D0D0D0",
+                  "data-type": "leaf"
+                },
+                "原语雀文档链接："
+              ]
+            ],
+            [
+              "a",
+              {
+                "href": "https://yuque.antfin.com/chenchun.chen/gqhty9/szshw2xr7006cgaf",
+                "uuid": "mdxydv1z6biz07t4tq9"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  "https://yuque.antfin.com/chenchun.chen/gqhty9/szshw2xr7006cgaf"
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "hr",
+            {
+              "color": "#D8D8D8",
+              "sz": 2,
+              "type": "single",
+              "width": "100%",
+              "uuid": "mdxydv20e5bv1fwaazr"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "h2",
+            {},
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "一、项目背景"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "blockquote": true
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "📈📈目前很多商家通过使用「流量解析」工具进行关键词数据洞察，本次产品升级重点帮助商家解决“"
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "data-type": "leaf"
+                },
+                "如何发现和扩展好词”"
+              ],
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "以及"
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "data-type": "leaf"
+                },
+                "“根据词的广告价值进行推广”"
+              ],
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "的问题"
+              ],
+              [
+                "span",
+                {
+                  "sz": 11,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "从搜索词的视角帮助商家发现贴合消费者和商品的好词（搜索词更能反映需求场的变化）通过提炼关键信息帮助客户理解广告流量的变化和机会（精简总结当前关键词的竞争环境）"
+              ]
+            ],
+            [
+              "a",
+              {
+                "href": "https://one.alimama.com/index.html#!/insight/search/traffic-analysis/index"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "bold": true,
+                    "data-type": "leaf"
+                  },
+                  ">>>>>点击直达流量解析工具页面<<<<<<<"
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "h2",
+            {},
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "二、本次产品升级点"
+              ]
+            ]
+          ],
+          [
+            "h4",
+            {},
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "1、新增提供【行业搜索词榜单】、【店铺机会词榜单】及对应图谱"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "list": {
+                "isChecked": false,
+                "isOrdered": false,
+                "isTaskList": false,
+                "level": 0,
+                "listId": "list0",
+                "listStyle": {
+                  "align": "left",
+                  "format": "bullet",
+                  "text": "●"
+                }
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "【行业搜索词榜单】：支持根据二级类目切换，细分为 节促热搜词、流量黑马词、竞对热买词、洼地机会词"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "list": {
+                "isChecked": false,
+                "isOrdered": false,
+                "isTaskList": false,
+                "level": 0,
+                "listId": "list0",
+                "listStyle": {
+                  "align": "left",
+                  "format": "bullet",
+                  "text": "●"
+                }
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "【店铺机会词榜单】：按照BEST关键词方法论，根据您店铺&商品情况，为您推荐店铺专有词、类目精准词、行业热门词、趋势机会词"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {},
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ],
+            [
+              "img",
+              {
+                "height": 669,
+                "name": "",
+                "src": "https://alidocs.oss-cn-zhangjiakou.aliyuncs.com/lark/https://yuque.antfin.com/chenchun.chen/gqhty9/szshw2xr7006cgaf/imgtd4wdMSafM.png",
+                "width": 1317
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "h4",
+            {},
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ],
+            [
+              "img",
+              {
+                "height": 575,
+                "name": "",
+                "src": "https://alidocs.oss-cn-zhangjiakou.aliyuncs.com/lark/https://yuque.antfin.com/chenchun.chen/gqhty9/szshw2xr7006cgaf/imgWdqJ7Zuk9U.png",
+                "width": 1284
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                " 2、针对账户已经在投的关键词，支持快捷和店铺数据对比  "
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "list": {
+                "isChecked": false,
+                "isOrdered": false,
+                "isTaskList": false,
+                "level": 0,
+                "listId": "list1",
+                "listStyle": {
+                  "align": "left",
+                  "format": "bullet",
+                  "text": "●"
+                }
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "如果洞察关键词您已经在投放中，本次流量解析升级后支持针对该关键词进行快捷数据对比，可以选择"
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "data-type": "leaf"
+                },
+                "【对比店铺整体数据】"
+              ],
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "，也可以选择"
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "data-type": "leaf"
+                },
+                "【对比指定单元】"
+              ],
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "，让您查看关键词效果更直接！！"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {},
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ],
+            [
+              "img",
+              {
+                "height": 483,
+                "name": "",
+                "src": "https://alidocs.oss-cn-zhangjiakou.aliyuncs.com/lark/https://yuque.antfin.com/chenchun.chen/gqhty9/szshw2xr7006cgaf/imgSr5x9zjX3Z.png",
+                "width": 1206
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {},
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ],
+            [
+              "img",
+              {
+                "height": 385,
+                "name": "",
+                "src": "https://alidocs.oss-cn-zhangjiakou.aliyuncs.com/lark/https://yuque.antfin.com/chenchun.chen/gqhty9/szshw2xr7006cgaf/imgKnjMZTnSyY.png",
+                "width": 1180.5
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "h4",
+            {},
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                " 3、针对关键词市场数据，系统提供智能总结解读  "
+              ]
+            ]
+          ],
+          [
+            "p",
+            {},
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ],
+            [
+              "img",
+              {
+                "height": 227,
+                "name": "",
+                "src": "https://alidocs.oss-cn-zhangjiakou.aliyuncs.com/lark/https://yuque.antfin.com/chenchun.chen/gqhty9/szshw2xr7006cgaf/img2DJXEg9aDY.png",
+                "width": 1166.5
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "h4",
+            {},
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                " 4、支持跨单元的关键词改价  "
+              ]
+            ]
+          ],
+          [
+            "p",
+            {},
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ],
+            [
+              "img",
+              {
+                "height": 591,
+                "name": "",
+                "src": "https://alidocs.oss-cn-zhangjiakou.aliyuncs.com/lark/https://yuque.antfin.com/chenchun.chen/gqhty9/szshw2xr7006cgaf/imgEZiYYWFHQe.png",
+                "width": 680
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "h4",
+            {},
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                " 5、根据消费者行为\"以词找词\"，让您买词思路不枯竭"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "list": {
+                "isChecked": false,
+                "isOrdered": false,
+                "isTaskList": false,
+                "level": 0,
+                "listId": "list2",
+                "listStyle": {
+                  "align": "left",
+                  "format": "bullet",
+                  "text": "●"
+                }
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 11,
+                  "szUnit": "pt",
+                  "color": "#000000",
+                  "data-type": "leaf"
+                },
+                "提供搜索“XX词”的消费者"
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 11,
+                  "szUnit": "pt",
+                  "color": "#DF2A3F",
+                  "data-type": "leaf"
+                },
+                "同时会搜的词"
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 11,
+                  "szUnit": "pt",
+                  "color": "#000000",
+                  "data-type": "leaf"
+                },
+                "，"
+              ],
+              [
+                "span",
+                {
+                  "sz": 11,
+                  "szUnit": "pt",
+                  "color": "#000000",
+                  "data-type": "leaf"
+                },
+                "圆圈越大，说明消费者在搜索的时候，越倾向于使用以下的描述词组合搜索。"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {},
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ],
+            [
+              "img",
+              {
+                "height": 521,
+                "name": "",
+                "src": "https://alidocs.oss-cn-zhangjiakou.aliyuncs.com/lark/https://yuque.antfin.com/chenchun.chen/gqhty9/szshw2xr7006cgaf/img4uQkjuJivE.png",
+                "width": 1301
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "list": {
+                "isChecked": false,
+                "isOrdered": false,
+                "isTaskList": false,
+                "level": 0,
+                "listId": "list3",
+                "listStyle": {
+                  "align": "left",
+                  "format": "bullet",
+                  "text": "●"
+                }
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 11,
+                  "szUnit": "pt",
+                  "color": "#000000",
+                  "data-type": "leaf"
+                },
+                "提供搜索“XX词”的消费者"
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 11,
+                  "szUnit": "pt",
+                  "color": "#DF2A3F",
+                  "data-type": "leaf"
+                },
+                "还会搜的词"
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 11,
+                  "szUnit": "pt",
+                  "color": "#000000",
+                  "data-type": "leaf"
+                },
+                "，"
+              ],
+              [
+                "span",
+                {
+                  "sz": 11,
+                  "szUnit": "pt",
+                  "color": "#000000",
+                  "data-type": "leaf"
+                },
+                "圆圈越大，说明有越多的消费者在搜索前后，还会搜索以下的关键词。"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {},
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ],
+            [
+              "img",
+              {
+                "height": 328,
+                "name": "",
+                "src": "https://alidocs.oss-cn-zhangjiakou.aliyuncs.com/lark/https://yuque.antfin.com/chenchun.chen/gqhty9/szshw2xr7006cgaf/imgjGK4DPd4el.png",
+                "width": 1152
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "h2",
+            {},
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "三、常见FAQ"
+              ]
+            ]
+          ],
+          [
+            "h4",
+            {},
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "Q1、为什么升级为新版后，竞争流量透视-流量透视数据和老版本差异较大"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {},
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "data-type": "leaf"
+                },
+                "A1"
+              ],
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "、新版本流量透视包含"
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "color": "#117CEE",
+                  "data-type": "leaf"
+                },
+                "手淘（即手机淘宝的搜索）"
+              ],
+              [
+                "span",
+                {
+                  "color": "#117CEE",
+                  "data-type": "leaf"
+                },
+                "、"
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "color": "#117CEE",
+                  "data-type": "leaf"
+                },
+                "天猫（手机天猫app）、销量明星、泛搜索四个渠道"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {},
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "旧版本是"
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "data-type": "leaf"
+                },
+                "移动设备"
+              ],
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "、"
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "data-type": "leaf"
+                },
+                "计算机设备、站外优质媒体"
+              ],
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "三个渠道， 移动设备是所有在无线端，包括手淘（即手机淘宝的搜索）、手猫（手机天猫app）还有包括泛搜索（拍立淘、找相似）、互动场景（农场）、搜索结果页面的相关推荐等等"
+              ]
+            ],
+            [
+              "br",
+              {
+                "type": "textWrapping"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "color": "#DF2A3F",
+                  "data-type": "leaf"
+                },
+                "因此流量归因口径不同，新旧数据不能直接类比"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {},
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "highlight": "#FBDE28",
+                  "data-type": "leaf"
+                },
+                "新版："
+              ]
+            ],
+            [
+              "br",
+              {
+                "type": "textWrapping"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ],
+            [
+              "img",
+              {
+                "height": 258,
+                "name": "",
+                "src": "https://alidocs.oss-cn-zhangjiakou.aliyuncs.com/lark/https://yuque.antfin.com/chenchun.chen/gqhty9/szshw2xr7006cgaf/imgS7G5vpVcMX.png",
+                "width": 1160.5
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {},
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "highlight": "#FBDE28",
+                  "data-type": "leaf"
+                },
+                "旧版："
+              ]
+            ]
+          ],
+          [
+            "p",
+            {},
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ],
+            [
+              "img",
+              {
+                "height": 492,
+                "name": "",
+                "src": "https://alidocs.oss-cn-zhangjiakou.aliyuncs.com/lark/https://yuque.antfin.com/chenchun.chen/gqhty9/szshw2xr7006cgaf/img6mOWNVsjET.png",
+                "width": 1070
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ]
+        ],
+        "footers": {},
+        "version": 1
+      },
+      "refs": {}
+    }
+  }
+}

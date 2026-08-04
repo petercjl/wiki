@@ -1,0 +1,3603 @@
+{
+  "version": 1,
+  "type": "application/x-alidocs-package",
+  "main": "00000000-0000-0000-0000-000000000001",
+  "plugins": "00000000-0000-0000-0000-000000000002",
+  "parts": {
+    "00000000-0000-0000-0000-000000000001": {
+      "id": "00000000-0000-0000-0000-000000000001",
+      "type": "application/x-alidocs-word",
+      "version": 1,
+      "data": {
+        "style": {
+          "docDefaults": {
+            "type": "paragraph",
+            "default": 1,
+            "name": "dingdocnormal",
+            "data": {
+              "rPr": {
+                "sz": 12,
+                "szUnit": "pt"
+              },
+              "pPr": {
+                "spacing": {
+                  "before": 12,
+                  "after": 12
+                }
+              }
+            }
+          },
+          "tableDefault": {
+            "type": "table",
+            "data": {
+              "tblPr": {
+                "bdr": {
+                  "bottom": {
+                    "color": "#D6D6D6",
+                    "space": 0,
+                    "sz": 1,
+                    "val": "single"
+                  },
+                  "insideH": {
+                    "color": "#D6D6D6",
+                    "space": 0,
+                    "sz": 1,
+                    "val": "single"
+                  },
+                  "insideV": {
+                    "color": "#D6D6D6",
+                    "space": 0,
+                    "sz": 1,
+                    "val": "single"
+                  },
+                  "left": {
+                    "color": "#D6D6D6",
+                    "space": 0,
+                    "sz": 1,
+                    "val": "single"
+                  },
+                  "right": {
+                    "color": "#D6D6D6",
+                    "space": 0,
+                    "sz": 1,
+                    "val": "single"
+                  },
+                  "top": {
+                    "color": "#D6D6D6",
+                    "space": 0,
+                    "sz": 1,
+                    "val": "single"
+                  }
+                }
+              }
+            }
+          },
+          "tableHeader": {
+            "type": "table",
+            "basedOn": "tableDefault",
+            "data": {
+              "tblStylePr": [
+                {
+                  "type": "firstRow",
+                  "tcPr": {
+                    "shd": {
+                      "fill": "#F5F6F7"
+                    }
+                  }
+                },
+                {
+                  "type": "firstCol",
+                  "tcPr": {
+                    "shd": {
+                      "fill": "#F5F6F7"
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        "theme": [],
+        "settings": {
+          "titleCover": {
+            "isHide": true
+          }
+        },
+        "app": {},
+        "numberings": {},
+        "headers": {},
+        "body": [
+          "root",
+          {
+            "sectPr": {
+              "pgSz": {
+                "w": 892,
+                "h": 1127
+              },
+              "pgMar": {
+                "top": 48,
+                "bottom": 48,
+                "left": 72,
+                "right": 72,
+                "header": 56.73,
+                "footer": 66.13,
+                "gutter": 0
+              }
+            },
+            "theme": {
+              "table": {
+                "tableCell": {
+                  "vAlign": "top"
+                }
+              }
+            }
+          },
+          [
+            "h2",
+            {
+              "uuid": "mrvlgzhs48t8o4ylcd5"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "一、控费比模式-成本保障简介"
+              ]
+            ]
+          ],
+          [
+            "container",
+            {
+              "metadata": {
+                "bgcolor": "#FFFFFF",
+                "border": "#979A9B",
+                "borderRadius": 8,
+                "padding": {
+                  "bottom": 11,
+                  "left": 11,
+                  "right": 11,
+                  "top": 11
+                },
+                "showstk": false
+              },
+              "subType": "colorBlocks",
+              "uuid": "mrx7smrhso21l8n4mk"
+            },
+            [
+              "p",
+              {
+                "uuid": "mrx7smrh8cttnwgy9ce"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  "已上车货品全站推广控费比模式的计划，如在新建计划环节显示「成本保障」，或在投中环节显示「保障」标签，"
+                ],
+                [
+                  "span",
+                  {
+                    "bold": true,
+                    "data-type": "leaf"
+                  },
+                  "若满足以下成本保障条件"
+                ],
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  "，商家无需填写问卷登记，系统将自动为该计划进行成本保障赔付。从计划新建后保障15天，计划在此期间仅能享受一次成本保障。"
+                ]
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "blockquote": true,
+              "uuid": "mrvlgzhtt1n2cv8n9lr"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "data-type": "leaf"
+                },
+                "费比与ROI的关系说明："
+              ],
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                " 费比（广告费用比）与ROI（投产比）互为倒数关系，即 "
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "data-type": "leaf"
+                },
+                "费比 = 1 / ROI"
+              ],
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "，"
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "data-type": "leaf"
+                },
+                "ROI = 1 / 费比"
+              ],
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "。例如：目标费比为25%（即0.25），等价于目标ROI为4。控费比模式下的成本保障赔付规则与控投产比（ROI）模式完全等价，仅表达维度不同"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "blockquote": true,
+              "uuid": "mrwwagxwl9l5wmukwzo"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "data-type": "leaf"
+                },
+                "注意："
+              ],
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "费比模式的成交GMV与标准模式GMV的成交口径不同，费比模式的成交="
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "data-type": "leaf"
+                },
+                "商品直接净成交金额"
+              ],
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "（公域+私域+其他）"
+              ]
+            ]
+          ],
+          [
+            "hr",
+            {
+              "uuid": "mrvlgzhtryk5rwr6j"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "h2",
+            {
+              "uuid": "mrvlgzhto3173ejj5a"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "二、控费比模式-成本保障规则"
+              ]
+            ]
+          ],
+          [
+            "h3",
+            {
+              "uuid": "mrvlgzhtrgcj8e1fwr"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "1. 计划在投门槛"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mrvlgzhu0goy5rcvg6lu"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "计划需在投「货品全站推广-控费比模式」"
+              ]
+            ]
+          ],
+          [
+            "h3",
+            {
+              "uuid": "mrvlgzhuipalbdswx1h"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "2. 计划操作门槛"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "list": {
+                "extraData": {},
+                "hideSymbol": false,
+                "isOrdered": false,
+                "isTaskList": false,
+                "level": 0,
+                "listId": "3oadg7gyomu",
+                "listStyle": {
+                  "align": "left",
+                  "format": "bullet",
+                  "text": "●"
+                },
+                "listStyleType": "SCIR_ECIR_SREC",
+                "symbolStyle": {}
+              },
+              "uuid": "mrvlgzhugm8e1jpvjj"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "data-type": "leaf"
+                },
+                "出价门槛： "
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "color": "#C10002",
+                  "data-type": "leaf"
+                },
+                "推广商品的费比设置值 >= 系统推荐费比"
+              ],
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "（等价于ROI设置值 <= 系统推荐ROI）。"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mrybyi56h6k0yfz8mpa",
+              "list": {
+                "extraData": {},
+                "hideSymbol": false,
+                "isOrdered": false,
+                "isTaskList": false,
+                "level": 1,
+                "listId": "3oadg7gyomu",
+                "listStyle": {
+                  "align": "left",
+                  "format": "bullet",
+                  "text": "○"
+                },
+                "listStyleType": "SCIR_ECIR_SREC",
+                "symbolStyle": {}
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "underline": {
+                    "value": "single"
+                  },
+                  "data-type": "leaf"
+                },
+                "  以下图为例，系统推荐费比为30.1%，则费比出价区间需在30.1%及以上"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mrybwoyv6cm9ys0lxdd"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ],
+            [
+              "img",
+              {
+                "uuid": "n8mcpg",
+                "name": "image.png",
+                "size": 218225,
+                "width": 692,
+                "height": 235,
+                "src": "/core/api/resources/img/5eecdaf48460cde593e06dd716e0f07c86b8c15a2df1c61275b8339e1c4c24831b75b38faadcd24bec177c308ebd530497b0ee56ffd8e0766dc5b2c61c082d435c195edc09b4713600d770111af06449bf7e0a1447ac45e64fb4c8ed7016461c",
+                "extraData": {
+                  "resourceId": "4be2f22b-5eb6-4178-93eb-4bea80600a5e",
+                  "metaData": {
+                    "size": 218225,
+                    "originWidth": 1090,
+                    "originHeight": 370,
+                    "format": "png",
+                    "ratio": 1
+                  }
+                },
+                "rotation": 0
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "list": {
+                "extraData": {},
+                "hideSymbol": false,
+                "isOrdered": false,
+                "isTaskList": false,
+                "level": 0,
+                "listId": "3oadg7gyomu",
+                "listStyle": {
+                  "align": "left",
+                  "format": "bullet",
+                  "text": "●"
+                },
+                "listStyleType": "SCIR_ECIR_SREC",
+                "symbolStyle": {}
+              },
+              "uuid": "mrvlgzhumqod5c6icr"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "data-type": "leaf"
+                },
+                "投放状态门槛："
+              ],
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                " 当天计划不在【数据积累期】、【效果调整期】，计划必须处在"
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "color": "#C10002",
+                  "data-type": "leaf"
+                },
+                "【稳定投放期】"
+              ]
+            ],
+            [
+              "a",
+              {
+                "href": "https://alidocs.dingtalk.com/i/nodes/mExel2BLV59rgdDPi5zm3LdEVgk9rpMq?doc_type=wiki_doc",
+                "uuid": "mrvlgzhvhin1cvw9zch"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "bold": true,
+                    "sz": 12,
+                    "szUnit": "pt",
+                    "underline": {
+                      "value": "single"
+                    },
+                    "data-type": "leaf"
+                  },
+                  "投放期阶段功能解读"
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "color": "#C10002",
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "list": {
+                "extraData": {},
+                "hideSymbol": false,
+                "isOrdered": false,
+                "isTaskList": false,
+                "level": 1,
+                "listId": "3oadg7gyomu",
+                "listStyle": {
+                  "align": "left",
+                  "format": "bullet",
+                  "text": "○"
+                },
+                "listStyleType": "SCIR_ECIR_SREC",
+                "symbolStyle": {}
+              },
+              "uuid": "mrybzb174vd5wqx0a66"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "underline": {
+                    "value": "single"
+                  },
+                  "data-type": "leaf"
+                },
+                "⚠️注：成本保障赔付已上线，提示卡片待上线，赔付到账情况可以在账户-优惠券查看"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "list": {
+                "extraData": {},
+                "hideSymbol": false,
+                "isOrdered": false,
+                "isTaskList": false,
+                "level": 1,
+                "listId": "3oadg7gyomu",
+                "listStyle": {
+                  "align": "left",
+                  "format": "bullet",
+                  "text": "○"
+                },
+                "listStyleType": "SCIR_ECIR_SREC",
+                "symbolStyle": {}
+              },
+              "uuid": "mrwwu6j5658mcj40m16"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "underline": {
+                    "value": "single"
+                  },
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ],
+            [
+              "img",
+              {
+                "uuid": "bd8sas",
+                "name": "image.png",
+                "size": 436371,
+                "width": 749,
+                "height": 358.89821053988493,
+                "src": "/core/api/resources/img/5eecdaf48460cde593e06dd716e0f07c86b8c15a2df1c61275b8339e1c4c24831b75b38faadcd24bec177c308ebd5304462f850c5d52f2bf223ab023f75e060cfc3eeb3ed36f8bfe1ad62b2f2b1572fc1f2000ece5da0c314fb4c8ed7016461c",
+                "extraData": {
+                  "resourceId": "a7d9884d-15c0-4bb9-ab1c-fd1760f58cb1",
+                  "metaData": {
+                    "size": 436371,
+                    "originWidth": 1152,
+                    "originHeight": 552,
+                    "format": "png",
+                    "ratio": 1
+                  }
+                }
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "underline": {
+                    "value": "single"
+                  },
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "list": {
+                "extraData": {},
+                "hideSymbol": false,
+                "isOrdered": false,
+                "isTaskList": false,
+                "level": 0,
+                "listId": "3oadg7gyomu",
+                "listStyle": {
+                  "align": "left",
+                  "format": "bullet",
+                  "text": "●"
+                },
+                "listStyleType": "SCIR_ECIR_SREC",
+                "symbolStyle": {}
+              },
+              "uuid": "mrvlgzhvpetmwllxd4h"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "data-type": "leaf"
+                },
+                "投放操作门槛："
+              ],
+              [
+                "span",
+                {
+                  "color": "#C10002",
+                  "data-type": "leaf"
+                },
+                " "
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "color": "#C10002",
+                  "data-type": "leaf"
+                },
+                "投放当天计划无暂停、无删除、未开启最大化拿量"
+              ]
+            ]
+          ],
+          [
+            "h3",
+            {
+              "uuid": "mrvlgzhvcfu2q5klk97"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "3. 保障成效门槛"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "list": {
+                "listId": "sao4nu6mlzd",
+                "isOrdered": false,
+                "level": 0,
+                "listStyle": {
+                  "format": "bullet",
+                  "text": "●",
+                  "align": "left"
+                }
+              },
+              "uuid": "mrvlgzhvpxi0sggwt6j"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "data-type": "leaf"
+                },
+                "置信状态："
+              ],
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                " 计划累计消耗需高于单笔成交成本（消耗 > GMV / 成交笔数）"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "list": {
+                "listId": "sao4nu6mlzd",
+                "isOrdered": false,
+                "level": 0,
+                "listStyle": {
+                  "format": "bullet",
+                  "text": "●",
+                  "align": "left"
+                }
+              },
+              "uuid": "mrvlgzhwjq3an8p2h7"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "data-type": "leaf"
+                },
+                "超成本比例："
+              ],
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                " 实际投放费比 > 费比设置值 / 70%（即实际费比超过费比设置值的约1.43倍），费比归因周期15天"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "blockquote": true,
+              "uuid": "mrvlgzhwe9gz0p21bks"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "data-type": "leaf"
+                },
+                "与ROI模式的等价换算："
+              ]
+            ]
+          ],
+          [
+            "h3",
+            {
+              "uuid": "mrvlgzhw36yx1yo9fa2"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "4. 成本保障金额测算逻辑"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mrvlgzhxt0ri3xkgwv"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "data-type": "leaf"
+                },
+                "赔付金额 = 实际消耗 - [实际15天归因成交金额 × 目标费比 / 0.7]"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mrvlgzhxuwp9gxd67nd"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "计划当日多次调价的，系统按当日设置的最高费比 / 0.7 为保障目标（等价于按当日设置的最低ROI × 0.7为保障目标）。"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "blockquote": true,
+              "uuid": "mrvlgzhxk9emaq2x5bf"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "data-type": "leaf"
+                },
+                "与ROI模式的等价公式："
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mrvlgzhxbnn886a58la"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "data-type": "leaf"
+                },
+                "示例："
+              ],
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "系统推荐费比为50%（等价于推荐ROI为2），客户采纳推荐费比50%："
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "list": {
+                "listId": "c6dqv29aheo",
+                "isOrdered": false,
+                "level": 0,
+                "listStyle": {
+                  "format": "bullet",
+                  "text": "●",
+                  "align": "left"
+                }
+              },
+              "uuid": "mrvlgzhysqlafkw1l3"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "实际投放费比为100%（等价于实际ROI为1），成交金额为100元"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "list": {
+                "listId": "c6dqv29aheo",
+                "isOrdered": false,
+                "level": 0,
+                "listStyle": {
+                  "format": "bullet",
+                  "text": "●",
+                  "align": "left"
+                }
+              },
+              "uuid": "mrvlgzhz1ln61lp9obtj"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "实际消耗：100 / 1 = 100元"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "list": {
+                "listId": "c6dqv29aheo",
+                "isOrdered": false,
+                "level": 0,
+                "listStyle": {
+                  "format": "bullet",
+                  "text": "●",
+                  "align": "left"
+                }
+              },
+              "uuid": "mrvlgzi1w0l7hwfcpar"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "赔付金额：100 - 100 × 50% / 0.7 = "
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "data-type": "leaf"
+                },
+                "28.57元"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "blockquote": true,
+              "uuid": "mrvlgzi1izp1ett71jg"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "验证（用ROI公式计算同一场景）："
+              ]
+            ]
+          ],
+          [
+            "h3",
+            {
+              "uuid": "mrvlgzi2ratu5px4r9q"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "5. 成本保障范围"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mrvlgzi2hh04odf3xe5"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "当前成本保障场景覆盖「货品全站推广-控费比模式」计划"
+              ]
+            ]
+          ],
+          [
+            "h3",
+            {
+              "uuid": "mrvlgzi2tro7s2y82l"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "6. 成本保障形式"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "list": {
+                "listId": "rmf2lj0vu1",
+                "isOrdered": false,
+                "level": 0,
+                "listStyle": {
+                  "format": "bullet",
+                  "text": "●",
+                  "align": "left"
+                }
+              },
+              "uuid": "mrvlgzi33bauqad88mf"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "无门槛代金券，券面额 = 该商家货品全站推广场景下成本保障总金额，该代金券无门槛优先抵扣，生效时间30天，仅可在货品全站推广场景使用。"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "list": {
+                "listId": "rmf2lj0vu1",
+                "isOrdered": false,
+                "level": 0,
+                "listStyle": {
+                  "format": "bullet",
+                  "text": "●",
+                  "align": "left"
+                },
+                "symbolStyle": {
+                  "bold": true
+                }
+              },
+              "uuid": "mrvlgzi3lu6guszia47"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "data-type": "leaf"
+                },
+                "代金券查看方式：万相台AI无界 - 账户 - 我的优惠券。"
+              ]
+            ]
+          ],
+          [
+            "hr",
+            {
+              "uuid": "mrvlgzi35u8qui1rrcg"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "h2",
+            {
+              "uuid": "mrvlgzi4ndt13wfttqo"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "三、费比与ROI换算速查表"
+              ]
+            ]
+          ],
+          [
+            "table",
+            {
+              "colsWidth": [
+                187,
+                187,
+                187,
+                187
+              ],
+              "tblW": {
+                "type": "pct"
+              },
+              "styleId": "tableHeader",
+              "tblLook": {
+                "firstRow": 1,
+                "lastRow": 0,
+                "firstColumn": 0,
+                "lastColumn": 0
+              },
+              "uuid": "mrvlgzi4h6nmp6y6fl"
+            },
+            [
+              "tr",
+              {
+                "isTblHeader": true,
+                "uuid": "mrvlgzi4w58xfd2jr4"
+              },
+              [
+                "tc",
+                {
+                  "rowSpan": 1,
+                  "colSpan": 1,
+                  "uuid": "mrvlgzi4gix8llllak",
+                  "vAlign": "middle"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mrvlgzi5f7yv6fvjmfs"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "目标费比"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "rowSpan": 1,
+                  "colSpan": 1,
+                  "uuid": "mrvlgzi58ytqbaof129",
+                  "vAlign": "middle"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mrvlgzi5z2auob2t8m"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "等价目标ROI"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "rowSpan": 1,
+                  "colSpan": 1,
+                  "uuid": "mrvlgzi62riq1d5pvkd",
+                  "vAlign": "middle"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mrvlgzi6kigtj8zx74l"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "费比超标阈值（费比/0.7）"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "rowSpan": 1,
+                  "colSpan": 1,
+                  "uuid": "mrvlgzi6cf3zq3rlguj",
+                  "vAlign": "middle"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mrvlgzi7djhlibibuu"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "ROI达标阈值（ROI×0.7）"
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {
+                "uuid": "mrvlgzi73a45w1ec83e"
+              },
+              [
+                "tc",
+                {
+                  "rowSpan": 1,
+                  "colSpan": 1,
+                  "uuid": "mrvlgzi75b0221vuu4k",
+                  "vAlign": "middle"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mrvlgzi8t2y35d1sa58"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "10%"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "rowSpan": 1,
+                  "colSpan": 1,
+                  "uuid": "mrvlgzi8gt5w3veg2su",
+                  "vAlign": "middle"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mrvlgzi86tcujvuadc"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "10.00"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "rowSpan": 1,
+                  "colSpan": 1,
+                  "uuid": "mrvlgzi911ijhjhhel8",
+                  "vAlign": "middle"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mrvlgziaha32dp4bm6"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "14.29%"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "rowSpan": 1,
+                  "colSpan": 1,
+                  "uuid": "mrvlgzibd4d0afarcf",
+                  "vAlign": "middle"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mrvlgzicu1kmjza6768"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "7.00"
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {
+                "uuid": "mrvlgzic19xb151yl2k"
+              },
+              [
+                "tc",
+                {
+                  "rowSpan": 1,
+                  "colSpan": 1,
+                  "uuid": "mrvlgzic5ahjfnzke4q",
+                  "vAlign": "middle"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mrvlgzid1ow5u2cwmd1"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "15%"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "rowSpan": 1,
+                  "colSpan": 1,
+                  "uuid": "mrvlgzid8wl816g6vz2",
+                  "vAlign": "middle"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mrvlgzieit3g2mkfxdk"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "6.67"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "rowSpan": 1,
+                  "colSpan": 1,
+                  "uuid": "mrvlgziebg0q8ugqg3u",
+                  "vAlign": "middle"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mrvlgzieybxlmhjw419"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "21.43%"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "rowSpan": 1,
+                  "colSpan": 1,
+                  "uuid": "mrvlgzif3sw21mrpy05",
+                  "vAlign": "middle"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mrvlgzif1ixagq8yjsq"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "4.67"
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {
+                "uuid": "mrvlgzigvlplta9lyy7"
+              },
+              [
+                "tc",
+                {
+                  "rowSpan": 1,
+                  "colSpan": 1,
+                  "uuid": "mrvlgzigmq6sfftppxj",
+                  "vAlign": "middle"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mrvlgzig3sqwcvjxhcr"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "20%"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "rowSpan": 1,
+                  "colSpan": 1,
+                  "uuid": "mrvlgzigceyjb68wxsb",
+                  "vAlign": "middle"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mrvlgzih55pkjern36"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "5.00"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "rowSpan": 1,
+                  "colSpan": 1,
+                  "uuid": "mrvlgzih4j9tqe2n6x7",
+                  "vAlign": "middle"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mrvlgzih6xmfitvj4hj"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "28.57%"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "rowSpan": 1,
+                  "colSpan": 1,
+                  "uuid": "mrvlgziifkxx1m70ug5",
+                  "vAlign": "middle"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mrvlgziijibmt728bwl"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "3.50"
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {
+                "uuid": "mrvlgziirqzfi80i68r"
+              },
+              [
+                "tc",
+                {
+                  "rowSpan": 1,
+                  "colSpan": 1,
+                  "uuid": "mrvlgzijqiq4c88nwo",
+                  "vAlign": "middle"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mrvlgzijuuwrdj23yej"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "25%"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "rowSpan": 1,
+                  "colSpan": 1,
+                  "uuid": "mrvlgzij1n3egq95vky",
+                  "vAlign": "middle"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mrvlgzik8aqov2jg4t5"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "4.00"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "rowSpan": 1,
+                  "colSpan": 1,
+                  "uuid": "mrvlgzik3j46fwj7prl",
+                  "vAlign": "middle"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mrvlgziku7aqxcppk0c"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "35.71%"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "rowSpan": 1,
+                  "colSpan": 1,
+                  "uuid": "mrvlgzikijweciu6eg9",
+                  "vAlign": "middle"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mrvlgzil2zueou52d1v"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "2.80"
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {
+                "uuid": "mrvlgzilt1kcefud1gk"
+              },
+              [
+                "tc",
+                {
+                  "rowSpan": 1,
+                  "colSpan": 1,
+                  "uuid": "mrvlgzimsixziylmh2",
+                  "vAlign": "middle"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mrvlgzimvlil49tj2c"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "30%"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "rowSpan": 1,
+                  "colSpan": 1,
+                  "uuid": "mrvlgzim5aw1fwhmalx",
+                  "vAlign": "middle"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mrvlgzini0sa02udbc8"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "3.33"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "rowSpan": 1,
+                  "colSpan": 1,
+                  "uuid": "mrvlgzin1gh3n3i6t7q",
+                  "vAlign": "middle"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mrvlgzin49b50g8104b"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "42.86%"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "rowSpan": 1,
+                  "colSpan": 1,
+                  "uuid": "mrvlgziql6nh3bmapa",
+                  "vAlign": "middle"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mrvlgziqcupf468mt9b"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "2.33"
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {
+                "uuid": "mrvlgzir5ky4pq82gil"
+              },
+              [
+                "tc",
+                {
+                  "rowSpan": 1,
+                  "colSpan": 1,
+                  "uuid": "mrvlgzir8hwdsj7myhq",
+                  "vAlign": "middle"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mrvlgzire1cidhhi6l9"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "40%"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "rowSpan": 1,
+                  "colSpan": 1,
+                  "uuid": "mrvlgziszq4nhxcq25s",
+                  "vAlign": "middle"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mrvlgzisp7gti936wm"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "2.50"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "rowSpan": 1,
+                  "colSpan": 1,
+                  "uuid": "mrvlgzisknvfwyool1",
+                  "vAlign": "middle"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mrvlgzis623elpzjdrw"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "57.14%"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "rowSpan": 1,
+                  "colSpan": 1,
+                  "uuid": "mrvlgzitp1zxvw1ijwb",
+                  "vAlign": "middle"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mrvlgzit0hmvhyblq5bm"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "1.75"
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {
+                "uuid": "mrvlgzitiqyz2d2usa"
+              },
+              [
+                "tc",
+                {
+                  "rowSpan": 1,
+                  "colSpan": 1,
+                  "uuid": "mrvlgziuz8wt3mym6m",
+                  "vAlign": "middle"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mrvlgziu5y9e9arkqrr"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "50%"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "rowSpan": 1,
+                  "colSpan": 1,
+                  "uuid": "mrvlgziujlzmu4ls6xe",
+                  "vAlign": "middle"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mrvlgziu77xkny9lk9i"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "2.00"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "rowSpan": 1,
+                  "colSpan": 1,
+                  "uuid": "mrvlgziv57k5on1m26f",
+                  "vAlign": "middle"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mrvlgzivkm4yworwvhe"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "71.43%"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "rowSpan": 1,
+                  "colSpan": 1,
+                  "uuid": "mrvlgziwffk2g03w8s",
+                  "vAlign": "middle"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mrvlgziw79p236jkwg5"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "1.40"
+                    ]
+                  ]
+                ]
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "blockquote": true,
+              "uuid": "mrvlgziww8ewk12msy"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "说明：当实际费比超过\"费比超标阈值\"或实际ROI低于\"ROI达标阈值\"时，即触发成本保障赔付。"
+              ]
+            ]
+          ],
+          [
+            "hr",
+            {
+              "uuid": "mrvlgziwzh0tozilbao"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "h2",
+            {
+              "uuid": "mrvlgzix0mqpv5sd49ec"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "四、常见问题"
+              ]
+            ]
+          ],
+          [
+            "container",
+            {
+              "subType": "colorBlocks",
+              "metadata": {
+                "padding": {
+                  "top": 11,
+                  "right": 11,
+                  "bottom": 11,
+                  "left": 11
+                },
+                "borderRadius": 8,
+                "bgcolor": "#FFFFFF",
+                "showstk": false,
+                "border": "#979A9B"
+              },
+              "uuid": "mrwwewh23ef7rh27xrr"
+            },
+            [
+              "p",
+              {
+                "uuid": "mrwwf3a9lbdkqeh4e6a"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "bold": true,
+                    "data-type": "leaf"
+                  },
+                  "Q：控费比模式和控投产比（ROI）模式的赔付规则有什么区别？"
+                ]
+              ]
+            ],
+            [
+              "p",
+              {
+                "uuid": "mrvlgzixesftg2ebtxb"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  "A：两者赔付规则完全一致，仅表达维度不同。费比和ROI互为倒数关系，费比模式下的\"费比超标\"等价于ROI模式下的\"ROI不达标\"。具体换算关系为："
+                ]
+              ]
+            ],
+            [
+              "p",
+              {
+                "list": {
+                  "listId": "md8frzdu1k",
+                  "isOrdered": false,
+                  "level": 0,
+                  "listStyle": {
+                    "format": "bullet",
+                    "text": "●",
+                    "align": "left"
+                  }
+                },
+                "uuid": "mrvlgziy49bgnzxuep3"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  "费比超标判断：实际费比 > 目标费比 / 0.7"
+                ]
+              ]
+            ],
+            [
+              "p",
+              {
+                "list": {
+                  "listId": "md8frzdu1k",
+                  "isOrdered": false,
+                  "level": 0,
+                  "listStyle": {
+                    "format": "bullet",
+                    "text": "●",
+                    "align": "left"
+                  }
+                },
+                "uuid": "mrvlgziyrik89usxygj"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  "ROI不达标判断：实际ROI < 目标ROI × 0.7"
+                ]
+              ]
+            ],
+            [
+              "p",
+              {
+                "list": {
+                  "listId": "md8frzdu1k",
+                  "isOrdered": false,
+                  "level": 0,
+                  "listStyle": {
+                    "format": "bullet",
+                    "text": "●",
+                    "align": "left"
+                  }
+                },
+                "uuid": "mrvlgziyatm2me10oa"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  "赔付金额公式等价：实际消耗 - [实际成交金额 × 目标费比 / 0.7] = 实际消耗 - [实际成交金额 / (目标ROI × 0.7)]"
+                ]
+              ]
+            ],
+            [
+              "p",
+              {
+                "uuid": "mrvlgziz6023qha5qzs"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "bold": true,
+                    "data-type": "leaf"
+                  },
+                  "Q：如何获取控费比模式成本保障「保障」标识？"
+                ]
+              ]
+            ],
+            [
+              "p",
+              {
+                "uuid": "mrvlgzj0uujsfnsoum"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  "A：需满足以下门槛："
+                ]
+              ]
+            ],
+            [
+              "p",
+              {
+                "list": {
+                  "listId": "ajb68rym0fk",
+                  "isOrdered": true,
+                  "level": 0,
+                  "listStyle": {
+                    "format": "decimal",
+                    "text": "%1.",
+                    "align": "left"
+                  }
+                },
+                "uuid": "mrvlgzj0g7opw5xo7eq"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "bold": true,
+                    "data-type": "leaf"
+                  },
+                  "计划在投门槛："
+                ],
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  " 计划需在投「货品全站推广-控费比模式」，且计划新建天数 < 30天。"
+                ]
+              ]
+            ],
+            [
+              "p",
+              {
+                "list": {
+                  "listId": "ajb68rym0fk",
+                  "isOrdered": true,
+                  "level": 0,
+                  "listStyle": {
+                    "format": "decimal",
+                    "text": "%1.",
+                    "align": "left"
+                  }
+                },
+                "uuid": "mrvlgzj0wx7rijflmn"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "bold": true,
+                    "data-type": "leaf"
+                  },
+                  "计划操作门槛："
+                ]
+              ]
+            ],
+            [
+              "p",
+              {
+                "list": {
+                  "listId": "ajb68rym0fk",
+                  "isOrdered": false,
+                  "level": 1,
+                  "listStyle": {
+                    "format": "bullet",
+                    "text": "○",
+                    "align": "left"
+                  }
+                },
+                "uuid": "mrvlgzj0ctypm8ptews"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  "出价门槛：推广商品的费比设置值 >= 系统推荐费比。"
+                ]
+              ]
+            ],
+            [
+              "p",
+              {
+                "list": {
+                  "listId": "ajb68rym0fk",
+                  "isOrdered": false,
+                  "level": 1,
+                  "listStyle": {
+                    "format": "bullet",
+                    "text": "○",
+                    "align": "left"
+                  }
+                },
+                "uuid": "mrvlgzj0jaynag0bxth"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  "投放状态门槛：当天计划不在【数据积累期】、【效果调整期】，计划必须处在【稳定投放期】。"
+                ]
+              ]
+            ],
+            [
+              "p",
+              {
+                "list": {
+                  "listId": "ajb68rym0fk",
+                  "isOrdered": false,
+                  "level": 1,
+                  "listStyle": {
+                    "format": "bullet",
+                    "text": "○",
+                    "align": "left"
+                  }
+                },
+                "uuid": "mrvlgzj13p2vhe2v316"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  "投放操作门槛：投放当天计划无暂停、无删除、未开启最大化拿量。"
+                ]
+              ]
+            ],
+            [
+              "p",
+              {
+                "list": {
+                  "listId": "ajb68rym0fk",
+                  "isOrdered": true,
+                  "level": 0,
+                  "listStyle": {
+                    "format": "decimal",
+                    "text": "%1.",
+                    "align": "left"
+                  }
+                },
+                "uuid": "mrvlgzj1sglvyv4s7x"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "bold": true,
+                    "data-type": "leaf"
+                  },
+                  "保障成效门槛："
+                ]
+              ]
+            ],
+            [
+              "p",
+              {
+                "list": {
+                  "listId": "ajb68rym0fk",
+                  "isOrdered": false,
+                  "level": 1,
+                  "listStyle": {
+                    "format": "bullet",
+                    "text": "○",
+                    "align": "left"
+                  }
+                },
+                "uuid": "mrvlgzj174us89buwpw"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  "置信状态：计划累计消耗需高于单笔成交成本（消耗 > GMV / 成交笔数 / (1/设置费比)）。"
+                ]
+              ]
+            ],
+            [
+              "p",
+              {
+                "list": {
+                  "listId": "ajb68rym0fk",
+                  "isOrdered": false,
+                  "level": 1,
+                  "listStyle": {
+                    "format": "bullet",
+                    "text": "○",
+                    "align": "left"
+                  }
+                },
+                "uuid": "mrvlgzj1ecfasp5j3e"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  "超成本比例：实际投放费比 > 费比设置值 / 0.7，费比归因周期15天。"
+                ]
+              ]
+            ],
+            [
+              "p",
+              {
+                "uuid": "mrvlgzj2svic782vln"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  "注意：如果您的货品全站推广计划属于API调用修改、调用插件修改计划，则不在成本保障范围内，该计划不展示「保障」标识。"
+                ]
+              ]
+            ],
+            [
+              "p",
+              {
+                "uuid": "mrvlgzj2lb1t2ealcud"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "bold": true,
+                    "data-type": "leaf"
+                  },
+                  "Q：「保障」标识状态如何区分？"
+                ]
+              ]
+            ],
+            [
+              "p",
+              {
+                "uuid": "mrvlgzj2dtelikmw7ni"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  "A：点击计划列表中的\"保障\"标识 -> \"投产保障明细\"可查看每日的投产保障状态、赔付阶段说明。"
+                ]
+              ]
+            ],
+            [
+              "p",
+              {
+                "uuid": "mrvlgzj226zk95olmua"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "bold": true,
+                    "data-type": "leaf"
+                  },
+                  "Q：控费比模式的赔付金额如何测算？"
+                ]
+              ]
+            ],
+            [
+              "p",
+              {
+                "uuid": "mrvlgzj2zke9i6eorre"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  "A：成本保障金额测算逻辑："
+                ]
+              ]
+            ],
+            [
+              "p",
+              {
+                "uuid": "mrvlgzj2z511qjgmet"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  "赔付金额 = 实际消耗 - [实际15天归因成交金额 × 目标费比 / 0.7]"
+                ]
+              ]
+            ],
+            [
+              "p",
+              {
+                "uuid": "mrvlgzj36xw7iop4t"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  "计划当日多次调价的，系统按当日设置的最高费比 / 0.7 为保障目标。"
+                ]
+              ]
+            ],
+            [
+              "p",
+              {
+                "uuid": "mrvlgzj3c8rwoo6row8"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  "示例：系统推荐费比为50%，客户采纳推荐费比，实际投放费比为100%，成交金额为100元，实际消耗100元，赔付金额 = 100 - 100 × 50% / 0.7 = 28.57元。"
+                ]
+              ]
+            ],
+            [
+              "p",
+              {
+                "uuid": "mrvlgzj3weapaoola9q"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "bold": true,
+                    "data-type": "leaf"
+                  },
+                  "Q：推荐费比每天变化，按昨日值设置会影响保障吗？需每日调整吗？"
+                ]
+              ]
+            ],
+            [
+              "p",
+              {
+                "uuid": "mrvlgzj311u38xbq5sun"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  "A：需要满足推广商品的费比设置值 >= 系统推荐费比（如：昨日设置费比 >= 系统推荐费比，但今日系统推荐费比 < 昨日设置费比，需及时调整设置费比 >= 今日系统推荐费比）。计划当日多次调价的，系统按当日设置的最高费比 / 0.7 为保障目标。"
+                ]
+              ]
+            ],
+            [
+              "p",
+              {
+                "uuid": "mrvlgzj3ax6f96hiyk"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "bold": true,
+                    "data-type": "leaf"
+                  },
+                  "Q：成本保障的赔付何时到账？以什么形式到账，在哪里可以查看？"
+                ]
+              ]
+            ],
+            [
+              "p",
+              {
+                "uuid": "mrvlgzj42hic3yc0c33"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  "A：点击计划列表中的\"保障\"标识 -> \"投产保障明细\" -> 赔付阶段说明可查看具体赔付金额及发放情况。"
+                ]
+              ]
+            ],
+            [
+              "p",
+              {
+                "list": {
+                  "listId": "ya6th9gqje9",
+                  "isOrdered": false,
+                  "level": 0,
+                  "listStyle": {
+                    "format": "bullet",
+                    "text": "●",
+                    "align": "left"
+                  }
+                },
+                "uuid": "mrvlgzj4ldf01cqivy"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  "赔付金额以无门槛代金券形式到账，券面额 = 该商家货品全站推广场景下成本保障总金额，该代金券无门槛优先抵扣，生效时间30天，仅可在货品全站推广场景使用。"
+                ]
+              ]
+            ],
+            [
+              "p",
+              {
+                "list": {
+                  "listId": "ya6th9gqje9",
+                  "isOrdered": false,
+                  "level": 0,
+                  "listStyle": {
+                    "format": "bullet",
+                    "text": "●",
+                    "align": "left"
+                  }
+                },
+                "uuid": "mrvlgzj417avenynajj"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  "代金券查看方式：万相台AI无界 - 账户 - 我的优惠券（如生效中未显示，可去已失效点击查看），优惠券名称\"货品全站推「成本保障」\"。"
+                ]
+              ]
+            ],
+            [
+              "p",
+              {
+                "uuid": "mrvlgzj4ve0tu4o46j"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "bold": true,
+                    "data-type": "leaf"
+                  },
+                  "Q：计划处于\"数据积累期\"和\"效果调整期\"，计划有可能享受成本保障吗？"
+                ]
+              ]
+            ],
+            [
+              "p",
+              {
+                "uuid": "mrvlgzj7166etsxzey5"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  "A：不可能。计划需处于\"稳定投放期\"，才是成本保障\"保障\"的生效条件之一。计划达成\"稳定投放期\"的条件可点击计划列表中的\"稳定投放期\"具体要求为准；三阶段具体的生效条件可查阅文档"
+                ]
+              ],
+              [
+                "a",
+                {
+                  "href": "https://alidocs.dingtalk.com/i/nodes/mExel2BLV59rgdDPi5zm3LdEVgk9rpMq?doc_type=wiki_doc",
+                  "uuid": "mrwwf3acrpk6hl9lvx"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "text"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "leaf"
+                    },
+                    "投放期阶段功能解读"
+                  ]
+                ]
+              ],
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  "。"
+                ]
+              ]
+            ],
+            [
+              "p",
+              {
+                "uuid": "mrvlgzj7fp215mz3kvr"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "bold": true,
+                    "data-type": "leaf"
+                  },
+                  "Q：新计划、老计划都可享受成本保障赔付吗？"
+                ]
+              ]
+            ],
+            [
+              "p",
+              {
+                "uuid": "mrvlgzj7n8jmv67eb4r"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  "A：在新建计划环节显示「成本保障」或在投中环节显示「保障」标签，若满足所有成本保障条件，系统将自动为该计划进行成本保障赔付。从计划新建后保障15天，计划在此期间仅能享受一次成本保障。"
+                ]
+              ]
+            ],
+            [
+              "p",
+              {
+                "uuid": "mrvlgzj8h016rjtdcxg"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  "老计划需新建天数 < 30天，且计划下显示\"保障\"标识，可通过\"保障\"-\"投产保障明细\"中查看每日成本保障情况。"
+                ]
+              ]
+            ]
+          ],
+          [
+            "hr",
+            {
+              "uuid": "mrvlgzj87us9jd3bnu"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "h2",
+            {
+              "uuid": "mrvlgzj8tpekwgfd0us"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "五、问题反馈通路"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mrvlgzj8n8dsezglsid"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "如您遇到产品使用问题，或有任何产品优化建议，请反馈至阿里妈妈客服或者货品全站推广「成本保障」钉钉群中，耐心等待工作人员处理。"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mrwy7s0vodyh6ul4ets",
+              "jc": "center"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ],
+            [
+              "img",
+              {
+                "uuid": "wzvkbb",
+                "name": "image.png",
+                "size": 423505,
+                "width": 337,
+                "height": 296,
+                "src": "/core/api/resources/img/5eecdaf48460cde593e06dd716e0f07c86b8c15a2df1c61275b8339e1c4c24831b75b38faadcd24bec177c308ebd5304fcd372d8ec1ecb917cd96fbd04b4877b5d25926e920f8ca4b81204b924649edc019a5e31f567bcaa4fb4c8ed7016461c",
+                "extraData": {
+                  "resourceId": "5dd62a2a-56ee-49f1-942a-749945591f1d",
+                  "metaData": {
+                    "size": 423505,
+                    "originWidth": 714,
+                    "originHeight": 628,
+                    "format": "png",
+                    "ratio": 1
+                  }
+                },
+                "rotation": 0
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "hr",
+            {
+              "uuid": "mrvlgzj8wtybmas85i9"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "h2",
+            {
+              "uuid": "mrvlgzj94u8ernolp4a"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "特别说明"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "list": {
+                "listId": "792rm9ccuak",
+                "isOrdered": true,
+                "level": 0,
+                "listStyle": {
+                  "format": "decimal",
+                  "text": "%1.",
+                  "align": "left"
+                }
+              },
+              "uuid": "mrvlgzj9z0q4oejm6pp"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "活动统计的消耗金额、优惠券金额等数据以阿里妈妈统计为准；账户消耗仅指用户按照本次活动规则创建的计划在活动期间的真实账户消耗。"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "list": {
+                "listId": "792rm9ccuak",
+                "isOrdered": true,
+                "level": 0,
+                "listStyle": {
+                  "format": "decimal",
+                  "text": "%1.",
+                  "align": "left"
+                }
+              },
+              "uuid": "mrvlgzj97cgd5bj997o"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "活动期间，用户需遵守万相台AI无界、全站推广的服务相关协议及规则（包括《阿里妈妈无界软件服务协议》、《全站信息技术服务协议》等），不得作弊，不得侵犯任意第三方之合法权益，推广店铺不得违规，否则阿里妈妈有权取消用户的活动资格和收回活动奖励。"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "list": {
+                "listId": "792rm9ccuak",
+                "isOrdered": true,
+                "level": 0,
+                "listStyle": {
+                  "format": "decimal",
+                  "text": "%1.",
+                  "align": "left"
+                }
+              },
+              "uuid": "mrvlgzj91w2b8p5e5hh"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "用户应遵守淘宝网、天猫平台和/或阿里妈妈平台相关规则协议，如因用户违规行为，包括商品或者店铺被处以下架、屏蔽、删除、扣分、限制交易、监管账号或者查封店铺等措施，导致阿里妈妈营销优惠券无法使用的，淘宝、天猫及阿里妈妈将不进行任何退款、提现或补偿，并有权收回已发放的权益。"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "list": {
+                "listId": "792rm9ccuak",
+                "isOrdered": true,
+                "level": 0,
+                "listStyle": {
+                  "format": "decimal",
+                  "text": "%1.",
+                  "align": "left"
+                }
+              },
+              "uuid": "mrvlgzjar61e0r3xiy"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "本活动所涉权益均为非售卖权益。参与活动的用户店铺状态为正常的淘宝、天猫卖家，符合《阿里妈妈账号管理规范》，阿里妈妈平台将结合用户多维度经营情况（如诚信经营情况、店铺品质、商品竞争力等）及各营销活动参与情况等进行综合评估。"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "list": {
+                "listId": "792rm9ccuak",
+                "isOrdered": true,
+                "level": 0,
+                "listStyle": {
+                  "format": "decimal",
+                  "text": "%1.",
+                  "align": "left"
+                }
+              },
+              "uuid": "mrvlgzjallb5vspesjh"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "在本次激励活动中，如用户存在违规行为（包括但不限于恶意套现、机器作弊、刷信誉、提供虚假信息等），或者用户主体关联的其他账号曾存在严重违规行为被处罚或被处以特定管理措施，活动举办方将取消违规用户的激励资格，并有权收回权益（含已使用的及未使用的），按照《淘宝网市场管理与违规处理》或《天猫市场管理规范》进行处罚，必要时将追究用户的法律责任。"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "list": {
+                "listId": "792rm9ccuak",
+                "isOrdered": true,
+                "level": 0,
+                "listStyle": {
+                  "format": "decimal",
+                  "text": "%1.",
+                  "align": "left"
+                }
+              },
+              "uuid": "mrvlgzjc8eb6685lela"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "因自然灾害、网络攻击或系统故障等不可抗力等因素使活动停止或出现问题，阿里妈妈免责。在法律允许的范围内，阿里妈妈可暂停或终止本活动，或者对本活动规则进行变动或调整，相关变动或调整将公布在本页面上。"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "list": {
+                "listId": "792rm9ccuak",
+                "isOrdered": true,
+                "level": 0,
+                "listStyle": {
+                  "format": "decimal",
+                  "text": "%1.",
+                  "align": "left"
+                }
+              },
+              "uuid": "mrvlgzje2ozmidz81be"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "当奖励类型为优惠券时：优惠券仅限在万相台AI无界推广使用，且特定产品线的优惠券仅限该产品线使用。优惠券均有有效期，在有效期开始时间当天才可进行消耗的抵扣，超过有效期结束时间后则优惠券失效，券过期后未使用余额自动回收，无法再次进行使用，亦无法申请折现等，该券不支持开发票，不可转赠，不再补发。"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "list": {
+                "listId": "792rm9ccuak",
+                "isOrdered": true,
+                "level": 0,
+                "listStyle": {
+                  "format": "decimal",
+                  "text": "%1.",
+                  "align": "left"
+                }
+              },
+              "uuid": "mrvlgzje6rytmsnx5po"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "活动举办方可以根据本活动的实际举办情况对活动规则进行变动或调整，相关变动或调整将公布在活动页面上。"
+              ]
+            ]
+          ]
+        ],
+        "footers": {},
+        "version": 1
+      },
+      "refs": {}
+    }
+  }
+}

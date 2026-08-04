@@ -1,0 +1,2324 @@
+{
+  "version": 1,
+  "type": "application/x-alidocs-package",
+  "main": "00000000-0000-0000-0000-000000000001",
+  "plugins": "00000000-0000-0000-0000-000000000002",
+  "parts": {
+    "00000000-0000-0000-0000-000000000001": {
+      "id": "00000000-0000-0000-0000-000000000001",
+      "type": "application/x-alidocs-word",
+      "version": 1,
+      "data": {
+        "style": {
+          "docDefaults": {
+            "type": "paragraph",
+            "default": 1,
+            "name": "dingdocnormal",
+            "data": {
+              "rPr": {
+                "sz": 12,
+                "szUnit": "pt"
+              },
+              "pPr": {
+                "spacing": {
+                  "before": 8,
+                  "after": 8
+                }
+              }
+            }
+          }
+        },
+        "theme": [],
+        "settings": {
+          "titleCover": {
+            "isHide": true
+          }
+        },
+        "app": {},
+        "numberings": {},
+        "headers": {},
+        "body": [
+          "root",
+          {
+            "sectPr": {
+              "pgSz": {
+                "w": 892,
+                "h": 1127
+              },
+              "pgMar": {
+                "top": 48,
+                "bottom": 48,
+                "left": 72,
+                "right": 72,
+                "header": 56.73,
+                "footer": 66.13,
+                "gutter": 0
+              }
+            },
+            "theme": {
+              "table": {
+                "tableCell": {
+                  "vAlign": "top"
+                }
+              }
+            }
+          },
+          [
+            "h2",
+            {
+              "uuid": "m70eewozyrj7azeakig",
+              "ind": {
+                "left": 0
+              },
+              "spacing": {
+                "before": 21.333333333333332,
+                "after": 9,
+                "line": 0.8529411764705882
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 16,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "功能概述"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "maeyppwp85a1wlxi09w",
+              "ind": {
+                "left": 0
+              },
+              "blockquote": true
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "data-type": "leaf"
+                },
+                "历史功能：套餐包计划效果好想继续投放，场景已支持"
+              ]
+            ],
+            [
+              "a",
+              {
+                "href": "https://alidocs.dingtalk.com/i/nodes/MNDoBb60VLYDGNPytNRBLlxwJlemrZQ3",
+                "metadata": {
+                  "extData": {
+                    "referenceId": "98bc6922-e796-4a3e-bbfc-97316a45292b",
+                    "dentryUuid": "MNDoBb60VLYDGNPytNRBLlxwJlemrZQ3"
+                  }
+                },
+                "uuid": "maf4pzkbhp3kh5odaf"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "bold": true,
+                    "underline": {
+                      "value": "single"
+                    },
+                    "data-type": "leaf"
+                  },
+                  "手动续投"
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "italic": true,
+                  "sz": 10,
+                  "szUnit": "pt",
+                  "color": "#A5A5A5",
+                  "data-type": "leaf"
+                },
+                "（点击查看手动续投操作手册）"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "ind": {
+                "left": 0
+              },
+              "uuid": "maf4tnfl6urgw0ihrrx"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 14,
+                  "szUnit": "pt",
+                  "color": "#ED7D33",
+                  "data-type": "leaf"
+                },
+                "您是否因为忘记设置而"
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 14,
+                  "szUnit": "pt",
+                  "color": "#ED7D33",
+                  "underline": {
+                    "value": "single"
+                  },
+                  "data-type": "leaf"
+                },
+                "错过手动续投时间段"
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 14,
+                  "szUnit": "pt",
+                  "color": "#ED7D33",
+                  "data-type": "leaf"
+                },
+                "？或者手动续投和上一段计划结束中间有"
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 14,
+                  "szUnit": "pt",
+                  "color": "#ED7D33",
+                  "underline": {
+                    "value": "single"
+                  },
+                  "data-type": "leaf"
+                },
+                "空白期错失流量"
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 14,
+                  "szUnit": "pt",
+                  "color": "#ED7D33",
+                  "data-type": "leaf"
+                },
+                "？每一次计划结束要"
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 14,
+                  "szUnit": "pt",
+                  "color": "#ED7D33",
+                  "underline": {
+                    "value": "single"
+                  },
+                  "data-type": "leaf"
+                },
+                "手动操作续投太繁琐"
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 14,
+                  "szUnit": "pt",
+                  "color": "#ED7D33",
+                  "data-type": "leaf"
+                },
+                "？"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "maeykau4jppw5d2wvh",
+              "ind": {
+                "left": 0
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 14,
+                  "szUnit": "pt",
+                  "color": "linear-gradient(90deg, #2449FE 0%, #CA4BA7 100%)",
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ],
+            [
+              "span",
+              {
+                "uuid": "maf4ssjz1xwdqj4256m",
+                "code": "",
+                "newCode": {
+                  "type": "unicode",
+                  "value": "🌟"
+                },
+                "data-type": "emoji"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "bold": true,
+                    "highlight": null,
+                    "sz": 14,
+                    "szUnit": "pt",
+                    "color": "linear-gradient(90deg, #2449FE 0%, #CA4BA7 100%)",
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 14,
+                  "szUnit": "pt",
+                  "color": "linear-gradient(90deg, #2449FE 0%, #CA4BA7 100%)",
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ],
+            [
+              "span",
+              {
+                "uuid": "maf4t8plnskxo3skudi",
+                "code": "",
+                "newCode": {
+                  "type": "unicode",
+                  "value": "🌟"
+                },
+                "data-type": "emoji"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "bold": true,
+                    "highlight": null,
+                    "sz": 14,
+                    "szUnit": "pt",
+                    "color": "linear-gradient(90deg, #2449FE 0%, #CA4BA7 100%)",
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 14,
+                  "szUnit": "pt",
+                  "color": "linear-gradient(90deg, #2449FE 0%, #CA4BA7 100%)",
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ],
+            [
+              "span",
+              {
+                "uuid": "maf4t93p4dmp16o2m0y",
+                "code": "",
+                "newCode": {
+                  "type": "unicode",
+                  "value": "🌟"
+                },
+                "data-type": "emoji"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "bold": true,
+                    "highlight": null,
+                    "sz": 14,
+                    "szUnit": "pt",
+                    "color": "linear-gradient(90deg, #2449FE 0%, #CA4BA7 100%)",
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "highlight": null,
+                  "sz": 14,
+                  "szUnit": "pt",
+                  "color": "linear-gradient(90deg, #2449FE 0%, #CA4BA7 100%)",
+                  "data-type": "leaf"
+                },
+                " "
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 14,
+                  "szUnit": "pt",
+                  "color": "linear-gradient(90deg, #2449FE 0%, #CA4BA7 100%)",
+                  "data-type": "leaf"
+                },
+                "本次套餐包"
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 20,
+                  "szUnit": "pt",
+                  "color": "linear-gradient(90deg, #FF7100 0%, #F300AD 100%)",
+                  "data-type": "leaf"
+                },
+                "「自动续投」"
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 14,
+                  "szUnit": "pt",
+                  "color": "linear-gradient(90deg, #2449FE 0%, #CA4BA7 100%)",
+                  "data-type": "leaf"
+                },
+                "功能升级，支持您在新建计划时和投放中设置自动续投，计划达标自动进入下一轮，继承上一轮投放效果，无需冷启，无缝衔接！"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mkalk1fps0eiubas2ac",
+              "ind": {
+                "left": 0
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 14,
+                  "szUnit": "pt",
+                  "color": "linear-gradient(90deg, #2449FE 0%, #CA4BA7 100%)",
+                  "data-type": "leaf"
+                },
+                "提示：目前支持续投10期，超过10期需重建计划。"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "maf8eicif5akj0llrti",
+              "ind": {
+                "left": 0
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 14,
+                  "szUnit": "pt",
+                  "color": "linear-gradient(90deg, #2449FE 0%, #CA4BA7 100%)",
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "maf52o86cr946t3nhy5",
+              "ind": {
+                "left": 0
+              },
+              "jc": "center"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 14,
+                  "szUnit": "pt",
+                  "color": "",
+                  "data-type": "leaf"
+                },
+                "使用中有任何问题或反馈：欢迎进群"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "maf8f6cikrwy9kmz4bg",
+              "ind": {
+                "left": 0
+              },
+              "jc": "center"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "highlight": "linear-gradient(316deg, #F0EBF7 -13%, #FFFEFE 52%, #D5C8EE 125%)",
+                  "sz": 14,
+                  "szUnit": "pt",
+                  "color": "linear-gradient(90deg, #2449FE 0%, #CA4BA7 100%)",
+                  "data-type": "leaf"
+                },
+                "【流量金卡升级内测群】钉钉群号：77610020525 "
+              ]
+            ]
+          ],
+          [
+            "hr",
+            {
+              "width": "100%",
+              "id": "7gk0od",
+              "uuid": "maf8e7tlobie5uzsder"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "maf8e7tq3gejyhagtsa"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "h2",
+            {
+              "uuid": "maeypj7hiey5o1uoch",
+              "ind": {
+                "left": 0
+              },
+              "spacing": {
+                "before": 21.333333333333332,
+                "after": 9,
+                "line": 0.8529411764705882
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 16,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "自动续投操作指南"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "maf4wr1if1d4q9nhyle"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "注意：自动续投功能应用于支持续投的套餐包类型（BEST词卡、行业好货打爆卡、行业蓄水加购卡、新品极速起量卡...）。有一些限时推出的套餐包（例如大促卡）仅限活动期间投放，暂不支持续投。"
+              ]
+            ]
+          ],
+          [
+            "container",
+            {
+              "subType": "colorBlocks",
+              "metadata": {
+                "padding": {
+                  "top": 11,
+                  "right": 11,
+                  "bottom": 11,
+                  "left": 11
+                },
+                "borderRadius": 8,
+                "sticker": {
+                  "type": "dingding",
+                  "id": "alidocs_emotion_002",
+                  "name": "[优先级: 2]",
+                  "url": "https://g.alicdn.com/alidocs/emotion-assets/0.0.2/alidocs_emotion_002.png"
+                },
+                "bgcolor": "#FEF6E9",
+                "showstk": false,
+                "border": null
+              },
+              "uuid": "maf0w1gfu4fqhh4azih"
+            },
+            [
+              "p",
+              {
+                "uuid": "maf4wr1jyaosvgtm87a",
+                "ind": {
+                  "left": 0
+                }
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "bold": true,
+                    "sz": 16,
+                    "szUnit": "pt",
+                    "data-type": "leaf"
+                  },
+                  "新建计划："
+                ]
+              ]
+            ],
+            [
+              "p",
+              {
+                "uuid": "maf4wr1jx1esvx6fpl",
+                "ind": {
+                  "left": 0
+                },
+                "list": {
+                  "listId": "j4vb3fgujih",
+                  "level": 0,
+                  "isTaskList": false,
+                  "isOrdered": false,
+                  "listStyleType": "SCIR_ECIR_SREC",
+                  "symbolStyle": {
+                    "bold": true
+                  },
+                  "listStyle": {
+                    "format": "bullet",
+                    "text": "●",
+                    "align": "left"
+                  }
+                }
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "bold": true,
+                    "data-type": "leaf"
+                  },
+                  "默认勾选自动续投"
+                ]
+              ],
+              [
+                "img",
+                {
+                  "uuid": "maf0waafcsevppf9bn",
+                  "name": "image.png",
+                  "size": 238045,
+                  "width": 748,
+                  "height": 206,
+                  "src": "/core/api/resources/img/5eecdaf48460cde5b65d5d1c2d260c41d58e0dcc573348d275b8339e1c4c24831b75b38faadcd24bec177c308ebd53045ed23790aaaa5a5c456e2f9a4ec75a0c3c2bc801434a3b5a93c3897feed7d2668ccfb9a3bfb3eeeb4fb4c8ed7016461c",
+                  "extraData": {
+                    "resourceId": "870e4534-3ad0-4e3e-8b98-100707a745b5",
+                    "metaData": {
+                      "size": 238045,
+                      "originWidth": 1204,
+                      "originHeight": 430,
+                      "format": "png",
+                      "ratio": 1
+                    }
+                  },
+                  "rectClip": {
+                    "left": 0,
+                    "right": 0,
+                    "top": 0,
+                    "bottom": 61
+                  },
+                  "rotation": 0
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "text"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "leaf"
+                    },
+                    ""
+                  ]
+                ]
+              ],
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "bold": true,
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ]
+            ],
+            [
+              "p",
+              {
+                "uuid": "maf0wusyvy83agg49p9",
+                "ind": {
+                  "left": 0
+                },
+                "list": {
+                  "listId": "cm0yhakcwef",
+                  "level": 0,
+                  "isTaskList": false,
+                  "isOrdered": false,
+                  "listStyleType": "SCIR_ECIR_SREC",
+                  "symbolStyle": {
+                    "bold": true
+                  },
+                  "listStyle": {
+                    "format": "bullet",
+                    "text": "●",
+                    "align": "left"
+                  }
+                }
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "bold": true,
+                    "data-type": "leaf"
+                  },
+                  "可设置效果达标门槛（非必选），如果不设置门槛，则当前计划周期结束后无条件开启下一轮续投。"
+                ]
+              ]
+            ],
+            [
+              "p",
+              {
+                "uuid": "maf8b7a278onv6cze47",
+                "ind": {
+                  "left": 0
+                },
+                "list": {
+                  "listId": "cm0yhakcwef",
+                  "level": 0,
+                  "isTaskList": false,
+                  "isOrdered": false,
+                  "listStyleType": "SCIR_ECIR_SREC",
+                  "symbolStyle": {
+                    "bold": true
+                  },
+                  "listStyle": {
+                    "format": "bullet",
+                    "text": "●",
+                    "align": "left"
+                  },
+                  "extraData": {},
+                  "isChecked": false,
+                  "hideSymbol": false
+                }
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "bold": true,
+                    "data-type": "leaf"
+                  },
+                  "续投门槛在投放中也可以随时修改。"
+                ]
+              ],
+              [
+                "img",
+                {
+                  "uuid": "maf0x0gtjstjc5oneta",
+                  "name": "image.png",
+                  "size": 186998,
+                  "width": 748,
+                  "height": 206.43182950668864,
+                  "src": "/core/api/resources/img/5eecdaf48460cde5b65d5d1c2d260c41d58e0dcc573348d275b8339e1c4c24831b75b38faadcd24bec177c308ebd530478f45e2e816503e989cbecfac2e525fef480376c7802e0cb60f70e4a8d2a1d2f03d59367a69800404fb4c8ed7016461c",
+                  "extraData": {
+                    "resourceId": "67a6f167-b385-41fd-b165-97f51d736f52",
+                    "metaData": {
+                      "size": 186998,
+                      "originWidth": 1174,
+                      "originHeight": 324,
+                      "format": "png",
+                      "ratio": 1
+                    }
+                  }
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "text"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "leaf"
+                    },
+                    ""
+                  ]
+                ]
+              ],
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ]
+            ],
+            [
+              "p",
+              {
+                "uuid": "maf4wr1jjzafxaepbuh",
+                "ind": {
+                  "left": 0
+                },
+                "list": {
+                  "listId": "cm0yhakcwef",
+                  "level": 0,
+                  "isTaskList": false,
+                  "isOrdered": false,
+                  "listStyleType": "SCIR_ECIR_SREC",
+                  "symbolStyle": {
+                    "bold": true
+                  },
+                  "listStyle": {
+                    "format": "bullet",
+                    "text": "●",
+                    "align": "left"
+                  },
+                  "extraData": {},
+                  "isChecked": false,
+                  "hideSymbol": false
+                }
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "bold": true,
+                    "data-type": "leaf"
+                  },
+                  "后期续投计划会自动从余额扣款，请注意保持余额预算充足。"
+                ]
+              ]
+            ],
+            [
+              "p",
+              {
+                "uuid": "maf4wr1jsjk7y9ytyn",
+                "ind": {
+                  "left": 0
+                },
+                "list": {
+                  "listId": "cm0yhakcwef",
+                  "level": 0,
+                  "isTaskList": false,
+                  "isOrdered": false,
+                  "listStyleType": "SCIR_ECIR_SREC",
+                  "symbolStyle": {
+                    "bold": true
+                  },
+                  "listStyle": {
+                    "format": "bullet",
+                    "text": "●",
+                    "align": "left"
+                  },
+                  "extraData": {},
+                  "isChecked": false,
+                  "hideSymbol": false
+                }
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "bold": true,
+                    "data-type": "leaf"
+                  },
+                  "如果自动续投扣款失败，则在计划结束后7天内支持设置手动续投。"
+                ]
+              ],
+              [
+                "img",
+                {
+                  "uuid": "owiwmp",
+                  "name": "image.png",
+                  "size": 741717,
+                  "width": 748,
+                  "height": 466.9005894885685,
+                  "src": "/core/api/resources/img/5eecdaf48460cde5b65d5d1c2d260c41d58e0dcc573348d275b8339e1c4c24831b75b38faadcd24bec177c308ebd5304ba7d74bffbd501f77160ef892e5da494939d720c855a41492486a4f238f3408840fe6fa9c5e133b84fb4c8ed7016461c",
+                  "extraData": {
+                    "resourceId": "d5cb1590-998c-4c63-812b-745c704581e7",
+                    "metaData": {
+                      "size": 741717,
+                      "originWidth": 1570,
+                      "originHeight": 980,
+                      "format": "png",
+                      "ratio": 1
+                    }
+                  }
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "text"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "leaf"
+                    },
+                    ""
+                  ]
+                ]
+              ],
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ]
+            ]
+          ],
+          [
+            "container",
+            {
+              "subType": "colorBlocks",
+              "metadata": {
+                "padding": {
+                  "top": 11,
+                  "right": 11,
+                  "bottom": 11,
+                  "left": 11
+                },
+                "borderRadius": 8,
+                "sticker": {
+                  "type": "dingding",
+                  "id": "alidocs_emotion_002",
+                  "name": "[优先级: 2]",
+                  "url": "https://g.alicdn.com/alidocs/emotion-assets/0.0.2/alidocs_emotion_002.png"
+                },
+                "bgcolor": "#E8F2FE",
+                "showstk": false,
+                "border": null
+              },
+              "uuid": "maf0xa2e1b4cplk1l50j"
+            },
+            [
+              "p",
+              {
+                "uuid": "maf0xa2edy01jaz00wt",
+                "ind": {
+                  "left": 0
+                }
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "bold": true,
+                    "sz": 16,
+                    "szUnit": "pt",
+                    "data-type": "leaf"
+                  },
+                  "投中管理："
+                ]
+              ]
+            ],
+            [
+              "p",
+              {
+                "uuid": "maf127pwqi0e15y9f1",
+                "ind": {
+                  "left": 0
+                },
+                "list": {
+                  "listId": "ql5ne8qo5kb",
+                  "level": 0,
+                  "isTaskList": false,
+                  "isOrdered": false,
+                  "listStyleType": "SCIR_ECIR_SREC",
+                  "symbolStyle": {
+                    "bold": true
+                  },
+                  "listStyle": {
+                    "format": "bullet",
+                    "text": "●",
+                    "align": "left"
+                  }
+                }
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "bold": true,
+                    "data-type": "leaf"
+                  },
+                  "投放中可随时进行续投设置，没有开启自动续投的计划会提示“未开启自动”"
+                ]
+              ]
+            ],
+            [
+              "p",
+              {
+                "uuid": "maf0ylj9v0d53ttwq7",
+                "ind": {
+                  "left": 0
+                }
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "bold": true,
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ],
+              [
+                "img",
+                {
+                  "uuid": "e51gpa",
+                  "name": "image.png",
+                  "size": 618192,
+                  "width": 725,
+                  "height": 525.5719056683346,
+                  "src": "/core/api/resources/img/5eecdaf48460cde5b65d5d1c2d260c41d58e0dcc573348d275b8339e1c4c24831b75b38faadcd24bec177c308ebd53044991826806b1ca8a8b31b65188cc06520c7244bdc30a3d0ec8a7130da3c22538eeb3be74ccd28f634fb4c8ed7016461c",
+                  "extraData": {
+                    "resourceId": "3a99ab3d-b3fb-4e5a-95cc-a03f7142cba2",
+                    "metaData": {
+                      "size": 618192,
+                      "originWidth": 1316,
+                      "originHeight": 954,
+                      "format": "png",
+                      "ratio": 1
+                    }
+                  }
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "text"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "leaf"
+                    },
+                    ""
+                  ]
+                ]
+              ],
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "bold": true,
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ]
+            ],
+            [
+              "p",
+              {
+                "uuid": "maf1p41aqiw1y56wj8",
+                "ind": {
+                  "left": 0
+                },
+                "list": {
+                  "listId": "g6qvwlz3v4m",
+                  "level": 0,
+                  "isTaskList": false,
+                  "isOrdered": false,
+                  "listStyleType": "SCIR_ECIR_SREC",
+                  "symbolStyle": {
+                    "bold": true
+                  },
+                  "listStyle": {
+                    "format": "bullet",
+                    "text": "●",
+                    "align": "left"
+                  }
+                }
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "bold": true,
+                    "data-type": "leaf"
+                  },
+                  "点击“续投预算”按钮，在弹出浮层中设置下一期续投金额、周期、是否开启自动续投。"
+                ]
+              ]
+            ],
+            [
+              "p",
+              {
+                "uuid": "maf1rm315rsthslnoy9",
+                "ind": {
+                  "left": 0
+                },
+                "list": {
+                  "listId": "g6qvwlz3v4m",
+                  "level": 0,
+                  "isTaskList": false,
+                  "isOrdered": false,
+                  "listStyleType": "SCIR_ECIR_SREC",
+                  "symbolStyle": {
+                    "bold": true
+                  },
+                  "listStyle": {
+                    "format": "bullet",
+                    "text": "●",
+                    "align": "left"
+                  },
+                  "extraData": {},
+                  "isChecked": false,
+                  "hideSymbol": false
+                }
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "bold": true,
+                    "data-type": "leaf"
+                  },
+                  "注意：设置完毕后点击底部保存按钮不会立刻开启下一轮投放，而是会待本期计划结束后再进行下一轮投放；在本期计划结束前，随时可以再修改设置并进行保存。"
+                ]
+              ]
+            ],
+            [
+              "p",
+              {
+                "uuid": "maf125o9ez029fpis8"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ],
+              [
+                "img",
+                {
+                  "uuid": "4ve1fg",
+                  "name": "image.png",
+                  "size": 1909332,
+                  "width": 725,
+                  "height": 363.5119387429098,
+                  "src": "/core/api/resources/img/5eecdaf48460cde5b65d5d1c2d260c41d58e0dcc573348d275b8339e1c4c24831b75b38faadcd24bec177c308ebd5304a48f1092b400cb41d3a1f0f472bfd5fe53dd041a188a791bfb19a2a37986aee85bbd16006fadaec14fb4c8ed7016461c",
+                  "extraData": {
+                    "resourceId": "3326c1d5-661d-4560-9fac-08459cae7396",
+                    "metaData": {
+                      "size": 1909332,
+                      "originWidth": 2864,
+                      "originHeight": 1436,
+                      "format": "png",
+                      "ratio": 1
+                    }
+                  }
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "text"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "leaf"
+                    },
+                    ""
+                  ]
+                ]
+              ],
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ]
+            ],
+            [
+              "p",
+              {
+                "uuid": "maf1spb1g1zdgn3w044",
+                "ind": {
+                  "left": 0
+                },
+                "list": {
+                  "listId": "5kxzcbr930n",
+                  "level": 0,
+                  "isTaskList": false,
+                  "isOrdered": false,
+                  "listStyleType": "SCIR_ECIR_SREC",
+                  "symbolStyle": {},
+                  "listStyle": {
+                    "format": "bullet",
+                    "text": "●",
+                    "align": "left"
+                  }
+                }
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "bold": true,
+                    "data-type": "leaf"
+                  },
+                  "计划详情页右上角也有续投预算设置入口"
+                ]
+              ],
+              [
+                "img",
+                {
+                  "uuid": "0xytls",
+                  "name": "image.png",
+                  "size": 676231,
+                  "width": 725,
+                  "height": 126.71022727272728,
+                  "src": "/core/api/resources/img/5eecdaf48460cde5b65d5d1c2d260c41d58e0dcc573348d275b8339e1c4c24831b75b38faadcd24bec177c308ebd5304f282ae8d8fd42dd83b5f955bf496d0a67e6f3c5fdfe081f64cdc54d342110e2d4d4084d1989bae7d4fb4c8ed7016461c",
+                  "extraData": {
+                    "resourceId": "044cbe4d-8deb-456f-9369-55150b19e924",
+                    "metaData": {
+                      "size": 676231,
+                      "originWidth": 2838,
+                      "originHeight": 496,
+                      "format": "png",
+                      "ratio": 1
+                    }
+                  }
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "text"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "leaf"
+                    },
+                    ""
+                  ]
+                ]
+              ],
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ]
+            ],
+            [
+              "p",
+              {
+                "uuid": "maf3t8x0kkxrqf4l1xe",
+                "ind": {
+                  "left": 0
+                },
+                "list": {
+                  "listId": "5kxzcbr930n",
+                  "level": 0,
+                  "isTaskList": false,
+                  "isOrdered": false,
+                  "listStyleType": "SCIR_ECIR_SREC",
+                  "symbolStyle": {},
+                  "listStyle": {
+                    "format": "bullet",
+                    "text": "●",
+                    "align": "left"
+                  }
+                }
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "bold": true,
+                    "data-type": "leaf"
+                  },
+                  "当前计划结束后，如果开启自动续投则会自动从预算通/余额中进行扣款，若扣款失败，则进入手动续投模式，可以在计划结束7天内进行手动续投"
+                ]
+              ],
+              [
+                "img",
+                {
+                  "uuid": "ef84wi",
+                  "name": "image.png",
+                  "size": 796111,
+                  "width": 748,
+                  "height": 622.1682242990654,
+                  "src": "/core/api/resources/img/5eecdaf48460cde5b65d5d1c2d260c41d58e0dcc573348d275b8339e1c4c24831b75b38faadcd24bec177c308ebd53049bff0a517702257a22e5e1550af36856db8a3a9dcae84c7dd5acf1a254649ecdc5dfb27a62de6e884fb4c8ed7016461c",
+                  "extraData": {
+                    "resourceId": "c8c586d1-02d7-4eec-a997-229e02a88366",
+                    "metaData": {
+                      "size": 796111,
+                      "originWidth": 1284,
+                      "originHeight": 1068,
+                      "format": "png",
+                      "ratio": 1
+                    }
+                  }
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "text"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "leaf"
+                    },
+                    ""
+                  ]
+                ]
+              ],
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "maeyqus0v2td551vqgn"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "h2",
+            {
+              "uuid": "mkalfhy3bkiadmu8tyi",
+              "ind": {
+                "left": 0
+              },
+              "spacing": {
+                "before": 21.333333333333332,
+                "after": 9,
+                "line": 0.8529411764705882
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 16,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "手动续投操作指南"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "jc": "left",
+              "uuid": "mkalfzodql5pqvl9gzq"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "关键词场景计划列表页，流量金卡类型的计划【续投预算】按钮。"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mkalfzoeaxkfoiurj55"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "data-type": "leaf"
+                },
+                "什么时候支持续投"
+              ],
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "："
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "underline": {
+                    "value": "single"
+                  },
+                  "data-type": "leaf"
+                },
+                "金卡计划结束～计划结束7天内"
+              ],
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "，支持点击【续投预算】、追加预算续投。"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "jc": "left",
+              "uuid": "mkalfzoexg08ycix8jn"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ],
+            [
+              "img",
+              {
+                "height": 724,
+                "name": "",
+                "src": "https://alidocs.oss-cn-zhangjiakou.aliyuncs.com/lark/https://yuque.antfin.com/chenchun.chen/gqhty9/fmq4f8eu4wh2fykb/imgPB7OFAdW9c.png",
+                "width": 573.3333485214803,
+                "uuid": "mkalfzob0xuc4kclpdd"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "jc": "left",
+              "uuid": "mkalg20m3vv14qurxpt"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "h2",
+            {
+              "uuid": "maeyqor5h069gve25ml",
+              "spacing": {
+                "before": 21.333333333333332,
+                "after": 9,
+                "line": 0.8529411764705882
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 16,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "FAQ"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "maf8jz8un8q50bjf6"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "data-type": "leaf"
+                },
+                "Q：哪些金卡类型支持续投？"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "maf8ka7b75eukl4f24k"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "A：支持续投的金卡：BEST词卡（类目精准词卡、店铺专有词卡、行业热门词卡、趋势机会词卡、竞对热买词卡、洼地机会词卡）、行业好货打爆卡、行业蓄水加购卡、店铺机会品激活卡、新品极速起量卡、爆品竞争攻防卡、店铺拉新引流卡 支持续投。"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "list": {
+                "isChecked": false,
+                "isOrdered": false,
+                "isTaskList": false,
+                "level": 1,
+                "listId": "k5utgyv7snm",
+                "listStyle": {
+                  "format": "bullet",
+                  "text": "○",
+                  "align": "left"
+                },
+                "extraData": {},
+                "hideSymbol": false
+              },
+              "uuid": "maf5s7s3904iycfkm4f"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "创建计划后显示“可继承效果”和“续投预算”按钮，说明当前套餐包类型是可续投的"
+              ]
+            ],
+            [
+              "img",
+              {
+                "uuid": "maf8jz8qcggcxz0zpz8",
+                "name": "image.png",
+                "size": 138331,
+                "width": 553,
+                "height": 195,
+                "src": "/core/api/resources/img/5eecdaf48460cde560cebe24be074c7a76584f6b02bf32ff58e70b814913bc360a414d3de9277d871abf3af1cbd75249ec91fe3bbd32488bfba4f1a5ee45f2a3e8a7dd8fcd6db30f25dc5a44f6d7fecb1f80551ea6b07bd8fc653b69905bac42",
+                "extraData": {
+                  "resourceId": "d23822bc-f474-464a-a206-60f0562af78d",
+                  "metaData": {
+                    "size": 138331,
+                    "originWidth": 842,
+                    "originHeight": 292,
+                    "format": "png",
+                    "ratio": 1
+                  }
+                },
+                "rectClip": {
+                  "left": 0,
+                  "right": 8,
+                  "top": 0,
+                  "bottom": 0
+                },
+                "rotation": 0
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "makh6dc81re88s6hlfh"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "maf8wtbbrfbchhv601"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "data-type": "leaf"
+                },
+                "Q：自动续投门槛是什么意思？"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "maf8x7xbz6nsyaaa2x"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "A：您可以为自动续投设置一个效果门槛，例如ROI大于1，则当前投放周期结束时，如果计划周期内ROI大于1，才会自动开启下一轮续投，否则将不会自动进行续投。"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "maf8ywzkaza1js88umi"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "当然，如果您希望该计划一直自动续投下去不中断，也可以不设置投放门槛。"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "maf90nzaz2i4615y93b"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "maf8pitaf34v5fkyd1"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "data-type": "leaf"
+                },
+                "Q：自动续投有次数上限吗？"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "maf8kuqi5g8wmufu7kb"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "A：目前同一个金卡计划"
+              ],
+              [
+                "span",
+                {
+                  "color": "#E03E3E",
+                  "data-type": "leaf"
+                },
+                "最多支持续投10次（包含自动和手动续投）"
+              ],
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "，后续会对部分消耗门槛达标用户提升续投上限，敬请期待。"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "maf8klkw75msn37vub3"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "maf8wntqp1u5x0z1enl"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "data-type": "leaf"
+                },
+                "Q：自动续投是怎么扣费的？"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "maf8proxh4cahoiltdm"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "A：默认从余额中自动扣款，您也可以在投中设置从预算通中扣款。如果扣款失败，则自动续投不成功，计划会转为手动续投模式。"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "maf8v57vp6krku99haf"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "maf8v5kmxb1o4jpxeuj"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "data-type": "leaf"
+                },
+                "Q：自动续投可以使用优惠券吗？"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "maf8vc19e6m754kr4cm"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "A：系统会在自动扣款时自动选择最临期的优惠券进行抵扣。"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "jc": "left",
+              "uuid": "maf8vxiksc8jy0d3owq"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "​"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "maf8m4k1y5s1ponmqa"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "data-type": "leaf"
+                },
+                "Q：什么时候可以设置续投？"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "maf8mko4lbub03mxo7"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "A：在新建计划时就可以设置自动续投，并且在投放中也可以随时调整设置。"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "maf8ouf81y6klnal535"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "若计划自动续投失败，转为手动续投模式，7天内未点击续投，则续投按钮消失，后续该计划不再支持续投。如果需要再投放、请重新下单创建金卡。"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "maf92cahgp48sca6w5r"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "maf92clitzcqrihfr6p"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "data-type": "leaf"
+                },
+                "Q：自动续投开了还能关吗？"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "maf92jspsv3qiltf56s"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "A：可以，您可以在投放中随时关闭自动续投开关。"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "jc": "left",
+              "uuid": "maf8ouf99c09ubxg3b5"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "​"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "jc": "left",
+              "uuid": "maf8jz8w7coevtyvkbb"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "​"
+              ]
+            ]
+          ]
+        ],
+        "footers": {},
+        "version": 1
+      },
+      "refs": {}
+    }
+  }
+}

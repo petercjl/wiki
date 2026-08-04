@@ -1,0 +1,4389 @@
+{
+  "version": 1,
+  "type": "application/x-alidocs-package",
+  "main": "00000000-0000-0000-0000-000000000001",
+  "plugins": "00000000-0000-0000-0000-000000000002",
+  "parts": {
+    "00000000-0000-0000-0000-000000000001": {
+      "id": "00000000-0000-0000-0000-000000000001",
+      "type": "application/x-alidocs-word",
+      "version": 1,
+      "data": {
+        "style": {
+          "docDefaults": {
+            "type": "paragraph",
+            "default": 1,
+            "name": "dingdocnormal",
+            "data": {
+              "rPr": {},
+              "pPr": {
+                "spacing": {
+                  "before": 0,
+                  "after": 0
+                }
+              }
+            }
+          },
+          "tableDefault": {
+            "type": "table",
+            "data": {
+              "tblPr": {
+                "bdr": {
+                  "bottom": {
+                    "color": "#D6D6D6",
+                    "space": 0,
+                    "sz": 1,
+                    "val": "single"
+                  },
+                  "insideH": {
+                    "color": "#D6D6D6",
+                    "space": 0,
+                    "sz": 1,
+                    "val": "single"
+                  },
+                  "insideV": {
+                    "color": "#D6D6D6",
+                    "space": 0,
+                    "sz": 1,
+                    "val": "single"
+                  },
+                  "left": {
+                    "color": "#D6D6D6",
+                    "space": 0,
+                    "sz": 1,
+                    "val": "single"
+                  },
+                  "right": {
+                    "color": "#D6D6D6",
+                    "space": 0,
+                    "sz": 1,
+                    "val": "single"
+                  },
+                  "top": {
+                    "color": "#D6D6D6",
+                    "space": 0,
+                    "sz": 1,
+                    "val": "single"
+                  }
+                }
+              }
+            }
+          },
+          "tableHeader": {
+            "type": "table",
+            "basedOn": "tableDefault",
+            "data": {
+              "tblStylePr": [
+                {
+                  "type": "firstRow",
+                  "tcPr": {
+                    "shd": {
+                      "fill": "#F5F6F7"
+                    }
+                  }
+                },
+                {
+                  "type": "firstCol",
+                  "tcPr": {
+                    "shd": {
+                      "fill": "#F5F6F7"
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        "theme": [],
+        "settings": {
+          "titleCover": {
+            "isHide": true
+          }
+        },
+        "app": {},
+        "numberings": {},
+        "headers": {},
+        "body": [
+          "root",
+          {
+            "sectPr": {
+              "pgSz": {
+                "w": 1127,
+                "h": 1588
+              },
+              "pgMar": {
+                "top": 48,
+                "bottom": 48,
+                "left": 72,
+                "right": 72,
+                "header": 56.73,
+                "footer": 66.13,
+                "gutter": 0
+              }
+            },
+            "theme": {
+              "table": {
+                "tableCell": {
+                  "vAlign": "top"
+                }
+              }
+            },
+            "userData": {
+              "504256086": {
+                "mpcbghqlbwiyqm2mqp": {
+                  "fold": false
+                },
+                "mh31xnc87qfzvxm6g9q": {
+                  "fold": false
+                }
+              }
+            },
+            "uuid": "mpcc5tye4gm1hpq5cmi"
+          },
+          [
+            "h2",
+            {
+              "uuid": "mh31xnc87qfzvxm6g9q",
+              "ind": {
+                "left": 0
+              },
+              "spacing": {
+                "before": 28,
+                "after": 10,
+                "line": 0.9333333333333332
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 3.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 3.0\"",
+                    "cs": "\"Alibaba PuHuiTi 3.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 3.0\""
+                  },
+                  "sz": 18,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "产品介绍"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mpcatdg6ahjaf4gx7nn"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "【增长引擎】属于关键词推广-自定义推广-好货快投下的一个选品方向，是一个智能选品的投放产品，操作简单，叠加定制链路、投放效果好。"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mpcauw0yxfg19bsqq6r"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "创建计划后，大模型算法根据市场流量、店内货品情况，自动投放高推广价值的商品，投放中优先挖掘低成本蓝海词、新客等多维度的增量流量，"
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "data-type": "leaf"
+                },
+                "帮助商家以较低的成本、轻松提升全店生意增长。"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mpcazdu7meju512w9k",
+              "jc": "center"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ],
+            [
+              "img",
+              {
+                "uuid": "y8rotf",
+                "name": "增长引擎-无活动-弹窗.png",
+                "size": 487444,
+                "width": 686,
+                "height": 339,
+                "src": "/core/api/resources/img/5eecdaf48460cde537024e4aa570f27876f3339e33e5ad9375b8339e1c4c24831b75b38faadcd24bec177c308ebd53042550113c6b2c83d4b83fca7298697f517b3a20bc26f536044967934aba92bba101d8a53f5d094ebc4fb4c8ed7016461c",
+                "extraData": {
+                  "resourceId": "5d522f05-8487-4e71-ad77-46a167b76048",
+                  "metaData": {
+                    "size": 487444,
+                    "originWidth": 1374,
+                    "originHeight": 680,
+                    "format": "png",
+                    "ratio": 1
+                  }
+                },
+                "rotation": 0
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "h2",
+            {
+              "uuid": "mr1umxjde9k134q0ars",
+              "ind": {
+                "left": 0
+              },
+              "spacing": {
+                "before": 28,
+                "after": 10,
+                "line": 0.9333333333333332
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 3.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 3.0\"",
+                    "cs": "\"Alibaba PuHuiTi 3.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 3.0\""
+                  },
+                  "sz": 18,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "优秀案例"
+              ]
+            ]
+          ],
+          [
+            "container",
+            {
+              "subType": "colorBlocks",
+              "metadata": {
+                "padding": {
+                  "top": 11,
+                  "right": 11,
+                  "bottom": 11,
+                  "left": 11
+                },
+                "borderRadius": 8,
+                "bgcolor": "#FFFFFF",
+                "showstk": false,
+                "border": "#979A9B"
+              },
+              "uuid": "mr1unb4khato76zoe4"
+            },
+            [
+              "p",
+              {
+                "uuid": "mr1unb4krv7fsn117dp"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ],
+              [
+                "img",
+                {
+                  "uuid": "mr1uncf23i9l8scodkj",
+                  "name": "某宠物旗舰店.png",
+                  "size": 989073,
+                  "width": 240,
+                  "height": 381,
+                  "src": "/core/api/resources/img/5eecdaf48460cde537024e4aa570f27876f3339e33e5ad9375b8339e1c4c24831b75b38faadcd24bec177c308ebd53042900468d3d008b1065137e8618bc26b3dc46b87ac801f72b7316b8c5cf0bacf72a1d7a8d708484344fb4c8ed7016461c",
+                  "extraData": {
+                    "resourceId": "cf8b85d4-056b-4f51-87d3-d138cef301da",
+                    "metaData": {
+                      "size": 989073,
+                      "originWidth": 1125,
+                      "originHeight": 1787,
+                      "format": "png",
+                      "ratio": 1
+                    }
+                  },
+                  "rotation": 0
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "text"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "leaf"
+                    },
+                    ""
+                  ]
+                ]
+              ],
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ],
+              [
+                "img",
+                {
+                  "uuid": "neuhgu",
+                  "name": "某个人护理旗舰店.png",
+                  "size": 862042,
+                  "width": 240,
+                  "height": 381.2275,
+                  "src": "/core/api/resources/img/5eecdaf48460cde537024e4aa570f27876f3339e33e5ad9375b8339e1c4c24831b75b38faadcd24bec177c308ebd5304a2c44bd282c4c0c5b9d21dc02db6c6cba35eddcd550480c1a2c52de71b0d13a2dea707ebedf060d94fb4c8ed7016461c",
+                  "extraData": {
+                    "resourceId": "1034277c-38fa-4731-ba83-dcc44f848ca1",
+                    "metaData": {
+                      "size": 862042,
+                      "originWidth": 1125,
+                      "originHeight": 1787,
+                      "format": "png",
+                      "ratio": 1
+                    }
+                  }
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "text"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "leaf"
+                    },
+                    ""
+                  ]
+                ]
+              ],
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ],
+              [
+                "img",
+                {
+                  "uuid": "zqx5lf",
+                  "name": "某家装旗舰店.png",
+                  "size": 1357225,
+                  "width": 240,
+                  "height": 381.2275,
+                  "src": "/core/api/resources/img/5eecdaf48460cde537024e4aa570f27876f3339e33e5ad9375b8339e1c4c24831b75b38faadcd24bec177c308ebd5304eff13c2afd2bb8fc3999fb181e85eadee003bb3b5a95e274bc7f7a9d70e7c9244789a364c9a4016b4fb4c8ed7016461c",
+                  "extraData": {
+                    "resourceId": "985c6d8f-6299-4fd4-9dc5-d46469b84306",
+                    "metaData": {
+                      "size": 1357225,
+                      "originWidth": 1125,
+                      "originHeight": 1787,
+                      "format": "png",
+                      "ratio": 1
+                    }
+                  }
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "text"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "leaf"
+                    },
+                    ""
+                  ]
+                ]
+              ],
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ],
+              [
+                "img",
+                {
+                  "uuid": "k3sgfk",
+                  "name": "某手机企业店铺.png",
+                  "size": 1064494,
+                  "width": 240,
+                  "height": 381.2275,
+                  "src": "/core/api/resources/img/5eecdaf48460cde537024e4aa570f27876f3339e33e5ad9375b8339e1c4c24831b75b38faadcd24bec177c308ebd53046c6f1cbfff8590b2bcd9d997855306fed34eecbdaa97a7201d5c9c8ca8781d9578e3c1a5cfd2562c4fb4c8ed7016461c",
+                  "extraData": {
+                    "resourceId": "7b702827-a366-4665-9ceb-e64fafe352be",
+                    "metaData": {
+                      "size": 1064494,
+                      "originWidth": 1125,
+                      "originHeight": 1787,
+                      "format": "png",
+                      "ratio": 1
+                    }
+                  }
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "text"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "leaf"
+                    },
+                    ""
+                  ]
+                ]
+              ],
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ],
+              [
+                "img",
+                {
+                  "uuid": "nco0gw",
+                  "name": "某文创店.png",
+                  "size": 1187444,
+                  "width": 240,
+                  "height": 381.2275,
+                  "src": "/core/api/resources/img/5eecdaf48460cde537024e4aa570f27876f3339e33e5ad9375b8339e1c4c24831b75b38faadcd24bec177c308ebd5304a3b720886837a458f5159b1342c3cf02a2aab0073d1bf65db9a3ff88c818f2351440a7bd94907df44fb4c8ed7016461c",
+                  "extraData": {
+                    "resourceId": "c1787713-c83f-4ce6-aa56-404b088f85c3",
+                    "metaData": {
+                      "size": 1187444,
+                      "originWidth": 1125,
+                      "originHeight": 1787,
+                      "format": "png",
+                      "ratio": 1
+                    }
+                  }
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "text"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "leaf"
+                    },
+                    ""
+                  ]
+                ]
+              ],
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ],
+              [
+                "img",
+                {
+                  "uuid": "augeps",
+                  "name": "某医疗器械专营店.png",
+                  "size": 1101183,
+                  "width": 240,
+                  "height": 381.2275,
+                  "src": "/core/api/resources/img/5eecdaf48460cde537024e4aa570f27876f3339e33e5ad9375b8339e1c4c24831b75b38faadcd24bec177c308ebd53047e28b03a6684f1cea9f45de08b6c1024bc69b3f96467f0027f7702b2cb0a9a60f0c8359c44eace254fb4c8ed7016461c",
+                  "extraData": {
+                    "resourceId": "9f7c3722-502b-4ba8-aa6d-b220086282a3",
+                    "metaData": {
+                      "size": 1101183,
+                      "originWidth": 1125,
+                      "originHeight": 1787,
+                      "format": "png",
+                      "ratio": 1
+                    }
+                  }
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "text"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "leaf"
+                    },
+                    ""
+                  ]
+                ]
+              ],
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ],
+              [
+                "img",
+                {
+                  "uuid": "tn5ckn",
+                  "name": "某正品家电卖场店.png",
+                  "size": 1370096,
+                  "width": 240,
+                  "height": 381.2275,
+                  "src": "/core/api/resources/img/5eecdaf48460cde537024e4aa570f27876f3339e33e5ad9375b8339e1c4c24831b75b38faadcd24bec177c308ebd5304bb5a9645c8365881179bc2bed6ea6cfbc40167346051a26ce572926f15f6934f1ca9236e5fa23ca44fb4c8ed7016461c",
+                  "extraData": {
+                    "resourceId": "0f03b2d4-50f2-48f2-ab8f-2c7e1d096a8f",
+                    "metaData": {
+                      "size": 1370096,
+                      "originWidth": 1125,
+                      "originHeight": 1787,
+                      "format": "png",
+                      "ratio": 1
+                    }
+                  }
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "text"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "leaf"
+                    },
+                    ""
+                  ]
+                ]
+              ],
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ],
+              [
+                "img",
+                {
+                  "uuid": "9u8yoa",
+                  "name": "某家居店.png",
+                  "size": 1358500,
+                  "width": 240,
+                  "height": 381.2275,
+                  "src": "/core/api/resources/img/5eecdaf48460cde537024e4aa570f27876f3339e33e5ad9375b8339e1c4c24831b75b38faadcd24bec177c308ebd530426e1826d27f55548a95bac4cfe9a2823b5b412e28272264185e83b103b5a0e66c9e3162e2d08f55b4fb4c8ed7016461c",
+                  "extraData": {
+                    "resourceId": "ba2f3f67-4c4a-40cf-a029-ebf69c29d0e0",
+                    "metaData": {
+                      "size": 1358500,
+                      "originWidth": 1125,
+                      "originHeight": 1787,
+                      "format": "png",
+                      "ratio": 1
+                    }
+                  }
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "text"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "leaf"
+                    },
+                    ""
+                  ]
+                ]
+              ],
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mr1umzzmpdd68p2bha9"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mr1un04aozlz7grm09"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "h2",
+            {
+              "uuid": "mpcbghqlbwiyqm2mqp",
+              "ind": {
+                "left": 0
+              },
+              "spacing": {
+                "before": 28,
+                "after": 10,
+                "line": 0.9333333333333332
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 3.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 3.0\"",
+                    "cs": "\"Alibaba PuHuiTi 3.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 3.0\""
+                  },
+                  "sz": 18,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "产品亮点"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mpcbgkgll8u3sly4qu"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 14,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "产品定位"
+              ],
+              [
+                "span",
+                {
+                  "sz": 14,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "： "
+              ],
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "低成本探索全店投放机会，挖掘好货、增量关键词、新客等多维度的生意增量。 "
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mpcc6am6oky1qk6fn0h"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mpcbikqqaozfoc29lg"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 14,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "适合场景："
+              ]
+            ]
+          ],
+          [
+            "table",
+            {
+              "colsWidth": [
+                306.49999999999994,
+                612.5
+              ],
+              "sr": true,
+              "uuid": "mpcc8cdeoof4deid22h"
+            },
+            [
+              "tr",
+              {
+                "uuid": "mpcc8cdeqs6fe9f5x9"
+              },
+              [
+                "tc",
+                {
+                  "border": "#f6e7a9",
+                  "fill": "#FFFAE5",
+                  "uuid": "mpcc8cdewbtbw1gcv6q",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mpcc8cdeueeksqw7i1g"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "sz": 12,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      "❓投放经验较少，新手商家："
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "border": "#f6e7a9",
+                  "fill": "#FFFAE5",
+                  "uuid": "mpcc8cdeugqefhovybm",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mpcc8cde9qvrukvwyla"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "仅需创建计划、设置预算，后续选品、买词、出价都交给算法，实时优化调优，提升全店成交额。"
+                    ]
+                  ]
+                ]
+              ]
+            ]
+          ],
+          [
+            "table",
+            {
+              "colsWidth": [
+                306.49999999999994,
+                612.5
+              ],
+              "sr": true,
+              "uuid": "mpcc91v3c3ecoi7i6v4"
+            },
+            [
+              "tr",
+              {
+                "uuid": "mpcc91v3fukm0v3ii4u"
+              },
+              [
+                "tc",
+                {
+                  "fill": "#FFFAE5",
+                  "vAlign": "top",
+                  "uuid": "mpcc91v35blp05uerrj",
+                  "border": "#f6e7a9",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mpcc91v36ik8qd64rk"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "sz": 12,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      "❓除主推品外,希望挖掘其他优质货品："
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "fill": "#FFFAE5",
+                  "vAlign": "top",
+                  "uuid": "mpcc91v3v66wvexo94",
+                  "border": "#f6e7a9",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mpcc91v3eyok7dsj21b"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "低成本、实时挖掘店内值得推广的好货，优先探索蓝海词、新客等增量流量。"
+                    ]
+                  ]
+                ]
+              ]
+            ]
+          ],
+          [
+            "table",
+            {
+              "colsWidth": [
+                306.49999999999994,
+                612.5
+              ],
+              "sr": true,
+              "uuid": "mpcc939lveiuygm6bt"
+            },
+            [
+              "tr",
+              {
+                "uuid": "mpcc939ltcdbfrgdpbp"
+              },
+              [
+                "tc",
+                {
+                  "fill": "#FFFAE5",
+                  "vAlign": "top",
+                  "uuid": "mpcc939lk507pckw1gg",
+                  "border": "#f6e7a9",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mpcc939lwx9c32y9z5b"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "sz": 12,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      "❓大促等节点，需要冲刺全店成交额"
+                    ],
+                    [
+                      "span",
+                      {
+                        "sz": 12,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      "："
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "fill": "#FFFAE5",
+                  "vAlign": "top",
+                  "uuid": "mpcc939l8aqvy7eue1",
+                  "border": "#f6e7a9",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mpcc939lz13j54dl9tr"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "从全店成交最大化角度出发，优先投放推广后成交显著提升的潜力货品、能协同提升主推品成交的助攻货品， 同时避免与再投的其他计划竞争抢量。"
+                    ]
+                  ]
+                ]
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mpccd4eaqnk5vddnz5"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 14,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "spacing": {},
+              "uuid": "mpcc6f848fjvv01dj7j"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 14,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "产品优势："
+              ]
+            ]
+          ],
+          [
+            "table",
+            {
+              "colsWidth": [
+                288.49999999999994,
+                630.5
+              ],
+              "sr": true,
+              "uuid": "mpcftziacupv1z1l5gv"
+            },
+            [
+              "tr",
+              {
+                "uuid": "mpcftzia9w38y2ptgd6"
+              },
+              [
+                "tc",
+                {
+                  "fill": "linear-gradient(316deg, #F0EBF7 -13%, #FFFEFE 52%, #D5C8EE 125%)",
+                  "vAlign": "top",
+                  "uuid": "mpcftzianm44u1v776a",
+                  "border": "",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                [
+                  "p",
+                  {
+                    "ind": {
+                      "left": 0
+                    },
+                    "list": {
+                      "isOrdered": false,
+                      "isTaskList": false,
+                      "level": 0,
+                      "listId": "dcge1pw1tvb",
+                      "listStyle": {
+                        "align": "left",
+                        "format": "bullet",
+                        "text": "●"
+                      },
+                      "listStyleType": "SCIR_ECIR_SREC",
+                      "symbolStyle": {
+                        "bold": true,
+                        "sz": 12
+                      }
+                    },
+                    "uuid": "mpcftziaze4m079lytr"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "sz": 12,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      "👍轻松实现全店生意增长"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "fill": "linear-gradient(316deg, #F0EBF7 -13%, #FFFEFE 52%, #D5C8EE 125%)",
+                  "vAlign": "top",
+                  "uuid": "mpcftziagdou929x0c",
+                  "border": "",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mpcftziaz08dzf2ele"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "挖掘好货、自动匹配机会    流量，无需人工选品，节省运营精力"
+                    ]
+                  ]
+                ]
+              ]
+            ]
+          ],
+          [
+            "table",
+            {
+              "colsWidth": [
+                288.49999999999994,
+                630.5
+              ],
+              "sr": true,
+              "uuid": "mpccesjbi3x4nz0nixi"
+            },
+            [
+              "tr",
+              {
+                "uuid": "mpccesjbd4hlhchkhlw"
+              },
+              [
+                "tc",
+                {
+                  "fill": "linear-gradient(316deg, #F0EBF7 -13%, #FFFEFE 52%, #D5C8EE 125%)",
+                  "vAlign": "top",
+                  "uuid": "mpccesjbsqdfm720h7m",
+                  "border": "",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mpccesjb30ujv6z02ne",
+                    "ind": {
+                      "left": 0
+                    },
+                    "list": {
+                      "listId": "5b2grz20t4s",
+                      "level": 0,
+                      "isTaskList": false,
+                      "isOrdered": false,
+                      "listStyleType": "SCIR_ECIR_SREC",
+                      "symbolStyle": {
+                        "sz": 12,
+                        "bold": true
+                      },
+                      "listStyle": {
+                        "format": "bullet",
+                        "text": "●",
+                        "align": "left"
+                      }
+                    }
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "sz": 12,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      "👍AI算法挖掘好货"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "fill": "linear-gradient(316deg, #F0EBF7 -13%, #FFFEFE 52%, #D5C8EE 125%)",
+                  "vAlign": "top",
+                  "uuid": "mpccesjboh5di3jx1l",
+                  "border": "",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mpccesjbyyohllg3uuh"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "根据淘内流量&同行货品情况，大模型动态挖掘"
+                    ],
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "underline": {
+                          "value": "single"
+                        },
+                        "data-type": "leaf"
+                      },
+                      "「推广后可大幅提升成交」的潜力好货"
+                    ],
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "、"
+                    ],
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "underline": {
+                          "value": "single"
+                        },
+                        "data-type": "leaf"
+                      },
+                      "「协同提升爆款成交」的助攻好货"
+                    ],
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "。 "
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "uuid": "mpcfow4relfcnitz1l"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "同时"
+                    ],
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "underline": {
+                          "value": "single"
+                        },
+                        "data-type": "leaf"
+                      },
+                      "每日自动优化汰换"
+                    ],
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "，持续寻找最优货品组合"
+                    ]
+                  ]
+                ]
+              ]
+            ]
+          ],
+          [
+            "table",
+            {
+              "colsWidth": [
+                285.49999999999994,
+                633.5
+              ],
+              "sr": true,
+              "uuid": "mpccfd497svw0pq7rye"
+            },
+            [
+              "tr",
+              {
+                "uuid": "mpccfd498wctkl250n7"
+              },
+              [
+                "tc",
+                {
+                  "fill": "linear-gradient(316deg, #F0EBF7 -13%, #FFFEFE 52%, #D5C8EE 125%)",
+                  "vAlign": "top",
+                  "uuid": "mpccfd490bqhitwtcdxp",
+                  "border": "",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mpccfd499mj91q0bryp",
+                    "ind": {
+                      "left": 0
+                    },
+                    "list": {
+                      "listId": "kllo9j1ujvj",
+                      "level": 0,
+                      "isTaskList": false,
+                      "isOrdered": false,
+                      "listStyleType": "SCIR_ECIR_SREC",
+                      "symbolStyle": {
+                        "sz": 12,
+                        "bold": true
+                      },
+                      "listStyle": {
+                        "format": "bullet",
+                        "text": "●",
+                        "align": "left"
+                      }
+                    }
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "sz": 12,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      "👍低成本好词流量"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "fill": "linear-gradient(316deg, #F0EBF7 -13%, #FFFEFE 52%, #D5C8EE 125%)",
+                  "vAlign": "top",
+                  "uuid": "mpccfd49bkjgbhedkeh",
+                  "border": "",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mpccfd49kvlh28u5gz"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "聚焦"
+                    ],
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "underline": {
+                          "value": "single"
+                        },
+                        "data-type": "leaf"
+                      },
+                      "低竞争蓝海词（点击"
+                    ],
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "color": "#6E30A4",
+                        "underline": {
+                          "value": "single"
+                        },
+                        "data-type": "leaf"
+                      },
+                      "成本降低-15%"
+                    ],
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "underline": {
+                          "value": "single"
+                        },
+                        "data-type": "leaf"
+                      },
+                      "）"
+                    ],
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "、"
+                    ],
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "underline": {
+                          "value": "single"
+                        },
+                        "data-type": "leaf"
+                      },
+                      "高成交热点词（投产比"
+                    ],
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "color": "#C10002",
+                        "underline": {
+                          "value": "single"
+                        },
+                        "data-type": "leaf"
+                      },
+                      "ROI提升+20%"
+                    ],
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "underline": {
+                          "value": "single"
+                        },
+                        "data-type": "leaf"
+                      },
+                      "）"
+                    ],
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "等增量流量，不影响内在投的主推品流量"
+                    ]
+                  ]
+                ]
+              ]
+            ]
+          ],
+          [
+            "table",
+            {
+              "colsWidth": [
+                285.49999999999994,
+                633.5
+              ],
+              "sr": true,
+              "uuid": "mpccg1eojznnvruhsk"
+            },
+            [
+              "tr",
+              {
+                "uuid": "mpccg1eoweahgajh66"
+              },
+              [
+                "tc",
+                {
+                  "fill": "linear-gradient(316deg, #F0EBF7 -13%, #FFFEFE 52%, #D5C8EE 125%)",
+                  "vAlign": "top",
+                  "uuid": "mpccg1eoggrcvyvekpe",
+                  "border": "",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mpccg1eolme2mypz0ff",
+                    "ind": {
+                      "left": 0
+                    },
+                    "list": {
+                      "listId": "6woq8lsw4x6",
+                      "level": 0,
+                      "isTaskList": false,
+                      "isOrdered": false,
+                      "listStyleType": "SCIR_ECIR_SREC",
+                      "symbolStyle": {
+                        "sz": 12,
+                        "bold": true
+                      },
+                      "listStyle": {
+                        "format": "bullet",
+                        "text": "●",
+                        "align": "left"
+                      }
+                    }
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "sz": 12,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      "👍新客人群增量"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "fill": "linear-gradient(316deg, #F0EBF7 -13%, #FFFEFE 52%, #D5C8EE 125%)",
+                  "vAlign": "top",
+                  "uuid": "mpccg1eo5xrl4w2ytla",
+                  "border": "",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mpccg1eo0tgotqhtyd9"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "帮助挖掘"
+                    ],
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "underline": {
+                          "value": "single"
+                        },
+                        "data-type": "leaf"
+                      },
+                      "新客"
+                    ],
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "、"
+                    ],
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "underline": {
+                          "value": "single"
+                        },
+                        "data-type": "leaf"
+                      },
+                      "竞争摇摆人群"
+                    ],
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "等高营销价值人群"
+                    ]
+                  ]
+                ]
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mpcc6z613c0rq53eraq",
+              "ind": {
+                "left": 0
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": false,
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 3.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 3.0\"",
+                    "cs": "\"Alibaba PuHuiTi 3.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 3.0\""
+                  },
+                  "sz": 11,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mpcbgkknujuisedr1h8"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "h2",
+            {
+              "uuid": "mpce2qa8491jrsc8599",
+              "ind": {
+                "left": 0
+              },
+              "spacing": {
+                "before": 28,
+                "after": 10,
+                "line": 0.9333333333333332
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 3.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 3.0\"",
+                    "cs": "\"Alibaba PuHuiTi 3.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 3.0\""
+                  },
+                  "sz": 18,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "补贴说明"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mpce2str9pfj5rflsjd",
+              "ind": {
+                "left": 0
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "*不同商家可能获得不同补贴，具体请以无界后台显示为准。"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mpcep602apr5y54nbv",
+              "ind": {
+                "left": 0
+              },
+              "list": {
+                "listId": "90dwwrnzklm",
+                "level": 0,
+                "isTaskList": false,
+                "isOrdered": false,
+                "listStyleType": "SCIR_ECIR_SREC",
+                "symbolStyle": {
+                  "bold": true,
+                  "sz": 12
+                },
+                "listStyle": {
+                  "format": "bullet",
+                  "text": "●",
+                  "align": "left"
+                },
+                "extraData": {},
+                "isChecked": false,
+                "hideSymbol": false
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "💰无界智慧券加码补贴"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mpcepsa97m57icsff0d",
+              "ind": {
+                "left": 0
+              },
+              "list": {
+                "listId": "90dwwrnzklm",
+                "level": 1,
+                "isTaskList": false,
+                "isOrdered": false,
+                "listStyleType": "SCIR_ECIR_SREC",
+                "symbolStyle": {},
+                "listStyle": {
+                  "format": "bullet",
+                  "text": "○",
+                  "align": "left"
+                },
+                "extraData": {},
+                "isChecked": false,
+                "hideSymbol": false
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "补贴说明：「增长引擎」计划保持推广、并提高预算在系统建议值以上，计划投放的商品可获得更多平台出资的补贴券、提高商品下单率、推广效果。"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mpcesl2d8ee0n1cm2tk",
+              "ind": {
+                "left": 0
+              },
+              "list": {
+                "listId": "90dwwrnzklm",
+                "level": 0,
+                "isTaskList": false,
+                "isOrdered": false,
+                "listStyleType": "SCIR_ECIR_SREC",
+                "symbolStyle": {
+                  "bold": true,
+                  "sz": 12
+                },
+                "listStyle": {
+                  "format": "bullet",
+                  "text": "●",
+                  "align": "left"
+                },
+                "extraData": {},
+                "isChecked": false,
+                "hideSymbol": false
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "💰增长引擎计划推广券"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mpcestgaaijwq1hr5nd",
+              "ind": {
+                "left": 0
+              },
+              "list": {
+                "listId": "90dwwrnzklm",
+                "level": 1,
+                "isTaskList": false,
+                "isOrdered": false,
+                "listStyleType": "SCIR_ECIR_SREC",
+                "symbolStyle": {},
+                "listStyle": {
+                  "format": "bullet",
+                  "text": "○",
+                  "align": "left"
+                },
+                "extraData": {},
+                "isChecked": false,
+                "hideSymbol": false
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "补贴说明：受邀约的商家，创建增长引擎计划、增长引擎计划消耗达标，即可获得推广券、抵扣增长引擎计划推广费。具体活动请见产品后台提示。"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mpcevr9vp1gl6jlk1jl",
+              "ind": {
+                "left": 0
+              },
+              "list": {
+                "listId": "90dwwrnzklm",
+                "level": 0,
+                "isTaskList": false,
+                "isOrdered": false,
+                "listStyleType": "SCIR_ECIR_SREC",
+                "symbolStyle": {
+                  "bold": true,
+                  "sz": 12
+                },
+                "listStyle": {
+                  "format": "bullet",
+                  "text": "●",
+                  "align": "left"
+                },
+                "extraData": {},
+                "isChecked": false,
+                "hideSymbol": false
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "💰高级权益激励"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mpcevz9xh5ouo8mhzfw",
+              "ind": {
+                "left": 0
+              },
+              "list": {
+                "listId": "90dwwrnzklm",
+                "level": 1,
+                "isTaskList": false,
+                "isOrdered": false,
+                "listStyleType": "SCIR_ECIR_SREC",
+                "symbolStyle": {},
+                "listStyle": {
+                  "format": "bullet",
+                  "text": "○",
+                  "align": "left"
+                },
+                "extraData": {},
+                "isChecked": false,
+                "hideSymbol": false
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "补贴说明：受邀约的商家，增长引擎计划消耗达标，即可获得高级权益，包括关键词计划数提升、屏蔽词数量提升、定制版流量金卡等权益，具体请见产品后台提示。"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mpcbfrh076yv9jn4xy8"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "h2",
+            {
+              "uuid": "mpcbghqmgk81dj2yxmm",
+              "ind": {
+                "left": 0
+              },
+              "spacing": {
+                "before": 28,
+                "after": 10,
+                "line": 0.9333333333333332
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 3.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 3.0\"",
+                    "cs": "\"Alibaba PuHuiTi 3.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 3.0\""
+                  },
+                  "sz": 18,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "操作说明"
+              ]
+            ]
+          ],
+          [
+            "table",
+            {
+              "colsWidth": [
+                371,
+                559
+              ],
+              "tblW": {
+                "w": 100,
+                "type": "pct"
+              },
+              "uuid": "mh3b5b4odu5ten2u6vq",
+              "styleId": "tableHeader",
+              "tblLook": {
+                "firstRow": 1,
+                "firstColumn": 0,
+                "lastRow": 0,
+                "lastColumn": 0
+              }
+            },
+            [
+              "tr",
+              {
+                "uuid": "mh3b5b4nomlgeqf1fxf",
+                "isTblHeader": true,
+                "h": 46
+              },
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mh3b5b4navm5eg2i8rn",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mh3b5b4nf79u80p1dk",
+                    "jc": "center"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "fonts": {
+                          "ascii": "\"Alibaba PuHuiTi 3.0\"",
+                          "hAnsi": "\"Alibaba PuHuiTi 3.0\"",
+                          "cs": "\"Alibaba PuHuiTi 3.0\"",
+                          "eastAsia": "\"Alibaba PuHuiTi 3.0\""
+                        },
+                        "sz": 13,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      "操作步骤"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mh3b5b4nu42ulkrgqxi",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mh3b5b4n9ebblntj1ea",
+                    "jc": "center"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "fonts": {
+                          "ascii": "\"Alibaba PuHuiTi 3.0\"",
+                          "hAnsi": "\"Alibaba PuHuiTi 3.0\"",
+                          "cs": "\"Alibaba PuHuiTi 3.0\"",
+                          "eastAsia": "\"Alibaba PuHuiTi 3.0\""
+                        },
+                        "sz": 13,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      "指引图"
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {
+                "uuid": "mh3b5b4ob3fc9e1pqrt",
+                "h": 271
+              },
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mh3b5b4o0wty8xdhdj0h",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mh3b5b4ow0vnptt7on"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "fonts": {
+                          "ascii": "\"Alibaba PuHuiTi 3.0\"",
+                          "hAnsi": "\"Alibaba PuHuiTi 3.0\"",
+                          "cs": "\"Alibaba PuHuiTi 3.0\"",
+                          "eastAsia": "\"Alibaba PuHuiTi 3.0\""
+                        },
+                        "sz": 12,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      "1、在关键词推广 - 自定义推广下， "
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "uuid": "mh3b5b4oog358t3quk"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "fonts": {
+                          "ascii": "\"Alibaba PuHuiTi 3.0\"",
+                          "hAnsi": "\"Alibaba PuHuiTi 3.0\"",
+                          "cs": "\"Alibaba PuHuiTi 3.0\"",
+                          "eastAsia": "\"Alibaba PuHuiTi 3.0\""
+                        },
+                        "sz": 12,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      "      选择 好货快投-行业专享 "
+                    ]
+                  ],
+                  [
+                    "a",
+                    {
+                      "href": "https://one.alimama.com/index.html#!/main/index?bizCode=onebpSearch&defaultSettingStrategyId=itemSelectedModeShop_growth_engine&defaultSettingStrategyType=onebpSearchMain&promotionScene=promotion_scene_search_user_define",
+                      "uuid": "mh3b5b4opevjhsnrwk"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "bold": true,
+                          "fonts": {
+                            "ascii": "\"Alibaba PuHuiTi 3.0\"",
+                            "hAnsi": "\"Alibaba PuHuiTi 3.0\"",
+                            "cs": "\"Alibaba PuHuiTi 3.0\"",
+                            "eastAsia": "\"Alibaba PuHuiTi 3.0\""
+                          },
+                          "sz": 12,
+                          "szUnit": "pt",
+                          "data-type": "leaf"
+                        },
+                        ">>点击直达"
+                      ]
+                    ]
+                  ],
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "fonts": {
+                          "ascii": "\"Alibaba PuHuiTi 3.0\"",
+                          "hAnsi": "\"Alibaba PuHuiTi 3.0\"",
+                          "cs": "\"Alibaba PuHuiTi 3.0\"",
+                          "eastAsia": "\"Alibaba PuHuiTi 3.0\""
+                        },
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "uuid": "mh3b5b4ow24c7fneac8"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "fonts": {
+                          "ascii": "\"Alibaba PuHuiTi 3.0\"",
+                          "hAnsi": "\"Alibaba PuHuiTi 3.0\"",
+                          "cs": "\"Alibaba PuHuiTi 3.0\"",
+                          "eastAsia": "\"Alibaba PuHuiTi 3.0\""
+                        },
+                        "sz": 12,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mh3b5b4o4ziv9mbvkej",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mh3b5b4oeik1jdguf16"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "fonts": {
+                          "ascii": "\"Alibaba PuHuiTi 3.0\"",
+                          "hAnsi": "\"Alibaba PuHuiTi 3.0\"",
+                          "cs": "\"Alibaba PuHuiTi 3.0\"",
+                          "eastAsia": "\"Alibaba PuHuiTi 3.0\""
+                        },
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ],
+                  [
+                    "img",
+                    {
+                      "uuid": "waawlz",
+                      "name": "image.png",
+                      "size": 1698815,
+                      "width": 481,
+                      "height": 249,
+                      "src": "/core/api/resources/img/5eecdaf48460cde537024e4aa570f27876f3339e33e5ad9375b8339e1c4c24831b75b38faadcd24bec177c308ebd5304466efbf3c41df205bf0dab7befa34c007f82099b000c0008614174b08ef115960bcb15de3b12745e4fb4c8ed7016461c",
+                      "extraData": {
+                        "resourceId": "40485570-3533-4048-b94e-976dc3bad9fc",
+                        "metaData": {
+                          "size": 1698815,
+                          "originWidth": 2251,
+                          "originHeight": 1164,
+                          "format": "png",
+                          "ratio": 1
+                        }
+                      },
+                      "rotation": 0
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "leaf"
+                        },
+                        ""
+                      ]
+                    ]
+                  ],
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "fonts": {
+                          "ascii": "\"Alibaba PuHuiTi 3.0\"",
+                          "hAnsi": "\"Alibaba PuHuiTi 3.0\"",
+                          "cs": "\"Alibaba PuHuiTi 3.0\"",
+                          "eastAsia": "\"Alibaba PuHuiTi 3.0\""
+                        },
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {
+                "uuid": "mh3b5b4ok75vmqh94tk",
+                "h": 329
+              },
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mh3b5b4olj7m6asggpe",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mh3b5b4obq8pnhfh3t7"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "fonts": {
+                          "ascii": "\"Alibaba PuHuiTi 3.0\"",
+                          "hAnsi": "\"Alibaba PuHuiTi 3.0\"",
+                          "cs": "\"Alibaba PuHuiTi 3.0\"",
+                          "eastAsia": "\"Alibaba PuHuiTi 3.0\""
+                        },
+                        "sz": 12,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      "2、选品方向选择「行业-增长引擎」"
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "uuid": "mh3b5b4obkgp7wdjizq",
+                    "ind": {
+                      "left": 0
+                    },
+                    "list": {
+                      "listId": "i6rjadd4fv",
+                      "level": 0,
+                      "isTaskList": false,
+                      "isOrdered": false,
+                      "listStyleType": "SCIR_ECIR_SREC",
+                      "symbolStyle": {
+                        "bold": true
+                      },
+                      "listStyle": {
+                        "format": "bullet",
+                        "text": "●",
+                        "align": "left"
+                      }
+                    }
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "fonts": {
+                          "ascii": "\"Alibaba PuHuiTi 3.0\"",
+                          "hAnsi": "\"Alibaba PuHuiTi 3.0\"",
+                          "cs": "\"Alibaba PuHuiTi 3.0\"",
+                          "eastAsia": "\"Alibaba PuHuiTi 3.0\""
+                        },
+                        "data-type": "leaf"
+                      },
+                      "选品规则："
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "uuid": "mpcddbftsh1jjxlrl3",
+                    "ind": {
+                      "left": 0
+                    },
+                    "list": {
+                      "listId": "i6rjadd4fv",
+                      "level": 1,
+                      "isTaskList": false,
+                      "isOrdered": false,
+                      "listStyleType": "SCIR_ECIR_SREC",
+                      "symbolStyle": {
+                        "bold": true
+                      },
+                      "listStyle": {
+                        "format": "bullet",
+                        "text": "○",
+                        "align": "left"
+                      },
+                      "extraData": {},
+                      "isChecked": false,
+                      "hideSymbol": false
+                    }
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "fonts": {
+                          "ascii": "\"Alibaba PuHuiTi 3.0\"",
+                          "hAnsi": "\"Alibaba PuHuiTi 3.0\"",
+                          "cs": "\"Alibaba PuHuiTi 3.0\"",
+                          "eastAsia": "\"Alibaba PuHuiTi 3.0\""
+                        },
+                        "data-type": "leaf"
+                      },
+                      "在"
+                    ],
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "fonts": {
+                          "ascii": "\"Alibaba PuHuiTi 3.0\"",
+                          "cs": "\"Alibaba PuHuiTi 3.0\"",
+                          "eastAsia": "\"Alibaba PuHuiTi 3.0\"",
+                          "hAnsi": "\"Alibaba PuHuiTi 3.0\""
+                        },
+                        "data-type": "leaf"
+                      },
+                      "全店范围内"
+                    ],
+                    [
+                      "span",
+                      {
+                        "fonts": {
+                          "ascii": "\"Alibaba PuHuiTi 3.0\"",
+                          "hAnsi": "\"Alibaba PuHuiTi 3.0\"",
+                          "cs": "\"Alibaba PuHuiTi 3.0\"",
+                          "eastAsia": "\"Alibaba PuHuiTi 3.0\""
+                        },
+                        "data-type": "leaf"
+                      },
+                      "优选有成交货品，包括："
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "uuid": "mpcdcydtb88xnjdow76",
+                    "ind": {
+                      "left": 0
+                    },
+                    "list": {
+                      "listId": "i6rjadd4fv",
+                      "level": 1,
+                      "isTaskList": false,
+                      "isOrdered": false,
+                      "listStyleType": "SCIR_ECIR_SREC",
+                      "symbolStyle": {},
+                      "listStyle": {
+                        "format": "bullet",
+                        "text": "○",
+                        "align": "left"
+                      },
+                      "extraData": {},
+                      "isChecked": false,
+                      "hideSymbol": false
+                    }
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "fonts": {
+                          "ascii": "\"Alibaba PuHuiTi 3.0\"",
+                          "hAnsi": "\"Alibaba PuHuiTi 3.0\"",
+                          "cs": "\"Alibaba PuHuiTi 3.0\"",
+                          "eastAsia": "\"Alibaba PuHuiTi 3.0\""
+                        },
+                        "data-type": "leaf"
+                      },
+                      "预估投放后效果较好的高推广价值货品"
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "uuid": "mh8kfv1kx0v450g9fy",
+                    "ind": {
+                      "left": 0
+                    },
+                    "list": {
+                      "listId": "i6rjadd4fv",
+                      "level": 1,
+                      "isTaskList": false,
+                      "isOrdered": false,
+                      "listStyleType": "SCIR_ECIR_SREC",
+                      "symbolStyle": {},
+                      "listStyle": {
+                        "format": "bullet",
+                        "text": "○",
+                        "align": "left"
+                      },
+                      "extraData": {},
+                      "isChecked": false,
+                      "hideSymbol": false
+                    }
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "fonts": {
+                          "ascii": "\"Alibaba PuHuiTi 3.0\"",
+                          "hAnsi": "\"Alibaba PuHuiTi 3.0\"",
+                          "cs": "\"Alibaba PuHuiTi 3.0\"",
+                          "eastAsia": "\"Alibaba PuHuiTi 3.0\""
+                        },
+                        "data-type": "leaf"
+                      },
+                      "能协同提高店内主推品成交的助攻货品"
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "uuid": "mh3b5b4ox1l38hewjwg",
+                    "ind": {
+                      "left": 0
+                    },
+                    "list": {
+                      "listId": "i6rjadd4fv",
+                      "level": 0,
+                      "isTaskList": false,
+                      "isOrdered": false,
+                      "listStyleType": "SCIR_ECIR_SREC",
+                      "symbolStyle": {
+                        "bold": true
+                      },
+                      "listStyle": {
+                        "format": "bullet",
+                        "text": "●",
+                        "align": "left"
+                      },
+                      "extraData": {},
+                      "isChecked": false,
+                      "hideSymbol": false
+                    }
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "fonts": {
+                          "ascii": "\"Alibaba PuHuiTi 3.0\"",
+                          "hAnsi": "\"Alibaba PuHuiTi 3.0\"",
+                          "cs": "\"Alibaba PuHuiTi 3.0\"",
+                          "eastAsia": "\"Alibaba PuHuiTi 3.0\""
+                        },
+                        "data-type": "leaf"
+                      },
+                      "买词规则："
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "uuid": "mh8khgf31ftn4nxxp3",
+                    "ind": {
+                      "left": 0
+                    },
+                    "list": {
+                      "listId": "i6rjadd4fv",
+                      "level": 1,
+                      "isTaskList": false,
+                      "isOrdered": false,
+                      "listStyleType": "SCIR_ECIR_SREC",
+                      "symbolStyle": {},
+                      "listStyle": {
+                        "format": "bullet",
+                        "text": "○",
+                        "align": "left"
+                      },
+                      "extraData": {},
+                      "isChecked": false,
+                      "hideSymbol": false
+                    }
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "fonts": {
+                          "ascii": "\"Alibaba PuHuiTi 3.0\"",
+                          "hAnsi": "\"Alibaba PuHuiTi 3.0\"",
+                          "cs": "\"Alibaba PuHuiTi 3.0\"",
+                          "eastAsia": "\"Alibaba PuHuiTi 3.0\""
+                        },
+                        "data-type": "leaf"
+                      },
+                      "优先探索以下增量词流量："
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "uuid": "mpcdi3gdkgudewsbvvp",
+                    "ind": {
+                      "left": 0
+                    },
+                    "list": {
+                      "listId": "i6rjadd4fv",
+                      "level": 1,
+                      "isTaskList": false,
+                      "isOrdered": false,
+                      "listStyleType": "SCIR_ECIR_SREC",
+                      "symbolStyle": {},
+                      "listStyle": {
+                        "format": "bullet",
+                        "text": "○",
+                        "align": "left"
+                      },
+                      "extraData": {},
+                      "isChecked": false,
+                      "hideSymbol": false
+                    }
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "fonts": {
+                          "ascii": "\"Alibaba PuHuiTi 3.0\"",
+                          "hAnsi": "\"Alibaba PuHuiTi 3.0\"",
+                          "cs": "\"Alibaba PuHuiTi 3.0\"",
+                          "eastAsia": "\"Alibaba PuHuiTi 3.0\""
+                        },
+                        "data-type": "leaf"
+                      },
+                      "低成本蓝海词"
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "uuid": "mpcdfxvvu1q3idbjdsr",
+                    "ind": {
+                      "left": 0
+                    },
+                    "list": {
+                      "listId": "i6rjadd4fv",
+                      "level": 1,
+                      "isTaskList": false,
+                      "isOrdered": false,
+                      "listStyleType": "SCIR_ECIR_SREC",
+                      "symbolStyle": {},
+                      "listStyle": {
+                        "format": "bullet",
+                        "text": "○",
+                        "align": "left"
+                      },
+                      "extraData": {},
+                      "isChecked": false,
+                      "hideSymbol": false
+                    }
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "fonts": {
+                          "ascii": "\"Alibaba PuHuiTi 3.0\"",
+                          "hAnsi": "\"Alibaba PuHuiTi 3.0\"",
+                          "cs": "\"Alibaba PuHuiTi 3.0\"",
+                          "eastAsia": "\"Alibaba PuHuiTi 3.0\""
+                        },
+                        "data-type": "leaf"
+                      },
+                      "高成交热点词"
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "uuid": "mpcdghumfe8s79j85sd",
+                    "ind": {
+                      "left": 0
+                    },
+                    "list": {
+                      "listId": "i6rjadd4fv",
+                      "level": 0,
+                      "isTaskList": false,
+                      "isOrdered": false,
+                      "listStyleType": "SCIR_ECIR_SREC",
+                      "symbolStyle": {
+                        "bold": true
+                      },
+                      "listStyle": {
+                        "format": "bullet",
+                        "text": "●",
+                        "align": "left"
+                      },
+                      "extraData": {},
+                      "isChecked": false,
+                      "hideSymbol": false
+                    }
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "fonts": {
+                          "ascii": "\"Alibaba PuHuiTi 3.0\"",
+                          "cs": "\"Alibaba PuHuiTi 3.0\"",
+                          "eastAsia": "\"Alibaba PuHuiTi 3.0\"",
+                          "hAnsi": "\"Alibaba PuHuiTi 3.0\""
+                        },
+                        "data-type": "leaf"
+                      },
+                      "人群规则："
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "uuid": "mpcdgon4k0zzh34ag1",
+                    "ind": {
+                      "left": 0
+                    },
+                    "list": {
+                      "listId": "i6rjadd4fv",
+                      "level": 1,
+                      "isTaskList": false,
+                      "isOrdered": false,
+                      "listStyleType": "SCIR_ECIR_SREC",
+                      "symbolStyle": {},
+                      "listStyle": {
+                        "format": "bullet",
+                        "text": "○",
+                        "align": "left"
+                      },
+                      "extraData": {},
+                      "isChecked": false,
+                      "hideSymbol": false
+                    }
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "fonts": {
+                          "ascii": "\"Alibaba PuHuiTi 3.0\"",
+                          "hAnsi": "\"Alibaba PuHuiTi 3.0\"",
+                          "cs": "\"Alibaba PuHuiTi 3.0\"",
+                          "eastAsia": "\"Alibaba PuHuiTi 3.0\""
+                        },
+                        "data-type": "leaf"
+                      },
+                      "可设置新客等优质人群优先投放"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mh3b5b4oyt1fperu7zq",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mh3b5b4oxbs2h5dg13n"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "fonts": {
+                          "ascii": "\"Alibaba PuHuiTi 3.0\"",
+                          "hAnsi": "\"Alibaba PuHuiTi 3.0\"",
+                          "cs": "\"Alibaba PuHuiTi 3.0\"",
+                          "eastAsia": "\"Alibaba PuHuiTi 3.0\""
+                        },
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ],
+                  [
+                    "img",
+                    {
+                      "uuid": "mr1uou8c1bcectdkpuu",
+                      "name": "image.png",
+                      "size": 1190534,
+                      "width": 481,
+                      "height": 247,
+                      "src": "/core/api/resources/img/5eecdaf48460cde537024e4aa570f27876f3339e33e5ad9375b8339e1c4c24831b75b38faadcd24bec177c308ebd5304206477e05898fc470116f5837300f3258f871a4a813fd39d2141db54c2c995f82db21cd43f430fc84fb4c8ed7016461c",
+                      "extraData": {
+                        "resourceId": "45e8ee50-2f29-40a5-a2ac-93612f70f01f",
+                        "metaData": {
+                          "size": 1190534,
+                          "originWidth": 1898,
+                          "originHeight": 1228,
+                          "format": "png",
+                          "ratio": 1
+                        }
+                      },
+                      "rectClip": {
+                        "left": 0,
+                        "right": 0,
+                        "top": 45.10448,
+                        "bottom": 19.45686
+                      },
+                      "rotation": 0
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "leaf"
+                        },
+                        ""
+                      ]
+                    ]
+                  ],
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "fonts": {
+                          "ascii": "\"Alibaba PuHuiTi 3.0\"",
+                          "hAnsi": "\"Alibaba PuHuiTi 3.0\"",
+                          "cs": "\"Alibaba PuHuiTi 3.0\"",
+                          "eastAsia": "\"Alibaba PuHuiTi 3.0\""
+                        },
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "uuid": "mpcdhwliyys8vlm6vap"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "fonts": {
+                          "ascii": "\"Alibaba PuHuiTi 3.0\"",
+                          "hAnsi": "\"Alibaba PuHuiTi 3.0\"",
+                          "cs": "\"Alibaba PuHuiTi 3.0\"",
+                          "eastAsia": "\"Alibaba PuHuiTi 3.0\""
+                        },
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ],
+                  [
+                    "img",
+                    {
+                      "uuid": "zf23lc",
+                      "name": "image.png",
+                      "size": 441984,
+                      "width": 472,
+                      "height": 152,
+                      "src": "/core/api/resources/img/5eecdaf48460cde537024e4aa570f27876f3339e33e5ad9375b8339e1c4c24831b75b38faadcd24bec177c308ebd5304c73af8cea363946c04f1b6e7f1122e5d95abf5d75a1595b56699ef099ba7d7703a030d7ab8c2b9c24fb4c8ed7016461c",
+                      "extraData": {
+                        "resourceId": "fde7c812-9da8-4a25-8073-a2c30deb28d0",
+                        "metaData": {
+                          "size": 441984,
+                          "originWidth": 1718,
+                          "originHeight": 554,
+                          "format": "png",
+                          "ratio": 1
+                        }
+                      },
+                      "rotation": 0
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "leaf"
+                        },
+                        ""
+                      ]
+                    ]
+                  ],
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "fonts": {
+                          "ascii": "\"Alibaba PuHuiTi 3.0\"",
+                          "hAnsi": "\"Alibaba PuHuiTi 3.0\"",
+                          "cs": "\"Alibaba PuHuiTi 3.0\"",
+                          "eastAsia": "\"Alibaba PuHuiTi 3.0\""
+                        },
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {
+                "uuid": "mh3b5b4oyfg8j2ah7h",
+                "h": 123
+              },
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mh3b5b4ohuzf0ndqpvj",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mh3b5b4oavfwmfxpz6e"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "fonts": {
+                          "ascii": "\"Alibaba PuHuiTi 3.0\"",
+                          "hAnsi": "\"Alibaba PuHuiTi 3.0\"",
+                          "cs": "\"Alibaba PuHuiTi 3.0\"",
+                          "eastAsia": "\"Alibaba PuHuiTi 3.0\""
+                        },
+                        "sz": 12,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      "3、设置出价、预算"
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "uuid": "mpcd94husqxfpde6p1"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "fonts": {
+                          "ascii": "\"Alibaba PuHuiTi 3.0\"",
+                          "hAnsi": "\"Alibaba PuHuiTi 3.0\"",
+                          "cs": "\"Alibaba PuHuiTi 3.0\"",
+                          "eastAsia": "\"Alibaba PuHuiTi 3.0\""
+                        },
+                        "sz": 12,
+                        "szUnit": "pt",
+                        "color": "",
+                        "data-type": "leaf"
+                      },
+                      "建议默认推荐使用「"
+                    ],
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "fonts": {
+                          "ascii": "\"Alibaba PuHuiTi 3.0\"",
+                          "hAnsi": "\"Alibaba PuHuiTi 3.0\"",
+                          "cs": "\"Alibaba PuHuiTi 3.0\"",
+                          "eastAsia": "\"Alibaba PuHuiTi 3.0\""
+                        },
+                        "sz": 12,
+                        "szUnit": "pt",
+                        "color": "",
+                        "data-type": "leaf"
+                      },
+                      "最大化获取成交"
+                    ],
+                    [
+                      "span",
+                      {
+                        "fonts": {
+                          "ascii": "\"Alibaba PuHuiTi 3.0\"",
+                          "hAnsi": "\"Alibaba PuHuiTi 3.0\"",
+                          "cs": "\"Alibaba PuHuiTi 3.0\"",
+                          "eastAsia": "\"Alibaba PuHuiTi 3.0\""
+                        },
+                        "sz": 12,
+                        "szUnit": "pt",
+                        "color": "",
+                        "data-type": "leaf"
+                      },
+                      "」出价方式"
+                    ],
+                    [
+                      "span",
+                      {
+                        "fonts": {
+                          "ascii": "\"Alibaba PuHuiTi 3.0\"",
+                          "hAnsi": "\"Alibaba PuHuiTi 3.0\"",
+                          "cs": "\"Alibaba PuHuiTi 3.0\"",
+                          "eastAsia": "\"Alibaba PuHuiTi 3.0\""
+                        },
+                        "sz": 12,
+                        "szUnit": "pt",
+                        "color": "#BB2626",
+                        "data-type": "leaf"
+                      },
+                      "，投放效果更好"
+                    ],
+                    [
+                      "span",
+                      {
+                        "fonts": {
+                          "ascii": "\"Alibaba PuHuiTi 3.0\"",
+                          "hAnsi": "\"Alibaba PuHuiTi 3.0\"",
+                          "cs": "\"Alibaba PuHuiTi 3.0\"",
+                          "eastAsia": "\"Alibaba PuHuiTi 3.0\""
+                        },
+                        "sz": 12,
+                        "szUnit": "pt",
+                        "color": "",
+                        "data-type": "leaf"
+                      },
+                      "；如果需要可设置点击成本；"
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "uuid": "mpcda6opmyn6s05qegd"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "计划每日预算建议200元以上；"
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "uuid": "mpcdat46t099t66efie"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "fonts": {
+                          "ascii": "\"Alibaba PuHuiTi 3.0\"",
+                          "hAnsi": "\"Alibaba PuHuiTi 3.0\"",
+                          "cs": "\"Alibaba PuHuiTi 3.0\"",
+                          "eastAsia": "\"Alibaba PuHuiTi 3.0\""
+                        },
+                        "sz": 12,
+                        "szUnit": "pt",
+                        "color": "",
+                        "data-type": "leaf"
+                      },
+                      "同时建议开启「"
+                    ],
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "fonts": {
+                          "ascii": "\"Alibaba PuHuiTi 3.0\"",
+                          "hAnsi": "\"Alibaba PuHuiTi 3.0\"",
+                          "cs": "\"Alibaba PuHuiTi 3.0\"",
+                          "eastAsia": "\"Alibaba PuHuiTi 3.0\""
+                        },
+                        "sz": 12,
+                        "szUnit": "pt",
+                        "color": "",
+                        "data-type": "leaf"
+                      },
+                      "优质计划防停投"
+                    ],
+                    [
+                      "span",
+                      {
+                        "fonts": {
+                          "ascii": "\"Alibaba PuHuiTi 3.0\"",
+                          "hAnsi": "\"Alibaba PuHuiTi 3.0\"",
+                          "cs": "\"Alibaba PuHuiTi 3.0\"",
+                          "eastAsia": "\"Alibaba PuHuiTi 3.0\""
+                        },
+                        "sz": 12,
+                        "szUnit": "pt",
+                        "color": "",
+                        "data-type": "leaf"
+                      },
+                      "」，充分发挥计划潜力"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mh3b5b4ooucyencdqza",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mh3b5b4opkl4w53n0xh"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "fonts": {
+                          "ascii": "\"Alibaba PuHuiTi 3.0\"",
+                          "hAnsi": "\"Alibaba PuHuiTi 3.0\"",
+                          "cs": "\"Alibaba PuHuiTi 3.0\"",
+                          "eastAsia": "\"Alibaba PuHuiTi 3.0\""
+                        },
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ],
+                  [
+                    "img",
+                    {
+                      "uuid": "mpcasbmq27zt624wvzs",
+                      "name": "image.png",
+                      "size": 354789,
+                      "width": 472,
+                      "height": 98,
+                      "src": "/core/api/resources/img/5eecdaf48460cde5d3e30935ec74394746d76a39f3820e8675b8339e1c4c24831b75b38faadcd24bec177c308ebd5304f2417be02071ab81673ace5b08a7ec29e4a16f3229e3b32b3bb3014130ce97f1e07a535fec9928ed4fb4c8ed7016461c",
+                      "extraData": {
+                        "resourceId": "692c8fd5-0d88-4c48-8c49-9d520db5c41b",
+                        "metaData": {
+                          "size": 354789,
+                          "originWidth": 2382,
+                          "originHeight": 394,
+                          "format": "png",
+                          "ratio": 1
+                        }
+                      },
+                      "rectClip": {
+                        "left": 0,
+                        "right": 120.18516,
+                        "top": 0,
+                        "bottom": 0
+                      },
+                      "rotation": 0
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "fonts": {
+                            "ascii": "\"Alibaba PuHuiTi 3.0\"",
+                            "hAnsi": "\"Alibaba PuHuiTi 3.0\"",
+                            "cs": "\"Alibaba PuHuiTi 3.0\"",
+                            "eastAsia": "\"Alibaba PuHuiTi 3.0\""
+                          },
+                          "data-type": "leaf"
+                        },
+                        ""
+                      ]
+                    ]
+                  ],
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "fonts": {
+                          "ascii": "\"Alibaba PuHuiTi 3.0\"",
+                          "hAnsi": "\"Alibaba PuHuiTi 3.0\"",
+                          "cs": "\"Alibaba PuHuiTi 3.0\"",
+                          "eastAsia": "\"Alibaba PuHuiTi 3.0\""
+                        },
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ]
+                ]
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mpcasnk7oulmfizre58"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mpcasokqj2xhid8lvdm"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mpce2mi0x00w1g3l9s"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "h2",
+            {
+              "uuid": "mh30rqpergflic8f96s"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 3.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 3.0\"",
+                    "cs": "\"Alibaba PuHuiTi 3.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 3.0\""
+                  },
+                  "data-type": "leaf"
+                },
+                "常见问题："
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "list": {
+                "isChecked": false,
+                "isOrdered": true,
+                "isTaskList": false,
+                "level": 0,
+                "listId": "3xoum844lhf",
+                "listStyle": {
+                  "align": "left",
+                  "format": "decimal",
+                  "text": "%1."
+                },
+                "symbolStyle": {
+                  "fonts": "\"Alibaba PuHuiTi 3.0\""
+                }
+              },
+              "uuid": "mh30rqpe9hiljctiq8f"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 3.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 3.0\"",
+                    "cs": "\"Alibaba PuHuiTi 3.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 3.0\""
+                  },
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "#000000",
+                  "data-type": "leaf"
+                },
+                "为什么我的好货快投卡片下有的选品方向是灰色的、不可选择？"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "jc": "left",
+              "ind": {
+                "firstLine": 32
+              },
+              "uuid": "mhbggt2ycu37ls02xde"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 3.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 3.0\"",
+                    "cs": "\"Alibaba PuHuiTi 3.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 3.0\""
+                  },
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "#000000",
+                  "data-type": "leaf"
+                },
+                "目前智能选品仅支持在"
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 3.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 3.0\"",
+                    "cs": "\"Alibaba PuHuiTi 3.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 3.0\""
+                  },
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "#000000",
+                  "data-type": "leaf"
+                },
+                "每个选品方向上建立一个计划"
+              ],
+              [
+                "span",
+                {
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 3.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 3.0\"",
+                    "cs": "\"Alibaba PuHuiTi 3.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 3.0\""
+                  },
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "#000000",
+                  "data-type": "leaf"
+                },
+                "，如果您在某一选品方向上已经建立有一个计划，则无法再选择该选品方向进行新建计划，相同地，如果您在本次升级之前就有了老版本的「目标人群触达」计划，那么您也暂时无法新建新的「人群触达」计划；"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "list": {
+                "isChecked": false,
+                "isOrdered": true,
+                "isTaskList": false,
+                "level": 0,
+                "listId": "t1hfewiw3",
+                "listStyle": {
+                  "align": "left",
+                  "format": "decimal",
+                  "text": "%1."
+                },
+                "start": 2,
+                "symbolStyle": {
+                  "fonts": "\"Alibaba PuHuiTi 3.0\""
+                }
+              },
+              "uuid": "mh30rqpe44c8r792yz4"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 3.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 3.0\"",
+                    "cs": "\"Alibaba PuHuiTi 3.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 3.0\""
+                  },
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "#000000",
+                  "data-type": "leaf"
+                },
+                "为什么我的好货快投计划每天推广的品会不一样？"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "jc": "left",
+              "ind": {
+                "firstLine": 32
+              },
+              "uuid": "mhbggt2zbcan514tbr9"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 3.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 3.0\"",
+                    "cs": "\"Alibaba PuHuiTi 3.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 3.0\""
+                  },
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "#000000",
+                  "data-type": "leaf"
+                },
+                "智能选品计划会根据您设置的选品方向和计划中在投商品的具体表现来"
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 3.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 3.0\"",
+                    "cs": "\"Alibaba PuHuiTi 3.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 3.0\""
+                  },
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "#000000",
+                  "data-type": "leaf"
+                },
+                "灵活汰换每日的在投货品"
+              ],
+              [
+                "span",
+                {
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 3.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 3.0\"",
+                    "cs": "\"Alibaba PuHuiTi 3.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 3.0\""
+                  },
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "#000000",
+                  "data-type": "leaf"
+                },
+                "，每天最多从在投商品中选择1个效果相对较差的与未在计划内的品进行汰换，全面、动态地探索店铺内的货品机会（如店铺内有您不希望投放的货品，可以通过屏蔽宝贝来避免货品上车）；"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "jc": "left",
+              "ind": {
+                "firstLine": 32
+              },
+              "uuid": "mhbggt2zws1hodvaqg"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 3.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 3.0\"",
+                    "cs": "\"Alibaba PuHuiTi 3.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 3.0\""
+                  },
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "#000000",
+                  "data-type": "leaf"
+                },
+                "若计划中在投的系统选品单元小于50个，系统会优先添加货品到计划中，直到添加至50个的上限后才会开始淘汰在投货品；"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "list": {
+                "isChecked": false,
+                "isOrdered": true,
+                "isTaskList": false,
+                "level": 0,
+                "listId": "n44a3wl4h2q",
+                "listStyle": {
+                  "align": "left",
+                  "format": "decimal",
+                  "text": "%1."
+                },
+                "start": 3,
+                "symbolStyle": {
+                  "fonts": "\"Alibaba PuHuiTi 3.0\""
+                }
+              },
+              "uuid": "mh30rqpfxiputyfczx"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 3.0\"",
+                    "cs": "\"Alibaba PuHuiTi 3.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 3.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 3.0\""
+                  },
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "#000000",
+                  "data-type": "leaf"
+                },
+                "为什么新建好货快投计划的时候，不可以切换出价方式？"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mh49ley9728z09g23fn",
+              "ind": {
+                "firstLine": 32
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 3.0\"",
+                    "cs": "\"Alibaba PuHuiTi 3.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 3.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 3.0\""
+                  },
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "#000000",
+                  "data-type": "leaf"
+                },
+                "我们通过充分的数据分析和算法预估，为您推荐了在各个选品方向下预估效果最佳的出价方式，只为给您交付最好的推广产出，但如果您还是希望使用其他出价方式进行推广的话，您依旧可以在在投的关键词计划列表页内修改计划的出价方式；"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mpcdwvkju5ii3ugwz2k",
+              "ind": {
+                "left": 0
+              },
+              "list": {
+                "listId": "gb84vbooahu",
+                "level": 0,
+                "isTaskList": false,
+                "isOrdered": true,
+                "listStyleType": "DEC_LEN_LROM_P",
+                "listStyle": {
+                  "format": "decimal",
+                  "text": "%1.",
+                  "align": "left"
+                },
+                "symbolStyle": {
+                  "fonts": "\"Alibaba PuHuiTi 3.0\"",
+                  "sz": 12,
+                  "color": "#000000"
+                },
+                "start": 4
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 3.0\"",
+                    "cs": "\"Alibaba PuHuiTi 3.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 3.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 3.0\""
+                  },
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "#000000",
+                  "data-type": "leaf"
+                },
+                "能否修改增长引擎计划下的商品？"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mpcdzy4l0ajjqz89deh",
+              "ind": {
+                "firstLine": 32
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 3.0\"",
+                    "cs": "\"Alibaba PuHuiTi 3.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 3.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 3.0\""
+                  },
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "#000000",
+                  "data-type": "leaf"
+                },
+                "商家可以在创建计划后，进入计划详情页里"
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 3.0\"",
+                    "cs": "\"Alibaba PuHuiTi 3.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 3.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 3.0\""
+                  },
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "#000000",
+                  "data-type": "leaf"
+                },
+                "屏蔽"
+              ],
+              [
+                "span",
+                {
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 3.0\"",
+                    "cs": "\"Alibaba PuHuiTi 3.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 3.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 3.0\""
+                  },
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "#000000",
+                  "data-type": "leaf"
+                },
+                "不想投放的宝贝，最多屏蔽3个宝贝。"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mpcdz8f4ujz0kt5ji7",
+              "ind": {
+                "firstLine": 32
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 3.0\"",
+                    "cs": "\"Alibaba PuHuiTi 3.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 3.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 3.0\""
+                  },
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "#000000",
+                  "data-type": "leaf"
+                },
+                "目前不支持额外暂停、删除投放单元。"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "ind": {
+                "firstLine": 32
+              },
+              "uuid": "mpcdzw1dk2tr595srh"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 3.0\"",
+                    "cs": "\"Alibaba PuHuiTi 3.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 3.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 3.0\""
+                  },
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "#000000",
+                  "data-type": "leaf"
+                },
+                "如果商品库存不足、商品下架，对应的投放单元会自动暂停、停止推广/扣费，您不必担心。"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mpce00yuhskilmvt8ft",
+              "ind": {
+                "firstLine": 32
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 3.0\"",
+                    "cs": "\"Alibaba PuHuiTi 3.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 3.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 3.0\""
+                  },
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "#000000",
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ],
+            [
+              "img",
+              {
+                "uuid": "ygxmhg",
+                "name": "image.png",
+                "size": 329818,
+                "width": 240,
+                "height": 109.1473,
+                "src": "/core/api/resources/img/5eecdaf48460cde537024e4aa570f27876f3339e33e5ad9375b8339e1c4c24831b75b38faadcd24bec177c308ebd5304a3e23355a6bac4cea9a36c245e5aa79e53c9fdbd0605964ad2c9c4ecbdbd26f6a39427ad980a8eb94fb4c8ed7016461c",
+                "extraData": {
+                  "resourceId": "94aa8ef0-c3ca-4a5d-80fe-5f2bc8fc6e23",
+                  "metaData": {
+                    "size": 329818,
+                    "originWidth": 1270,
+                    "originHeight": 578,
+                    "format": "png",
+                    "ratio": 1
+                  }
+                },
+                "rotation": 0
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mpf4f7fq064xa6a3sy23",
+              "ind": {
+                "left": 0
+              },
+              "list": {
+                "listId": "gb84vbooahu",
+                "level": 0,
+                "isTaskList": false,
+                "isOrdered": true,
+                "listStyleType": "DEC_LEN_LROM_P",
+                "listStyle": {
+                  "format": "decimal",
+                  "text": "%1.",
+                  "align": "left"
+                },
+                "symbolStyle": {}
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 3.0\"",
+                    "cs": "\"Alibaba PuHuiTi 3.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 3.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 3.0\""
+                  },
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "#000000",
+                  "data-type": "leaf"
+                },
+                "如何添加指定希望投放的商品？"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mqz4v258h0ngu6jimui",
+              "ind": {
+                "firstLine": 32
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 3.0\"",
+                    "cs": "\"Alibaba PuHuiTi 3.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 3.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 3.0\""
+                  },
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "#000000",
+                  "data-type": "leaf"
+                },
+                "商家不屏蔽想要投放的商品，后续算法会根据宝贝的投放机会、流量情况、自动选择进入投放。"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mqz4ul5b50gxp416kpn",
+              "ind": {
+                "left": 0
+              },
+              "list": {
+                "listId": "gb84vbooahu",
+                "level": 0,
+                "isTaskList": false,
+                "isOrdered": true,
+                "listStyleType": "DEC_LEN_LROM_P",
+                "listStyle": {
+                  "format": "decimal",
+                  "text": "%1.",
+                  "align": "left"
+                },
+                "symbolStyle": {},
+                "extraData": {},
+                "isChecked": false,
+                "hideSymbol": false
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "更多问题，可添加钉钉群、进行沟通：“增长引擎产品内测交流群”群的钉钉群号： 181125010825"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mpkkxwnsuzbjyzgqdj",
+              "ind": {
+                "firstLine": 32,
+                "left": 64
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ],
+            [
+              "img",
+              {
+                "uuid": "t4dkob",
+                "name": "image.png",
+                "size": 408529,
+                "width": 366,
+                "height": 264,
+                "src": "/core/api/resources/img/5eecdaf48460cde537024e4aa570f27876f3339e33e5ad9375b8339e1c4c24831b75b38faadcd24bec177c308ebd5304957e86e4b068054bcb6ce640d19f86d0e018f1e3aebdec111527d9d373dd0533c18c8ebd28ed7a194fb4c8ed7016461c",
+                "extraData": {
+                  "resourceId": "9ad11dc6-1d4c-446a-8018-1aa11e071da3",
+                  "metaData": {
+                    "size": 408529,
+                    "originWidth": 838,
+                    "originHeight": 604,
+                    "format": "png",
+                    "ratio": 1
+                  }
+                },
+                "rotation": 0
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ]
+        ],
+        "footers": {},
+        "version": 1
+      },
+      "refs": {}
+    }
+  }
+}

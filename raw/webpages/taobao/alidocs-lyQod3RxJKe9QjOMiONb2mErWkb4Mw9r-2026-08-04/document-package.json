@@ -1,0 +1,6244 @@
+{
+  "version": 1,
+  "type": "application/x-alidocs-package",
+  "main": "00000000-0000-0000-0000-000000000001",
+  "plugins": "00000000-0000-0000-0000-000000000002",
+  "parts": {
+    "00000000-0000-0000-0000-000000000001": {
+      "id": "00000000-0000-0000-0000-000000000001",
+      "type": "application/x-alidocs-word",
+      "version": 1,
+      "data": {
+        "style": {
+          "docDefaults": {
+            "type": "paragraph",
+            "default": 1,
+            "name": "dingdocnormal",
+            "data": {
+              "rPr": {
+                "sz": 12,
+                "szUnit": "pt"
+              },
+              "pPr": {
+                "spacing": {
+                  "before": 12,
+                  "after": 12
+                }
+              }
+            }
+          },
+          "tableDefault": {
+            "type": "table",
+            "data": {
+              "tblPr": {
+                "bdr": {
+                  "bottom": {
+                    "color": "#D6D6D6",
+                    "space": 0,
+                    "sz": 1,
+                    "val": "single"
+                  },
+                  "insideH": {
+                    "color": "#D6D6D6",
+                    "space": 0,
+                    "sz": 1,
+                    "val": "single"
+                  },
+                  "insideV": {
+                    "color": "#D6D6D6",
+                    "space": 0,
+                    "sz": 1,
+                    "val": "single"
+                  },
+                  "left": {
+                    "color": "#D6D6D6",
+                    "space": 0,
+                    "sz": 1,
+                    "val": "single"
+                  },
+                  "right": {
+                    "color": "#D6D6D6",
+                    "space": 0,
+                    "sz": 1,
+                    "val": "single"
+                  },
+                  "top": {
+                    "color": "#D6D6D6",
+                    "space": 0,
+                    "sz": 1,
+                    "val": "single"
+                  }
+                }
+              }
+            }
+          },
+          "tableHeader": {
+            "type": "table",
+            "basedOn": "tableDefault",
+            "data": {
+              "tblStylePr": [
+                {
+                  "type": "firstRow",
+                  "tcPr": {
+                    "shd": {
+                      "fill": "#F5F6F7"
+                    }
+                  }
+                },
+                {
+                  "type": "firstCol",
+                  "tcPr": {
+                    "shd": {
+                      "fill": "#F5F6F7"
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        "theme": [],
+        "settings": {
+          "titleCover": {
+            "isHide": true
+          }
+        },
+        "app": {},
+        "numberings": {},
+        "headers": {},
+        "body": [
+          "root",
+          {
+            "sectPr": {
+              "pgSz": {
+                "w": 892,
+                "h": 1127
+              },
+              "pgMar": {
+                "top": 48,
+                "bottom": 48,
+                "left": 72,
+                "right": 72,
+                "header": 56.73,
+                "footer": 66.13,
+                "gutter": 0
+              }
+            },
+            "theme": {
+              "table": {
+                "tableCell": {
+                  "vAlign": "top"
+                }
+              }
+            },
+            "userData": {
+              "4647796289": {
+                "mp6qi2ib17r4e9cxlxt": {
+                  "fold": false
+                }
+              }
+            },
+            "uuid": "mr0fh7c7ylljxpegw3"
+          },
+          [
+            "container",
+            {
+              "subType": "colorBlocks",
+              "metadata": {
+                "padding": {
+                  "top": 11,
+                  "right": 11,
+                  "bottom": 11,
+                  "left": 11
+                },
+                "borderRadius": 8,
+                "bgcolor": "linear-gradient(315deg, #FAFAFA 2%, #FFFEFE 48%, #F0E8E6 99%)",
+                "showstk": false,
+                "border": null
+              },
+              "uuid": "mnffenyrc5lzwa6veqw"
+            },
+            [
+              "p",
+              {
+                "uuid": "mnffenyrr7vlwhdtc4p"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "bold": true,
+                    "sz": 14,
+                    "szUnit": "pt",
+                    "color": "#FE0300",
+                    "data-type": "leaf"
+                  },
+                  "商家您好，「小店成交宝」功能目前内测中，仅少部分商家开通，请您耐心等待"
+                ]
+              ]
+            ],
+            [
+              "p",
+              {
+                "uuid": "mnfffff8gbq4blt0dpw"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "sz": 14,
+                    "szUnit": "pt",
+                    "data-type": "leaf"
+                  },
+                  "小店成交宝创建链接："
+                ]
+              ],
+              [
+                "a",
+                {
+                  "href": "https://one.alimama.com/index.html?popPreview=1571131",
+                  "metadata": {
+                    "urlInfo": {
+                      "displayType": "link"
+                    },
+                    "cardInfo": {
+                      "displayType": "link"
+                    }
+                  },
+                  "uuid": "mnfftaeo2i646sscsl9"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "text"
+                  },
+                  [
+                    "span",
+                    {
+                      "sz": 14,
+                      "szUnit": "pt",
+                      "data-type": "leaf"
+                    },
+                    "https://one.alimama.com/index.html?popPreview=1571131"
+                  ]
+                ]
+              ],
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "sz": 14,
+                    "szUnit": "pt",
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ]
+            ]
+          ],
+          [
+            "container",
+            {
+              "subType": "colorBlocks",
+              "metadata": {
+                "padding": {
+                  "top": 11,
+                  "right": 11,
+                  "bottom": 11,
+                  "left": 11
+                },
+                "borderRadius": 8,
+                "bgcolor": "#E6E7E7",
+                "showstk": false
+              },
+              "uuid": "mgovrfgr6wsuxtodp6t"
+            },
+            [
+              "p",
+              {
+                "uuid": "mgovrfgrkmci89343oj",
+                "jc": "center"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "bold": true,
+                    "italic": true,
+                    "sz": 20,
+                    "szUnit": "pt",
+                    "color": "linear-gradient(90deg, #F55B2D 0%, #510101 100%)",
+                    "underline": {
+                      "value": "single"
+                    },
+                    "data-type": "leaf"
+                  },
+                  "阿里妈妈重磅推出「小店成交宝」"
+                ]
+              ]
+            ],
+            [
+              "p",
+              {
+                "uuid": "mgovycjpaa9sy0222kw",
+                "ind": {
+                  "left": 0
+                },
+                "list": {
+                  "listId": "sutntu5exf",
+                  "level": 0,
+                  "isTaskList": false,
+                  "isOrdered": false,
+                  "listStyleType": "SCIR_ECIR_SREC",
+                  "symbolStyle": {
+                    "sz": 14
+                  },
+                  "listStyle": {
+                    "format": "bullet",
+                    "text": "●",
+                    "align": "left"
+                  }
+                }
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "bold": true,
+                    "sz": 14,
+                    "szUnit": "pt",
+                    "color": "linear-gradient(90deg, #2449FE 0%, #CA4BA7 100%)",
+                    "data-type": "leaf"
+                  },
+                  "产品简介："
+                ]
+              ]
+            ],
+            [
+              "p",
+              {
+                "uuid": "mp6qflfo0yx4rt0zh1c8",
+                "ind": {
+                  "left": 0
+                },
+                "list": {
+                  "listId": "sutntu5exf",
+                  "level": 1,
+                  "isTaskList": false,
+                  "isOrdered": false,
+                  "listStyleType": "SCIR_ECIR_SREC",
+                  "symbolStyle": {
+                    "sz": 12
+                  },
+                  "listStyle": {
+                    "format": "bullet",
+                    "text": "○",
+                    "align": "left"
+                  },
+                  "extraData": {},
+                  "isChecked": false,
+                  "hideSymbol": false
+                }
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "sz": 12,
+                    "szUnit": "pt",
+                    "color": "",
+                    "data-type": "leaf"
+                  },
+                  "「小店成交宝」是阿里妈妈推出的新款智能营销产品，"
+                ],
+                [
+                  "span",
+                  {
+                    "sz": 12,
+                    "szUnit": "pt",
+                    "color": "",
+                    "underline": {
+                      "value": "single"
+                    },
+                    "data-type": "leaf"
+                  },
+                  "兼具C端商品打折、推广投流能力"
+                ],
+                [
+                  "span",
+                  {
+                    "sz": 12,
+                    "szUnit": "pt",
+                    "color": "",
+                    "data-type": "leaf"
+                  },
+                  "，商家仅需设置商品可投入佣金比例  ，即可把商品成交进行全面托管；平台先行垫资投放多营销场域，先成交后扣费， 更有平台限时加赠流量补贴，保障商品加速冷启打爆"
+                ]
+              ]
+            ],
+            [
+              "p",
+              {
+                "uuid": "mgovv20jihtaz9qz83",
+                "ind": {
+                  "left": 0
+                },
+                "list": {
+                  "listId": "sutntu5exf",
+                  "level": 0,
+                  "isTaskList": false,
+                  "isOrdered": false,
+                  "listStyleType": "SCIR_ECIR_SREC",
+                  "symbolStyle": {
+                    "sz": 14
+                  },
+                  "listStyle": {
+                    "format": "bullet",
+                    "text": "●",
+                    "align": "left"
+                  }
+                }
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "bold": true,
+                    "sz": 14,
+                    "szUnit": "pt",
+                    "color": "linear-gradient(90deg, #2449FE 0%, #CA4BA7 100%)",
+                    "data-type": "leaf"
+                  },
+                  "商家福利"
+                ],
+                [
+                  "span",
+                  {
+                    "sz": 14,
+                    "szUnit": "pt",
+                    "color": "linear-gradient(90deg, #2449FE 0%, #CA4BA7 100%)",
+                    "data-type": "leaf"
+                  },
+                  "："
+                ]
+              ]
+            ],
+            [
+              "p",
+              {
+                "uuid": "mp6qfo2dwuwkp4hyw1h",
+                "ind": {
+                  "left": 0
+                },
+                "list": {
+                  "listId": "sutntu5exf",
+                  "level": 1,
+                  "isTaskList": false,
+                  "isOrdered": false,
+                  "listStyleType": "SCIR_ECIR_SREC",
+                  "symbolStyle": {
+                    "sz": 12
+                  },
+                  "listStyle": {
+                    "format": "bullet",
+                    "text": "○",
+                    "align": "left"
+                  },
+                  "extraData": {},
+                  "isChecked": false,
+                  "hideSymbol": false
+                }
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "sz": 12,
+                    "szUnit": "pt",
+                    "color": "",
+                    "data-type": "leaf"
+                  },
+                  "首次使用商家"
+                ],
+                [
+                  "span",
+                  {
+                    "sz": 12,
+                    "szUnit": "pt",
+                    "color": "",
+                    "underline": {
+                      "value": "single"
+                    },
+                    "data-type": "leaf"
+                  },
+                  "立享价值100元的流量曝光"
+                ]
+              ]
+            ],
+            [
+              "p",
+              {
+                "uuid": "mgovx58u66c4prdr66d",
+                "ind": {
+                  "left": 0
+                },
+                "list": {
+                  "listId": "9tlut88zvql",
+                  "level": 0,
+                  "isTaskList": false,
+                  "isOrdered": false,
+                  "listStyleType": "SCIR_ECIR_SREC",
+                  "symbolStyle": {
+                    "sz": 14,
+                    "color": ""
+                  },
+                  "listStyle": {
+                    "format": "bullet",
+                    "text": "●",
+                    "align": "left"
+                  }
+                }
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "bold": true,
+                    "sz": 14,
+                    "szUnit": "pt",
+                    "color": "linear-gradient(90deg, #2449FE 0%, #CA4BA7 100%)",
+                    "data-type": "leaf"
+                  },
+                  "如何收费"
+                ],
+                [
+                  "span",
+                  {
+                    "sz": 14,
+                    "szUnit": "pt",
+                    "color": "linear-gradient(90deg, #2449FE 0%, #CA4BA7 100%)",
+                    "data-type": "leaf"
+                  },
+                  "："
+                ]
+              ]
+            ],
+            [
+              "p",
+              {
+                "uuid": "mp6qfpk7eft2iwwudkk",
+                "ind": {
+                  "left": 0
+                },
+                "list": {
+                  "listId": "9tlut88zvql",
+                  "level": 1,
+                  "isTaskList": false,
+                  "isOrdered": false,
+                  "listStyleType": "SCIR_ECIR_SREC",
+                  "symbolStyle": {
+                    "sz": 12,
+                    "color": ""
+                  },
+                  "listStyle": {
+                    "format": "bullet",
+                    "text": "○",
+                    "align": "left"
+                  },
+                  "extraData": {},
+                  "isChecked": false,
+                  "hideSymbol": false
+                }
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "sz": 12,
+                    "szUnit": "pt",
+                    "color": "",
+                    "data-type": "leaf"
+                  },
+                  "商品成交订单完成后（以消费者确认收货为准，退款订单收取部分费用），基于商品优惠价按照佣金率进行扣费"
+                ]
+              ]
+            ]
+          ],
+          [
+            "h1",
+            {
+              "uuid": "mdv1o2pweey525r3ccf",
+              "spacing": {
+                "before": 32,
+                "after": 12,
+                "line": 0.9333333333333332
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 21,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "一、 小店成交宝是什么？"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mgoqyv9hpgzugiljuql"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "小店成交宝是阿里妈妈"
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "color": "",
+                  "data-type": "leaf"
+                },
+                "针对"
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "",
+                  "spacing": 0.75,
+                  "data-type": "leaf"
+                },
+                "新手小白商家、无太多推广预算的商家"
+              ],
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "",
+                  "spacing": 0.75,
+                  "data-type": "leaf"
+                },
+                "重磅推出的产品"
+              ],
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "rgb(62, 62, 62)",
+                  "spacing": 0.75,
+                  "data-type": "leaf"
+                },
+                "，通过专属流量渠道曝光与算法自动化广告投放结合，共助商品加速冷启打爆，更有"
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "highlight": "#FEF3F3",
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "",
+                  "spacing": 0.75,
+                  "data-type": "leaf"
+                },
+                "平台限时加赠流量补贴"
+              ],
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "rgb(62, 62, 62)",
+                  "spacing": 0.75,
+                  "data-type": "leaf"
+                },
+                "，高效拿量促转成交。"
+              ]
+            ]
+          ],
+          [
+            "h1",
+            {
+              "uuid": "mgqhg7pqc12vkthx0v",
+              "spacing": {
+                "before": 32,
+                "after": 12,
+                "line": 0.9333333333333332
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 21,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "二、 小店成交宝有什么价值？"
+              ]
+            ]
+          ],
+          [
+            "h3",
+            {
+              "uuid": "mp6qi2ib17r4e9cxlxt",
+              "spacing": {
+                "before": 18.666666666666664,
+                "after": 8,
+                "line": 0.8529411764705882
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ],
+            [
+              "a",
+              {
+                "href": "https://shuyuan.taobao.com/?spm=a2e1vp.26226950.0.d1b707b07.101779ce6ZhNVX#!/knowledge/detail/index?id=38331&platform=",
+                "metadata": {
+                  "urlInfo": {
+                    "displayType": "link"
+                  },
+                  "cardInfo": {
+                    "displayType": "link"
+                  }
+                },
+                "uuid": "mr0fhd9pkk2g2u5pex"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  "产品介绍点击这里看视频"
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mgor76fwbhl27wgfp7r"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "highlight": "linear-gradient(316deg, #FCEFF3 -13%, #FFFEFE 52%, #F4B9CD 125%)",
+                  "color": "",
+                  "data-type": "leaf"
+                },
+                "帮助商家做持续稳定的商品流量增长和成交"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mgor9996e5tqgikgeo",
+              "ind": {
+                "left": 0
+              },
+              "list": {
+                "listId": "wc3kbhq4vun",
+                "level": 0,
+                "isTaskList": false,
+                "isOrdered": false,
+                "listStyleType": "SCIR_ECIR_SREC",
+                "symbolStyle": {
+                  "color": ""
+                },
+                "listStyle": {
+                  "format": "bullet",
+                  "text": "●",
+                  "align": "left"
+                }
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "color": "",
+                  "data-type": "leaf"
+                },
+                "如何帮助商家：通过"
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "highlight": "#FEF3F3",
+                  "color": "",
+                  "data-type": "leaf"
+                },
+                "小店成交宝"
+              ],
+              [
+                "span",
+                {
+                  "color": "",
+                  "data-type": "leaf"
+                },
+                "在商品报名初期采取"
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "highlight": "#FEF3F3",
+                  "color": "",
+                  "data-type": "leaf"
+                },
+                "略微让利的策略"
+              ],
+              [
+                "span",
+                {
+                  "color": "",
+                  "data-type": "leaf"
+                },
+                "，借助平台对商品给予的大量曝光补贴扶持，成功助推新品新品快速破0起量！同时，"
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "highlight": "#FEF3F3",
+                  "color": "",
+                  "data-type": "leaf"
+                },
+                "额外叠加互动场域专属流量"
+              ],
+              [
+                "span",
+                {
+                  "color": "",
+                  "data-type": "leaf"
+                },
+                "，加速商品打爆过程。中后期商品销量完成积累，平台"
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "highlight": "#FEF3F3",
+                  "color": "",
+                  "data-type": "leaf"
+                },
+                "针对性加投营销推广"
+              ],
+              [
+                "span",
+                {
+                  "color": "",
+                  "data-type": "leaf"
+                },
+                "帮助商家稳定销量，实现商品销量倍增"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mmbv56b1ky4eau5sra",
+              "ind": {
+                "left": 0
+              },
+              "list": {
+                "listId": "wc3kbhq4vun",
+                "level": 0,
+                "isTaskList": false,
+                "isOrdered": false,
+                "listStyleType": "SCIR_ECIR_SREC",
+                "symbolStyle": {
+                  "color": "",
+                  "bold": true
+                },
+                "listStyle": {
+                  "format": "bullet",
+                  "text": "●",
+                  "align": "left"
+                },
+                "extraData": {},
+                "isChecked": false,
+                "hideSymbol": false
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "highlight": "linear-gradient(316deg, #FEF3F3 -13%, #FFFEFE 52%, #F2BABA 125%)",
+                  "color": "",
+                  "data-type": "leaf"
+                },
+                "38焕新周新鲜出炉案例"
+              ]
+            ]
+          ],
+          [
+            "table",
+            {
+              "colsWidth": [
+                217,
+                217,
+                217
+              ],
+              "sr": true,
+              "uuid": "mmn5poy1y9yapaqu7og"
+            },
+            [
+              "tr",
+              {
+                "uuid": "mmn5poy12u64kqj4498"
+              },
+              [
+                "tc",
+                {
+                  "fill": "rgba(129, 169, 250, 0.12)",
+                  "vAlign": "top",
+                  "uuid": "mmn5poy16r8odl7qmvg",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mmn5poy1b8mzodq1l6"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": false,
+                        "sz": 12,
+                        "szUnit": "pt",
+                        "color": "",
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ],
+                  [
+                    "img",
+                    {
+                      "uuid": "mnfff2mxnec5gp6juo",
+                      "name": "image.png",
+                      "size": 1411403,
+                      "width": 250,
+                      "height": 375.5868544600939,
+                      "src": "/core/api/resources/img/5eecdaf48460cde5ed2574990a33ca1dc9032af7aef68ce375b8339e1c4c24831b75b38faadcd24bec177c308ebd53044d30bfc48d4a46073318546528b21a1e4b19e704688106630034672a9b6e014fde2c694b10ecae704fb4c8ed7016461c",
+                      "extraData": {
+                        "resourceId": "5f6b7739-2840-4730-b35d-fab382f29e5a",
+                        "metaData": {
+                          "size": 1411403,
+                          "originWidth": 852,
+                          "originHeight": 1280,
+                          "format": "png",
+                          "ratio": 1
+                        }
+                      },
+                      "rotation": 0
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "leaf"
+                        },
+                        ""
+                      ]
+                    ]
+                  ],
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": false,
+                        "sz": 12,
+                        "szUnit": "pt",
+                        "color": "",
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "fill": "rgba(181, 146, 253, 0.1)",
+                  "vAlign": "top",
+                  "uuid": "mmn5poy1ziocryity",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mmn5poy1p7asmw0yux"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": false,
+                        "sz": 12,
+                        "szUnit": "pt",
+                        "color": "",
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ],
+                  [
+                    "img",
+                    {
+                      "uuid": "mnfff2my5qgifmei5no",
+                      "name": "image.png",
+                      "size": 1536812,
+                      "width": 250,
+                      "height": 375.5868544600939,
+                      "src": "/core/api/resources/img/5eecdaf48460cde5ed2574990a33ca1dc9032af7aef68ce375b8339e1c4c24831b75b38faadcd24bec177c308ebd5304d9832e501b3841a70cf499e2de0180ebd8f7b046e869fb9e82328be1e6567f9dc7d09f0f2fe7dcb74fb4c8ed7016461c",
+                      "extraData": {
+                        "resourceId": "fa5832a8-8fb0-4559-862d-0c6fa0897ac3",
+                        "metaData": {
+                          "size": 1536812,
+                          "originWidth": 852,
+                          "originHeight": 1280,
+                          "format": "png",
+                          "ratio": 1
+                        }
+                      },
+                      "rotation": 0
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "leaf"
+                        },
+                        ""
+                      ]
+                    ]
+                  ],
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": false,
+                        "sz": 12,
+                        "szUnit": "pt",
+                        "color": "",
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "fill": "rgba(225, 136, 204, 0.1)",
+                  "vAlign": "top",
+                  "uuid": "mmn5poy14sxkrzqcc7c",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mmn5poy14v578uogkcr"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": false,
+                        "sz": 12,
+                        "szUnit": "pt",
+                        "color": "",
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ],
+                  [
+                    "img",
+                    {
+                      "uuid": "mnfff2mysvotv534i0a",
+                      "name": "image.png",
+                      "size": 1673224,
+                      "width": 250,
+                      "height": 375.5868544600939,
+                      "src": "/core/api/resources/img/5eecdaf48460cde5ed2574990a33ca1dc9032af7aef68ce375b8339e1c4c24831b75b38faadcd24bec177c308ebd53043e2c8aa2952ff09e5ea349977bb88ce3665a620547f5b360ed4e82e502ff328b25a8103fd1802fb04fb4c8ed7016461c",
+                      "extraData": {
+                        "resourceId": "34d7a92b-5148-4c75-8f60-3f76df44323b",
+                        "metaData": {
+                          "size": 1673224,
+                          "originWidth": 852,
+                          "originHeight": 1280,
+                          "format": "png",
+                          "ratio": 1
+                        }
+                      },
+                      "rotation": 0
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "leaf"
+                        },
+                        ""
+                      ]
+                    ]
+                  ],
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": false,
+                        "sz": 12,
+                        "szUnit": "pt",
+                        "color": "",
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ]
+                ]
+              ]
+            ]
+          ],
+          [
+            "h1",
+            {
+              "uuid": "mgoqxzvgdxqauxqva7w",
+              "spacing": {
+                "before": 32,
+                "after": 12,
+                "line": 0.9333333333333332
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 21,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "三、 小店成交宝如何收费？"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mgorbh4eibbhiiboes",
+              "ind": {
+                "left": 0
+              },
+              "list": {
+                "listId": "hd5j852lg7",
+                "level": 0,
+                "isTaskList": false,
+                "isOrdered": false,
+                "listStyleType": "SCIR_ECIR_SREC",
+                "symbolStyle": {
+                  "color": ""
+                },
+                "listStyle": {
+                  "format": "bullet",
+                  "text": "●",
+                  "align": "left"
+                }
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "highlight": "linear-gradient(316deg, #FEF3F3 -13%, #FFFEFE 52%, #F2BABA 125%)",
+                  "color": "",
+                  "data-type": "leaf"
+                },
+                "商品成交订单完成后（消费者确认收货），按商品优惠价/投入产出比收费，平台将基于您所设置的投入产出比随机浮动向消费者发放礼金以及分配投放流量预算，"
+              ],
+              [
+                "span",
+                {
+                  "color": "",
+                  "data-type": "leaf"
+                },
+                "（举例：商品A，商品优惠价为100元，投入产出比设置为6，平台收佣为100元/6=16.67元；平台会将这16.67元用于发放礼金和广告投放，比例由算法智能调控以追求商品销量最大化）。"
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "color": "#FE0300",
+                  "data-type": "leaf"
+                },
+                "先成交，后扣费，不再收取其余费用"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mjjpeb62fr35d9h3olc",
+              "ind": {
+                "left": 32
+              },
+              "blockquote": true
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 11,
+                  "szUnit": "pt",
+                  "color": "#E53935",
+                  "data-type": "leaf"
+                },
+                "什么是优惠价（图示见评论）："
+              ],
+              [
+                "span",
+                {
+                  "sz": 11,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "优惠价是您为商品"
+              ],
+              [
+                "span",
+                {
+                  "sz": 11,
+                  "szUnit": "pt",
+                  "color": "rgb(51, 51, 51)",
+                  "data-type": "leaf"
+                },
+                "设置的商品标价，小店成交宝推广期间，商品将根据此优惠价进行推广"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "migwdoi9cew3yjajytt",
+              "ind": {
+                "left": 0
+              },
+              "list": {
+                "listId": "hd5j852lg7",
+                "level": 1,
+                "isTaskList": false,
+                "isOrdered": false,
+                "listStyleType": "SCIR_ECIR_SREC",
+                "symbolStyle": {
+                  "color": ""
+                },
+                "listStyle": {
+                  "format": "bullet",
+                  "text": "○",
+                  "align": "left"
+                },
+                "extraData": {},
+                "isChecked": false,
+                "hideSymbol": false
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "color": "",
+                  "data-type": "leaf"
+                },
+                "0、低动销商品"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mgorbh4ha3xtk4qmd4c",
+              "ind": {
+                "left": 0
+              },
+              "list": {
+                "listId": "hd5j852lg7",
+                "level": 2,
+                "isTaskList": false,
+                "isOrdered": false,
+                "listStyleType": "SCIR_ECIR_SREC",
+                "symbolStyle": {
+                  "color": ""
+                },
+                "listStyle": {
+                  "format": "bullet",
+                  "text": "■",
+                  "align": "left"
+                },
+                "extraData": {},
+                "isChecked": false,
+                "hideSymbol": false
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "color": "",
+                  "data-type": "leaf"
+                },
+                "前5单费率（按SKU，指该SKU的前5单）：最低费率20%（不同行业有所差异），实现0销量商品的快速商品引流和成交"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mgorbh4ha4v4n6gbsyj",
+              "ind": {
+                "left": 0
+              },
+              "list": {
+                "listId": "hd5j852lg7",
+                "level": 2,
+                "isTaskList": false,
+                "isOrdered": false,
+                "listStyleType": "SCIR_ECIR_SREC",
+                "symbolStyle": {
+                  "color": ""
+                },
+                "listStyle": {
+                  "format": "bullet",
+                  "text": "■",
+                  "align": "left"
+                },
+                "extraData": {},
+                "isChecked": false,
+                "hideSymbol": false
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "color": "",
+                  "data-type": "leaf"
+                },
+                "5单以后费率（按SKU，指该SKU的5单以后）：可自选费率，实现销量的持续获得流量和持续累积成交"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "migwexo4mper48sr21c",
+              "ind": {
+                "left": 0
+              },
+              "list": {
+                "listId": "hd5j852lg7",
+                "level": 1,
+                "isTaskList": false,
+                "isOrdered": false,
+                "listStyleType": "SCIR_ECIR_SREC",
+                "symbolStyle": {
+                  "color": ""
+                },
+                "listStyle": {
+                  "format": "bullet",
+                  "text": "○",
+                  "align": "left"
+                },
+                "extraData": {},
+                "isChecked": false,
+                "hideSymbol": false
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "color": "",
+                  "data-type": "leaf"
+                },
+                "非0、低动销商品"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "migwfhcup8qomaelsx",
+              "ind": {
+                "left": 0
+              },
+              "list": {
+                "listId": "hd5j852lg7",
+                "level": 2,
+                "isTaskList": false,
+                "isOrdered": false,
+                "listStyleType": "SCIR_ECIR_SREC",
+                "symbolStyle": {
+                  "color": ""
+                },
+                "listStyle": {
+                  "format": "bullet",
+                  "text": "■",
+                  "align": "left"
+                },
+                "extraData": {},
+                "isChecked": false,
+                "hideSymbol": false
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "color": "",
+                  "data-type": "leaf"
+                },
+                "自选费率模式，平台按照商品所属叶类平均费率给到推荐"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mgorbh4hjt7umt18zk",
+              "ind": {
+                "left": 0
+              },
+              "list": {
+                "listId": "hd5j852lg7",
+                "level": 1,
+                "isTaskList": false,
+                "isOrdered": false,
+                "listStyleType": "SCIR_ECIR_SREC",
+                "symbolStyle": {
+                  "color": ""
+                },
+                "listStyle": {
+                  "format": "bullet",
+                  "text": "○",
+                  "align": "left"
+                },
+                "extraData": {},
+                "isChecked": false,
+                "hideSymbol": false
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "color": "",
+                  "data-type": "leaf"
+                },
+                "扣费方式：商品成交订单完成后（消费者确认收货），"
+              ],
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "将从您店铺绑定的支付宝进行扣费"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mgorbh4is4ca64l42e",
+              "ind": {
+                "left": 0
+              },
+              "list": {
+                "listId": "hd5j852lg7",
+                "level": 1,
+                "isTaskList": false,
+                "isOrdered": false,
+                "listStyleType": "SCIR_ECIR_SREC",
+                "symbolStyle": {
+                  "color": ""
+                },
+                "listStyle": {
+                  "format": "bullet",
+                  "text": "○",
+                  "align": "left"
+                },
+                "extraData": {},
+                "isChecked": false,
+                "hideSymbol": false
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "注：若交易过程中消费者产生全额退款，若涉及消费者购物礼金发放的，则礼金对应的服务费将退还，已产生的流量投放费用不予退还"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mgorbh4iy0u74liynf",
+              "ind": {
+                "left": 0
+              },
+              "list": {
+                "listId": "hd5j852lg7",
+                "level": 0,
+                "isTaskList": false,
+                "isOrdered": false,
+                "listStyleType": "SCIR_ECIR_SREC",
+                "symbolStyle": {
+                  "color": "",
+                  "bold": true
+                },
+                "listStyle": {
+                  "format": "bullet",
+                  "text": "●",
+                  "align": "left"
+                },
+                "extraData": {},
+                "isChecked": false,
+                "hideSymbol": false
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "",
+                  "data-type": "leaf"
+                },
+                "平台补贴"
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "color": "",
+                  "data-type": "leaf"
+                },
+                "：若您为首次使用的商家，平台免费赠送您价值100元的流量补贴（价值约5000+商品曝光）"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mgorbh4i6w3gus0t493",
+              "ind": {
+                "left": 0
+              },
+              "list": {
+                "listId": "hd5j852lg7",
+                "level": 0,
+                "isTaskList": false,
+                "isOrdered": false,
+                "listStyleType": "SCIR_ECIR_SREC",
+                "symbolStyle": {
+                  "color": ""
+                },
+                "listStyle": {
+                  "format": "bullet",
+                  "text": "●",
+                  "align": "left"
+                },
+                "extraData": {},
+                "isChecked": false,
+                "hideSymbol": false
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "",
+                  "data-type": "leaf"
+                },
+                "商家需要做什么：商家只需要花费1分钟时间，选择想要报名的商品，设置投入产出比，不需要额外操作"
+              ]
+            ]
+          ],
+          [
+            "h1",
+            {
+              "uuid": "mgqhgxzhj3acnej5mqb",
+              "spacing": {
+                "before": 32,
+                "after": 12,
+                "line": 0.9333333333333332
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 21,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "四 、操作指导"
+              ]
+            ]
+          ],
+          [
+            "container",
+            {
+              "subType": "colorBlocks",
+              "metadata": {
+                "padding": {
+                  "top": 11,
+                  "right": 11,
+                  "bottom": 11,
+                  "left": 11
+                },
+                "borderRadius": 8,
+                "sticker": "气泡",
+                "bgcolor": "#FFFFFF",
+                "showstk": false,
+                "border": "#937264"
+              },
+              "uuid": "mejjctqj8ja5meykb7u"
+            },
+            [
+              "p",
+              {
+                "uuid": "mgqgaxe7cy7pdwg39to",
+                "ind": {
+                  "left": 0
+                },
+                "list": {
+                  "listId": "3gj8wvawdsj",
+                  "level": 0,
+                  "isTaskList": false,
+                  "isOrdered": false,
+                  "listStyleType": "SARR_SDIO_SCIR",
+                  "symbolStyle": {},
+                  "listStyle": {
+                    "format": "bullet",
+                    "text": "➔",
+                    "align": "left"
+                  }
+                }
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  "下单入口"
+                ]
+              ]
+            ],
+            [
+              "p",
+              {
+                "uuid": "mgqgaxe7azgpep2ncur",
+                "ind": {
+                  "left": 0
+                },
+                "list": {
+                  "listId": "3gj8wvawdsj",
+                  "level": 1,
+                  "isTaskList": false,
+                  "isOrdered": false,
+                  "listStyleType": "SARR_SDIO_SCIR",
+                  "symbolStyle": {},
+                  "listStyle": {
+                    "format": "bullet",
+                    "text": "◆",
+                    "align": "left"
+                  },
+                  "extraData": {},
+                  "isChecked": false,
+                  "hideSymbol": false
+                }
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  "千牛PC-推广中心："
+                ]
+              ],
+              [
+                "a",
+                {
+                  "href": "https://work.taobao.com/",
+                  "uuid": "mgqgaxe7oiwta17mv3"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "text"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "leaf"
+                    },
+                    "https://work.taobao.com/"
+                  ]
+                ]
+              ],
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ]
+            ],
+            [
+              "p",
+              {
+                "uuid": "mgqgaxe7zyjbfc571d",
+                "ind": {
+                  "left": 0
+                },
+                "list": {
+                  "listId": "3gj8wvawdsj",
+                  "level": 1,
+                  "isTaskList": false,
+                  "isOrdered": false,
+                  "listStyleType": "SARR_SDIO_SCIR",
+                  "symbolStyle": {},
+                  "listStyle": {
+                    "format": "bullet",
+                    "text": "◆",
+                    "align": "left"
+                  },
+                  "extraData": {},
+                  "isChecked": false,
+                  "hideSymbol": false
+                }
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  "万相台无界PC端："
+                ]
+              ],
+              [
+                "a",
+                {
+                  "href": "https://one.alimama.com/",
+                  "uuid": "mgqgaxe7dw3jb5mlz5c"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "text"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "leaf"
+                    },
+                    "https://one.alimama.com/"
+                  ]
+                ]
+              ],
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ]
+            ],
+            [
+              "p",
+              {
+                "uuid": "mgqgaxe7c1n2meablit",
+                "ind": {
+                  "left": 0
+                },
+                "list": {
+                  "listId": "3gj8wvawdsj",
+                  "level": 1,
+                  "isTaskList": false,
+                  "isOrdered": false,
+                  "listStyleType": "SARR_SDIO_SCIR",
+                  "symbolStyle": {},
+                  "listStyle": {
+                    "format": "bullet",
+                    "text": "◆",
+                    "align": "left"
+                  },
+                  "extraData": {},
+                  "isChecked": false,
+                  "hideSymbol": false
+                }
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  "万象台无界移动端：登陆千牛无线端-点击万相台ICON进入"
+                ]
+              ]
+            ],
+            [
+              "p",
+              {
+                "uuid": "mgqgaxe7c3sflptdifc",
+                "ind": {
+                  "left": 0
+                },
+                "list": {
+                  "listId": "3gj8wvawdsj",
+                  "level": 0,
+                  "isTaskList": false,
+                  "isOrdered": false,
+                  "listStyleType": "SARR_SDIO_SCIR",
+                  "symbolStyle": {},
+                  "listStyle": {
+                    "format": "bullet",
+                    "text": "➔",
+                    "align": "left"
+                  },
+                  "extraData": {},
+                  "isChecked": false,
+                  "hideSymbol": false
+                }
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  "查看已下单计划"
+                ]
+              ]
+            ],
+            [
+              "p",
+              {
+                "uuid": "mgqgaxe7x3xwi988oad",
+                "ind": {
+                  "left": 0
+                },
+                "list": {
+                  "listId": "3gj8wvawdsj",
+                  "level": 1,
+                  "isTaskList": false,
+                  "isOrdered": false,
+                  "listStyleType": "SARR_SDIO_SCIR",
+                  "symbolStyle": {},
+                  "listStyle": {
+                    "format": "bullet",
+                    "text": "◆",
+                    "align": "left"
+                  },
+                  "extraData": {},
+                  "isChecked": false,
+                  "hideSymbol": false
+                }
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  "万相台无界PC端："
+                ]
+              ],
+              [
+                "a",
+                {
+                  "href": "https://one.alimama.com/index.html#!/manage/xinxiangright",
+                  "uuid": "mgqgaxe7p19v5n3g1ql"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "text"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "leaf"
+                    },
+                    "https://one.alimama.com/index.html#!/manage/xinxiangright"
+                  ]
+                ]
+              ],
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ]
+            ],
+            [
+              "p",
+              {
+                "uuid": "mgqgaxe7zqknyahaf4l",
+                "ind": {
+                  "left": 0
+                },
+                "list": {
+                  "listId": "3gj8wvawdsj",
+                  "level": 1,
+                  "isTaskList": false,
+                  "isOrdered": false,
+                  "listStyleType": "SARR_SDIO_SCIR",
+                  "symbolStyle": {},
+                  "listStyle": {
+                    "format": "bullet",
+                    "text": "◆",
+                    "align": "left"
+                  },
+                  "extraData": {},
+                  "isChecked": false,
+                  "hideSymbol": false
+                }
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  "万象台无界移动端：登陆千牛无线端-点击万相台ICON进入"
+                ]
+              ]
+            ],
+            [
+              "p",
+              {
+                "uuid": "mgqgaxe7qptkgbjcepj",
+                "ind": {
+                  "left": 0
+                },
+                "list": {
+                  "listId": "3gj8wvawdsj",
+                  "level": 0,
+                  "isTaskList": false,
+                  "isOrdered": false,
+                  "listStyleType": "SARR_SDIO_SCIR",
+                  "symbolStyle": {},
+                  "listStyle": {
+                    "format": "bullet",
+                    "text": "➔",
+                    "align": "left"
+                  },
+                  "extraData": {},
+                  "isChecked": false,
+                  "hideSymbol": false
+                }
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  "查看操作记录"
+                ]
+              ]
+            ],
+            [
+              "p",
+              {
+                "uuid": "mgqgaxe7nfqd253usyc",
+                "ind": {
+                  "left": 0
+                },
+                "list": {
+                  "listId": "3gj8wvawdsj",
+                  "level": 1,
+                  "isTaskList": false,
+                  "isOrdered": false,
+                  "listStyleType": "SARR_SDIO_SCIR",
+                  "symbolStyle": {},
+                  "listStyle": {
+                    "format": "bullet",
+                    "text": "◆",
+                    "align": "left"
+                  },
+                  "extraData": {},
+                  "isChecked": false,
+                  "hideSymbol": false
+                }
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  "万相台无界PC端："
+                ]
+              ],
+              [
+                "a",
+                {
+                  "href": "https://one.alimama.com/index.html#!/account/operation/index?bizCode=ppxlkc",
+                  "uuid": "mgqgaxe7umo6brdkzg"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "text"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "leaf"
+                    },
+                    "https://one.alimama.com/index.html#!/account/operation/index?bizCode=ppxlkc"
+                  ]
+                ]
+              ],
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ]
+            ]
+          ],
+          [
+            "h4",
+            {
+              "uuid": "mgkpbpth7nhkhgxnzxs",
+              "spacing": {
+                "before": 21.333333333333332,
+                "after": 8.666666666666666,
+                "line": 0.8615384615384615
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 13.5,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "（一）如何下单"
+              ]
+            ]
+          ],
+          [
+            "table",
+            {
+              "colsWidth": [
+                327,
+                327,
+                328
+              ],
+              "tblW": {
+                "w": 100,
+                "type": "pct"
+              },
+              "uuid": "mgqgn55dx2i8z1bnz2h",
+              "styleId": "tableHeader",
+              "tblLook": {
+                "firstRow": 1,
+                "firstColumn": 0,
+                "lastRow": 0,
+                "lastColumn": 0
+              }
+            },
+            [
+              "tr",
+              {
+                "uuid": "mgqgrv1zg5v4rjpjvq",
+                "isTblHeader": true
+              },
+              [
+                "tc",
+                {
+                  "colSpan": 3,
+                  "rowSpan": 1,
+                  "uuid": "mgqgrv1z12ux16j9f0g8",
+                  "fill": "radial-gradient(68% 68% at 68% 100%, #F2F7F7 0%, rgba(242, 245, 255, 0) 100%), radial-gradient(53% 53% at 16% -12%, #FEF2F2 0%, rgba(242, 245, 255, 0) 100%), radial-gradient(55% 141% at 100% 100%, #E4EBFF 0%, rgba(242, 245, 255, 0) 100%), linear-gradient(99deg, #E9E7FF 0%, #E4EBFF 100%)",
+                  "vAlign": "middle"
+                },
+                [
+                  "h5",
+                  {
+                    "uuid": "mgqgsdbi53kjs48zri5",
+                    "ind": {
+                      "left": 0
+                    },
+                    "spacing": {
+                      "before": 19.333333333333332,
+                      "after": 8.666666666666666,
+                      "line": 0.8615384615384615
+                    },
+                    "jc": "center"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "sz": 14,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      "千牛PC端-推广中心"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mgqgrv1zg20fwqvx8h6",
+                  "hidden": true,
+                  "fill": "radial-gradient(68% 68% at 68% 100%, #F2F7F7 0%, rgba(242, 245, 255, 0) 100%), radial-gradient(53% 53% at 16% -12%, #FEF2F2 0%, rgba(242, 245, 255, 0) 100%), radial-gradient(55% 141% at 100% 100%, #E4EBFF 0%, rgba(242, 245, 255, 0) 100%), linear-gradient(99deg, #E9E7FF 0%, #E4EBFF 100%)",
+                  "vAlign": "middle"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mgqgrv1zeb0sxq51dns",
+                    "jc": "center"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 14,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mgqgrv1zrd9c0o2aww",
+                  "hidden": true,
+                  "fill": "radial-gradient(68% 68% at 68% 100%, #F2F7F7 0%, rgba(242, 245, 255, 0) 100%), radial-gradient(53% 53% at 16% -12%, #FEF2F2 0%, rgba(242, 245, 255, 0) 100%), radial-gradient(55% 141% at 100% 100%, #E4EBFF 0%, rgba(242, 245, 255, 0) 100%), linear-gradient(99deg, #E9E7FF 0%, #E4EBFF 100%)",
+                  "vAlign": "middle"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mgqgrv1zmdxiyjedxwk",
+                    "jc": "center"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 14,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {
+                "uuid": "mgqgn55d2elpl1e1rp5"
+              },
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mgqgn55d1os95rvpx4g",
+                  "vAlign": "middle"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mgqgnucgdegwiw169xr",
+                    "ind": {
+                      "left": 0
+                    },
+                    "list": {
+                      "listId": "31yitodx8jg",
+                      "level": 0,
+                      "isTaskList": false,
+                      "isOrdered": false,
+                      "listStyleType": "SCIR_ECIR_SREC",
+                      "symbolStyle": {},
+                      "listStyle": {
+                        "format": "bullet",
+                        "text": "●",
+                        "align": "left"
+                      }
+                    },
+                    "jc": "left"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "步骤1：登录千牛（"
+                    ]
+                  ],
+                  [
+                    "a",
+                    {
+                      "href": "https://work.taobao.com/",
+                      "uuid": "mgqgnucgfzvfzpz1t26"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "leaf"
+                        },
+                        "https://work.taobao.com/"
+                      ]
+                    ]
+                  ],
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "），点击推广，点击推广中心"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mgqgn55df92s9bg5n7i",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mgqgn55d5q946g5t9ne"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ],
+                  [
+                    "img",
+                    {
+                      "uuid": "mnfff2myeujumvgpel",
+                      "name": "image.png",
+                      "size": 920348,
+                      "width": 981,
+                      "height": 388.04,
+                      "src": "/core/api/resources/img/5eecdaf48460cde528ec1e2fb3649c5e885bf125e2c91d8475b8339e1c4c24831b75b38faadcd24bec177c308ebd53041cbbd61d39a280afe0dc22531ac0972a7ff86a95cb9a2952ff1d567310d93811acc88a71021dcff84fb4c8ed7016461c",
+                      "extraData": {
+                        "resourceId": "005e7a14-e0d2-4f2f-b091-db6f7468d119",
+                        "metaData": {
+                          "size": 920348,
+                          "originWidth": 2250,
+                          "originHeight": 890,
+                          "format": "png",
+                          "ratio": 1
+                        }
+                      },
+                      "rotation": 0
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "leaf"
+                        },
+                        ""
+                      ]
+                    ]
+                  ],
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 3,
+                  "uuid": "mgqgphqzoeffpg871ra",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mgqgpof42rqmb0l4hoe",
+                    "ind": {
+                      "left": 0
+                    }
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "highlight": "#F9DDB2",
+                        "data-type": "leaf"
+                      },
+                      "下单说明："
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "ind": {
+                      "left": 0
+                    },
+                    "list": {
+                      "isOrdered": true,
+                      "isTaskList": false,
+                      "level": 0,
+                      "listId": "2mg2p3alrc8",
+                      "listStyle": {
+                        "align": "left",
+                        "format": "decimal",
+                        "text": "%1."
+                      },
+                      "listStyleType": "DEC_LEN_LROM_P",
+                      "symbolStyle": {}
+                    },
+                    "uuid": "mejj1kzgjzjjze2d5s"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "highlight": "#FEF3F3",
+                        "data-type": "leaf"
+                      },
+                      "优惠价说明："
+                    ],
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "指平台读取的，商家自己设置的商品优惠价"
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "ind": {
+                      "left": 0
+                    },
+                    "list": {
+                      "extraData": {},
+                      "hideSymbol": false,
+                      "isChecked": false,
+                      "isOrdered": true,
+                      "isTaskList": false,
+                      "level": 0,
+                      "listId": "2mg2p3alrc8",
+                      "listStyle": {
+                        "format": "decimal",
+                        "text": "%1.",
+                        "align": "left"
+                      },
+                      "listStyleType": "DEC_LEN_LROM_P",
+                      "symbolStyle": {}
+                    },
+                    "uuid": "mfz0rw6v1yszj86e14h"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "highlight": "#FEF3F3",
+                        "data-type": "leaf"
+                      },
+                      "佣金率说明："
+                    ],
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "前5单/5单以后：为sku粒度进行控制（举例若您的商品有2个sku，sku1已通过小店成交宝完成6单成交订单，sku2通过小店成交宝完成3单成交订单；此时再产生成交订单后，sku1按照5单以上费率进行收费，sku2按照前5单费率进行收费）"
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "ind": {
+                      "left": 0
+                    },
+                    "uuid": "mfz0rw6vbgjkupgugo4",
+                    "list": {
+                      "listId": "2mg2p3alrc8",
+                      "level": 0,
+                      "isTaskList": false,
+                      "isOrdered": true,
+                      "extraData": {},
+                      "hideSymbol": false,
+                      "isChecked": false,
+                      "listStyle": {
+                        "format": "decimal",
+                        "text": "%1.",
+                        "align": "left"
+                      },
+                      "listStyleType": "DEC_LEN_LROM_P",
+                      "symbolStyle": {}
+                    }
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "highlight": "#FEF3F3",
+                        "data-type": "leaf"
+                      },
+                      "收费模式："
+                    ],
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "平台按商品优惠价/投入产出比进行收费（举例商品优惠价129元，投入产出比6，则收费金额为129/6=21.5元），商品订单完成后（消费者确认成交），将从您的支付宝中进行扣费"
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "ind": {
+                      "left": 0
+                    },
+                    "uuid": "mfz0rw6vip44voskthp",
+                    "list": {
+                      "listId": "2mg2p3alrc8",
+                      "level": 0,
+                      "isTaskList": false,
+                      "isOrdered": true,
+                      "extraData": {},
+                      "hideSymbol": false,
+                      "isChecked": false,
+                      "listStyle": {
+                        "format": "decimal",
+                        "text": "%1.",
+                        "align": "left"
+                      },
+                      "listStyleType": "DEC_LEN_LROM_P",
+                      "symbolStyle": {}
+                    }
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "highlight": "#FEF3F3",
+                        "data-type": "leaf"
+                      },
+                      "想要添加更多商品："
+                    ],
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "单次最多可添加10个商品，若需添建更多商品，请新建一个下单计划"
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "ind": {
+                      "left": 0
+                    },
+                    "uuid": "mfz0rw6vtx05osqt7im",
+                    "list": {
+                      "listId": "2mg2p3alrc8",
+                      "level": 0,
+                      "isTaskList": false,
+                      "isOrdered": true,
+                      "extraData": {},
+                      "hideSymbol": false,
+                      "isChecked": false,
+                      "listStyle": {
+                        "format": "decimal",
+                        "text": "%1.",
+                        "align": "left"
+                      },
+                      "listStyleType": "DEC_LEN_LROM_P",
+                      "symbolStyle": {}
+                    }
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "highlight": "#FEF3F3",
+                        "data-type": "leaf"
+                      },
+                      "协议签署："
+                    ],
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "您需签署"
+                    ],
+                    [
+                      "span",
+                      {
+                        "sz": 12,
+                        "szUnit": "pt",
+                        "color": "rgb(13, 18, 57)",
+                        "data-type": "leaf"
+                      },
+                      "《阿里妈妈无界版软件服务协议》、《淘宝品牌新享·新品营销托管服务协议》、《天猫品牌新享·新品营销托管服务协议》、《支付宝代扣服务协议》（若任何一项已签署，则无需重复签署）"
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {
+                "uuid": "mgqgn55dpg9q1kbe0h9"
+              },
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mgqgn55dq1r6v8wndm",
+                  "vAlign": "middle"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mgqgo5rragxkb07ixc9",
+                    "ind": {
+                      "left": 0
+                    },
+                    "list": {
+                      "listId": "65uqxfi4q3u",
+                      "level": 0,
+                      "isTaskList": false,
+                      "isOrdered": false,
+                      "listStyleType": "SCIR_ECIR_SREC",
+                      "symbolStyle": {},
+                      "listStyle": {
+                        "format": "bullet",
+                        "text": "●",
+                        "align": "left"
+                      }
+                    },
+                    "jc": "left"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "步骤2：找到“我的限时权益”，小店成交宝模块，点击“立即下单”"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mgqgn55dzpgj0qljgi",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mgqgn55ddlkelm31vpk"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ],
+                  [
+                    "img",
+                    {
+                      "uuid": "mnfff2my67pfnslf7bb",
+                      "name": "image.png",
+                      "size": 1475996,
+                      "width": 310,
+                      "height": 156.85032139577595,
+                      "src": "/core/api/resources/img/5eecdaf48460cde5c77ae45b2bc33426953aa5dab1495b6575b8339e1c4c24831b75b38faadcd24bec177c308ebd5304da2dc9ad6fb0c548dff826afde708441d1b0130472738936f7c0344bb14d93a953bec8f493342abd4fb4c8ed7016461c",
+                      "extraData": {
+                        "resourceId": "863e220f-0b30-4ee0-92b7-421abea4414f",
+                        "metaData": {
+                          "size": 1475996,
+                          "originWidth": 2178,
+                          "originHeight": 1102,
+                          "format": "png",
+                          "ratio": 1
+                        }
+                      }
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "leaf"
+                        },
+                        ""
+                      ]
+                    ]
+                  ],
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "uuid": "mkby9wcw81wotwmp3zg"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mgqgphr3879gdw7alm",
+                  "hidden": true,
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mgqgphr3dt1z2t704tw"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {
+                "uuid": "mgqgott29w3cg92a8w6"
+              },
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mgqgott2qubium83tgc",
+                  "vAlign": "middle"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mgqgp2dmj3qomoh63yi",
+                    "ind": {
+                      "left": 0
+                    },
+                    "list": {
+                      "listId": "s760yn9i46m",
+                      "level": 0,
+                      "isTaskList": false,
+                      "isOrdered": false,
+                      "listStyleType": "SCIR_ECIR_SREC",
+                      "symbolStyle": {},
+                      "listStyle": {
+                        "format": "bullet",
+                        "text": "●",
+                        "align": "left"
+                      }
+                    },
+                    "jc": "left"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "步骤3：当出现弹窗时，选择添加商品，并设置投入产出比，点击“0元开启”，即为创建成功"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mgqgott2shoyqsaijtn",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mgqgott28w7vx4r8bpa"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ],
+                  [
+                    "img",
+                    {
+                      "uuid": "mnfff2myb8wq152fksg",
+                      "name": "image.png",
+                      "size": 2181705,
+                      "width": 310,
+                      "height": 202.51401869158877,
+                      "src": "/core/api/resources/img/5eecdaf48460cde5c77ae45b2bc33426953aa5dab1495b6575b8339e1c4c24831b75b38faadcd24bec177c308ebd53047b640c0bbaeeaa7bc953d9c4343838f41901faa3b81226597489289aeb3bdad3d5d40ec324ab8c9d4fb4c8ed7016461c",
+                      "extraData": {
+                        "resourceId": "2840d0f8-f0a3-4b96-ad31-6b4262080934",
+                        "metaData": {
+                          "size": 2181705,
+                          "originWidth": 2140,
+                          "originHeight": 1398,
+                          "format": "png",
+                          "ratio": 1
+                        }
+                      }
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "leaf"
+                        },
+                        ""
+                      ]
+                    ]
+                  ],
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "uuid": "mkbyc0nq6ps4jmi5cvu"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "uuid": "mgt80p12bshm65ng6y9"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mgqgphr3wz9t7nz2vj",
+                  "hidden": true,
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mgqgphr3ed8cwgjyqq7"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ]
+                ]
+              ]
+            ]
+          ],
+          [
+            "table",
+            {
+              "colsWidth": [
+                327,
+                327,
+                328
+              ],
+              "tblW": {
+                "w": 100,
+                "type": "pct"
+              },
+              "uuid": "mgqgt8r5sg44ea9d90j",
+              "styleId": "tableHeader",
+              "tblLook": {
+                "firstRow": 1,
+                "firstColumn": 0,
+                "lastRow": 0,
+                "lastColumn": 0
+              }
+            },
+            [
+              "tr",
+              {
+                "uuid": "mgqgt8r5cproa37nn28",
+                "isTblHeader": true
+              },
+              [
+                "tc",
+                {
+                  "colSpan": 3,
+                  "rowSpan": 1,
+                  "uuid": "mgqgt8r5xi9iqsnz5m",
+                  "fill": "radial-gradient(68% 68% at 68% 100%, #F2F7F7 0%, rgba(242, 245, 255, 0) 100%), radial-gradient(53% 53% at 16% -12%, #FEF2F2 0%, rgba(242, 245, 255, 0) 100%), radial-gradient(55% 141% at 100% 100%, #E4EBFF 0%, rgba(242, 245, 255, 0) 100%), linear-gradient(99deg, #E9E7FF 0%, #E4EBFF 100%)",
+                  "vAlign": "middle"
+                },
+                [
+                  "h5",
+                  {
+                    "uuid": "mgqgt8r5l2yqtpk1ood",
+                    "ind": {
+                      "left": 0
+                    },
+                    "spacing": {
+                      "before": 19.333333333333332,
+                      "after": 8.666666666666666,
+                      "line": 0.8615384615384615
+                    },
+                    "jc": "center"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "sz": 14,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      "万相台无界PC端"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mgqgt8r52p4z4ku1w8y",
+                  "hidden": true,
+                  "fill": "radial-gradient(68% 68% at 68% 100%, #F2F7F7 0%, rgba(242, 245, 255, 0) 100%), radial-gradient(53% 53% at 16% -12%, #FEF2F2 0%, rgba(242, 245, 255, 0) 100%), radial-gradient(55% 141% at 100% 100%, #E4EBFF 0%, rgba(242, 245, 255, 0) 100%), linear-gradient(99deg, #E9E7FF 0%, #E4EBFF 100%)",
+                  "vAlign": "middle"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mgqgt8r5pbe7zgzgki",
+                    "jc": "center"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 14,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mgqgt8r51tx95h59s78",
+                  "hidden": true,
+                  "fill": "radial-gradient(68% 68% at 68% 100%, #F2F7F7 0%, rgba(242, 245, 255, 0) 100%), radial-gradient(53% 53% at 16% -12%, #FEF2F2 0%, rgba(242, 245, 255, 0) 100%), radial-gradient(55% 141% at 100% 100%, #E4EBFF 0%, rgba(242, 245, 255, 0) 100%), linear-gradient(99deg, #E9E7FF 0%, #E4EBFF 100%)",
+                  "vAlign": "middle"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mgqgt8r5xa834ywm2m",
+                    "jc": "center"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 14,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {
+                "uuid": "mgqgt8r561bjkvhybt"
+              },
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mgqgt8r54d54udu68s6",
+                  "vAlign": "middle"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mgqgt8r5ijfgsrsbu39",
+                    "ind": {
+                      "left": 0
+                    },
+                    "list": {
+                      "listId": "9jkbh7sy0fr",
+                      "level": 0,
+                      "isTaskList": false,
+                      "isOrdered": false,
+                      "listStyleType": "SCIR_ECIR_SREC",
+                      "symbolStyle": {},
+                      "listStyle": {
+                        "format": "bullet",
+                        "text": "●",
+                        "align": "left"
+                      }
+                    },
+                    "jc": "left"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "步骤1：登录万相台无界（"
+                    ]
+                  ],
+                  [
+                    "a",
+                    {
+                      "href": "https://one.alimama.com/",
+                      "uuid": "mgqgtgak21kgbl2dklz"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "leaf"
+                        },
+                        "https://one.alimama.com/"
+                      ]
+                    ]
+                  ],
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "），找到“我的限时权益-小店成交宝，点击“下单”"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mgqgt8r5zpf041wbdca",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mgqgt8r51mq6d08jiev"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ],
+                  [
+                    "img",
+                    {
+                      "uuid": "mnfff2my1krjyxquses",
+                      "name": "image.png",
+                      "size": 1828273,
+                      "width": 310,
+                      "height": 114.43267776096822,
+                      "src": "/core/api/resources/img/5eecdaf48460cde5c77ae45b2bc33426953aa5dab1495b6575b8339e1c4c24831b75b38faadcd24bec177c308ebd53046333903b8532f0f105e23c5cae6c7533d2ad0777b0b35e3427bc977bd6eb1c3729183ea10ede87784fb4c8ed7016461c",
+                      "extraData": {
+                        "resourceId": "11d6bf65-4bb2-47b0-97c8-cf8ad01eb8bb",
+                        "metaData": {
+                          "size": 1828273,
+                          "originWidth": 2644,
+                          "originHeight": 976,
+                          "format": "png",
+                          "ratio": 1
+                        }
+                      }
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "leaf"
+                        },
+                        ""
+                      ]
+                    ]
+                  ],
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "uuid": "mkbyj9up6o32aq07rf"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 2,
+                  "uuid": "mgqgt8r5z40da7ofeh9",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mgqgut6qq2yg5vimwip",
+                    "ind": {
+                      "left": 0
+                    }
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "highlight": "#F9DDB2",
+                        "data-type": "leaf"
+                      },
+                      "下单说明："
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "ind": {
+                      "left": 0
+                    },
+                    "list": {
+                      "isOrdered": true,
+                      "isTaskList": false,
+                      "level": 0,
+                      "listId": "n34l214slvl",
+                      "listStyle": {
+                        "align": "left",
+                        "format": "decimal",
+                        "text": "%1."
+                      },
+                      "listStyleType": "DEC_LEN_LROM_P",
+                      "symbolStyle": {}
+                    },
+                    "uuid": "mejjnkurzmuta4kmhsl"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "highlight": "#FEF3F3",
+                        "data-type": "leaf"
+                      },
+                      "优惠价说明："
+                    ],
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "指平台读取的，商家自己设置的商品优惠价"
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "ind": {
+                      "left": 0
+                    },
+                    "list": {
+                      "extraData": {},
+                      "hideSymbol": false,
+                      "isChecked": false,
+                      "isOrdered": true,
+                      "isTaskList": false,
+                      "level": 0,
+                      "listId": "n34l214slvl",
+                      "listStyle": {
+                        "align": "left",
+                        "format": "decimal",
+                        "text": "%1."
+                      },
+                      "listStyleType": "DEC_LEN_LROM_P",
+                      "symbolStyle": {}
+                    },
+                    "uuid": "mejjnkur1sm3ojdnn1a"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "highlight": "#FEF3F3",
+                        "data-type": "leaf"
+                      },
+                      "佣金率说明："
+                    ],
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "前5单/5单以后：为sku粒度进行控制（举例若您的商品有2个sku，sku1已通过小店成交宝完成6单成交订单，sku2通过小店成交宝完成3单成交订单；此时再产生成交订单后，sku1按照5单以上费率进行收费，sku2按照前5单费率进行收费）"
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "ind": {
+                      "left": 0
+                    },
+                    "uuid": "mejjnkurvrzuto7b4m",
+                    "list": {
+                      "listId": "n34l214slvl",
+                      "level": 0,
+                      "isTaskList": false,
+                      "isOrdered": true,
+                      "extraData": {},
+                      "hideSymbol": false,
+                      "isChecked": false,
+                      "listStyle": {
+                        "format": "decimal",
+                        "text": "%1.",
+                        "align": "left"
+                      },
+                      "listStyleType": "DEC_LEN_LROM_P",
+                      "symbolStyle": {}
+                    }
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "highlight": "#FEF3F3",
+                        "data-type": "leaf"
+                      },
+                      "收费模式："
+                    ],
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "平台按商品优惠价/投入产出比进行收费（举例商品优惠价129元，投入产出比6，则收费金额为129/6=21.5元），商品订单完成后（消费者确认成交），将从您的支付宝中进行扣费"
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "ind": {
+                      "left": 0
+                    },
+                    "uuid": "mf3x6tpfgjdlhc4hqgn",
+                    "list": {
+                      "listId": "n34l214slvl",
+                      "level": 0,
+                      "isTaskList": false,
+                      "isOrdered": true,
+                      "extraData": {},
+                      "hideSymbol": false,
+                      "isChecked": false,
+                      "listStyle": {
+                        "format": "decimal",
+                        "text": "%1.",
+                        "align": "left"
+                      },
+                      "listStyleType": "DEC_LEN_LROM_P",
+                      "symbolStyle": {}
+                    }
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "highlight": "#FEF3F3",
+                        "data-type": "leaf"
+                      },
+                      "想要添加更多商品："
+                    ],
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "单次最多可添加10个商品，若需添建更多商品，请新建一个下单计划"
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "ind": {
+                      "left": 0
+                    },
+                    "uuid": "mejjnkusjldtcxx5wc",
+                    "list": {
+                      "listId": "n34l214slvl",
+                      "level": 0,
+                      "isTaskList": false,
+                      "isOrdered": true,
+                      "extraData": {},
+                      "hideSymbol": false,
+                      "isChecked": false,
+                      "listStyle": {
+                        "format": "decimal",
+                        "text": "%1.",
+                        "align": "left"
+                      },
+                      "listStyleType": "DEC_LEN_LROM_P",
+                      "symbolStyle": {}
+                    }
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "highlight": "#FEF3F3",
+                        "data-type": "leaf"
+                      },
+                      "协议签署："
+                    ],
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "您需签署"
+                    ],
+                    [
+                      "span",
+                      {
+                        "sz": 12,
+                        "szUnit": "pt",
+                        "color": "rgb(13, 18, 57)",
+                        "data-type": "leaf"
+                      },
+                      "《阿里妈妈无界版软件服务协议》、《淘宝品牌新享·新品营销托管服务协议》、《天猫品牌新享·新品营销托管服务协议》、《支付宝代扣服务协议》（若任何一项已签署，则无需重复签署）"
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {
+                "uuid": "mgqgu230hu5xawgd6lm"
+              },
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mgqgu230eofd58atrku",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mgqgu2pdzsgbuevfntd",
+                    "ind": {
+                      "left": 0
+                    },
+                    "list": {
+                      "listId": "vivckmuwc9p",
+                      "level": 0,
+                      "isTaskList": false,
+                      "isOrdered": false,
+                      "listStyleType": "SCIR_ECIR_SREC",
+                      "symbolStyle": {},
+                      "listStyle": {
+                        "format": "bullet",
+                        "text": "●",
+                        "align": "left"
+                      }
+                    }
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "步骤2：当出现弹窗时，选择添加商品，并设置投入产出比，点击“0元开启”，即为创建成功"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mgqgu230q9wrv32b48j",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mgqgu2306edwm0f9hw"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ],
+                  [
+                    "img",
+                    {
+                      "uuid": "mnfff2my6owvn3vcjpd",
+                      "name": "image.png",
+                      "size": 2181705,
+                      "width": 310,
+                      "height": 202.51401869158877,
+                      "src": "/core/api/resources/img/5eecdaf48460cde5c77ae45b2bc33426953aa5dab1495b6575b8339e1c4c24831b75b38faadcd24bec177c308ebd5304e12a3bf34d04fe15d17feda97391e31dcaa29c8744e1439f298af964a868d1f8e3fa8180d19c874c4fb4c8ed7016461c",
+                      "extraData": {
+                        "resourceId": "128ffb12-e297-4d35-a8cc-b4adad2746ff",
+                        "metaData": {
+                          "size": 2181705,
+                          "originWidth": 2140,
+                          "originHeight": 1398,
+                          "format": "png",
+                          "ratio": 1
+                        }
+                      }
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "leaf"
+                        },
+                        ""
+                      ]
+                    ]
+                  ],
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "uuid": "mkbycau7h1mbrhl4rec"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "uuid": "mgt817v50zobxyy94a4g"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mgqgu23094w6xtyv5aa",
+                  "hidden": true,
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mgqgu2303bbwbuw7cd7"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ]
+                ]
+              ]
+            ]
+          ],
+          [
+            "table",
+            {
+              "colsWidth": [
+                327,
+                327,
+                328
+              ],
+              "tblW": {
+                "w": 100,
+                "type": "pct"
+              },
+              "uuid": "mgqgwhk32xptedc14pq",
+              "styleId": "tableHeader",
+              "tblLook": {
+                "firstRow": 1,
+                "firstColumn": 0,
+                "lastRow": 0,
+                "lastColumn": 0
+              }
+            },
+            [
+              "tr",
+              {
+                "uuid": "mgqgwhk3iaamd03wt2c",
+                "isTblHeader": true
+              },
+              [
+                "tc",
+                {
+                  "colSpan": 3,
+                  "rowSpan": 1,
+                  "uuid": "mgqgwhk326owe9hpk36",
+                  "fill": "radial-gradient(68% 68% at 68% 100%, #F2F7F7 0%, rgba(242, 245, 255, 0) 100%), radial-gradient(53% 53% at 16% -12%, #FEF2F2 0%, rgba(242, 245, 255, 0) 100%), radial-gradient(55% 141% at 100% 100%, #E4EBFF 0%, rgba(242, 245, 255, 0) 100%), linear-gradient(99deg, #E9E7FF 0%, #E4EBFF 100%)",
+                  "vAlign": "middle"
+                },
+                [
+                  "h5",
+                  {
+                    "uuid": "mgqgwhk3o1464r3e4am",
+                    "ind": {
+                      "left": 0
+                    },
+                    "spacing": {
+                      "before": 19.333333333333332,
+                      "after": 8.666666666666666,
+                      "line": 0.8615384615384615
+                    },
+                    "jc": "center"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "sz": 14,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      "万相台无界小程序"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mgqgwhk3z795l0h8xbi",
+                  "hidden": true,
+                  "fill": "radial-gradient(68% 68% at 68% 100%, #F2F7F7 0%, rgba(242, 245, 255, 0) 100%), radial-gradient(53% 53% at 16% -12%, #FEF2F2 0%, rgba(242, 245, 255, 0) 100%), radial-gradient(55% 141% at 100% 100%, #E4EBFF 0%, rgba(242, 245, 255, 0) 100%), linear-gradient(99deg, #E9E7FF 0%, #E4EBFF 100%)",
+                  "vAlign": "middle"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mgqgwhk3yss0a9s8i0e",
+                    "jc": "center"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 14,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mgqgwhk3ahqij2kotto",
+                  "hidden": true,
+                  "fill": "radial-gradient(68% 68% at 68% 100%, #F2F7F7 0%, rgba(242, 245, 255, 0) 100%), radial-gradient(53% 53% at 16% -12%, #FEF2F2 0%, rgba(242, 245, 255, 0) 100%), radial-gradient(55% 141% at 100% 100%, #E4EBFF 0%, rgba(242, 245, 255, 0) 100%), linear-gradient(99deg, #E9E7FF 0%, #E4EBFF 100%)",
+                  "vAlign": "middle"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mgqgwhk3cgt6pf88qxm",
+                    "jc": "center"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 14,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {
+                "uuid": "mgqgwhk3mzqwkh9j9o"
+              },
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mgqgwhk3njxk0sf5q7f",
+                  "vAlign": "middle"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mgqgwhk3onbk6dj5wmr",
+                    "ind": {
+                      "left": 0
+                    },
+                    "list": {
+                      "listId": "sic03xlrodg",
+                      "level": 0,
+                      "isTaskList": false,
+                      "isOrdered": false,
+                      "listStyleType": "SCIR_ECIR_SREC",
+                      "symbolStyle": {},
+                      "listStyle": {
+                        "format": "bullet",
+                        "text": "●",
+                        "align": "left"
+                      }
+                    },
+                    "jc": "left"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "步骤1：登录千牛无线小程序，点击万相台"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mgqgwhk3sdqkehws6b",
+                  "vAlign": "middle"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mgqgwhk35kvds9xyryk",
+                    "jc": "center"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ],
+                  [
+                    "img",
+                    {
+                      "extraData": {
+                        "metaData": {
+                          "format": "png",
+                          "originHeight": 1042,
+                          "originWidth": 486,
+                          "ratio": 1,
+                          "size": 441703
+                        },
+                        "resourceId": "6196beac-b0e1-46ec-99a4-0fd46363be4c"
+                      },
+                      "height": 262,
+                      "name": "image.png",
+                      "rotation": 0,
+                      "size": 441703,
+                      "src": "/core/api/resources/img/5eecdaf48460cde528ec1e2fb3649c5e885bf125e2c91d8475b8339e1c4c24831b75b38faadcd24bec177c308ebd5304fe4fef4f78b2147eeec91ab4289e791b479c7bf8de140858f7feaf62e2a9d1a97214416ff63b0db24fb4c8ed7016461c",
+                      "uuid": "mnfff2mymcwydlcebph",
+                      "width": 122
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "leaf"
+                        },
+                        ""
+                      ]
+                    ]
+                  ],
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 3,
+                  "uuid": "mgqgwhk3xok030uir7",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mgqgwhk3fk23ycpald5",
+                    "ind": {
+                      "left": 0
+                    }
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "highlight": "#F9DDB2",
+                        "data-type": "leaf"
+                      },
+                      "下单说明："
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "ind": {
+                      "left": 0
+                    },
+                    "list": {
+                      "isOrdered": true,
+                      "isTaskList": false,
+                      "level": 0,
+                      "listId": "akhhlbp2ywa",
+                      "listStyle": {
+                        "align": "left",
+                        "format": "decimal",
+                        "text": "%1."
+                      },
+                      "listStyleType": "DEC_LEN_LROM_P",
+                      "symbolStyle": {}
+                    },
+                    "uuid": "mgqgx2hpl8l6yk16df8"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "highlight": "#FEF3F3",
+                        "data-type": "leaf"
+                      },
+                      "优惠价说明："
+                    ],
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "指平台读取的，商家自己设置的商品优惠价"
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "ind": {
+                      "left": 0
+                    },
+                    "list": {
+                      "extraData": {},
+                      "hideSymbol": false,
+                      "isChecked": false,
+                      "isOrdered": true,
+                      "isTaskList": false,
+                      "level": 0,
+                      "listId": "akhhlbp2ywa",
+                      "listStyle": {
+                        "align": "left",
+                        "format": "decimal",
+                        "text": "%1."
+                      },
+                      "listStyleType": "DEC_LEN_LROM_P",
+                      "symbolStyle": {}
+                    },
+                    "uuid": "mgqgx2hq2tav4h8gc1i"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "highlight": "#FEF3F3",
+                        "data-type": "leaf"
+                      },
+                      "佣金率说明："
+                    ],
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "前5单/5单以后：为sku粒度进行控制（举例若您的商品有2个sku，sku1已通过小店成交宝完成6单成交订单，sku2通过小店成交宝完成3单成交订单；此时再产生成交订单后，sku1按照5单以上费率进行收费，sku2按照前5单费率进行收费）"
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "ind": {
+                      "left": 0
+                    },
+                    "uuid": "mgqgx2hq7o4fcwrp19o",
+                    "list": {
+                      "listId": "akhhlbp2ywa",
+                      "level": 0,
+                      "isTaskList": false,
+                      "isOrdered": true,
+                      "extraData": {},
+                      "hideSymbol": false,
+                      "isChecked": false,
+                      "listStyle": {
+                        "format": "decimal",
+                        "text": "%1.",
+                        "align": "left"
+                      },
+                      "listStyleType": "DEC_LEN_LROM_P",
+                      "symbolStyle": {}
+                    }
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "highlight": "#FEF3F3",
+                        "data-type": "leaf"
+                      },
+                      "收费模式："
+                    ],
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "平台按商品优惠价/投入产出比进行收费（举例商品优惠价129元，投入产出比6，则收费金额为129/6=21.5元），商品订单完成后（消费者确认成交），将从您的支付宝中进行扣费"
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "ind": {
+                      "left": 0
+                    },
+                    "uuid": "mgqgx2hqpeizwpcedd",
+                    "list": {
+                      "listId": "akhhlbp2ywa",
+                      "level": 0,
+                      "isTaskList": false,
+                      "isOrdered": true,
+                      "extraData": {},
+                      "hideSymbol": false,
+                      "isChecked": false,
+                      "listStyle": {
+                        "format": "decimal",
+                        "text": "%1.",
+                        "align": "left"
+                      },
+                      "listStyleType": "DEC_LEN_LROM_P",
+                      "symbolStyle": {}
+                    }
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "highlight": "#FEF3F3",
+                        "data-type": "leaf"
+                      },
+                      "想要添加更多商品："
+                    ],
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "单次最多可添加10个商品，若需添建更多商品，请新建一个下单计划"
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "ind": {
+                      "left": 0
+                    },
+                    "uuid": "mgqgx2hr7axjo99lct",
+                    "list": {
+                      "listId": "akhhlbp2ywa",
+                      "level": 0,
+                      "isTaskList": false,
+                      "isOrdered": true,
+                      "extraData": {},
+                      "hideSymbol": false,
+                      "isChecked": false,
+                      "listStyle": {
+                        "format": "decimal",
+                        "text": "%1.",
+                        "align": "left"
+                      },
+                      "listStyleType": "DEC_LEN_LROM_P",
+                      "symbolStyle": {}
+                    }
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "highlight": "#FEF3F3",
+                        "data-type": "leaf"
+                      },
+                      "协议签署："
+                    ],
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "您需签署"
+                    ],
+                    [
+                      "span",
+                      {
+                        "sz": 12,
+                        "szUnit": "pt",
+                        "color": "rgb(13, 18, 57)",
+                        "data-type": "leaf"
+                      },
+                      "《阿里妈妈无界版软件服务协议》、《淘宝品牌新享·新品营销托管服务协议》、《天猫品牌新享·新品营销托管服务协议》、《支付宝代扣服务协议》（若任何一项已签署，则无需重复签署）"
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {
+                "uuid": "mgqgx69cq8lqh2c3xh"
+              },
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mgqgx69c6e9mopgreik",
+                  "vAlign": "middle"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mgqgx92lgmmbej9b37p",
+                    "ind": {
+                      "left": 0
+                    },
+                    "list": {
+                      "listId": "6z4wdq5o2lc",
+                      "level": 0,
+                      "isTaskList": false,
+                      "isOrdered": false,
+                      "listStyleType": "SCIR_ECIR_SREC",
+                      "symbolStyle": {},
+                      "listStyle": {
+                        "format": "bullet",
+                        "text": "●",
+                        "align": "left"
+                      }
+                    },
+                    "jc": "left"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "步骤2：找到“我的限时权益”，小店成交宝模块，点击“去使用”"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mgqgx69cfljk83fpx0v",
+                  "vAlign": "middle"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mgqgx69c9dj74ah9z4p",
+                    "jc": "center"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ],
+                  [
+                    "img",
+                    {
+                      "uuid": "mnfff2my4ye8pwbwcqw",
+                      "name": "image.png",
+                      "size": 1077507,
+                      "width": 138,
+                      "height": 290,
+                      "src": "/core/api/resources/img/5eecdaf48460cde5c77ae45b2bc33426953aa5dab1495b6575b8339e1c4c24831b75b38faadcd24bec177c308ebd5304cbfd96773e57acd29d4d739983feacc35de620a40f43d8d2f8831573a957c417bc5d4aa3f75a8edd4fb4c8ed7016461c",
+                      "extraData": {
+                        "resourceId": "df94d560-aff5-4601-886e-739810f9baf0",
+                        "metaData": {
+                          "size": 1077507,
+                          "originWidth": 664,
+                          "originHeight": 1396,
+                          "format": "png",
+                          "ratio": 1
+                        }
+                      },
+                      "rotation": 0
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "leaf"
+                        },
+                        ""
+                      ]
+                    ]
+                  ],
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mgqgx69ckwqiygb4va",
+                  "hidden": true,
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mgqgx69cps2oii36e6d"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {
+                "uuid": "mgqgxiiekmnn8j16hls"
+              },
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mgqgxiiedyj3ufwrls",
+                  "vAlign": "middle"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mgqgxjfuem225ylqyp7",
+                    "ind": {
+                      "left": 0
+                    },
+                    "list": {
+                      "listId": "b5kd2oc6bfq",
+                      "level": 0,
+                      "isTaskList": false,
+                      "isOrdered": false,
+                      "listStyleType": "SCIR_ECIR_SREC",
+                      "symbolStyle": {},
+                      "listStyle": {
+                        "format": "bullet",
+                        "text": "●",
+                        "align": "left"
+                      }
+                    },
+                    "jc": "left"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "步骤3：当出现弹窗时，设置投入产出比，点击下单，即为创建成功"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mgqgxiier2ued84vzni",
+                  "vAlign": "middle"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mgqgxiieop0zaddy81q",
+                    "jc": "center"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ],
+                  [
+                    "img",
+                    {
+                      "uuid": "mnfff2myvpd0qivycwg",
+                      "name": "image.png",
+                      "size": 907049,
+                      "width": 139,
+                      "height": 296,
+                      "src": "/core/api/resources/img/5eecdaf48460cde5c77ae45b2bc33426953aa5dab1495b6575b8339e1c4c24831b75b38faadcd24bec177c308ebd530489bbbc729726a57f913fa1c77291e8ce65fb675545e524e018891064fdc514278dc1cbd887d9cb2f4fb4c8ed7016461c",
+                      "extraData": {
+                        "resourceId": "a8c506b7-6ec7-4b34-86e8-4c50055e0771",
+                        "metaData": {
+                          "size": 907049,
+                          "originWidth": 662,
+                          "originHeight": 1410,
+                          "format": "png",
+                          "ratio": 1
+                        }
+                      },
+                      "rotation": 0
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "leaf"
+                        },
+                        ""
+                      ]
+                    ]
+                  ],
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mgqgxiielvdvjxvabwn",
+                  "hidden": true,
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mgqgxiiec3oxwq85ygr"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ]
+                ]
+              ]
+            ]
+          ],
+          [
+            "h4",
+            {
+              "uuid": "mejju7d2yaxl2h6xaf",
+              "spacing": {
+                "before": 21.333333333333332,
+                "after": 8.666666666666666,
+                "line": 0.8615384615384615
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 13.5,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "（二）如何查看已下单计划"
+              ]
+            ]
+          ],
+          [
+            "table",
+            {
+              "colsWidth": [
+                491,
+                491
+              ],
+              "tblW": {
+                "w": 100,
+                "type": "pct"
+              },
+              "uuid": "mgqh0gtoqm0dn04w6xm",
+              "styleId": "tableHeader",
+              "tblLook": {
+                "firstRow": 1,
+                "firstColumn": 0,
+                "lastRow": 0,
+                "lastColumn": 0
+              }
+            },
+            [
+              "tr",
+              {
+                "uuid": "mgqh0gto0tkg1030cei",
+                "isTblHeader": true
+              },
+              [
+                "tc",
+                {
+                  "colSpan": 2,
+                  "rowSpan": 1,
+                  "uuid": "mgqh0gtnz4icp12dmel",
+                  "fill": "radial-gradient(68% 68% at 68% 100%, #F2F7F7 0%, rgba(242, 245, 255, 0) 100%), radial-gradient(53% 53% at 16% -12%, #FEF2F2 0%, rgba(242, 245, 255, 0) 100%), radial-gradient(55% 141% at 100% 100%, #E4EBFF 0%, rgba(242, 245, 255, 0) 100%), linear-gradient(99deg, #E9E7FF 0%, #E4EBFF 100%)",
+                  "vAlign": "middle"
+                },
+                [
+                  "h5",
+                  {
+                    "uuid": "mgqh0gtnmepxe4kdi8",
+                    "ind": {
+                      "left": 0
+                    },
+                    "spacing": {
+                      "before": 19.333333333333332,
+                      "after": 8.666666666666666,
+                      "line": 0.8615384615384615
+                    },
+                    "jc": "center"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "sz": 14,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      "万相台无界PC端"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mgqh0gtno9cf7atb6",
+                  "hidden": true,
+                  "fill": "radial-gradient(68% 68% at 68% 100%, #F2F7F7 0%, rgba(242, 245, 255, 0) 100%), radial-gradient(53% 53% at 16% -12%, #FEF2F2 0%, rgba(242, 245, 255, 0) 100%), radial-gradient(55% 141% at 100% 100%, #E4EBFF 0%, rgba(242, 245, 255, 0) 100%), linear-gradient(99deg, #E9E7FF 0%, #E4EBFF 100%)",
+                  "vAlign": "middle"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mgqh0gtnckmsvknmyzv",
+                    "jc": "center"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 14,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {
+                "uuid": "mgqh0gtooa422uyn1g"
+              },
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mgqh0gtopxsu6a98k1",
+                  "vAlign": "middle"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mgqh0gtop8txlqdo8et",
+                    "ind": {
+                      "left": 0
+                    },
+                    "list": {
+                      "listId": "4h6rtbmwogk",
+                      "level": 0,
+                      "isTaskList": false,
+                      "isOrdered": false,
+                      "listStyleType": "SCIR_ECIR_SREC",
+                      "symbolStyle": {},
+                      "listStyle": {
+                        "format": "bullet",
+                        "text": "●",
+                        "align": "left"
+                      }
+                    },
+                    "jc": "left"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "步骤1：登录万相台无界（"
+                    ]
+                  ],
+                  [
+                    "a",
+                    {
+                      "href": "https://one.alimama.com/",
+                      "uuid": "mgkpbptpoukmqjgpdjc"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "leaf"
+                        },
+                        "https://one.alimama.com/"
+                      ]
+                    ]
+                  ],
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "），点击推广-我的设置-小店成交宝"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mgqh0gtozcmz2p2ozk",
+                  "vAlign": "middle"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mgqh0gtod3v406lh0q",
+                    "jc": "center"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ],
+                  [
+                    "img",
+                    {
+                      "uuid": "mnfff2my9b7ca35ok2i",
+                      "name": "image.png",
+                      "size": 476657,
+                      "width": 474,
+                      "height": 71.41699449252557,
+                      "src": "/core/api/resources/img/5eecdaf48460cde5c77ae45b2bc33426953aa5dab1495b6575b8339e1c4c24831b75b38faadcd24bec177c308ebd5304ddcde75e874a17115fd31bb2b0b02e843cff8d4b33a66cafbfe723852e41bb1e91882cc20842efa54fb4c8ed7016461c",
+                      "extraData": {
+                        "resourceId": "5479156b-e303-4da5-969e-90a23fe766c6",
+                        "metaData": {
+                          "size": 476657,
+                          "originWidth": 2542,
+                          "originHeight": 383,
+                          "format": "png",
+                          "ratio": 1
+                        }
+                      }
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "leaf"
+                        },
+                        ""
+                      ]
+                    ]
+                  ],
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ]
+                ]
+              ]
+            ]
+          ],
+          [
+            "table",
+            {
+              "colsWidth": [
+                491,
+                491
+              ],
+              "tblW": {
+                "w": 100,
+                "type": "pct"
+              },
+              "uuid": "mgqh1z4gvraes5h296",
+              "styleId": "tableHeader",
+              "tblLook": {
+                "firstRow": 1,
+                "firstColumn": 0,
+                "lastRow": 0,
+                "lastColumn": 0
+              }
+            },
+            [
+              "tr",
+              {
+                "uuid": "mgqh1z4g2jyaym7tfbk",
+                "isTblHeader": true
+              },
+              [
+                "tc",
+                {
+                  "colSpan": 2,
+                  "rowSpan": 1,
+                  "uuid": "mgqh1z4g4x4oh90j73g",
+                  "fill": "radial-gradient(68% 68% at 68% 100%, #F2F7F7 0%, rgba(242, 245, 255, 0) 100%), radial-gradient(53% 53% at 16% -12%, #FEF2F2 0%, rgba(242, 245, 255, 0) 100%), radial-gradient(55% 141% at 100% 100%, #E4EBFF 0%, rgba(242, 245, 255, 0) 100%), linear-gradient(99deg, #E9E7FF 0%, #E4EBFF 100%)",
+                  "vAlign": "middle"
+                },
+                [
+                  "h5",
+                  {
+                    "uuid": "mgqh1z4g13dlx15yy42b",
+                    "ind": {
+                      "left": 0
+                    },
+                    "spacing": {
+                      "before": 19.333333333333332,
+                      "after": 8.666666666666666,
+                      "line": 0.8615384615384615
+                    },
+                    "jc": "center"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "sz": 14,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      "万相台无界无线端"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mgqh1z4gipcugb7lkzl",
+                  "hidden": true,
+                  "fill": "radial-gradient(68% 68% at 68% 100%, #F2F7F7 0%, rgba(242, 245, 255, 0) 100%), radial-gradient(53% 53% at 16% -12%, #FEF2F2 0%, rgba(242, 245, 255, 0) 100%), radial-gradient(55% 141% at 100% 100%, #E4EBFF 0%, rgba(242, 245, 255, 0) 100%), linear-gradient(99deg, #E9E7FF 0%, #E4EBFF 100%)",
+                  "vAlign": "middle"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mgqh1z4gc8chyi49irw",
+                    "jc": "center"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 14,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {
+                "uuid": "mgqh1z4ghhi8oef6c9m"
+              },
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mgqh1z4gk8rh2d8x1rj",
+                  "vAlign": "middle"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mgqh1z4gxbnswnd7qd",
+                    "ind": {
+                      "left": 0
+                    },
+                    "list": {
+                      "listId": "qf8y16qi18",
+                      "level": 0,
+                      "isTaskList": false,
+                      "isOrdered": false,
+                      "listStyleType": "SCIR_ECIR_SREC",
+                      "symbolStyle": {},
+                      "listStyle": {
+                        "format": "bullet",
+                        "text": "●",
+                        "align": "left"
+                      }
+                    },
+                    "jc": "left"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "步骤1：登录千牛-万相台无界icon-进入小程序，点击我的-小店成交宝"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mgqh1z4gljxx46qwza",
+                  "vAlign": "middle"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mgqh1z4gevwkhczqg3r",
+                    "jc": "center"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ],
+                  [
+                    "img",
+                    {
+                      "uuid": "mnfff2my1qq2r9wryj3",
+                      "name": "image.png",
+                      "size": 797661,
+                      "width": 174,
+                      "height": 376,
+                      "src": "/core/api/resources/img/5eecdaf48460cde5ed2574990a33ca1dc9032af7aef68ce375b8339e1c4c24831b75b38faadcd24bec177c308ebd53042cfca0eedcbe0e9105fabc16c6353c3a974b8bcff85db4280468589297aa37d1abfaf9f797948d2b4fb4c8ed7016461c",
+                      "extraData": {
+                        "resourceId": "bf4d90db-3859-4858-b26e-0727b1db06bf",
+                        "metaData": {
+                          "size": 797661,
+                          "originWidth": 652,
+                          "originHeight": 1408,
+                          "format": "png",
+                          "ratio": 1
+                        }
+                      },
+                      "rotation": 0
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "leaf"
+                        },
+                        ""
+                      ]
+                    ]
+                  ],
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ]
+                ]
+              ]
+            ]
+          ],
+          [
+            "h4",
+            {
+              "uuid": "mjjpiu8bvtsmomghmh7",
+              "spacing": {
+                "before": 21.333333333333332,
+                "after": 8.666666666666666,
+                "line": 0.8615384615384615
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 13.5,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "（三）数据看板字段解释"
+              ]
+            ]
+          ],
+          [
+            "table",
+            {
+              "colsWidth": [
+                392,
+                392
+              ],
+              "uuid": "mjjpj7ut9mb3uers1wb",
+              "styleId": "tableHeader",
+              "tblLook": {
+                "firstRow": 1,
+                "firstColumn": 0,
+                "lastRow": 0,
+                "lastColumn": 0
+              }
+            },
+            [
+              "tr",
+              {
+                "uuid": "mjjpj7ut3bu9co0gam6",
+                "isTblHeader": true,
+                "h": 33
+              },
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mjjpj7utsje8y73d6il",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mjjpj7utxkhuw99k3b8",
+                    "jc": "center",
+                    "ind": {
+                      "left": 0
+                    }
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "字段名"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mjjpj7utd392hoef6v6",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mjjpj7utnu7psbyzadn",
+                    "jc": "center"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "释义"
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {
+                "uuid": "mjjpj7utwawshg4iwbb",
+                "h": 33
+              },
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mjjpj7ut0j2nnir9zomm",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mjjpj7uts7da3ffvejo",
+                    "ind": {
+                      "left": 0
+                    },
+                    "jc": "center"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "在线商品数"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mjjpj7utjqoh7s4urvc",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mjjpj7utglrlx5a5jqb"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "今日在线的商品数量"
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {
+                "uuid": "mjjpkuh52adfo5psdiv",
+                "h": 33
+              },
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mjjpkuh54v2irzw8cjp",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mjjpkuh5dl0hnnzlmdh",
+                    "ind": {
+                      "left": 0
+                    },
+                    "jc": "center"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "总成交订单量"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mjjpkuh50v1unzoba7q",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mjjpkuh5a3mz57s47ag"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "今日总成交订单量，含除小店成交宝外其他其他优惠券如单品优惠、店铺优惠等"
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {
+                "uuid": "mjjpl0feflqsf4oal3h",
+                "h": 33
+              },
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mjjpl0fezpsiarnuqze",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mjjpl0feiayxasgq5ad",
+                    "ind": {
+                      "left": 0
+                    },
+                    "jc": "center"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "营销周期"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mjjpl0fe3k388u1skd6",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mjjpl0feybj6blvsyu"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "当前商品报名周期的时间范围"
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {
+                "uuid": "mjjpl39q9q28527ao5",
+                "h": 42
+              },
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mjjpl39qwn88nzjobs",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mjjpl39q45yrguajsig",
+                    "ind": {
+                      "left": 0
+                    },
+                    "jc": "center"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "上一周期预估成交订单量"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mjjpl39qvu2tyzujts",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mjjpl39qmb7cjspqlnk"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "当前报名周期的上一个周期（例如：商品在11.15日、12月1日分别报名14天小店成交宝计划，则12月1日报名周期上一周期就为11.15日报名周期内的数据），根据您所设置的营销计划，平台所预估出的周期内成交订单量。"
+                    ]
+                  ]
+                ]
+              ]
+            ]
+          ],
+          [
+            "h1",
+            {
+              "uuid": "mdv20cbhggrz7r3xuim",
+              "spacing": {
+                "before": 32,
+                "after": 12,
+                "line": 0.9333333333333332
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 21,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "五、有问题看这里"
+              ]
+            ]
+          ],
+          [
+            "h4",
+            {
+              "uuid": "mejjvlvsfiecs4y1z2",
+              "spacing": {
+                "before": 21.333333333333332,
+                "after": 8.666666666666666,
+                "line": 0.8615384615384615
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 13.5,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "（一）没有参与资格"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mejjy1mtlsf44njp8k",
+              "ind": {
+                "left": 0
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": false,
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "问：为什么我没有找到小店成交宝的下单入口，无法参与"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mejjyh0rpx5d83sxadh",
+              "ind": {
+                "left": 0
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": false,
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "答：目前仅开放给未尝试过推广投放的新手商家，且产品逐步放量中，敬请期待"
+              ]
+            ]
+          ],
+          [
+            "h4",
+            {
+              "uuid": "mejjzhr7jotul5go1vm",
+              "spacing": {
+                "before": 21.333333333333332,
+                "after": 8.666666666666666,
+                "line": 0.8615384615384615
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 13.5,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "（二）商品无法参与"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mejjzhr8mw29qb10508",
+              "ind": {
+                "left": 0
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": false,
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "问：为什么有的商品无法参加"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mejjzhr82qewaw01x7m",
+              "ind": {
+                "left": 0
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": false,
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "答：目前仅开放给商品阶段为“新品期”的商品；请关注产品后续升级动态，会逐步开放可参与商品范围"
+              ]
+            ]
+          ],
+          [
+            "h4",
+            {
+              "uuid": "mejk1o65pp79n3z26t",
+              "spacing": {
+                "before": 21.333333333333332,
+                "after": 8.666666666666666,
+                "line": 0.8615384615384615
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 13.5,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "（三）计划暂停还在扣费"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mejk2g3ikp0cu07fkmo",
+              "ind": {
+                "left": 0
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": false,
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "问：我已经暂停计划了，还在扣费"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mejk2g3id4jfid9oear",
+              "ind": {
+                "left": 0
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": false,
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "答：该笔订单的下单日期为计划开启期间，但扣费时间为该商品订单完成后（即消费者确认收货后），因此会存在计划已经暂停，但扣费的情况"
+              ]
+            ]
+          ],
+          [
+            "h4",
+            {
+              "uuid": "mf3x3f338opxptc0usf",
+              "spacing": {
+                "before": 21.333333333333332,
+                "after": 8.666666666666666,
+                "line": 0.8615384615384615
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 13.5,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "（四）订单退款后是否可以退回已扣费用？"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mf3x3brht4qjpvem6r",
+              "ind": {
+                "left": 0
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "问：通过小店成交宝成交的订单，消费者退款后，是否可以回退已扣费金额"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mf3x3xulxpku56q7l0n",
+              "ind": {
+                "left": 0
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "答：部分退回。若订单在消费者确认收货后退货退款，抽佣费用中用于消费者礼金补贴的部分将退回，用于助力成交的流量获取的部分不予退回。"
+              ]
+            ]
+          ],
+          [
+            "h4",
+            {
+              "uuid": "mjgxcvo6dtzzpu3135a",
+              "spacing": {
+                "before": 21.333333333333332,
+                "after": 8.666666666666666,
+                "line": 0.8615384615384615
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 13.5,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "（五）"
+              ],
+              [
+                "span",
+                {
+                  "sz": 13.5,
+                  "szUnit": "pt",
+                  "color": "rgb(0, 0, 0)",
+                  "data-type": "leaf"
+                },
+                "计划投放周期结束后是否还会自动继续投放？"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mjgxcvo8nzipcm3wfy",
+              "ind": {
+                "left": 0
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "问："
+              ],
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "rgb(0, 0, 0)",
+                  "data-type": "leaf"
+                },
+                "为什么计划当前营销周期与计划创建时间不一致？计划投放周期结束后是否还会自动继续投放？"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mjgxcvo8jzqtq6lg4gd",
+              "ind": {
+                "left": 0
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "答："
+              ],
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "rgb(0, 0, 0)",
+                  "data-type": "leaf"
+                },
+                "小店成交宝投放为长期计划。系统根据所设置的营销周期结束后（开启至结束时间精确到分秒），系统将会自动开启新一轮营销周期，且周期时长保持您创建计划时的“营销周期”天数。若需停止计划，需要您手动去结束计划"
+              ]
+            ]
+          ]
+        ],
+        "footers": {},
+        "version": 1
+      },
+      "refs": {}
+    }
+  }
+}

@@ -1,0 +1,4922 @@
+{
+  "version": 1,
+  "type": "application/x-alidocs-package",
+  "main": "00000000-0000-0000-0000-000000000001",
+  "plugins": "00000000-0000-0000-0000-000000000002",
+  "parts": {
+    "00000000-0000-0000-0000-000000000001": {
+      "id": "00000000-0000-0000-0000-000000000001",
+      "type": "application/x-alidocs-word",
+      "version": 1,
+      "data": {
+        "style": {
+          "docDefaults": {
+            "type": "paragraph",
+            "default": 1,
+            "name": "dingdocnormal",
+            "data": {
+              "rPr": {
+                "sz": 12,
+                "szUnit": "pt"
+              },
+              "pPr": {
+                "spacing": {
+                  "before": 8,
+                  "after": 8
+                }
+              }
+            }
+          },
+          "tableDefault": {
+            "type": "table",
+            "data": {
+              "tblPr": {
+                "bdr": {
+                  "bottom": {
+                    "color": "#D6D6D6",
+                    "space": 0,
+                    "sz": 1,
+                    "val": "single"
+                  },
+                  "insideH": {
+                    "color": "#D6D6D6",
+                    "space": 0,
+                    "sz": 1,
+                    "val": "single"
+                  },
+                  "insideV": {
+                    "color": "#D6D6D6",
+                    "space": 0,
+                    "sz": 1,
+                    "val": "single"
+                  },
+                  "left": {
+                    "color": "#D6D6D6",
+                    "space": 0,
+                    "sz": 1,
+                    "val": "single"
+                  },
+                  "right": {
+                    "color": "#D6D6D6",
+                    "space": 0,
+                    "sz": 1,
+                    "val": "single"
+                  },
+                  "top": {
+                    "color": "#D6D6D6",
+                    "space": 0,
+                    "sz": 1,
+                    "val": "single"
+                  }
+                }
+              }
+            }
+          },
+          "tableHeader": {
+            "type": "table",
+            "basedOn": "tableDefault",
+            "data": {
+              "tblStylePr": [
+                {
+                  "type": "firstRow",
+                  "tcPr": {
+                    "shd": {
+                      "fill": "#F5F6F7"
+                    }
+                  }
+                },
+                {
+                  "type": "firstCol",
+                  "tcPr": {
+                    "shd": {
+                      "fill": "#F5F6F7"
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        "theme": [],
+        "settings": {
+          "titleCover": {
+            "isHide": true
+          }
+        },
+        "app": {},
+        "numberings": {},
+        "headers": {},
+        "body": [
+          "root",
+          {
+            "sectPr": {
+              "pgSz": {
+                "w": 1127,
+                "h": 1588
+              },
+              "pgMar": {
+                "top": 48,
+                "bottom": 48,
+                "left": 72,
+                "right": 72,
+                "header": 56.73,
+                "footer": 66.13,
+                "gutter": 0
+              }
+            },
+            "theme": {
+              "table": {
+                "tableCell": {
+                  "vAlign": "top"
+                }
+              }
+            },
+            "userData": {
+              "4678181564": {
+                "madlmunqanung7f0mba": {
+                  "fold": false
+                }
+              }
+            },
+            "uuid": "mbahir36xb9nufvpx5f"
+          },
+          [
+            "p",
+            {
+              "uuid": "mb7lmiow9w15lb3q1c"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "当前功能少部分商家测试中，不支持申请，后续开放情况，请关注系统通知，妈妈club赏金任务可查看是否有对应开通活动报名入口，"
+              ]
+            ],
+            [
+              "a",
+              {
+                "href": "https://one.alimama.com/index.html#!/club/activity?menuView=activity&isTmallShop=1&isOriginYbz=0&activityId=1529396&isAutoSign=0",
+                "uuid": "mfaukdw8hilkvbwptnu"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  "点击前往"
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                " ；"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mb7ln07gbufcc2qivck"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "商家测试群见文档末尾"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mekqk3q8d4fkul9sywa"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "color": "#7e7F7F",
+                  "data-type": "leaf"
+                },
+                "注：如测试商家长期（近30天）不登录竞争解析界面使用，测试权限将被收回"
+              ]
+            ]
+          ],
+          [
+            "h2",
+            {
+              "spacing": {
+                "before": 21.333333333333332,
+                "after": 9,
+                "line": 0.8529411764705882
+              },
+              "uuid": "madkq6n0wyzay2phlip"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 16,
+                  "szUnit": "pt",
+                  "color": "rgba(23, 26, 29, 0.94)",
+                  "data-type": "leaf"
+                },
+                "一、能力概述"
+              ]
+            ]
+          ],
+          [
+            "container",
+            {
+              "subType": "colorBlocks",
+              "metadata": {
+                "padding": {
+                  "top": 11,
+                  "right": 11,
+                  "bottom": 11,
+                  "left": 11
+                },
+                "borderRadius": 8,
+                "sticker": "对勾",
+                "bgcolor": "#FFFAE5",
+                "showstk": false,
+                "border": "#9A6DD7"
+              },
+              "uuid": "mbagpzskxoyc2mxhqk"
+            },
+            [
+              "p",
+              {
+                "uuid": "mbagpzskm9njo0j5szj"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  "不知道怎么优化"
+                ],
+                [
+                  "span",
+                  {
+                    "bold": true,
+                    "color": "#FE0300",
+                    "data-type": "leaf"
+                  },
+                  "关键词推广"
+                ],
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  "的投放效果？不妨参考竞对，看一看！"
+                ]
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mbagpwwzi5mtu7gg7q"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ],
+            [
+              "span",
+              {
+                "uuid": "mbags9h26jvehqa5nps",
+                "code": "对勾",
+                "newCode": {
+                  "type": "dingding",
+                  "id": "emotion_110",
+                  "name": "[对勾]",
+                  "url": "https://g.alicdn.com/dingding/emotion-assets/0.76.0/mobile/emotion_110.png"
+                },
+                "data-type": "emoji"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "highlight": null,
+                    "sz": 12,
+                    "szUnit": "pt",
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "highlight": null,
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "支持自定义标杆商家，通过竞争对比，找到"
+              ],
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "值得重点投放的关键词"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mbagz142y5nbnq0vfa",
+              "ind": {
+                "left": 32
+              },
+              "list": {
+                "listId": "3xez21w8czo",
+                "level": 0,
+                "isTaskList": false,
+                "isOrdered": false,
+                "listStyleType": "SCIR_ECIR_SREC",
+                "symbolStyle": {},
+                "listStyle": {
+                  "format": "bullet",
+                  "text": "●",
+                  "align": "left"
+                }
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "每个商家30天内，可创建一个由同行同层（GMV分层）5家店铺组成的自定义标杆"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mbajhe5xbvkge98fbrc",
+              "ind": {
+                "left": 32
+              },
+              "list": {
+                "listId": "3xez21w8czo",
+                "level": 0,
+                "isTaskList": false,
+                "isOrdered": false,
+                "listStyleType": "SCIR_ECIR_SREC",
+                "symbolStyle": {},
+                "listStyle": {
+                  "format": "bullet",
+                  "text": "●",
+                  "align": "left"
+                },
+                "extraData": {},
+                "isChecked": false,
+                "hideSymbol": false
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "市场竞争下 ，提供关键词市场渗透率概况，那些市场渗透率低于标杆商家的词，就是还有加大投放潜力的关键词"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mbagukra916b1o5rsh9"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ],
+            [
+              "span",
+              {
+                "uuid": "mbaguoxbx7uidkc21si",
+                "code": "对勾",
+                "newCode": {
+                  "type": "dingding",
+                  "id": "emotion_110",
+                  "name": "[对勾]",
+                  "url": "https://g.alicdn.com/dingding/emotion-assets/0.76.0/mobile/emotion_110.png"
+                },
+                "data-type": "emoji"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "highlight": null,
+                    "sz": 12,
+                    "szUnit": "pt",
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "分析已投词的表现情况，找到优化空间"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mbah97nrtdf1d018kl",
+              "ind": {
+                "left": 32
+              },
+              "list": {
+                "listId": "o456g9yb6pk",
+                "level": 0,
+                "isTaskList": false,
+                "isOrdered": false,
+                "listStyleType": "SCIR_ECIR_SREC",
+                "symbolStyle": {},
+                "listStyle": {
+                  "format": "bullet",
+                  "text": "●",
+                  "align": "left"
+                }
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "在市场竞争-细分关键词市场下，支持输入有关键词投放数据的词，将提供店铺在词下分天的数据情况，还可选择在投的商品，与相似品、头部品进行对比分析"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mbagw48dedib4szqqoc"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ],
+            [
+              "span",
+              {
+                "uuid": "mbagw5ioncqelvmvaql",
+                "code": "对勾",
+                "newCode": {
+                  "type": "dingding",
+                  "id": "emotion_110",
+                  "name": "[对勾]",
+                  "url": "https://g.alicdn.com/dingding/emotion-assets/0.76.0/mobile/emotion_110.png"
+                },
+                "data-type": "emoji"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "highlight": null,
+                    "sz": 12,
+                    "szUnit": "pt",
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "关注商品的流失、流入情况"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mbahcgm6kzmnge8cjw",
+              "ind": {
+                "left": 32
+              },
+              "list": {
+                "listId": "t5hxr6m3c1i",
+                "level": 0,
+                "isTaskList": false,
+                "isOrdered": false,
+                "listStyleType": "SCIR_ECIR_SREC",
+                "symbolStyle": {},
+                "listStyle": {
+                  "format": "bullet",
+                  "text": "●",
+                  "align": "left"
+                }
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "竞争商品跟投下，可查看在投商品的访客流失和流入情况，帮你找到适合跟投的商品"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mbagwkzzbybjsgvz2ul"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ],
+            [
+              "span",
+              {
+                "uuid": "mbagwneakk0u744mcno",
+                "code": "对勾",
+                "newCode": {
+                  "type": "dingding",
+                  "id": "emotion_110",
+                  "name": "[对勾]",
+                  "url": "https://g.alicdn.com/dingding/emotion-assets/0.76.0/mobile/emotion_110.png"
+                },
+                "data-type": "emoji"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "highlight": null,
+                    "sz": 12,
+                    "szUnit": "pt",
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "即时发现类目流量增速迅速的竞品"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mbahdur4dv79k3wna3a",
+              "ind": {
+                "left": 32
+              },
+              "list": {
+                "listId": "09v984uirpc4",
+                "level": 0,
+                "isTaskList": false,
+                "isOrdered": false,
+                "listStyleType": "SCIR_ECIR_SREC",
+                "symbolStyle": {},
+                "listStyle": {
+                  "format": "bullet",
+                  "text": "●",
+                  "align": "left"
+                }
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "竞争商品跟投下，提供前天流量增速迅速的优秀宝贝"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mbagx94l02ngwtl1oqet"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ],
+            [
+              "span",
+              {
+                "uuid": "mbagxa01w5uaw2geib9",
+                "code": "对勾",
+                "newCode": {
+                  "type": "dingding",
+                  "id": "emotion_110",
+                  "name": "[对勾]",
+                  "url": "https://g.alicdn.com/dingding/emotion-assets/0.76.0/mobile/emotion_110.png"
+                },
+                "data-type": "emoji"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "highlight": null,
+                    "sz": 12,
+                    "szUnit": "pt",
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "支持竞品对比，精准锁定商品投放问题"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mbaheqebh5q0kqbps49",
+              "ind": {
+                "left": 32
+              },
+              "list": {
+                "listId": "cku8sgenkvj",
+                "level": 0,
+                "isTaskList": false,
+                "isOrdered": false,
+                "listStyleType": "SCIR_ECIR_SREC",
+                "symbolStyle": {},
+                "listStyle": {
+                  "format": "bullet",
+                  "text": "●",
+                  "align": "left"
+                }
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "竞争商品跟投下，可指定对比本店商品和有流入流出关系的竞争商品"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mbagpx1k62s8ni096xe"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "rgba(23, 26, 29, 0.94)",
+                  "data-type": "leaf"
+                },
+                "注：除竞争流入流出数据外，其他数据均为"
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "rgba(23, 26, 29, 0.94)",
+                  "data-type": "leaf"
+                },
+                "关键词推广场景数据；"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mejpbz1w16vratgkhnb"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 14,
+                  "szUnit": "pt",
+                  "color": "#FE0300",
+                  "data-type": "leaf"
+                },
+                "店铺无关键词推广（自选词）消耗则无数据可查！！！"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "ind": {
+                "left": 4
+              },
+              "uuid": "mb7llvshlgyk31yj8ht"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "rgba(23, 26, 29, 0.94)",
+                  "data-type": "leaf"
+                },
+                "入口："
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "ind": {
+                "left": 4
+              },
+              "uuid": "mb7lly2mr9x22avoxgr"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "rgba(23, 26, 29, 0.94)",
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ],
+            [
+              "img",
+              {
+                "uuid": "mb7m4ty5m9odwuhkr4",
+                "name": "image.png",
+                "size": 184608,
+                "width": 979,
+                "height": 174.384375,
+                "src": "/core/api/resources/img/5eecdaf48460cde5179fe31b028e18a40fb6ab69a7e65c5c75b8339e1c4c24831b75b38faadcd24bec177c308ebd5304f5c0d457c87093cefaf9a9b13109aaac6308e368e00db233b1378014ccbd18b619ddec5b3021978c4fb4c8ed7016461c",
+                "extraData": {
+                  "resourceId": "d4570a8c-4998-44e5-b87d-750342d832eb",
+                  "metaData": {
+                    "size": 184608,
+                    "originWidth": 1556,
+                    "originHeight": 277,
+                    "format": "png",
+                    "ratio": 1
+                  }
+                }
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "rgba(23, 26, 29, 0.94)",
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mb7lmg8vd2c2akhrbz"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "h2",
+            {
+              "ind": {},
+              "uuid": "madlml62tpdkemgsg6",
+              "spacing": {
+                "before": 21.333333333333332,
+                "after": 9,
+                "line": 0.8529411764705882
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 16,
+                  "szUnit": "pt",
+                  "color": "rgba(23, 26, 29, 0.94)",
+                  "data-type": "leaf"
+                },
+                "二、基本介绍"
+              ]
+            ]
+          ],
+          [
+            "h3",
+            {
+              "uuid": "madlmunqanung7f0mba",
+              "spacing": {
+                "before": 18.666666666666664,
+                "after": 8,
+                "line": 0.8529411764705882
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 14,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "2.1市场竞争"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "madma736mo2o4jkz2lr"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "支持二级类目选择；支持最长60天汇总数据对比；支持同行同层/更高层（同二级主营类目，支付层级）对比；支持自定义标杆商家对比（5个商家集合汇总）；二级类目需要满足近30天成交笔数占比全店关键词推广超过1%方可选择对比"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "maxe1a8x8kfmgvbcovi"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "italic": true,
+                  "color": "#7e7F7F",
+                  "data-type": "leaf"
+                },
+                "注：最新的数据更新需要一定时间，如果查询不到昨日的数据，最晚需要等待24小时"
+              ]
+            ]
+          ],
+          [
+            "table",
+            {
+              "colsWidth": [
+                237,
+                225,
+                520
+              ],
+              "tblW": {
+                "w": 100,
+                "type": "pct"
+              },
+              "uuid": "madm4qkqjn2hk86dtsn",
+              "styleId": "tableHeader",
+              "tblLook": {
+                "firstRow": 1,
+                "firstColumn": 0,
+                "lastRow": 0,
+                "lastColumn": 0
+              }
+            },
+            [
+              "tr",
+              {
+                "uuid": "madm4qkpcuwk0pqerj5",
+                "isTblHeader": true
+              },
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "madm4qkp52fu1bxvfmt",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "madm4qkpzdsier22ci9"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "sz": 14,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      "模块"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "madm4qkp60ujqajhcoq",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "madm4qkpv66oe2tga"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "sz": 14,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      "截图示意"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "madm4qkpuu17a6syth",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "madm4qkpe9xhc9wdnsg"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "sz": 14,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      "功能说明"
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {
+                "uuid": "madm4qkp8zye66h9h7e",
+                "h": 96
+              },
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "madm4qkporufgtzxuqe",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "madm4qkprbvl0h9cv6r"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 12,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      "市场渗透率概况"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "madm4qkpv9b7eod0znn",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "madm4qkpw6xdcqyen6i"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "sz": 14,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ],
+                  [
+                    "img",
+                    {
+                      "uuid": "mb7m4ty5xck8vfok43",
+                      "name": "image.png",
+                      "size": 638305,
+                      "width": 208,
+                      "height": 96.3625,
+                      "src": "/core/api/resources/img/5eecdaf48460cde5179fe31b028e18a40fb6ab69a7e65c5c75b8339e1c4c24831b75b38faadcd24bec177c308ebd5304863d301d51d6a1c3fcd145ce7e8ff9baf059b92825f90f82bd728435f8b1bf5fd21b1b73ace17a654fb4c8ed7016461c",
+                      "extraData": {
+                        "resourceId": "736b8537-e840-43ae-8bcd-d6467e06c365",
+                        "metaData": {
+                          "size": 638305,
+                          "originWidth": 1685,
+                          "originHeight": 780,
+                          "format": "png",
+                          "ratio": 1
+                        }
+                      }
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "leaf"
+                        },
+                        ""
+                      ]
+                    ]
+                  ],
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "sz": 14,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "madm4qkpb45zhuhkb4s",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "madm4qkpdgrqa52ypms"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 12,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      "以BEST词类划分，对比标杆市场渗透率，找到提升机会词"
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "uuid": "maxd8gugh4pooz2ie4"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "italic": true,
+                        "sz": 12,
+                        "szUnit": "pt",
+                        "color": "#7e7F7F",
+                        "data-type": "leaf"
+                      },
+                      "注：1）B词为私域流量，不支持对比分析  2）自定义标杆对比仅支持同GMV层级商家"
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {
+                "uuid": "madm4qkqsjmfivyu2qn",
+                "h": 49
+              },
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "madm4qkq8lx59ylv005",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "madm4qkqagkp3gfuya"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 12,
+                        "szUnit": "pt",
+                        "color": "rgb(51, 51, 51)",
+                        "data-type": "leaf"
+                      },
+                      "词下店铺概况"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "madm4qkqzwa8w957kqa",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "madm4qkqdj2psg9dt3"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "sz": 14,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ],
+                  [
+                    "img",
+                    {
+                      "uuid": "mb7m4ty5z8mnhyvf1v",
+                      "name": "image.png",
+                      "size": 546999,
+                      "width": 208,
+                      "height": 90.96926713947991,
+                      "src": "/core/api/resources/img/5eecdaf48460cde5179fe31b028e18a40fb6ab69a7e65c5c75b8339e1c4c24831b75b38faadcd24bec177c308ebd53048937c5b347e05716668823496a15d642a861c49821234c11b73fc2be97206347d2ba9624a256e5a84fb4c8ed7016461c",
+                      "extraData": {
+                        "resourceId": "30e5cec1-33ca-47cb-b5be-e2a72a853ce2",
+                        "metaData": {
+                          "size": 546999,
+                          "originWidth": 1692,
+                          "originHeight": 740,
+                          "format": "png",
+                          "ratio": 1
+                        }
+                      }
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "leaf"
+                        },
+                        ""
+                      ]
+                    ]
+                  ],
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "sz": 14,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "madm4qkqcl2mpea4wi6",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "madm4qkqjmooeck08wd"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 12,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      "对比细分词市场下，标杆店铺展现、点击、转化数据，了解市场天花板"
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {
+                "uuid": "madm4s6qwyrojxtz4o"
+              },
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "madm4s6qb9gcd9s76g4",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "madm4s6q9y81wfitky"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "词下有市场提升空间宝贝选择"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "madm4s6qm79rfr6594s",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "madm4s6qbte3nqiqwi"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ],
+                  [
+                    "img",
+                    {
+                      "uuid": "mb7m4ty5rcoe3ilrywa",
+                      "name": "image.png",
+                      "size": 380355,
+                      "width": 208,
+                      "height": 79.1375,
+                      "src": "/core/api/resources/img/5eecdaf48460cde5179fe31b028e18a40fb6ab69a7e65c5c75b8339e1c4c24831b75b38faadcd24bec177c308ebd5304e36c09cb696146a038a1d589898cb3b8f6acd0865139bce04a3e870cdee120580f61d01199ab644d4fb4c8ed7016461c",
+                      "extraData": {
+                        "resourceId": "0e0a8bbc-7b92-4934-ae4f-f2096f2bb563",
+                        "metaData": {
+                          "size": 380355,
+                          "originWidth": 1678,
+                          "originHeight": 639,
+                          "format": "png",
+                          "ratio": 1
+                        }
+                      }
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "leaf"
+                        },
+                        ""
+                      ]
+                    ]
+                  ],
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "madm4s6qydbpip6z1cf",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "madm4s6q12irgvmhlxvn"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 12,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      "根据细分词市场下渗透率指标，评估哪些宝贝有提升空间"
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {
+                "uuid": "madm4stqp5dm8qh774d"
+              },
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "madm4stqx5om086pplr",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "madm4stqsa9xa53wmf"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "词下宝贝同行对比调优"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "madm4stqz6ct73zt2kn",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "madm4stqclyq2yxokxc"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ],
+                  [
+                    "img",
+                    {
+                      "uuid": "mb7m4ty5j5ccrq66fwm",
+                      "name": "image.png",
+                      "size": 657257,
+                      "width": 208,
+                      "height": 107.0875,
+                      "src": "/core/api/resources/img/5eecdaf48460cde5179fe31b028e18a40fb6ab69a7e65c5c75b8339e1c4c24831b75b38faadcd24bec177c308ebd530477efda31fc5c8d0d4534893f5e6d3afb3f1ecd769780d8979918ccaf5984fd72bd6dfd5a05465f0a4fb4c8ed7016461c",
+                      "extraData": {
+                        "resourceId": "e57f4937-ba22-4248-b1dd-619b8175b63c",
+                        "metaData": {
+                          "size": 657257,
+                          "originWidth": 1679,
+                          "originHeight": 864,
+                          "format": "png",
+                          "ratio": 1
+                        }
+                      }
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "leaf"
+                        },
+                        ""
+                      ]
+                    ]
+                  ],
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "madm4stqsb3mxhu4p7f",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "madm4stqctn7ld8p7u"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 12,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      "以展现、点击、转化三个视角，对比叶子类目相似宝贝（同价格带有成交）、头部宝贝（关键词推广成交排名前5）差异，根据优化建议提升宝贝推广效果"
+                    ]
+                  ]
+                ]
+              ]
+            ]
+          ],
+          [
+            "h3",
+            {
+              "uuid": "madlsc8v0t8opqb9gkma",
+              "spacing": {
+                "before": 18.666666666666664,
+                "after": 8,
+                "line": 0.8529411764705882
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 14,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "2.2竞品跟投"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "madoghg303uo09mb1d4d"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "支持二级类目选择；支持最长60天汇总数据对比；支持同行同层/更高层（同二级主营类目，支付层级）对比；支持宝贝价格区间选择"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "maxe1uifnqur53ex5w"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "italic": true,
+                  "color": "#7e7F7F",
+                  "data-type": "leaf"
+                },
+                "注：最新的数据更新需要一定时间，如果查询不到昨日的数据，最晚需要等待24小时"
+              ]
+            ]
+          ],
+          [
+            "table",
+            {
+              "colsWidth": [
+                237,
+                225,
+                520
+              ],
+              "styleId": "tableHeader",
+              "tblLook": {
+                "firstColumn": 0,
+                "firstRow": 1,
+                "lastColumn": 0,
+                "lastRow": 0
+              },
+              "tblW": {
+                "type": "pct",
+                "w": 100
+              },
+              "uuid": "mado3t3tr6yaeqbqa5f"
+            },
+            [
+              "tr",
+              {
+                "uuid": "mado3t3t4v46opfw9jx",
+                "isTblHeader": true
+              },
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mado3t3tezsvdtwurxq",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mado3t3t85nzsprn60g"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "sz": 14,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      "模块"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mado3t3twj8z4bygj1s",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mado3t3ttiqvy500gtk"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "sz": 14,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      "截图示意"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mado3t3t11mo9q9o8v3o",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mado3t3tpccx4f9xekc"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "sz": 14,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      "功能说明"
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {
+                "uuid": "mado3t3t7vpsprxbnla"
+              },
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mado3t3t1q8jwt7m1gt",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mado3t3ti7sk4bqmlnn"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 12,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      "店铺宝贝竞争力"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mado3t3tk1p54wjrh9p",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mado3t3tjby3aeqyps9"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "sz": 14,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ],
+                  [
+                    "img",
+                    {
+                      "uuid": "mb7m4ty6n8izrh9do4f",
+                      "name": "image.png",
+                      "size": 581009,
+                      "width": 208,
+                      "height": 102.21249999999999,
+                      "src": "/core/api/resources/img/5eecdaf48460cde5179fe31b028e18a40fb6ab69a7e65c5c75b8339e1c4c24831b75b38faadcd24bec177c308ebd5304ad658327f2d087ca9a9a56eec9c0973c65b4843fbca4432f9e1092c37fe40e6fa7a5acdee4dd3cfa4fb4c8ed7016461c",
+                      "extraData": {
+                        "resourceId": "8bac9bc7-aadb-4d19-ae55-65a3664e2da9",
+                        "metaData": {
+                          "size": 581009,
+                          "originWidth": 1684,
+                          "originHeight": 828,
+                          "format": "png",
+                          "ratio": 1
+                        }
+                      }
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "leaf"
+                        },
+                        ""
+                      ]
+                    ]
+                  ],
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "sz": 14,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mado3t3tsxv8qow2r4",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mado3t3tu537gw8f91s"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 12,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      "通过宝贝间竞争流入流出情况，评估店铺宝贝竞争力，定位可跟投宝贝及跟投对象"
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {
+                "uuid": "mado3t3twzorboxwldo",
+                "h": 49
+              },
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mado3t3t023f6faoxahe",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mado3t3toblo5twbz7"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 12,
+                        "szUnit": "pt",
+                        "color": "rgb(51, 51, 51)",
+                        "data-type": "leaf"
+                      },
+                      "类目优秀宝贝发现"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mado3t3tks96fn9ya8",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mado3t3t5nsjzsdhifp"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "sz": 14,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ],
+                  [
+                    "img",
+                    {
+                      "uuid": "mb7m4ty69782fzzh9ak",
+                      "name": "image.png",
+                      "size": 432306,
+                      "width": 208,
+                      "height": 85.8,
+                      "src": "/core/api/resources/img/5eecdaf48460cde5179fe31b028e18a40fb6ab69a7e65c5c75b8339e1c4c24831b75b38faadcd24bec177c308ebd5304a7a35c65d48d65cd7173942a22445b562891c169cb3b57c6e60203c84d587b412ab1d2e3749848a74fb4c8ed7016461c",
+                      "extraData": {
+                        "resourceId": "5d97b10b-c12e-4bbc-9ede-8680611b2bda",
+                        "metaData": {
+                          "size": 432306,
+                          "originWidth": 1656,
+                          "originHeight": 683,
+                          "format": "png",
+                          "ratio": 1
+                        }
+                      }
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "leaf"
+                        },
+                        ""
+                      ]
+                    ]
+                  ],
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "sz": 14,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mado3t3t68nzgcosim7",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mado3t3tzebc118rgda"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 12,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      "发掘二级类目下近期高增速宝贝，可进行对比分析提升自身宝贝效果；或者直接跟投完成新品打爆"
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {
+                "uuid": "mado3t3tv2719e386nc"
+              },
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mado3t3th8zomuq7sss",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mado3t3t0cn3tyw10nbj"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "竞品对比分析"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mado3t3tbbalpwe8y68",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mado3t3tz127fhxdfq"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ],
+                  [
+                    "img",
+                    {
+                      "uuid": "mb7m4ty66xnkozfbqcw",
+                      "name": "image.png",
+                      "size": 573140,
+                      "width": 208,
+                      "height": 104,
+                      "src": "/core/api/resources/img/5eecdaf48460cde5179fe31b028e18a40fb6ab69a7e65c5c75b8339e1c4c24831b75b38faadcd24bec177c308ebd530476aed7bf2bf779faf09980909437e6aada78e03a49edf83e5b22d0c8bcf80b8856e5b06e7b72ca7f4fb4c8ed7016461c",
+                      "extraData": {
+                        "resourceId": "3be7cb73-6f93-41af-9110-79aadbd5d012",
+                        "metaData": {
+                          "size": 573140,
+                          "originWidth": 1691,
+                          "originHeight": 846,
+                          "format": "png",
+                          "ratio": 1
+                        }
+                      }
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "leaf"
+                        },
+                        ""
+                      ]
+                    ]
+                  ],
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mado3t3tzf1vxli7mk9",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mado3t3tujjdbanc1g"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 12,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      "以展现、点击、转化三个视角，对比具体竞争宝贝表现差异；根据优化建议提升宝贝推广效果"
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "uuid": "mb7cwfgz9tb8deljxdm",
+                    "ind": {
+                      "left": 0
+                    }
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "italic": true,
+                        "color": "#7e7F7F",
+                        "data-type": "leaf"
+                      },
+                      "注：只有商家与您的商品有流入流失关系，或者属于类目优秀宝贝，才允许进行对比分析"
+                    ]
+                  ]
+                ]
+              ]
+            ]
+          ],
+          [
+            "h2",
+            {
+              "spacing": {
+                "before": 21.333333333333332,
+                "after": 9,
+                "line": 0.8529411764705882
+              },
+              "uuid": "madkq6n6mqqli67u6r"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 16,
+                  "szUnit": "pt",
+                  "color": "rgba(23, 26, 29, 0.94)",
+                  "data-type": "leaf"
+                },
+                "三、使用说明"
+              ]
+            ]
+          ],
+          [
+            "h3",
+            {
+              "spacing": {
+                "before": 18.666666666666664,
+                "after": 8,
+                "line": 0.8529411764705882
+              },
+              "uuid": "madkq6n6rr3u9qdxm1c"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 14,
+                  "szUnit": "pt",
+                  "color": "rgba(23, 26, 29, 0.94)",
+                  "data-type": "leaf"
+                },
+                "3.1提升词下细分市场份额"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "madpqzw4413rnqto8z8"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ],
+            [
+              "img",
+              {
+                "uuid": "z2kzyt",
+                "name": "竞争解析内置banner市场竞争.jpeg",
+                "size": 230669,
+                "width": 632,
+                "height": 232,
+                "src": "/core/api/resources/img/5eecdaf48460cde5843d8cbee2ae2b5fd3ace46ccd85b23e75b8339e1c4c24831b75b38faadcd24bec177c308ebd5304515aff93acf7c4bb8d97baec06aabdb5f2936ec762612a8f05381aeb4be7b04d7f2382da71d4ccd34fb4c8ed7016461c",
+                "extraData": {
+                  "resourceId": "e1bf22e0-80a0-4e02-b2c1-5a33b81c6175",
+                  "metaData": {
+                    "size": 230669,
+                    "originWidth": 1264,
+                    "originHeight": 464,
+                    "format": "jpg",
+                    "ratio": 1
+                  }
+                }
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mbajts75e8xbde63zdj"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "step1 ：查看词市场渗透率，选择二级主营类目，周期建议过去15天，标杆建议同行同层"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mb7iv5mg6olk1cv5lft"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "italic": true,
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "#7e7F7F",
+                  "data-type": "leaf"
+                },
+                "注：1）B词为私域流量，不支持对比分析  2）自定义标杆对比仅支持同GMV层级商家"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "madprcsjpaj9y5i9dld"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ],
+            [
+              "img",
+              {
+                "uuid": "mb7m4ty6q4i2wzyu70o",
+                "name": "image.png",
+                "size": 638318,
+                "width": 808,
+                "height": 374.33124999999995,
+                "src": "/core/api/resources/img/5eecdaf48460cde5179fe31b028e18a40fb6ab69a7e65c5c75b8339e1c4c24831b75b38faadcd24bec177c308ebd53041c55b273b92914b552a0c31f05488e9d7e77b17fec1c9e03a523249c034548ecdaf86e6fdc4fb4414fb4c8ed7016461c",
+                "extraData": {
+                  "resourceId": "21f68e72-5309-4abe-803b-eeae9a8a0aeb",
+                  "metaData": {
+                    "size": 638318,
+                    "originWidth": 1685,
+                    "originHeight": 780,
+                    "format": "png",
+                    "ratio": 1
+                  }
+                },
+                "rotation": 0
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "madprxvn1ih0xhvhfjz"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "step2：查看可提升词，优先查看【待优化】词类"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "maxevkpynjom3ahnqe"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "italic": true,
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "#7e7F7F",
+                  "data-type": "leaf"
+                },
+                "注：同行同层标杆渗透率通常是可参考的天花板，如您已达到，可参考更高层；如你未达到，可根据推广预算做适当投入，进行优化提升"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "madqvybjh8v5wrtex55",
+              "ind": {
+                "left": 0
+              },
+              "list": {
+                "listId": "mjhw1bu75hh",
+                "level": 0,
+                "isTaskList": false,
+                "isOrdered": false,
+                "listStyleType": "SCIR_ECIR_SREC",
+                "symbolStyle": {
+                  "sz": 12
+                },
+                "listStyle": {
+                  "format": "bullet",
+                  "text": "●",
+                  "align": "left"
+                }
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "方式①智能（小类目、省力优选）：直接使用搜索卡位【提升市场渗透率】目标，提升全部渗透率低于标杆的词；"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "maeyhhv66ykl2pbe1wu",
+              "ind": {
+                "left": 0
+              },
+              "list": {
+                "listId": "mjhw1bu75hh",
+                "level": 1,
+                "symbolStyle": {
+                  "sz": 12
+                },
+                "extraData": {},
+                "listStyleType": "SCIR_ECIR_SREC",
+                "listStyle": {
+                  "format": "bullet",
+                  "text": "○",
+                  "align": "left"
+                },
+                "hideSymbol": false,
+                "isTaskList": false,
+                "isOrdered": false
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "搜索卡位设置参考：选中心词匹配，宝贝选有成交&店铺表现靠前，预算建议按词数量&词流量大小设置100-500-1000档位"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "madqvwy9vqf9q3e6fae",
+              "ind": {
+                "left": 0
+              },
+              "list": {
+                "listId": "mjhw1bu75hh",
+                "level": 0,
+                "isTaskList": false,
+                "isOrdered": false,
+                "listStyleType": "SCIR_ECIR_SREC",
+                "symbolStyle": {
+                  "sz": 12
+                },
+                "listStyle": {
+                  "format": "bullet",
+                  "text": "●",
+                  "align": "left"
+                }
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "方式②手动（大类目、精细调控）：优先选择必争精华/潜力蓝海象限内，建议点击查看绿色圆圈中等大小词，进入sept3；"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "madqw2f0ga2e2mr31mn"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "step3：挑选优化宝贝：优先挑选展现消耗靠前（即店铺内偏头部宝贝），对比相似宝贝有差异的宝贝       "
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "madqxxscwzpxyad59d"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ],
+            [
+              "img",
+              {
+                "uuid": "mb7m4ty6iilreiw7k3",
+                "name": "image.png",
+                "size": 380368,
+                "width": 840,
+                "height": 319.59375,
+                "src": "/core/api/resources/img/5eecdaf48460cde5179fe31b028e18a40fb6ab69a7e65c5c75b8339e1c4c24831b75b38faadcd24bec177c308ebd5304bce745b601ce3ddcbb3fbd1363fb74a93f260627b85232d9ca025553fb26b28b31fa31ce5c089ff54fb4c8ed7016461c",
+                "extraData": {
+                  "resourceId": "43fd4b6e-a595-4d72-bc0f-85375e8e5d8b",
+                  "metaData": {
+                    "size": 380368,
+                    "originWidth": 1678,
+                    "originHeight": 639,
+                    "format": "png",
+                    "ratio": 1
+                  }
+                },
+                "rotation": 0
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "madqyaljml7c15w2vjo"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "step4：对比相似宝贝，进行手动优化调整，查看表现较差的指标，根据系统建议调整对应宝贝的投放方式"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "maeyl5f9lebf7tjzqm",
+              "ind": {
+                "left": 0
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "对比相似宝贝低于80%以下时建议调整，高于80%低于100%时可考虑调整；相关建议供参考，商家也可自行设置；可调整的方向如下"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "maeyyun2gnazogcppaf",
+              "ind": {
+                "left": 0
+              },
+              "list": {
+                "listId": "zgmfytcsktq",
+                "level": 0,
+                "symbolStyle": {
+                  "bold": false,
+                  "sz": 12
+                },
+                "extraData": {},
+                "listStyleType": "SCIR_ECIR_SREC",
+                "listStyle": {
+                  "format": "bullet",
+                  "text": "●",
+                  "align": "left"
+                },
+                "hideSymbol": false,
+                "isTaskList": false,
+                "isOrdered": false,
+                "isChecked": false
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "展现量"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "maeyn1e1b9t2metfpti",
+              "ind": {
+                "left": 0
+              },
+              "list": {
+                "listId": "zgmfytcsktq",
+                "level": 1,
+                "symbolStyle": {
+                  "bold": false,
+                  "sz": 12
+                },
+                "extraData": {},
+                "listStyleType": "SCIR_ECIR_SREC",
+                "listStyle": {
+                  "format": "bullet",
+                  "text": "○",
+                  "align": "left"
+                },
+                "hideSymbol": false,
+                "isTaskList": false,
+                "isOrdered": false,
+                "isChecked": false
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "流量覆盖规模：匹配方式选择广泛匹配；开启搜索意图追投"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "maeyn5nkq06e2hppx3n",
+              "ind": {
+                "left": 0
+              },
+              "list": {
+                "listId": "zgmfytcsktq",
+                "level": 1,
+                "symbolStyle": {
+                  "bold": false,
+                  "sz": 12
+                },
+                "extraData": {},
+                "listStyleType": "SCIR_ECIR_SREC",
+                "listStyle": {
+                  "format": "bullet",
+                  "text": "○",
+                  "align": "left"
+                },
+                "hideSymbol": false,
+                "isTaskList": false,
+                "isOrdered": false,
+                "isChecked": false
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "展现概率：标准计划提升出价；智能计划提升预算；提升幅度可参考和相似宝贝差异20%则提升10%，依次类推"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "maeyldo5n3ltycvh91i",
+              "ind": {
+                "left": 0
+              },
+              "list": {
+                "listId": "zgmfytcsktq",
+                "level": 0,
+                "symbolStyle": {
+                  "bold": false,
+                  "sz": 12
+                },
+                "extraData": {},
+                "listStyleType": "SCIR_ECIR_SREC",
+                "listStyle": {
+                  "format": "bullet",
+                  "text": "●",
+                  "align": "left"
+                },
+                "hideSymbol": false,
+                "isTaskList": false,
+                "isOrdered": false
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "点击率"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "maez71lfsvl11lje7b",
+              "ind": {
+                "left": 0
+              },
+              "list": {
+                "listId": "zgmfytcsktq",
+                "level": 1,
+                "symbolStyle": {
+                  "bold": false,
+                  "sz": 12
+                },
+                "extraData": {},
+                "listStyleType": "SCIR_ECIR_SREC",
+                "listStyle": {
+                  "format": "bullet",
+                  "text": "○",
+                  "align": "left"
+                },
+                "hideSymbol": false,
+                "isTaskList": false,
+                "isOrdered": false,
+                "isChecked": false
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "展现排名：可考虑开启抢位，设置抢首页即可"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "maez7kko9up98thszxa",
+              "ind": {
+                "left": 0
+              },
+              "list": {
+                "listId": "zgmfytcsktq",
+                "level": 1,
+                "symbolStyle": {
+                  "bold": false,
+                  "sz": 12
+                },
+                "extraData": {},
+                "listStyleType": "SCIR_ECIR_SREC",
+                "listStyle": {
+                  "format": "bullet",
+                  "text": "○",
+                  "align": "left"
+                },
+                "hideSymbol": false,
+                "isTaskList": false,
+                "isOrdered": false,
+                "isChecked": false
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "创意质量：可考虑AI做同款"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "maeyllalyz8cl3cls2",
+              "ind": {
+                "left": 0
+              },
+              "list": {
+                "listId": "zgmfytcsktq",
+                "level": 0,
+                "symbolStyle": {
+                  "bold": false,
+                  "sz": 12
+                },
+                "extraData": {},
+                "listStyleType": "SCIR_ECIR_SREC",
+                "listStyle": {
+                  "format": "bullet",
+                  "text": "●",
+                  "align": "left"
+                },
+                "hideSymbol": false,
+                "isTaskList": false,
+                "isOrdered": false
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "转化率"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "maezbki4jnb2exyf2jh",
+              "ind": {
+                "left": 0
+              },
+              "list": {
+                "listId": "zgmfytcsktq",
+                "level": 1,
+                "symbolStyle": {
+                  "bold": false,
+                  "sz": 12
+                },
+                "extraData": {},
+                "listStyleType": "SCIR_ECIR_SREC",
+                "listStyle": {
+                  "format": "bullet",
+                  "text": "○",
+                  "align": "left"
+                },
+                "hideSymbol": false,
+                "isTaskList": false,
+                "isOrdered": false,
+                "isChecked": false
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "人群画像：可参考相似品成交画像进行优化调整"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "madr1bqv6ji0415ng9p"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "h3",
+            {
+              "uuid": "madpolb2o379ev5txa",
+              "spacing": {
+                "before": 18.666666666666664,
+                "after": 8,
+                "line": 0.8529411764705882
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 14,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "3.2提升宝贝拿量能力"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "madr6cw72cek59bbexs"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ],
+            [
+              "img",
+              {
+                "uuid": "s590mp",
+                "name": "竞争解析内置banner商品跟投.jpeg",
+                "size": 217863,
+                "width": 632,
+                "height": 232,
+                "src": "/core/api/resources/img/5eecdaf48460cde5843d8cbee2ae2b5fd3ace46ccd85b23e75b8339e1c4c24831b75b38faadcd24bec177c308ebd530476439d32320332ec507cda76fa1f188864804df203d6434ff2fd1c4f93634ca5de4cfb5175bbe9324fb4c8ed7016461c",
+                "extraData": {
+                  "resourceId": "f18c843c-9203-40af-b720-9933e66abf9d",
+                  "metaData": {
+                    "size": 217863,
+                    "originWidth": 1264,
+                    "originHeight": 464,
+                    "format": "jpg",
+                    "ratio": 1
+                  }
+                }
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mbajuzahzfdd98ycy2f"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "step1：查看宝贝竞争流入情况，周期建议过去15天，竞争选同行同层，价格区间选宝贝所属价格区间"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mb7ixdfuyu7onqwpz7j"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "italic": true,
+                  "color": "#7e7F7F",
+                  "data-type": "leaf"
+                },
+                "注：1）只有商品与您的商品有流入流失关系（含自然和付费），或者属于类目优秀宝贝，才允许进行对比分析；2）流入流失数据做了指数化处理"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "madrbkr9mpg8pag5hh"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ],
+            [
+              "img",
+              {
+                "uuid": "mb7m4ty6lzpyesd1rvn",
+                "name": "image.png",
+                "size": 581022,
+                "width": 814,
+                "height": 400,
+                "src": "/core/api/resources/img/5eecdaf48460cde5179fe31b028e18a40fb6ab69a7e65c5c75b8339e1c4c24831b75b38faadcd24bec177c308ebd53041ad2bbfaca90d89ecac7d9a3ae5a2f15cb7ee25e9b243732303dfe442d15d1ac8a49df677a497cad4fb4c8ed7016461c",
+                "extraData": {
+                  "resourceId": "9bcfa10e-af91-4d02-86f5-3b7b9ea6ae46",
+                  "metaData": {
+                    "size": 581022,
+                    "originWidth": 1684,
+                    "originHeight": 828,
+                    "format": "png",
+                    "ratio": 1
+                  }
+                },
+                "rotation": 0
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "madramfew8wzojenmu"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "step2：智能投放跟投宝贝：直接通过相似品跟投能力，跟投高流入宝贝"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "maf113bqasv13phiil",
+              "ind": {
+                "left": 0
+              },
+              "list": {
+                "listId": "4du4d7l009l",
+                "level": 0,
+                "symbolStyle": {
+                  "bold": false,
+                  "sz": 12
+                },
+                "extraData": {},
+                "listStyleType": "SCIR_ECIR_SREC",
+                "listStyle": {
+                  "format": "bullet",
+                  "text": "●",
+                  "align": "left"
+                },
+                "hideSymbol": false,
+                "isTaskList": false,
+                "isOrdered": false
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "店铺宝贝：优先查看自身展现量、成交靠前，竞品高流入度的宝贝"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mf0w9myjiptuzv0yvxi",
+              "ind": {
+                "left": 0
+              },
+              "list": {
+                "listId": "4du4d7l009l",
+                "level": 1,
+                "symbolStyle": {
+                  "bold": false,
+                  "sz": 12
+                },
+                "extraData": {},
+                "listStyleType": "SCIR_ECIR_SREC",
+                "listStyle": {
+                  "format": "bullet",
+                  "text": "○",
+                  "align": "left"
+                },
+                "hideSymbol": false,
+                "isTaskList": false,
+                "isOrdered": false,
+                "isChecked": false
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "流失度，举例：访问您的商品但未购买，而购买了同叶子类目其他商品访客数（站内总成交，含自然和付费）"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mf0w9nhcxd5iy3j2ri",
+              "ind": {
+                "left": 0
+              },
+              "list": {
+                "listId": "4du4d7l009l",
+                "level": 1,
+                "isTaskList": false,
+                "isOrdered": false,
+                "listStyleType": "SCIR_ECIR_SREC",
+                "symbolStyle": {},
+                "listStyle": {
+                  "format": "bullet",
+                  "text": "○",
+                  "align": "left"
+                },
+                "extraData": {},
+                "isChecked": false,
+                "hideSymbol": false
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "流入度，举例：访问同叶子类目其他商品但未购买，而购买本店商品的访客数（站内总成交，含自然和付费）"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "maf11vi9i9aajo325qn",
+              "ind": {
+                "left": 0
+              },
+              "list": {
+                "listId": "4du4d7l009l",
+                "level": 0,
+                "symbolStyle": {
+                  "bold": false,
+                  "sz": 12
+                },
+                "extraData": {},
+                "listStyleType": "SCIR_ECIR_SREC",
+                "listStyle": {
+                  "format": "bullet",
+                  "text": "●",
+                  "align": "left"
+                },
+                "hideSymbol": false,
+                "isTaskList": false,
+                "isOrdered": false,
+                "isChecked": false
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "自定义跟投宝贝：跟投宝贝选择3-5个高流入宝贝"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "madrbw0wqf7a2nhe37"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "step3：自定义投放跟投竞争宝贝：选择高流入竞争宝贝对比，进行手动优化，可参考目录【3.1"
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "rgba(23, 26, 29, 0.94)",
+                  "data-type": "leaf"
+                },
+                "提升词下细分市场份额"
+              ],
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "rgba(23, 26, 29, 0.94)",
+                  "data-type": "leaf"
+                },
+                "】"
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "的step4"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mff1eizlfv09wreu93l",
+              "ind": {
+                "left": 0
+              },
+              "list": {
+                "listId": "uvzdqtlduj",
+                "level": 0,
+                "symbolStyle": {
+                  "bold": false,
+                  "sz": 11
+                },
+                "extraData": {},
+                "listStyleType": "SCIR_ECIR_SREC",
+                "listStyle": {
+                  "format": "bullet",
+                  "text": "●",
+                  "align": "left"
+                },
+                "hideSymbol": false,
+                "isTaskList": false,
+                "isOrdered": false
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 11,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "当前可选择已筛选的二级类目下全部宝贝，进行宝贝味道数据对比"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "maf0k55z2kaxkykc69i"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "meuscvl4b0c8yjnu9ko"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "h3",
+            {
+              "uuid": "madrhu2zzgv47p2n2y",
+              "spacing": {
+                "before": 18.666666666666664,
+                "after": 8,
+                "line": 0.8529411764705882
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 14,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "3.3新品跟投打爆品"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "madri8be75d957shcvw"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "step1：查看类目优秀宝贝"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "maf0nuk9h6a9uib1d7w"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ],
+            [
+              "img",
+              {
+                "uuid": "mb7m4ty6gbbisbgbe6r",
+                "name": "image.png",
+                "size": 432319,
+                "width": 819,
+                "height": 337.8375,
+                "src": "/core/api/resources/img/5eecdaf48460cde5179fe31b028e18a40fb6ab69a7e65c5c75b8339e1c4c24831b75b38faadcd24bec177c308ebd530422298219df79ea7ea01beb9fbaf00cd9ebd7bd433d2377806cf966556b84d0019b154cb30ce1dfab4fb4c8ed7016461c",
+                "extraData": {
+                  "resourceId": "34b30d67-26bb-4fa3-9ea1-2d13f84320eb",
+                  "metaData": {
+                    "size": 432319,
+                    "originWidth": 1656,
+                    "originHeight": 683,
+                    "format": "png",
+                    "ratio": 1
+                  }
+                },
+                "rotation": 0
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "maxdwog1mjc6h6aa7y9"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "maf0nuv5tvkvpwmo4no"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "step2：直接跟投优秀商品"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "maf12rypn39or31nt5",
+              "ind": {
+                "left": 0
+              },
+              "list": {
+                "listId": "whw29k607pq",
+                "level": 0,
+                "symbolStyle": {
+                  "bold": false,
+                  "sz": 12
+                },
+                "extraData": {},
+                "listStyleType": "SCIR_ECIR_SREC",
+                "listStyle": {
+                  "format": "bullet",
+                  "text": "●",
+                  "align": "left"
+                },
+                "hideSymbol": false,
+                "isTaskList": false,
+                "isOrdered": false
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "店铺宝贝：新品 or近期应季商品or期望打爆商品 且有一定预算投入"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "maf12xfektghgwvzx8o",
+              "ind": {
+                "left": 0
+              },
+              "list": {
+                "listId": "whw29k607pq",
+                "level": 0,
+                "symbolStyle": {
+                  "bold": false,
+                  "sz": 12
+                },
+                "extraData": {},
+                "listStyleType": "SCIR_ECIR_SREC",
+                "listStyle": {
+                  "format": "bullet",
+                  "text": "●",
+                  "align": "left"
+                },
+                "hideSymbol": false,
+                "isTaskList": false,
+                "isOrdered": false,
+                "isChecked": false
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "自定义跟投宝贝：类目近期起爆品，优先高流量"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "madr6d071qfv5lzsd1ci"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "madr66ifo45ywc29fam"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "h2",
+            {
+              "uuid": "madlsu6u4mfjgotl0qo",
+              "spacing": {
+                "before": 21.333333333333332,
+                "after": 9,
+                "line": 0.8529411764705882
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 16,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "四、常见问题"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mb7cn1fwhoexpfzsoi"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "data-type": "leaf"
+                },
+                "1、竞争解析的数据范围？"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mb7d2fiicxtu8vhgovr",
+              "ind": {
+                "left": 0
+              },
+              "list": {
+                "listId": "mygr50ngkv",
+                "level": 0,
+                "isTaskList": false,
+                "isOrdered": false,
+                "listStyleType": "SCIR_ECIR_SREC",
+                "symbolStyle": {
+                  "bold": false
+                },
+                "listStyle": {
+                  "format": "bullet",
+                  "text": "●",
+                  "align": "left"
+                }
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "竞争解析旨在提供市场和竞争数据，帮助提升"
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "data-type": "leaf"
+                },
+                "关键词推广"
+              ],
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "的投放效果，只有"
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "data-type": "leaf"
+                },
+                "近7天有关键词推广消耗的商家才能使用"
+              ],
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "。主要统计口径是商品在关键词推广的数据，涉及到推广效果时，如流入和流失情况会包含部分自然数据"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mb7dlcfd9xngvxkij84",
+              "ind": {
+                "left": 0
+              },
+              "list": {
+                "listId": "mygr50ngkv",
+                "level": 1,
+                "isTaskList": false,
+                "isOrdered": false,
+                "listStyleType": "SCIR_ECIR_SREC",
+                "symbolStyle": {
+                  "bold": false
+                },
+                "listStyle": {
+                  "format": "bullet",
+                  "text": "○",
+                  "align": "left"
+                },
+                "extraData": {},
+                "isChecked": false,
+                "hideSymbol": false
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "支持近2个月的数据"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mb7j569ynac0jegh82p",
+              "ind": {
+                "left": 0
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mb7d25fv6tb6dpcwpf6"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "data-type": "leaf"
+                },
+                "2、自定义标杆搜不到想要对比的店铺？"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mb7cnbq3vjo8zbtllq",
+              "ind": {
+                "left": 0
+              },
+              "list": {
+                "listId": "o9g1x7qsa99",
+                "level": 0,
+                "isTaskList": false,
+                "isOrdered": false,
+                "listStyleType": "SCIR_ECIR_SREC",
+                "symbolStyle": {},
+                "listStyle": {
+                  "format": "bullet",
+                  "text": "●",
+                  "align": "left"
+                }
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "只支持查询同行同层的店铺，行业取店铺销量最高一级类目下销量最高的二级类目，层级按照过去365天的店铺GMV，一共拆分了9层，具体层级不做展示；如搜索不到店铺的情况，说明该店铺和您不在一个GMV层级"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mb7j56ap9d2b8ul61f7",
+              "ind": {
+                "left": 0
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mb7crzykbmqkydf86r",
+              "ind": {
+                "left": 0
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "data-type": "leaf"
+                },
+                "3、部分竞争商品搜索不到？"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mb7csewgm2rv80dz1t",
+              "ind": {
+                "left": 0
+              },
+              "list": {
+                "listId": "vd9l1km610f",
+                "level": 0,
+                "isTaskList": false,
+                "isOrdered": false,
+                "listStyleType": "SCIR_ECIR_SREC",
+                "symbolStyle": {},
+                "listStyle": {
+                  "format": "bullet",
+                  "text": "●",
+                  "align": "left"
+                }
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "请先注意竞争商品所属于的类目和商家层级，与筛选项是否一致"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mb7j56aua1rw53v61et",
+              "ind": {
+                "left": 0
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ],
+            [
+              "img",
+              {
+                "uuid": "mb7m4ty6ie3j39rj29p",
+                "name": "image.png",
+                "size": 94871,
+                "width": 432,
+                "height": 91.5,
+                "src": "/core/api/resources/img/5eecdaf48460cde5f986447f92a5c0084707083cb186c86258e70b814913bc360a414d3de9277d871abf3af1cbd7524973b54d289f8a2cb5e8ac38845a06e3333001d1ec01a27d60a2a0c17c44e7d73513c438e20cd61cc6fc653b69905bac42",
+                "extraData": {
+                  "resourceId": "6c9a1a34-ca81-44b7-aa68-014f3be36660",
+                  "metaData": {
+                    "size": 94871,
+                    "originWidth": 864,
+                    "originHeight": 183,
+                    "format": "png",
+                    "ratio": 1
+                  }
+                }
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mb7j56ays4qlicxb7u",
+              "ind": {
+                "left": 0
+              },
+              "list": {
+                "listId": "vd9l1km610f",
+                "level": 0,
+                "isTaskList": false,
+                "isOrdered": false,
+                "listStyleType": "SCIR_ECIR_SREC",
+                "symbolStyle": {},
+                "listStyle": {
+                  "format": "bullet",
+                  "text": "●",
+                  "align": "left"
+                },
+                "extraData": {},
+                "isChecked": false,
+                "hideSymbol": false
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "只有商家与您的商品有流入流失关系，或者属于类目优秀宝贝，才允许进行对比分析"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mb7j56b2gc5tbu1x197",
+              "ind": {
+                "left": 0
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mbafz3owsypq5i9mk",
+              "ind": {
+                "left": 0
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "data-type": "leaf"
+                },
+                "4、什么是流入流失，为什么都是10的倍数？"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mb7cxfmms63zml798rh",
+              "ind": {
+                "left": 0
+              },
+              "list": {
+                "listId": "uzpyl8kug1",
+                "level": 0,
+                "isTaskList": false,
+                "isOrdered": false,
+                "listStyleType": "SCIR_ECIR_SREC",
+                "symbolStyle": {},
+                "listStyle": {
+                  "format": "bullet",
+                  "text": "●",
+                  "align": "left"
+                }
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "流失度，举例：访问您的商品但未购买，而购买了同叶子类目其他商品访客数（站内总成交，含自然和付费）"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mb7da5ygzns9omkuq4",
+              "ind": {
+                "left": 0
+              },
+              "list": {
+                "listId": "uzpyl8kug1",
+                "level": 0,
+                "isTaskList": false,
+                "isOrdered": false,
+                "listStyleType": "SCIR_ECIR_SREC",
+                "symbolStyle": {},
+                "listStyle": {
+                  "format": "bullet",
+                  "text": "●",
+                  "align": "left"
+                },
+                "extraData": {},
+                "isChecked": false,
+                "hideSymbol": false
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "流入度，举例：访问同叶子类目其他商品但未购买，而购买本店商品的访客数（站内总成交，含自然和付费）"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mb7dbyc3wonpasvxlml",
+              "ind": {
+                "left": 0
+              },
+              "list": {
+                "listId": "uzpyl8kug1",
+                "level": 0,
+                "isTaskList": false,
+                "isOrdered": false,
+                "listStyleType": "SCIR_ECIR_SREC",
+                "symbolStyle": {},
+                "listStyle": {
+                  "format": "bullet",
+                  "text": "●",
+                  "align": "left"
+                },
+                "extraData": {},
+                "isChecked": false,
+                "hideSymbol": false
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "流入度和流失度都是指数化结果，会四舍五入到最近的10的倍数。特别的，目前竞品的流失流入只统计了最新一天的，后续迭代优化为统计周期下"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mbaehor6yscb78mjbze",
+              "ind": {
+                "left": 0
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "h2",
+            {
+              "uuid": "mgojmo5qvtrd7bsdndk",
+              "ind": {
+                "left": 0
+              },
+              "spacing": {
+                "before": 28,
+                "after": 10,
+                "line": 0.8615384615384615
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 18,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "五、钉钉群入群方式"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mgojn2gmuvv9rqegmr8"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ],
+            [
+              "img",
+              {
+                "uuid": "b7gghz",
+                "name": "image.png",
+                "size": 212882,
+                "width": 413.6,
+                "height": 392,
+                "src": "/core/api/resources/img/5eecdaf48460cde5843d8cbee2ae2b5fd3ace46ccd85b23e75b8339e1c4c24831b75b38faadcd24bec177c308ebd5304579b4c2e568dbf6da03bd8f7b7f8ecf001e4019c241513c2daae2fb7a4b086e2ab99801346ea13d64fb4c8ed7016461c",
+                "extraData": {
+                  "resourceId": "91847c35-6fea-4699-aef5-dfd6281e58f1",
+                  "metaData": {
+                    "size": 212882,
+                    "originWidth": 517,
+                    "originHeight": 490,
+                    "format": "png",
+                    "ratio": 1
+                  }
+                }
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ]
+        ],
+        "footers": {},
+        "version": 1
+      },
+      "refs": {}
+    }
+  }
+}

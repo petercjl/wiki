@@ -2,7 +2,7 @@
 title: Wiki Index
 type: concept
 created: 2026-06-14
-updated: 2026-07-29
+updated: 2026-08-04
 domain: meta
 tags: [knowledge-base, index]
 sources:
@@ -14,14 +14,31 @@ sources:
   - _meta/extraction-notes/douyin-ecommerce-bootcamp-2026/coverage-matrix.md
   - raw/articles/agent-driven-ecommerce-cli-methodology-2026-07-29/source-evidence.md
   - _meta/extraction-notes/agent-driven-ecommerce-cli-methodology-2026-07-29/coverage-matrix.md
+  - raw/webpages/taobao/ai-dianjing-search-promotion-2026-08-03/extracted-text.md
+  - _meta/extraction-notes/ai-dianjing-search-promotion-2026-08-03/coverage-matrix.md
+  - raw/webpages/taobao/ai-keyword-selection-2026-08-03/content.md
+  - _meta/extraction-notes/ai-keyword-selection-2026-08-03/coverage-matrix.md
+  - raw/webpages/taobao/keyword-treasure-box-2026-08-03/content.md
+  - _meta/extraction-notes/keyword-treasure-box-2026-08-03/coverage-matrix.md
+  - raw/webpages/taobao/self-selected-keywords-matching-2026-08-03/content.md
+  - _meta/extraction-notes/self-selected-keywords-matching-2026-08-03/coverage-matrix.md
+  - raw/webpages/taobao/keyword-combination-selling-points-2026-08-03/content.md
+  - _meta/extraction-notes/keyword-combination-selling-points-2026-08-03/coverage-matrix.md
+  - raw/webpages/taobao/smart-traffic-keyword-package-2026-08-03/content.md
+  - _meta/extraction-notes/smart-traffic-keyword-package-2026-08-03/coverage-matrix.md
+  - raw/webpages/taobao/new-product-cold-start-2026-08-04/content.md
+  - raw/webpages/taobao/smart-product-promotion-2026-08-04/content.md
+  - _meta/extraction-notes/wanxiangtai-keyword-promotion-batch-2026-08-04/coverage-matrix.md
+  - _meta/extraction-notes/wanxiangtai-keyword-promotion-batch-2-2026-08-04/coverage-matrix.md
+  - _meta/extraction-notes/wanxiangtai-keyword-promotion-batch-3-2026-08-04/coverage-matrix.md
 status: active
 ---
 
 # Wiki Index
 
 > Content catalog. Every formal wiki page should be listed here.
-> Last updated: 2026-07-29
-> Total formal pages: 484
+> Last updated: 2026-08-04
+> Total formal pages: 515
 
 ## Domains
 
@@ -79,6 +96,9 @@ status: active
 - [[domains/AI Agent工程/05-工具链/01-OpenAI图像生成API集成指南|OpenAI 图像生成 API 集成指南]]：Image API 与 Responses API 的选择、参数、编辑、流式、错误处理和成本判断。
 - [[domains/AI Agent工程/05-工具链/03-公司共享GPU工作节点与分时调度方法|公司共享 GPU 工作节点与分时调度方法]]：从远程 GPU 原型演进到公司级分时共享平台的方法；超分项目当前仅完成初步测试。
 - [[domains/AI Agent工程/05-工具链/04-Real-ESRGAN远程超分案例|Real-ESRGAN 远程超分案例]]：Tailscale、SSH/SCP 和 Windows RTX 3060 Ti 的远程超分案例。
+- [[domains/AI Agent工程/05-工具链/05-网络与远程节点/index|网络与远程节点]]：VPS、代理线路、云安全组和客户端接入的知识入口。
+- [[domains/AI Agent工程/05-工具链/05-网络与远程节点/01-GigsGigsCloud东京Shadowsocks节点部署与运维|GigsGigsCloud 东京 Shadowsocks 节点部署与运维]]：线路基准、Shadowsocks、Mihomo、测速、排障与分享治理。
+- [[queries/VPS代理节点部署与排障|VPS 代理节点部署与排障]]：选线路、搭节点、测速、排障和客户端兼容性的 Agent 路由。
 - [[queries/公司GPU共享与远程任务调度|公司 GPU 共享与远程任务调度]]：公司 GPU 共享、异地访问、队列和调度的 Agent 查询入口。
 - [[domains/AI Agent工程/10-插件Skill与CLI/01-Agent驱动型电商CLI设计与开发规范|Agent 驱动型电商 CLI 设计与开发规范]]：把渠道网页和API能力沉淀成Agent可发现、可停止、可测试、可发布CLI的跨平台方法。
 - [[queries/Agent驱动型电商CLI开发入口|Agent 驱动型电商 CLI 开发入口]]：创建或扩展 tbcli、dycli、jdcli、alicli 时的标准查询路由。
@@ -259,6 +279,7 @@ status: active
 - [[domains/电商运营/01-通用电商方法/02-平台渠道与入驻合作/index|平台入驻与自营合作知识库]]：天猫超市、京东自营等平台供应商/自营合作模式的入驻判断框架。
 - [[domains/电商运营/02-淘宝天猫/03-天猫超市入驻合作/01-天猫超市合作与入驻说明|天猫超市合作与入驻说明]]：天猫超市供应商模式、费用口径、仓配售后、平台入口、入驻门槛和适配检查清单。
 - [[domains/电商运营/02-淘宝天猫/index|淘宝天猫知识入口]]：淘宝/天猫平台规则、店铺运营、营销工具、付费投放和天猫超市合作。
+- [[domains/电商运营/02-淘宝天猫/万相台无界白皮书/index|万相台无界白皮书]]：阿里官方万相台无界产品说明、操作规则与 UI 证据入口。
 - [[domains/电商运营/03-京东/index|京东知识入口]]：京东平台专属的入驻、采销、自营、运营规则和案例。
 - [[domains/电商运营/03-京东/01-京东自营入驻解析|京东自营入驻解析]]：京东自营 B2B2C 模式、货权、采销、毛保、资质、费用和入驻路径。
 - [[domains/电商运营/04-拼多多/index|拼多多知识入口]]：未来承接拼多多平台专属规则、运营方法和案例。
@@ -455,6 +476,33 @@ status: active
 - [[domains/电商运营/02-淘宝天猫/06-淘宝智能推广与人群运营系统/09-推广空烧互抢与报表优化|推广空烧互抢与报表优化]]：诊断推广空烧、计划互抢、推广效能表和人群效果分析表。
 - [[domains/电商运营/02-淘宝天猫/06-淘宝智能推广与人群运营系统/10-Agent使用模板：淘宝智能推广诊断|Agent 使用模板：淘宝智能推广诊断]]：用于诊断淘宝店铺模型、人群资产、计划结构、搜索卡位、测款和空烧互抢问题。
 - [[queries/淘宝智能推广与人群运营诊断|淘宝智能推广与人群运营诊断]]：Agent 回答淘宝智能推广、人群资产、计划诊断和报表优化问题前的读取入口。
+
+## 万相台无界白皮书
+
+- [[domains/电商运营/02-淘宝天猫/万相台无界白皮书/index|万相台无界白皮书]]：阿里官方万相台无界说明书资料层。
+- [[domains/电商运营/02-淘宝天猫/万相台无界白皮书/00-官方目录与编译进度|万相台无界官方目录与编译进度]]：保留“我要推广”的官方层级、模块边界和逐节点覆盖状态。
+- [[domains/电商运营/02-淘宝天猫/万相台无界白皮书/01-关键词推广/index|万相台无界关键词推广]]：官方关键词推广能力、入口、规则和 UI 证据的模块索引。
+- [[domains/电商运营/02-淘宝天猫/万相台无界白皮书/01-关键词推广/01-产品手册/index|关键词推广产品手册目录]]：按通用产品能力、自定义推广、搜索卡位、趋势明星和流量金卡恢复官方来源结构。
+- [[domains/电商运营/02-淘宝天猫/万相台无界白皮书/01-关键词推广/01-AI点睛：关键词推广的意图匹配与操作指南|AI点睛：关键词推广的意图匹配与操作指南]]：意图匹配、流量表达、开通、需求管理、屏蔽词、报表口径和限制。
+- [[domains/电商运营/02-淘宝天猫/万相台无界白皮书/01-关键词推广/02-AI选词：大模型选词入口与使用边界|AI选词：大模型选词入口与使用边界]]：自然语言生成候选关键词、新建与存量计划入口、选词视角和效果边界。
+- [[domains/电商运营/02-淘宝天猫/万相台无界白皮书/01-关键词推广/03-关键词百宝箱：四类词包与分阶段投放策略|关键词百宝箱：四类词包与分阶段投放策略]]：精准/精确、广泛、关键词组合、流量智选四类机制；覆盖卖点主题词、动态词包、流量放大系数、五类推荐词及商品阶段策略。
+- [[domains/电商运营/02-淘宝天猫/万相台无界白皮书/01-关键词推广/04-流量智选词包：目标、报告、托管与屏蔽词|流量智选词包：目标、报告、托管与屏蔽词]]：三种扩量目标、潜力词报告、无展现词托管、中心/精准屏蔽规则、额度和商品阶段策略。
+- [[domains/电商运营/02-淘宝天猫/万相台无界白皮书/01-关键词推广/05-新品推广：潜力评估、冷启加速与首发卡位|新品推广：潜力评估、冷启加速与首发卡位]]：新品潜力、冷启资格、破零工具和高门槛首发卡位。
+- [[domains/电商运营/02-淘宝天猫/万相台无界白皮书/01-关键词推广/06-搜索机会品：机会分、低竞争流量与投放工具|搜索机会品：机会分、低竞争流量与投放工具]]：机会分、洼地流量、第二梯队货品和四类投放入口。
+- [[domains/电商运营/02-淘宝天猫/万相台无界白皮书/01-关键词推广/07-智能选品：四类目标、动态汰换与执行边界|智能选品：四类目标、动态汰换与执行边界]]：四类经营目标、全店探索、动态汰换和版本迁移。
+- [[domains/电商运营/02-淘宝天猫/万相台无界白皮书/01-关键词推广/08-关键词推广人群：拿量诊断与目标人群强化|关键词推广人群：拿量诊断与目标人群强化]]：展现占比、渗透率、扩词与加价决策、目标人群强化。
+- [[domains/电商运营/02-淘宝天猫/万相台无界白皮书/01-关键词推广/09-关键词推广人群选择：价值系数、标签与智能拉新|关键词推广人群选择：价值系数、标签与智能拉新]]：智能出价人群价值系数、标签人群与智能拉新。
+- [[domains/电商运营/02-淘宝天猫/万相台无界白皮书/01-关键词推广/10-SKU裂变：爆款风格复制与素材限制|SKU裂变：爆款风格复制与素材限制]]：SKU 创意裂变、素材限制与审核边界。
+- [[domains/电商运营/02-淘宝天猫/万相台无界白皮书/01-关键词推广/11-分时折扣：优质时段推荐与批量复制|分时折扣：优质时段推荐与批量复制]]：小时级折扣、优质时段建议和模板复制。
+- [[domains/电商运营/02-淘宝天猫/万相台无界白皮书/01-关键词推广/12-预算与计划预警：撞线、低展现与最低日预算|预算与计划预警]]：预算撞线、低展现预警、跨日采纳和最低日预算版本边界。
+- [[domains/电商运营/02-淘宝天猫/万相台无界白皮书/01-关键词推广/13-搜索意图全域追投：资源位、归因与结案|搜索意图全域追投]]：全域资源、意图推理、新旧归因和结案复盘。
+- [[domains/电商运营/02-淘宝天猫/万相台无界白皮书/01-关键词推广/14-相似品跟投：五种竞争策略与跟投诊断|相似品跟投]]：五种竞争策略、目标商品、动态竞价、成功率与权限冲突。
+- [[domains/电商运营/02-淘宝天猫/万相台无界白皮书/01-关键词推广/15-智能出价目标：成交口径、成本控制与投放选择|智能出价目标]]：总成交、直接成交、成本控制、稳定 ROI 和专项目标选择。
+- [[domains/电商运营/02-淘宝天猫/万相台无界白皮书/01-关键词推广/16-关键词推广创意：智能创意、素材管理与同步边界|关键词推广创意]]：计划创建后的创意维护、智能创意、创意库同步关系和素材上限。
+- [[domains/电商运营/02-淘宝天猫/万相台无界白皮书/01-关键词推广/17-自定义推广：三类需求与操作总览|自定义推广操作总览]]：按选品权与出价控制权路由手动、智能和自动选品三类需求。
+- [[domains/电商运营/02-淘宝天猫/万相台无界白皮书/01-关键词推广/01-产品手册/02-自定义推广/index|关键词推广自定义推广目录]]：选品、相似品跟投、智能/手动出价和好货快投的官方来源分支。
+- [[domains/电商运营/02-淘宝天猫/万相台无界白皮书/01-关键词推广/01-产品手册/03-搜索卡位与市场渗透/index|搜索卡位与市场渗透目录]]：搜索卡位入口迁移及后续市场渗透能力的官方来源分支。
+- [[queries/淘宝AI点睛关键词推广|淘宝 AI点睛关键词推广]]：Agent 回答 AI点睛配置、调优和报表问题前的读取入口。
 
 ## Brand Strategy
 

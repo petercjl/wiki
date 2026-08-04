@@ -1,0 +1,4121 @@
+{
+  "version": 1,
+  "type": "application/x-alidocs-package",
+  "main": "00000000-0000-0000-0000-000000000001",
+  "plugins": "00000000-0000-0000-0000-000000000002",
+  "parts": {
+    "00000000-0000-0000-0000-000000000001": {
+      "id": "00000000-0000-0000-0000-000000000001",
+      "type": "application/x-alidocs-word",
+      "version": 1,
+      "data": {
+        "style": {
+          "docDefaults": {
+            "type": "paragraph",
+            "default": 1,
+            "name": "dingdocnormal",
+            "data": {
+              "rPr": {
+                "sz": 12,
+                "szUnit": "pt"
+              },
+              "pPr": {
+                "spacing": {
+                  "before": 10,
+                  "after": 10
+                }
+              }
+            }
+          }
+        },
+        "theme": [],
+        "settings": {
+          "titleCover": {
+            "isHide": true
+          }
+        },
+        "app": {},
+        "numberings": {},
+        "headers": {},
+        "body": [
+          "root",
+          {
+            "sectPr": {
+              "pgSz": {
+                "w": 892,
+                "h": 1127
+              },
+              "pgMar": {
+                "top": 48,
+                "bottom": 48,
+                "left": 72,
+                "right": 72,
+                "header": 56.73,
+                "footer": 66.13,
+                "gutter": 0
+              }
+            },
+            "theme": {
+              "table": {
+                "tableCell": {
+                  "vAlign": "top"
+                }
+              }
+            }
+          },
+          [
+            "container",
+            {
+              "subType": "colorBlocks",
+              "metadata": {
+                "padding": {
+                  "top": 11,
+                  "right": 11,
+                  "bottom": 11,
+                  "left": 11
+                },
+                "borderRadius": 8,
+                "bgcolor": "#F5F6F7",
+                "showstk": false,
+                "border": null
+              },
+              "uuid": "mcu7d8kvnqoz7usriid"
+            },
+            [
+              "container",
+              {
+                "subType": "colorBlocks",
+                "metadata": {
+                  "padding": {
+                    "top": 11,
+                    "right": 11,
+                    "bottom": 11,
+                    "left": 11
+                  },
+                  "borderRadius": 8,
+                  "bgcolor": "#ffffff",
+                  "showstk": false,
+                  "border": null
+                },
+                "uuid": "mcucqog511hiz8f49g2"
+              },
+              [
+                "container",
+                {
+                  "subType": "colorBlocks",
+                  "metadata": {
+                    "padding": {
+                      "top": 11,
+                      "right": 11,
+                      "bottom": 11,
+                      "left": 11
+                    },
+                    "borderRadius": 8,
+                    "bgcolor": "#4243ef",
+                    "showstk": false,
+                    "border": null
+                  },
+                  "uuid": "mfm6kf7nnqa2biwj55n"
+                },
+                [
+                  "h1",
+                  {
+                    "jc": "center",
+                    "uuid": "mfm6ky3ips5yfxfxqob",
+                    "spacing": {
+                      "before": 26.666666666666664,
+                      "after": 9,
+                      "line": 0.8529411764705882
+                    }
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "fonts": {
+                          "ascii": "Microsoft YaHei",
+                          "hAnsi": "Microsoft YaHei",
+                          "cs": "Microsoft YaHei",
+                          "eastAsia": "Microsoft YaHei"
+                        },
+                        "sz": 20,
+                        "szUnit": "pt",
+                        "color": "#FFFFFF",
+                        "data-type": "leaf"
+                      },
+                      "         「货品全站推广」双11必赢投放建议            "
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "container",
+                {
+                  "subType": "colorBlocks",
+                  "metadata": {
+                    "padding": {
+                      "top": 11,
+                      "right": 11,
+                      "bottom": 11,
+                      "left": 11
+                    },
+                    "borderRadius": 8,
+                    "bgcolor": "#F5F6F7",
+                    "showstk": false,
+                    "border": null
+                  },
+                  "uuid": "mfm7uyfnvwj84ifrfdl"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mfm7v0ngiiix0puh1jn"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "fonts": {
+                          "ascii": "Microsoft YaHei",
+                          "hAnsi": "Microsoft YaHei",
+                          "cs": "Microsoft YaHei",
+                          "eastAsia": "Microsoft YaHei"
+                        },
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "",
+                        "data-type": "leaf"
+                      },
+                      "亲爱的商家朋友："
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "uuid": "mcue6krp3xxwd9xgqz8"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "fonts": {
+                          "ascii": "Microsoft YaHei",
+                          "hAnsi": "Microsoft YaHei",
+                          "cs": "Microsoft YaHei",
+                          "eastAsia": "Microsoft YaHei"
+                        },
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "",
+                        "data-type": "leaf"
+                      },
+                      "双11流量大战一触即发，怎么投，才能稳赢？"
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "uuid": "mgj6nx8bdmukqcv40vg"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "fonts": {
+                          "ascii": "Microsoft YaHei",
+                          "hAnsi": "Microsoft YaHei",
+                          "cs": "Microsoft YaHei",
+                          "eastAsia": "Microsoft YaHei"
+                        },
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "",
+                        "data-type": "leaf"
+                      },
+                      "历史大促全站推"
+                    ],
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "fonts": {
+                          "ascii": "Microsoft YaHei",
+                          "hAnsi": "Microsoft YaHei",
+                          "cs": "Microsoft YaHei",
+                          "eastAsia": "Microsoft YaHei"
+                        },
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "#3e3eff",
+                        "data-type": "leaf"
+                      },
+                      "已助力生意双百万增长"
+                    ],
+                    [
+                      "span",
+                      {
+                        "fonts": {
+                          "ascii": "Microsoft YaHei",
+                          "hAnsi": "Microsoft YaHei",
+                          "cs": "Microsoft YaHei",
+                          "eastAsia": "Microsoft YaHei"
+                        },
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "",
+                        "data-type": "leaf"
+                      },
+                      "，百万商家实现"
+                    ],
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "fonts": {
+                          "ascii": "Microsoft YaHei",
+                          "hAnsi": "Microsoft YaHei",
+                          "cs": "Microsoft YaHei",
+                          "eastAsia": "Microsoft YaHei"
+                        },
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "",
+                        "data-type": "leaf"
+                      },
+                      "流量增幅20%+、销量10%+、销售排名+10名，"
+                    ],
+                    [
+                      "span",
+                      {
+                        "fonts": {
+                          "ascii": "Microsoft YaHei",
+                          "hAnsi": "Microsoft YaHei",
+                          "cs": "Microsoft YaHei",
+                          "eastAsia": "Microsoft YaHei"
+                        },
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "",
+                        "data-type": "leaf"
+                      },
+                      "实现全面增长，助力百万商品实现"
+                    ],
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "fonts": {
+                          "ascii": "Microsoft YaHei",
+                          "hAnsi": "Microsoft YaHei",
+                          "cs": "Microsoft YaHei",
+                          "eastAsia": "Microsoft YaHei"
+                        },
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "",
+                        "data-type": "leaf"
+                      },
+                      "大促销量增幅100%+"
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "uuid": "mcue7azrxzcwmj9lbh"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "fonts": {
+                          "ascii": "Microsoft YaHei",
+                          "hAnsi": "Microsoft YaHei",
+                          "cs": "Microsoft YaHei",
+                          "eastAsia": "Microsoft YaHei"
+                        },
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "#3e3eff",
+                        "data-type": "leaf"
+                      },
+                      "货品全站推广焕新升级，超多福利加码"
+                    ],
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "fonts": {
+                          "ascii": "Microsoft YaHei",
+                          "hAnsi": "Microsoft YaHei",
+                          "cs": "Microsoft YaHei",
+                          "eastAsia": "Microsoft YaHei"
+                        },
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "",
+                        "data-type": "leaf"
+                      },
+                      "："
+                    ],
+                    [
+                      "span",
+                      {
+                        "fonts": {
+                          "ascii": "Microsoft YaHei",
+                          "hAnsi": "Microsoft YaHei",
+                          "cs": "Microsoft YaHei",
+                          "eastAsia": "Microsoft YaHei"
+                        },
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "",
+                        "data-type": "leaf"
+                      },
+                      "速来查看双11投放攻略，掌握大促流量密码，让好货高效突围市场！"
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "table",
+              {
+                "colsWidth": [
+                  133.94644566323035,
+                  245.33418995908255,
+                  555.7193643776872
+                ],
+                "sr": true,
+                "uuid": "mcu7g9ubngg0omfkxs"
+              },
+              [
+                "tr",
+                {
+                  "uuid": "mcu7g9ubn5dyukxdktg"
+                },
+                [
+                  "tc",
+                  {
+                    "fill": "#FFFFFF",
+                    "vAlign": "top",
+                    "uuid": "mcu7g9ubiiecar8x9l",
+                    "rowSpan": 1,
+                    "colSpan": 1,
+                    "border": "#4142f1"
+                  },
+                  [
+                    "p",
+                    {
+                      "uuid": "mcu7g9ub3ra0m5y5s8d",
+                      "jc": "center"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "bold": true,
+                          "fonts": {
+                            "ascii": "Microsoft YaHei",
+                            "hAnsi": "Microsoft YaHei",
+                            "cs": "Microsoft YaHei",
+                            "eastAsia": "Microsoft YaHei"
+                          },
+                          "sz": 12,
+                          "szUnit": "pt",
+                          "color": "#3e3eff",
+                          "data-type": "leaf"
+                        },
+                        "模块"
+                      ]
+                    ]
+                  ]
+                ],
+                [
+                  "tc",
+                  {
+                    "border": "#9A6DD7",
+                    "colSpan": 1,
+                    "fill": "#4243ef",
+                    "rowSpan": 1,
+                    "uuid": "mcu7g9ubp2ifqtjvgt",
+                    "vAlign": "top"
+                  },
+                  [
+                    "p",
+                    {
+                      "jc": "center",
+                      "uuid": "mcu7g9ubnkq1uot0s0o"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "bold": true,
+                          "fonts": {
+                            "ascii": "Microsoft YaHei",
+                            "hAnsi": "Microsoft YaHei",
+                            "cs": "Microsoft YaHei",
+                            "eastAsia": "Microsoft YaHei"
+                          },
+                          "sz": 11,
+                          "szUnit": "pt",
+                          "color": "#FFFFFF",
+                          "data-type": "leaf"
+                        },
+                        " 双11预售期"
+                      ]
+                    ]
+                  ],
+                  [
+                    "p",
+                    {
+                      "jc": "center",
+                      "uuid": "mfm6f6robwt77sh4hz7"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "bold": true,
+                          "fonts": {
+                            "ascii": "Microsoft YaHei",
+                            "hAnsi": "Microsoft YaHei",
+                            "cs": "Microsoft YaHei",
+                            "eastAsia": "Microsoft YaHei"
+                          },
+                          "sz": 9,
+                          "szUnit": "pt",
+                          "color": "#FFFFFF",
+                          "data-type": "leaf"
+                        },
+                        "⏰10月15日20:00"
+                      ]
+                    ]
+                  ]
+                ],
+                [
+                  "tc",
+                  {
+                    "vAlign": "top",
+                    "fill": "#4243ef",
+                    "uuid": "mfm6exy45vcjiyg396u",
+                    "border": "",
+                    "rowSpan": 1,
+                    "colSpan": 1
+                  },
+                  [
+                    "p",
+                    {
+                      "uuid": "mfm6fx24c9m0jj3813t",
+                      "jc": "center"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "bold": true,
+                          "fonts": {
+                            "ascii": "Microsoft YaHei",
+                            "hAnsi": "Microsoft YaHei",
+                            "cs": "Microsoft YaHei",
+                            "eastAsia": "Microsoft YaHei"
+                          },
+                          "sz": 11,
+                          "szUnit": "pt",
+                          "color": "#FFFFFF",
+                          "data-type": "leaf"
+                        },
+                        " 双11现货开卖"
+                      ]
+                    ]
+                  ],
+                  [
+                    "p",
+                    {
+                      "jc": "center",
+                      "uuid": "mfm6fx25ftgj2r479pr"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "bold": true,
+                          "fonts": {
+                            "ascii": "Microsoft YaHei",
+                            "hAnsi": "Microsoft YaHei",
+                            "cs": "Microsoft YaHei",
+                            "eastAsia": "Microsoft YaHei"
+                          },
+                          "sz": 9,
+                          "szUnit": "pt",
+                          "color": "#FFFFFF",
+                          "data-type": "leaf"
+                        },
+                        "⏰10月20日20:00-11月14日23:59"
+                      ]
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "table",
+              {
+                "colsWidth": [
+                  102,
+                  610
+                ],
+                "sr": true,
+                "uuid": "mfm6pgcu3mlleho625"
+              },
+              [
+                "tr",
+                {
+                  "uuid": "mfm6pgcuzy7pyy5hst"
+                },
+                [
+                  "tc",
+                  {
+                    "fill": "#FFFFFF",
+                    "vAlign": "top",
+                    "uuid": "mfm6pgcuyecjopucjgo",
+                    "rowSpan": 1,
+                    "colSpan": 1,
+                    "border": "#4142f1"
+                  },
+                  [
+                    "p",
+                    {
+                      "uuid": "mfm6u4ymv5nigahmfq",
+                      "jc": "center"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "bold": true,
+                          "fonts": {
+                            "ascii": "Microsoft YaHei",
+                            "hAnsi": "Microsoft YaHei",
+                            "cs": "Microsoft YaHei",
+                            "eastAsia": "Microsoft YaHei"
+                          },
+                          "color": "#3e3eff",
+                          "data-type": "leaf"
+                        },
+                        ""
+                      ]
+                    ]
+                  ],
+                  [
+                    "p",
+                    {
+                      "uuid": "mfm8swvmyhmkon76lr",
+                      "jc": "center"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "bold": true,
+                          "fonts": {
+                            "ascii": "Microsoft YaHei",
+                            "hAnsi": "Microsoft YaHei",
+                            "cs": "Microsoft YaHei",
+                            "eastAsia": "Microsoft YaHei"
+                          },
+                          "color": "#3e3eff",
+                          "data-type": "leaf"
+                        },
+                        ""
+                      ]
+                    ]
+                  ],
+                  [
+                    "p",
+                    {
+                      "uuid": "mfm8sx6s2sbsuyufx5c",
+                      "jc": "center"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "bold": true,
+                          "fonts": {
+                            "ascii": "Microsoft YaHei",
+                            "hAnsi": "Microsoft YaHei",
+                            "cs": "Microsoft YaHei",
+                            "eastAsia": "Microsoft YaHei"
+                          },
+                          "color": "#3e3eff",
+                          "data-type": "leaf"
+                        },
+                        ""
+                      ]
+                    ]
+                  ],
+                  [
+                    "p",
+                    {
+                      "uuid": "mfm8sxb2prvz57t7ohr",
+                      "jc": "center"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "bold": true,
+                          "fonts": {
+                            "ascii": "Microsoft YaHei",
+                            "hAnsi": "Microsoft YaHei",
+                            "cs": "Microsoft YaHei",
+                            "eastAsia": "Microsoft YaHei"
+                          },
+                          "color": "#3e3eff",
+                          "data-type": "leaf"
+                        },
+                        ""
+                      ]
+                    ]
+                  ],
+                  [
+                    "p",
+                    {
+                      "uuid": "mfm8sxsrga3z5f5904q",
+                      "jc": "left"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "leaf"
+                        },
+                        "    "
+                      ],
+                      [
+                        "span",
+                        {
+                          "bold": true,
+                          "fonts": {
+                            "ascii": "Microsoft YaHei",
+                            "hAnsi": "Microsoft YaHei",
+                            "cs": "Microsoft YaHei",
+                            "eastAsia": "Microsoft YaHei"
+                          },
+                          "color": "#3e3eff",
+                          "data-type": "leaf"
+                        },
+                        "选品"
+                      ]
+                    ]
+                  ]
+                ],
+                [
+                  "tc",
+                  {
+                    "fill": "#FFFFFF",
+                    "vAlign": "top",
+                    "uuid": "mfm6pgcuei5ou605wo9",
+                    "rowSpan": 1,
+                    "colSpan": 1
+                  },
+                  [
+                    "p",
+                    {
+                      "ind": {
+                        "left": 0
+                      },
+                      "jc": "left",
+                      "uuid": "maf76gsw5jdhr1nzmnt"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "sz": 10,
+                          "szUnit": "pt",
+                          "data-type": "leaf"
+                        },
+                        "围绕货品生命周期建设（内测）"
+                      ],
+                      [
+                        "span",
+                        {
+                          "bold": true,
+                          "sz": 10,
+                          "szUnit": "pt",
+                          "color": "#3e3eff",
+                          "data-type": "leaf"
+                        },
+                        "新品、潜力品、机会爆品成长的能力"
+                      ],
+                      [
+                        "span",
+                        {
+                          "sz": 10,
+                          "szUnit": "pt",
+                          "data-type": "leaf"
+                        },
+                        "，助力各阶段商品在大促期间成交爆发更强！"
+                      ],
+                      [
+                        "span",
+                        {
+                          "bold": true,
+                          "sz": 10,
+                          "szUnit": "pt",
+                          "color": "",
+                          "data-type": "leaf"
+                        },
+                        "建议锁定平台推荐商品，"
+                      ],
+                      [
+                        "span",
+                        {
+                          "bold": true,
+                          "sz": 10,
+                          "szUnit": "pt",
+                          "color": "#3e3eff",
+                          "data-type": "leaf"
+                        },
+                        "优选「平台推荐」商品，可获取“专属流量扶持”、“成本保障权益”"
+                      ]
+                    ]
+                  ],
+                  [
+                    "container",
+                    {
+                      "subType": "colorBlocks",
+                      "metadata": {
+                        "padding": {
+                          "top": 11,
+                          "right": 11,
+                          "bottom": 11,
+                          "left": 11
+                        },
+                        "borderRadius": 8,
+                        "bgcolor": "#F5F6F7",
+                        "showstk": false,
+                        "border": null
+                      },
+                      "uuid": "mfm85ur203xrtrnx01p5"
+                    },
+                    [
+                      "p",
+                      {
+                        "uuid": "mcvkodr1jdptga4bcqe"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "text"
+                        },
+                        [
+                          "span",
+                          {
+                            "bold": true,
+                            "sz": 10,
+                            "szUnit": "pt",
+                            "color": "#3e3eff",
+                            "data-type": "leaf"
+                          },
+                          "新品："
+                        ],
+                        [
+                          "span",
+                          {
+                            "sz": 10,
+                            "szUnit": "pt",
+                            "color": "",
+                            "data-type": "leaf"
+                          },
+                          "新品推荐使用「一键起量」+「多目标出价」，配合平台专属出价策略与流量扶持机制高效协同，全站助力新品快速破百；"
+                        ]
+                      ]
+                    ],
+                    [
+                      "p",
+                      {
+                        "uuid": "mcvkof5f03e9z1hkp1uv"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "text"
+                        },
+                        [
+                          "span",
+                          {
+                            "bold": true,
+                            "sz": 10,
+                            "szUnit": "pt",
+                            "color": "#3e3eff",
+                            "data-type": "leaf"
+                          },
+                          "潜力品："
+                        ],
+                        [
+                          "span",
+                          {
+                            "bold": false,
+                            "sz": 10,
+                            "szUnit": "pt",
+                            "color": "",
+                            "data-type": "leaf"
+                          },
+                          "通过商品的用户特征及商品属性，挖掘预测未来有GMV增长空间的商品进行推荐，通过「净成交出价」交付确收GMV，「多目标出价-直接成交」进行商品集中打爆，带动潜力品成交跃迁；"
+                        ]
+                      ]
+                    ],
+                    [
+                      "p",
+                      {
+                        "uuid": "mcvkojim11mm7od5o6tc"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "text"
+                        },
+                        [
+                          "span",
+                          {
+                            "bold": true,
+                            "sz": 10,
+                            "szUnit": "pt",
+                            "color": "#3e3eff",
+                            "data-type": "leaf"
+                          },
+                          "机会爆品："
+                        ],
+                        [
+                          "span",
+                          {
+                            "bold": false,
+                            "sz": 10,
+                            "szUnit": "pt",
+                            "color": "",
+                            "data-type": "leaf"
+                          },
+                          "通过「多目标出价」/「一键起量」等增量能力的运用，在爆品稳定销量的同时，进行roi 交付稳定， 提升拿量能力，撬动PV增长；"
+                        ]
+                      ]
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "table",
+              {
+                "colsWidth": [
+                  97,
+                  615
+                ],
+                "sr": true,
+                "uuid": "mcu7htwp2udhkw20mhf"
+              },
+              [
+                "tr",
+                {
+                  "uuid": "mcu7htwpsumqee5fhw"
+                },
+                [
+                  "tc",
+                  {
+                    "border": "#4142f1",
+                    "colSpan": 1,
+                    "fill": "#FFFFFF",
+                    "rowSpan": 1,
+                    "uuid": "mcu7htwpwsovvexdvzg",
+                    "vAlign": "top"
+                  },
+                  [
+                    "p",
+                    {
+                      "uuid": "mcu7htwpaflz8ca36qu",
+                      "jc": "center"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "bold": true,
+                          "fonts": {
+                            "ascii": "Microsoft YaHei",
+                            "hAnsi": "Microsoft YaHei",
+                            "cs": "Microsoft YaHei",
+                            "eastAsia": "Microsoft YaHei"
+                          },
+                          "sz": 12,
+                          "szUnit": "pt",
+                          "data-type": "leaf"
+                        },
+                        ""
+                      ]
+                    ]
+                  ],
+                  [
+                    "p",
+                    {
+                      "jc": "center",
+                      "uuid": "mcu7nyjqrwl2svhfcfd"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "bold": true,
+                          "fonts": {
+                            "ascii": "Microsoft YaHei",
+                            "hAnsi": "Microsoft YaHei",
+                            "cs": "Microsoft YaHei",
+                            "eastAsia": "Microsoft YaHei"
+                          },
+                          "sz": 12,
+                          "szUnit": "pt",
+                          "data-type": "leaf"
+                        },
+                        ""
+                      ]
+                    ]
+                  ],
+                  [
+                    "p",
+                    {
+                      "uuid": "mcu7nywb6k3rm5ouj7j",
+                      "jc": "center"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "bold": true,
+                          "fonts": {
+                            "ascii": "Microsoft YaHei",
+                            "hAnsi": "Microsoft YaHei",
+                            "cs": "Microsoft YaHei",
+                            "eastAsia": "Microsoft YaHei"
+                          },
+                          "sz": 12,
+                          "szUnit": "pt",
+                          "data-type": "leaf"
+                        },
+                        ""
+                      ]
+                    ]
+                  ],
+                  [
+                    "p",
+                    {
+                      "uuid": "mcu7nz1m2f6fqso9md4",
+                      "jc": "center"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "bold": true,
+                          "fonts": {
+                            "ascii": "Microsoft YaHei",
+                            "hAnsi": "Microsoft YaHei",
+                            "cs": "Microsoft YaHei",
+                            "eastAsia": "Microsoft YaHei"
+                          },
+                          "sz": 12,
+                          "szUnit": "pt",
+                          "data-type": "leaf"
+                        },
+                        ""
+                      ]
+                    ]
+                  ],
+                  [
+                    "p",
+                    {
+                      "uuid": "mcu7nz677y2jqyrl59",
+                      "jc": "center"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "bold": true,
+                          "fonts": {
+                            "ascii": "Microsoft YaHei",
+                            "hAnsi": "Microsoft YaHei",
+                            "cs": "Microsoft YaHei",
+                            "eastAsia": "Microsoft YaHei"
+                          },
+                          "sz": 12,
+                          "szUnit": "pt",
+                          "data-type": "leaf"
+                        },
+                        ""
+                      ]
+                    ]
+                  ],
+                  [
+                    "p",
+                    {
+                      "uuid": "mcu7nzklruthlu5ros",
+                      "jc": "center"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "bold": true,
+                          "fonts": {
+                            "ascii": "Microsoft YaHei",
+                            "hAnsi": "Microsoft YaHei",
+                            "cs": "Microsoft YaHei",
+                            "eastAsia": "Microsoft YaHei"
+                          },
+                          "sz": 12,
+                          "szUnit": "pt",
+                          "data-type": "leaf"
+                        },
+                        ""
+                      ]
+                    ]
+                  ],
+                  [
+                    "p",
+                    {
+                      "uuid": "mcu7nzpx1h6kr30rczc",
+                      "jc": "center"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "bold": true,
+                          "fonts": {
+                            "ascii": "Microsoft YaHei",
+                            "hAnsi": "Microsoft YaHei",
+                            "cs": "Microsoft YaHei",
+                            "eastAsia": "Microsoft YaHei"
+                          },
+                          "sz": 12,
+                          "szUnit": "pt",
+                          "data-type": "leaf"
+                        },
+                        ""
+                      ]
+                    ]
+                  ],
+                  [
+                    "p",
+                    {
+                      "uuid": "mcu7nzugq4pm9aotfp",
+                      "jc": "center"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "bold": true,
+                          "fonts": {
+                            "ascii": "Microsoft YaHei",
+                            "hAnsi": "Microsoft YaHei",
+                            "cs": "Microsoft YaHei",
+                            "eastAsia": "Microsoft YaHei"
+                          },
+                          "sz": 12,
+                          "szUnit": "pt",
+                          "color": "#3e3eff",
+                          "data-type": "leaf"
+                        },
+                        ""
+                      ]
+                    ]
+                  ],
+                  [
+                    "p",
+                    {
+                      "jc": "center",
+                      "uuid": "mcu7nzz6k3rwtjtiew"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "bold": true,
+                          "fonts": {
+                            "ascii": "Microsoft YaHei",
+                            "hAnsi": "Microsoft YaHei",
+                            "cs": "Microsoft YaHei",
+                            "eastAsia": "Microsoft YaHei"
+                          },
+                          "sz": 12,
+                          "szUnit": "pt",
+                          "color": "#3e3eff",
+                          "data-type": "leaf"
+                        },
+                        "出价建议"
+                      ]
+                    ]
+                  ]
+                ],
+                [
+                  "tc",
+                  {
+                    "colSpan": 1,
+                    "fill": "#F5F6F7",
+                    "rowSpan": 1,
+                    "uuid": "mcu7htwpgsl9ktgcjzw",
+                    "vAlign": "top"
+                  },
+                  [
+                    "table",
+                    {
+                      "colsWidth": [
+                        173.73996786173333,
+                        405.26003213826664
+                      ],
+                      "sr": true,
+                      "uuid": "mcu7i8dvcwcahnejya"
+                    },
+                    [
+                      "tr",
+                      {
+                        "uuid": "mcu7i8dvkbqkjx3gbo"
+                      },
+                      [
+                        "tc",
+                        {
+                          "fill": "#FFFFFF",
+                          "vAlign": "top",
+                          "uuid": "mcu7i8dvki2lcpyuna",
+                          "border": "",
+                          "rowSpan": 1,
+                          "colSpan": 1
+                        },
+                        [
+                          "p",
+                          {
+                            "uuid": "mcvdtny3vnixlmzoyt",
+                            "jc": "center"
+                          },
+                          [
+                            "span",
+                            {
+                              "data-type": "text"
+                            },
+                            [
+                              "span",
+                              {
+                                "bold": true,
+                                "fonts": {
+                                  "ascii": "Microsoft YaHei",
+                                  "hAnsi": "Microsoft YaHei",
+                                  "cs": "Microsoft YaHei",
+                                  "eastAsia": "Microsoft YaHei"
+                                },
+                                "sz": 11,
+                                "szUnit": "pt",
+                                "data-type": "leaf"
+                              },
+                              "-"
+                            ]
+                          ]
+                        ]
+                      ],
+                      [
+                        "tc",
+                        {
+                          "fill": "#FFFFFF",
+                          "vAlign": "top",
+                          "uuid": "mcu7i8dvgcc1c287zn",
+                          "border": "",
+                          "rowSpan": 1,
+                          "colSpan": 1
+                        },
+                        [
+                          "p",
+                          {
+                            "uuid": "mcu7i8dv5ccok5e72zw"
+                          },
+                          [
+                            "span",
+                            {
+                              "data-type": "text"
+                            },
+                            [
+                              "span",
+                              {
+                                "bold": true,
+                                "fonts": {
+                                  "ascii": "Microsoft YaHei",
+                                  "hAnsi": "Microsoft YaHei",
+                                  "cs": "Microsoft YaHei",
+                                  "eastAsia": "Microsoft YaHei"
+                                },
+                                "sz": 10,
+                                "szUnit": "pt",
+                                "color": "#3e3eff",
+                                "data-type": "leaf"
+                              },
+                              "一键起量："
+                            ],
+                            [
+                              "span",
+                              {
+                                "fonts": {
+                                  "ascii": "Microsoft YaHei",
+                                  "hAnsi": "Microsoft YaHei",
+                                  "cs": "Microsoft YaHei",
+                                  "eastAsia": "Microsoft YaHei"
+                                },
+                                "sz": 10,
+                                "szUnit": "pt",
+                                "data-type": "leaf"
+                              },
+                              "保障基础预算交付，进行灵活起量成交探索，可以"
+                            ],
+                            [
+                              "span",
+                              {
+                                "bold": true,
+                                "fonts": {
+                                  "ascii": "Microsoft YaHei",
+                                  "hAnsi": "Microsoft YaHei",
+                                  "cs": "Microsoft YaHei",
+                                  "eastAsia": "Microsoft YaHei"
+                                },
+                                "sz": 10,
+                                "szUnit": "pt",
+                                "data-type": "leaf"
+                              },
+                              "自定义时段及地域能力的起量能力；"
+                            ]
+                          ]
+                        ]
+                      ]
+                    ]
+                  ],
+                  [
+                    "table",
+                    {
+                      "colsWidth": [
+                        173.66614833450754,
+                        405.33385166549243
+                      ],
+                      "sr": true,
+                      "uuid": "mcu7ip0bplpolzo79aa"
+                    },
+                    [
+                      "tr",
+                      {
+                        "uuid": "mcu7ip0bf72k6jvg6cv"
+                      },
+                      [
+                        "tc",
+                        {
+                          "border": "",
+                          "fill": "#FFFFFF",
+                          "uuid": "mcu7ip0bowmhxvtyxoc",
+                          "vAlign": "top",
+                          "rowSpan": 1,
+                          "colSpan": 1
+                        },
+                        [
+                          "p",
+                          {
+                            "uuid": "mcu7ip0bzooyt7as7oc",
+                            "jc": "center"
+                          },
+                          [
+                            "span",
+                            {
+                              "data-type": "text"
+                            },
+                            [
+                              "span",
+                              {
+                                "bold": true,
+                                "fonts": {
+                                  "ascii": "Microsoft YaHei",
+                                  "hAnsi": "Microsoft YaHei",
+                                  "cs": "Microsoft YaHei",
+                                  "eastAsia": "Microsoft YaHei"
+                                },
+                                "sz": 11,
+                                "szUnit": "pt",
+                                "data-type": "leaf"
+                              },
+                              ""
+                            ]
+                          ]
+                        ],
+                        [
+                          "p",
+                          {
+                            "uuid": "mcvdttumoe6m2squ4n",
+                            "jc": "center"
+                          },
+                          [
+                            "span",
+                            {
+                              "data-type": "text"
+                            },
+                            [
+                              "span",
+                              {
+                                "bold": true,
+                                "fonts": {
+                                  "ascii": "Microsoft YaHei",
+                                  "hAnsi": "Microsoft YaHei",
+                                  "cs": "Microsoft YaHei",
+                                  "eastAsia": "Microsoft YaHei"
+                                },
+                                "sz": 11,
+                                "szUnit": "pt",
+                                "data-type": "leaf"
+                              },
+                              "-"
+                            ]
+                          ]
+                        ]
+                      ],
+                      [
+                        "tc",
+                        {
+                          "fill": "#FFFFFF",
+                          "vAlign": "top",
+                          "uuid": "mcu7ip0bb2bjaoe1luh",
+                          "border": "",
+                          "rowSpan": 1,
+                          "colSpan": 1
+                        },
+                        [
+                          "p",
+                          {
+                            "uuid": "mcu7ip0bp49oe6po4r"
+                          },
+                          [
+                            "span",
+                            {
+                              "data-type": "text"
+                            },
+                            [
+                              "span",
+                              {
+                                "bold": true,
+                                "fonts": {
+                                  "ascii": "Microsoft YaHei",
+                                  "hAnsi": "Microsoft YaHei",
+                                  "cs": "Microsoft YaHei",
+                                  "eastAsia": "Microsoft YaHei"
+                                },
+                                "sz": 10,
+                                "szUnit": "pt",
+                                "color": "#3e3eff",
+                                "data-type": "leaf"
+                              },
+                              "最大化拿量："
+                            ],
+                            [
+                              "span",
+                              {
+                                "fonts": {
+                                  "ascii": "Microsoft YaHei",
+                                  "hAnsi": "Microsoft YaHei",
+                                  "cs": "Microsoft YaHei",
+                                  "eastAsia": "Microsoft YaHei"
+                                },
+                                "sz": 10,
+                                "szUnit": "pt",
+                                "data-type": "leaf"
+                              },
+                              "系统最大程度帮助优化转化价值的自动出价产品，最大化成交，满足"
+                            ],
+                            [
+                              "span",
+                              {
+                                "bold": true,
+                                "fonts": {
+                                  "ascii": "Microsoft YaHei",
+                                  "hAnsi": "Microsoft YaHei",
+                                  "cs": "Microsoft YaHei",
+                                  "eastAsia": "Microsoft YaHei"
+                                },
+                                "sz": 10,
+                                "szUnit": "pt",
+                                "data-type": "leaf"
+                              },
+                              "「充分跑量」「流量均衡」「最大化转化效果」"
+                            ],
+                            [
+                              "span",
+                              {
+                                "fonts": {
+                                  "ascii": "Microsoft YaHei",
+                                  "hAnsi": "Microsoft YaHei",
+                                  "cs": "Microsoft YaHei",
+                                  "eastAsia": "Microsoft YaHei"
+                                },
+                                "sz": 10,
+                                "szUnit": "pt",
+                                "data-type": "leaf"
+                              },
+                              "的投放诉求；"
+                            ]
+                          ]
+                        ]
+                      ]
+                    ]
+                  ],
+                  [
+                    "table",
+                    {
+                      "colsWidth": [
+                        173.66614833450754,
+                        405.33385166549243
+                      ],
+                      "sr": true,
+                      "uuid": "mcu7j4c79mhbcyq0tvf"
+                    },
+                    [
+                      "tr",
+                      {
+                        "uuid": "mcu7j4c72hdyobfp0uc"
+                      },
+                      [
+                        "tc",
+                        {
+                          "fill": "#FFFFFF",
+                          "vAlign": "top",
+                          "uuid": "mcu7j4c7i1c6xskb4ed",
+                          "border": "",
+                          "rowSpan": 1,
+                          "colSpan": 1
+                        },
+                        [
+                          "p",
+                          {
+                            "uuid": "mcu7j4c76it8awbixc8"
+                          },
+                          [
+                            "span",
+                            {
+                              "data-type": "text"
+                            },
+                            [
+                              "span",
+                              {
+                                "bold": true,
+                                "fonts": {
+                                  "ascii": "Microsoft YaHei",
+                                  "hAnsi": "Microsoft YaHei",
+                                  "cs": "Microsoft YaHei",
+                                  "eastAsia": "Microsoft YaHei"
+                                },
+                                "sz": 10,
+                                "szUnit": "pt",
+                                "color": "#3e3eff",
+                                "data-type": "leaf"
+                              },
+                              "多目标出价-加购："
+                            ],
+                            [
+                              "span",
+                              {
+                                "fonts": {
+                                  "ascii": "Microsoft YaHei",
+                                  "hAnsi": "Microsoft YaHei",
+                                  "cs": "Microsoft YaHei",
+                                  "eastAsia": "Microsoft YaHei"
+                                },
+                                "sz": 10,
+                                "szUnit": "pt",
+                                "data-type": "leaf"
+                              },
+                              "保障基础预算交付的同时，预热期加强对浅层加购积累，提升大促爆发；"
+                            ]
+                          ]
+                        ]
+                      ],
+                      [
+                        "tc",
+                        {
+                          "fill": "#FFFFFF",
+                          "vAlign": "top",
+                          "uuid": "mcu7j4c76271n8f6wjj",
+                          "border": "",
+                          "rowSpan": 1,
+                          "colSpan": 1
+                        },
+                        [
+                          "p",
+                          {
+                            "uuid": "mcu7j4c75ogayji8sh"
+                          },
+                          [
+                            "span",
+                            {
+                              "data-type": "text"
+                            },
+                            [
+                              "span",
+                              {
+                                "bold": true,
+                                "fonts": {
+                                  "ascii": "Microsoft YaHei",
+                                  "hAnsi": "Microsoft YaHei",
+                                  "cs": "Microsoft YaHei",
+                                  "eastAsia": "Microsoft YaHei"
+                                },
+                                "sz": 10,
+                                "szUnit": "pt",
+                                "color": "#3e3eff",
+                                "data-type": "leaf"
+                              },
+                              "多目标出价-直接成交："
+                            ],
+                            [
+                              "span",
+                              {
+                                "fonts": {
+                                  "ascii": "Microsoft YaHei",
+                                  "hAnsi": "Microsoft YaHei",
+                                  "cs": "Microsoft YaHei",
+                                  "eastAsia": "Microsoft YaHei"
+                                },
+                                "sz": 10,
+                                "szUnit": "pt",
+                                "data-type": "leaf"
+                              },
+                              "开启多目标直接成交，增加计划整体竞争力，爆发期探索直接成交增量，加速活动单品的快速打爆；"
+                            ]
+                          ]
+                        ]
+                      ]
+                    ]
+                  ],
+                  [
+                    "container",
+                    {
+                      "subType": "colorBlocks",
+                      "metadata": {
+                        "padding": {
+                          "top": 11,
+                          "right": 11,
+                          "bottom": 11,
+                          "left": 11
+                        },
+                        "borderRadius": 8,
+                        "bgcolor": "#FFFFFF",
+                        "showstk": false,
+                        "border": null
+                      },
+                      "uuid": "mcu7jkkm1ibxq4xnxnq"
+                    },
+                    [
+                      "p",
+                      {
+                        "uuid": "mcu7jkkm56fmt48pue4"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "text"
+                        },
+                        [
+                          "span",
+                          {
+                            "bold": true,
+                            "fonts": {
+                              "ascii": "Microsoft YaHei",
+                              "hAnsi": "Microsoft YaHei",
+                              "cs": "Microsoft YaHei",
+                              "eastAsia": "Microsoft YaHei"
+                            },
+                            "sz": 10,
+                            "szUnit": "pt",
+                            "color": "#3e3eff",
+                            "data-type": "leaf"
+                          },
+                          "全店模式："
+                        ],
+                        [
+                          "span",
+                          {
+                            "fonts": {
+                              "ascii": "Microsoft YaHei",
+                              "hAnsi": "Microsoft YaHei",
+                              "cs": "Microsoft YaHei",
+                              "eastAsia": "Microsoft YaHei"
+                            },
+                            "sz": 10,
+                            "szUnit": "pt",
+                            "color": "",
+                            "data-type": "leaf"
+                          },
+                          "建议采纳系统推荐的全店ROI及日预算，开启自动规则及时补充全店模式下的预算额度，选择有基础销量的爆品/次爆品/潜力品，助力全店GMV打爆；如当前全店计划跑量较差，冷启时间过长、对商品拿量有高诉求的情况下，建议开启"
+                        ],
+                        [
+                          "span",
+                          {
+                            "bold": true,
+                            "fonts": {
+                              "ascii": "Microsoft YaHei",
+                              "hAnsi": "Microsoft YaHei",
+                              "cs": "Microsoft YaHei",
+                              "eastAsia": "Microsoft YaHei"
+                            },
+                            "sz": 10,
+                            "szUnit": "pt",
+                            "color": "#3e3eff",
+                            "data-type": "leaf"
+                          },
+                          "全店模式-一键起量"
+                        ],
+                        [
+                          "span",
+                          {
+                            "bold": true,
+                            "fonts": {
+                              "ascii": "Microsoft YaHei",
+                              "hAnsi": "Microsoft YaHei",
+                              "cs": "Microsoft YaHei",
+                              "eastAsia": "Microsoft YaHei"
+                            },
+                            "sz": 10,
+                            "szUnit": "pt",
+                            "color": "",
+                            "data-type": "leaf"
+                          },
+                          "，"
+                        ],
+                        [
+                          "span",
+                          {
+                            "fonts": {
+                              "ascii": "Microsoft YaHei",
+                              "hAnsi": "Microsoft YaHei",
+                              "cs": "Microsoft YaHei",
+                              "eastAsia": "Microsoft YaHei"
+                            },
+                            "sz": 10,
+                            "szUnit": "pt",
+                            "color": "",
+                            "data-type": "leaf"
+                          },
+                          "快速提升全店计划下「高预期拿量商品」的拿量能力；"
+                        ]
+                      ]
+                    ]
+                  ],
+                  [
+                    "table",
+                    {
+                      "colsWidth": [
+                        173.66614833450754,
+                        405.33385166549243
+                      ],
+                      "sr": true,
+                      "uuid": "mcu7jyzj50zbl518y1r"
+                    },
+                    [
+                      "tr",
+                      {
+                        "uuid": "mcu7jyzjd40pvujbf15"
+                      },
+                      [
+                        "tc",
+                        {
+                          "fill": "#FFFFFF",
+                          "vAlign": "top",
+                          "uuid": "mcu7jyzj3ht6sqg7wge",
+                          "border": "",
+                          "rowSpan": 1,
+                          "colSpan": 1
+                        },
+                        [
+                          "p",
+                          {
+                            "uuid": "mcu7jyzjnngjmdo1wo",
+                            "jc": "center"
+                          },
+                          [
+                            "span",
+                            {
+                              "data-type": "text"
+                            },
+                            [
+                              "span",
+                              {
+                                "bold": true,
+                                "fonts": {
+                                  "ascii": "Microsoft YaHei",
+                                  "hAnsi": "Microsoft YaHei",
+                                  "cs": "Microsoft YaHei",
+                                  "eastAsia": "Microsoft YaHei"
+                                },
+                                "sz": 11,
+                                "szUnit": "pt",
+                                "data-type": "leaf"
+                              },
+                              "-"
+                            ]
+                          ]
+                        ]
+                      ],
+                      [
+                        "tc",
+                        {
+                          "fill": "#FFFFFF",
+                          "vAlign": "top",
+                          "uuid": "mcu7jyzjakey8ib6xsu",
+                          "border": "",
+                          "rowSpan": 1,
+                          "colSpan": 1
+                        },
+                        [
+                          "p",
+                          {
+                            "uuid": "mcu7jyzjk50sfnu5iz8"
+                          },
+                          [
+                            "span",
+                            {
+                              "data-type": "text"
+                            },
+                            [
+                              "span",
+                              {
+                                "bold": true,
+                                "fonts": {
+                                  "ascii": "Microsoft YaHei",
+                                  "hAnsi": "Microsoft YaHei",
+                                  "cs": "Microsoft YaHei",
+                                  "eastAsia": "Microsoft YaHei"
+                                },
+                                "sz": 10,
+                                "szUnit": "pt",
+                                "color": "#3e3eff",
+                                "data-type": "leaf"
+                              },
+                              "净成交出价："
+                            ],
+                            [
+                              "span",
+                              {
+                                "fonts": {
+                                  "ascii": "Microsoft YaHei",
+                                  "hAnsi": "Microsoft YaHei",
+                                  "cs": "Microsoft YaHei",
+                                  "eastAsia": "Microsoft YaHei"
+                                },
+                                "sz": 10,
+                                "szUnit": "pt",
+                                "color": "",
+                                "data-type": "leaf"
+                              },
+                              "出价方式建议选择"
+                            ],
+                            [
+                              "span",
+                              {
+                                "bold": true,
+                                "fonts": {
+                                  "ascii": "Microsoft YaHei",
+                                  "hAnsi": "Microsoft YaHei",
+                                  "cs": "Microsoft YaHei",
+                                  "eastAsia": "Microsoft YaHei"
+                                },
+                                "sz": 10,
+                                "szUnit": "pt",
+                                "color": "",
+                                "data-type": "leaf"
+                              },
+                              "增加净成交金额，"
+                            ],
+                            [
+                              "span",
+                              {
+                                "fonts": {
+                                  "ascii": "Microsoft YaHei",
+                                  "hAnsi": "Microsoft YaHei",
+                                  "cs": "Microsoft YaHei",
+                                  "eastAsia": "Microsoft YaHei"
+                                },
+                                "sz": 10,
+                                "szUnit": "pt",
+                                "data-type": "leaf"
+                              },
+                              "系统AI智能预判，最大化净成交金额，尽量降低退款订单影响；"
+                            ]
+                          ]
+                        ]
+                      ]
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "table",
+              {
+                "colsWidth": [
+                  95,
+                  617
+                ],
+                "sr": true,
+                "uuid": "mcu7kerwv262e1014c"
+              },
+              [
+                "tr",
+                {
+                  "uuid": "mcu7kerw7xdyxqfu77x"
+                },
+                [
+                  "tc",
+                  {
+                    "fill": "#FFFFFF",
+                    "vAlign": "top",
+                    "uuid": "mcu7kerwskg4oj5k29",
+                    "border": "#4142f1",
+                    "rowSpan": 1,
+                    "colSpan": 1
+                  },
+                  [
+                    "p",
+                    {
+                      "uuid": "mcu7o23uwvpp7n1s5n",
+                      "jc": "left"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "fonts": {
+                            "ascii": "Microsoft YaHei",
+                            "hAnsi": "Microsoft YaHei",
+                            "cs": "Microsoft YaHei",
+                            "eastAsia": "Microsoft YaHei"
+                          },
+                          "color": "linear-gradient(152deg, #C676FF 0%, #654CFF 41%, #405EFF 75%, #007FFF 99%)",
+                          "data-type": "leaf"
+                        },
+                        " "
+                      ]
+                    ]
+                  ],
+                  [
+                    "p",
+                    {
+                      "uuid": "mfm7te6iael3rbpu0a",
+                      "jc": "left"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "fonts": {
+                            "ascii": "Microsoft YaHei",
+                            "hAnsi": "Microsoft YaHei",
+                            "cs": "Microsoft YaHei",
+                            "eastAsia": "Microsoft YaHei"
+                          },
+                          "color": "linear-gradient(152deg, #C676FF 0%, #654CFF 41%, #405EFF 75%, #007FFF 99%)",
+                          "data-type": "leaf"
+                        },
+                        " "
+                      ],
+                      [
+                        "span",
+                        {
+                          "bold": true,
+                          "fonts": {
+                            "ascii": "Microsoft YaHei",
+                            "hAnsi": "Microsoft YaHei",
+                            "cs": "Microsoft YaHei",
+                            "eastAsia": "Microsoft YaHei"
+                          },
+                          "sz": 12,
+                          "szUnit": "pt",
+                          "color": "#3e3eff",
+                          "data-type": "leaf"
+                        },
+                        "预算建议"
+                      ]
+                    ]
+                  ]
+                ],
+                [
+                  "tc",
+                  {
+                    "vAlign": "top",
+                    "fill": "#FFFFFF",
+                    "uuid": "mfm7bxg5mccjxpagtv",
+                    "rowSpan": 1,
+                    "colSpan": 1
+                  },
+                  [
+                    "p",
+                    {
+                      "uuid": "mfm7bxg5e2ktp4y8n0h",
+                      "ind": {
+                        "left": 0
+                      },
+                      "list": {
+                        "listId": "u0rteovb4n",
+                        "level": 0,
+                        "isTaskList": false,
+                        "isOrdered": false,
+                        "listStyleType": "SCIR_ECIR_SREC",
+                        "symbolStyle": {
+                          "sz": 10
+                        },
+                        "listStyle": {
+                          "format": "bullet",
+                          "text": "●",
+                          "align": "left"
+                        }
+                      }
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "bold": true,
+                          "fonts": {
+                            "ascii": "Microsoft YaHei",
+                            "hAnsi": "Microsoft YaHei",
+                            "cs": "Microsoft YaHei",
+                            "eastAsia": "Microsoft YaHei"
+                          },
+                          "sz": 10,
+                          "szUnit": "pt",
+                          "color": "#3e3eff",
+                          "data-type": "leaf"
+                        },
+                        "基础预算："
+                      ],
+                      [
+                        "span",
+                        {
+                          "bold": false,
+                          "fonts": {
+                            "ascii": "Microsoft YaHei",
+                            "hAnsi": "Microsoft YaHei",
+                            "cs": "Microsoft YaHei",
+                            "eastAsia": "Microsoft YaHei"
+                          },
+                          "sz": 10,
+                          "szUnit": "pt",
+                          "data-type": "leaf"
+                        },
+                        "预算建议不低于平台推荐预算（"
+                      ],
+                      [
+                        "span",
+                        {
+                          "fonts": {
+                            "ascii": "Microsoft YaHei",
+                            "hAnsi": "Microsoft YaHei",
+                            "cs": "Microsoft YaHei",
+                            "eastAsia": "Microsoft YaHei"
+                          },
+                          "sz": 10,
+                          "szUnit": "pt",
+                          "data-type": "leaf"
+                        },
+                        "每天建议不要调整超过两次，同时每次调整的幅度不宜过大"
+                      ],
+                      [
+                        "span",
+                        {
+                          "bold": false,
+                          "fonts": {
+                            "ascii": "Microsoft YaHei",
+                            "hAnsi": "Microsoft YaHei",
+                            "cs": "Microsoft YaHei",
+                            "eastAsia": "Microsoft YaHei"
+                          },
+                          "sz": 10,
+                          "szUnit": "pt",
+                          "data-type": "leaf"
+                        },
+                        "）"
+                      ]
+                    ]
+                  ],
+                  [
+                    "p",
+                    {
+                      "uuid": "mfm7cnnz37loh7yybwa",
+                      "ind": {
+                        "left": 0
+                      },
+                      "list": {
+                        "listId": "u0rteovb4n",
+                        "level": 0,
+                        "isTaskList": false,
+                        "isOrdered": false,
+                        "listStyleType": "SCIR_ECIR_SREC",
+                        "symbolStyle": {
+                          "sz": 10
+                        },
+                        "listStyle": {
+                          "format": "bullet",
+                          "text": "●",
+                          "align": "left"
+                        }
+                      }
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "bold": true,
+                          "fonts": {
+                            "ascii": "Microsoft YaHei",
+                            "hAnsi": "Microsoft YaHei",
+                            "cs": "Microsoft YaHei",
+                            "eastAsia": "Microsoft YaHei"
+                          },
+                          "sz": 10,
+                          "szUnit": "pt",
+                          "color": "#3e3eff",
+                          "data-type": "leaf"
+                        },
+                        "单独设置起量/多目标预算："
+                      ],
+                      [
+                        "span",
+                        {
+                          "bold": false,
+                          "fonts": {
+                            "ascii": "Microsoft YaHei",
+                            "hAnsi": "Microsoft YaHei",
+                            "cs": "Microsoft YaHei",
+                            "eastAsia": "Microsoft YaHei"
+                          },
+                          "sz": 10,
+                          "szUnit": "pt",
+                          "data-type": "leaf"
+                        },
+                        "如开启一键起量/多目标出价能力，建议采纳平台推荐预算，投放效果更优，预算建议不低于基础预算值的"
+                      ],
+                      [
+                        "span",
+                        {
+                          "bold": true,
+                          "fonts": {
+                            "ascii": "Microsoft YaHei",
+                            "hAnsi": "Microsoft YaHei",
+                            "cs": "Microsoft YaHei",
+                            "eastAsia": "Microsoft YaHei"
+                          },
+                          "sz": 10,
+                          "szUnit": "pt",
+                          "data-type": "leaf"
+                        },
+                        "20%；"
+                      ]
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "table",
+              {
+                "colsWidth": [
+                  99,
+                  613
+                ],
+                "sr": true,
+                "uuid": "mcu7kxnu8poliieroh8"
+              },
+              [
+                "tr",
+                {
+                  "uuid": "mcu7kxnuyvja5cphed"
+                },
+                [
+                  "tc",
+                  {
+                    "fill": "#FFFFFF",
+                    "vAlign": "top",
+                    "uuid": "mcu7kxnu2ra21ns1hlm",
+                    "border": "#4142f1",
+                    "rowSpan": 1,
+                    "colSpan": 1
+                  },
+                  [
+                    "p",
+                    {
+                      "uuid": "mcu7kxnu2hm6hi3a6o4",
+                      "jc": "center"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "bold": true,
+                          "fonts": {
+                            "ascii": "Microsoft YaHei",
+                            "hAnsi": "Microsoft YaHei",
+                            "cs": "Microsoft YaHei",
+                            "eastAsia": "Microsoft YaHei"
+                          },
+                          "sz": 12,
+                          "szUnit": "pt",
+                          "color": "linear-gradient(152deg, #C676FF 0%, #654CFF 41%, #405EFF 75%, #007FFF 99%)",
+                          "data-type": "leaf"
+                        },
+                        " "
+                      ]
+                    ]
+                  ],
+                  [
+                    "p",
+                    {
+                      "uuid": "mcucgwnzvx1tomup2dg",
+                      "jc": "left"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "fonts": {
+                            "ascii": "Microsoft YaHei",
+                            "hAnsi": "Microsoft YaHei",
+                            "cs": "Microsoft YaHei",
+                            "eastAsia": "Microsoft YaHei"
+                          },
+                          "data-type": "leaf"
+                        },
+                        "  "
+                      ]
+                    ]
+                  ],
+                  [
+                    "p",
+                    {
+                      "uuid": "mcucgz1p9x3mz50obfs",
+                      "jc": "left"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "fonts": {
+                            "ascii": "Microsoft YaHei",
+                            "hAnsi": "Microsoft YaHei",
+                            "cs": "Microsoft YaHei",
+                            "eastAsia": "Microsoft YaHei"
+                          },
+                          "data-type": "leaf"
+                        },
+                        "  "
+                      ]
+                    ]
+                  ],
+                  [
+                    "p",
+                    {
+                      "uuid": "mcucou4eypcjm66j57",
+                      "jc": "left"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "bold": true,
+                          "fonts": {
+                            "ascii": "Microsoft YaHei",
+                            "hAnsi": "Microsoft YaHei",
+                            "cs": "Microsoft YaHei",
+                            "eastAsia": "Microsoft YaHei"
+                          },
+                          "sz": 12,
+                          "szUnit": "pt",
+                          "color": "linear-gradient(152deg, #C676FF 0%, #654CFF 41%, #405EFF 75%, #007FFF 99%)",
+                          "data-type": "leaf"
+                        },
+                        ""
+                      ]
+                    ]
+                  ],
+                  [
+                    "p",
+                    {
+                      "uuid": "mcucouxm3kz6h4ubshq",
+                      "jc": "center"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "bold": true,
+                          "fonts": {
+                            "ascii": "Microsoft YaHei",
+                            "hAnsi": "Microsoft YaHei",
+                            "cs": "Microsoft YaHei",
+                            "eastAsia": "Microsoft YaHei"
+                          },
+                          "sz": 12,
+                          "szUnit": "pt",
+                          "color": "#3e3eff",
+                          "data-type": "leaf"
+                        },
+                        "数据监控建议"
+                      ]
+                    ]
+                  ]
+                ],
+                [
+                  "tc",
+                  {
+                    "fill": "#F5F6F7",
+                    "vAlign": "top",
+                    "uuid": "mcu7kxnu8ldwcmxy5pb",
+                    "rowSpan": 1,
+                    "colSpan": 1
+                  },
+                  [
+                    "container",
+                    {
+                      "subType": "colorBlocks",
+                      "metadata": {
+                        "padding": {
+                          "top": 11,
+                          "right": 11,
+                          "bottom": 11,
+                          "left": 11
+                        },
+                        "borderRadius": 8,
+                        "bgcolor": "#FFFFFF",
+                        "showstk": false,
+                        "border": null
+                      },
+                      "uuid": "mcuaipdweecwdmircba"
+                    },
+                    [
+                      "p",
+                      {
+                        "uuid": "mcucjdsr8a2nsi6agiw"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "text"
+                        },
+                        [
+                          "span",
+                          {
+                            "bold": true,
+                            "fonts": {
+                              "ascii": "Microsoft YaHei",
+                              "hAnsi": "Microsoft YaHei",
+                              "cs": "Microsoft YaHei",
+                              "eastAsia": "Microsoft YaHei"
+                            },
+                            "sz": 10,
+                            "szUnit": "pt",
+                            "color": "#3e3eff",
+                            "data-type": "leaf"
+                          },
+                          "基础计划"
+                        ]
+                      ]
+                    ],
+                    [
+                      "p",
+                      {
+                        "uuid": "mcucjf2a98fkeok7h6f"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "text"
+                        },
+                        [
+                          "span",
+                          {
+                            "fonts": {
+                              "ascii": "Microsoft YaHei",
+                              "hAnsi": "Microsoft YaHei",
+                              "cs": "Microsoft YaHei",
+                              "eastAsia": "Microsoft YaHei"
+                            },
+                            "sz": 10,
+                            "szUnit": "pt",
+                            "data-type": "leaf"
+                          },
+                          "可在投放列表页跳转"
+                        ],
+                        [
+                          "span",
+                          {
+                            "bold": true,
+                            "fonts": {
+                              "ascii": "Microsoft YaHei",
+                              "hAnsi": "Microsoft YaHei",
+                              "cs": "Microsoft YaHei",
+                              "eastAsia": "Microsoft YaHei"
+                            },
+                            "sz": 10,
+                            "szUnit": "pt",
+                            "color": "",
+                            "data-type": "leaf"
+                          },
+                          "「报表」"
+                        ],
+                        [
+                          "span",
+                          {
+                            "fonts": {
+                              "ascii": "Microsoft YaHei",
+                              "hAnsi": "Microsoft YaHei",
+                              "cs": "Microsoft YaHei",
+                              "eastAsia": "Microsoft YaHei"
+                            },
+                            "sz": 10,
+                            "szUnit": "pt",
+                            "data-type": "leaf"
+                          },
+                          "看多日投放数据，根据数据评估计划整体投放效果"
+                        ]
+                      ]
+                    ],
+                    [
+                      "p",
+                      {
+                        "uuid": "mcucaybemg88rl5pz2h"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "text"
+                        },
+                        [
+                          "span",
+                          {
+                            "fonts": {
+                              "ascii": "Microsoft YaHei",
+                              "hAnsi": "Microsoft YaHei",
+                              "cs": "Microsoft YaHei",
+                              "eastAsia": "Microsoft YaHei"
+                            },
+                            "sz": 10,
+                            "szUnit": "pt",
+                            "data-type": "leaf"
+                          },
+                          "评估前提：尽量用"
+                        ],
+                        [
+                          "span",
+                          {
+                            "bold": true,
+                            "fonts": {
+                              "ascii": "Microsoft YaHei",
+                              "hAnsi": "Microsoft YaHei",
+                              "cs": "Microsoft YaHei",
+                              "eastAsia": "Microsoft YaHei"
+                            },
+                            "sz": 10,
+                            "szUnit": "pt",
+                            "data-type": "leaf"
+                          },
+                          "稳定投放期的数据"
+                        ],
+                        [
+                          "span",
+                          {
+                            "fonts": {
+                              "ascii": "Microsoft YaHei",
+                              "hAnsi": "Microsoft YaHei",
+                              "cs": "Microsoft YaHei",
+                              "eastAsia": "Microsoft YaHei"
+                            },
+                            "sz": 10,
+                            "szUnit": "pt",
+                            "data-type": "leaf"
+                          },
+                          "对比投放前的数据，同时建议多天均值对比，如投前7天对比投后7天"
+                        ],
+                        [
+                          "span",
+                          {
+                            "fonts": {
+                              "ascii": "Microsoft YaHei",
+                              "hAnsi": "Microsoft YaHei",
+                              "cs": "Microsoft YaHei",
+                              "eastAsia": "Microsoft YaHei"
+                            },
+                            "data-type": "leaf"
+                          },
+                          "，"
+                        ],
+                        [
+                          "span",
+                          {
+                            "fonts": {
+                              "ascii": "Microsoft YaHei",
+                              "hAnsi": "Microsoft YaHei",
+                              "cs": "Microsoft YaHei",
+                              "eastAsia": "Microsoft YaHei"
+                            },
+                            "sz": 10,
+                            "szUnit": "pt",
+                            "data-type": "leaf"
+                          },
+                          "再结合生意参谋或者全站增长数据，分析投放商品投前投后变化情况，判断投放效果"
+                        ]
+                      ]
+                    ]
+                  ],
+                  [
+                    "container",
+                    {
+                      "subType": "colorBlocks",
+                      "metadata": {
+                        "padding": {
+                          "top": 11,
+                          "right": 11,
+                          "bottom": 11,
+                          "left": 11
+                        },
+                        "borderRadius": 8,
+                        "bgcolor": "#FFFFFF",
+                        "showstk": false,
+                        "border": null
+                      },
+                      "uuid": "mcucijx31j4d348bv7r"
+                    },
+                    [
+                      "p",
+                      {
+                        "uuid": "mcucj2em34hcr6ohfco"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "text"
+                        },
+                        [
+                          "span",
+                          {
+                            "bold": true,
+                            "fonts": {
+                              "ascii": "Microsoft YaHei",
+                              "hAnsi": "Microsoft YaHei",
+                              "cs": "Microsoft YaHei",
+                              "eastAsia": "Microsoft YaHei"
+                            },
+                            "sz": 10,
+                            "szUnit": "pt",
+                            "color": "#3e3eff",
+                            "data-type": "leaf"
+                          },
+                          "开启"
+                        ],
+                        [
+                          "span",
+                          {
+                            "bold": true,
+                            "fonts": {
+                              "ascii": "Microsoft YaHei",
+                              "hAnsi": "Microsoft YaHei",
+                              "cs": "Microsoft YaHei",
+                              "eastAsia": "Microsoft YaHei"
+                            },
+                            "sz": 9,
+                            "szUnit": "pt",
+                            "color": "#3e3eff",
+                            "data-type": "leaf"
+                          },
+                          "「"
+                        ],
+                        [
+                          "span",
+                          {
+                            "bold": true,
+                            "fonts": {
+                              "ascii": "Microsoft YaHei",
+                              "hAnsi": "Microsoft YaHei",
+                              "cs": "Microsoft YaHei",
+                              "eastAsia": "Microsoft YaHei"
+                            },
+                            "sz": 10,
+                            "szUnit": "pt",
+                            "color": "#3e3eff",
+                            "data-type": "leaf"
+                          },
+                          "一键起量/多目标出价"
+                        ],
+                        [
+                          "span",
+                          {
+                            "bold": true,
+                            "fonts": {
+                              "ascii": "Microsoft YaHei",
+                              "hAnsi": "Microsoft YaHei",
+                              "cs": "Microsoft YaHei",
+                              "eastAsia": "Microsoft YaHei"
+                            },
+                            "sz": 9,
+                            "szUnit": "pt",
+                            "color": "#3e3eff",
+                            "data-type": "leaf"
+                          },
+                          "」"
+                        ],
+                        [
+                          "span",
+                          {
+                            "bold": true,
+                            "fonts": {
+                              "ascii": "Microsoft YaHei",
+                              "hAnsi": "Microsoft YaHei",
+                              "cs": "Microsoft YaHei",
+                              "eastAsia": "Microsoft YaHei"
+                            },
+                            "sz": 10,
+                            "szUnit": "pt",
+                            "color": "#3e3eff",
+                            "data-type": "leaf"
+                          },
+                          "计划"
+                        ]
+                      ]
+                    ],
+                    [
+                      "p",
+                      {
+                        "uuid": "mcucl930dorc3uc7w29"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "text"
+                        },
+                        [
+                          "span",
+                          {
+                            "bold": false,
+                            "fonts": {
+                              "ascii": "Microsoft YaHei",
+                              "hAnsi": "Microsoft YaHei",
+                              "cs": "Microsoft YaHei",
+                              "eastAsia": "Microsoft YaHei"
+                            },
+                            "sz": 10,
+                            "szUnit": "pt",
+                            "data-type": "leaf"
+                          },
+                          "点击「计划」下的"
+                        ],
+                        [
+                          "span",
+                          {
+                            "bold": true,
+                            "fonts": {
+                              "ascii": "Microsoft YaHei",
+                              "hAnsi": "Microsoft YaHei",
+                              "cs": "Microsoft YaHei",
+                              "eastAsia": "Microsoft YaHei"
+                            },
+                            "sz": 10,
+                            "szUnit": "pt",
+                            "color": "",
+                            "data-type": "leaf"
+                          },
+                          "「投放调优」"
+                        ],
+                        [
+                          "span",
+                          {
+                            "bold": false,
+                            "fonts": {
+                              "ascii": "Microsoft YaHei",
+                              "hAnsi": "Microsoft YaHei",
+                              "cs": "Microsoft YaHei",
+                              "eastAsia": "Microsoft YaHei"
+                            },
+                            "sz": 10,
+                            "szUnit": "pt",
+                            "data-type": "leaf"
+                          },
+                          "页面->在投放调优右侧的投放调优数据进行查看一键起量/多目标效果增量效果（一键起量/加购/直接成交）"
+                        ]
+                      ]
+                    ]
+                  ]
+                ]
+              ]
+            ]
+          ],
+          [
+            "container",
+            {
+              "subType": "colorBlocks",
+              "metadata": {
+                "padding": {
+                  "top": 11,
+                  "right": 11,
+                  "bottom": 11,
+                  "left": 11
+                },
+                "borderRadius": 8,
+                "bgcolor": "#F5F6F7",
+                "showstk": false,
+                "border": null
+              },
+              "uuid": "mfm8dzdp103uj3228ni"
+            },
+            [
+              "container",
+              {
+                "subType": "colorBlocks",
+                "metadata": {
+                  "padding": {
+                    "top": 11,
+                    "right": 11,
+                    "bottom": 11,
+                    "left": 11
+                  },
+                  "borderRadius": 8,
+                  "bgcolor": "#4142f1",
+                  "showstk": false,
+                  "border": null
+                },
+                "uuid": "mfm8b0wxy6g597c8q2"
+              },
+              [
+                "h1",
+                {
+                  "jc": "center",
+                  "uuid": "mfm8e5cv9072ly1ko7",
+                  "spacing": {
+                    "before": 26.666666666666664,
+                    "after": 9,
+                    "line": 0.8529411764705882
+                  }
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "text"
+                  },
+                  [
+                    "span",
+                    {
+                      "bold": true,
+                      "fonts": {
+                        "ascii": "Microsoft YaHei",
+                        "hAnsi": "Microsoft YaHei",
+                        "cs": "Microsoft YaHei",
+                        "eastAsia": "Microsoft YaHei"
+                      },
+                      "sz": 20,
+                      "szUnit": "pt",
+                      "color": "#FFFFFF",
+                      "data-type": "leaf"
+                    },
+                    "「货品全站推广」新客护航计划"
+                  ]
+                ]
+              ]
+            ],
+            [
+              "p",
+              {
+                "uuid": "mfm8k67wn3r978oxbpm"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ],
+              [
+                "img",
+                {
+                  "height": 196,
+                  "name": "",
+                  "src": "https://alidocs.oss-cn-zhangjiakou.aliyuncs.com/lark/https://yuque.antfin.com/chenchun.chen/gqhty9/bturyqmi2rgcp87y/imgtBKkQDYCOC.png",
+                  "width": 1297,
+                  "uuid": "mgt8hootondfsehp0fs"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "text"
+                  },
+                  [
+                    "span",
+                    {
+                      "sz": 12,
+                      "szUnit": "pt",
+                      "data-type": "leaf"
+                    },
+                    ""
+                  ]
+                ]
+              ],
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ]
+            ],
+            [
+              "h3",
+              {
+                "uuid": "mfm8kd782j5nlzmy1au",
+                "ind": {
+                  "left": 0
+                },
+                "list": {
+                  "listId": "2yvgop7on99",
+                  "level": 0,
+                  "isTaskList": false,
+                  "isOrdered": false,
+                  "listStyleType": "SCIR_ECIR_SREC",
+                  "symbolStyle": {
+                    "sz": 11,
+                    "bold": true
+                  },
+                  "listStyle": {
+                    "format": "bullet",
+                    "text": "●",
+                    "align": "left"
+                  }
+                }
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "sz": 11,
+                    "szUnit": "pt",
+                    "data-type": "leaf"
+                  },
+                  "新客有什么投放权益？"
+                ],
+                [
+                  "span",
+                  {
+                    "sz": 11,
+                    "szUnit": "pt",
+                    "color": "#3e3eff",
+                    "data-type": "leaf"
+                  },
+                  "优质好货享双重流量扶持！"
+                ]
+              ]
+            ],
+            [
+              "container",
+              {
+                "subType": "colorBlocks",
+                "metadata": {
+                  "padding": {
+                    "top": 11,
+                    "right": 11,
+                    "bottom": 11,
+                    "left": 11
+                  },
+                  "borderRadius": 8,
+                  "bgcolor": "#FFFFFF",
+                  "showstk": false,
+                  "border": null
+                },
+                "uuid": "mfm8kic3io3q14mohi"
+              },
+              [
+                "h4",
+                {
+                  "uuid": "mfm8knyhf3hkn175ngt",
+                  "ind": {
+                    "left": 0
+                  },
+                  "spacing": {
+                    "before": 16,
+                    "after": 8,
+                    "line": 0.8529411764705882
+                  }
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "text"
+                  },
+                  [
+                    "span",
+                    {
+                      "bold": true,
+                      "sz": 11,
+                      "szUnit": "pt",
+                      "color": "#3e3eff",
+                      "data-type": "leaf"
+                    },
+                    "新客期专属流量扶持"
+                  ]
+                ]
+              ],
+              [
+                "p",
+                {
+                  "uuid": "mfm8ggjiqbv93p6ewxk"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "text"
+                  },
+                  [
+                    "span",
+                    {
+                      "sz": 10,
+                      "szUnit": "pt",
+                      "data-type": "leaf"
+                    },
+                    "在15天新客期内，商家"
+                  ],
+                  [
+                    "span",
+                    {
+                      "bold": true,
+                      "sz": 10,
+                      "szUnit": "pt",
+                      "data-type": "leaf"
+                    },
+                    "创建优质好货"
+                  ],
+                  [
+                    "span",
+                    {
+                      "bold": true,
+                      "sz": 10,
+                      "szUnit": "pt",
+                      "color": "rgb(34, 73, 254),rgb(199, 74, 168)",
+                      "data-type": "leaf"
+                    },
+                    "计划均可享至少20%流量扶持"
+                  ],
+                  [
+                    "span",
+                    {
+                      "sz": 10,
+                      "szUnit": "pt",
+                      "data-type": "leaf"
+                    },
+                    "，新客期内"
+                  ],
+                  [
+                    "span",
+                    {
+                      "bold": true,
+                      "sz": 10,
+                      "szUnit": "pt",
+                      "data-type": "leaf"
+                    },
+                    "计划创建越多，享受扶持越多，投放越划算"
+                  ],
+                  [
+                    "span",
+                    {
+                      "sz": 10,
+                      "szUnit": "pt",
+                      "data-type": "leaf"
+                    },
+                    "！ps：根据数据显示，新客期流量扶持后的计划ROI达成效果更优；"
+                  ]
+                ]
+              ],
+              [
+                "h4",
+                {
+                  "uuid": "mfm8gj9b2uv4shqfqpe",
+                  "spacing": {
+                    "before": 16,
+                    "after": 8,
+                    "line": 0.8529411764705882
+                  },
+                  "ind": {
+                    "left": 0
+                  }
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "text"
+                  },
+                  [
+                    "span",
+                    {
+                      "bold": true,
+                      "sz": 11,
+                      "szUnit": "pt",
+                      "color": "#3e3eff",
+                      "data-type": "leaf"
+                    },
+                    "平台推荐自然流量助推"
+                  ]
+                ]
+              ],
+              [
+                "p",
+                {
+                  "uuid": "mfm8gcu9wvmt3hwnr9m"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "text"
+                  },
+                  [
+                    "span",
+                    {
+                      "sz": 10,
+                      "szUnit": "pt",
+                      "data-type": "leaf"
+                    },
+                    "在货品全站推广场景下选择投放"
+                  ],
+                  [
+                    "span",
+                    {
+                      "bold": true,
+                      "sz": 10,
+                      "szUnit": "pt",
+                      "data-type": "leaf"
+                    },
+                    "「平台推荐」商品"
+                  ],
+                  [
+                    "span",
+                    {
+                      "sz": 10,
+                      "szUnit": "pt",
+                      "data-type": "leaf"
+                    },
+                    "，并采纳系统推荐出价，至高可享受"
+                  ],
+                  [
+                    "span",
+                    {
+                      "bold": true,
+                      "sz": 10,
+                      "szUnit": "pt",
+                      "data-type": "leaf"
+                    },
+                    "30%额外自然流量助推"
+                  ],
+                  [
+                    "span",
+                    {
+                      "sz": 10,
+                      "szUnit": "pt",
+                      "data-type": "leaf"
+                    },
+                    "！"
+                  ]
+                ]
+              ]
+            ],
+            [
+              "h3",
+              {
+                "ind": {
+                  "left": 0
+                },
+                "uuid": "mfm8kuy3ytr4pjri1ch"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "bold": true,
+                    "sz": 11,
+                    "szUnit": "pt",
+                    "data-type": "leaf"
+                  },
+                  "达成效果不佳怎么办？"
+                ],
+                [
+                  "span",
+                  {
+                    "bold": true,
+                    "sz": 11,
+                    "szUnit": "pt",
+                    "color": "#3e3eff",
+                    "data-type": "leaf"
+                  },
+                  "首单3天无成交享赔付保障！"
+                ]
+              ]
+            ],
+            [
+              "container",
+              {
+                "subType": "colorBlocks",
+                "metadata": {
+                  "padding": {
+                    "top": 11,
+                    "right": 11,
+                    "bottom": 11,
+                    "left": 11
+                  },
+                  "borderRadius": 8,
+                  "bgcolor": "#FFFFFF",
+                  "showstk": false,
+                  "border": null
+                },
+                "uuid": "mfm8kkwqexc9tc066js"
+              },
+              [
+                "p",
+                {
+                  "uuid": "mfm8kkwqd96ba7f4dot"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "text"
+                  },
+                  [
+                    "span",
+                    {
+                      "bold": false,
+                      "sz": 10,
+                      "szUnit": "pt",
+                      "data-type": "leaf"
+                    },
+                    "享受流量扶持还是不放心计划投产比的达成效果？别担心，货品全站推广创建计划首单将提供无成交赔付保障，首单前3天消耗满200元无成交，同时满足下述保障规则的，平台将返还商家"
+                  ],
+                  [
+                    "span",
+                    {
+                      "bold": true,
+                      "sz": 10,
+                      "szUnit": "pt",
+                      "data-type": "leaf"
+                    },
+                    "100元新客保障优惠券"
+                  ],
+                  [
+                    "span",
+                    {
+                      "bold": false,
+                      "sz": 10,
+                      "szUnit": "pt",
+                      "data-type": "leaf"
+                    },
+                    "，让您在货品全站推广的首次投放更安心！"
+                  ]
+                ]
+              ]
+            ]
+          ],
+          [
+            "container",
+            {
+              "subType": "colorBlocks",
+              "metadata": {
+                "padding": {
+                  "top": 11,
+                  "right": 11,
+                  "bottom": 11,
+                  "left": 11
+                },
+                "borderRadius": 8,
+                "bgcolor": "#F5F6F7",
+                "showstk": false,
+                "border": null
+              },
+              "uuid": "mcvhbz52uui54127bea"
+            },
+            [
+              "container",
+              {
+                "subType": "colorBlocks",
+                "metadata": {
+                  "padding": {
+                    "top": 11,
+                    "right": 11,
+                    "bottom": 11,
+                    "left": 11
+                  },
+                  "borderRadius": 8,
+                  "bgcolor": "#4243ef",
+                  "showstk": false,
+                  "border": null
+                },
+                "uuid": "mcvk2i7af1csdyk7dis"
+              },
+              [
+                "h1",
+                {
+                  "jc": "center",
+                  "uuid": "mcvk2i7agvsmd1u3oup",
+                  "spacing": {
+                    "before": 26.666666666666664,
+                    "after": 9,
+                    "line": 0.8529411764705882
+                  }
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "text"
+                  },
+                  [
+                    "span",
+                    {
+                      "bold": true,
+                      "fonts": {
+                        "ascii": "Microsoft YaHei",
+                        "hAnsi": "Microsoft YaHei",
+                        "cs": "Microsoft YaHei",
+                        "eastAsia": "Microsoft YaHei"
+                      },
+                      "sz": 20,
+                      "szUnit": "pt",
+                      "color": "#FFFFFF",
+                      "data-type": "leaf"
+                    },
+                    "「货品全站推广」福利活动"
+                  ]
+                ]
+              ]
+            ],
+            [
+              "container",
+              {
+                "subType": "colorBlocks",
+                "metadata": {
+                  "padding": {
+                    "top": 11,
+                    "right": 11,
+                    "bottom": 11,
+                    "left": 11
+                  },
+                  "borderRadius": 8,
+                  "bgcolor": "#FFFFFF",
+                  "showstk": false,
+                  "border": null
+                },
+                "uuid": "mf4qaf7wjgh4b1g4unh"
+              },
+              [
+                "p",
+                {
+                  "uuid": "mhymcibqv465jmuus7l",
+                  "jc": "center"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "text"
+                  },
+                  [
+                    "span",
+                    {
+                      "sz": 12,
+                      "szUnit": "pt",
+                      "color": "#3e3eff",
+                      "data-type": "leaf"
+                    },
+                    "待上线，敬请期待"
+                  ]
+                ]
+              ]
+            ]
+          ],
+          [
+            "container",
+            {
+              "subType": "colorBlocks",
+              "metadata": {
+                "padding": {
+                  "top": 11,
+                  "right": 11,
+                  "bottom": 11,
+                  "left": 11
+                },
+                "borderRadius": 8,
+                "bgcolor": "#F5F6F7",
+                "showstk": false,
+                "border": null
+              },
+              "uuid": "mfm7lfe7ssczmjti57"
+            },
+            [
+              "table",
+              {
+                "colsWidth": [
+                  151.22830200195312,
+                  155.22830200195312,
+                  195.03375038404144,
+                  187.42285361986484
+                ],
+                "sr": true,
+                "uuid": "mcvdh4lx9zhl70i3cc5"
+              },
+              [
+                "tr",
+                {
+                  "uuid": "mfm7liiibwvldlmetm"
+                },
+                [
+                  "tc",
+                  {
+                    "fill": "#FFFFFF",
+                    "vAlign": "top",
+                    "uuid": "mfm7liiiy0dv0a9cc1s",
+                    "rowSpan": 1,
+                    "colSpan": 1
+                  },
+                  [
+                    "p",
+                    {
+                      "uuid": "mfm7liiihubrv6t7zml",
+                      "jc": "center"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "bold": true,
+                          "fonts": {
+                            "ascii": "Microsoft YaHei",
+                            "hAnsi": "Microsoft YaHei",
+                            "cs": "Microsoft YaHei",
+                            "eastAsia": "Microsoft YaHei"
+                          },
+                          "sz": 10,
+                          "szUnit": "pt",
+                          "data-type": "leaf"
+                        },
+                        "百大QA分享"
+                      ],
+                      [
+                        "span",
+                        {
+                          "bold": true,
+                          "fonts": {
+                            "ascii": "Microsoft YaHei",
+                            "hAnsi": "Microsoft YaHei",
+                            "cs": "Microsoft YaHei",
+                            "eastAsia": "Microsoft YaHei"
+                          },
+                          "sz": 10,
+                          "szUnit": "pt",
+                          "color": "#3e3eff",
+                          "data-type": "leaf"
+                        },
+                        "看这里"
+                      ],
+                      [
+                        "span",
+                        {
+                          "bold": true,
+                          "fonts": {
+                            "ascii": "Microsoft YaHei",
+                            "hAnsi": "Microsoft YaHei",
+                            "cs": "Microsoft YaHei",
+                            "eastAsia": "Microsoft YaHei"
+                          },
+                          "sz": 11,
+                          "szUnit": "pt",
+                          "color": "#3e3eff",
+                          "data-type": "leaf"
+                        },
+                        "↓"
+                      ]
+                    ]
+                  ],
+                  [
+                    "p",
+                    {
+                      "uuid": "mfm7nxycx649iuwcmji",
+                      "jc": "center"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "fonts": {
+                            "ascii": "Microsoft YaHei",
+                            "hAnsi": "Microsoft YaHei",
+                            "cs": "Microsoft YaHei",
+                            "eastAsia": "Microsoft YaHei"
+                          },
+                          "data-type": "leaf"
+                        },
+                        ""
+                      ]
+                    ],
+                    [
+                      "img",
+                      {
+                        "uuid": "mgt8hoototbdlrbqp4",
+                        "name": "f4772a14ae2656dfcb0e8a012010afa7.png",
+                        "size": 4253,
+                        "width": 161,
+                        "height": 161,
+                        "src": "/core/api/resources/img/5eecdaf48460cde50f0dd6997010a2f45b20d27caf10501375b8339e1c4c24831b75b38faadcd24bec177c308ebd5304dcf5da1e6219673a34696072d0cd3384b5b5b5efd3a4e5bcbf2e6d20feba58c205aabc6f421774bf4fb4c8ed7016461c",
+                        "extraData": {
+                          "resourceId": "9f89cd01-be9c-4dd5-ac66-5a36f7fd3c40",
+                          "metaData": {
+                            "size": 4253,
+                            "originWidth": 280,
+                            "originHeight": 280,
+                            "format": "png",
+                            "ratio": 1
+                          }
+                        },
+                        "rotation": 0
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "text"
+                        },
+                        [
+                          "span",
+                          {
+                            "fonts": {
+                              "ascii": "Microsoft YaHei",
+                              "hAnsi": "Microsoft YaHei",
+                              "cs": "Microsoft YaHei",
+                              "eastAsia": "Microsoft YaHei"
+                            },
+                            "data-type": "leaf"
+                          },
+                          ""
+                        ]
+                      ]
+                    ],
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "fonts": {
+                            "ascii": "Microsoft YaHei",
+                            "hAnsi": "Microsoft YaHei",
+                            "cs": "Microsoft YaHei",
+                            "eastAsia": "Microsoft YaHei"
+                          },
+                          "data-type": "leaf"
+                        },
+                        ""
+                      ]
+                    ]
+                  ]
+                ],
+                [
+                  "tc",
+                  {
+                    "vAlign": "top",
+                    "fill": "#FFFFFF",
+                    "uuid": "mfm7liiivq8zum3xehc",
+                    "rowSpan": 1,
+                    "colSpan": 1
+                  },
+                  [
+                    "p",
+                    {
+                      "uuid": "mfm7liiivpgfksmr9dh",
+                      "jc": "center"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "bold": true,
+                          "fonts": {
+                            "ascii": "Microsoft YaHei",
+                            "hAnsi": "Microsoft YaHei",
+                            "cs": "Microsoft YaHei",
+                            "eastAsia": "Microsoft YaHei"
+                          },
+                          "sz": 10,
+                          "szUnit": "pt",
+                          "data-type": "leaf"
+                        },
+                        "百大案例分享"
+                      ],
+                      [
+                        "span",
+                        {
+                          "bold": true,
+                          "fonts": {
+                            "ascii": "Microsoft YaHei",
+                            "hAnsi": "Microsoft YaHei",
+                            "cs": "Microsoft YaHei",
+                            "eastAsia": "Microsoft YaHei"
+                          },
+                          "sz": 10,
+                          "szUnit": "pt",
+                          "color": "#3e3eff",
+                          "data-type": "leaf"
+                        },
+                        "看这里"
+                      ],
+                      [
+                        "span",
+                        {
+                          "bold": true,
+                          "fonts": {
+                            "ascii": "Microsoft YaHei",
+                            "hAnsi": "Microsoft YaHei",
+                            "cs": "Microsoft YaHei",
+                            "eastAsia": "Microsoft YaHei"
+                          },
+                          "sz": 11,
+                          "szUnit": "pt",
+                          "color": "#3e3eff",
+                          "data-type": "leaf"
+                        },
+                        "↓"
+                      ]
+                    ]
+                  ],
+                  [
+                    "p",
+                    {
+                      "uuid": "mfm7nsz9p149r78qmtf",
+                      "jc": "center"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "fonts": {
+                            "ascii": "Microsoft YaHei",
+                            "hAnsi": "Microsoft YaHei",
+                            "cs": "Microsoft YaHei",
+                            "eastAsia": "Microsoft YaHei"
+                          },
+                          "data-type": "leaf"
+                        },
+                        ""
+                      ]
+                    ],
+                    [
+                      "img",
+                      {
+                        "uuid": "mgt8hootu2dnwiwjmpl",
+                        "name": "8ecaf14189bc1dbe6f016357b3d6ee0b.png",
+                        "size": 4542,
+                        "width": 161,
+                        "height": 161,
+                        "src": "/core/api/resources/img/5eecdaf48460cde50f0dd6997010a2f45b20d27caf10501375b8339e1c4c24831b75b38faadcd24bec177c308ebd5304cff34df80bfd77d4284e7074eb1296bdc14f30cd9e00c1cb912527723783113d9a0e3bffe28b57114fb4c8ed7016461c",
+                        "extraData": {
+                          "resourceId": "066da217-9755-41d0-a199-e292891bdeda",
+                          "metaData": {
+                            "size": 4542,
+                            "originWidth": 280,
+                            "originHeight": 280,
+                            "format": "png",
+                            "ratio": 1
+                          }
+                        },
+                        "rotation": 0
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "text"
+                        },
+                        [
+                          "span",
+                          {
+                            "fonts": {
+                              "ascii": "Microsoft YaHei",
+                              "hAnsi": "Microsoft YaHei",
+                              "cs": "Microsoft YaHei",
+                              "eastAsia": "Microsoft YaHei"
+                            },
+                            "data-type": "leaf"
+                          },
+                          ""
+                        ]
+                      ]
+                    ],
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "fonts": {
+                            "ascii": "Microsoft YaHei",
+                            "hAnsi": "Microsoft YaHei",
+                            "cs": "Microsoft YaHei",
+                            "eastAsia": "Microsoft YaHei"
+                          },
+                          "data-type": "leaf"
+                        },
+                        ""
+                      ]
+                    ]
+                  ]
+                ],
+                [
+                  "tc",
+                  {
+                    "vAlign": "top",
+                    "fill": "#FFFFFF",
+                    "uuid": "mfm7liiivc6zmml6089",
+                    "rowSpan": 1,
+                    "colSpan": 1
+                  },
+                  [
+                    "p",
+                    {
+                      "uuid": "mfm7liii3typ0p3k5uv",
+                      "jc": "center"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "bold": true,
+                          "fonts": {
+                            "ascii": "Microsoft YaHei",
+                            "hAnsi": "Microsoft YaHei",
+                            "cs": "Microsoft YaHei",
+                            "eastAsia": "Microsoft YaHei"
+                          },
+                          "sz": 10,
+                          "szUnit": "pt",
+                          "data-type": "leaf"
+                        },
+                        "  货品全站推广详情"
+                      ],
+                      [
+                        "span",
+                        {
+                          "bold": true,
+                          "fonts": {
+                            "ascii": "Microsoft YaHei",
+                            "hAnsi": "Microsoft YaHei",
+                            "cs": "Microsoft YaHei",
+                            "eastAsia": "Microsoft YaHei"
+                          },
+                          "sz": 10,
+                          "szUnit": "pt",
+                          "color": "#3e3eff",
+                          "data-type": "leaf"
+                        },
+                        "看这里"
+                      ]
+                    ]
+                  ],
+                  [
+                    "p",
+                    {
+                      "uuid": "mp3uriye3ie6pio6ibc",
+                      "jc": "center"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "bold": true,
+                          "fonts": {
+                            "ascii": "Microsoft YaHei",
+                            "hAnsi": "Microsoft YaHei",
+                            "cs": "Microsoft YaHei",
+                            "eastAsia": "Microsoft YaHei"
+                          },
+                          "sz": 11,
+                          "szUnit": "pt",
+                          "color": "#3e3eff",
+                          "data-type": "leaf"
+                        },
+                        "↓"
+                      ]
+                    ]
+                  ],
+                  [
+                    "p",
+                    {
+                      "uuid": "mfm7neub29pcg4vddwu",
+                      "jc": "center"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "fonts": {
+                            "ascii": "Microsoft YaHei",
+                            "hAnsi": "Microsoft YaHei",
+                            "cs": "Microsoft YaHei",
+                            "eastAsia": "Microsoft YaHei"
+                          },
+                          "data-type": "leaf"
+                        },
+                        ""
+                      ]
+                    ],
+                    [
+                      "img",
+                      {
+                        "uuid": "mgt8hootsfkvbz67uki",
+                        "name": "b33af10bf766e39cd12c238322804974.png",
+                        "size": 3986,
+                        "width": 131,
+                        "height": 131,
+                        "src": "/core/api/resources/img/5eecdaf48460cde50f0dd6997010a2f45b20d27caf10501375b8339e1c4c24831b75b38faadcd24bec177c308ebd530429a16a00d4371e70fc6b600b7964f80376f2ebb836138fc263eed34130bed09a1ba4e0b0b179ff094fb4c8ed7016461c",
+                        "extraData": {
+                          "resourceId": "10dad057-2c90-45ec-824a-527d74b75b53",
+                          "metaData": {
+                            "size": 3986,
+                            "originWidth": 280,
+                            "originHeight": 280,
+                            "format": "png",
+                            "ratio": 1
+                          }
+                        },
+                        "rotation": 0
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "text"
+                        },
+                        [
+                          "span",
+                          {
+                            "fonts": {
+                              "ascii": "Microsoft YaHei",
+                              "hAnsi": "Microsoft YaHei",
+                              "cs": "Microsoft YaHei",
+                              "eastAsia": "Microsoft YaHei"
+                            },
+                            "data-type": "leaf"
+                          },
+                          ""
+                        ]
+                      ]
+                    ],
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "fonts": {
+                            "ascii": "Microsoft YaHei",
+                            "hAnsi": "Microsoft YaHei",
+                            "cs": "Microsoft YaHei",
+                            "eastAsia": "Microsoft YaHei"
+                          },
+                          "data-type": "leaf"
+                        },
+                        ""
+                      ]
+                    ]
+                  ]
+                ],
+                [
+                  "tc",
+                  {
+                    "fill": "#FFFFFF",
+                    "vAlign": "top",
+                    "uuid": "mfm7liiisi90mpfof1",
+                    "rowSpan": 1,
+                    "colSpan": 1
+                  },
+                  [
+                    "p",
+                    {
+                      "uuid": "mfm7liiia7yusviamle",
+                      "jc": "center"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "bold": true,
+                          "fonts": {
+                            "ascii": "Microsoft YaHei",
+                            "hAnsi": "Microsoft YaHei",
+                            "cs": "Microsoft YaHei",
+                            "eastAsia": "Microsoft YaHei"
+                          },
+                          "sz": 10,
+                          "szUnit": "pt",
+                          "data-type": "leaf"
+                        },
+                        "货品全站推广答疑"
+                      ],
+                      [
+                        "span",
+                        {
+                          "bold": true,
+                          "fonts": {
+                            "ascii": "Microsoft YaHei",
+                            "hAnsi": "Microsoft YaHei",
+                            "cs": "Microsoft YaHei",
+                            "eastAsia": "Microsoft YaHei"
+                          },
+                          "sz": 10,
+                          "szUnit": "pt",
+                          "color": "#3e3eff",
+                          "data-type": "leaf"
+                        },
+                        "来这里"
+                      ]
+                    ]
+                  ],
+                  [
+                    "p",
+                    {
+                      "uuid": "mp3urk10hffy0uqsnc",
+                      "jc": "center"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "bold": true,
+                          "fonts": {
+                            "ascii": "Microsoft YaHei",
+                            "hAnsi": "Microsoft YaHei",
+                            "cs": "Microsoft YaHei",
+                            "eastAsia": "Microsoft YaHei"
+                          },
+                          "sz": 11,
+                          "szUnit": "pt",
+                          "color": "#3e3eff",
+                          "data-type": "leaf"
+                        },
+                        "↓"
+                      ]
+                    ]
+                  ],
+                  [
+                    "p",
+                    {
+                      "uuid": "mfm7nldfk5fj75e4a4p",
+                      "jc": "center"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "fonts": {
+                            "ascii": "Microsoft YaHei",
+                            "hAnsi": "Microsoft YaHei",
+                            "cs": "Microsoft YaHei",
+                            "eastAsia": "Microsoft YaHei"
+                          },
+                          "data-type": "leaf"
+                        },
+                        ""
+                      ]
+                    ],
+                    [
+                      "img",
+                      {
+                        "uuid": "mr8xn0uml3wtuk7jed",
+                        "name": "image.png",
+                        "size": 154463,
+                        "width": 126,
+                        "height": 131,
+                        "src": "/core/api/resources/img/5eecdaf48460cde5eadaed293fe695e48c9221cffb67fd6175b8339e1c4c24831b75b38faadcd24bec177c308ebd5304633e7cc2fcc8e0592ae74c0ea0b2ba6868fcd19c9367264316de47e5946ebdb7eeef321fccae135c4fb4c8ed7016461c",
+                        "extraData": {
+                          "resourceId": "936926f9-43b5-4443-8232-af6ed7295e96",
+                          "metaData": {
+                            "size": 154463,
+                            "originWidth": 356,
+                            "originHeight": 370,
+                            "format": "png",
+                            "ratio": 1
+                          }
+                        },
+                        "rotation": 0
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "text"
+                        },
+                        [
+                          "span",
+                          {
+                            "data-type": "leaf"
+                          },
+                          ""
+                        ]
+                      ]
+                    ],
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "fonts": {
+                            "ascii": "Microsoft YaHei",
+                            "hAnsi": "Microsoft YaHei",
+                            "cs": "Microsoft YaHei",
+                            "eastAsia": "Microsoft YaHei"
+                          },
+                          "data-type": "leaf"
+                        },
+                        ""
+                      ]
+                    ]
+                  ]
+                ]
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mp3urltwvquqdgkyoo"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ]
+        ],
+        "footers": {},
+        "version": 1
+      },
+      "refs": {}
+    }
+  }
+}

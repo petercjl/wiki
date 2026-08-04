@@ -1,0 +1,143 @@
+{
+  "version": 1,
+  "type": "application/x-alidocs-package",
+  "main": "00000000-0000-0000-0000-000000000001",
+  "plugins": "00000000-0000-0000-0000-000000000002",
+  "parts": {
+    "bdb5476f-ee6e-439f-ad44-9aa730a7e777": {
+      "id": "bdb5476f-ee6e-439f-ad44-9aa730a7e777",
+      "type": "application/x-alidocs-plugin-attachment",
+      "version": 1,
+      "data": {
+        "spaceId": "2125320914",
+        "fileSize": 0,
+        "fileName": "【26年618】竞争航线丨自定义竞争百席先锋争霸赛",
+        "fileType": "adoc",
+        "fileId": "220960098771",
+        "corpId": "dingd8e1123006514592",
+        "modifiedTime": 1779763714000,
+        "dentryUuid": "KGZLxjv9VGkoG9YwH1mP4O54V6EDybno",
+        "icon": {
+          "type": "dingding",
+          "id": "emotion_024",
+          "name": "[鼓掌]",
+          "url": "https://g.alicdn.com/dingding/emotion-assets/0.76.0/mobile/emotion_024.png"
+        },
+        "bizType": "PORTAL",
+        "url": "https://alidocs.dingtalk.com/i/nodes/KGZLxjv9VGkoG9YwH1mP4O54V6EDybno",
+        "viewType": "wideCard",
+        "uniqueId": "9fb3284b-84ac-45ce-9508-7b507efc3ee0",
+        "dentryKey": "RwYX2BqZBhe3jrlL",
+        "metaUrl": "https://alidocs.dingtalk.com/i/nodes/KGZLxjv9VGkoG9YwH1mP4O54V6EDybno"
+      }
+    },
+    "00000000-0000-0000-0000-000000000001": {
+      "id": "00000000-0000-0000-0000-000000000001",
+      "type": "application/x-alidocs-word",
+      "version": 1,
+      "data": {
+        "style": {
+          "docDefaults": {
+            "type": "paragraph",
+            "default": 1,
+            "name": "dingdocnormal",
+            "data": {
+              "rPr": {
+                "sz": 12,
+                "szUnit": "pt"
+              },
+              "pPr": {
+                "spacing": {
+                  "before": 12,
+                  "after": 12
+                }
+              }
+            }
+          }
+        },
+        "theme": [],
+        "settings": {
+          "titleCover": {
+            "isHide": true
+          }
+        },
+        "app": {},
+        "numberings": {},
+        "headers": {},
+        "body": [
+          "root",
+          {
+            "sectPr": {
+              "pgSz": {
+                "w": 892,
+                "h": 1127
+              },
+              "pgMar": {
+                "top": 48,
+                "bottom": 48,
+                "left": 72,
+                "right": 72,
+                "header": 56.73,
+                "footer": 66.13,
+                "gutter": 0
+              }
+            },
+            "theme": {
+              "table": {
+                "tableCell": {
+                  "vAlign": "top"
+                }
+              }
+            }
+          },
+          [
+            "card",
+            {
+              "cardType": "hetu",
+              "metadata": {
+                "id": "bdb5476f-ee6e-439f-ad44-9aa730a7e777",
+                "type": "application/x-alidocs-plugin-attachment"
+              },
+              "uuid": "mp29iiz32pc4n2i5aw3"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mp29iuuwfo6xgx4qbrp"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ]
+        ],
+        "footers": {},
+        "version": 1
+      },
+      "refs": {}
+    }
+  }
+}

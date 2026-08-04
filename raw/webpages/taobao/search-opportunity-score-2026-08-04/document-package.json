@@ -1,0 +1,1488 @@
+{
+  "version": 1,
+  "type": "application/x-alidocs-package",
+  "main": "00000000-0000-0000-0000-000000000001",
+  "plugins": "00000000-0000-0000-0000-000000000002",
+  "parts": {
+    "00000000-0000-0000-0000-000000000001": {
+      "id": "00000000-0000-0000-0000-000000000001",
+      "type": "application/x-alidocs-word",
+      "version": 1,
+      "data": {
+        "style": {
+          "docDefaults": {
+            "type": "paragraph",
+            "default": 1,
+            "name": "dingdocnormal",
+            "data": {
+              "rPr": {
+                "sz": 12,
+                "szUnit": "pt"
+              },
+              "pPr": {
+                "spacing": {
+                  "before": 8,
+                  "after": 8
+                }
+              }
+            }
+          },
+          "tableDefault": {
+            "type": "table",
+            "data": {
+              "tblPr": {
+                "bdr": {
+                  "bottom": {
+                    "color": "#D6D6D6",
+                    "space": 0,
+                    "sz": 1,
+                    "val": "single"
+                  },
+                  "insideH": {
+                    "color": "#D6D6D6",
+                    "space": 0,
+                    "sz": 1,
+                    "val": "single"
+                  },
+                  "insideV": {
+                    "color": "#D6D6D6",
+                    "space": 0,
+                    "sz": 1,
+                    "val": "single"
+                  },
+                  "left": {
+                    "color": "#D6D6D6",
+                    "space": 0,
+                    "sz": 1,
+                    "val": "single"
+                  },
+                  "right": {
+                    "color": "#D6D6D6",
+                    "space": 0,
+                    "sz": 1,
+                    "val": "single"
+                  },
+                  "top": {
+                    "color": "#D6D6D6",
+                    "space": 0,
+                    "sz": 1,
+                    "val": "single"
+                  }
+                }
+              }
+            }
+          },
+          "tableHeader": {
+            "type": "table",
+            "basedOn": "tableDefault",
+            "data": {
+              "tblStylePr": [
+                {
+                  "type": "firstRow",
+                  "tcPr": {
+                    "shd": {
+                      "fill": "#F5F6F7"
+                    }
+                  }
+                },
+                {
+                  "type": "firstCol",
+                  "tcPr": {
+                    "shd": {
+                      "fill": "#F5F6F7"
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        "theme": [],
+        "settings": {
+          "titleCover": {
+            "isHide": true
+          }
+        },
+        "app": {},
+        "numberings": {},
+        "headers": {},
+        "body": [
+          "root",
+          {
+            "sectPr": {
+              "pgSz": {
+                "w": 892,
+                "h": 1127
+              },
+              "pgMar": {
+                "top": 48,
+                "bottom": 48,
+                "left": 72,
+                "right": 72,
+                "header": 56.73,
+                "footer": 66.13,
+                "gutter": 0
+              }
+            },
+            "theme": {
+              "table": {
+                "tableCell": {
+                  "vAlign": "top"
+                }
+              }
+            }
+          },
+          [
+            "container",
+            {
+              "subType": "colorBlocks",
+              "metadata": {
+                "padding": {
+                  "top": 11,
+                  "right": 11,
+                  "bottom": 11,
+                  "left": 11
+                },
+                "borderRadius": 8,
+                "bgcolor": "#FFFFFF",
+                "showstk": true,
+                "border": "#979A9B"
+              },
+              "uuid": "m85lh7i1er916ifqmhi"
+            },
+            [
+              "h3",
+              {
+                "ind": {
+                  "left": 0
+                },
+                "uuid": "m85lhai3o47q625yl4",
+                "spacing": {
+                  "before": 18.666666666666664,
+                  "after": 8,
+                  "line": 0.8529411764705882
+                }
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "bold": true,
+                    "sz": 14,
+                    "szUnit": "pt",
+                    "data-type": "leaf"
+                  },
+                  "升级摘要："
+                ]
+              ]
+            ],
+            [
+              "p",
+              {
+                "ind": {
+                  "left": 0
+                },
+                "uuid": "m85lfn0n3hmrwkdc4r2"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "sz": 11,
+                    "szUnit": "pt",
+                    "color": "rgba(0, 0, 0, 0.65)",
+                    "data-type": "leaf"
+                  },
+                  "关键词推广自定义选品能力升级，在关键词场景 - 自定义推广/趋势明星/搜索卡位 - 自定义选品页面中"
+                ],
+                [
+                  "span",
+                  {
+                    "bold": true,
+                    "sz": 11,
+                    "szUnit": "pt",
+                    "color": "rgba(0, 0, 0, 0.65)",
+                    "data-type": "leaf"
+                  },
+                  "全新升级「机会品推荐」栏"
+                ],
+                [
+                  "span",
+                  {
+                    "sz": 11,
+                    "szUnit": "pt",
+                    "color": "rgba(0, 0, 0, 0.65)",
+                    "data-type": "leaf"
+                  },
+                  "，平台精选有机会以"
+                ],
+                [
+                  "span",
+                  {
+                    "bold": true,
+                    "sz": 11,
+                    "szUnit": "pt",
+                    "color": "rgb(92, 141, 7)",
+                    "data-type": "leaf"
+                  },
+                  "低投放成本"
+                ],
+                [
+                  "span",
+                  {
+                    "sz": 11,
+                    "szUnit": "pt",
+                    "color": "rgba(0, 0, 0, 0.65)",
+                    "data-type": "leaf"
+                  },
+                  "激发"
+                ],
+                [
+                  "span",
+                  {
+                    "bold": true,
+                    "sz": 11,
+                    "szUnit": "pt",
+                    "color": "rgb(199, 92, 0)",
+                    "data-type": "leaf"
+                  },
+                  "高转化潜力"
+                ],
+                [
+                  "span",
+                  {
+                    "sz": 11,
+                    "szUnit": "pt",
+                    "color": "rgba(0, 0, 0, 0.65)",
+                    "data-type": "leaf"
+                  },
+                  "的优质未投货品并且给商家解读货品的"
+                ],
+                [
+                  "span",
+                  {
+                    "bold": true,
+                    "sz": 11,
+                    "szUnit": "pt",
+                    "color": "rgba(0, 0, 0, 0.65)",
+                    "data-type": "leaf"
+                  },
+                  "机会分和近日表现情况"
+                ],
+                [
+                  "span",
+                  {
+                    "sz": 11,
+                    "szUnit": "pt",
+                    "color": "rgba(0, 0, 0, 0.65)",
+                    "data-type": "leaf"
+                  },
+                  "，为您提供精准的宝贝增量机会推荐。"
+                ]
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "m4hv03ls3peim6uplq3",
+              "ind": {
+                "firstLine": 32
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 11,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "搜索机会品定义：「搜索机会品」是平台根据大数据模型精准挖掘的店内"
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 11,
+                  "szUnit": "pt",
+                  "underline": {
+                    "value": "single"
+                  },
+                  "data-type": "leaf"
+                },
+                "有明显成长/推广机会的宝贝"
+              ],
+              [
+                "span",
+                {
+                  "sz": 11,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "，在商家的整体推广规划中应该属于贡献增量的关键宝贝， 具体来讲，「搜索机会品」可能命中的机会点包括："
+              ]
+            ]
+          ],
+          [
+            "table",
+            {
+              "colsWidth": [
+                187,
+                187,
+                187,
+                186
+              ],
+              "tblW": {
+                "w": 100,
+                "type": "pct"
+              },
+              "uuid": "m4iea3hxsulhw8sxwc",
+              "styleId": "tableHeader",
+              "tblLook": {
+                "firstRow": 1,
+                "firstColumn": 0,
+                "lastRow": 0,
+                "lastColumn": 0
+              }
+            },
+            [
+              "tr",
+              {
+                "uuid": "m4iea3hxh1go15613hr",
+                "isTblHeader": true
+              },
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "m4iea3hxlsonh8099k",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "jc": "center",
+                    "uuid": "m4iea3hxv6qpsk7fa8"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "color": "linear-gradient(152deg, #C676FF 0%, #654CFF 41%, #405EFF 75%, #007FFF 99%)",
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      "转化"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "m4iea3hxh2lg86lf2z",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "m4iea3hxn7xw3gfcil",
+                    "jc": "center"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "color": "linear-gradient(152deg, #C676FF 0%, #654CFF 41%, #405EFF 75%, #007FFF 99%)",
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      "引流"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "m4iea3hx9wa9n6lmipg",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "m4iea3hxhm7jyv7j0z",
+                    "jc": "center"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "color": "linear-gradient(152deg, #C676FF 0%, #654CFF 41%, #405EFF 75%, #007FFF 99%)",
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      "店铺贡献"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "m4iea3hx9f95mrsoio9",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "m4iea3hxnwh83mboko",
+                    "jc": "center"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "color": "linear-gradient(152deg, #C676FF 0%, #654CFF 41%, #405EFF 75%, #007FFF 99%)",
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      "洼地流量"
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {
+                "uuid": "m4iea3hxurj5guyzpf"
+              },
+              [
+                "tc",
+                {
+                  "rowSpan": 1,
+                  "colSpan": 1,
+                  "bdr": {
+                    "top": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#d9d9d9"
+                    },
+                    "right": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#d9d9d9"
+                    },
+                    "bottom": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#d9d9d9"
+                    },
+                    "left": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#d9d9d9"
+                    }
+                  },
+                  "uuid": "m4iea3hxfuuoiz7fusu",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "jc": "center",
+                    "ind": {
+                      "left": 0
+                    },
+                    "uuid": "m7d0xfz29y53sqdiqui"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      "宝贝推广ROI、CVR高，收加情况好…"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "rowSpan": 1,
+                  "colSpan": 1,
+                  "bdr": {
+                    "top": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#d9d9d9"
+                    },
+                    "right": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#d9d9d9"
+                    },
+                    "bottom": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#d9d9d9"
+                    },
+                    "left": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#d9d9d9"
+                    }
+                  },
+                  "uuid": "m4iea3hx91nz9m2hwf7",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "jc": "center",
+                    "ind": {
+                      "left": 0
+                    },
+                    "uuid": "m7d0xjxt2r7fkww94nl"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      "宝贝CTR高，自然获流能力强等…"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "rowSpan": 1,
+                  "colSpan": 1,
+                  "bdr": {
+                    "top": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#d9d9d9"
+                    },
+                    "right": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#d9d9d9"
+                    },
+                    "bottom": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#d9d9d9"
+                    },
+                    "left": {
+                      "val": "single",
+                      "sz": 1,
+                      "color": "#d9d9d9"
+                    }
+                  },
+                  "uuid": "m4iea3hxlptu7un8rb9",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "jc": "center",
+                    "ind": {
+                      "left": 0
+                    },
+                    "uuid": "m7d0xfz3md172tihs9"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      "宝贝GMV全店占比高，新客成交占比高…"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "m4iea3hxnu694hg5e9c",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "m4iea3hxq6lz8plfgkg",
+                    "jc": "center"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      "命中低广告竞争的「洼地机会词」，能以较低点击成本拿量"
+                    ]
+                  ]
+                ]
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "m4ie9ym73s45czes3tv",
+              "ind": {
+                "firstLine": 32
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 11,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "其中，"
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 11,
+                  "szUnit": "pt",
+                  "underline": {
+                    "value": "single"
+                  },
+                  "data-type": "leaf"
+                },
+                "「洼地流量」"
+              ],
+              [
+                "span",
+                {
+                  "sz": 11,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "是我们建议商家重点关注的机会品核心优势点，平台推荐的每一个机会品都拥有一定的洼地机会流量，商家可以在关键词场景-新建计划的选词页面上重点关注机会品相关的「洼地机会」关键词。"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "m85lgwymuc2lf5w15p",
+              "ind": {
+                "firstLine": 32
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 11,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "ind": {
+                "left": 0
+              },
+              "uuid": "m85lfn0n9q5dd3e4ni8"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 16.5,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "使用方法："
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "ind": {
+                "firstLine": 29.333333333333336,
+                "left": 0
+              },
+              "uuid": "m85lfn0n6g418d9wulg"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 10.5,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "在关键词推广里新建计划或在已有计划中打开「添加宝贝」浮层，打开"
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 10.5,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "「机会品推荐」"
+              ],
+              [
+                "span",
+                {
+                  "sz": 10.5,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "宝贝列表（如店铺有商品属于机会品），可以查看平台优选的好货。"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "list": {
+                "listId": "4ohdazhnio7",
+                "isOrdered": false,
+                "level": 0,
+                "listStyle": {
+                  "format": "bullet",
+                  "text": "●",
+                  "align": "left"
+                }
+              },
+              "uuid": "m85lfn0nqyje8czih4"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 10.5,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "探查货品机会分/投放建议："
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "ind": {
+                "firstLine": 29.333333333333336,
+                "left": 0
+              },
+              "uuid": "m85lfn0neq41h515ik"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 10.5,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "综合宝贝的相关搜索指数和相关流量竞争度，平台会为货品产出 极高 / 高 / 中 /低四档机会分分档，明确给到商家店内货品面临的增量机会并提供选词等方面的投放建议。其中："
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "ind": {
+                "firstLine": 29.333333333333336,
+                "left": 0
+              },
+              "uuid": "m85lfn0nhhxyc8avov7"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 10.5,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "宝贝相关搜索指数："
+              ],
+              [
+                "span",
+                {
+                  "sz": 10.5,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "反映宝贝近一周的搜索机会流量，"
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 10.5,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "搜索指数越高，蓝海流量越大"
+              ],
+              [
+                "span",
+                {
+                  "sz": 10.5,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "；"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "ind": {
+                "firstLine": 29.333333333333336,
+                "left": 0
+              },
+              "uuid": "m85lfn0nbug97gbfkp"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 10.5,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "相关流量竞争度："
+              ],
+              [
+                "span",
+                {
+                  "sz": 10.5,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "反映宝贝近一周关联关键词下的竞争广告数量，"
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 10.5,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "竞争指数越小，投放后低成本拿量机会更大"
+              ],
+              [
+                "span",
+                {
+                  "sz": 10.5,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "。"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "ind": {},
+              "uuid": "m85lfn0nynzy7j07qs",
+              "jc": "center"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ],
+            [
+              "img",
+              {
+                "caption": {
+                  "content": "探查货品机会分/投放建议",
+                  "isShow": true
+                },
+                "extraData": {
+                  "metaData": {
+                    "format": "png",
+                    "originHeight": 932,
+                    "originWidth": 1222,
+                    "ratio": 1,
+                    "size": 1243176
+                  },
+                  "resourceId": "06697739-6b7a-47a6-9d47-288ecc6fbb95"
+                },
+                "height": 333,
+                "name": "image.png",
+                "rotation": 0,
+                "size": 1243176,
+                "src": "/core/api/resources/img/5eecdaf48460cde54e4513981d4631bf5f75856f6704a4da58e70b814913bc360a414d3de9277d871abf3af1cbd752490b7a4c9655afdcce3bfc7b6a10255564b43d9529a9280a640bb6068c485f6958a823dfd3beed8e89fc653b69905bac42",
+                "uuid": "m85li9k4nn84txds9ha",
+                "width": 436
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "sz": 12,
+                    "szUnit": "pt",
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "ind": {
+                "left": 0
+              },
+              "uuid": "m85ljk2pqung1nibzji",
+              "jc": "left",
+              "list": {
+                "listId": "0b51f612vbuq",
+                "level": 0,
+                "isTaskList": false,
+                "isOrdered": false,
+                "listStyleType": "SCIR_ECIR_SREC",
+                "symbolStyle": {},
+                "listStyle": {
+                  "format": "bullet",
+                  "text": "●",
+                  "align": "left"
+                }
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                    "cs": "\"Alibaba PuHuiTi 2.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 2.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 2.0\""
+                  },
+                  "sz": 11,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "宝贝趋势洞察：确认机会分档位的同时，自定义选品浮层会展示宝贝在"
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                    "cs": "\"Alibaba PuHuiTi 2.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 2.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 2.0\""
+                  },
+                  "sz": 11,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "转化 / 引流 / 店铺贡献"
+              ],
+              [
+                "span",
+                {
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                    "cs": "\"Alibaba PuHuiTi 2.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 2.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 2.0\""
+                  },
+                  "sz": 11,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "上透出宝贝的趋势数据与同行的投放情况进行推荐；"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "m85lfn0ok4x9vlvojr",
+              "jc": "center"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ],
+            [
+              "img",
+              {
+                "caption": {
+                  "content": "宝贝趋势洞察",
+                  "isShow": true
+                },
+                "extraData": {
+                  "metaData": {
+                    "format": "png",
+                    "originHeight": 1194,
+                    "originWidth": 1594,
+                    "ratio": 1,
+                    "size": 1374943
+                  },
+                  "resourceId": "53e06b03-b534-4626-bf1e-7365a00410d6"
+                },
+                "height": 329,
+                "name": "image.png",
+                "rotation": 0,
+                "size": 1374943,
+                "src": "/core/api/resources/img/5eecdaf48460cde54e4513981d4631bf5f75856f6704a4da58e70b814913bc360a414d3de9277d871abf3af1cbd752496e57bbdf2cbfea9cea7381e2405e922df16e71e0d6d6318c9d00bf5053eb3e34e67e3965644b36f2fc653b69905bac42",
+                "uuid": "m85lkanjoozzrs8g0j",
+                "width": 440
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "sz": 12,
+                    "szUnit": "pt",
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "list": {
+                "listId": "1nlt5rzam08",
+                "isOrdered": false,
+                "level": 0,
+                "listStyle": {
+                  "format": "bullet",
+                  "text": "●",
+                  "align": "left"
+                },
+                "extraData": {},
+                "isChecked": false,
+                "hideSymbol": false,
+                "symbolStyle": {
+                  "sz": 11
+                }
+              },
+              "uuid": "m85ljt865ledfie9fs5"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 11,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "一键批量上车："
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "ind": {
+                "firstLine": 29.333333333333336,
+                "left": 0
+              },
+              "uuid": "m85lfn0o9d7lk261pz"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 11,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "针对「机会品推荐」栏中的货品，我们也支持一键上车（一键最多上车10个宝贝），批量投放，方便操作"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "ind": {
+                "left": 29.333333333333336
+              },
+              "uuid": "m85lfn0ojt0h2z9kgts",
+              "jc": "center"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ],
+            [
+              "img",
+              {
+                "caption": {
+                  "content": "一键批量上车",
+                  "isShow": true
+                },
+                "extraData": {
+                  "metaData": {
+                    "format": "png",
+                    "originHeight": 632,
+                    "originWidth": 1224,
+                    "ratio": 1,
+                    "size": 913361
+                  },
+                  "resourceId": "dc4af7dd-d780-41dc-ad67-2a729b3c28ed"
+                },
+                "height": 209,
+                "name": "image.png",
+                "rotation": 0,
+                "size": 913361,
+                "src": "/core/api/resources/img/5eecdaf48460cde54e4513981d4631bf5f75856f6704a4da58e70b814913bc360a414d3de9277d871abf3af1cbd75249e37f45604077f17d25519c12465b7e23d39a75d6e61fe0dbff63287ea3e565ce47ffb833bcb83773fc653b69905bac42",
+                "uuid": "m85lj5n2sm5pmakxafo",
+                "width": 404
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "ind": {
+                "left": 0
+              },
+              "uuid": "m85lfn0op57e9fa4ag"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "ind": {
+                "left": 0
+              },
+              "uuid": "m85lfn0o821lkl65jcw"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "data-type": "leaf"
+                },
+                "注意："
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "list": {
+                "listId": "b8b2o0kn52",
+                "isOrdered": true,
+                "level": 0,
+                "listStyle": {
+                  "format": "decimal",
+                  "text": "%1.",
+                  "align": "left"
+                }
+              },
+              "uuid": "m85lfn0oa6cj95wqy85"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "color": "rgba(0, 0, 0, 0.65)",
+                  "data-type": "leaf"
+                },
+                "本次升级的「机会品推荐」仅对店铺中有机会品宝贝的商家可见，如果您目前没有「机会品推荐」分栏或者该分栏为空，那么代表您的店铺中暂时没有机会品宝贝；"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "list": {
+                "listId": "b8b2o0kn52",
+                "isOrdered": true,
+                "level": 0,
+                "listStyle": {
+                  "format": "decimal",
+                  "text": "%1.",
+                  "align": "left"
+                }
+              },
+              "uuid": "m85lfn0oaz2qqrfuui"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "color": "rgba(0, 0, 0, 0.65)",
+                  "data-type": "leaf"
+                },
+                "“关键词选品能力升级二期内测群”群的钉钉群号： 69770022275"
+              ]
+            ]
+          ]
+        ],
+        "footers": {},
+        "version": 1
+      },
+      "refs": {}
+    }
+  }
+}

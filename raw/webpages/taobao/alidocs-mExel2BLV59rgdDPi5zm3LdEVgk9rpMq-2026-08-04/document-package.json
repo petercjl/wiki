@@ -1,0 +1,2414 @@
+{
+  "version": 1,
+  "type": "application/x-alidocs-package",
+  "main": "00000000-0000-0000-0000-000000000001",
+  "plugins": "00000000-0000-0000-0000-000000000002",
+  "parts": {
+    "00000000-0000-0000-0000-000000000001": {
+      "id": "00000000-0000-0000-0000-000000000001",
+      "type": "application/x-alidocs-word",
+      "version": 1,
+      "data": {
+        "style": {
+          "tableDefault": {
+            "type": "table",
+            "data": {
+              "tblPr": {
+                "bdr": {
+                  "bottom": {
+                    "color": "#D6D6D6",
+                    "space": 0,
+                    "sz": 1,
+                    "val": "single"
+                  },
+                  "insideH": {
+                    "color": "#D6D6D6",
+                    "space": 0,
+                    "sz": 1,
+                    "val": "single"
+                  },
+                  "insideV": {
+                    "color": "#D6D6D6",
+                    "space": 0,
+                    "sz": 1,
+                    "val": "single"
+                  },
+                  "left": {
+                    "color": "#D6D6D6",
+                    "space": 0,
+                    "sz": 1,
+                    "val": "single"
+                  },
+                  "right": {
+                    "color": "#D6D6D6",
+                    "space": 0,
+                    "sz": 1,
+                    "val": "single"
+                  },
+                  "top": {
+                    "color": "#D6D6D6",
+                    "space": 0,
+                    "sz": 1,
+                    "val": "single"
+                  }
+                }
+              }
+            }
+          },
+          "tableHeader": {
+            "type": "table",
+            "basedOn": "tableDefault",
+            "data": {
+              "tblStylePr": [
+                {
+                  "type": "firstRow",
+                  "tcPr": {
+                    "shd": {
+                      "fill": "#F5F6F7"
+                    }
+                  }
+                },
+                {
+                  "type": "firstCol",
+                  "tcPr": {
+                    "shd": {
+                      "fill": "#F5F6F7"
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        "theme": [],
+        "settings": {},
+        "app": {},
+        "numberings": {},
+        "headers": {},
+        "body": [
+          "root",
+          {
+            "sectPr": {
+              "pgSz": {
+                "w": 1127,
+                "h": 1588
+              },
+              "pgMar": {
+                "top": 96,
+                "bottom": 96,
+                "left": 72,
+                "right": 72,
+                "header": 56.73,
+                "footer": 66.13,
+                "gutter": 0
+              }
+            },
+            "uuid": "m9mh6sqygnkkoaryh7s"
+          },
+          [
+            "p",
+            {
+              "jc": "left",
+              "uuid": "m85kwkyc65jicd9epxa"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "为了帮助商家更好的了解计划当前投放阶段，判断和调整投放，新建或者在投的"
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "货品全站推广-控投产比投放"
+              ],
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "计划，平台透出计划投放阶段，目前分三个阶段："
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "数据积累期、稳定投放期、效果调整期，"
+              ],
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "并细分为「商品模式」和「全店模式」。"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "jc": "left",
+              "uuid": "m9s5mepml2ecpacbklb"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "jc": "left",
+              "uuid": "m9s5mfw2g8ub0ocpfye"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "一、商品模式投放阶段功能解读"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "jc": "left",
+              "uuid": "m85kwkydjpoti26jivp"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "table",
+            {
+              "colsWidth": [
+                184,
+                529
+              ],
+              "uuid": "m85kvq8wrbrovbdyqva"
+            },
+            [
+              "tr",
+              {},
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "hidden": false,
+                  "rowSpan": 1,
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "jc": "left"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "data-type": "leaf"
+                      },
+                      "阶段"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "hidden": false,
+                  "rowSpan": 1,
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "jc": "left"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "data-type": "leaf"
+                      },
+                      "阶段定义（注意条件之间的关系）"
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {},
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "hidden": false,
+                  "rowSpan": 1,
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "jc": "left"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "数据积累期"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "hidden": false,
+                  "rowSpan": 1,
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "jc": "left"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "当天新建的计划 "
+                    ],
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "data-type": "leaf"
+                      },
+                      "或"
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "jc": "left"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "未满足稳定投放期门槛的计划"
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {},
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "hidden": false,
+                  "rowSpan": 1,
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "jc": "left"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "稳定投放期"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "hidden": false,
+                  "rowSpan": 1,
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "jc": "left"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "近7天累计广告全引导成交笔数（"
+                    ],
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "data-type": "leaf"
+                      },
+                      "净成交出价计划是净成交笔数"
+                    ],
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "）大于等于20笔 "
+                    ],
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "data-type": "leaf"
+                      },
+                      "且"
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "jc": "left"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "近7天累计消耗大于等于200元 "
+                    ],
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "data-type": "leaf"
+                      },
+                      "且"
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "jc": "left"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "当前未暂停、调整ROI未高于"
+                    ],
+                    [
+                      "span",
+                      {
+                        "color": "#000000",
+                        "data-type": "leaf"
+                      },
+                      "系统推荐ROI预警值"
+                    ],
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "、未开启一键起量、未切换出价方式、"
+                    ],
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "data-type": "leaf"
+                      },
+                      "计划未切换出价目标、未设置多目标出价"
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {
+                "uuid": "m85kvq8x5fqdua6cwk7"
+              },
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "hidden": false,
+                  "rowSpan": 1,
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "jc": "left"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "效果调整期"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "hidden": false,
+                  "rowSpan": 1,
+                  "vAlign": "top",
+                  "uuid": "m85kvq8yud3rv1iqvpc"
+                },
+                [
+                  "p",
+                  {
+                    "jc": "left"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "修改出价超过平台推荐范围 "
+                    ],
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "data-type": "leaf"
+                      },
+                      "或"
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "jc": "left"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "计划开启一键起量 "
+                    ],
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "data-type": "leaf"
+                      },
+                      "或"
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "jc": "left",
+                    "uuid": "m85kvq8yqbuzruduhp"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "计划切换出价方式"
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "jc": "left",
+                    "uuid": "m9wa2qllodfy0esyd5a"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "或 "
+                    ],
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "data-type": "leaf"
+                      },
+                      "计划切换出价目标"
+                    ]
+                  ]
+                ]
+              ]
+            ]
+          ],
+          [
+            "p",
+            {},
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "jc": "left",
+              "uuid": "ml6jsojnp00makaf4fn"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "#000000",
+                  "data-type": "leaf"
+                },
+                "举例：下图中设置框黄色提醒的建议设置值2.28，即为这个计划系统推荐ROI中的预警值"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "jc": "left",
+              "uuid": "ml6jd54rmdv47jiz4z"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ],
+            [
+              "img",
+              {
+                "uuid": "vqxamq",
+                "name": "image.png",
+                "size": 290259,
+                "width": 656,
+                "height": 147,
+                "src": "/core/api/resources/img/5eecdaf48460cde5b65dbe9609c2882902f1655398d9ebc658e70b814913bc360a414d3de9277d871abf3af1cbd75249b81a8a13991b6c8a5e28f1a21509da36093b1ee3597f4bc094dbcb7ec84183f3227753fbdcce64d9fc653b69905bac42",
+                "extraData": {
+                  "resourceId": "2413c41c-b33a-414a-9e12-8f319d80d55e",
+                  "metaData": {
+                    "size": 290259,
+                    "originWidth": 1754,
+                    "originHeight": 394,
+                    "format": "png",
+                    "ratio": 1
+                  }
+                },
+                "rotation": 0
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "jc": "left"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "jc": "left"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "jc": "left"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "jc": "left"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 16,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "各阶段具体说明如下"
+              ]
+            ]
+          ],
+          [
+            "h3",
+            {
+              "jc": "left"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 14,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "数据积累期："
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "jc": "left"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "计划新建当天："
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "list": {
+                "isChecked": false,
+                "isOrdered": false,
+                "isTaskList": false,
+                "level": 0,
+                "listId": "list0",
+                "listStyle": {
+                  "align": "left",
+                  "format": "bullet",
+                  "text": "●"
+                }
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "当前计划刚完成新建，数据积累中，请保持持续投放，尽量避免频繁修改目标投产比。数据更新时间：当天"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "jc": "left"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "计划新建超过1天："
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "list": {
+                "isChecked": false,
+                "isOrdered": false,
+                "isTaskList": false,
+                "level": 0,
+                "listId": "list1",
+                "listStyle": {
+                  "align": "left",
+                  "format": "bullet",
+                  "text": "●"
+                }
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "判断过去7天累计消耗和累计成交笔数是否满足【稳定投放期】条件，不满足则为【数据积累期】，满足则进入【稳定投放期】。数据更新时间：前一天"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "list": {
+                "isChecked": false,
+                "isOrdered": false,
+                "isTaskList": false,
+                "level": 0,
+                "listId": "list1",
+                "listStyle": {
+                  "align": "left",
+                  "format": "bullet",
+                  "text": "●"
+                }
+              },
+              "uuid": "ml6jubes4zsxuxgsgux"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "如当天有以下操作：暂停、调整ROI高于"
+              ],
+              [
+                "span",
+                {
+                  "color": "#000000",
+                  "data-type": "leaf"
+                },
+                "系统推荐ROI预警值"
+              ],
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "、开启一键起量、切换出价方式、切换出价目标操作，则从【数据积累期】切换为【效果调整期】。数据更新时间：当天"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "list": {
+                "isChecked": false,
+                "isOrdered": false,
+                "isTaskList": false,
+                "level": 0,
+                "listId": "list1",
+                "listStyle": {
+                  "align": "left",
+                  "format": "bullet",
+                  "text": "●"
+                }
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "后续24小时如无以上操作，则重新判断计划是属于【数据积累期】还是【稳定投放期】"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "jc": "left",
+              "uuid": "mng0mn87ov7b31ochl8"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ],
+            [
+              "img",
+              {
+                "uuid": "rwgtst",
+                "name": "image.png",
+                "size": 136641,
+                "width": 401.11,
+                "height": 232.22,
+                "src": "/core/api/resources/img/5eecdaf48460cde5b65dbe9609c2882902f1655398d9ebc658e70b814913bc360a414d3de9277d871abf3af1cbd75249023c64c5e559a9f6da9df515abd5a80df641f2d78970849367b4d4faa53b8db87bd300b28651b1b7fc653b69905bac42",
+                "extraData": {
+                  "resourceId": "b9ca3b6c-1f62-4c16-8730-01bb953a19ed",
+                  "metaData": {
+                    "size": 136641,
+                    "originWidth": 722,
+                    "originHeight": 418,
+                    "format": "png",
+                    "ratio": 1
+                  }
+                }
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "jc": "left"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "h3",
+            {
+              "jc": "left"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 14,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "稳定投放期："
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "list": {
+                "isChecked": false,
+                "isOrdered": false,
+                "isTaskList": false,
+                "level": 0,
+                "listId": "list2",
+                "listStyle": {
+                  "align": "left",
+                  "format": "bullet",
+                  "text": "●"
+                }
+              },
+              "uuid": "m9wa3n1lwtakiwh26gq"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "在无（暂停、调整ROI高于"
+              ],
+              [
+                "span",
+                {
+                  "color": "#000000",
+                  "data-type": "leaf"
+                },
+                "系统推荐ROI预警值"
+              ],
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "、开启一键起量、切换出价方式为最大化拿量操作）操作情况下，过去7天的成交笔数（"
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "data-type": "leaf"
+                },
+                "净成交出价计划是净成交笔数"
+              ],
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "）大于等于20笔且近7天累计消耗大于等于200元，则计划进入【稳定投放期】；如果不满足以上门槛，计划回退到【数据积累期】。数据更新时间：前一天"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "list": {
+                "isChecked": false,
+                "isOrdered": false,
+                "isTaskList": false,
+                "level": 0,
+                "listId": "list2",
+                "listStyle": {
+                  "align": "left",
+                  "format": "bullet",
+                  "text": "●"
+                }
+              },
+              "uuid": "ml6juk6kyuq8lzq6u6q"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "如当天有以下操作（暂停、调整ROI高于"
+              ],
+              [
+                "span",
+                {
+                  "color": "#000000",
+                  "data-type": "leaf"
+                },
+                "系统推荐ROI预警值"
+              ],
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "、开启一键起量、切换出价方式、切换出价目标操作），则从【稳定投放期】切换为【效果调整期】。数据更新时间：当天"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "list": {
+                "isChecked": false,
+                "isOrdered": false,
+                "isTaskList": false,
+                "level": 0,
+                "listId": "list2",
+                "listStyle": {
+                  "align": "left",
+                  "format": "bullet",
+                  "text": "●"
+                }
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "后续24小时如无以上操作，则重新判断计划是属于【数据积累期】还是【稳定投放期】"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "jc": "left",
+              "uuid": "mng0lh5sb16ms51i68w"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ],
+            [
+              "img",
+              {
+                "uuid": "lk5wkv",
+                "name": "image.png",
+                "size": 155005,
+                "width": 401.11,
+                "height": 255.56,
+                "src": "/core/api/resources/img/5eecdaf48460cde5b65dbe9609c2882902f1655398d9ebc658e70b814913bc360a414d3de9277d871abf3af1cbd75249e3d48ae32bb90a013da29a58b942a8c52a2d7de248e3ebf7e8603c5b7bc68c33c3fb14135351f742fc653b69905bac42",
+                "extraData": {
+                  "resourceId": "34486622-c98a-4418-8aca-1dc50a101a5e",
+                  "metaData": {
+                    "size": 155005,
+                    "originWidth": 722,
+                    "originHeight": 460,
+                    "format": "png",
+                    "ratio": 1
+                  }
+                }
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "jc": "left"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "h3",
+            {
+              "jc": "left"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 14,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "效果调整期："
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "list": {
+                "isChecked": false,
+                "isOrdered": false,
+                "isTaskList": false,
+                "level": 0,
+                "listId": "list3",
+                "listStyle": {
+                  "align": "left",
+                  "format": "bullet",
+                  "text": "●"
+                }
+              },
+              "uuid": "ml6jupwk51zwnahy8vv"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "不管原阶段是【数据积累期】还是【效果调整期】，当有（暂停、调整ROI高于系统推荐"
+              ],
+              [
+                "span",
+                {
+                  "color": "#000000",
+                  "data-type": "leaf"
+                },
+                "ROI预警值"
+              ],
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "、开启一键起量、切换出价方式、切换出价目标操作），则切换为【效果调整期】"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "list": {
+                "isChecked": false,
+                "isOrdered": false,
+                "isTaskList": false,
+                "level": 0,
+                "listId": "list3",
+                "listStyle": {
+                  "align": "left",
+                  "format": "bullet",
+                  "text": "●"
+                }
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "后续24小时如无以上操作，则重新判断计划是属于【数据积累期】还是【稳定投放期】"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "jc": "left",
+              "uuid": "m9r0wcof9okya9npeh5"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ],
+            [
+              "img",
+              {
+                "uuid": "dg4aeo",
+                "name": "image.png",
+                "size": 79202,
+                "width": 401.11,
+                "height": 144.44,
+                "src": "/core/api/resources/img/5eecdaf48460cde5b65dbe9609c2882902f1655398d9ebc658e70b814913bc360a414d3de9277d871abf3af1cbd752490e16a4e60638ea0e1db9c8a6d0fb052009588024dd8f3f5765940da0785de8547b529be0dc3e732bfc653b69905bac42",
+                "extraData": {
+                  "resourceId": "80be5d40-8ad9-4999-b806-05cfd124e15d",
+                  "metaData": {
+                    "size": 79202,
+                    "originWidth": 722,
+                    "originHeight": 260,
+                    "format": "png",
+                    "ratio": 1
+                  }
+                }
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "jc": "left",
+              "uuid": "m9r0wcohb0fg1i7mm9p"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "h1",
+            {
+              "jc": "left",
+              "uuid": "m9r0wcqxgg8pmo68k1n",
+              "spacing": {
+                "before": 26.666666666666664,
+                "after": 9,
+                "line": 0.8529411764705882
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 20,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "二、全店模式投放阶段功能解读"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "jc": "left",
+              "uuid": "m9s5oupy82bzpj245ja"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "全店模式投放阶段功能解读，用于披露全店计划所在的状态，仍然保持数据积累期、稳定投放期、效果调整期三个阶段，具体定义如下："
+              ]
+            ]
+          ],
+          [
+            "table",
+            {
+              "colsWidth": [
+                141,
+                357,
+                249
+              ],
+              "tblW": {
+                "w": 100,
+                "type": "pct"
+              },
+              "uuid": "m4zeypytpexisft2mnl",
+              "styleId": "tableHeader",
+              "tblLook": {
+                "firstRow": 1,
+                "firstColumn": 0,
+                "lastRow": 0,
+                "lastColumn": 0
+              },
+              "ind": {
+                "left": 64
+              }
+            },
+            [
+              "tr",
+              {
+                "uuid": "m4zeypythu6jxqpt0ya",
+                "isTblHeader": true,
+                "h": 47
+              },
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "m4zeypytf81t9uukdf",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "m4zeypytdcf21wjrbm"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "sz": 12,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      "状态"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "m4zeypyt5irb3925y3d",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "m4zeypyti4j1rch7d8q"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "sz": 12,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      "文案"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "m4zeypyttmtyi4y8ta",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "m4zeypytlk4wqzni6hr"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "sz": 12,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      "相比于货品全站推广商品模式增加的判断逻辑"
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {
+                "uuid": "m4zeypyt49zo5h91znd"
+              },
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "m4zeypytx6xkro1x1n",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "m4zeypyt2ou3ap4vf8h"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 12,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      "数据积累期"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "m4zeypyt7nerjaotvc7",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "m4zeypyt2uc4debi4e8",
+                    "ind": {
+                      "left": 0
+                    },
+                    "list": {
+                      "listId": "zt2wu4lfy1g",
+                      "level": 0,
+                      "isTaskList": false,
+                      "isOrdered": false,
+                      "listStyleType": "SCIR_ECIR_SREC",
+                      "symbolStyle": {
+                        "sz": 11
+                      },
+                      "listStyle": {
+                        "format": "bullet",
+                        "text": "●",
+                        "align": "left"
+                      }
+                    }
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 12,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      "新建当天"
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "uuid": "m4zfijqhncrbdz80ih",
+                    "ind": {
+                      "left": 0
+                    },
+                    "list": {
+                      "listId": "zt2wu4lfy1g",
+                      "level": 1,
+                      "isTaskList": false,
+                      "isOrdered": false,
+                      "listStyleType": "SCIR_ECIR_SREC",
+                      "symbolStyle": {
+                        "sz": 12
+                      },
+                      "listStyle": {
+                        "format": "bullet",
+                        "text": "○",
+                        "align": "left"
+                      }
+                    }
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 12,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      "当前计划刚完成新建，数据积累中，请保持继续投放，尽量避免频繁修改目标投产比。"
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "uuid": "m4zfikhs1o05t66p6bx",
+                    "ind": {
+                      "left": 0
+                    },
+                    "list": {
+                      "listId": "zt2wu4lfy1g",
+                      "level": 0,
+                      "isTaskList": false,
+                      "isOrdered": false,
+                      "listStyleType": "SCIR_ECIR_SREC",
+                      "symbolStyle": {
+                        "sz": 11
+                      },
+                      "listStyle": {
+                        "format": "bullet",
+                        "text": "●",
+                        "align": "left"
+                      }
+                    }
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 12,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      "新建超过1天"
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "ind": {
+                      "left": 0
+                    },
+                    "list": {
+                      "extraData": {},
+                      "hideSymbol": false,
+                      "isChecked": false,
+                      "isOrdered": false,
+                      "isTaskList": false,
+                      "level": 1,
+                      "listId": "zt2wu4lfy1g",
+                      "listStyle": {
+                        "align": "left",
+                        "format": "bullet",
+                        "text": "○"
+                      },
+                      "listStyleType": "SCIR_ECIR_SREC",
+                      "symbolStyle": {
+                        "sz": 11
+                      }
+                    },
+                    "uuid": "m9s5orm0wtl8giyfvwh"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 12,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ],
+                  [
+                    "img",
+                    {
+                      "uuid": "m9s5or99amfdcdv0wk",
+                      "name": "image.png",
+                      "size": 340356,
+                      "width": 309,
+                      "height": 152.88050314465409,
+                      "src": "/core/api/resources/img/5eecdaf48460cde574b51a28954b15ca204a11231b2f97aa58e70b814913bc360a414d3de9277d871abf3af1cbd75249ae3c35bf5c07064b730d0fb63ca3657ca163a5ddd412f1d1b63f8073fbab9a8cb06ce4b233b94422fc653b69905bac42",
+                      "extraData": {
+                        "resourceId": "9d5af42b-e214-43d4-84ab-095131a72a7e",
+                        "metaData": {
+                          "size": 340356,
+                          "originWidth": 954,
+                          "originHeight": 472,
+                          "format": "png",
+                          "ratio": 1
+                        }
+                      }
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "sz": 12,
+                          "szUnit": "pt",
+                          "data-type": "leaf"
+                        },
+                        ""
+                      ]
+                    ]
+                  ],
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 12,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "m4zeypyt3d0jdaeby6r",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "m4zeypyt9s0k15mj4pe"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 12,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      "第三点判断变更：当前无大幅度调整出价、无切换出价方式、"
+                    ],
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "sz": 12,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      "添加或暂停推广商品"
+                    ],
+                    [
+                      "span",
+                      {
+                        "sz": 12,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      "等操作。"
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {
+                "uuid": "m4zeypytd9y2vzct11t"
+              },
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "m4zeypytgu2riqxjbli",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "m4zeypyteppi5ywrtmc"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 12,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      "稳定投放期"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "m4zeypytlhfo8hzccjp",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "m9s4108lro3ye8gb8m"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 12,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ],
+                  [
+                    "img",
+                    {
+                      "uuid": "m9s5or99ivbexj87rw",
+                      "name": "image.png",
+                      "size": 57078,
+                      "width": 269,
+                      "height": 261,
+                      "src": "/core/api/resources/img/5eecdaf48460cde5e2875433c8e89976c1daee5caf23d7e575b8339e1c4c24831b75b38faadcd24bec177c308ebd5304b47e1cefbb61672a39303646bb197d30ecef8a2e222ccd11f32d0a62788b518a2fd4982a362af6754fb4c8ed7016461c",
+                      "extraData": {
+                        "resourceId": "99649903-9935-46d0-b0c0-255fdeb4ddf1",
+                        "metaData": {
+                          "size": 57078,
+                          "originWidth": 266,
+                          "originHeight": 258,
+                          "format": "png",
+                          "ratio": 1
+                        }
+                      },
+                      "rotation": 0
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "sz": 12,
+                          "szUnit": "pt",
+                          "data-type": "leaf"
+                        },
+                        ""
+                      ]
+                    ]
+                  ],
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 12,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "m4zeypytvphvv86dqpq",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "m4zeypyty1fzgavmh4"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 12,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      "第三点判断变更：当前无大幅度调整出价、无切换出价方式、"
+                    ],
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "sz": 12,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      "添加或暂停推广商品"
+                    ],
+                    [
+                      "span",
+                      {
+                        "sz": 12,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      "等操作。"
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {
+                "uuid": "m4zf0tgn1gvgooa6m3e"
+              },
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "m4zf0tgn252xfigp4o1",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "m4zf0tgnz0gu0qoieoc"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 12,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      "效果调整期"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "m4zf0tgn6yt04fv2v7q",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "m4zf0tgn48s23rr985b"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 12,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ],
+                  [
+                    "img",
+                    {
+                      "uuid": "m9s5or99jachllrea8",
+                      "name": "image.png",
+                      "size": 68447,
+                      "width": 256,
+                      "height": 149,
+                      "src": "/core/api/resources/img/5eecdaf48460cde5e2875433c8e89976c1daee5caf23d7e575b8339e1c4c24831b75b38faadcd24bec177c308ebd53045d8d71eae1f0b55512b509f9c9979e2ab2f4a7c16c90feecf42e929247335e59200172d8532d2d574fb4c8ed7016461c",
+                      "extraData": {
+                        "resourceId": "1f386bb0-1f16-4fd8-83ad-31edfb1daf5c",
+                        "metaData": {
+                          "size": 68447,
+                          "originWidth": 512,
+                          "originHeight": 298,
+                          "format": "png",
+                          "ratio": 1
+                        }
+                      }
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "sz": 12,
+                          "szUnit": "pt",
+                          "data-type": "leaf"
+                        },
+                        ""
+                      ]
+                    ]
+                  ],
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 12,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "m4zf0tgnu899hpc5qwg",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "m4zf0tgn4rnuue4yovf"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 12,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      "除了调整计划出价外，出现："
+                    ],
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "sz": 12,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      "①暂停商品投放 ②添加商品"
+                    ],
+                    [
+                      "span",
+                      {
+                        "sz": 12,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      " 也会导致变为效果调整期。"
+                    ]
+                  ]
+                ]
+              ]
+            ]
+          ]
+        ],
+        "footers": {},
+        "version": 1
+      },
+      "refs": {}
+    }
+  }
+}

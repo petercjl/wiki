@@ -1,0 +1,4437 @@
+{
+  "version": 1,
+  "type": "application/x-alidocs-package",
+  "main": "00000000-0000-0000-0000-000000000001",
+  "plugins": "00000000-0000-0000-0000-000000000002",
+  "parts": {
+    "00000000-0000-0000-0000-000000000001": {
+      "id": "00000000-0000-0000-0000-000000000001",
+      "type": "application/x-alidocs-word",
+      "version": 1,
+      "data": {
+        "style": {
+          "docDefaults": {
+            "type": "paragraph",
+            "default": 1,
+            "name": "dingdocnormal",
+            "data": {
+              "rPr": {
+                "sz": 12,
+                "szUnit": "pt"
+              },
+              "pPr": {
+                "spacing": {
+                  "before": 8,
+                  "after": 8
+                }
+              }
+            }
+          }
+        },
+        "theme": [],
+        "settings": {
+          "titleCover": {
+            "isHide": true
+          }
+        },
+        "app": {},
+        "numberings": {},
+        "headers": {},
+        "body": [
+          "root",
+          {
+            "sectPr": {
+              "pgSz": {
+                "w": 1127,
+                "h": 1588
+              },
+              "pgMar": {
+                "header": 56.73,
+                "footer": 66.13,
+                "top": 48,
+                "bottom": 48,
+                "left": 72,
+                "right": 72,
+                "gutter": 0
+              }
+            },
+            "theme": {
+              "table": {
+                "tableCell": {
+                  "vAlign": "top"
+                }
+              }
+            },
+            "uuid": "me2ksu7a0nus69lcnsec"
+          },
+          [
+            "container",
+            {
+              "subType": "colorBlocks",
+              "metadata": {
+                "padding": {
+                  "top": 11,
+                  "right": 11,
+                  "bottom": 11,
+                  "left": 11
+                },
+                "borderRadius": 8,
+                "bgcolor": "#F5F6F7",
+                "showstk": false
+              },
+              "uuid": "me2kfahwhb39134q2ea"
+            },
+            [
+              "container",
+              {
+                "subType": "colorBlocks",
+                "metadata": {
+                  "padding": {
+                    "top": 11,
+                    "right": 11,
+                    "bottom": 11,
+                    "left": 11
+                  },
+                  "borderRadius": 8,
+                  "bgcolor": "#3e3eff",
+                  "showstk": false
+                },
+                "uuid": "me2kfj3arw2ekq3yotn"
+              },
+              [
+                "p",
+                {
+                  "uuid": "me2kfj3a4lge3tle1a",
+                  "jc": "center"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "text"
+                  },
+                  [
+                    "span",
+                    {
+                      "bold": true,
+                      "sz": 18,
+                      "szUnit": "pt",
+                      "color": "#FFFFFF",
+                      "data-type": "leaf"
+                    },
+                    "「货品全站推广」日常操作指南"
+                  ]
+                ]
+              ]
+            ],
+            [
+              "container",
+              {
+                "subType": "colorBlocks",
+                "metadata": {
+                  "padding": {
+                    "top": 11,
+                    "right": 11,
+                    "bottom": 11,
+                    "left": 11
+                  },
+                  "borderRadius": 8,
+                  "bgcolor": "#FFFFFF",
+                  "showstk": false
+                },
+                "uuid": "me2kfgcaa6uaybgt13u"
+              },
+              [
+                "h2",
+                {
+                  "jc": "justify",
+                  "spacing": {
+                    "before": 21.333333333333332,
+                    "after": 9,
+                    "line": 0.8529411764705882
+                  },
+                  "uuid": "m7cyqz2kwi5tfckif1"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "text"
+                  },
+                  [
+                    "span",
+                    {
+                      "bold": true,
+                      "sz": 16,
+                      "szUnit": "pt",
+                      "color": "#3e3eff",
+                      "data-type": "leaf"
+                    },
+                    "一、开启投放"
+                  ]
+                ]
+              ],
+              [
+                "table",
+                {
+                  "colsWidth": [
+                    519,
+                    463
+                  ],
+                  "uuid": "m7cyqz2kr42xvhmr8q",
+                  "tblW": {
+                    "type": "pct"
+                  }
+                },
+                [
+                  "tr",
+                  {
+                    "uuid": "m7cyqz2kj6n6apfsmb"
+                  },
+                  [
+                    "tc",
+                    {
+                      "colSpan": 1,
+                      "rowSpan": 1,
+                      "vAlign": "top",
+                      "uuid": "m7cyqz2kjlob4j05yo",
+                      "fill": "#F5F6F7"
+                    },
+                    [
+                      "p",
+                      {
+                        "jc": "center",
+                        "uuid": "m7cyqz2kgjj699mpfxg"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "text"
+                        },
+                        [
+                          "span",
+                          {
+                            "bold": true,
+                            "color": "#3e3eff",
+                            "data-type": "leaf"
+                          },
+                          "操作"
+                        ]
+                      ]
+                    ]
+                  ],
+                  [
+                    "tc",
+                    {
+                      "colSpan": 1,
+                      "rowSpan": 1,
+                      "vAlign": "top",
+                      "uuid": "m7cyqz2knavtzhaanh",
+                      "fill": "#F5F6F7"
+                    },
+                    [
+                      "p",
+                      {
+                        "jc": "center",
+                        "uuid": "m7cyqz2kzhveay3wzck"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "text"
+                        },
+                        [
+                          "span",
+                          {
+                            "bold": true,
+                            "color": "#3e3eff",
+                            "data-type": "leaf"
+                          },
+                          "图示与说明"
+                        ]
+                      ]
+                    ]
+                  ]
+                ],
+                [
+                  "tr",
+                  {
+                    "uuid": "m7cyqz2kvihqrwodwfh"
+                  },
+                  [
+                    "tc",
+                    {
+                      "colSpan": 1,
+                      "rowSpan": 1,
+                      "vAlign": "top",
+                      "uuid": "m7cyqz2k0gu0l9u8it2"
+                    },
+                    [
+                      "p",
+                      {
+                        "list": {
+                          "isChecked": false,
+                          "isOrdered": true,
+                          "isTaskList": false,
+                          "level": 0,
+                          "listId": "nllygahveia",
+                          "listStyle": {
+                            "align": "left",
+                            "format": "decimal",
+                            "text": "%1."
+                          }
+                        },
+                        "uuid": "m7cyqz2kh4d6fxmfz0p"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "text"
+                        },
+                        [
+                          "span",
+                          {
+                            "bold": true,
+                            "data-type": "leaf"
+                          },
+                          "进万相台无界版"
+                        ],
+                        [
+                          "span",
+                          {
+                            "data-type": "leaf"
+                          },
+                          "（"
+                        ]
+                      ],
+                      [
+                        "a",
+                        {
+                          "href": "https://one.alimama.com/index.html#!/main/index?bizCode=onebpSite",
+                          "uuid": "m7cyqz2kct41xur1bf6"
+                        },
+                        [
+                          "span",
+                          {
+                            "data-type": "text"
+                          },
+                          [
+                            "span",
+                            {
+                              "data-type": "leaf"
+                            },
+                            "https://one.alimama.com/index.html#!/main/index?bizCode=onebpSite"
+                          ]
+                        ]
+                      ],
+                      [
+                        "span",
+                        {
+                          "data-type": "text"
+                        },
+                        [
+                          "span",
+                          {
+                            "data-type": "leaf"
+                          },
+                          "），选择「货品全站推广」"
+                        ]
+                      ]
+                    ],
+                    [
+                      "p",
+                      {
+                        "uuid": "m7cyqz2kl72ujzsmdsb"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "text"
+                        },
+                        [
+                          "span",
+                          {
+                            "data-type": "leaf"
+                          },
+                          "​"
+                        ]
+                      ]
+                    ]
+                  ],
+                  [
+                    "tc",
+                    {
+                      "colSpan": 1,
+                      "rowSpan": 1,
+                      "vAlign": "top",
+                      "uuid": "m7cyqz2keh8ygbknc"
+                    },
+                    [
+                      "p",
+                      {
+                        "jc": "center",
+                        "uuid": "m7cyqz2kr4yt4k9og0e"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "text"
+                        },
+                        [
+                          "span",
+                          {
+                            "data-type": "leaf"
+                          },
+                          "无界版"
+                        ]
+                      ]
+                    ],
+                    [
+                      "p",
+                      {
+                        "jc": "center",
+                        "uuid": "mdi71wyuu6m429si9c"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "text"
+                        },
+                        [
+                          "span",
+                          {
+                            "data-type": "leaf"
+                          },
+                          ""
+                        ]
+                      ],
+                      [
+                        "img",
+                        {
+                          "width": 2842,
+                          "height": 980,
+                          "src": "/core/api/resources/img/5eecdaf48460cde5553401ed8d38dba39a07f9674e8a7ce775b8339e1c4c24831b75b38faadcd24bec177c308ebd53048da4810b05d11b4784ad59532913346a34545d11df42048471251db69c457f3ed1a851ee20ea7c934fb4c8ed7016461c",
+                          "uuid": "mmsv85lya61kdhahxbc",
+                          "extraData": {
+                            "resourceId": "c7adf66b-c674-4c0c-a8bb-ea02d8d4bd59",
+                            "metaData": {
+                              "size": 1897918,
+                              "originWidth": 2842,
+                              "originHeight": 980,
+                              "format": "png",
+                              "ratio": 1
+                            }
+                          }
+                        },
+                        [
+                          "span",
+                          {
+                            "data-type": "text"
+                          },
+                          [
+                            "span",
+                            {
+                              "data-type": "leaf"
+                            },
+                            ""
+                          ]
+                        ]
+                      ],
+                      [
+                        "span",
+                        {
+                          "data-type": "text"
+                        },
+                        [
+                          "span",
+                          {
+                            "data-type": "leaf"
+                          },
+                          ""
+                        ]
+                      ]
+                    ]
+                  ]
+                ],
+                [
+                  "tr",
+                  {
+                    "uuid": "m7cyqz2kghyb1p7erb"
+                  },
+                  [
+                    "tc",
+                    {
+                      "colSpan": 1,
+                      "rowSpan": 1,
+                      "vAlign": "top",
+                      "uuid": "m7cyqz2k0bv3i6zb5dda"
+                    },
+                    [
+                      "p",
+                      {
+                        "list": {
+                          "isChecked": false,
+                          "isOrdered": true,
+                          "isTaskList": false,
+                          "level": 0,
+                          "listId": "231v29cafgb",
+                          "listStyle": {
+                            "align": "left",
+                            "format": "decimal",
+                            "text": "%1."
+                          },
+                          "start": 2
+                        },
+                        "uuid": "m7cyqz2khm6r7n4c1k7"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "text"
+                        },
+                        [
+                          "span",
+                          {
+                            "bold": true,
+                            "data-type": "leaf"
+                          },
+                          "点击添加商品："
+                        ],
+                        [
+                          "span",
+                          {
+                            "data-type": "leaf"
+                          },
+                          "一个计划对应一个宝贝，可点击"
+                        ],
+                        [
+                          "span",
+                          {
+                            "bold": true,
+                            "color": "#C10002",
+                            "data-type": "leaf"
+                          },
+                          "一键上车"
+                        ],
+                        [
+                          "span",
+                          {
+                            "data-type": "leaf"
+                          },
+                          "，系统已帮你优选最适合投放的 5 个宝贝；"
+                        ]
+                      ]
+                    ]
+                  ],
+                  [
+                    "tc",
+                    {
+                      "colSpan": 1,
+                      "rowSpan": 1,
+                      "vAlign": "top",
+                      "uuid": "m7cyqz2ktviw6j8jj59"
+                    },
+                    [
+                      "p",
+                      {
+                        "jc": "center",
+                        "uuid": "m7cyqz2km92tqgpef9"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "text"
+                        },
+                        [
+                          "span",
+                          {
+                            "data-type": "leaf"
+                          },
+                          ""
+                        ]
+                      ],
+                      [
+                        "img",
+                        {
+                          "uuid": "me2ksp0ddifm4om55c",
+                          "name": "image.png",
+                          "size": 118996,
+                          "width": 316,
+                          "height": 138.54677348638847,
+                          "src": "/core/api/resources/img/5eecdaf48460cde5129eedd7b1a69daf09528f3869ecb47658e70b814913bc360a414d3de9277d871abf3af1cbd7524909b37e904279760bdd154cba91d0a8a9f509643eeb311eca62f817aadf3655b951b640baf0ea940ffc653b69905bac42",
+                          "extraData": {
+                            "resourceId": "c3654ebd-2e6e-4c7f-ab2d-527d1e1478f1",
+                            "metaData": {
+                              "size": 118996,
+                              "originWidth": 1129,
+                              "originHeight": 495,
+                              "format": "png",
+                              "ratio": 1
+                            }
+                          },
+                          "radius": 8,
+                          "outline": {
+                            "width": 1,
+                            "type": "solid",
+                            "color": "var(--we_line_light_color, rgba(23, 26, 29, 0.08))"
+                          }
+                        },
+                        [
+                          "span",
+                          {
+                            "data-type": "text"
+                          },
+                          [
+                            "span",
+                            {
+                              "data-type": "leaf"
+                            },
+                            ""
+                          ]
+                        ]
+                      ],
+                      [
+                        "span",
+                        {
+                          "data-type": "text"
+                        },
+                        [
+                          "span",
+                          {
+                            "data-type": "leaf"
+                          },
+                          ""
+                        ]
+                      ]
+                    ]
+                  ]
+                ],
+                [
+                  "tr",
+                  {
+                    "uuid": "m7cyqz2ktgpixie146"
+                  },
+                  [
+                    "tc",
+                    {
+                      "colSpan": 1,
+                      "rowSpan": 1,
+                      "vAlign": "top",
+                      "uuid": "m7cyqz2k3m5tkj09jzg"
+                    },
+                    [
+                      "p",
+                      {
+                        "list": {
+                          "isChecked": false,
+                          "isOrdered": true,
+                          "isTaskList": false,
+                          "level": 0,
+                          "listId": "4prknp8m9n5",
+                          "listStyle": {
+                            "align": "left",
+                            "format": "decimal",
+                            "text": "%1."
+                          },
+                          "start": 3,
+                          "symbolStyle": {
+                            "bold": true
+                          }
+                        },
+                        "uuid": "m7cyqz2kk4md8lrt9mf"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "text"
+                        },
+                        [
+                          "span",
+                          {
+                            "bold": true,
+                            "data-type": "leaf"
+                          },
+                          "选择出价方式"
+                        ]
+                      ]
+                    ],
+                    [
+                      "p",
+                      {
+                        "list": {
+                          "isChecked": false,
+                          "isOrdered": true,
+                          "isTaskList": false,
+                          "level": 1,
+                          "listId": "kilks3rthki",
+                          "listStyle": {
+                            "align": "left",
+                            "format": "lowerLetter",
+                            "text": "%2."
+                          }
+                        },
+                        "uuid": "m7cyqz2kh1u9kk9wdm"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "text"
+                        },
+                        [
+                          "span",
+                          {
+                            "data-type": "leaf"
+                          },
+                          "控投产比投放，设置目标投产比；"
+                        ]
+                      ]
+                    ],
+                    [
+                      "p",
+                      {
+                        "list": {
+                          "isChecked": false,
+                          "isOrdered": true,
+                          "isTaskList": false,
+                          "level": 1,
+                          "listId": "kilks3rthki",
+                          "listStyle": {
+                            "align": "left",
+                            "format": "lowerLetter",
+                            "text": "%2."
+                          }
+                        },
+                        "uuid": "m7cyqz2kpvx95s0yyjq"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "text"
+                        },
+                        [
+                          "span",
+                          {
+                            "data-type": "leaf"
+                          },
+                          "最大化拿量，设置每日预算；"
+                        ]
+                      ]
+                    ],
+                    [
+                      "p",
+                      {
+                        "uuid": "m7cyqz2k5x5pkaq9rru"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "text"
+                        },
+                        [
+                          "span",
+                          {
+                            "data-type": "leaf"
+                          },
+                          ""
+                        ]
+                      ]
+                    ]
+                  ],
+                  [
+                    "tc",
+                    {
+                      "colSpan": 1,
+                      "rowSpan": 1,
+                      "vAlign": "top",
+                      "uuid": "m7cyqz2kvzjg6zv5c"
+                    },
+                    [
+                      "p",
+                      {
+                        "jc": "center",
+                        "uuid": "m7cyqz2kcidflusq3"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "text"
+                        },
+                        [
+                          "span",
+                          {
+                            "data-type": "leaf"
+                          },
+                          ""
+                        ]
+                      ],
+                      [
+                        "img",
+                        {
+                          "uuid": "71kfbx",
+                          "name": "image.png",
+                          "size": 473422,
+                          "width": 423,
+                          "height": 174.3312597200622,
+                          "src": "/core/api/resources/img/5eecdaf48460cde5553401ed8d38dba39a07f9674e8a7ce775b8339e1c4c24831b75b38faadcd24bec177c308ebd530431cac9706fb57586e166aeddc458689f134b3cd2a78b019eb2a9a833afa60b53ca13d1dd08e659634fb4c8ed7016461c",
+                          "extraData": {
+                            "resourceId": "f2594cb9-7f1f-4837-9bec-bd143be27d10",
+                            "metaData": {
+                              "size": 473422,
+                              "originWidth": 1286,
+                              "originHeight": 530,
+                              "format": "png",
+                              "ratio": 1
+                            }
+                          }
+                        },
+                        [
+                          "span",
+                          {
+                            "data-type": "text"
+                          },
+                          [
+                            "span",
+                            {
+                              "data-type": "leaf"
+                            },
+                            ""
+                          ]
+                        ]
+                      ],
+                      [
+                        "span",
+                        {
+                          "data-type": "text"
+                        },
+                        [
+                          "span",
+                          {
+                            "data-type": "leaf"
+                          },
+                          ""
+                        ]
+                      ]
+                    ],
+                    [
+                      "p",
+                      {
+                        "uuid": "mmsv69ishoyxs6g0w74"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "text"
+                        },
+                        [
+                          "span",
+                          {
+                            "data-type": "leaf"
+                          },
+                          ""
+                        ]
+                      ],
+                      [
+                        "img",
+                        {
+                          "uuid": "pxu9tt",
+                          "name": "image.png",
+                          "size": 287840,
+                          "width": 423,
+                          "height": 156.05825242718447,
+                          "src": "/core/api/resources/img/5eecdaf48460cde5553401ed8d38dba39a07f9674e8a7ce775b8339e1c4c24831b75b38faadcd24bec177c308ebd5304dbfc32a7f0dd1e9f3e72bf4ed2cfa11a26e9e4746b6637755438a039d7ce816eac9d09901b4ae80c4fb4c8ed7016461c",
+                          "extraData": {
+                            "resourceId": "272d99eb-5fb0-46d0-ba23-09f2c90834cf",
+                            "metaData": {
+                              "size": 287840,
+                              "originWidth": 1030,
+                              "originHeight": 380,
+                              "format": "png",
+                              "ratio": 1
+                            }
+                          }
+                        },
+                        [
+                          "span",
+                          {
+                            "data-type": "text"
+                          },
+                          [
+                            "span",
+                            {
+                              "data-type": "leaf"
+                            },
+                            ""
+                          ]
+                        ]
+                      ],
+                      [
+                        "span",
+                        {
+                          "data-type": "text"
+                        },
+                        [
+                          "span",
+                          {
+                            "data-type": "leaf"
+                          },
+                          ""
+                        ]
+                      ]
+                    ]
+                  ]
+                ],
+                [
+                  "tr",
+                  {
+                    "uuid": "m7cyqz2kn97lq9ju6gm"
+                  },
+                  [
+                    "tc",
+                    {
+                      "colSpan": 1,
+                      "rowSpan": 1,
+                      "vAlign": "top",
+                      "uuid": "m7cyqz2kqrgz7adfwgh"
+                    },
+                    [
+                      "p",
+                      {
+                        "list": {
+                          "isChecked": false,
+                          "isOrdered": true,
+                          "isTaskList": false,
+                          "level": 0,
+                          "listId": "1kdejpej9ux",
+                          "listStyle": {
+                            "align": "left",
+                            "format": "decimal",
+                            "text": "%1."
+                          },
+                          "start": 4,
+                          "symbolStyle": {
+                            "bold": true
+                          }
+                        },
+                        "uuid": "m7cyqz2k2o48fb3e7vm"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "text"
+                        },
+                        [
+                          "span",
+                          {
+                            "bold": true,
+                            "data-type": "leaf"
+                          },
+                          "”控投产比投放”选择预算类型"
+                        ]
+                      ]
+                    ],
+                    [
+                      "p",
+                      {
+                        "list": {
+                          "isChecked": false,
+                          "isOrdered": true,
+                          "isTaskList": false,
+                          "level": 1,
+                          "listId": "srmmvijig0o",
+                          "listStyle": {
+                            "align": "left",
+                            "format": "lowerLetter",
+                            "text": "%2."
+                          }
+                        },
+                        "uuid": "m7cyqz2kh1j2lt7fxx5"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "text"
+                        },
+                        [
+                          "span",
+                          {
+                            "data-type": "leaf"
+                          },
+                          "不限预算(建议选择)；"
+                        ]
+                      ]
+                    ],
+                    [
+                      "p",
+                      {
+                        "list": {
+                          "isChecked": false,
+                          "isOrdered": true,
+                          "isTaskList": false,
+                          "level": 1,
+                          "listId": "srmmvijig0o",
+                          "listStyle": {
+                            "align": "left",
+                            "format": "lowerLetter",
+                            "text": "%2."
+                          }
+                        },
+                        "uuid": "m7cyqz2kkcqfjvkebrr"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "text"
+                        },
+                        [
+                          "span",
+                          {
+                            "data-type": "leaf"
+                          },
+                          "每日预算；"
+                        ]
+                      ]
+                    ]
+                  ],
+                  [
+                    "tc",
+                    {
+                      "colSpan": 1,
+                      "rowSpan": 1,
+                      "vAlign": "top",
+                      "uuid": "m7cyqz2k4l9dqmw3q5b"
+                    },
+                    [
+                      "p",
+                      {
+                        "jc": "center",
+                        "uuid": "m7cyqz2k931548qp6gf"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "text"
+                        },
+                        [
+                          "span",
+                          {
+                            "data-type": "leaf"
+                          },
+                          ""
+                        ]
+                      ],
+                      [
+                        "img",
+                        {
+                          "height": 101,
+                          "name": "",
+                          "src": "https://alidocs.oss-cn-zhangjiakou.aliyuncs.com/lark/https://yuque.antfin.com/chenchun.chen/gqhty9/op8g5ki6n3iw26gz/img3vUcOy0RmB.png",
+                          "width": 394.0740671144756,
+                          "uuid": "me2ksp0dgkmkcoc3v8d",
+                          "radius": 8,
+                          "outline": {
+                            "width": 1,
+                            "type": "solid",
+                            "color": "var(--we_line_light_color, rgba(23, 26, 29, 0.08))"
+                          }
+                        },
+                        [
+                          "span",
+                          {
+                            "data-type": "text"
+                          },
+                          [
+                            "span",
+                            {
+                              "data-type": "leaf"
+                            },
+                            ""
+                          ]
+                        ]
+                      ],
+                      [
+                        "span",
+                        {
+                          "data-type": "text"
+                        },
+                        [
+                          "span",
+                          {
+                            "data-type": "leaf"
+                          },
+                          ""
+                        ]
+                      ],
+                      [
+                        "img",
+                        {
+                          "height": 128,
+                          "name": "",
+                          "src": "https://alidocs.oss-cn-zhangjiakou.aliyuncs.com/lark/https://yuque.antfin.com/chenchun.chen/gqhty9/op8g5ki6n3iw26gz/img3u4Bvh2G6U.png",
+                          "width": 628.333308365611,
+                          "uuid": "me2ksp0d7lj9uemm5rn",
+                          "radius": 8,
+                          "outline": {
+                            "width": 1,
+                            "type": "solid",
+                            "color": "var(--we_line_light_color, rgba(23, 26, 29, 0.08))"
+                          }
+                        },
+                        [
+                          "span",
+                          {
+                            "data-type": "text"
+                          },
+                          [
+                            "span",
+                            {
+                              "data-type": "leaf"
+                            },
+                            ""
+                          ]
+                        ]
+                      ],
+                      [
+                        "span",
+                        {
+                          "data-type": "text"
+                        },
+                        [
+                          "span",
+                          {
+                            "data-type": "leaf"
+                          },
+                          ""
+                        ]
+                      ]
+                    ]
+                  ]
+                ],
+                [
+                  "tr",
+                  {
+                    "uuid": "md705tqfxw1349u3m9f",
+                    "h": 153
+                  },
+                  [
+                    "tc",
+                    {
+                      "colSpan": 1,
+                      "rowSpan": 1,
+                      "uuid": "md705tqfysaizi9h5r",
+                      "vAlign": "middle"
+                    },
+                    [
+                      "p",
+                      {
+                        "ind": {
+                          "left": 0
+                        },
+                        "list": {
+                          "isOrdered": true,
+                          "isTaskList": false,
+                          "level": 0,
+                          "listId": "its7zk8tal",
+                          "listStyle": {
+                            "align": "left",
+                            "format": "decimal",
+                            "text": "%1."
+                          },
+                          "listStyleType": "DEC_LEN_LROM_P",
+                          "start": 5,
+                          "symbolStyle": {
+                            "bold": true
+                          }
+                        },
+                        "uuid": "md705tqf434fxhtbz1y"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "text"
+                        },
+                        [
+                          "span",
+                          {
+                            "bold": true,
+                            "data-type": "leaf"
+                          },
+                          "多目标优化（可自行选择开启）"
+                        ]
+                      ]
+                    ],
+                    [
+                      "p",
+                      {
+                        "list": {
+                          "isChecked": false,
+                          "isOrdered": true,
+                          "isTaskList": false,
+                          "level": 1,
+                          "listId": "its7zk8tal",
+                          "listStyle": {
+                            "align": "left",
+                            "format": "lowerLetter",
+                            "text": "%2."
+                          },
+                          "listStyleType": "DEC_LEN_LROM_P"
+                        },
+                        "uuid": "md707nxg87g5vhv3n8f"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "text"
+                        },
+                        [
+                          "span",
+                          {
+                            "data-type": "leaf"
+                          },
+                          "目标选择：优化加购；"
+                        ]
+                      ]
+                    ],
+                    [
+                      "p",
+                      {
+                        "list": {
+                          "isChecked": false,
+                          "isOrdered": true,
+                          "isTaskList": false,
+                          "level": 1,
+                          "listId": "its7zk8tal",
+                          "listStyle": {
+                            "align": "left",
+                            "format": "lowerLetter",
+                            "text": "%2."
+                          },
+                          "listStyleType": "DEC_LEN_LROM_P"
+                        },
+                        "uuid": "md707nxla9aby6nv5fs"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "text"
+                        },
+                        [
+                          "span",
+                          {
+                            "data-type": "leaf"
+                          },
+                          "目标选择：优化直接成交；"
+                        ]
+                      ]
+                    ],
+                    [
+                      "p",
+                      {
+                        "uuid": "mokx75drnahapfpkddk"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "text"
+                        },
+                        [
+                          "span",
+                          {
+                            "bold": true,
+                            "sz": 11,
+                            "szUnit": "pt",
+                            "color": "#E03E3E",
+                            "data-type": "leaf"
+                          },
+                          "⚠️注意：已开通“直接净成交”的商家，其「最大化拿量」计划将不再支持「投放调优」功能；建议将预算用于最大化拿量计划；"
+                        ]
+                      ]
+                    ],
+                    [
+                      "p",
+                      {
+                        "ind": {
+                          "left": 0
+                        },
+                        "uuid": "mokyvax5h8j8rx0h8xm"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "text"
+                        },
+                        [
+                          "span",
+                          {
+                            "sz": 11,
+                            "szUnit": "pt",
+                            "color": "rgb(23, 26, 29)",
+                            "data-type": "leaf"
+                          },
+                          "（对于已开启投放调优且正在投放中的最大化拿量计划，可继续运行，但不支持修改或重新开启调优设置。）"
+                        ]
+                      ]
+                    ]
+                  ],
+                  [
+                    "tc",
+                    {
+                      "colSpan": 1,
+                      "rowSpan": 1,
+                      "uuid": "md705tqf2ed7t6q3kls",
+                      "vAlign": "middle"
+                    },
+                    [
+                      "p",
+                      {
+                        "uuid": "md705tqf7jb05efjlqd",
+                        "jc": "center"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "text"
+                        },
+                        [
+                          "span",
+                          {
+                            "data-type": "leaf"
+                          },
+                          ""
+                        ]
+                      ],
+                      [
+                        "img",
+                        {
+                          "uuid": "me2ksp0d5issvbvb4xb",
+                          "name": "image.png",
+                          "size": 54604,
+                          "width": 316,
+                          "height": 70.81175491227795,
+                          "src": "/core/api/resources/img/5eecdaf48460cde5129eedd7b1a69daf09528f3869ecb47658e70b814913bc360a414d3de9277d871abf3af1cbd75249464422d77d0ead08390f9b643485a19336e80e2f20fa98238dc6f8032791c2b8cfeff1b7293b4a2bfc653b69905bac42",
+                          "extraData": {
+                            "resourceId": "538e6821-2b59-4ac1-991d-a9fedc63d8c7",
+                            "metaData": {
+                              "size": 54604,
+                              "originWidth": 955,
+                              "originHeight": 214,
+                              "format": "png",
+                              "ratio": 1
+                            }
+                          },
+                          "radius": 8,
+                          "outline": {
+                            "width": 1,
+                            "type": "solid",
+                            "color": "var(--we_line_light_color, rgba(23, 26, 29, 0.08))"
+                          }
+                        },
+                        [
+                          "span",
+                          {
+                            "data-type": "text"
+                          },
+                          [
+                            "span",
+                            {
+                              "data-type": "leaf"
+                            },
+                            ""
+                          ]
+                        ]
+                      ],
+                      [
+                        "span",
+                        {
+                          "data-type": "text"
+                        },
+                        [
+                          "span",
+                          {
+                            "data-type": "leaf"
+                          },
+                          ""
+                        ]
+                      ]
+                    ],
+                    [
+                      "p",
+                      {
+                        "uuid": "md707b4oo6qkhjdhx8q",
+                        "jc": "center"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "text"
+                        },
+                        [
+                          "span",
+                          {
+                            "data-type": "leaf"
+                          },
+                          ""
+                        ]
+                      ]
+                    ],
+                    [
+                      "p",
+                      {
+                        "uuid": "md706p4pjkfgusqo12j",
+                        "jc": "center"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "text"
+                        },
+                        [
+                          "span",
+                          {
+                            "data-type": "leaf"
+                          },
+                          ""
+                        ]
+                      ],
+                      [
+                        "img",
+                        {
+                          "uuid": "me2ksp0dncxrysm9zts",
+                          "name": "image.png",
+                          "size": 42137,
+                          "width": 316,
+                          "height": 47.574618272092366,
+                          "src": "/core/api/resources/img/5eecdaf48460cde5129eedd7b1a69daf09528f3869ecb47658e70b814913bc360a414d3de9277d871abf3af1cbd75249a62e0c0f67ffaf79b55bf277c3b0f98aa8e37f1c125b57c304469ab0fc401c4673e8a39579e83406fc653b69905bac42",
+                          "extraData": {
+                            "resourceId": "fc16ca7b-271b-43d8-aece-4bcd299afdd9",
+                            "metaData": {
+                              "size": 42137,
+                              "originWidth": 1003,
+                              "originHeight": 151,
+                              "format": "png",
+                              "ratio": 1
+                            }
+                          },
+                          "radius": 8,
+                          "outline": {
+                            "width": 1,
+                            "type": "solid",
+                            "color": "var(--we_line_light_color, rgba(23, 26, 29, 0.08))"
+                          }
+                        },
+                        [
+                          "span",
+                          {
+                            "data-type": "text"
+                          },
+                          [
+                            "span",
+                            {
+                              "data-type": "leaf"
+                            },
+                            ""
+                          ]
+                        ]
+                      ],
+                      [
+                        "span",
+                        {
+                          "data-type": "text"
+                        },
+                        [
+                          "span",
+                          {
+                            "data-type": "leaf"
+                          },
+                          ""
+                        ]
+                      ]
+                    ]
+                  ]
+                ],
+                [
+                  "tr",
+                  {
+                    "uuid": "m7cyqz2k3eaxzv35m1i"
+                  },
+                  [
+                    "tc",
+                    {
+                      "colSpan": 1,
+                      "rowSpan": 1,
+                      "vAlign": "top",
+                      "uuid": "m7cyqz2k8dpn6xcfwhj"
+                    },
+                    [
+                      "p",
+                      {
+                        "ind": {
+                          "left": 0
+                        },
+                        "list": {
+                          "isOrdered": true,
+                          "isTaskList": false,
+                          "level": 0,
+                          "listId": "gc2mg86i4p7",
+                          "listStyle": {
+                            "align": "left",
+                            "format": "decimal",
+                            "text": "%1."
+                          },
+                          "listStyleType": "DEC_LEN_LROM_P",
+                          "start": 6,
+                          "symbolStyle": {
+                            "bold": true,
+                            "sz": 11
+                          }
+                        },
+                        "uuid": "m7cyqz2k4q098kpis9v"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "text"
+                        },
+                        [
+                          "span",
+                          {
+                            "bold": true,
+                            "sz": 11,
+                            "szUnit": "pt",
+                            "data-type": "leaf"
+                          },
+                          "自定义计划名称"
+                        ]
+                      ]
+                    ]
+                  ],
+                  [
+                    "tc",
+                    {
+                      "colSpan": 1,
+                      "rowSpan": 1,
+                      "vAlign": "top",
+                      "uuid": "m7cyqz2kbkwlg3s161c"
+                    },
+                    [
+                      "p",
+                      {
+                        "jc": "center",
+                        "uuid": "m7cyqz2kbc960kdux5s"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "text"
+                        },
+                        [
+                          "span",
+                          {
+                            "data-type": "leaf"
+                          },
+                          ""
+                        ]
+                      ],
+                      [
+                        "img",
+                        {
+                          "uuid": "me2ksp0drcn0bsdvk5s",
+                          "name": "image.png",
+                          "size": 43030,
+                          "width": 316,
+                          "height": 123.65217391304347,
+                          "src": "/core/api/resources/img/5eecdaf48460cde5129eedd7b1a69daf09528f3869ecb47658e70b814913bc360a414d3de9277d871abf3af1cbd752499e6b744085cd775191e34f19920de1ece082202bc5bb2fb6126095872dbed41ae5c1e2715fe247affc653b69905bac42",
+                          "extraData": {
+                            "resourceId": "b06a4556-8d54-424c-ac3c-6836eed2674c",
+                            "metaData": {
+                              "size": 43030,
+                              "originWidth": 621,
+                              "originHeight": 243,
+                              "format": "png",
+                              "ratio": 1
+                            }
+                          },
+                          "radius": 8,
+                          "outline": {
+                            "width": 1,
+                            "type": "solid",
+                            "color": "var(--we_line_light_color, rgba(23, 26, 29, 0.08))"
+                          }
+                        },
+                        [
+                          "span",
+                          {
+                            "data-type": "text"
+                          },
+                          [
+                            "span",
+                            {
+                              "data-type": "leaf"
+                            },
+                            ""
+                          ]
+                        ]
+                      ],
+                      [
+                        "span",
+                        {
+                          "data-type": "text"
+                        },
+                        [
+                          "span",
+                          {
+                            "data-type": "leaf"
+                          },
+                          ""
+                        ]
+                      ]
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "h2",
+                {
+                  "jc": "left",
+                  "spacing": {
+                    "before": 21.333333333333332,
+                    "after": 9,
+                    "line": 0.8529411764705882
+                  },
+                  "uuid": "m7cyqz2kcbzt7qv0nno"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "text"
+                  },
+                  [
+                    "span",
+                    {
+                      "bold": true,
+                      "sz": 16,
+                      "szUnit": "pt",
+                      "color": "#3e3eff",
+                      "data-type": "leaf"
+                    },
+                    "二、投中调整"
+                  ]
+                ]
+              ],
+              [
+                "table",
+                {
+                  "colsWidth": [
+                    511,
+                    471
+                  ],
+                  "uuid": "m7cyqz2kg6125uw7067",
+                  "tblW": {
+                    "type": "pct"
+                  }
+                },
+                [
+                  "tr",
+                  {
+                    "uuid": "m7cyqz2ku43dzjk0nhh"
+                  },
+                  [
+                    "tc",
+                    {
+                      "colSpan": 1,
+                      "rowSpan": 1,
+                      "vAlign": "top",
+                      "uuid": "me2kk1i21mibmw5nt9n",
+                      "fill": "#F5F6F7"
+                    },
+                    [
+                      "p",
+                      {
+                        "jc": "center",
+                        "uuid": "me2kk1i13oafhsatfve"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "text"
+                        },
+                        [
+                          "span",
+                          {
+                            "bold": true,
+                            "color": "#3e3eff",
+                            "data-type": "leaf"
+                          },
+                          "操作"
+                        ]
+                      ]
+                    ]
+                  ],
+                  [
+                    "tc",
+                    {
+                      "colSpan": 1,
+                      "rowSpan": 1,
+                      "vAlign": "top",
+                      "uuid": "me2kk1i2g39my54ak7w",
+                      "fill": "#F5F6F7"
+                    },
+                    [
+                      "p",
+                      {
+                        "jc": "center",
+                        "uuid": "me2kk1i2fc15f1xvu9"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "text"
+                        },
+                        [
+                          "span",
+                          {
+                            "bold": true,
+                            "color": "#3e3eff",
+                            "data-type": "leaf"
+                          },
+                          "图示与说明"
+                        ]
+                      ]
+                    ]
+                  ]
+                ],
+                [
+                  "tr",
+                  {
+                    "uuid": "m7cyqz2kjux5s03kzvp"
+                  },
+                  [
+                    "tc",
+                    {
+                      "colSpan": 1,
+                      "rowSpan": 1,
+                      "vAlign": "top",
+                      "uuid": "m7cyqz2klkylibhcevp"
+                    },
+                    [
+                      "p",
+                      {
+                        "list": {
+                          "isChecked": false,
+                          "isOrdered": true,
+                          "isTaskList": false,
+                          "level": 0,
+                          "listId": "u3im8llrml",
+                          "listStyle": {
+                            "align": "left",
+                            "format": "decimal",
+                            "text": "%1."
+                          },
+                          "symbolStyle": {
+                            "bold": true
+                          }
+                        },
+                        "uuid": "m7cyqz2kx6zk9yvu7fq"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "text"
+                        },
+                        [
+                          "span",
+                          {
+                            "bold": true,
+                            "data-type": "leaf"
+                          },
+                          "预算/出价方式/出价目标调整："
+                        ]
+                      ]
+                    ],
+                    [
+                      "p",
+                      {
+                        "jc": "left",
+                        "uuid": "m7cyqz2khp8ao3dcvmo"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "text"
+                        },
+                        [
+                          "span",
+                          {
+                            "data-type": "leaf"
+                          },
+                          "货品全站推广-计划列表中，点击“铅笔”小图标设置，即可调整日预算和出价方式/出价目标；"
+                        ]
+                      ]
+                    ],
+                    [
+                      "p",
+                      {
+                        "jc": "left",
+                        "uuid": "m7cyqz2krwdyt6zfahi"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "text"
+                        },
+                        [
+                          "span",
+                          {
+                            "data-type": "leaf"
+                          },
+                          ""
+                        ]
+                      ]
+                    ],
+                    [
+                      "p",
+                      {
+                        "jc": "left",
+                        "uuid": "m7cyqz2kd1ekblwvjfb"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "text"
+                        },
+                        [
+                          "span",
+                          {
+                            "data-type": "leaf"
+                          },
+                          ""
+                        ]
+                      ]
+                    ]
+                  ],
+                  [
+                    "tc",
+                    {
+                      "colSpan": 1,
+                      "rowSpan": 1,
+                      "vAlign": "top",
+                      "uuid": "m7cyqz2kj1dinm1jxuf"
+                    },
+                    [
+                      "p",
+                      {
+                        "jc": "center",
+                        "uuid": "m7cyqz2kcmxeawb0np6"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "text"
+                        },
+                        [
+                          "span",
+                          {
+                            "data-type": "leaf"
+                          },
+                          ""
+                        ]
+                      ],
+                      [
+                        "img",
+                        {
+                          "uuid": "me2ksp0duv0eqv16rh",
+                          "name": "image.png",
+                          "size": 159424,
+                          "width": 312,
+                          "height": 59.47500000000001,
+                          "src": "/core/api/resources/img/5eecdaf48460cde5129eedd7b1a69daf09528f3869ecb47658e70b814913bc360a414d3de9277d871abf3af1cbd75249b435232be1f6a79139ac016d276e65a33ee797f9533e3d6be1b0d9c83635ce86fcb2e411516ad524fc653b69905bac42",
+                          "extraData": {
+                            "resourceId": "359fbdb8-f85c-4856-b309-49e7d687b7b4",
+                            "metaData": {
+                              "size": 159424,
+                              "originWidth": 1766,
+                              "originHeight": 336,
+                              "format": "png",
+                              "ratio": 1
+                            }
+                          },
+                          "radius": 8,
+                          "outline": {
+                            "width": 1,
+                            "type": "solid",
+                            "color": "var(--we_line_light_color, rgba(23, 26, 29, 0.08))"
+                          }
+                        },
+                        [
+                          "span",
+                          {
+                            "data-type": "text"
+                          },
+                          [
+                            "span",
+                            {
+                              "data-type": "leaf"
+                            },
+                            ""
+                          ]
+                        ]
+                      ],
+                      [
+                        "span",
+                        {
+                          "data-type": "text"
+                        },
+                        [
+                          "span",
+                          {
+                            "data-type": "leaf"
+                          },
+                          ""
+                        ]
+                      ]
+                    ],
+                    [
+                      "p",
+                      {
+                        "jc": "center",
+                        "uuid": "m7cyqz2krge6ysxohe"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "text"
+                        },
+                        [
+                          "span",
+                          {
+                            "data-type": "leaf"
+                          },
+                          ""
+                        ]
+                      ],
+                      [
+                        "img",
+                        {
+                          "uuid": "me2ksp0dfpqi8uboqy7",
+                          "name": "image.png",
+                          "size": 153777,
+                          "width": 312,
+                          "height": 119.92499999999998,
+                          "src": "/core/api/resources/img/5eecdaf48460cde5129eedd7b1a69daf09528f3869ecb47658e70b814913bc360a414d3de9277d871abf3af1cbd75249fbeeb19b52c673661ddf62c06b5cc2b7597c2fe8adadae62e31697d68d893341de5be2648383fa94fc653b69905bac42",
+                          "extraData": {
+                            "resourceId": "64d55c04-053e-4cd7-a7eb-e05684129693",
+                            "metaData": {
+                              "size": 153777,
+                              "originWidth": 1436,
+                              "originHeight": 552,
+                              "format": "png",
+                              "ratio": 1
+                            }
+                          },
+                          "radius": 8,
+                          "outline": {
+                            "width": 1,
+                            "type": "solid",
+                            "color": "var(--we_line_light_color, rgba(23, 26, 29, 0.08))"
+                          }
+                        },
+                        [
+                          "span",
+                          {
+                            "data-type": "text"
+                          },
+                          [
+                            "span",
+                            {
+                              "data-type": "leaf"
+                            },
+                            ""
+                          ]
+                        ]
+                      ],
+                      [
+                        "span",
+                        {
+                          "data-type": "text"
+                        },
+                        [
+                          "span",
+                          {
+                            "data-type": "leaf"
+                          },
+                          ""
+                        ]
+                      ]
+                    ],
+                    [
+                      "p",
+                      {
+                        "jc": "center",
+                        "uuid": "md70ctnj9kzwhgsh9zh"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "text"
+                        },
+                        [
+                          "span",
+                          {
+                            "data-type": "leaf"
+                          },
+                          ""
+                        ]
+                      ],
+                      [
+                        "img",
+                        {
+                          "uuid": "mmsv97nhzll8yq0sv99",
+                          "name": "image.png",
+                          "size": 287840,
+                          "width": 423,
+                          "height": 156.05825242718447,
+                          "src": "/core/api/resources/img/5eecdaf48460cde5553401ed8d38dba39a07f9674e8a7ce775b8339e1c4c24831b75b38faadcd24bec177c308ebd5304dbfc32a7f0dd1e9f3e72bf4ed2cfa11a26e9e4746b6637755438a039d7ce816eac9d09901b4ae80c4fb4c8ed7016461c",
+                          "extraData": {
+                            "resourceId": "272d99eb-5fb0-46d0-ba23-09f2c90834cf",
+                            "metaData": {
+                              "size": 287840,
+                              "originWidth": 1030,
+                              "originHeight": 380,
+                              "format": "png",
+                              "ratio": 1
+                            }
+                          }
+                        },
+                        [
+                          "span",
+                          {
+                            "data-type": "text"
+                          },
+                          [
+                            "span",
+                            {
+                              "data-type": "leaf"
+                            },
+                            ""
+                          ]
+                        ]
+                      ],
+                      [
+                        "span",
+                        {
+                          "data-type": "text"
+                        },
+                        [
+                          "span",
+                          {
+                            "data-type": "leaf"
+                          },
+                          ""
+                        ]
+                      ]
+                    ]
+                  ]
+                ],
+                [
+                  "tr",
+                  {
+                    "uuid": "m7cyqz2kez25tie92j"
+                  },
+                  [
+                    "tc",
+                    {
+                      "colSpan": 1,
+                      "rowSpan": 1,
+                      "vAlign": "top",
+                      "uuid": "m7cyqz2k4gekyqx8sdt"
+                    },
+                    [
+                      "p",
+                      {
+                        "list": {
+                          "isChecked": false,
+                          "isOrdered": true,
+                          "isTaskList": false,
+                          "level": 0,
+                          "listId": "l7rt9p6ojzb",
+                          "listStyle": {
+                            "align": "left",
+                            "format": "decimal",
+                            "text": "%1."
+                          },
+                          "start": 2,
+                          "symbolStyle": {
+                            "bold": true
+                          }
+                        },
+                        "uuid": "m7cyqz2kfis28h2y0ea"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "text"
+                        },
+                        [
+                          "span",
+                          {
+                            "bold": true,
+                            "data-type": "leaf"
+                          },
+                          "计划投放三阶段"
+                        ]
+                      ]
+                    ],
+                    [
+                      "p",
+                      {
+                        "list": {
+                          "isChecked": false,
+                          "isOrdered": true,
+                          "isTaskList": false,
+                          "level": 1,
+                          "listId": "0nwuen6s0q1r",
+                          "listStyle": {
+                            "align": "left",
+                            "format": "lowerLetter",
+                            "text": "%2."
+                          }
+                        },
+                        "uuid": "m7cyqz2k9w8w6piud3d"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "text"
+                        },
+                        [
+                          "span",
+                          {
+                            "data-type": "leaf"
+                          },
+                          "数据累积期"
+                        ]
+                      ]
+                    ],
+                    [
+                      "p",
+                      {
+                        "list": {
+                          "isChecked": false,
+                          "isOrdered": true,
+                          "isTaskList": false,
+                          "level": 1,
+                          "listId": "0nwuen6s0q1r",
+                          "listStyle": {
+                            "align": "left",
+                            "format": "lowerLetter",
+                            "text": "%2."
+                          }
+                        },
+                        "uuid": "m7cyqz2ku47qc07s6fq"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "text"
+                        },
+                        [
+                          "span",
+                          {
+                            "data-type": "leaf"
+                          },
+                          "稳定投放期"
+                        ]
+                      ]
+                    ],
+                    [
+                      "p",
+                      {
+                        "list": {
+                          "isChecked": false,
+                          "isOrdered": true,
+                          "isTaskList": false,
+                          "level": 1,
+                          "listId": "0nwuen6s0q1r",
+                          "listStyle": {
+                            "align": "left",
+                            "format": "lowerLetter",
+                            "text": "%2."
+                          }
+                        },
+                        "uuid": "m7cyqz2kgnnnwyz56da"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "text"
+                        },
+                        [
+                          "span",
+                          {
+                            "data-type": "leaf"
+                          },
+                          "效果调整期"
+                        ]
+                      ]
+                    ],
+                    [
+                      "p",
+                      {
+                        "jc": "left",
+                        "uuid": "m7cyqz2kuxxxvcn29p9"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "text"
+                        },
+                        [
+                          "span",
+                          {
+                            "data-type": "leaf"
+                          },
+                          ""
+                        ]
+                      ],
+                      [
+                        "a",
+                        {
+                          "href": "https://alidocs.dingtalk.com/i/nodes/mExel2BLV59rgdDPi5zm3LdEVgk9rpMq?doc_type=wiki_doc",
+                          "metadata": {
+                            "extData": {
+                              "referenceId": "39afb992-2479-4366-b6b6-0f6b76948538",
+                              "dentryUuid": "mExel2BLV59rgdDPi5zm3LdEVgk9rpMq"
+                            }
+                          },
+                          "uuid": "m7d0lj12js1t26wr9jf"
+                        },
+                        [
+                          "span",
+                          {
+                            "data-type": "text"
+                          },
+                          [
+                            "span",
+                            {
+                              "data-type": "leaf"
+                            },
+                            ">>>详情点击这里"
+                          ]
+                        ]
+                      ],
+                      [
+                        "span",
+                        {
+                          "data-type": "text"
+                        },
+                        [
+                          "span",
+                          {
+                            "data-type": "leaf"
+                          },
+                          ""
+                        ]
+                      ]
+                    ]
+                  ],
+                  [
+                    "tc",
+                    {
+                      "colSpan": 1,
+                      "rowSpan": 1,
+                      "vAlign": "top",
+                      "uuid": "m7cyqz2k8movznrz7ha"
+                    },
+                    [
+                      "p",
+                      {
+                        "jc": "center",
+                        "uuid": "m7cyqz2k3pl97bte2je"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "text"
+                        },
+                        [
+                          "span",
+                          {
+                            "data-type": "leaf"
+                          },
+                          ""
+                        ]
+                      ],
+                      [
+                        "img",
+                        {
+                          "height": 274,
+                          "name": "",
+                          "src": "https://alidocs.oss-cn-zhangjiakou.aliyuncs.com/lark/https://yuque.antfin.com/chenchun.chen/gqhty9/op8g5ki6n3iw26gz/imgJe4WVHHvPI.png",
+                          "width": 789.6296156842689,
+                          "uuid": "me2ksp0dmge5u60gxy",
+                          "radius": 8,
+                          "outline": {
+                            "width": 1,
+                            "type": "solid",
+                            "color": "var(--we_line_light_color, rgba(23, 26, 29, 0.08))"
+                          }
+                        },
+                        [
+                          "span",
+                          {
+                            "data-type": "text"
+                          },
+                          [
+                            "span",
+                            {
+                              "data-type": "leaf"
+                            },
+                            ""
+                          ]
+                        ]
+                      ],
+                      [
+                        "span",
+                        {
+                          "data-type": "text"
+                        },
+                        [
+                          "span",
+                          {
+                            "data-type": "leaf"
+                          },
+                          ""
+                        ]
+                      ]
+                    ]
+                  ]
+                ],
+                [
+                  "tr",
+                  {
+                    "uuid": "m7cyqz2kusutyq4shyi"
+                  },
+                  [
+                    "tc",
+                    {
+                      "colSpan": 1,
+                      "rowSpan": 1,
+                      "vAlign": "top",
+                      "uuid": "m7cyqz2kk7i3iwyizz"
+                    },
+                    [
+                      "p",
+                      {
+                        "list": {
+                          "isChecked": false,
+                          "isOrdered": true,
+                          "isTaskList": false,
+                          "level": 0,
+                          "listId": "xpbq91dxfjj",
+                          "listStyle": {
+                            "align": "left",
+                            "format": "decimal",
+                            "text": "%1."
+                          },
+                          "start": 3
+                        },
+                        "uuid": "m7cyqz2k6lds17l8bn6"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "text"
+                        },
+                        [
+                          "span",
+                          {
+                            "bold": true,
+                            "data-type": "leaf"
+                          },
+                          "优"
+                        ],
+                        [
+                          "span",
+                          {
+                            "bold": true,
+                            "sz": 11,
+                            "szUnit": "pt",
+                            "data-type": "leaf"
+                          },
+                          "化建议"
+                        ],
+                        [
+                          "span",
+                          {
+                            "bold": true,
+                            "data-type": "leaf"
+                          },
+                          "："
+                        ],
+                        [
+                          "span",
+                          {
+                            "data-type": "leaf"
+                          },
+                          "计划列表-营销雷达下面选择”查看分析与建议“；"
+                        ]
+                      ]
+                    ],
+                    [
+                      "p",
+                      {
+                        "uuid": "mdi737w2yhdnux5v63o",
+                        "jc": "left"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "text"
+                        },
+                        [
+                          "span",
+                          {
+                            "data-type": "leaf"
+                          },
+                          ""
+                        ]
+                      ],
+                      [
+                        "a",
+                        {
+                          "href": "https://alidocs.dingtalk.com/i/nodes/vy20BglGWOxjGpq0CER0y13RVA7depqY?corpId=dingd8e1123006514592&doc_type=wiki_doc&iframeQuery=utm_source%3Dportal%26utm_medium%3Dportal_new_tab_open&rnd=0.14579421132014314&sideCollapsed=true&utm_scene=team_space",
+                          "metadata": {
+                            "extData": {
+                              "referenceId": "81dbaac4-4569-43d3-b468-53ad5ba9e4bb",
+                              "dentryUuid": "vy20BglGWOxjGpq0CER0y13RVA7depqY"
+                            }
+                          },
+                          "uuid": "md70hkuhqkegc55byto"
+                        },
+                        [
+                          "span",
+                          {
+                            "data-type": "text"
+                          },
+                          [
+                            "span",
+                            {
+                              "data-type": "leaf"
+                            },
+                            ">>>详情点击这里"
+                          ]
+                        ]
+                      ],
+                      [
+                        "span",
+                        {
+                          "data-type": "text"
+                        },
+                        [
+                          "span",
+                          {
+                            "data-type": "leaf"
+                          },
+                          ""
+                        ]
+                      ]
+                    ]
+                  ],
+                  [
+                    "tc",
+                    {
+                      "colSpan": 1,
+                      "rowSpan": 1,
+                      "vAlign": "top",
+                      "uuid": "m7cyqz2k5fqth71xii4"
+                    },
+                    [
+                      "p",
+                      {
+                        "jc": "center",
+                        "uuid": "m7cyqz2kf2s3k0bs35"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "text"
+                        },
+                        [
+                          "span",
+                          {
+                            "data-type": "leaf"
+                          },
+                          ""
+                        ]
+                      ],
+                      [
+                        "img",
+                        {
+                          "uuid": "me2ksp0d27yuswzahfi",
+                          "name": "image.png",
+                          "size": 246908,
+                          "width": 312,
+                          "height": 89.2125,
+                          "src": "/core/api/resources/img/5eecdaf48460cde5129eedd7b1a69daf09528f3869ecb47658e70b814913bc360a414d3de9277d871abf3af1cbd7524932c2ab02bfe5ba4c55d1c0612d9acad2d18b1e70b6a1a06b83e6c37b48275763b742ca9d180aa270fc653b69905bac42",
+                          "extraData": {
+                            "resourceId": "e4b3358a-2b02-413f-9f53-79917c060f4f",
+                            "metaData": {
+                              "size": 246908,
+                              "originWidth": 1782,
+                              "originHeight": 510,
+                              "format": "png",
+                              "ratio": 1
+                            }
+                          },
+                          "radius": 8,
+                          "outline": {
+                            "width": 1,
+                            "type": "solid",
+                            "color": "var(--we_line_light_color, rgba(23, 26, 29, 0.08))"
+                          }
+                        },
+                        [
+                          "span",
+                          {
+                            "data-type": "text"
+                          },
+                          [
+                            "span",
+                            {
+                              "data-type": "leaf"
+                            },
+                            ""
+                          ]
+                        ]
+                      ],
+                      [
+                        "span",
+                        {
+                          "data-type": "text"
+                        },
+                        [
+                          "span",
+                          {
+                            "data-type": "leaf"
+                          },
+                          ""
+                        ]
+                      ]
+                    ]
+                  ]
+                ],
+                [
+                  "tr",
+                  {
+                    "uuid": "m7cyqz2k93jly0sr2oa"
+                  },
+                  [
+                    "tc",
+                    {
+                      "colSpan": 1,
+                      "rowSpan": 1,
+                      "vAlign": "top",
+                      "uuid": "m7cyqz2k1ou10zffg7b"
+                    },
+                    [
+                      "p",
+                      {
+                        "list": {
+                          "isChecked": false,
+                          "isOrdered": true,
+                          "isTaskList": false,
+                          "level": 0,
+                          "listId": "17ldq65k9j1",
+                          "listStyle": {
+                            "align": "left",
+                            "format": "decimal",
+                            "text": "%1."
+                          },
+                          "start": 4
+                        },
+                        "uuid": "m7cyqz2kgnu99nusrkc"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "text"
+                        },
+                        [
+                          "span",
+                          {
+                            "bold": true,
+                            "data-type": "leaf"
+                          },
+                          "预估 ROI："
+                        ],
+                        [
+                          "span",
+                          {
+                            "data-type": "leaf"
+                          },
+                          "计划列表-实际投产比下面选择”预估 ROI“进行查看；"
+                        ]
+                      ]
+                    ]
+                  ],
+                  [
+                    "tc",
+                    {
+                      "colSpan": 1,
+                      "rowSpan": 1,
+                      "vAlign": "top",
+                      "uuid": "m7cyqz2kqw05wtoh3y9"
+                    },
+                    [
+                      "p",
+                      {
+                        "jc": "center",
+                        "uuid": "m7cyqz2kbptkmc9lcy"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "text"
+                        },
+                        [
+                          "span",
+                          {
+                            "data-type": "leaf"
+                          },
+                          ""
+                        ]
+                      ]
+                    ],
+                    [
+                      "p",
+                      {
+                        "jc": "center",
+                        "uuid": "m7cyqz2k6lv7zi1t3xr"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "text"
+                        },
+                        [
+                          "span",
+                          {
+                            "data-type": "leaf"
+                          },
+                          ""
+                        ]
+                      ],
+                      [
+                        "img",
+                        {
+                          "height": 324,
+                          "name": "",
+                          "src": "https://alidocs.oss-cn-zhangjiakou.aliyuncs.com/lark/https://yuque.antfin.com/chenchun.chen/gqhty9/op8g5ki6n3iw26gz/imgy64D4y9yZo.png",
+                          "width": 926.6666503011448,
+                          "uuid": "me2ksp0d0ji989hgcdg8",
+                          "radius": 8,
+                          "outline": {
+                            "width": 1,
+                            "type": "solid",
+                            "color": "var(--we_line_light_color, rgba(23, 26, 29, 0.08))"
+                          }
+                        },
+                        [
+                          "span",
+                          {
+                            "data-type": "text"
+                          },
+                          [
+                            "span",
+                            {
+                              "data-type": "leaf"
+                            },
+                            ""
+                          ]
+                        ]
+                      ],
+                      [
+                        "span",
+                        {
+                          "data-type": "text"
+                        },
+                        [
+                          "span",
+                          {
+                            "data-type": "leaf"
+                          },
+                          ""
+                        ]
+                      ]
+                    ]
+                  ]
+                ],
+                [
+                  "tr",
+                  {
+                    "uuid": "m7cyqz2kbbatlsaynbf"
+                  },
+                  [
+                    "tc",
+                    {
+                      "colSpan": 1,
+                      "rowSpan": 1,
+                      "vAlign": "top",
+                      "uuid": "m7cyqz2kgbbufcmh4tn"
+                    },
+                    [
+                      "p",
+                      {
+                        "list": {
+                          "isChecked": false,
+                          "isOrdered": true,
+                          "isTaskList": false,
+                          "level": 0,
+                          "listId": "n2hwass4a0m",
+                          "listStyle": {
+                            "align": "left",
+                            "format": "decimal",
+                            "text": "%1."
+                          },
+                          "start": 5
+                        },
+                        "uuid": "m7cyqz2kwt0hljkpr6s"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "text"
+                        },
+                        [
+                          "span",
+                          {
+                            "bold": true,
+                            "data-type": "leaf"
+                          },
+                          "投放调优："
+                        ],
+                        [
+                          "span",
+                          {
+                            "data-type": "leaf"
+                          },
+                          "计划列表-点击“投放调优”可开启多目标优化/一键起量；"
+                        ]
+                      ]
+                    ],
+                    [
+                      "p",
+                      {
+                        "uuid": "md70lh8tva5mnjkqxp",
+                        "jc": "left"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "text"
+                        },
+                        [
+                          "span",
+                          {
+                            "data-type": "leaf"
+                          },
+                          ""
+                        ]
+                      ],
+                      [
+                        "a",
+                        {
+                          "href": "https://alidocs.dingtalk.com/i/nodes/o14dA3GK8gQlkoYwcQdK4QOlV9ekBD76?doc_type=wiki_doc",
+                          "metadata": {
+                            "extData": {
+                              "referenceId": "41cbb46f-46d3-48f4-a3b3-180be63c384b",
+                              "dentryUuid": "o14dA3GK8gQlkoYwcQdK4QOlV9ekBD76"
+                            }
+                          },
+                          "uuid": "md70n1e4az7y2itu7go"
+                        },
+                        [
+                          "span",
+                          {
+                            "data-type": "text"
+                          },
+                          [
+                            "span",
+                            {
+                              "data-type": "leaf"
+                            },
+                            "一键起量>>>详情点击这里"
+                          ]
+                        ]
+                      ],
+                      [
+                        "span",
+                        {
+                          "data-type": "text"
+                        },
+                        [
+                          "span",
+                          {
+                            "data-type": "leaf"
+                          },
+                          ""
+                        ]
+                      ]
+                    ],
+                    [
+                      "p",
+                      {
+                        "uuid": "md70lmlxfbavbadrkb4",
+                        "jc": "left"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "text"
+                        },
+                        [
+                          "span",
+                          {
+                            "data-type": "leaf"
+                          },
+                          ""
+                        ]
+                      ],
+                      [
+                        "a",
+                        {
+                          "href": "https://alidocs.dingtalk.com/i/nodes/QOG9lyrgJPPNL2rXInXBGdQgJzN67Mw4?doc_type=wiki_doc&utm_medium=dingdoc_doc_plugin_url&utm_source=dingdoc_doc",
+                          "metadata": {
+                            "extData": {
+                              "referenceId": "c5e2c427-6999-4e55-b27a-413af6202371",
+                              "dentryUuid": "QOG9lyrgJPPNL2rXInXBGdQgJzN67Mw4"
+                            }
+                          },
+                          "uuid": "md70nukxyx5e0nqf9qf"
+                        },
+                        [
+                          "span",
+                          {
+                            "data-type": "text"
+                          },
+                          [
+                            "span",
+                            {
+                              "data-type": "leaf"
+                            },
+                            "多目标优化>>>详情点击这里"
+                          ]
+                        ]
+                      ],
+                      [
+                        "span",
+                        {
+                          "data-type": "text"
+                        },
+                        [
+                          "span",
+                          {
+                            "data-type": "leaf"
+                          },
+                          ""
+                        ]
+                      ]
+                    ]
+                  ],
+                  [
+                    "tc",
+                    {
+                      "colSpan": 1,
+                      "rowSpan": 1,
+                      "vAlign": "top",
+                      "uuid": "m7cyqz2k2b6jsxna26g"
+                    },
+                    [
+                      "p",
+                      {
+                        "jc": "center",
+                        "uuid": "m7cyqz2kgmk0id6cbv"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "text"
+                        },
+                        [
+                          "span",
+                          {
+                            "data-type": "leaf"
+                          },
+                          ""
+                        ]
+                      ],
+                      [
+                        "img",
+                        {
+                          "extraData": {
+                            "metaData": {
+                              "format": "png",
+                              "originHeight": 251,
+                              "originWidth": 1709,
+                              "ratio": 1,
+                              "size": 86081
+                            },
+                            "resourceId": "3b4dabaf-e152-4826-99da-529862ecb64c"
+                          },
+                          "height": 45.82250972062529,
+                          "name": "image.png",
+                          "size": 86081,
+                          "src": "/core/api/resources/img/5eecdaf48460cde5129eedd7b1a69daf09528f3869ecb47658e70b814913bc360a414d3de9277d871abf3af1cbd752496d4782271613dff69eb65df2c61417507c8498f06e5e9300f3b4ae8d5466be51060f073866d97a4ffc653b69905bac42",
+                          "uuid": "me2ksp0dsxb8gsvcrhh",
+                          "width": 312,
+                          "radius": 8,
+                          "outline": {
+                            "width": 1,
+                            "type": "solid",
+                            "color": "var(--we_line_light_color, rgba(23, 26, 29, 0.08))"
+                          }
+                        },
+                        [
+                          "span",
+                          {
+                            "data-type": "text"
+                          },
+                          [
+                            "span",
+                            {
+                              "data-type": "leaf"
+                            },
+                            ""
+                          ]
+                        ]
+                      ],
+                      [
+                        "span",
+                        {
+                          "data-type": "text"
+                        },
+                        [
+                          "span",
+                          {
+                            "data-type": "leaf"
+                          },
+                          ""
+                        ]
+                      ]
+                    ],
+                    [
+                      "p",
+                      {
+                        "uuid": "md70jjrn6kbcacfv72i",
+                        "jc": "center"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "text"
+                        },
+                        [
+                          "span",
+                          {
+                            "data-type": "leaf"
+                          },
+                          ""
+                        ]
+                      ],
+                      [
+                        "img",
+                        {
+                          "uuid": "me2ksp0d2euibl53e9q",
+                          "name": "image.png",
+                          "size": 191498,
+                          "width": 312,
+                          "height": 187.6184304354897,
+                          "src": "/core/api/resources/img/5eecdaf48460cde5129eedd7b1a69daf09528f3869ecb47658e70b814913bc360a414d3de9277d871abf3af1cbd75249e5764d1816d052cefb8aa9aff1d9c1310ad84a9b8fc29430b62892347251cb289e29d25f325d97a5fc653b69905bac42",
+                          "extraData": {
+                            "resourceId": "8d415590-ca78-4ed5-a592-703a6a1a658b",
+                            "metaData": {
+                              "size": 191498,
+                              "originWidth": 1199,
+                              "originHeight": 721,
+                              "format": "png",
+                              "ratio": 1
+                            }
+                          },
+                          "radius": 8,
+                          "outline": {
+                            "width": 1,
+                            "type": "solid",
+                            "color": "var(--we_line_light_color, rgba(23, 26, 29, 0.08))"
+                          }
+                        },
+                        [
+                          "span",
+                          {
+                            "data-type": "text"
+                          },
+                          [
+                            "span",
+                            {
+                              "data-type": "leaf"
+                            },
+                            ""
+                          ]
+                        ]
+                      ],
+                      [
+                        "span",
+                        {
+                          "data-type": "text"
+                        },
+                        [
+                          "span",
+                          {
+                            "data-type": "leaf"
+                          },
+                          ""
+                        ]
+                      ]
+                    ]
+                  ]
+                ],
+                [
+                  "tr",
+                  {
+                    "uuid": "m7cyqz2kybcbac45bl"
+                  },
+                  [
+                    "tc",
+                    {
+                      "colSpan": 1,
+                      "rowSpan": 1,
+                      "vAlign": "top",
+                      "uuid": "m7cyqz2kc5zit23jy7j"
+                    },
+                    [
+                      "p",
+                      {
+                        "list": {
+                          "isChecked": false,
+                          "isOrdered": true,
+                          "isTaskList": false,
+                          "level": 0,
+                          "listId": "095tq6winx6a",
+                          "listStyle": {
+                            "align": "left",
+                            "format": "decimal",
+                            "text": "%1."
+                          },
+                          "start": 6
+                        },
+                        "uuid": "m7cyqz2k85ynon8mafo"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "text"
+                        },
+                        [
+                          "span",
+                          {
+                            "bold": true,
+                            "data-type": "leaf"
+                          },
+                          "营销雷达："
+                        ],
+                        [
+                          "span",
+                          {
+                            "data-type": "leaf"
+                          },
+                          "显示最新计划建议、能力提升和资讯动态"
+                        ]
+                      ]
+                    ]
+                  ],
+                  [
+                    "tc",
+                    {
+                      "colSpan": 1,
+                      "rowSpan": 1,
+                      "vAlign": "top",
+                      "uuid": "m7cyqz2khuwk87phdi"
+                    },
+                    [
+                      "p",
+                      {
+                        "jc": "center",
+                        "uuid": "m7cyqz2kad4fu0tscl7"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "text"
+                        },
+                        [
+                          "span",
+                          {
+                            "data-type": "leaf"
+                          },
+                          ""
+                        ]
+                      ],
+                      [
+                        "img",
+                        {
+                          "uuid": "me2ksp0dempnnh03s2e",
+                          "name": "image.png",
+                          "size": 104456,
+                          "width": 312,
+                          "height": 34.36875,
+                          "src": "/core/api/resources/img/5eecdaf48460cde5129eedd7b1a69daf09528f3869ecb47658e70b814913bc360a414d3de9277d871abf3af1cbd7524961cf1bfdcdee9f4c2ac5d70aed8e842f6d8094822dff2cc39b1274667140648da3bf8a5e65ec7bf6fc653b69905bac42",
+                          "extraData": {
+                            "resourceId": "f70e2b8a-a55e-40b7-b876-3c030e207c23",
+                            "metaData": {
+                              "size": 104456,
+                              "originWidth": 1787,
+                              "originHeight": 197,
+                              "format": "png",
+                              "ratio": 1
+                            }
+                          },
+                          "radius": 8,
+                          "outline": {
+                            "width": 1,
+                            "type": "solid",
+                            "color": "var(--we_line_light_color, rgba(23, 26, 29, 0.08))"
+                          }
+                        },
+                        [
+                          "span",
+                          {
+                            "data-type": "text"
+                          },
+                          [
+                            "span",
+                            {
+                              "data-type": "leaf"
+                            },
+                            ""
+                          ]
+                        ]
+                      ],
+                      [
+                        "span",
+                        {
+                          "data-type": "text"
+                        },
+                        [
+                          "span",
+                          {
+                            "data-type": "leaf"
+                          },
+                          ""
+                        ]
+                      ]
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "h2",
+                {
+                  "jc": "left",
+                  "spacing": {
+                    "before": 21.333333333333332,
+                    "after": 9,
+                    "line": 0.8529411764705882
+                  },
+                  "uuid": "m7cyqz2lbjdxeicdt59"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "text"
+                  },
+                  [
+                    "span",
+                    {
+                      "bold": true,
+                      "sz": 16,
+                      "szUnit": "pt",
+                      "color": "#3e3eff",
+                      "data-type": "leaf"
+                    },
+                    "三、数据解读​"
+                  ]
+                ]
+              ],
+              [
+                "table",
+                {
+                  "colsWidth": [
+                    527,
+                    455
+                  ],
+                  "uuid": "m71nmmaae9n1jqyxy4t",
+                  "tblW": {
+                    "type": "pct"
+                  }
+                },
+                [
+                  "tr",
+                  {
+                    "uuid": "m7cyqz2l84a6ml0ppc4"
+                  },
+                  [
+                    "tc",
+                    {
+                      "colSpan": 1,
+                      "rowSpan": 1,
+                      "vAlign": "top",
+                      "uuid": "me2kk396qjdzjtnytxc",
+                      "fill": "#F5F6F7"
+                    },
+                    [
+                      "p",
+                      {
+                        "jc": "center",
+                        "uuid": "me2kk39632ckqn67qag"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "text"
+                        },
+                        [
+                          "span",
+                          {
+                            "bold": true,
+                            "color": "#3e3eff",
+                            "data-type": "leaf"
+                          },
+                          "操作"
+                        ]
+                      ]
+                    ]
+                  ],
+                  [
+                    "tc",
+                    {
+                      "colSpan": 1,
+                      "rowSpan": 1,
+                      "vAlign": "top",
+                      "uuid": "me2kk397ezo85kba199",
+                      "fill": "#F5F6F7"
+                    },
+                    [
+                      "p",
+                      {
+                        "jc": "center",
+                        "uuid": "me2kk396nstlub1hev"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "text"
+                        },
+                        [
+                          "span",
+                          {
+                            "bold": true,
+                            "color": "#3e3eff",
+                            "data-type": "leaf"
+                          },
+                          "图示与说明"
+                        ]
+                      ]
+                    ]
+                  ]
+                ],
+                [
+                  "tr",
+                  {
+                    "uuid": "m7d17dtbtpa6ujgl48j"
+                  },
+                  [
+                    "tc",
+                    {
+                      "colSpan": 1,
+                      "rowSpan": 1,
+                      "vAlign": "top",
+                      "uuid": "m7d17dtbp13985agipp"
+                    },
+                    [
+                      "p",
+                      {
+                        "list": {
+                          "isChecked": false,
+                          "isOrdered": true,
+                          "isTaskList": false,
+                          "level": 0,
+                          "listId": "sr0jskqz3n",
+                          "listStyle": {
+                            "align": "left",
+                            "format": "decimal",
+                            "text": "%1."
+                          }
+                        },
+                        "uuid": "m7d17dtbdc7d30bmt1q"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "text"
+                        },
+                        [
+                          "span",
+                          {
+                            "bold": true,
+                            "color": "#000000",
+                            "data-type": "leaf"
+                          },
+                          "计划列表-详情："
+                        ],
+                        [
+                          "span",
+                          {
+                            "color": "#000000",
+                            "data-type": "leaf"
+                          },
+                          "选择分时数据；（如图 1）查看当日效果的实时表现；"
+                        ]
+                      ],
+                      [
+                        "br",
+                        {
+                          "uuid": "m7d17dtb8az5yfxmdyb",
+                          "type": "textWrapping"
+                        },
+                        [
+                          "span",
+                          {
+                            "data-type": "text"
+                          },
+                          [
+                            "span",
+                            {
+                              "data-type": "leaf"
+                            },
+                            ""
+                          ]
+                        ]
+                      ],
+                      [
+                        "span",
+                        {
+                          "data-type": "text"
+                        },
+                        [
+                          "span",
+                          {
+                            "data-type": "leaf"
+                          },
+                          ""
+                        ]
+                      ],
+                      [
+                        "br",
+                        {
+                          "uuid": "m7d17dtb37fdwrn2cng",
+                          "type": "textWrapping"
+                        },
+                        [
+                          "span",
+                          {
+                            "data-type": "text"
+                          },
+                          [
+                            "span",
+                            {
+                              "data-type": "leaf"
+                            },
+                            ""
+                          ]
+                        ]
+                      ],
+                      [
+                        "span",
+                        {
+                          "data-type": "text"
+                        },
+                        [
+                          "span",
+                          {
+                            "data-type": "leaf"
+                          },
+                          ""
+                        ]
+                      ],
+                      [
+                        "br",
+                        {
+                          "uuid": "m7d17dtb32zkh7sl5qu",
+                          "type": "textWrapping"
+                        },
+                        [
+                          "span",
+                          {
+                            "data-type": "text"
+                          },
+                          [
+                            "span",
+                            {
+                              "data-type": "leaf"
+                            },
+                            ""
+                          ]
+                        ]
+                      ],
+                      [
+                        "span",
+                        {
+                          "data-type": "text"
+                        },
+                        [
+                          "span",
+                          {
+                            "data-type": "leaf"
+                          },
+                          ""
+                        ]
+                      ]
+                    ],
+                    [
+                      "p",
+                      {
+                        "uuid": "m7y5hp12b1na04ffose"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "text"
+                        },
+                        [
+                          "span",
+                          {
+                            "data-type": "leaf"
+                          },
+                          ""
+                        ]
+                      ]
+                    ],
+                    [
+                      "p",
+                      {
+                        "uuid": "m7y5hql96a25f4nh4i"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "text"
+                        },
+                        [
+                          "span",
+                          {
+                            "data-type": "leaf"
+                          },
+                          ""
+                        ]
+                      ]
+                    ],
+                    [
+                      "p",
+                      {
+                        "uuid": "m7y5hqqtt8qv1g31gzc"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "text"
+                        },
+                        [
+                          "span",
+                          {
+                            "data-type": "leaf"
+                          },
+                          ""
+                        ]
+                      ]
+                    ],
+                    [
+                      "p",
+                      {
+                        "uuid": "m7y5hqvma6kl3orpcv"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "text"
+                        },
+                        [
+                          "span",
+                          {
+                            "data-type": "leaf"
+                          },
+                          ""
+                        ]
+                      ]
+                    ],
+                    [
+                      "p",
+                      {
+                        "uuid": "md710evrx5mfk2w3m5a"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "text"
+                        },
+                        [
+                          "span",
+                          {
+                            "data-type": "leaf"
+                          },
+                          ""
+                        ]
+                      ]
+                    ],
+                    [
+                      "p",
+                      {
+                        "uuid": "md710f0rtss0dikt59n"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "text"
+                        },
+                        [
+                          "span",
+                          {
+                            "data-type": "leaf"
+                          },
+                          ""
+                        ]
+                      ]
+                    ],
+                    [
+                      "p",
+                      {
+                        "uuid": "md710fkwoe8aj8z2jam"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "text"
+                        },
+                        [
+                          "span",
+                          {
+                            "data-type": "leaf"
+                          },
+                          ""
+                        ]
+                      ]
+                    ],
+                    [
+                      "p",
+                      {
+                        "uuid": "mdi7hs2w40mj8ik724b"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "text"
+                        },
+                        [
+                          "span",
+                          {
+                            "data-type": "leaf"
+                          },
+                          ""
+                        ]
+                      ],
+                      [
+                        "br",
+                        {
+                          "uuid": "m7d17dtbjvxz0y7dqi",
+                          "type": "textWrapping"
+                        },
+                        [
+                          "span",
+                          {
+                            "data-type": "text"
+                          },
+                          [
+                            "span",
+                            {
+                              "data-type": "leaf"
+                            },
+                            ""
+                          ]
+                        ]
+                      ],
+                      [
+                        "span",
+                        {
+                          "data-type": "text"
+                        },
+                        [
+                          "span",
+                          {
+                            "data-type": "leaf"
+                          },
+                          ""
+                        ]
+                      ]
+                    ],
+                    [
+                      "p",
+                      {
+                        "list": {
+                          "isChecked": false,
+                          "isOrdered": true,
+                          "isTaskList": false,
+                          "level": 0,
+                          "listId": "sr0jskqz3n",
+                          "listStyle": {
+                            "align": "left",
+                            "format": "decimal",
+                            "text": "%1."
+                          }
+                        },
+                        "uuid": "m7cyqz2ld0az7xs7mum"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "text"
+                        },
+                        [
+                          "span",
+                          {
+                            "bold": true,
+                            "color": "#000000",
+                            "data-type": "leaf"
+                          },
+                          "计划列表-点击报表："
+                        ],
+                        [
+                          "span",
+                          {
+                            "color": "#000000",
+                            "data-type": "leaf"
+                          },
+                          "点击设置，选择核心指标(如图 2)，查看当日效果的实时表现；"
+                        ]
+                      ]
+                    ]
+                  ],
+                  [
+                    "tc",
+                    {
+                      "colSpan": 1,
+                      "rowSpan": 1,
+                      "vAlign": "top",
+                      "uuid": "m7cyqz2l1d22lv1qtov"
+                    },
+                    [
+                      "p",
+                      {
+                        "jc": "center",
+                        "uuid": "m7cyqz2l62qm70pypyg"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "text"
+                        },
+                        [
+                          "span",
+                          {
+                            "data-type": "leaf"
+                          },
+                          ""
+                        ]
+                      ],
+                      [
+                        "img",
+                        {
+                          "uuid": "me2ksp0dmoeeq2z11jh",
+                          "name": "image.png",
+                          "size": 41680,
+                          "width": 299,
+                          "height": 91.53127938250279,
+                          "src": "/core/api/resources/img/5eecdaf48460cde5129eedd7b1a69daf09528f3869ecb47658e70b814913bc360a414d3de9277d871abf3af1cbd75249b89b675b76a6bd8753470c50f407bfbb1698a972b65fafd10f0b6d967b918d537cc687de04067bf3fc653b69905bac42",
+                          "extraData": {
+                            "resourceId": "fb6ca553-5eee-4eef-a8eb-688003bb6e65",
+                            "metaData": {
+                              "size": 41680,
+                              "originWidth": 686,
+                              "originHeight": 210,
+                              "format": "png",
+                              "ratio": 1
+                            }
+                          },
+                          "radius": 8,
+                          "outline": {
+                            "width": 1,
+                            "type": "solid",
+                            "color": "var(--we_line_light_color, rgba(23, 26, 29, 0.08))"
+                          }
+                        },
+                        [
+                          "span",
+                          {
+                            "data-type": "text"
+                          },
+                          [
+                            "span",
+                            {
+                              "data-type": "leaf"
+                            },
+                            ""
+                          ]
+                        ]
+                      ],
+                      [
+                        "span",
+                        {
+                          "data-type": "text"
+                        },
+                        [
+                          "span",
+                          {
+                            "data-type": "leaf"
+                          },
+                          ""
+                        ]
+                      ]
+                    ],
+                    [
+                      "p",
+                      {
+                        "uuid": "m7y5h960k9er8cjhh6j",
+                        "jc": "center"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "text"
+                        },
+                        [
+                          "span",
+                          {
+                            "data-type": "leaf"
+                          },
+                          ""
+                        ]
+                      ],
+                      [
+                        "img",
+                        {
+                          "uuid": "me2ksp0deeopik28pc8",
+                          "name": "image.png",
+                          "size": 266588,
+                          "width": 299,
+                          "height": 200.38115852401566,
+                          "src": "/core/api/resources/img/5eecdaf48460cde5129eedd7b1a69daf09528f3869ecb47658e70b814913bc360a414d3de9277d871abf3af1cbd752493da7227b14c072d90770b6c49944db13fd3e779d58913679db32a2fae36e251a3f30f8e67e0f466dfc653b69905bac42",
+                          "extraData": {
+                            "resourceId": "72c2e3ec-8783-42f6-b2df-f80d8753ae9d",
+                            "metaData": {
+                              "size": 266588,
+                              "originWidth": 1237,
+                              "originHeight": 829,
+                              "format": "png",
+                              "ratio": 1
+                            }
+                          },
+                          "radius": 8,
+                          "outline": {
+                            "width": 1,
+                            "type": "solid",
+                            "color": "var(--we_line_light_color, rgba(23, 26, 29, 0.08))"
+                          }
+                        },
+                        [
+                          "span",
+                          {
+                            "data-type": "text"
+                          },
+                          [
+                            "span",
+                            {
+                              "data-type": "leaf"
+                            },
+                            ""
+                          ]
+                        ]
+                      ],
+                      [
+                        "span",
+                        {
+                          "data-type": "text"
+                        },
+                        [
+                          "span",
+                          {
+                            "data-type": "leaf"
+                          },
+                          ""
+                        ]
+                      ]
+                    ],
+                    [
+                      "p",
+                      {
+                        "uuid": "mdi72xhsj8v0407s6",
+                        "jc": "center"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "text"
+                        },
+                        [
+                          "span",
+                          {
+                            "data-type": "leaf"
+                          },
+                          "图 1"
+                        ]
+                      ]
+                    ],
+                    [
+                      "p",
+                      {
+                        "uuid": "md7106lxgisdw03re9",
+                        "jc": "center"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "text"
+                        },
+                        [
+                          "span",
+                          {
+                            "data-type": "leaf"
+                          },
+                          ""
+                        ]
+                      ]
+                    ],
+                    [
+                      "p",
+                      {
+                        "jc": "center",
+                        "uuid": "m7y5gt5c0ge46mzrttds"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "text"
+                        },
+                        [
+                          "span",
+                          {
+                            "data-type": "leaf"
+                          },
+                          ""
+                        ]
+                      ],
+                      [
+                        "img",
+                        {
+                          "uuid": "me2ksp0di9g1v22x1lj",
+                          "name": "image.png",
+                          "size": 78702,
+                          "width": 299,
+                          "height": 40.178125,
+                          "src": "/core/api/resources/img/5eecdaf48460cde5129eedd7b1a69daf09528f3869ecb47658e70b814913bc360a414d3de9277d871abf3af1cbd75249d948426a2f6875cf0c7b47eec98d964ff74df9ee6702b412c3e6777452389fdc1af3e1884d1b093efc653b69905bac42",
+                          "extraData": {
+                            "resourceId": "5917f96f-d320-4436-b0a9-4c551e4e77c2",
+                            "metaData": {
+                              "size": 78702,
+                              "originWidth": 1616,
+                              "originHeight": 217,
+                              "format": "png",
+                              "ratio": 1
+                            }
+                          },
+                          "radius": 8,
+                          "outline": {
+                            "width": 1,
+                            "type": "solid",
+                            "color": "var(--we_line_light_color, rgba(23, 26, 29, 0.08))"
+                          }
+                        },
+                        [
+                          "span",
+                          {
+                            "data-type": "text"
+                          },
+                          [
+                            "span",
+                            {
+                              "data-type": "leaf"
+                            },
+                            ""
+                          ]
+                        ]
+                      ],
+                      [
+                        "span",
+                        {
+                          "data-type": "text"
+                        },
+                        [
+                          "span",
+                          {
+                            "data-type": "leaf"
+                          },
+                          ""
+                        ]
+                      ]
+                    ],
+                    [
+                      "p",
+                      {
+                        "jc": "center",
+                        "uuid": "md712570hlk3gqbaddc"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "text"
+                        },
+                        [
+                          "span",
+                          {
+                            "data-type": "leaf"
+                          },
+                          ""
+                        ]
+                      ],
+                      [
+                        "img",
+                        {
+                          "uuid": "me2ksp0dvouytztm6hf",
+                          "name": "image.png",
+                          "size": 453093,
+                          "width": 299,
+                          "height": 126.57090510570305,
+                          "src": "/core/api/resources/img/5eecdaf48460cde5129eedd7b1a69daf09528f3869ecb47658e70b814913bc360a414d3de9277d871abf3af1cbd75249f79f255c12b524d8c0b9b2ddaf82a650072dcd7b5bcb6bb9f3164803dfa5b333a9d15739ee00fc12fc653b69905bac42",
+                          "extraData": {
+                            "resourceId": "a1510aaf-e304-45f7-910c-5e332d51b01d",
+                            "metaData": {
+                              "size": 453093,
+                              "originWidth": 1793,
+                              "originHeight": 759,
+                              "format": "png",
+                              "ratio": 1
+                            }
+                          },
+                          "radius": 8,
+                          "outline": {
+                            "width": 1,
+                            "type": "solid",
+                            "color": "var(--we_line_light_color, rgba(23, 26, 29, 0.08))"
+                          }
+                        },
+                        [
+                          "span",
+                          {
+                            "data-type": "text"
+                          },
+                          [
+                            "span",
+                            {
+                              "data-type": "leaf"
+                            },
+                            ""
+                          ]
+                        ]
+                      ],
+                      [
+                        "span",
+                        {
+                          "data-type": "text"
+                        },
+                        [
+                          "span",
+                          {
+                            "data-type": "leaf"
+                          },
+                          ""
+                        ]
+                      ]
+                    ],
+                    [
+                      "p",
+                      {
+                        "jc": "center",
+                        "uuid": "mdi72uemy6et3jcd1q"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "text"
+                        },
+                        [
+                          "span",
+                          {
+                            "data-type": "leaf"
+                          },
+                          "图 2"
+                        ]
+                      ]
+                    ]
+                  ]
+                ],
+                [
+                  "tr",
+                  {
+                    "uuid": "m7cyqz2lfh0ewzdkr0c"
+                  },
+                  [
+                    "tc",
+                    {
+                      "colSpan": 1,
+                      "rowSpan": 1,
+                      "vAlign": "top",
+                      "uuid": "m7cyqz2l2231ds5j9xr"
+                    },
+                    [
+                      "p",
+                      {
+                        "list": {
+                          "isChecked": false,
+                          "isOrdered": true,
+                          "isTaskList": false,
+                          "level": 0,
+                          "listId": "41erihcxp34",
+                          "listStyle": {
+                            "align": "left",
+                            "format": "decimal",
+                            "text": "%1."
+                          },
+                          "start": 3
+                        },
+                        "uuid": "m7cyqz2l4gyrd5jljwf"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "text"
+                        },
+                        [
+                          "span",
+                          {
+                            "bold": true,
+                            "color": "#000000",
+                            "data-type": "leaf"
+                          },
+                          "「全站增长」模块："
+                        ],
+                        [
+                          "span",
+                          {
+                            "color": "#000000",
+                            "data-type": "leaf"
+                          },
+                          "点击报表-全站增长，呈现店铺宝贝投放货品全站推广前后数据情况；"
+                        ]
+                      ]
+                    ],
+                    [
+                      "p",
+                      {
+                        "uuid": "m7cyqz2llu4tsjnb2vf",
+                        "jc": "left"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "text"
+                        },
+                        [
+                          "span",
+                          {
+                            "data-type": "leaf"
+                          },
+                          ""
+                        ]
+                      ],
+                      [
+                        "a",
+                        {
+                          "href": "https://wxtwjbkj.yuque.com/wfndi7/kmeqln/bgfz0mgcgnq6i7mg",
+                          "uuid": "m7cyqz2lvm9x5oi4fcs"
+                        },
+                        [
+                          "span",
+                          {
+                            "data-type": "text"
+                          },
+                          [
+                            "span",
+                            {
+                              "data-type": "leaf"
+                            },
+                            " "
+                          ]
+                        ]
+                      ],
+                      [
+                        "span",
+                        {
+                          "data-type": "text"
+                        },
+                        [
+                          "span",
+                          {
+                            "data-type": "leaf"
+                          },
+                          ""
+                        ]
+                      ],
+                      [
+                        "a",
+                        {
+                          "href": "https://alidocs.dingtalk.com/i/nodes/Gl6Pm2Db8DMGQKRatEw9NP1AWxLq0Ee4?doc_type=wiki_doc",
+                          "metadata": {
+                            "extData": {
+                              "referenceId": "dc67e939-c875-4117-b2bc-0c707bef0e66",
+                              "dentryUuid": "Gl6Pm2Db8DMGQKRatEw9NP1AWxLq0Ee4"
+                            }
+                          },
+                          "uuid": "m7d0nfyp23zil4fd1tw"
+                        },
+                        [
+                          "span",
+                          {
+                            "data-type": "text"
+                          },
+                          [
+                            "span",
+                            {
+                              "data-type": "leaf"
+                            },
+                            ">>>详情点击这里"
+                          ]
+                        ]
+                      ],
+                      [
+                        "span",
+                        {
+                          "data-type": "text"
+                        },
+                        [
+                          "span",
+                          {
+                            "data-type": "leaf"
+                          },
+                          ""
+                        ]
+                      ]
+                    ]
+                  ],
+                  [
+                    "tc",
+                    {
+                      "colSpan": 1,
+                      "rowSpan": 1,
+                      "vAlign": "top",
+                      "uuid": "m7cyqz2l22egqwkuofu"
+                    },
+                    [
+                      "p",
+                      {
+                        "jc": "center",
+                        "uuid": "m7cyqz2lyl9i4256x9n"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "text"
+                        },
+                        [
+                          "span",
+                          {
+                            "data-type": "leaf"
+                          },
+                          ""
+                        ]
+                      ],
+                      [
+                        "img",
+                        {
+                          "uuid": "me2ksp0d0jgdwyuq4mp",
+                          "name": "image.png",
+                          "size": 240170,
+                          "width": 299,
+                          "height": 109.09459459459458,
+                          "src": "/core/api/resources/img/5eecdaf48460cde5129eedd7b1a69daf09528f3869ecb47658e70b814913bc360a414d3de9277d871abf3af1cbd75249dc7019a7a687f96f3f35638ab74fec7dc18e7c2271562622a3adfa07b7cd3498ad19986e30dd6a01fc653b69905bac42",
+                          "extraData": {
+                            "resourceId": "f4d58ba2-a22d-41e0-a82f-b1b6d1e31beb",
+                            "metaData": {
+                              "size": 240170,
+                              "originWidth": 1776,
+                              "originHeight": 648,
+                              "format": "png",
+                              "ratio": 1
+                            }
+                          },
+                          "radius": 8,
+                          "outline": {
+                            "width": 1,
+                            "type": "solid",
+                            "color": "var(--we_line_light_color, rgba(23, 26, 29, 0.08))"
+                          }
+                        },
+                        [
+                          "span",
+                          {
+                            "data-type": "text"
+                          },
+                          [
+                            "span",
+                            {
+                              "data-type": "leaf"
+                            },
+                            ""
+                          ]
+                        ]
+                      ],
+                      [
+                        "span",
+                        {
+                          "data-type": "text"
+                        },
+                        [
+                          "span",
+                          {
+                            "data-type": "leaf"
+                          },
+                          ""
+                        ]
+                      ]
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "container",
+                {
+                  "subType": "colorBlocks",
+                  "metadata": {
+                    "padding": {
+                      "top": 20,
+                      "right": 20,
+                      "bottom": 20,
+                      "left": 20
+                    },
+                    "borderRadius": 16,
+                    "bgcolor": "#F5F6F7",
+                    "showstk": false
+                  },
+                  "uuid": "mdo546o93enk9siec38"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mdo54and00os5whe3bvu"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "#DF2A3F",
+                        "data-type": "leaf"
+                      },
+                      "*开通商品货品全站推广期间，生意参谋中流量会单独展示，改版后的渠道"
+                    ],
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "italic": true,
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "#DF2A3F",
+                        "data-type": "leaf"
+                      },
+                      "「"
+                    ]
+                  ],
+                  [
+                    "a",
+                    {
+                      "href": "https://sycm-2014.yuque.com/org-wiki-sycm-2014-tvut7d/cpapps/os31oohwt126agtg",
+                      "uuid": "m7cyqz2lpxdi3yzkgur"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "bold": true,
+                          "data-type": "leaf"
+                        },
+                        "点击查看详情"
+                      ]
+                    ]
+                  ],
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "italic": true,
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "#DF2A3F",
+                        "data-type": "leaf"
+                      },
+                      "」"
+                    ],
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "#DF2A3F",
+                        "data-type": "leaf"
+                      },
+                      "，关于生意参谋流量升级，大家有任何问题或者建议，或者想提前开通体验，欢迎加入生意参谋官方沟通群。钉钉群号：62880015400"
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "uuid": "m7cyqz2loqw6opvw1zq"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      "如需查看期间店铺渠道来源数据，可至新版店铺来源（"
+                    ]
+                  ],
+                  [
+                    "a",
+                    {
+                      "href": "https://sycm.taobao.com/flow/monitor/shopsource/construction）",
+                      "uuid": "mdo54anggb9zh6gasgo"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "leaf"
+                        },
+                        "https://sycm.taobao.com/flow/monitor/shopsource/construction）"
+                      ]
+                    ]
+                  ],
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "uuid": "m7cyqz2lrsiwa9cg2u"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      "如需查看期间商品渠道来源数据，可至新版商品来源（"
+                    ]
+                  ],
+                  [
+                    "a",
+                    {
+                      "href": "https://sycm.taobao.com/flow/monitor/itemsource）",
+                      "uuid": "m7cyqz2lldqhi26hn9"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "leaf"
+                        },
+                        "https://sycm.taobao.com/flow/monitor/itemsource）"
+                      ]
+                    ]
+                  ],
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ]
+                ]
+              ]
+            ]
+          ]
+        ],
+        "footers": {},
+        "version": 1
+      },
+      "refs": {}
+    }
+  }
+}

@@ -1,0 +1,3240 @@
+{
+  "version": 1,
+  "type": "application/x-alidocs-package",
+  "main": "00000000-0000-0000-0000-000000000001",
+  "plugins": "00000000-0000-0000-0000-000000000002",
+  "parts": {
+    "00000000-0000-0000-0000-000000000001": {
+      "id": "00000000-0000-0000-0000-000000000001",
+      "type": "application/x-alidocs-word",
+      "version": 1,
+      "data": {
+        "style": {
+          "docDefaults": {
+            "type": "paragraph",
+            "default": 1,
+            "name": "dingdocnormal",
+            "data": {
+              "rPr": {
+                "sz": 12,
+                "szUnit": "pt"
+              },
+              "pPr": {
+                "spacing": {
+                  "before": 8,
+                  "after": 8
+                }
+              }
+            }
+          }
+        },
+        "theme": [],
+        "settings": {
+          "titleCover": {
+            "isHide": true
+          }
+        },
+        "app": {},
+        "numberings": {},
+        "headers": {},
+        "body": [
+          "root",
+          {
+            "sectPr": {
+              "pgSz": {
+                "w": 1127,
+                "h": 1588
+              },
+              "pgMar": {
+                "header": 56.73,
+                "footer": 66.13,
+                "top": 48,
+                "bottom": 48,
+                "left": 72,
+                "right": 72,
+                "gutter": 0
+              }
+            },
+            "theme": {
+              "table": {
+                "tableCell": {
+                  "vAlign": "top"
+                }
+              }
+            },
+            "uuid": "mb6bh3j7s9dac308nk"
+          },
+          [
+            "h1",
+            {
+              "uuid": "mr3ai711w0a8cd8xfjb",
+              "spacing": {
+                "before": 26.666666666666664,
+                "after": 9,
+                "line": 0.8529411764705882
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 20,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "7月份升级内容"
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "italic": true,
+                  "sz": 28,
+                  "szUnit": "pt",
+                  "color": "linear-gradient(90deg, #FF7100 0%, #F300AD 100%)",
+                  "vertAlign": "superscript",
+                  "data-type": "leaf"
+                },
+                "内测中"
+              ]
+            ]
+          ],
+          [
+            "h3",
+            {
+              "uuid": "mr3alt8b1dxe0uou3vn",
+              "spacing": {
+                "before": 24,
+                "after": 8.666666666666666,
+                "line": 0.9333333333333332
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 14.5,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "1、内测商家群"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mr3alt8c0bbsy55mxlgt",
+              "ind": {
+                "left": 0
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "104005081385"
+              ]
+            ]
+          ],
+          [
+            "h3",
+            {
+              "uuid": "mr3alt8cxbwwygnqywl",
+              "spacing": {
+                "before": 24,
+                "after": 8.666666666666666,
+                "line": 0.9333333333333332
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 14.5,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "2、功能入口"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mr4eh771p46knut8t4a",
+              "ind": {
+                "left": 0
+              },
+              "list": {
+                "listId": "lunhrjepas",
+                "level": 0,
+                "isTaskList": false,
+                "isOrdered": false,
+                "listStyleType": "SCIR_ECIR_SREC",
+                "symbolStyle": {
+                  "sz": 12
+                },
+                "listStyle": {
+                  "format": "bullet",
+                  "text": "●",
+                  "align": "left"
+                }
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "功能入口：万相台AI无界→洞察→关键词洞察→趋势速递"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mr4eh771lay99umjj7q",
+              "ind": {
+                "left": 0
+              },
+              "list": {
+                "listId": "lunhrjepas",
+                "level": 0,
+                "isTaskList": false,
+                "isOrdered": false,
+                "listStyleType": "SCIR_ECIR_SREC",
+                "symbolStyle": {
+                  "sz": 12
+                },
+                "listStyle": {
+                  "format": "bullet",
+                  "text": "●",
+                  "align": "left"
+                },
+                "extraData": {},
+                "isChecked": false,
+                "hideSymbol": false
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "直达链接："
+              ]
+            ],
+            [
+              "a",
+              {
+                "href": "https://one.alimama.com/index.html#!/insight/search/trend-theme/index?tab=member_item_search",
+                "uuid": "mr4eh771amjbu3mt1c9"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  "https://one.alimama.com/index.html#!/insight/search/trend-theme/index?tab=member_item_search"
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "h3",
+            {
+              "uuid": "mr4eggf1xcba9pwwj8",
+              "spacing": {
+                "before": 24,
+                "after": 8.666666666666666,
+                "line": 0.9333333333333332
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 14.5,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "3、升级亮点"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mr3akka3490wt56tl18",
+              "ind": {
+                "left": 0
+              },
+              "spacing": {},
+              "list": {
+                "listId": "87p6by9sfwb",
+                "level": 0,
+                "isTaskList": false,
+                "isOrdered": false,
+                "listStyleType": "SCIR_ECIR_SREC",
+                "symbolStyle": {
+                  "bold": true,
+                  "color": "linear-gradient(90deg, #FF7100 0%, #F300AD 100%)"
+                },
+                "listStyle": {
+                  "format": "bullet",
+                  "text": "●",
+                  "align": "left"
+                }
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "color": "linear-gradient(90deg, #FF7100 0%, #F300AD 100%)",
+                  "bold": true,
+                  "data-type": "leaf"
+                },
+                "（1）趋势金卡：动态识别与宝贝相关的趋势流量，抢先布局新消费商机，提升成交规模"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mr4kkm4jqd183spqr9j",
+              "ind": {
+                "left": 0
+              },
+              "list": {
+                "listId": "87p6by9sfwb",
+                "level": 1,
+                "isTaskList": false,
+                "isOrdered": false,
+                "listStyleType": "SCIR_ECIR_SREC",
+                "symbolStyle": {},
+                "listStyle": {
+                  "format": "bullet",
+                  "text": "○",
+                  "align": "left"
+                },
+                "extraData": {},
+                "isChecked": false,
+                "hideSymbol": false
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "操作路径：点击趋势解读中的「低成本抢热点」，新建『关键词推广-流量金卡』计划"
+              ]
+            ]
+          ],
+          [
+            "table",
+            {
+              "colsWidth": [
+                325,
+                325
+              ],
+              "sr": true,
+              "uuid": "mr4izhtuk4d901wcho9",
+              "ind": {
+                "left": 32
+              }
+            },
+            [
+              "tr",
+              {
+                "uuid": "mr4izhtuk4hz6isurc"
+              },
+              [
+                "tc",
+                {
+                  "fill": "rgba(129, 169, 250, 0.12)",
+                  "vAlign": "top",
+                  "uuid": "mr4izhtu4ssx0xjo3mn"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mr4j0pd0my7bkrm5xha",
+                    "jc": "center"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "入口"
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "uuid": "mr4j2drdg701l1ca0lh"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ],
+                  [
+                    "img",
+                    {
+                      "uuid": "eqhnwn",
+                      "name": "image.png",
+                      "size": 2583745,
+                      "width": 445,
+                      "height": 194.8971898560658,
+                      "src": "/core/api/resources/img/5eecdaf48460cde5843d8cbee2ae2b5f00922d5ced5e02eb75b8339e1c4c24831b75b38faadcd24bec177c308ebd5304d157ec4376c28b5a40b4c2068a76fd8131abce70dfe68a1097608e3d3be59b98c067de6ae2a47bd94fb4c8ed7016461c",
+                      "extraData": {
+                        "resourceId": "d62bc251-15f8-4212-8aa1-1a571c0c2fd4",
+                        "metaData": {
+                          "size": 2583745,
+                          "originWidth": 2918,
+                          "originHeight": 1278,
+                          "format": "png",
+                          "ratio": 1
+                        }
+                      }
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "leaf"
+                        },
+                        ""
+                      ]
+                    ]
+                  ],
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "fill": "rgba(181, 146, 253, 0.1)",
+                  "vAlign": "top",
+                  "uuid": "mr4izhtue11jmtbpbup"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mr4izhtui2l0zacey8",
+                    "jc": "center"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "计划创建页面"
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "uuid": "mr4j2bcaezyfv6mfrck"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ],
+                  [
+                    "img",
+                    {
+                      "extraData": {
+                        "metaData": {
+                          "format": "png",
+                          "originHeight": 1650,
+                          "originWidth": 2938,
+                          "ratio": 1,
+                          "size": 2449514
+                        },
+                        "resourceId": "a3e65759-f3f2-4185-b7f9-853166cd5c26"
+                      },
+                      "height": 307,
+                      "name": "image.png",
+                      "rotation": 0,
+                      "size": 2449514,
+                      "src": "/core/api/resources/img/5eecdaf48460cde5843d8cbee2ae2b5f00922d5ced5e02eb75b8339e1c4c24831b75b38faadcd24bec177c308ebd53049fd1a9332f227d2abb7e48084fc92e3eec248098168f176315285adbdaf57fdcba77c967264f1f1b4fb4c8ed7016461c",
+                      "uuid": "cpchrd",
+                      "width": 546
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "leaf"
+                        },
+                        ""
+                      ]
+                    ]
+                  ],
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ]
+                ]
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mr4ewj672j3m1e6oncy",
+              "ind": {
+                "left": 0
+              },
+              "list": {
+                "listId": "p6350e18c8",
+                "level": 0,
+                "isTaskList": false,
+                "isOrdered": false,
+                "listStyleType": "SCIR_ECIR_SREC",
+                "symbolStyle": {
+                  "color": "linear-gradient(90deg, #FF7100 0%, #F300AD 100%)",
+                  "bold": true
+                },
+                "listStyle": {
+                  "format": "bullet",
+                  "text": "●",
+                  "align": "left"
+                }
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "color": "linear-gradient(90deg, #FF7100 0%, #F300AD 100%)",
+                  "data-type": "leaf"
+                },
+                "（2）趋势人群套餐包：精准识别对趋势热点敏感、消费意愿更强的意图人群，提升新客覆盖"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mr4km6ujt6diqprwk8r",
+              "ind": {
+                "left": 0
+              },
+              "list": {
+                "listId": "p6350e18c8",
+                "level": 1,
+                "isTaskList": false,
+                "isOrdered": false,
+                "listStyleType": "SCIR_ECIR_SREC",
+                "symbolStyle": {
+                  "color": "",
+                  "bold": false
+                },
+                "listStyle": {
+                  "format": "bullet",
+                  "text": "○",
+                  "align": "left"
+                },
+                "extraData": {},
+                "isChecked": false,
+                "hideSymbol": false
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "color": "",
+                  "data-type": "leaf"
+                },
+                "操作路径：点击趋势解读中的「提升热点消费者覆盖」，新建『人群推广-人群超市』计划"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mr4j3ykphnj4ursly5n",
+              "ind": {
+                "left": 0
+              },
+              "list": {
+                "listId": "p6350e18c8",
+                "level": 1,
+                "isTaskList": false,
+                "isOrdered": false,
+                "listStyleType": "SCIR_ECIR_SREC",
+                "symbolStyle": {
+                  "color": "",
+                  "bold": false
+                },
+                "listStyle": {
+                  "format": "bullet",
+                  "text": "○",
+                  "align": "left"
+                },
+                "extraData": {},
+                "isChecked": false,
+                "hideSymbol": false
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "color": "",
+                  "data-type": "leaf"
+                },
+                "注意："
+              ],
+              [
+                "span",
+                {
+                  "color": "linear-gradient(90deg, #FF7100 0%, #F300AD 100%)",
+                  "data-type": "leaf"
+                },
+                "未覆盖所有趋势，仅部分趋势，可新建趋势速递人群套餐包。"
+              ]
+            ]
+          ],
+          [
+            "table",
+            {
+              "colsWidth": [
+                325,
+                325
+              ],
+              "sr": true,
+              "uuid": "mr4j4d7petg4afno5fc",
+              "ind": {
+                "left": 32
+              }
+            },
+            [
+              "tr",
+              {
+                "uuid": "mr4j4d7pp57nylee2el"
+              },
+              [
+                "tc",
+                {
+                  "fill": "rgba(129, 169, 250, 0.12)",
+                  "vAlign": "top",
+                  "uuid": "mr4j4d7pzhl7rbe27mo",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mr4j4d7puwbhzbfrfxf",
+                    "jc": "center"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "color": "",
+                        "data-type": "leaf"
+                      },
+                      "操作入口"
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "uuid": "mr4j4d7paykrh9l6hgp",
+                    "jc": "center"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "color": "",
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ],
+                  [
+                    "img",
+                    {
+                      "uuid": "mr4j4d7njgbemsuwme",
+                      "name": "image.png",
+                      "size": 2887312,
+                      "width": 506,
+                      "height": 255,
+                      "src": "/core/api/resources/img/5eecdaf48460cde5843d8cbee2ae2b5f00922d5ced5e02eb75b8339e1c4c24831b75b38faadcd24bec177c308ebd53048bfa6ea00870fddf135983f2fdd809b1406fcbe4715e1d72efcd596f51a8d84f9320c286ad656a194fb4c8ed7016461c",
+                      "extraData": {
+                        "resourceId": "654410ba-0f84-415b-aaba-6b99723604ea",
+                        "metaData": {
+                          "size": 2887312,
+                          "originWidth": 2928,
+                          "originHeight": 1474,
+                          "format": "png",
+                          "ratio": 1
+                        }
+                      },
+                      "rotation": 0
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "leaf"
+                        },
+                        ""
+                      ]
+                    ]
+                  ],
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "color": "",
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "fill": "rgba(181, 146, 253, 0.1)",
+                  "vAlign": "top",
+                  "uuid": "mr4j4d7pn0b67emvxh",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mr4j4d7pcwx9206vyx5",
+                    "jc": "center"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "计划创建页面"
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "uuid": "mr4j4d7psk85g3mfnwg",
+                    "jc": "center"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "color": "",
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ],
+                  [
+                    "img",
+                    {
+                      "uuid": "mr4j4d7n170dkwxq55b",
+                      "name": "image.png",
+                      "size": 2365302,
+                      "width": 554,
+                      "height": 313,
+                      "src": "/core/api/resources/img/5eecdaf48460cde5843d8cbee2ae2b5f00922d5ced5e02eb75b8339e1c4c24831b75b38faadcd24bec177c308ebd53043426f6d1c9f4236b5b3fd01d8510ffeeb047a05d465d793f88e9d6519de9da30d300a2af74030cab4fb4c8ed7016461c",
+                      "extraData": {
+                        "resourceId": "2e369736-f13b-4dea-9ee4-f6c42eac1ccd",
+                        "metaData": {
+                          "size": 2365302,
+                          "originWidth": 2938,
+                          "originHeight": 1660,
+                          "format": "png",
+                          "ratio": 1
+                        }
+                      },
+                      "rotation": 0
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "leaf"
+                        },
+                        ""
+                      ]
+                    ]
+                  ],
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "color": "",
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ]
+                ]
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mr4j5rxrksuc41s978",
+              "ind": {
+                "left": 0
+              },
+              "list": {
+                "listId": "q54krrsasxb",
+                "level": 0,
+                "isTaskList": false,
+                "isOrdered": false,
+                "listStyleType": "SCIR_ECIR_SREC",
+                "symbolStyle": {
+                  "color": "linear-gradient(90deg, #FF7100 0%, #F300AD 100%)",
+                  "bold": true
+                },
+                "listStyle": {
+                  "format": "bullet",
+                  "text": "●",
+                  "align": "left"
+                },
+                "extraData": {},
+                "isChecked": false,
+                "hideSymbol": false
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "color": "linear-gradient(90deg, #FF7100 0%, #F300AD 100%)",
+                  "data-type": "leaf"
+                },
+                "（3）可投放趋势热点数量『从1个提升至6个』 ，提升趋势拿量能力"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mnwv9lvw4vwy8k2r69g",
+              "ind": {
+                "left": 0
+              },
+              "list": {
+                "listId": "q54krrsasxb",
+                "level": 1,
+                "isTaskList": false,
+                "isOrdered": false,
+                "listStyleType": "SCIR_ECIR_SREC",
+                "symbolStyle": {},
+                "listStyle": {
+                  "format": "bullet",
+                  "text": "○",
+                  "align": "left"
+                },
+                "extraData": {},
+                "isChecked": false,
+                "hideSymbol": false
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "操作路径：点击投放按钮→点击「智能投放趋势热点」选择多个趋势热点→立即下单"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mnwvdp53k1j06qc5z3",
+              "ind": {
+                "left": 32
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ],
+            [
+              "img",
+              {
+                "uuid": "mr4j5rxop6377ihhvar",
+                "name": "image.png",
+                "size": 2647902,
+                "width": 1014,
+                "height": 573,
+                "src": "/core/api/resources/img/5eecdaf48460cde5843d8cbee2ae2b5f00922d5ced5e02eb75b8339e1c4c24831b75b38faadcd24bec177c308ebd530493f62d05f114ac3994a597318abfa66a6c5cb6af48089b9b0d4562e3fb595b84488b2c60a350787f4fb4c8ed7016461c",
+                "extraData": {
+                  "resourceId": "8b8a70e6-211b-4e01-8cc6-18f3b972bec6",
+                  "metaData": {
+                    "size": 2647902,
+                    "originWidth": 2934,
+                    "originHeight": 1658,
+                    "format": "png",
+                    "ratio": 1
+                  }
+                },
+                "rotation": 0
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mr4j6owwn0hk86akwa",
+              "ind": {
+                "left": 0
+              },
+              "list": {
+                "listId": "0jutgxd7ewdv",
+                "level": 0,
+                "isTaskList": false,
+                "isOrdered": false,
+                "listStyleType": "SCIR_ECIR_SREC",
+                "symbolStyle": {
+                  "color": "linear-gradient(90deg, #FF7100 0%, #F300AD 100%)",
+                  "bold": true
+                },
+                "listStyle": {
+                  "format": "bullet",
+                  "text": "●",
+                  "align": "left"
+                },
+                "extraData": {},
+                "isChecked": false,
+                "hideSymbol": false
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "color": "linear-gradient(90deg, #FF7100 0%, #F300AD 100%)",
+                  "data-type": "leaf"
+                },
+                "（4）新增「机会品类」解读能力，并基于不同的品类，个性化推荐热点词和店铺宝贝。"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mr4j6p5f65t1u07tjof",
+              "ind": {
+                "left": 0
+              },
+              "list": {
+                "listId": "0jutgxd7ewdv",
+                "level": 1,
+                "isTaskList": false,
+                "isOrdered": false,
+                "listStyleType": "SCIR_ECIR_SREC",
+                "symbolStyle": {},
+                "listStyle": {
+                  "format": "bullet",
+                  "text": "○",
+                  "align": "left"
+                },
+                "extraData": {},
+                "isChecked": false,
+                "hideSymbol": false
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "聚焦热点话题与用户真实讨论，为商家深度解读消费新趋势、品类新机会，精准捕捉全网消费商机"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mr4j6p5gtru9qkmuyyk",
+              "ind": {
+                "left": 32
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ],
+            [
+              "img",
+              {
+                "uuid": "4cy8vi",
+                "name": "image.png",
+                "size": 2441408,
+                "width": 950,
+                "height": 543.324156916724,
+                "src": "/core/api/resources/img/5eecdaf48460cde5843d8cbee2ae2b5f00922d5ced5e02eb75b8339e1c4c24831b75b38faadcd24bec177c308ebd5304227c15858268d0b3a1a02e4be20673b02d68b2e7e543c229517709e906963a0701f329a16a4f556c4fb4c8ed7016461c",
+                "extraData": {
+                  "resourceId": "312cbb3e-c6bb-4231-97f1-060e472e0440",
+                  "metaData": {
+                    "size": 2441408,
+                    "originWidth": 2906,
+                    "originHeight": 1662,
+                    "format": "png",
+                    "ratio": 1
+                  }
+                }
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mr4ja0b0k3fvvenno6g"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "hr",
+            {
+              "width": "100%",
+              "id": "hrznyo",
+              "uuid": "mmokub78plvcnjmsku9"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "h1",
+            {
+              "uuid": "mmvgkaifxbyouuqwd7e",
+              "spacing": {
+                "before": 32,
+                "after": 12,
+                "line": 0.9333333333333332
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 21,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "历史版本："
+              ]
+            ]
+          ],
+          [
+            "h1",
+            {
+              "uuid": "m0m4tzkumk31ytlevz8",
+              "spacing": {
+                "before": 26.666666666666664,
+                "after": 9,
+                "line": 0.8529411764705882
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 20,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "一、什么是"
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 20,
+                  "szUnit": "pt",
+                  "color": "",
+                  "data-type": "leaf"
+                },
+                "「趋势速递」？"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mkc2801ty1nlshc1t8s"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "fonts": {
+                    "ascii": "Microsoft YaHei",
+                    "cs": "Microsoft YaHei",
+                    "eastAsia": "Microsoft YaHei",
+                    "hAnsi": "Microsoft YaHei"
+                  },
+                  "sz": 11,
+                  "szUnit": "pt",
+                  "color": "",
+                  "data-type": "leaf"
+                },
+                "当前情绪消费、为兴趣买单成为驱动消费需求的新增长点，也是商家营销的必争之地。趋势速递为商家带来了"
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "fonts": {
+                    "ascii": "Microsoft YaHei",
+                    "cs": "Microsoft YaHei",
+                    "eastAsia": "Microsoft YaHei",
+                    "hAnsi": "Microsoft YaHei"
+                  },
+                  "sz": 11,
+                  "szUnit": "pt",
+                  "color": "",
+                  "data-type": "leaf"
+                },
+                "更全面的热点分析能力、更强的投放功能 以及 更精准的决策支持"
+              ],
+              [
+                "span",
+                {
+                  "fonts": {
+                    "ascii": "Microsoft YaHei",
+                    "cs": "Microsoft YaHei",
+                    "eastAsia": "Microsoft YaHei",
+                    "hAnsi": "Microsoft YaHei"
+                  },
+                  "sz": 11,
+                  "szUnit": "pt",
+                  "color": "",
+                  "data-type": "leaf"
+                },
+                "，旨在帮助商家快速把握热点趋势，优化投放策略，提升营销效率。"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "m839bzw23t44yy8hjd7"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "fonts": {
+                    "ascii": "Microsoft YaHei",
+                    "hAnsi": "Microsoft YaHei",
+                    "cs": "Microsoft YaHei",
+                    "eastAsia": "Microsoft YaHei"
+                  },
+                  "sz": 11,
+                  "szUnit": "pt",
+                  "color": "linear-gradient(90deg, #FF7100 0%, #F300AD 100%)",
+                  "data-type": "leaf"
+                },
+                "「趋势速递」是阿里妈妈万相台无界版全新上线的一款热点营销工具。"
+              ],
+              [
+                "span",
+                {
+                  "fonts": {
+                    "ascii": "Microsoft YaHei",
+                    "hAnsi": "Microsoft YaHei",
+                    "cs": "Microsoft YaHei",
+                    "eastAsia": "Microsoft YaHei"
+                  },
+                  "sz": 11,
+                  "szUnit": "pt",
+                  "color": "",
+                  "data-type": "leaf"
+                },
+                "通过捕捉全网热点并进行算法深度解析，筛选出最具电商营销价值的热点主题，助力商家追上“热流量”、蹭上“热”增长。"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mb7dk1hswfu5rc37byl"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "fonts": {
+                    "ascii": "Microsoft YaHei",
+                    "hAnsi": "Microsoft YaHei",
+                    "cs": "Microsoft YaHei",
+                    "eastAsia": "Microsoft YaHei"
+                  },
+                  "sz": 11,
+                  "szUnit": "pt",
+                  "color": "",
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ],
+            [
+              "img",
+              {
+                "uuid": "t1ppsi",
+                "name": "demo.png",
+                "size": 387045,
+                "width": 748,
+                "height": 230.88869240593374,
+                "src": "/core/api/resources/img/5eecdaf48460cde5843d8cbee2ae2b5f00922d5ced5e02eb75b8339e1c4c24831b75b38faadcd24bec177c308ebd530489a7bea73ca9c7f94b356f3600d401f8366347d75b8da7f48da8ffb9396c451247053ee06eca61754fb4c8ed7016461c",
+                "extraData": {
+                  "resourceId": "2f85fb0a-882a-47b2-82f7-d0d90a093436",
+                  "metaData": {
+                    "size": 387045,
+                    "originWidth": 1649,
+                    "originHeight": 509,
+                    "format": "png",
+                    "ratio": 1
+                  }
+                }
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "fonts": {
+                    "ascii": "Microsoft YaHei",
+                    "cs": "Microsoft YaHei",
+                    "eastAsia": "Microsoft YaHei",
+                    "hAnsi": "Microsoft YaHei"
+                  },
+                  "sz": 11,
+                  "szUnit": "pt",
+                  "color": "",
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "h1",
+            {
+              "uuid": "m0m4u6h8c8jazvm3444",
+              "ind": {
+                "left": 0
+              },
+              "spacing": {
+                "before": 26.666666666666664,
+                "after": 9,
+                "line": 0.8529411764705882
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 20,
+                  "szUnit": "pt",
+                  "color": "",
+                  "data-type": "leaf"
+                },
+                "二、如何"
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 20,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "使用"
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 20,
+                  "szUnit": "pt",
+                  "color": "",
+                  "data-type": "leaf"
+                },
+                "？"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "m82w1pae4meg3x31ti8",
+              "ind": {
+                "left": 0
+              },
+              "list": {
+                "listId": "60qjgv78ncf",
+                "level": 0,
+                "isTaskList": false,
+                "isOrdered": false,
+                "listStyleType": "SCIR_ECIR_SREC",
+                "symbolStyle": {
+                  "bold": true,
+                  "sz": 12,
+                  "color": "linear-gradient(90deg, #2449FE 0%, #CA4BA7 100%)",
+                  "italic": false
+                },
+                "listStyle": {
+                  "format": "bullet",
+                  "text": "●",
+                  "align": "left"
+                }
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "linear-gradient(90deg, #2449FE 0%, #CA4BA7 100%)",
+                  "data-type": "leaf"
+                },
+                "step 1：进入「趋势速递」页面"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "m82w6xorx8lb90gfqea",
+              "ind": {
+                "left": 0
+              },
+              "list": {
+                "listId": "60qjgv78ncf",
+                "level": 1,
+                "isTaskList": false,
+                "isOrdered": false,
+                "listStyleType": "SCIR_ECIR_SREC",
+                "symbolStyle": {
+                  "sz": 12
+                },
+                "listStyle": {
+                  "format": "bullet",
+                  "text": "○",
+                  "align": "left"
+                }
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "功能入口：万相台AI无界→洞察→关键词洞察→趋势速递"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mkc7ky344hw5yhgt1jn",
+              "ind": {
+                "left": 0
+              },
+              "list": {
+                "listId": "60qjgv78ncf",
+                "level": 1,
+                "isTaskList": false,
+                "isOrdered": false,
+                "listStyleType": "SCIR_ECIR_SREC",
+                "symbolStyle": {
+                  "sz": 12
+                },
+                "listStyle": {
+                  "format": "bullet",
+                  "text": "○",
+                  "align": "left"
+                },
+                "extraData": {},
+                "isChecked": false,
+                "hideSymbol": false
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "直达链接："
+              ]
+            ],
+            [
+              "a",
+              {
+                "href": "https://one.alimama.com/index.html#!/insight/search/trend-theme/index?tab=member_item_search",
+                "uuid": "mkc2bb26hrlqz4783gw"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  "https://one.alimama.com/index.html#!/insight/search/trend-theme/index?tab=member_item_search"
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mkc7qm03dh16nj8ajit",
+              "ind": {
+                "left": 32
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ],
+            [
+              "img",
+              {
+                "uuid": "mkc7qnj5e47xg75ffxl",
+                "name": "image.png",
+                "size": 3217526,
+                "width": 351,
+                "height": 183,
+                "src": "/core/api/resources/img/5eecdaf48460cde5843d8cbee2ae2b5f00922d5ced5e02eb75b8339e1c4c24831b75b38faadcd24bec177c308ebd53047e487ff345f1f58f259ee177f3627afb5ac6a55d113ed7ad8707d460e949a41abf74a3dddc36bf1d4fb4c8ed7016461c",
+                "extraData": {
+                  "resourceId": "cc77ffbc-90d1-450d-912f-6e9eb0dcf6ec",
+                  "metaData": {
+                    "size": 3217526,
+                    "originWidth": 2936,
+                    "originHeight": 1532,
+                    "format": "png",
+                    "ratio": 1
+                  }
+                },
+                "rotation": 0
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "m82w69qlsdssdfwuhp",
+              "ind": {
+                "left": 0
+              },
+              "list": {
+                "listId": "60qjgv78ncf",
+                "level": 0,
+                "isTaskList": false,
+                "isOrdered": false,
+                "listStyleType": "SCIR_ECIR_SREC",
+                "symbolStyle": {
+                  "bold": true,
+                  "sz": 12,
+                  "color": "linear-gradient(90deg, #2449FE 0%, #CA4BA7 100%)"
+                },
+                "listStyle": {
+                  "format": "bullet",
+                  "text": "●",
+                  "align": "left"
+                }
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "linear-gradient(90deg, #2449FE 0%, #CA4BA7 100%)",
+                  "data-type": "leaf"
+                },
+                "step 2：选择热点"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mkc7qb6xv09lqwes2cn",
+              "ind": {
+                "left": 0
+              },
+              "list": {
+                "listId": "60qjgv78ncf",
+                "level": 1,
+                "isTaskList": false,
+                "isOrdered": false,
+                "listStyleType": "SCIR_ECIR_SREC",
+                "symbolStyle": {
+                  "bold": true,
+                  "sz": 12,
+                  "color": "linear-gradient(90deg, #2449FE 0%, #CA4BA7 100%)"
+                },
+                "listStyle": {
+                  "format": "bullet",
+                  "text": "○",
+                  "align": "left"
+                },
+                "extraData": {},
+                "isChecked": false,
+                "hideSymbol": false
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "趋势速递共包括3个榜单，分别是：根据店铺商品推荐趋势、社交媒体热帖、周期趋势早知道，简介如下："
+              ]
+            ]
+          ],
+          [
+            "table",
+            {
+              "colsWidth": [
+                217,
+                217,
+                217
+              ],
+              "sr": true,
+              "uuid": "mkc2hgooc1kf1rs19nf",
+              "ind": {
+                "left": 32
+              }
+            },
+            [
+              "tr",
+              {
+                "uuid": "mkc7q8ivperp52m1wj"
+              },
+              [
+                "tc",
+                {
+                  "fill": "rgba(129, 169, 250, 0.12)",
+                  "vAlign": "top",
+                  "uuid": "mkc7q8ivkwcngbnlqng",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mkc7q8iv8lgc5y7wob"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "data-type": "leaf"
+                      },
+                      "根据店铺商品推荐趋势"
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "uuid": "mkc7q8iv0pg1mjouty4"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "uuid": "mkc7q8iv2npoc8vksyj"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "支持更多视角的找趋势思路，包括不限于本店宝贝、竞店宝贝、类目、商家名称，蓝海流量一网打尽！"
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "uuid": "mkc7q8iv4hfcd8cym8w"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "fill": "rgba(181, 146, 253, 0.1)",
+                  "vAlign": "top",
+                  "uuid": "mkc7q8ivagiczg06mg8",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mkc7q8ivnssdm9mcvs"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "data-type": "leaf"
+                      },
+                      "社交媒体热贴"
+                    ],
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "italic": true,
+                        "sz": 20,
+                        "szUnit": "pt",
+                        "color": "linear-gradient(90deg, #FF7100 0%, #F300AD 100%)",
+                        "vertAlign": "superscript",
+                        "data-type": "leaf"
+                      },
+                      "内测中"
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "uuid": "mkc7q8iv2vbz2rmenn3"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "uuid": "mkc7q8ivhcupiq9ta2h"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "聚焦热点话题与用户真实讨论，实时洞察消费新趋势、品类新机会，"
+                    ],
+                    [
+                      "span",
+                      {
+                        "color": "linear-gradient(90deg, #FF7100 0%, #F300AD 100%)",
+                        "data-type": "leaf"
+                      },
+                      "精准捕捉全网消费商机"
+                    ],
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "！"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "fill": "rgba(225, 136, 204, 0.1)",
+                  "vAlign": "top",
+                  "uuid": "mkc7q8ivpbqazltm23p",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mkc7q8ivjjp2rbbamvk"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "data-type": "leaf"
+                      },
+                      "周期趋势早知道"
+                    ],
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "italic": true,
+                        "sz": 20,
+                        "szUnit": "pt",
+                        "color": "linear-gradient(90deg, #FF7100 0%, #F300AD 100%)",
+                        "vertAlign": "superscript",
+                        "data-type": "leaf"
+                      },
+                      "内测中"
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "uuid": "mkc7q8iv4qgtyb3nfsn"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "uuid": "mkc7q8ivzbl2kqk172p"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "洞察换季、节庆等消费周期规律，提前布局选品、内容与营销，"
+                    ],
+                    [
+                      "span",
+                      {
+                        "color": "linear-gradient(90deg, #FF7100 0%, #F300AD 100%)",
+                        "data-type": "leaf"
+                      },
+                      "预测节点商机，引爆全年生意"
+                    ],
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "！"
+                    ]
+                  ]
+                ]
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "m82wjvhd1d4usw7l1le",
+              "ind": {
+                "left": 0
+              },
+              "list": {
+                "listId": "60qjgv78ncf",
+                "level": 0,
+                "isTaskList": false,
+                "isOrdered": false,
+                "listStyleType": "SCIR_ECIR_SREC",
+                "symbolStyle": {
+                  "bold": true,
+                  "sz": 12,
+                  "color": "linear-gradient(90deg, #2449FE 0%, #CA4BA7 100%)",
+                  "italic": false
+                },
+                "listStyle": {
+                  "format": "bullet",
+                  "text": "●",
+                  "align": "left"
+                }
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "linear-gradient(90deg, #2449FE 0%, #CA4BA7 100%)",
+                  "data-type": "leaf"
+                },
+                "step 3：投放热点"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "m82ysovmggpsxnpqpcg",
+              "ind": {
+                "left": 0
+              },
+              "list": {
+                "listId": "60qjgv78ncf",
+                "level": 1,
+                "isTaskList": false,
+                "isOrdered": false,
+                "listStyleType": "SCIR_ECIR_SREC",
+                "symbolStyle": {
+                  "sz": 11
+                },
+                "listStyle": {
+                  "format": "bullet",
+                  "text": "○",
+                  "align": "left"
+                }
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "点击「投放」按钮，即进入计划新建页面，包括：投放的热点名称、商品、预算、计划名称。"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mkc7ky34gm9pklcmtj",
+              "ind": {
+                "left": 0
+              },
+              "list": {
+                "listId": "60qjgv78ncf",
+                "level": 1,
+                "isTaskList": false,
+                "isOrdered": false,
+                "listStyleType": "SCIR_ECIR_SREC",
+                "symbolStyle": {
+                  "sz": 11
+                },
+                "listStyle": {
+                  "format": "bullet",
+                  "text": "○",
+                  "align": "left"
+                },
+                "extraData": {},
+                "isChecked": false,
+                "hideSymbol": false
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "点击「立即下单」按钮，即可完成趋势速递计划的创建。"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mkc7ky34n50e7ummonn",
+              "ind": {
+                "left": 32
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 11,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ],
+            [
+              "img",
+              {
+                "uuid": "lva8wq",
+                "name": "image.png",
+                "size": 2832037,
+                "width": 347,
+                "height": 193,
+                "src": "/core/api/resources/img/5eecdaf48460cde5843d8cbee2ae2b5f00922d5ced5e02eb75b8339e1c4c24831b75b38faadcd24bec177c308ebd53045924d2f5390d3999d7ac3328c3fdd246118b569c414dfd4ec81e898febffe1dd7737dca489ebb8da4fb4c8ed7016461c",
+                "extraData": {
+                  "resourceId": "b6f590c7-9d02-4707-927c-2b435908161d",
+                  "metaData": {
+                    "size": 2832037,
+                    "originWidth": 2932,
+                    "originHeight": 1632,
+                    "format": "png",
+                    "ratio": 1
+                  }
+                },
+                "rotation": 0
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 11,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "h1",
+            {
+              "uuid": "mkc2a5oxt083mrs4c7",
+              "ind": {
+                "left": 0
+              },
+              "spacing": {
+                "before": 26.666666666666664,
+                "after": 9,
+                "line": 0.8529411764705882
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "三、产品介绍"
+              ]
+            ]
+          ],
+          [
+            "h3",
+            {
+              "uuid": "mkc2d2nhm0j11pocaxp",
+              "spacing": {
+                "before": 24,
+                "after": 8.666666666666666,
+                "line": 0.9333333333333332
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 14.5,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "1、"
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "data-type": "leaf"
+                },
+                "根据店铺商品推荐趋势"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mkc6mp5k5zr2581nvw",
+              "ind": {
+                "left": 0
+              },
+              "list": {
+                "listId": "ftneuvfhk5j",
+                "level": 0,
+                "isTaskList": false,
+                "isOrdered": false,
+                "listStyleType": "SCIR_ECIR_SREC",
+                "symbolStyle": {},
+                "listStyle": {
+                  "format": "bullet",
+                  "text": "●",
+                  "align": "left"
+                }
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "data-type": "leaf"
+                },
+                "AI实时找趋势"
+              ],
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "：AI支持更多视角的找趋势思路，包括不限于本店宝贝、竞店宝贝、类目、商家名称，蓝海流量一网打尽！"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mkc6uci5wdlbzcgw3ek",
+              "ind": {
+                "left": 0
+              },
+              "list": {
+                "listId": "ftneuvfhk5j",
+                "level": 0,
+                "isTaskList": false,
+                "isOrdered": false,
+                "listStyleType": "SCIR_ECIR_SREC",
+                "symbolStyle": {
+                  "bold": false
+                },
+                "listStyle": {
+                  "format": "bullet",
+                  "text": "●",
+                  "align": "left"
+                },
+                "extraData": {},
+                "isChecked": false,
+                "hideSymbol": false
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "data-type": "leaf"
+                },
+                "热点榜单"
+              ],
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "："
+              ],
+              [
+                "span",
+                {
+                  "sz": 11,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "针对行业"
+              ],
+              [
+                "span",
+                {
+                  "sz": 11,
+                  "szUnit": "pt",
+                  "color": "rgb(0, 0, 0)",
+                  "data-type": "leaf"
+                },
+                "爆发性事件、时令节点、周期性的圈层兴趣等激发起的消费需求进行实时追踪提炼，为商家朋友提供热点榜单，"
+              ],
+              [
+                "span",
+                {
+                  "sz": 11,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "商家可结合自己业务目标和店铺需求，选择对应热点榜单进行查询和投放。"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mkc6qk6bo63m07gntcl",
+              "ind": {
+                "left": 0
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ],
+            [
+              "img",
+              {
+                "uuid": "4tgvgn",
+                "name": "image.png",
+                "size": 2315380,
+                "width": 748,
+                "height": 283.7431734317343,
+                "src": "/core/api/resources/img/5eecdaf48460cde5843d8cbee2ae2b5f00922d5ced5e02eb75b8339e1c4c24831b75b38faadcd24bec177c308ebd53043b6f051d13befb67dac794a5d2abd5875f15cc95905237f1c1c4435d9376bceb09bf76daeec4b3cf4fb4c8ed7016461c",
+                "extraData": {
+                  "resourceId": "8a299169-a34b-457d-a4f9-ca957ca76fc2",
+                  "metaData": {
+                    "size": 2315380,
+                    "originWidth": 2710,
+                    "originHeight": 1028,
+                    "format": "png",
+                    "ratio": 1
+                  }
+                }
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "h3",
+            {
+              "uuid": "mkc6l5p2z4uho66gl0o",
+              "spacing": {
+                "before": 24,
+                "after": 8.666666666666666,
+                "line": 0.9333333333333332
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 14.5,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "2、"
+              ],
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "周期趋势早知道"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mkc2dzq2wu7wi4qegar",
+              "ind": {
+                "left": 0
+              },
+              "list": {
+                "listId": "vjxkckngj99",
+                "level": 0,
+                "isTaskList": false,
+                "isOrdered": false,
+                "listStyleType": "SCIR_ECIR_SREC",
+                "symbolStyle": {},
+                "listStyle": {
+                  "format": "bullet",
+                  "text": "●",
+                  "align": "left"
+                }
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "data-type": "leaf"
+                },
+                "升级亮点"
+              ],
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "：洞察换季、节庆等消费周期规律，提前布局选品、内容与营销，"
+              ],
+              [
+                "span",
+                {
+                  "color": "linear-gradient(90deg, #FF7100 0%, #F300AD 100%)",
+                  "data-type": "leaf"
+                },
+                "预测节点商机，引爆全年生意"
+              ],
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "！"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mkc7n0qohe2qer09l4f",
+              "ind": {
+                "left": 0
+              },
+              "list": {
+                "listId": "vjxkckngj99",
+                "level": 0,
+                "isTaskList": false,
+                "isOrdered": false,
+                "listStyleType": "SCIR_ECIR_SREC",
+                "symbolStyle": {},
+                "listStyle": {
+                  "format": "bullet",
+                  "text": "●",
+                  "align": "left"
+                },
+                "extraData": {},
+                "isChecked": false,
+                "hideSymbol": false
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "营销日历："
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mkc7oa4aczkux4ubmae",
+              "ind": {
+                "left": 0
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ],
+            [
+              "img",
+              {
+                "uuid": "7xgiye",
+                "name": "image.png",
+                "size": 757799,
+                "width": 355,
+                "height": 310,
+                "src": "/core/api/resources/img/5eecdaf48460cde5843d8cbee2ae2b5f00922d5ced5e02eb75b8339e1c4c24831b75b38faadcd24bec177c308ebd530435be55637989f12508af2c8a15ea5893552f999a4d07aee0c55a094171f16ed552934f7736da7de74fb4c8ed7016461c",
+                "extraData": {
+                  "resourceId": "85cdfeb2-13f9-421b-93b7-5ac0aa58544c",
+                  "metaData": {
+                    "size": 757799,
+                    "originWidth": 1782,
+                    "originHeight": 1554,
+                    "format": "png",
+                    "ratio": 1
+                  }
+                },
+                "rotation": 0
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mkc7n4sieqmaul3yhot",
+              "ind": {
+                "left": 0
+              },
+              "list": {
+                "listId": "vjxkckngj99",
+                "level": 0,
+                "isTaskList": false,
+                "isOrdered": false,
+                "listStyleType": "SCIR_ECIR_SREC",
+                "symbolStyle": {},
+                "listStyle": {
+                  "format": "bullet",
+                  "text": "●",
+                  "align": "left"
+                },
+                "extraData": {},
+                "isChecked": false,
+                "hideSymbol": false
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "产品截图：参考如下"
+              ]
+            ]
+          ],
+          [
+            "table",
+            {
+              "colsWidth": [
+                325,
+                325
+              ],
+              "sr": true,
+              "uuid": "mkc7negqojhpw5k4ou"
+            },
+            [
+              "tr",
+              {
+                "uuid": "mkc7negq95bwc49nd6l"
+              },
+              [
+                "tc",
+                {
+                  "fill": "rgba(129, 169, 250, 0.12)",
+                  "vAlign": "top",
+                  "uuid": "mkc7negqqa90vz3oymd"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mkc7negqa18ekam799f"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ],
+                  [
+                    "img",
+                    {
+                      "uuid": "mkc7ngoe0du6lwoobgde",
+                      "name": "image.png",
+                      "size": 2071199,
+                      "width": 748,
+                      "height": 419.9298245614035,
+                      "src": "/core/api/resources/img/5eecdaf48460cde5843d8cbee2ae2b5f00922d5ced5e02eb75b8339e1c4c24831b75b38faadcd24bec177c308ebd53049f28328185fe31910e72efce4926671e880328b31a5287e8c957404612fa3fe3cf38e4352be0a3214fb4c8ed7016461c",
+                      "extraData": {
+                        "resourceId": "f899a761-bb51-408c-878c-bd62d1169489",
+                        "metaData": {
+                          "size": 2071199,
+                          "originWidth": 2736,
+                          "originHeight": 1536,
+                          "format": "png",
+                          "ratio": 1
+                        }
+                      }
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "leaf"
+                        },
+                        ""
+                      ]
+                    ]
+                  ],
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "fill": "rgba(181, 146, 253, 0.1)",
+                  "vAlign": "top",
+                  "uuid": "mkc7negqq5iavqimrq"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mkc7negq97qyvgwui9q"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ],
+                  [
+                    "img",
+                    {
+                      "uuid": "mkc7njdpxmcrtd3mydm",
+                      "name": "image.png",
+                      "size": 1758623,
+                      "width": 748,
+                      "height": 270,
+                      "src": "/core/api/resources/img/5eecdaf48460cde5843d8cbee2ae2b5f00922d5ced5e02eb75b8339e1c4c24831b75b38faadcd24bec177c308ebd5304dd0c4568a2b4e99f31594b3eaa1b3c6499f9dbc6673691b18328802c8035e2c4e0869d7e3b44178e4fb4c8ed7016461c",
+                      "extraData": {
+                        "resourceId": "e96596b4-293e-444f-bac8-0aa410d68a0d",
+                        "metaData": {
+                          "size": 1758623,
+                          "originWidth": 2178,
+                          "originHeight": 1634,
+                          "format": "png",
+                          "ratio": 1
+                        }
+                      },
+                      "rectClip": {
+                        "left": 0,
+                        "right": 0,
+                        "top": 291,
+                        "bottom": 0
+                      },
+                      "rotation": 0
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "leaf"
+                        },
+                        ""
+                      ]
+                    ]
+                  ],
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ]
+                ]
+              ]
+            ]
+          ],
+          [
+            "h3",
+            {
+              "uuid": "mkc7opzpqjdmdodyq8",
+              "spacing": {
+                "before": 24,
+                "after": 8.666666666666666,
+                "line": 0.9333333333333332
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "data-type": "leaf"
+                },
+                "3、社交媒体热贴"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mkc6n3ml0p245npq6py9",
+              "ind": {
+                "left": 0
+              },
+              "list": {
+                "listId": "hglh5babh3",
+                "level": 0,
+                "isTaskList": false,
+                "isOrdered": false,
+                "listStyleType": "SCIR_ECIR_SREC",
+                "symbolStyle": {},
+                "listStyle": {
+                  "format": "bullet",
+                  "text": "●",
+                  "align": "left"
+                }
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "data-type": "leaf"
+                },
+                "升级亮点"
+              ],
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "：聚焦热点话题与用户真实讨论，实时洞察消费新趋势、品类新机会，"
+              ],
+              [
+                "span",
+                {
+                  "color": "linear-gradient(90deg, #FF7100 0%, #F300AD 100%)",
+                  "data-type": "leaf"
+                },
+                "精准捕捉全网消费商机"
+              ],
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "！"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mkc72umwqvw4eb5w8ij",
+              "ind": {
+                "left": 0
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ],
+            [
+              "img",
+              {
+                "uuid": "mkc7opznbid4c0zx4g",
+                "name": "image.png",
+                "size": 1988181,
+                "width": 748,
+                "height": 420.23701536210683,
+                "src": "/core/api/resources/img/5eecdaf48460cde5843d8cbee2ae2b5f00922d5ced5e02eb75b8339e1c4c24831b75b38faadcd24bec177c308ebd5304321d7822ba9f380d901b3bd328cf7630e8ab06db1fd0cc37c76a622106a252b3bd7ecc8e439cce3f4fb4c8ed7016461c",
+                "extraData": {
+                  "resourceId": "95130306-96f0-4d7a-b238-a7e5f8beb190",
+                  "metaData": {
+                    "size": 1988181,
+                    "originWidth": 2734,
+                    "originHeight": 1536,
+                    "format": "png",
+                    "ratio": 1
+                  }
+                }
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ]
+        ],
+        "footers": {},
+        "version": 1
+      },
+      "refs": {}
+    }
+  }
+}

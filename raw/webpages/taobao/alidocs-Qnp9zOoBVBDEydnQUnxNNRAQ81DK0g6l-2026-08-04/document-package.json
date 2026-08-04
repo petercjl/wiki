@@ -1,0 +1,944 @@
+{
+  "version": 1,
+  "type": "application/x-alidocs-package",
+  "main": "00000000-0000-0000-0000-000000000001",
+  "plugins": "00000000-0000-0000-0000-000000000002",
+  "parts": {
+    "00000000-0000-0000-0000-000000000001": {
+      "id": "00000000-0000-0000-0000-000000000001",
+      "type": "application/x-alidocs-word",
+      "version": 1,
+      "data": {
+        "style": {
+          "docDefaults": {
+            "type": "paragraph",
+            "default": 1,
+            "name": "dingdocnormal",
+            "data": {
+              "rPr": {
+                "sz": 12,
+                "szUnit": "pt"
+              },
+              "pPr": {
+                "spacing": {
+                  "before": 12,
+                  "after": 12
+                }
+              }
+            }
+          }
+        },
+        "theme": [],
+        "settings": {
+          "titleCover": {
+            "isHide": true
+          }
+        },
+        "app": {},
+        "numberings": {},
+        "headers": {},
+        "body": [
+          "root",
+          {
+            "sectPr": {
+              "pgSz": {
+                "w": 1127,
+                "h": 1588
+              },
+              "pgMar": {
+                "header": 56.73,
+                "footer": 66.13,
+                "top": 48,
+                "bottom": 48,
+                "left": 72,
+                "right": 72,
+                "gutter": 0
+              }
+            },
+            "theme": {
+              "table": {
+                "tableCell": {
+                  "vAlign": "top"
+                }
+              }
+            },
+            "uuid": "mnh4vzmco7k4dh5wk3"
+          },
+          [
+            "p",
+            {
+              "uuid": "mnh4w1xo0yvb8usqs02"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 16,
+                  "szUnit": "pt",
+                  "color": "linear-gradient(152deg, #C676FF 0%, #654CFF 41%, #405EFF 75%, #007FFF 99%)",
+                  "data-type": "leaf"
+                },
+                "什么是周ROI"
+              ]
+            ]
+          ],
+          [
+            "container",
+            {
+              "subType": "colorBlocks",
+              "metadata": {
+                "padding": {
+                  "top": 11,
+                  "right": 11,
+                  "bottom": 11,
+                  "left": 11
+                },
+                "borderRadius": 8,
+                "bgcolor": "#FEF3F3",
+                "showstk": false
+              },
+              "uuid": "mnh5hxtgc9w9rsry595"
+            },
+            [
+              "p",
+              {
+                "uuid": "mnh5hxtgpu8ra5kbsa"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  "周ROI是系统筛选过去一周"
+                ],
+                [
+                  "span",
+                  {
+                    "bold": true,
+                    "data-type": "leaf"
+                  },
+                  "成交少"
+                ],
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  "、"
+                ],
+                [
+                  "span",
+                  {
+                    "bold": true,
+                    "data-type": "leaf"
+                  },
+                  "实际ROI交付较差、平台新品"
+                ],
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  "的全站推商品推广控投产比投放计划，系统进行智能「周ROI」优化，"
+                ],
+                [
+                  "span",
+                  {
+                    "bold": true,
+                    "data-type": "leaf"
+                  },
+                  "降低实际投产比波动，提升成交金额"
+                ],
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  "的一项自动优化能力。"
+                ]
+              ]
+            ],
+            [
+              "p",
+              {
+                "uuid": "mq8ya97c0u0wu5gl1hi"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  "周ROI按过去一个自然周数据筛选，并按自然周（周一～周日）优化"
+                ]
+              ]
+            ],
+            [
+              "p",
+              {
+                "uuid": "mq9fm4r2okj874z3yy"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "sz": 12,
+                    "szUnit": "pt",
+                    "data-type": "leaf"
+                  },
+                  "即使处于「周ROI生效中」状态，"
+                ],
+                [
+                  "span",
+                  {
+                    "bold": true,
+                    "sz": 14,
+                    "szUnit": "pt",
+                    "color": "#C10002",
+                    "data-type": "leaf"
+                  },
+                  "计划仍可能出现天级别效果波动的情况"
+                ],
+                [
+                  "span",
+                  {
+                    "sz": 12,
+                    "szUnit": "pt",
+                    "data-type": "leaf"
+                  },
+                  "，建议关注自然周整体数据表现，系统将尽可能降低自然周投产比波动，提升成交金额。"
+                ]
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mnh4w8px63hxennr3fi"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mnh5m686djmuv0cb9zm"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 16,
+                  "szUnit": "pt",
+                  "color": "linear-gradient(152deg, #C676FF 0%, #654CFF 41%, #405EFF 75%, #007FFF 99%)",
+                  "data-type": "leaf"
+                },
+                "在哪里看"
+              ]
+            ]
+          ],
+          [
+            "container",
+            {
+              "subType": "colorBlocks",
+              "metadata": {
+                "padding": {
+                  "top": 11,
+                  "right": 11,
+                  "bottom": 11,
+                  "left": 11
+                },
+                "borderRadius": 8,
+                "bgcolor": "#FEF3F3",
+                "showstk": false
+              },
+              "uuid": "mnh5mrroetvz807dhe"
+            },
+            [
+              "p",
+              {
+                "uuid": "mnh5mrro85br2lk47yc",
+                "ind": {
+                  "left": 0
+                },
+                "list": {
+                  "listId": "enlezhsz3wr",
+                  "level": 0,
+                  "isTaskList": false,
+                  "isOrdered": false,
+                  "listStyleType": "SCIR_ECIR_SREC",
+                  "symbolStyle": {},
+                  "listStyle": {
+                    "format": "bullet",
+                    "text": "●",
+                    "align": "left"
+                  }
+                }
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  "被系统选中「周ROI」优化的计划，可在全站推-商品推广-计划列表，设置ROI处看到「周ROI」标识，若为蓝紫色生效中状态，此时计划处于系统进行智能「周ROI」优化，鼠标悬停至「周ROI」标识可查看具体信息"
+                ]
+              ]
+            ],
+            [
+              "p",
+              {
+                "uuid": "mqhg4b2fd2ljem70d7",
+                "ind": {
+                  "left": 0
+                },
+                "list": {
+                  "listId": "enlezhsz3wr",
+                  "level": 1,
+                  "isTaskList": false,
+                  "isOrdered": false,
+                  "listStyleType": "SCIR_ECIR_SREC",
+                  "symbolStyle": {},
+                  "listStyle": {
+                    "format": "bullet",
+                    "text": "○",
+                    "align": "left"
+                  },
+                  "extraData": {},
+                  "isChecked": false,
+                  "hideSymbol": false
+                }
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  "被系统选中的计划，一般在"
+                ],
+                [
+                  "span",
+                  {
+                    "bold": true,
+                    "data-type": "leaf"
+                  },
+                  "自然周的周三"
+                ],
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  "开始展示「周ROI」标识（分生效中和失效两种状态）"
+                ]
+              ]
+            ],
+            [
+              "p",
+              {
+                "uuid": "mnh5o0j9kc0cmffth3",
+                "ind": {
+                  "left": 32
+                }
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ],
+              [
+                "img",
+                {
+                  "uuid": "rgy1if",
+                  "name": "image.png",
+                  "size": 333841,
+                  "width": 492,
+                  "height": 332,
+                  "src": "/core/api/resources/img/5eecdaf48460cde578fd147e1b96b6218dff9b0f4adc39c775b8339e1c4c24831b75b38faadcd24bec177c308ebd530411b741abfc8d417a2e1be04a74162a708e14d0b548f6378bc178850098370603ba1d228d3796c4a64fb4c8ed7016461c",
+                  "extraData": {
+                    "resourceId": "a8c0653e-e611-4414-9e64-62c7d371a5a3",
+                    "metaData": {
+                      "size": 333841,
+                      "originWidth": 1128,
+                      "originHeight": 762,
+                      "format": "png",
+                      "ratio": 1
+                    }
+                  },
+                  "rotation": 0
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "text"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "leaf"
+                    },
+                    ""
+                  ]
+                ]
+              ],
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ]
+            ],
+            [
+              "p",
+              {
+                "uuid": "mnh5pyna0aiudrls14ip",
+                "ind": {
+                  "left": 0
+                },
+                "list": {
+                  "listId": "q2r40zca46",
+                  "level": 0,
+                  "isTaskList": false,
+                  "isOrdered": false,
+                  "listStyleType": "SCIR_ECIR_SREC",
+                  "symbolStyle": {},
+                  "listStyle": {
+                    "format": "bullet",
+                    "text": "●",
+                    "align": "left"
+                  }
+                }
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  "若标识为灰色「周ROI优化失效」，则表示计划被系统筛选，但当前未生效周ROI优化，计划暂停/下线时间较长、修改出价方式至最大化拿量、频繁修改计划预算、频繁修改计划目标投产比等行为，都会触发周ROI优化失效。鼠标悬停至「周ROI」标识可查看具体原因，请您保持计划稳定投放，避免触发优化失效"
+                ]
+              ]
+            ],
+            [
+              "p",
+              {
+                "uuid": "mnh5rmja3f84qhkdksg",
+                "ind": {
+                  "left": 0
+                }
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  "       "
+                ]
+              ],
+              [
+                "img",
+                {
+                  "uuid": "8qyxyz",
+                  "name": "image.png",
+                  "size": 320215,
+                  "width": 493,
+                  "height": 331,
+                  "src": "/core/api/resources/img/5eecdaf48460cde578fd147e1b96b6218dff9b0f4adc39c775b8339e1c4c24831b75b38faadcd24bec177c308ebd53040e71e4233f3bd9bc4d46827793fc82525e21d889dd4d42cead75359a786a756d98c4d7281a3f61ce4fb4c8ed7016461c",
+                  "extraData": {
+                    "resourceId": "895fb8f0-1db9-40fc-a819-b40ebe2a8967",
+                    "metaData": {
+                      "size": 320215,
+                      "originWidth": 1118,
+                      "originHeight": 752,
+                      "format": "png",
+                      "ratio": 1
+                    }
+                  },
+                  "rotation": 0
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "text"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "leaf"
+                    },
+                    ""
+                  ]
+                ]
+              ],
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ]
+            ],
+            [
+              "p",
+              {
+                "uuid": "mnh5uk8de5is73tyuk",
+                "ind": {
+                  "left": 0
+                },
+                "list": {
+                  "listId": "swgp0ofwr2",
+                  "level": 0,
+                  "isTaskList": false,
+                  "isOrdered": false,
+                  "listStyleType": "SCIR_ECIR_SREC",
+                  "symbolStyle": {},
+                  "listStyle": {
+                    "format": "bullet",
+                    "text": "●",
+                    "align": "left"
+                  }
+                }
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  "若计划无「周ROI」标识，则表示计划当前未被系统筛选。计划成交丰富、实际投产比稳定、最大化拿量的计划等都不会被系统选中"
+                ]
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mnh6cbkq482eblnj0ot"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mnh6cbubf5iw7ikkecq"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 16,
+                  "szUnit": "pt",
+                  "color": "linear-gradient(152deg, #C676FF 0%, #654CFF 41%, #405EFF 75%, #007FFF 99%)",
+                  "data-type": "leaf"
+                },
+                "商家可以怎么做"
+              ]
+            ]
+          ],
+          [
+            "container",
+            {
+              "subType": "colorBlocks",
+              "metadata": {
+                "padding": {
+                  "top": 11,
+                  "right": 11,
+                  "bottom": 11,
+                  "left": 11
+                },
+                "borderRadius": 8,
+                "bgcolor": "#FEF3F3",
+                "showstk": false
+              },
+              "uuid": "mnh6cj018sfwo50u39e"
+            },
+            [
+              "p",
+              {
+                "uuid": "mnh6cj01n0nz6xy9os",
+                "ind": {
+                  "left": 0
+                },
+                "list": {
+                  "listId": "ealq0u6x6jh",
+                  "level": 0,
+                  "isTaskList": false,
+                  "isOrdered": false,
+                  "listStyleType": "SCIR_ECIR_SREC",
+                  "symbolStyle": {},
+                  "listStyle": {
+                    "format": "bullet",
+                    "text": "●",
+                    "align": "left"
+                  }
+                }
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  "目前「周ROI」计划系统圈选，并智能优化，不支持商家主动选择或提报"
+                ]
+              ]
+            ],
+            [
+              "p",
+              {
+                "uuid": "mnh6dggvdcqpmpehtip",
+                "ind": {
+                  "left": 0
+                },
+                "list": {
+                  "listId": "ealq0u6x6jh",
+                  "level": 0,
+                  "isTaskList": false,
+                  "isOrdered": false,
+                  "listStyleType": "SCIR_ECIR_SREC",
+                  "symbolStyle": {},
+                  "listStyle": {
+                    "format": "bullet",
+                    "text": "●",
+                    "align": "left"
+                  },
+                  "extraData": {},
+                  "isChecked": false,
+                  "hideSymbol": false
+                }
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  "「周ROI」生效中的计划，请保持稳定投放，"
+                ],
+                [
+                  "span",
+                  {
+                    "bold": true,
+                    "data-type": "leaf"
+                  },
+                  "采纳系统推荐的目标投产比，设置充足的预算"
+                ],
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  "，有助于系统「周ROI」优化，降低实际投产比波动，提升成交金额"
+                ]
+              ]
+            ],
+            [
+              "p",
+              {
+                "uuid": "mnh6i1hkcy34t3iok1",
+                "ind": {
+                  "left": 0
+                },
+                "list": {
+                  "listId": "ealq0u6x6jh",
+                  "level": 0,
+                  "isTaskList": false,
+                  "isOrdered": false,
+                  "listStyleType": "SCIR_ECIR_SREC",
+                  "symbolStyle": {},
+                  "listStyle": {
+                    "format": "bullet",
+                    "text": "●",
+                    "align": "left"
+                  },
+                  "extraData": {},
+                  "isChecked": false,
+                  "hideSymbol": false
+                }
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  "「周ROI」失效中的计划，请关注失效原因，"
+                ],
+                [
+                  "span",
+                  {
+                    "bold": true,
+                    "data-type": "leaf"
+                  },
+                  "停止负向行为"
+                ],
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  "后，下一周期计划仍可能被系统选中"
+                ]
+              ]
+            ],
+            [
+              "p",
+              {
+                "uuid": "mqa9mo803tyfayw4kjv",
+                "ind": {
+                  "left": 0
+                },
+                "list": {
+                  "listId": "ealq0u6x6jh",
+                  "level": 0,
+                  "isTaskList": false,
+                  "isOrdered": false,
+                  "listStyleType": "SCIR_ECIR_SREC",
+                  "symbolStyle": {},
+                  "listStyle": {
+                    "format": "bullet",
+                    "text": "●",
+                    "align": "left"
+                  },
+                  "extraData": {},
+                  "isChecked": false,
+                  "hideSymbol": false
+                }
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "sz": 12,
+                    "szUnit": "pt",
+                    "data-type": "leaf"
+                  },
+                  "即使处于「周ROI生效中」状态，"
+                ],
+                [
+                  "span",
+                  {
+                    "bold": true,
+                    "sz": 14,
+                    "szUnit": "pt",
+                    "color": "#C10002",
+                    "data-type": "leaf"
+                  },
+                  "计划仍可能出现天级别效果波动的情况"
+                ],
+                [
+                  "span",
+                  {
+                    "sz": 12,
+                    "szUnit": "pt",
+                    "data-type": "leaf"
+                  },
+                  "，建议关注自然周整体数据表现，并保持计划稳定投放（合理的出价和充足的预算）"
+                ]
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mnh6nagsdptxr75gd8m"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mnh6namfpdt3htbva6a"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ],
+            [
+              "img",
+              {
+                "uuid": "y19oic",
+                "name": "image.png",
+                "size": 508973,
+                "width": 450,
+                "height": 437,
+                "src": "/core/api/resources/img/5eecdaf48460cde578fd147e1b96b6218dff9b0f4adc39c775b8339e1c4c24831b75b38faadcd24bec177c308ebd5304da95c509317f4bb74d20ad717c98faa8b9e7e01d7f24a3c1153a8a6ce774feabb7cc8091297927c54fb4c8ed7016461c",
+                "extraData": {
+                  "resourceId": "642a7f45-f088-4420-b442-c05d6ee27523",
+                  "metaData": {
+                    "size": 508973,
+                    "originWidth": 836,
+                    "originHeight": 812,
+                    "format": "png",
+                    "ratio": 1
+                  }
+                },
+                "rotation": 0
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ]
+        ],
+        "footers": {},
+        "version": 1
+      },
+      "refs": {}
+    }
+  }
+}

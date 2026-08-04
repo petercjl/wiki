@@ -1,0 +1,797 @@
+{
+  "version": 1,
+  "type": "application/x-alidocs-package",
+  "main": "00000000-0000-0000-0000-000000000001",
+  "plugins": "00000000-0000-0000-0000-000000000002",
+  "parts": {
+    "00000000-0000-0000-0000-000000000001": {
+      "id": "00000000-0000-0000-0000-000000000001",
+      "type": "application/x-alidocs-word",
+      "version": 1,
+      "data": {
+        "style": {
+          "docDefaults": {
+            "type": "paragraph",
+            "default": 1,
+            "name": "dingdocnormal",
+            "data": {
+              "rPr": {
+                "sz": 12,
+                "szUnit": "pt"
+              },
+              "pPr": {
+                "spacing": {
+                  "before": 12,
+                  "after": 12
+                }
+              }
+            }
+          }
+        },
+        "theme": [],
+        "settings": {
+          "titleCover": {
+            "isHide": true
+          }
+        },
+        "app": {},
+        "numberings": {},
+        "headers": {},
+        "body": [
+          "root",
+          {
+            "sectPr": {
+              "pgSz": {
+                "w": 892,
+                "h": 1127
+              },
+              "pgMar": {
+                "top": 48,
+                "bottom": 48,
+                "left": 72,
+                "right": 72,
+                "header": 56.73,
+                "footer": 66.13,
+                "gutter": 0
+              }
+            },
+            "theme": {
+              "table": {
+                "tableCell": {
+                  "vAlign": "top"
+                }
+              }
+            }
+          },
+          [
+            "h1",
+            {
+              "spacing": {
+                "after": 9,
+                "before": 26.666666666666664,
+                "line": 0.8529411764705882
+              },
+              "uuid": "lyqn4f5o610nvlg87p4"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 3.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 3.0\"",
+                    "cs": "\"Alibaba PuHuiTi 3.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 3.0\""
+                  },
+                  "sz": 20,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "小店成交宝专属尝鲜版（所有小店成交宝新客可享）"
+              ]
+            ]
+          ],
+          [
+            "h4",
+            {
+              "ind": {
+                "left": 0
+              },
+              "spacing": {
+                "before": 16,
+                "after": 12,
+                "line": 0.8529411764705882
+              },
+              "uuid": "lmkcesezd8o7egihlei"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 3.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 3.0\"",
+                    "cs": "\"Alibaba PuHuiTi 3.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 3.0\""
+                  },
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "#000000",
+                  "data-type": "leaf"
+                },
+                "活动一：新客首单立减100"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "ls9y4u9xka5g2jviumo",
+              "list": {
+                "listId": "p9r09cq7fr",
+                "level": 0,
+                "isOrdered": false,
+                "isTaskList": false,
+                "listStyleType": "SCIR_ECIR_SREC",
+                "symbolStyle": {
+                  "fonts": "\"Alibaba PuHuiTi 3.0\""
+                },
+                "listStyle": {
+                  "format": "bullet",
+                  "text": "●",
+                  "align": "left"
+                },
+                "hideSymbol": false
+              },
+              "ind": {
+                "left": 0
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 3.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 3.0\"",
+                    "cs": "\"Alibaba PuHuiTi 3.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 3.0\""
+                  },
+                  "color": "rgb(157, 93, 33)",
+                  "data-type": "leaf"
+                },
+                "领取对象："
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "lsvh1rbco8skwtubh5q",
+              "list": {
+                "listId": "p9r09cq7fr",
+                "level": 1,
+                "isOrdered": false,
+                "isTaskList": false,
+                "listStyleType": "SCIR_ECIR_SREC",
+                "symbolStyle": {
+                  "fonts": "\"Alibaba PuHuiTi 3.0\""
+                },
+                "listStyle": {
+                  "format": "bullet",
+                  "text": "○",
+                  "align": "left"
+                },
+                "hideSymbol": false,
+                "extraData": {},
+                "isChecked": false
+              },
+              "ind": {
+                "left": 0
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 3.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 3.0\"",
+                    "cs": "\"Alibaba PuHuiTi 3.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 3.0\""
+                  },
+                  "color": "rgb(51, 51, 51)",
+                  "data-type": "leaf"
+                },
+                "店铺状态为正常的淘宝、天猫卖家，符合"
+              ]
+            ],
+            [
+              "a",
+              {
+                "href": "https://rule.alimama.com/#!/product/index?id=1074&knowledgeId=11005380&type=detail",
+                "uuid": "lsvh2oc6peayny6n5x"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "fonts": {
+                      "ascii": "\"Alibaba PuHuiTi 3.0\"",
+                      "hAnsi": "\"Alibaba PuHuiTi 3.0\"",
+                      "cs": "\"Alibaba PuHuiTi 3.0\"",
+                      "eastAsia": "\"Alibaba PuHuiTi 3.0\""
+                    },
+                    "color": "rgb(51, 51, 51)",
+                    "data-type": "leaf"
+                  },
+                  "《阿里妈妈账号管理规范》"
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 3.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 3.0\"",
+                    "cs": "\"Alibaba PuHuiTi 3.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 3.0\""
+                  },
+                  "color": "rgb(51, 51, 51)",
+                  "data-type": "leaf"
+                },
+                "；"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "lsvh2t8p6d8rbs1vck8",
+              "list": {
+                "listId": "p9r09cq7fr",
+                "level": 1,
+                "isOrdered": false,
+                "isTaskList": false,
+                "listStyleType": "SCIR_ECIR_SREC",
+                "symbolStyle": {
+                  "fonts": "\"Alibaba PuHuiTi 3.0\""
+                },
+                "listStyle": {
+                  "format": "bullet",
+                  "text": "○",
+                  "align": "left"
+                },
+                "hideSymbol": false,
+                "extraData": {},
+                "isChecked": false
+              },
+              "ind": {
+                "left": 0
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 3.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 3.0\"",
+                    "cs": "\"Alibaba PuHuiTi 3.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 3.0\""
+                  },
+                  "color": "rgb(51, 51, 51)",
+                  "data-type": "leaf"
+                },
+                "历史从未在小店成交宝产品推广（花费）过的商家朋友；"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "lsvh3f69e98anjb9tqb",
+              "list": {
+                "listId": "p9r09cq7fr",
+                "level": 1,
+                "isOrdered": false,
+                "isTaskList": false,
+                "listStyleType": "SCIR_ECIR_SREC",
+                "symbolStyle": {
+                  "fonts": "\"Alibaba PuHuiTi 3.0\""
+                },
+                "listStyle": {
+                  "format": "bullet",
+                  "text": "○",
+                  "align": "left"
+                },
+                "hideSymbol": false,
+                "extraData": {},
+                "isChecked": false
+              },
+              "ind": {
+                "left": 0
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 3.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 3.0\"",
+                    "cs": "\"Alibaba PuHuiTi 3.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 3.0\""
+                  },
+                  "color": "rgb(51, 51, 51)",
+                  "data-type": "leaf"
+                },
+                "淘宝、天猫还将结合卖家多维度经营情况（如诚信经营情况、店铺品质、商品竞争力等）及各营销活动参与情况等进行综合评估；"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "ind": {
+                "left": 0
+              },
+              "spacing": {},
+              "uuid": "ls9y4z6pemhdugnrned",
+              "list": {
+                "listId": "p9r09cq7fr",
+                "level": 0,
+                "isOrdered": false,
+                "isTaskList": false,
+                "listStyleType": "SCIR_ECIR_SREC",
+                "symbolStyle": {
+                  "fonts": "\"Alibaba PuHuiTi 3.0\""
+                },
+                "listStyle": {
+                  "format": "bullet",
+                  "text": "●",
+                  "align": "left"
+                },
+                "hideSymbol": false
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 3.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 3.0\"",
+                    "cs": "\"Alibaba PuHuiTi 3.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 3.0\""
+                  },
+                  "color": "rgb(157, 93, 33)",
+                  "data-type": "leaf"
+                },
+                "领取方式："
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 3.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 3.0\"",
+                    "cs": "\"Alibaba PuHuiTi 3.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 3.0\""
+                  },
+                  "sz": 11,
+                  "szUnit": "pt",
+                  "color": "#000000",
+                  "data-type": "leaf"
+                },
+                "店铺在线宝贝数量≥1个"
+              ],
+              [
+                "span",
+                {
+                  "bold": false,
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 3.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 3.0\"",
+                    "cs": "\"Alibaba PuHuiTi 3.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 3.0\""
+                  },
+                  "sz": 11,
+                  "szUnit": "pt",
+                  "color": "#000000",
+                  "data-type": "leaf"
+                },
+                "，"
+              ],
+              [
+                "span",
+                {
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 3.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 3.0\"",
+                    "cs": "\"Alibaba PuHuiTi 3.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 3.0\""
+                  },
+                  "color": "rgb(51, 51, 51)",
+                  "data-type": "leaf"
+                },
+                "单个用户仅可领取一次。 是否具备券领取资格，以万相台无界弹窗内透出为准。"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "ind": {
+                "left": 0
+              },
+              "spacing": {},
+              "uuid": "ls9yxxqg2vz9e434yjd",
+              "list": {
+                "listId": "p9r09cq7fr",
+                "level": 0,
+                "isOrdered": false,
+                "isTaskList": false,
+                "isChecked": false,
+                "listStyleType": "SCIR_ECIR_SREC",
+                "symbolStyle": {
+                  "fonts": "\"Alibaba PuHuiTi 3.0\""
+                },
+                "listStyle": {
+                  "format": "bullet",
+                  "text": "●",
+                  "align": "left"
+                },
+                "hideSymbol": false,
+                "extraData": {}
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 3.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 3.0\"",
+                    "cs": "\"Alibaba PuHuiTi 3.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 3.0\""
+                  },
+                  "color": "rgb(157, 93, 33)",
+                  "data-type": "leaf"
+                },
+                "券面金额："
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 3.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 3.0\"",
+                    "cs": "\"Alibaba PuHuiTi 3.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 3.0\""
+                  },
+                  "color": "rgb(51, 51, 51)",
+                  "data-type": "leaf"
+                },
+                "100元"
+              ],
+              [
+                "span",
+                {
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 3.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 3.0\"",
+                    "cs": "\"Alibaba PuHuiTi 3.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 3.0\""
+                  },
+                  "color": "rgb(51, 51, 51)",
+                  "data-type": "leaf"
+                },
+                "，具体券领取资格和面额可在万相台无界弹窗内查看。因该优惠券直接发放至客户小店成交宝投放账户内，在客户账户优惠券页面不会展示。"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "ind": {
+                "left": 0
+              },
+              "spacing": {},
+              "uuid": "ls9yxyu84h6939c7fmu",
+              "list": {
+                "listId": "p9r09cq7fr",
+                "level": 0,
+                "isOrdered": false,
+                "isTaskList": false,
+                "isChecked": false,
+                "listStyleType": "SCIR_ECIR_SREC",
+                "symbolStyle": {
+                  "fonts": "\"Alibaba PuHuiTi 3.0\""
+                },
+                "listStyle": {
+                  "format": "bullet",
+                  "text": "●",
+                  "align": "left"
+                },
+                "hideSymbol": false,
+                "extraData": {}
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 3.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 3.0\"",
+                    "cs": "\"Alibaba PuHuiTi 3.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 3.0\""
+                  },
+                  "color": "rgb(157, 93, 33)",
+                  "data-type": "leaf"
+                },
+                "券面有效期："
+              ],
+              [
+                "span",
+                {
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 3.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 3.0\"",
+                    "cs": "\"Alibaba PuHuiTi 3.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 3.0\""
+                  },
+                  "color": "rgb(51, 51, 51)",
+                  "data-type": "leaf"
+                },
+                "用户自领取之日起，30天为券实际使用有效期，逾期失效/核销不退还，且不折合为现金。"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "ind": {
+                "left": 0
+              },
+              "spacing": {},
+              "uuid": "lsvfibr2tqo6ktvevef",
+              "list": {
+                "listId": "p9r09cq7fr",
+                "level": 0,
+                "isOrdered": false,
+                "isTaskList": false,
+                "isChecked": false,
+                "listStyleType": "SCIR_ECIR_SREC",
+                "symbolStyle": {
+                  "fonts": "\"Alibaba PuHuiTi 3.0\""
+                },
+                "listStyle": {
+                  "format": "bullet",
+                  "text": "●",
+                  "align": "left"
+                },
+                "hideSymbol": false,
+                "extraData": {}
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": false,
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 3.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 3.0\"",
+                    "cs": "\"Alibaba PuHuiTi 3.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 3.0\""
+                  },
+                  "sz": 11,
+                  "szUnit": "pt",
+                  "color": "rgb(157, 93, 33)",
+                  "data-type": "leaf"
+                },
+                "活动时间："
+              ],
+              [
+                "span",
+                {
+                  "bold": false,
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 3.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 3.0\"",
+                    "cs": "\"Alibaba PuHuiTi 3.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 3.0\""
+                  },
+                  "sz": 11,
+                  "szUnit": "pt",
+                  "color": "",
+                  "data-type": "leaf"
+                },
+                "2026年5月1日起至2026年6月30日"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "ind": {
+                "left": 0
+              },
+              "spacing": {},
+              "uuid": "lt2kefo1o214sgg41ub",
+              "list": {
+                "listId": "p9r09cq7fr",
+                "level": 0,
+                "isOrdered": false,
+                "isTaskList": false,
+                "isChecked": false,
+                "listStyleType": "SCIR_ECIR_SREC",
+                "symbolStyle": {
+                  "fonts": "\"Alibaba PuHuiTi 3.0\""
+                },
+                "listStyle": {
+                  "format": "bullet",
+                  "text": "●",
+                  "align": "left"
+                },
+                "hideSymbol": false,
+                "extraData": {}
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": false,
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 3.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 3.0\"",
+                    "cs": "\"Alibaba PuHuiTi 3.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 3.0\""
+                  },
+                  "sz": 11,
+                  "szUnit": "pt",
+                  "color": "rgb(157, 93, 33)",
+                  "data-type": "leaf"
+                },
+                "活动入口"
+              ],
+              [
+                "span",
+                {
+                  "bold": false,
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 3.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 3.0\"",
+                    "cs": "\"Alibaba PuHuiTi 3.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 3.0\""
+                  },
+                  "sz": 11,
+                  "szUnit": "pt",
+                  "color": "",
+                  "data-type": "leaf"
+                },
+                "："
+              ]
+            ],
+            [
+              "a",
+              {
+                "href": "https://one.alimama.com/index.html",
+                "uuid": "lt8fficxlda5j8rxsx"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "fonts": {
+                      "ascii": "\"Alibaba PuHuiTi 3.0\"",
+                      "hAnsi": "\"Alibaba PuHuiTi 3.0\"",
+                      "cs": "\"Alibaba PuHuiTi 3.0\"",
+                      "eastAsia": "\"Alibaba PuHuiTi 3.0\""
+                    },
+                    "sz": 11,
+                    "szUnit": "pt",
+                    "color": "",
+                    "data-type": "leaf"
+                  },
+                  "https://one.alimama.com/index.html"
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": false,
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 3.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 3.0\"",
+                    "cs": "\"Alibaba PuHuiTi 3.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 3.0\""
+                  },
+                  "sz": 11,
+                  "szUnit": "pt",
+                  "color": "",
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ]
+        ],
+        "footers": {},
+        "version": 1
+      },
+      "refs": {}
+    }
+  }
+}

@@ -1,0 +1,874 @@
+{
+  "version": 1,
+  "type": "application/x-alidocs-package",
+  "main": "00000000-0000-0000-0000-000000000001",
+  "plugins": "00000000-0000-0000-0000-000000000002",
+  "parts": {
+    "00000000-0000-0000-0000-000000000001": {
+      "id": "00000000-0000-0000-0000-000000000001",
+      "type": "application/x-alidocs-word",
+      "version": 1,
+      "data": {
+        "style": {
+          "docDefaults": {
+            "type": "paragraph",
+            "default": 1,
+            "name": "dingdocnormal",
+            "data": {
+              "rPr": {
+                "sz": 12,
+                "szUnit": "pt"
+              },
+              "pPr": {
+                "spacing": {
+                  "before": 10,
+                  "after": 10
+                }
+              }
+            }
+          }
+        },
+        "theme": [],
+        "settings": {
+          "titleCover": {
+            "isHide": true
+          }
+        },
+        "app": {},
+        "numberings": {},
+        "headers": {},
+        "body": [
+          "root",
+          {
+            "sectPr": {
+              "pgSz": {
+                "w": 1588,
+                "h": 1127
+              },
+              "pgMar": {
+                "top": 48,
+                "bottom": 48,
+                "left": 72,
+                "right": 72,
+                "header": 56.73,
+                "footer": 66.13,
+                "gutter": 0
+              }
+            },
+            "theme": {
+              "table": {
+                "tableCell": {
+                  "vAlign": "top"
+                }
+              }
+            }
+          },
+          [
+            "p",
+            {
+              "uuid": "mfbxvvv96anke9pqv2i"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "亲爱的商家："
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mfbydf96ce00ts0ixph",
+              "ind": {
+                "firstLine": 32
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "您好！您是否存在线索到达之后，由于没有收到通知，导致无法及时跟进线索的问题？线索推广推出全新"
+              ],
+              [
+                "span",
+                {
+                  "color": "#E03E3E",
+                  "data-type": "leaf"
+                },
+                "「线索到达通知」和「线索分配通知」"
+              ],
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "两大功能，助力您第一时间获取到留资信息！"
+              ]
+            ]
+          ],
+          [
+            "h3",
+            {
+              "uuid": "mfbycsawuymsawmvx9",
+              "ind": {
+                "hanging": 0,
+                "left": 0
+              },
+              "spacing": {
+                "before": 24,
+                "after": 8.666666666666666,
+                "line": 0.8615384615384615
+              },
+              "list": {
+                "listId": "heading-zo4lmr2dql",
+                "level": 2,
+                "isTaskList": false,
+                "isOrdered": true,
+                "listStyleType": "DEC_DEC_DEC_P",
+                "listStyle": {
+                  "format": "decimal",
+                  "text": "%1",
+                  "align": "left"
+                },
+                "autoLevel": true,
+                "symbolStyle": {
+                  "sz": 14.5,
+                  "bold": true
+                }
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 14.5,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "如何开启线索通知？"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mfbyflwx0r0003903u2f"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "进入阿里妈妈客户工作台-线索管理-线索设置-线索通知设置  "
+              ]
+            ],
+            [
+              "a",
+              {
+                "href": "https://business.alimama.com/#/",
+                "uuid": "mfbyft663sgrjhamtdl"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  "https://business.alimama.com/#/"
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mfbyhb0b0b1h3aadnknk"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "填写接受短信的手机号并获取验证码"
+              ],
+              [
+                "span",
+                {
+                  "sz": 11,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "（"
+              ],
+              [
+                "span",
+                {
+                  "highlight": "#F9DDB2",
+                  "sz": 11,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "仅当其设置手机号时生效，未设置手机号不发送短信"
+              ],
+              [
+                "span",
+                {
+                  "sz": 11,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "）"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mfbynxrxcgnqupgrq8"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "当通过「线索推广」广告投放获得一条线索时，系统将会及时推送到对应手机短信中。"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mfbyfkw8ngi7x37s9d"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ],
+            [
+              "img",
+              {
+                "uuid": "og9psc",
+                "name": "image.png",
+                "size": 2041156,
+                "width": 690,
+                "height": 357.74216027874564,
+                "src": "/core/api/resources/img/5eecdaf48460cde566bbf000a244da7e08e1cfb4f6fe05cc75b8339e1c4c24831b75b38faadcd24bec177c308ebd5304902cfa3b34569f171aa7dea934d85a7664e32a70723942716e2514b416932d684d3a6cecf5ab0bd74fb4c8ed7016461c",
+                "extraData": {
+                  "resourceId": "76659278-529c-4a60-9fab-0ef17087a3aa",
+                  "metaData": {
+                    "size": 2041156,
+                    "originWidth": 2870,
+                    "originHeight": 1488,
+                    "format": "png",
+                    "ratio": 1
+                  }
+                }
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mfbyh1je160awsp7pn8"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ],
+            [
+              "img",
+              {
+                "uuid": "o0trba",
+                "name": "image.png",
+                "size": 589862,
+                "width": 690,
+                "height": 195.20143240823634,
+                "src": "/core/api/resources/img/5eecdaf48460cde566bbf000a244da7e08e1cfb4f6fe05cc75b8339e1c4c24831b75b38faadcd24bec177c308ebd53045622962621cc05ba6945692f779c03a78164d9bfa6757cd1123e721a3fb60cca85f7e046adcb1e504fb4c8ed7016461c",
+                "extraData": {
+                  "resourceId": "e6091e9e-65f7-4607-b49a-02bb4a0f1272",
+                  "metaData": {
+                    "size": 589862,
+                    "originWidth": 2234,
+                    "originHeight": 632,
+                    "format": "png",
+                    "ratio": 1
+                  }
+                }
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mfbyh1rcw6bf7rflexe"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "italic": true,
+                  "color": "#979A9B",
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "ind": {
+                "left": 0
+              },
+              "spacing": {
+                "line": 1.15,
+                "lineRule": "auto"
+              },
+              "uuid": "mca6vslmez4bfgybo3"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 13,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "通知内容：【妈妈CRM】您的妈妈CRM账户有一条新线索，请登陆妈妈CRM"
+              ]
+            ],
+            [
+              "a",
+              {
+                "href": "https://business.alimama.com/#/lead/pages/index",
+                "uuid": "mca76lidpals47j4rte"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "sz": 13,
+                    "szUnit": "pt",
+                    "data-type": "leaf"
+                  },
+                  "https://business.alimama.com/#/lead/pages/index"
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 13,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "查看并处理."
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mfbyjh02g0h8qv3kq5"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "h3",
+            {
+              "uuid": "mfbyfl74sdi6jv9y9d",
+              "spacing": {
+                "before": 24,
+                "after": 8.666666666666666,
+                "line": 0.8615384615384615
+              },
+              "ind": {
+                "hanging": 0,
+                "left": 0
+              },
+              "list": {
+                "listId": "heading-zo4lmr2dql",
+                "level": 2,
+                "isTaskList": false,
+                "isOrdered": true,
+                "listStyleType": "DEC_DEC_DEC_P",
+                "listStyle": {
+                  "format": "decimal",
+                  "text": "%1",
+                  "align": "left"
+                },
+                "autoLevel": true,
+                "symbolStyle": {
+                  "sz": 14.5,
+                  "bold": true
+                }
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 14.5,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "线索分配功能"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mfbz544unyvi68i1ja"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "若您为"
+              ],
+              [
+                "span",
+                {
+                  "color": "#E03E3E",
+                  "data-type": "leaf"
+                },
+                "员工"
+              ],
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "，线索分配给您时，希望第一时间收到短信，可以登陆自己的淘宝账户并且打开线索分配通知按钮、设置接受短信的手机号"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mfbzwbz7ewks8w3a7an"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "当线索被分配给您时，则会收到对应线索的短信通知。"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mfbz2iwfo2dbbdxhkg"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ],
+            [
+              "img",
+              {
+                "uuid": "un5hgm",
+                "name": "image.png",
+                "size": 2057979,
+                "width": 690,
+                "height": 359.874826147427,
+                "src": "/core/api/resources/img/5eecdaf48460cde566bbf000a244da7e08e1cfb4f6fe05cc75b8339e1c4c24831b75b38faadcd24bec177c308ebd53049d75cc62a2af757e17bd5b953cdb68e0751ef2b1aa6271f61592acb7fe0ad76be8200d273f102e704fb4c8ed7016461c",
+                "extraData": {
+                  "resourceId": "9c661e47-5e99-45db-b7f6-a03fd1cec7cd",
+                  "metaData": {
+                    "size": 2057979,
+                    "originWidth": 2876,
+                    "originHeight": 1500,
+                    "format": "png",
+                    "ratio": 1
+                  }
+                }
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mfbzx6mnyynn8a8oyi9"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ],
+            [
+              "img",
+              {
+                "uuid": "7n6olt",
+                "name": "image.png",
+                "size": 1923370,
+                "width": 690,
+                "height": 354.6774193548387,
+                "src": "/core/api/resources/img/5eecdaf48460cde566bbf000a244da7e08e1cfb4f6fe05cc75b8339e1c4c24831b75b38faadcd24bec177c308ebd5304bd13c11026d4df6776f53d2d2dc9ca57e27ce6285c0fa803fa0365bd6a596b32a108aed05ec747064fb4c8ed7016461c",
+                "extraData": {
+                  "resourceId": "8e168bca-cc57-4551-8d39-bea9c8208ddb",
+                  "metaData": {
+                    "size": 1923370,
+                    "originWidth": 2852,
+                    "originHeight": 1466,
+                    "format": "png",
+                    "ratio": 1
+                  }
+                }
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mfbzx71q3i6r6yp84rq"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mfbz53fbesyz49iwgmg"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "通知内容"
+              ],
+              [
+                "span",
+                {
+                  "bold": false,
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "：【妈妈CRM】有一条新线索被分配给您，请PC端点击链接"
+              ]
+            ],
+            [
+              "a",
+              {
+                "href": "https://business.alimama.com/#/lead/pages/index",
+                "uuid": "mca76dj1os9k16bwb1"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "bold": false,
+                    "sz": 12,
+                    "szUnit": "pt",
+                    "data-type": "leaf"
+                  },
+                  "https://business.alimama.com/#/lead/pages/index"
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": false,
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "查看并处理。"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mfbypy33see12vjbk4s"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": false,
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ]
+        ],
+        "footers": {},
+        "version": 1
+      },
+      "refs": {}
+    }
+  }
+}

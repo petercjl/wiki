@@ -1,0 +1,2302 @@
+{
+  "version": 1,
+  "type": "application/x-alidocs-package",
+  "main": "00000000-0000-0000-0000-000000000001",
+  "plugins": "00000000-0000-0000-0000-000000000002",
+  "parts": {
+    "00000000-0000-0000-0000-000000000001": {
+      "id": "00000000-0000-0000-0000-000000000001",
+      "type": "application/x-alidocs-word",
+      "version": 1,
+      "data": {
+        "style": {
+          "docDefaults": {
+            "type": "paragraph",
+            "default": 1,
+            "name": "dingdocnormal",
+            "data": {
+              "rPr": {
+                "sz": 12,
+                "szUnit": "pt"
+              },
+              "pPr": {
+                "spacing": {
+                  "before": 12,
+                  "after": 12
+                }
+              }
+            }
+          },
+          "tableDefault": {
+            "type": "table",
+            "data": {
+              "tblPr": {
+                "bdr": {
+                  "bottom": {
+                    "color": "#D6D6D6",
+                    "space": 0,
+                    "sz": 1,
+                    "val": "single"
+                  },
+                  "insideH": {
+                    "color": "#D6D6D6",
+                    "space": 0,
+                    "sz": 1,
+                    "val": "single"
+                  },
+                  "insideV": {
+                    "color": "#D6D6D6",
+                    "space": 0,
+                    "sz": 1,
+                    "val": "single"
+                  },
+                  "left": {
+                    "color": "#D6D6D6",
+                    "space": 0,
+                    "sz": 1,
+                    "val": "single"
+                  },
+                  "right": {
+                    "color": "#D6D6D6",
+                    "space": 0,
+                    "sz": 1,
+                    "val": "single"
+                  },
+                  "top": {
+                    "color": "#D6D6D6",
+                    "space": 0,
+                    "sz": 1,
+                    "val": "single"
+                  }
+                }
+              }
+            }
+          },
+          "tableHeader": {
+            "type": "table",
+            "basedOn": "tableDefault",
+            "data": {
+              "tblStylePr": [
+                {
+                  "type": "firstRow",
+                  "tcPr": {
+                    "shd": {
+                      "fill": "#F5F6F7"
+                    }
+                  }
+                },
+                {
+                  "type": "firstCol",
+                  "tcPr": {
+                    "shd": {
+                      "fill": "#F5F6F7"
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        "theme": [],
+        "settings": {
+          "titleCover": {
+            "isHide": true
+          }
+        },
+        "app": {},
+        "numberings": {},
+        "headers": {},
+        "body": [
+          "root",
+          {
+            "sectPr": {
+              "pgSz": {
+                "w": 1127,
+                "h": 1588
+              },
+              "pgMar": {
+                "header": 56.73,
+                "footer": 66.13,
+                "top": 48,
+                "bottom": 48,
+                "left": 72,
+                "right": 72,
+                "gutter": 0
+              }
+            },
+            "theme": {
+              "table": {
+                "tableCell": {
+                  "vAlign": "top"
+                }
+              }
+            },
+            "uuid": "mmu16uh25db74r4jutf"
+          },
+          [
+            "p",
+            {
+              "uuid": "mn6vvh0t1ijzpwpng0t"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 16,
+                  "szUnit": "pt",
+                  "color": "linear-gradient(152deg, #C676FF 0%, #654CFF 41%, #405EFF 75%, #007FFF 99%)",
+                  "data-type": "leaf"
+                },
+                "功能说明"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mq4wf5v04mj3zbqpzos",
+              "ind": {
+                "left": 0
+              },
+              "list": {
+                "listId": "mk535w6tcdl",
+                "level": 0,
+                "isTaskList": false,
+                "isOrdered": false,
+                "listStyleType": "SCIR_ECIR_SREC",
+                "symbolStyle": {
+                  "sz": 12
+                },
+                "listStyle": {
+                  "format": "bullet",
+                  "text": "●",
+                  "align": "left"
+                }
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "linear-gradient(152deg, #C676FF 0%, #654CFF 41%, #405EFF 75%, #007FFF 99%)",
+                  "data-type": "leaf"
+                },
+                "全店-分组投放上线，"
+              ],
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "支持商家创建多个计划组，每个计划组下可按需添加商品，并为这个计划组设置对应的出价（控投产比设置ROI/最大化拿量）和预算；"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mq4wfqtmw0hdqi3d0z8",
+              "ind": {
+                "left": 0
+              },
+              "list": {
+                "listId": "mk535w6tcdl",
+                "level": 0,
+                "isTaskList": false,
+                "isOrdered": false,
+                "listStyleType": "SCIR_ECIR_SREC",
+                "symbolStyle": {
+                  "sz": 12
+                },
+                "listStyle": {
+                  "format": "bullet",
+                  "text": "●",
+                  "align": "left"
+                }
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": false,
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "升级后，全店模式场景会由展示"
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "linear-gradient(152deg, #C676FF 0%, #654CFF 41%, #405EFF 75%, #007FFF 99%)",
+                  "data-type": "leaf"
+                },
+                "宝贝列表切换到展示计划列表"
+              ],
+              [
+                "span",
+                {
+                  "bold": false,
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "linear-gradient(152deg, #C676FF 0%, #654CFF 41%, #405EFF 75%, #007FFF 99%)",
+                  "data-type": "leaf"
+                },
+                "，"
+              ],
+              [
+                "span",
+                {
+                  "bold": false,
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "商家可以进入原来的全店智能托管计划详情，查看原智能托管计划中投放的全部宝贝；"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mq557e6vigmofmnznpf",
+              "ind": {
+                "left": 0
+              },
+              "list": {
+                "listId": "mk535w6tcdl",
+                "level": 0,
+                "isTaskList": false,
+                "isOrdered": false,
+                "listStyleType": "SCIR_ECIR_SREC",
+                "symbolStyle": {
+                  "sz": 12
+                },
+                "listStyle": {
+                  "format": "bullet",
+                  "text": "●",
+                  "align": "left"
+                }
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": false,
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "同时，商家的全店模式计划可以从原来的1个智能托管计划，变成"
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "linear-gradient(152deg, #C676FF 0%, #654CFF 41%, #405EFF 75%, #007FFF 99%)",
+                  "data-type": "leaf"
+                },
+                "1+10个计划"
+              ],
+              [
+                "span",
+                {
+                  "bold": false,
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "（1个智能托管计划+10个分组投放计划）"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mn8oeapytef0j2q8g4g"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ],
+            [
+              "img",
+              {
+                "uuid": "mq4w7nbxxdx4fkva84",
+                "name": "image.png",
+                "size": 3919214,
+                "width": 872,
+                "height": 437,
+                "src": "/core/api/resources/img/5eecdaf48460cde5a5f4595b1b937279612d28af8294292275b8339e1c4c24831b75b38faadcd24bec177c308ebd53045657b7ca80dfbca4c94c5c1076ae2f065d46b9f859fb3cc19991544e598f4ea02ee8a8fb6262d8404fb4c8ed7016461c",
+                "extraData": {
+                  "resourceId": "934a88a8-c437-4bbd-a31a-3ba13b0d8f26",
+                  "metaData": {
+                    "size": 3919214,
+                    "originWidth": 2356,
+                    "originHeight": 1180,
+                    "format": "png",
+                    "ratio": 1
+                  }
+                },
+                "rotation": 0
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mn8okeggqqzqu5yri5"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 16,
+                  "szUnit": "pt",
+                  "color": "linear-gradient(152deg, #C676FF 0%, #654CFF 41%, #405EFF 75%, #007FFF 99%)",
+                  "data-type": "leaf"
+                },
+                "投放流程"
+              ]
+            ]
+          ],
+          [
+            "table",
+            {
+              "colsWidth": [
+                33.3,
+                33.3,
+                33.400000000000006
+              ],
+              "tblW": {
+                "w": 100,
+                "type": "pct"
+              },
+              "uuid": "mn8opi1w8dzi2obriuw",
+              "styleId": "tableHeader",
+              "tblLook": {
+                "firstRow": 1,
+                "firstColumn": 0,
+                "lastRow": 0,
+                "lastColumn": 0
+              }
+            },
+            [
+              "tr",
+              {
+                "uuid": "mn8opi1w42ftx8my79m",
+                "isTblHeader": true
+              },
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mn8opi1w9ircxzwdm5f"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mn8opi1w2ma3v07g83h"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "流程"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mn8opi1wq3dt7q8xy4r"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mn8opi1wkwalksurkeh"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "图示"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mn8opi1wo40ifu9r19"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mn8opi1w5izguub6fps"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "说明"
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {
+                "uuid": "mn8opi1w2yfxgtkh9vt",
+                "h": 272
+              },
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mn8opi1wlzs426z9zzo"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mq4l8cb2d5264ocxzhf",
+                    "ind": {
+                      "left": 0
+                    }
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "进入全站推-计划横向管理-"
+                    ]
+                  ],
+                  [
+                    "a",
+                    {
+                      "href": "https://one.alimama.com/index.html#!/manage/onesite?mx_bizCode=onebpSite&bizCode=onebpSite&tab=item",
+                      "uuid": "mqevue15t67x4y8lcrp"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "leaf"
+                        },
+                        "新建分组计划"
+                      ]
+                    ]
+                  ],
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "uuid": "mq4lazgpozho25quvbr",
+                    "ind": {
+                      "left": 0
+                    }
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "or"
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "uuid": "mn8opi1wbbf5po85wri",
+                    "ind": {
+                      "left": 0
+                    }
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "进入全站推-全店模式-新建分组计划"
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "uuid": "mq4l85xp1mshnttu553",
+                    "ind": {
+                      "left": 0
+                    }
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mn8opi1wmc76howux3"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mn8opi1wwt7s5epllh9"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "新建分组："
+                    ]
+                  ],
+                  [
+                    "img",
+                    {
+                      "uuid": "oabhka",
+                      "name": "image.png",
+                      "size": 783743,
+                      "width": 274,
+                      "height": 97.35141866936144,
+                      "src": "/core/api/resources/img/5eecdaf48460cde5a5f4595b1b937279612d28af8294292275b8339e1c4c24831b75b38faadcd24bec177c308ebd530414a438d5519069ff197dbc80653c66cf38dafd88833cb83d273496faaa06181088efed0ec09a20f04fb4c8ed7016461c",
+                      "extraData": {
+                        "resourceId": "ebbe95dc-7cdd-4866-b1fe-163462481160",
+                        "metaData": {
+                          "size": 783743,
+                          "originWidth": 1897,
+                          "originHeight": 674,
+                          "format": "png",
+                          "ratio": 1
+                        }
+                      }
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "leaf"
+                        },
+                        ""
+                      ]
+                    ]
+                  ],
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "uuid": "mq4lampvo8lg896ci6"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "进入分组弹窗："
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "uuid": "mq4lampulvi5b7t4e0i"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ],
+                  [
+                    "img",
+                    {
+                      "uuid": "mn8opmp68isbfgjepdu",
+                      "name": "image.png",
+                      "size": 1631960,
+                      "width": 613,
+                      "height": 397,
+                      "src": "/core/api/resources/img/5eecdaf48460cde5a5f4595b1b937279612d28af8294292275b8339e1c4c24831b75b38faadcd24bec177c308ebd5304fec2cf0cfe6f757b00b42372781f2cf3418f322d4fda24cbda43fbb0c62bce4543ebe9021a6126924fb4c8ed7016461c",
+                      "extraData": {
+                        "resourceId": "f29ce7c1-92cd-4e4d-865a-ea3f53b89d17",
+                        "metaData": {
+                          "size": 1631960,
+                          "originWidth": 2128,
+                          "originHeight": 1378,
+                          "format": "png",
+                          "ratio": 1
+                        }
+                      },
+                      "rotation": 0
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "leaf"
+                        },
+                        ""
+                      ]
+                    ]
+                  ],
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mn8opi1wzsnftscuobm"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mn8opi1wimanz7n3zz9",
+                    "ind": {
+                      "left": 0
+                    },
+                    "list": {
+                      "listId": "fcdl87umwuj",
+                      "level": 0,
+                      "isTaskList": false,
+                      "isOrdered": false,
+                      "listStyleType": "SCIR_ECIR_SREC",
+                      "symbolStyle": {},
+                      "listStyle": {
+                        "format": "bullet",
+                        "text": "●",
+                        "align": "left"
+                      }
+                    }
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "新建计划支持推广方式选择"
+                    ],
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "data-type": "leaf"
+                      },
+                      "「分组托管」"
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "uuid": "mn8ot1qlknwf30bs2v",
+                    "ind": {
+                      "left": 0
+                    },
+                    "list": {
+                      "listId": "fcdl87umwuj",
+                      "level": 0,
+                      "isTaskList": false,
+                      "isOrdered": false,
+                      "listStyleType": "SCIR_ECIR_SREC",
+                      "symbolStyle": {},
+                      "listStyle": {
+                        "format": "bullet",
+                        "text": "●",
+                        "align": "left"
+                      },
+                      "extraData": {},
+                      "isChecked": false,
+                      "hideSymbol": false
+                    }
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "全店模式最多可创建"
+                    ],
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "data-type": "leaf"
+                      },
+                      "1个「"
+                    ],
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "智能托管」计划，"
+                    ],
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "data-type": "leaf"
+                      },
+                      "10个"
+                    ],
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "「分组托管」计划"
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "uuid": "mn8otivlvhtz2ql4mvs",
+                    "ind": {
+                      "left": 0
+                    },
+                    "list": {
+                      "listId": "fcdl87umwuj",
+                      "level": 0,
+                      "isTaskList": false,
+                      "isOrdered": false,
+                      "listStyleType": "SCIR_ECIR_SREC",
+                      "symbolStyle": {},
+                      "listStyle": {
+                        "format": "bullet",
+                        "text": "●",
+                        "align": "left"
+                      },
+                      "extraData": {},
+                      "isChecked": false,
+                      "hideSymbol": false
+                    }
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "第一次新建时系统会默认创建推荐分组及推荐商品，可手动删除分组，修改分组内商品"
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "uuid": "mn8ov575746h6531g9b",
+                    "ind": {
+                      "left": 0
+                    },
+                    "list": {
+                      "listId": "fcdl87umwuj",
+                      "level": 0,
+                      "isTaskList": false,
+                      "isOrdered": false,
+                      "listStyleType": "SCIR_ECIR_SREC",
+                      "symbolStyle": {},
+                      "listStyle": {
+                        "format": "bullet",
+                        "text": "●",
+                        "align": "left"
+                      },
+                      "extraData": {},
+                      "isChecked": false,
+                      "hideSymbol": false
+                    }
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "分组计划支持修改预算和出价方式"
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "ind": {
+                      "left": 0
+                    },
+                    "list": {
+                      "extraData": {},
+                      "hideSymbol": false,
+                      "isChecked": false,
+                      "isOrdered": false,
+                      "isTaskList": false,
+                      "level": 0,
+                      "listId": "fcdl87umwuj",
+                      "listStyle": {
+                        "align": "left",
+                        "format": "bullet",
+                        "text": "●"
+                      },
+                      "listStyleType": "SCIR_ECIR_SREC",
+                      "symbolStyle": {}
+                    },
+                    "uuid": "mn8ovnt2lpgrxn8ymsj"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "一个分组计划最多添加500个商品，至少添加3个商品"
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {
+                "uuid": "mn8opi1w82zehp9pp2v"
+              },
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mn8opi1wakdcanj0igl"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mn8opi1wvg270t7rgz"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "投中-计划列表"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mn8opi1wq0na378xm5k"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mn8opi1ws3kignahc3"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ],
+                  [
+                    "img",
+                    {
+                      "extraData": {
+                        "metaData": {
+                          "format": "png",
+                          "originHeight": 1066,
+                          "originWidth": 1204,
+                          "ratio": 1,
+                          "size": 423534
+                        },
+                        "resourceId": "35af0bf3-2546-4978-8569-1d4a7364ecd4"
+                      },
+                      "height": 370.0876975287417,
+                      "name": "image.png",
+                      "size": 423534,
+                      "src": "/core/api/resources/img/5eecdaf48460cde5a5f4595b1b937279612d28af8294292275b8339e1c4c24831b75b38faadcd24bec177c308ebd5304288ff013f3d528c1ce8463f3328fe5418b255130342b821394e197c234c7db7ac65f75adf2eb53284fb4c8ed7016461c",
+                      "uuid": "0bl6cd",
+                      "width": 418
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "leaf"
+                        },
+                        ""
+                      ]
+                    ]
+                  ],
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "uuid": "mq4l2lwetrl93thyw6"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "注意："
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "uuid": "mq4l2e5ayl6jjrz44va"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ],
+                  [
+                    "img",
+                    {
+                      "uuid": "n8ognf",
+                      "name": "image.png",
+                      "size": 3919214,
+                      "width": 274,
+                      "height": 137.23157936958154,
+                      "src": "/core/api/resources/img/5eecdaf48460cde5a5f4595b1b937279612d28af8294292275b8339e1c4c24831b75b38faadcd24bec177c308ebd53045657b7ca80dfbca4c94c5c1076ae2f065d46b9f859fb3cc19991544e598f4ea02ee8a8fb6262d8404fb4c8ed7016461c",
+                      "extraData": {
+                        "resourceId": "934a88a8-c437-4bbd-a31a-3ba13b0d8f26",
+                        "metaData": {
+                          "size": 3919214,
+                          "originWidth": 2356,
+                          "originHeight": 1180,
+                          "format": "png",
+                          "ratio": 1
+                        }
+                      }
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "leaf"
+                        },
+                        ""
+                      ]
+                    ]
+                  ],
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mn8opi1wa6wfoqk1fc"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mn8opi1wuy8waxxjy8m",
+                    "ind": {
+                      "left": 0
+                    },
+                    "list": {
+                      "listId": "qggrfcwo1",
+                      "level": 0,
+                      "isTaskList": false,
+                      "isOrdered": false,
+                      "listStyleType": "SCIR_ECIR_SREC",
+                      "symbolStyle": {},
+                      "listStyle": {
+                        "format": "bullet",
+                        "text": "●",
+                        "align": "left"
+                      }
+                    }
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "全店计划按列表展示，第一条默认为全店智能托管计划"
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "uuid": "mn8p1a6zhqir1d17az9",
+                    "ind": {
+                      "left": 0
+                    },
+                    "list": {
+                      "listId": "qggrfcwo1",
+                      "level": 0,
+                      "isTaskList": false,
+                      "isOrdered": false,
+                      "listStyleType": "SCIR_ECIR_SREC",
+                      "symbolStyle": {},
+                      "listStyle": {
+                        "format": "bullet",
+                        "text": "●",
+                        "align": "left"
+                      },
+                      "extraData": {},
+                      "isChecked": false,
+                      "hideSymbol": false
+                    }
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "点击计划名称可跳转计划详情"
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "uuid": "mn8p1k28t5f3r77n1f",
+                    "ind": {
+                      "left": 0
+                    },
+                    "list": {
+                      "listId": "qggrfcwo1",
+                      "level": 0,
+                      "isTaskList": false,
+                      "isOrdered": false,
+                      "listStyleType": "SCIR_ECIR_SREC",
+                      "symbolStyle": {},
+                      "listStyle": {
+                        "format": "bullet",
+                        "text": "●",
+                        "align": "left"
+                      },
+                      "extraData": {},
+                      "isChecked": false,
+                      "hideSymbol": false
+                    }
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "计划名称支持自定义修改"
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "uuid": "mn8p2kjiacxa03p62vt",
+                    "ind": {
+                      "left": 0
+                    },
+                    "list": {
+                      "listId": "qggrfcwo1",
+                      "level": 0,
+                      "isTaskList": false,
+                      "isOrdered": false,
+                      "listStyleType": "SCIR_ECIR_SREC",
+                      "symbolStyle": {},
+                      "listStyle": {
+                        "format": "bullet",
+                        "text": "●",
+                        "align": "left"
+                      },
+                      "extraData": {},
+                      "isChecked": false,
+                      "hideSymbol": false
+                    }
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "计划支持开启、暂停"
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "uuid": "mn8p2qi3xdd7ahx0zxq",
+                    "ind": {
+                      "left": 0
+                    },
+                    "list": {
+                      "listId": "qggrfcwo1",
+                      "level": 0,
+                      "isTaskList": false,
+                      "isOrdered": false,
+                      "listStyleType": "SCIR_ECIR_SREC",
+                      "symbolStyle": {},
+                      "listStyle": {
+                        "format": "bullet",
+                        "text": "●",
+                        "align": "left"
+                      },
+                      "extraData": {},
+                      "isChecked": false,
+                      "hideSymbol": false
+                    }
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "分组托管支持删除，智能托管不支持删除"
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "uuid": "mn8p4qdchaapbtyb9xp",
+                    "ind": {
+                      "left": 0
+                    },
+                    "list": {
+                      "listId": "qggrfcwo1",
+                      "level": 0,
+                      "isTaskList": false,
+                      "isOrdered": false,
+                      "listStyleType": "SCIR_ECIR_SREC",
+                      "symbolStyle": {},
+                      "listStyle": {
+                        "format": "bullet",
+                        "text": "●",
+                        "align": "left"
+                      },
+                      "extraData": {},
+                      "isChecked": false,
+                      "hideSymbol": false
+                    }
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "支持修改计划预算、出价方式"
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "uuid": "mo9frxawl2ecoea7bpk",
+                    "ind": {
+                      "left": 0
+                    }
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "color": "linear-gradient(90deg, #FF7100 0%, #F300AD 100%)",
+                        "data-type": "leaf"
+                      },
+                      "*注意："
+                    ],
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "sz": 12,
+                        "szUnit": "pt",
+                        "color": "linear-gradient(90deg, #FF7100 0%, #F300AD 100%)",
+                        "data-type": "leaf"
+                      },
+                      "分组投放升级后，计划横向管理展示页面会随之升级，全店模式的宝贝列表查看位置从推广页改为计划详情页，若需要查看商品完整数据，需点击计划详情进入查看"
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {
+                "uuid": "mn8p3cq7xco1japl0xo"
+              },
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mn8p3cq7utk6q6yv6km"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mn8p3cq7xxa2saygu1"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "分组-计划详情-分组商品"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mn8p3cq79clzbfzn5nr"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mn8p3cq736l05j0r7gf"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ],
+                  [
+                    "img",
+                    {
+                      "uuid": "3q2caq",
+                      "name": "image.png",
+                      "size": 417189,
+                      "width": 418,
+                      "height": 386.69343785497625,
+                      "src": "/core/api/resources/img/5eecdaf48460cde5a5f4595b1b937279612d28af8294292275b8339e1c4c24831b75b38faadcd24bec177c308ebd53043915be10b39d18fd9231ab4f1cb44912b074c88360b0172c499b346eeeedd78195b646af0df3bb594fb4c8ed7016461c",
+                      "extraData": {
+                        "resourceId": "733e2541-babb-46a3-9800-da652ad93cca",
+                        "metaData": {
+                          "size": 417189,
+                          "originWidth": 1442,
+                          "originHeight": 1334,
+                          "format": "png",
+                          "ratio": 1
+                        }
+                      }
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "leaf"
+                        },
+                        ""
+                      ]
+                    ]
+                  ],
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "uuid": "mn8p6d349nz66hrxiym"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mn8p3cq736bqbcanvbc"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mn8p3cq7mb9d5d8ahxe",
+                    "ind": {
+                      "left": 0
+                    },
+                    "list": {
+                      "listId": "xwwzu9vv22k",
+                      "level": 0,
+                      "isTaskList": false,
+                      "isOrdered": false,
+                      "listStyleType": "SCIR_ECIR_SREC",
+                      "symbolStyle": {},
+                      "listStyle": {
+                        "format": "bullet",
+                        "text": "●",
+                        "align": "left"
+                      }
+                    }
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "支持添加商品（一个分组计划最多添加500个商品，至少添加3个商品）"
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "uuid": "mn8p7fl2gc1ugmc8awo",
+                    "ind": {
+                      "left": 0
+                    },
+                    "list": {
+                      "listId": "xwwzu9vv22k",
+                      "level": 0,
+                      "isTaskList": false,
+                      "isOrdered": false,
+                      "listStyleType": "SCIR_ECIR_SREC",
+                      "symbolStyle": {},
+                      "listStyle": {
+                        "format": "bullet",
+                        "text": "●",
+                        "align": "left"
+                      },
+                      "extraData": {},
+                      "isChecked": false,
+                      "hideSymbol": false
+                    }
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "支持删除在投商品"
+                    ]
+                  ]
+                ]
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mn8opde4pf02ofx2n59"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 16,
+                  "szUnit": "pt",
+                  "color": "linear-gradient(152deg, #C676FF 0%, #654CFF 41%, #405EFF 75%, #007FFF 99%)",
+                  "data-type": "leaf"
+                },
+                "使用场景"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mn8p868h6ckcdogetuo",
+              "ind": {
+                "left": 0
+              },
+              "list": {
+                "listId": "nu2bbb1hzxk",
+                "level": 0,
+                "isTaskList": false,
+                "isOrdered": false,
+                "listStyleType": "SCIR_ECIR_SREC",
+                "symbolStyle": {
+                  "color": "#222328",
+                  "bold": false,
+                  "sz": 12
+                },
+                "listStyle": {
+                  "format": "bullet",
+                  "text": "●",
+                  "align": "left"
+                }
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "#222328",
+                  "data-type": "leaf"
+                },
+                "服饰、饰品、图书等多链接商家，按不同商品"
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "#222328",
+                  "data-type": "leaf"
+                },
+                "利润分组投放"
+              ],
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "#222328",
+                  "data-type": "leaf"
+                },
+                "，设置不同出价"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mn8p96c632ibv7t5at5",
+              "ind": {
+                "left": 0
+              },
+              "list": {
+                "listId": "nu2bbb1hzxk",
+                "level": 0,
+                "isTaskList": false,
+                "isOrdered": false,
+                "listStyleType": "SCIR_ECIR_SREC",
+                "symbolStyle": {
+                  "color": "#222328",
+                  "bold": false,
+                  "sz": 12
+                },
+                "listStyle": {
+                  "format": "bullet",
+                  "text": "●",
+                  "align": "left"
+                },
+                "extraData": {},
+                "isChecked": false,
+                "hideSymbol": false
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "#222328",
+                  "data-type": "leaf"
+                },
+                "新品批量测款"
+              ],
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "#222328",
+                  "data-type": "leaf"
+                },
+                "，按品类或上架时间批量分组管理"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mn8p9apnpwceww5f2p",
+              "ind": {
+                "left": 0
+              },
+              "list": {
+                "listId": "nu2bbb1hzxk",
+                "level": 0,
+                "isTaskList": false,
+                "isOrdered": false,
+                "listStyleType": "SCIR_ECIR_SREC",
+                "symbolStyle": {
+                  "color": "#222328",
+                  "bold": false,
+                  "sz": 12
+                },
+                "listStyle": {
+                  "format": "bullet",
+                  "text": "●",
+                  "align": "left"
+                },
+                "extraData": {},
+                "isChecked": false,
+                "hideSymbol": false
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "#222328",
+                  "data-type": "leaf"
+                },
+                "店铺在架商品多，全店"
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "#222328",
+                  "data-type": "leaf"
+                },
+                "智能托管屏蔽额度不够"
+              ],
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "#222328",
+                  "data-type": "leaf"
+                },
+                "，可以通过分组投放少量商品尝试全店模式"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mn8pbogwwhpnmd78y0h",
+              "ind": {
+                "left": 0
+              },
+              "list": {
+                "listId": "nu2bbb1hzxk",
+                "level": 0,
+                "isTaskList": false,
+                "isOrdered": false,
+                "listStyleType": "SCIR_ECIR_SREC",
+                "symbolStyle": {
+                  "color": "#222328",
+                  "bold": false,
+                  "sz": 12
+                },
+                "listStyle": {
+                  "format": "bullet",
+                  "text": "●",
+                  "align": "left"
+                },
+                "extraData": {},
+                "isChecked": false,
+                "hideSymbol": false
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "#222328",
+                  "data-type": "leaf"
+                },
+                "店铺内多人负责不同商品，智能托管没法满足按运营人员分别批量投放，分组托管可支持"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mn8pg6xj778oc8s5g3",
+              "ind": {
+                "left": 0
+              },
+              "list": {
+                "listId": "nu2bbb1hzxk",
+                "level": 0,
+                "isTaskList": false,
+                "isOrdered": false,
+                "listStyleType": "SCIR_ECIR_SREC",
+                "symbolStyle": {
+                  "color": "#222328",
+                  "bold": false,
+                  "sz": 12
+                },
+                "listStyle": {
+                  "format": "bullet",
+                  "text": "●",
+                  "align": "left"
+                },
+                "extraData": {},
+                "isChecked": false,
+                "hideSymbol": false
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "#222328",
+                  "data-type": "leaf"
+                },
+                "智能托管一个预算和出价，会有个别品占用过多预算，设置ROI不敢设太低；分组托管可分多个组隔离预算，毛利高的组可设置更有竞争力的目标投产比，提升商品拿量能力"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mp0k55idb6gmgbu1pf",
+              "ind": {
+                "left": 0
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "#222328",
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mn8pdqjogf4nm4zl7mf",
+              "ind": {
+                "left": 0
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 16,
+                  "szUnit": "pt",
+                  "color": "linear-gradient(152deg, #C676FF 0%, #654CFF 41%, #405EFF 75%, #007FFF 99%)",
+                  "data-type": "leaf"
+                },
+                "商家案例"
+              ]
+            ]
+          ],
+          [
+            "container",
+            {
+              "subType": "colorBlocks",
+              "metadata": {
+                "padding": {
+                  "top": 11,
+                  "right": 11,
+                  "bottom": 11,
+                  "left": 11
+                },
+                "borderRadius": 8,
+                "sticker": "灯泡",
+                "bgcolor": "linear-gradient(316deg, #FCEFF3 -13%, #FFFEFE 52%, #F4B9CD 125%)",
+                "showstk": false,
+                "border": null
+              },
+              "uuid": "mp0kaf3m1789eicns89"
+            },
+            [
+              "p",
+              {
+                "uuid": "mp0kaf3ms5f5ndcf7tj",
+                "spacing": {
+                  "line": 1.15,
+                  "lineRule": "auto"
+                }
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "bold": true,
+                    "sz": 12,
+                    "szUnit": "pt",
+                    "color": "#222328",
+                    "data-type": "leaf"
+                  },
+                  "商家原声："
+                ],
+                [
+                  "span",
+                  {
+                    "bold": false,
+                    "sz": 12,
+                    "szUnit": "pt",
+                    "color": "#222328",
+                    "data-type": "leaf"
+                  },
+                  "之前我们投广告老头疼了，单品预算低，根本打不动。后来听平台建议，把所有商品都加到全店计划里一起跑，还分了个组来管理。结果消耗和成交一下子都涨了不少，真的没想到！现在不用盯着每个宝贝去调预算了，整体一拉"
+                ]
+              ]
+            ],
+            [
+              "p",
+              {
+                "uuid": "mp0kaw5iy42n6ga9zxr",
+                "spacing": {
+                  "line": 1.15,
+                  "lineRule": "auto"
+                }
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "bold": false,
+                    "sz": 12,
+                    "szUnit": "pt",
+                    "color": "#222328",
+                    "data-type": "leaf"
+                  },
+                  "就上来了，省心又有效果，真的是降本增效的好办法！"
+                ]
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mp0k6x6y7wa36l8hp1k",
+              "ind": {
+                "left": 0
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 16,
+                  "szUnit": "pt",
+                  "color": "linear-gradient(152deg, #C676FF 0%, #654CFF 41%, #405EFF 75%, #007FFF 99%)",
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ],
+            [
+              "img",
+              {
+                "uuid": "douseg",
+                "name": "image.png",
+                "size": 918415,
+                "width": 432.59,
+                "height": 734.07,
+                "src": "/core/api/resources/img/5eecdaf48460cde5a5f4595b1b937279612d28af8294292275b8339e1c4c24831b75b38faadcd24bec177c308ebd5304673f196baae0b05de933dd3ba26490788bf232b5002cbacbfdb0e93b80594caddb2d05b702a75c874fb4c8ed7016461c",
+                "extraData": {
+                  "resourceId": "9c93b96b-4aa6-4c00-83e9-21aab1949cd7",
+                  "metaData": {
+                    "size": 918415,
+                    "originWidth": 584,
+                    "originHeight": 991,
+                    "format": "png",
+                    "ratio": 1
+                  }
+                }
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 16,
+                  "szUnit": "pt",
+                  "color": "linear-gradient(152deg, #C676FF 0%, #654CFF 41%, #405EFF 75%, #007FFF 99%)",
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mn8pdr0uo1d2tup873h",
+              "ind": {
+                "left": 0
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "italic": true,
+                  "sz": 14,
+                  "szUnit": "pt",
+                  "color": "#222328",
+                  "data-type": "leaf"
+                },
+                "快来探索你的专属分组投放方式吧！"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mn8okpc8ipzts8tzb0l"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ]
+        ],
+        "footers": {},
+        "version": 1
+      },
+      "refs": {}
+    }
+  }
+}

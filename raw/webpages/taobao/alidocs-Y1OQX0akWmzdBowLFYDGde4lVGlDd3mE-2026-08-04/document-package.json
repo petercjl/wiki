@@ -1,0 +1,514 @@
+{
+  "version": 1,
+  "type": "application/x-alidocs-package",
+  "main": "00000000-0000-0000-0000-000000000001",
+  "plugins": "00000000-0000-0000-0000-000000000002",
+  "parts": {
+    "00000000-0000-0000-0000-000000000001": {
+      "id": "00000000-0000-0000-0000-000000000001",
+      "type": "application/x-alidocs-word",
+      "version": 1,
+      "data": {
+        "style": {
+          "docDefaults": {
+            "type": "paragraph",
+            "default": 1,
+            "name": "dingdocnormal",
+            "data": {
+              "rPr": {
+                "sz": 12,
+                "szUnit": "pt"
+              },
+              "pPr": {
+                "spacing": {
+                  "before": 8,
+                  "after": 8
+                }
+              }
+            }
+          }
+        },
+        "theme": [],
+        "settings": {
+          "titleCover": {
+            "isHide": true
+          }
+        },
+        "app": {},
+        "numberings": {},
+        "headers": {},
+        "body": [
+          "root",
+          {
+            "sectPr": {
+              "pgSz": {
+                "w": 892,
+                "h": 1127
+              },
+              "pgMar": {
+                "top": 48,
+                "bottom": 48,
+                "left": 72,
+                "right": 72,
+                "header": 56.73,
+                "footer": 66.13,
+                "gutter": 0
+              }
+            },
+            "theme": {
+              "table": {
+                "tableCell": {
+                  "vAlign": "top"
+                }
+              }
+            }
+          },
+          [
+            "h1",
+            {
+              "uuid": "mcoj3hddxv2kn0pzy5",
+              "spacing": {
+                "before": 26.666666666666664,
+                "after": 9,
+                "line": 0.8529411764705882
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 20,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "一、商家群"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mcojicvs0h8grt7zahnd"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "钉钉群号："
+              ],
+              [
+                "span",
+                {
+                  "highlight": "rgb(246, 246, 246)",
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "rgb(23, 26, 29)",
+                  "data-type": "leaf"
+                },
+                " 140655002852"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mcojp4aqj9k8l9khdbl"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ],
+            [
+              "img",
+              {
+                "uuid": "2hf5bd",
+                "name": "image.png",
+                "size": 245567,
+                "width": 260,
+                "height": 259,
+                "src": "/core/api/resources/img/5eecdaf48460cde57e58bbb4d4f0c191e65c8f0f9efdf97275b8339e1c4c24831b75b38faadcd24bec177c308ebd5304fa9e1623941b5d4b8eeb2fce2519c730bdaf1888544e817cd251df3528d9fb30f2bd8fe4b694b04a4fb4c8ed7016461c",
+                "extraData": {
+                  "resourceId": "f9687cad-7a97-431c-8e27-246ca678b5ac",
+                  "metaData": {
+                    "size": 245567,
+                    "originWidth": 520,
+                    "originHeight": 518,
+                    "format": "png",
+                    "ratio": 1
+                  }
+                }
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "h1",
+            {
+              "uuid": "mcojhnk3crnktindi5c",
+              "spacing": {
+                "before": 26.666666666666664,
+                "after": 9,
+                "line": 0.8529411764705882
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 20,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "二、操作入口"
+              ]
+            ]
+          ],
+          [
+            "h3",
+            {
+              "uuid": "mcoj3o58agbwz73gkcu",
+              "spacing": {
+                "before": 18.666666666666664,
+                "after": 8,
+                "line": 0.8529411764705882
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 14,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "方式一：计划新建入口"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mcoj6li6gzq7uml002"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "操作路径：关键词推广→自定义推广→"
+              ],
+              [
+                "span",
+                {
+                  "color": "#E03E3E",
+                  "data-type": "leaf"
+                },
+                "手动出价→添加人群"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mcoj3tjq1tarx5goy1q"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ],
+            [
+              "img",
+              {
+                "uuid": "ftvygx",
+                "name": "image.png",
+                "size": 982630,
+                "width": 748,
+                "height": 343.50214592274676,
+                "src": "/core/api/resources/img/5eecdaf48460cde57e58bbb4d4f0c191e65c8f0f9efdf97275b8339e1c4c24831b75b38faadcd24bec177c308ebd53048813515125b7f12deb4be5c8bcf81e33bd554826e7e9e116f3a8042795c6e2b1ec533c3b3c1dcf284fb4c8ed7016461c",
+                "extraData": {
+                  "resourceId": "12425e70-cb0d-400d-a10c-3458685db5c9",
+                  "metaData": {
+                    "size": 982630,
+                    "originWidth": 2330,
+                    "originHeight": 1070,
+                    "format": "png",
+                    "ratio": 1
+                  }
+                }
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mfescxr2n2dq7qoroqm"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "h3",
+            {
+              "uuid": "mcojfo3kpjur57zays",
+              "spacing": {
+                "before": 18.666666666666664,
+                "after": 8,
+                "line": 0.8529411764705882
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 14,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "方式二：存量计划入口"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mcojfo3k6uyka4kzqgh"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "操作路径：关键词推广→自定义推广→手动出价计划→单元→添加精准人群→AI小万选人"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mcojhiy4zftrk41ozd"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ],
+            [
+              "img",
+              {
+                "uuid": "xzk8el",
+                "name": "image.png",
+                "size": 647875,
+                "width": 748,
+                "height": 259.9535333978703,
+                "src": "/core/api/resources/img/5eecdaf48460cde57e58bbb4d4f0c191e65c8f0f9efdf97275b8339e1c4c24831b75b38faadcd24bec177c308ebd5304530985a467f6c14b785704bb8443b7c1b2b019441d2aa03cf6fe77afc4639dbb6209cfa5948fbf454fb4c8ed7016461c",
+                "extraData": {
+                  "resourceId": "35664d5d-77c9-46bd-9d0b-cd60f1052a65",
+                  "metaData": {
+                    "size": 647875,
+                    "originWidth": 2066,
+                    "originHeight": 718,
+                    "format": "png",
+                    "ratio": 1
+                  }
+                }
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mdfnypehhd7kbx85ogc"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mcoj6jykp2p1ftndu9r"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ]
+        ],
+        "footers": {},
+        "version": 1
+      },
+      "refs": {}
+    }
+  }
+}

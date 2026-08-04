@@ -1,0 +1,923 @@
+{
+  "version": 1,
+  "type": "application/x-alidocs-package",
+  "main": "00000000-0000-0000-0000-000000000001",
+  "plugins": "00000000-0000-0000-0000-000000000002",
+  "parts": {
+    "00000000-0000-0000-0000-000000000001": {
+      "id": "00000000-0000-0000-0000-000000000001",
+      "type": "application/x-alidocs-word",
+      "version": 1,
+      "data": {
+        "style": {
+          "docDefaults": {
+            "type": "paragraph",
+            "default": 1,
+            "name": "dingdocnormal",
+            "data": {
+              "rPr": {
+                "sz": 12,
+                "szUnit": "pt"
+              },
+              "pPr": {
+                "spacing": {
+                  "before": 10,
+                  "after": 10
+                }
+              }
+            }
+          }
+        },
+        "theme": [],
+        "settings": {
+          "titleCover": {
+            "isHide": true
+          }
+        },
+        "app": {},
+        "numberings": {},
+        "headers": {},
+        "body": [
+          "root",
+          {
+            "sectPr": {
+              "pgSz": {
+                "w": 892,
+                "h": 1127
+              },
+              "pgMar": {
+                "top": 48,
+                "bottom": 48,
+                "left": 72,
+                "right": 72,
+                "header": 56.73,
+                "footer": 66.13,
+                "gutter": 0
+              }
+            },
+            "theme": {
+              "table": {
+                "tableCell": {
+                  "vAlign": "top"
+                }
+              }
+            }
+          },
+          [
+            "h1",
+            {
+              "uuid": "mhvfwckj2myn20fvuwo",
+              "spacing": {
+                "before": 32,
+                "after": 12,
+                "line": 0.8615384615384615
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 21,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "一、案例"
+              ]
+            ]
+          ],
+          [
+            "table",
+            {
+              "colsWidth": [
+                487.5,
+                487.5
+              ],
+              "ind": {},
+              "sr": true,
+              "uuid": "mhnae62lmwcjsad2vnl"
+            },
+            [
+              "tr",
+              {
+                "uuid": "mhnae62ldhy2tpz38y6"
+              },
+              [
+                "tc",
+                {
+                  "vAlign": "top",
+                  "fill": "#FEF3F3",
+                  "uuid": "mhnae62l3ufpbgf112l",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mhnae62lcuegmki1yf"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "fonts": {
+                          "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                          "hAnsi": "\"Alibaba PuHuiTi 2.0\"",
+                          "cs": "\"Alibaba PuHuiTi 2.0\"",
+                          "eastAsia": "\"Alibaba PuHuiTi 2.0\""
+                        },
+                        "sz": 10,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "uuid": "mhnae62lqo41rnhuwu"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "fonts": {
+                          "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                          "hAnsi": "\"Alibaba PuHuiTi 2.0\"",
+                          "cs": "\"Alibaba PuHuiTi 2.0\"",
+                          "eastAsia": "\"Alibaba PuHuiTi 2.0\""
+                        },
+                        "sz": 10,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "uuid": "mhvsjqhje8na2haxhm9"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "fonts": {
+                          "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                          "cs": "\"Alibaba PuHuiTi 2.0\"",
+                          "eastAsia": "\"Alibaba PuHuiTi 2.0\"",
+                          "hAnsi": "\"Alibaba PuHuiTi 2.0\""
+                        },
+                        "sz": 10,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ],
+                  [
+                    "img",
+                    {
+                      "width": 1242,
+                      "height": 1660,
+                      "src": "/core/api/resources/img/5eecdaf48460cde51bbd01f83846d49e0aaa8db43963701175b8339e1c4c24831b75b38faadcd24bec177c308ebd5304cb0943229f5e7bc8722831bc7fe5f95a723cbf96abf662bfdca3c510c06b084507b78de26b71ef174fb4c8ed7016461c",
+                      "uuid": "mhvsjqhg1i6voe3cm68",
+                      "extraData": {
+                        "resourceId": "383f2814-00da-4c04-91cb-647e12084e6d",
+                        "metaData": {
+                          "size": 701864,
+                          "originWidth": 1242,
+                          "originHeight": 1660,
+                          "format": "jpg",
+                          "ratio": 1
+                        }
+                      }
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "fonts": {
+                            "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                            "cs": "\"Alibaba PuHuiTi 2.0\"",
+                            "eastAsia": "\"Alibaba PuHuiTi 2.0\"",
+                            "hAnsi": "\"Alibaba PuHuiTi 2.0\""
+                          },
+                          "sz": 10,
+                          "szUnit": "pt",
+                          "data-type": "leaf"
+                        },
+                        ""
+                      ]
+                    ]
+                  ],
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "fonts": {
+                          "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                          "cs": "\"Alibaba PuHuiTi 2.0\"",
+                          "eastAsia": "\"Alibaba PuHuiTi 2.0\"",
+                          "hAnsi": "\"Alibaba PuHuiTi 2.0\""
+                        },
+                        "sz": 10,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "uuid": "mhvsjqhklreeliijzll"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "fonts": {
+                          "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                          "cs": "\"Alibaba PuHuiTi 2.0\"",
+                          "eastAsia": "\"Alibaba PuHuiTi 2.0\"",
+                          "hAnsi": "\"Alibaba PuHuiTi 2.0\""
+                        },
+                        "sz": 10,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ],
+                  [
+                    "img",
+                    {
+                      "width": 1242,
+                      "height": 1660,
+                      "src": "/core/api/resources/img/5eecdaf48460cde51bbd01f83846d49e0aaa8db43963701175b8339e1c4c24831b75b38faadcd24bec177c308ebd530417dfafa869f9e82fda609c9cfeed41b60288453eace232ab2c77c4498eae59cb9363e32c3be8e14e4fb4c8ed7016461c",
+                      "uuid": "mhvsjqhglns0g8mbpt",
+                      "extraData": {
+                        "resourceId": "bca74361-aa1a-47ab-acfa-4d17b4829c82",
+                        "metaData": {
+                          "size": 686238,
+                          "originWidth": 1242,
+                          "originHeight": 1660,
+                          "format": "jpg",
+                          "ratio": 1
+                        }
+                      }
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "fonts": {
+                            "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                            "cs": "\"Alibaba PuHuiTi 2.0\"",
+                            "eastAsia": "\"Alibaba PuHuiTi 2.0\"",
+                            "hAnsi": "\"Alibaba PuHuiTi 2.0\""
+                          },
+                          "sz": 10,
+                          "szUnit": "pt",
+                          "data-type": "leaf"
+                        },
+                        ""
+                      ]
+                    ]
+                  ],
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "fonts": {
+                          "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                          "cs": "\"Alibaba PuHuiTi 2.0\"",
+                          "eastAsia": "\"Alibaba PuHuiTi 2.0\"",
+                          "hAnsi": "\"Alibaba PuHuiTi 2.0\""
+                        },
+                        "sz": 10,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "uuid": "mhvsjqhkzcn99lc1mlp"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "fonts": {
+                          "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                          "cs": "\"Alibaba PuHuiTi 2.0\"",
+                          "eastAsia": "\"Alibaba PuHuiTi 2.0\"",
+                          "hAnsi": "\"Alibaba PuHuiTi 2.0\""
+                        },
+                        "sz": 10,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ],
+                  [
+                    "img",
+                    {
+                      "width": 1242,
+                      "height": 1660,
+                      "src": "/core/api/resources/img/5eecdaf48460cde51bbd01f83846d49e0aaa8db43963701175b8339e1c4c24831b75b38faadcd24bec177c308ebd530471da4576104b6f25500518b75b4ad32c83c15489966f47654ecbbc5b36bbfd13ad2cb182bfc5754b4fb4c8ed7016461c",
+                      "uuid": "mhvsjqhgeqxcv4gsybw",
+                      "extraData": {
+                        "resourceId": "a375386d-327d-4019-94c1-46726b7c4c7d",
+                        "metaData": {
+                          "size": 687847,
+                          "originWidth": 1242,
+                          "originHeight": 1660,
+                          "format": "jpg",
+                          "ratio": 1
+                        }
+                      }
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "fonts": {
+                            "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                            "cs": "\"Alibaba PuHuiTi 2.0\"",
+                            "eastAsia": "\"Alibaba PuHuiTi 2.0\"",
+                            "hAnsi": "\"Alibaba PuHuiTi 2.0\""
+                          },
+                          "sz": 10,
+                          "szUnit": "pt",
+                          "data-type": "leaf"
+                        },
+                        ""
+                      ]
+                    ]
+                  ],
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "fonts": {
+                          "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                          "cs": "\"Alibaba PuHuiTi 2.0\"",
+                          "eastAsia": "\"Alibaba PuHuiTi 2.0\"",
+                          "hAnsi": "\"Alibaba PuHuiTi 2.0\""
+                        },
+                        "sz": 10,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "uuid": "mhnae62lzmikav1s5hn"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "fill": "rgba(255, 119, 92, 0.12)",
+                  "vAlign": "top",
+                  "uuid": "mhnae62ly2lk12nvp4c",
+                  "rowSpan": 1,
+                  "colSpan": 1
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mhnae62ljfw5ql5p30r"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "fonts": {
+                          "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                          "hAnsi": "\"Alibaba PuHuiTi 2.0\"",
+                          "cs": "\"Alibaba PuHuiTi 2.0\"",
+                          "eastAsia": "\"Alibaba PuHuiTi 2.0\""
+                        },
+                        "sz": 10,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "uuid": "mhnae62lmt338st214m"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "fonts": {
+                          "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                          "hAnsi": "\"Alibaba PuHuiTi 2.0\"",
+                          "cs": "\"Alibaba PuHuiTi 2.0\"",
+                          "eastAsia": "\"Alibaba PuHuiTi 2.0\""
+                        },
+                        "sz": 10,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "uuid": "mhvskaiong5kreoic9"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ],
+                  [
+                    "img",
+                    {
+                      "width": 1242,
+                      "height": 1660,
+                      "src": "/core/api/resources/img/5eecdaf48460cde51bbd01f83846d49e0aaa8db43963701175b8339e1c4c24831b75b38faadcd24bec177c308ebd5304af3d8a36708593921db111fcab0403680f727443456e12daad0ce74c28597132452b46420096e7a44fb4c8ed7016461c",
+                      "uuid": "mhvskaima8titbxqkva",
+                      "extraData": {
+                        "resourceId": "1a4ec401-814c-4c14-ab0d-2cb4a3d8e1f5",
+                        "metaData": {
+                          "size": 719423,
+                          "originWidth": 1242,
+                          "originHeight": 1660,
+                          "format": "jpg",
+                          "ratio": 1
+                        }
+                      }
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "leaf"
+                        },
+                        ""
+                      ]
+                    ]
+                  ],
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "uuid": "mhvskaip4qnl30w493"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ],
+                  [
+                    "img",
+                    {
+                      "width": 1242,
+                      "height": 1660,
+                      "src": "/core/api/resources/img/5eecdaf48460cde51bbd01f83846d49e0aaa8db43963701175b8339e1c4c24831b75b38faadcd24bec177c308ebd5304a8b94375eda06037d599c50e39d3959499ad7bfa8c58abf998e3401f91765583884904b6dce32ff34fb4c8ed7016461c",
+                      "uuid": "mhvskaimtafy4r36wt",
+                      "extraData": {
+                        "resourceId": "7d07d6c2-878d-4f29-aa1c-773aaf109ef9",
+                        "metaData": {
+                          "size": 717946,
+                          "originWidth": 1242,
+                          "originHeight": 1660,
+                          "format": "jpg",
+                          "ratio": 1
+                        }
+                      }
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "leaf"
+                        },
+                        ""
+                      ]
+                    ]
+                  ],
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "uuid": "mhvskaipgo5h8xo24yc"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ],
+                  [
+                    "img",
+                    {
+                      "width": 1242,
+                      "height": 1660,
+                      "src": "/core/api/resources/img/5eecdaf48460cde51bbd01f83846d49e0aaa8db43963701175b8339e1c4c24831b75b38faadcd24bec177c308ebd5304fdab66eb56abd3afdbcd8532b6e35d5498110862f844cceb19018a6839d5a4fadd03c25bfbd312f84fb4c8ed7016461c",
+                      "uuid": "mhvskaim5db7x1xywm",
+                      "extraData": {
+                        "resourceId": "09ebde38-c800-4fac-a694-8f0913daf8db",
+                        "metaData": {
+                          "size": 720479,
+                          "originWidth": 1242,
+                          "originHeight": 1660,
+                          "format": "jpg",
+                          "ratio": 1
+                        }
+                      }
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "leaf"
+                        },
+                        ""
+                      ]
+                    ]
+                  ],
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "uuid": "mhnae62l5s01d9b0fr3"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ]
+                ]
+              ]
+            ]
+          ],
+          [
+            "h1",
+            {
+              "uuid": "mhvfwmd558rcm2gn7ln",
+              "spacing": {
+                "before": 32,
+                "after": 12,
+                "line": 0.8615384615384615
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 21,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "二、视频"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mhvfwr8yr87zjphuzth"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "快速了解店铺直达："
+              ]
+            ],
+            [
+              "a",
+              {
+                "href": "https://shuyuan.taobao.com/#!/knowledge/detail/index?id=36376&platform=",
+                "uuid": "mhubpqdswi77oojvdbi"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  "https://shuyuan.taobao.com/#!/knowledge/detail/index?id=36376&platform="
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mhvg0thupm7rfkglj9l"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "词包升级简介： "
+              ]
+            ],
+            [
+              "a",
+              {
+                "href": "https://shuyuan.taobao.com/#!/knowledge/detail/index?id=36608&platform=gjcsq",
+                "uuid": "mhubpqds2h0mrj7wrmv"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  "https://shuyuan.taobao.com/#!/knowledge/detail/index?id=36608&platform=gjcsq"
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mhubpqdszyvraobyid"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "类目词包介绍： "
+              ]
+            ],
+            [
+              "a",
+              {
+                "href": "https://shuyuan.taobao.com/#!/knowledge/detail/index?id=36607&platform=gjcsq",
+                "uuid": "mhubpqdsp2z3d062nil"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  "https://shuyuan.taobao.com/#!/knowledge/detail/index?id=36607&platform=gjcsq"
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ]
+        ],
+        "footers": {},
+        "version": 1
+      },
+      "refs": {}
+    }
+  }
+}

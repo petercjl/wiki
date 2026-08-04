@@ -1,0 +1,3606 @@
+{
+  "version": 1,
+  "type": "application/x-alidocs-package",
+  "main": "00000000-0000-0000-0000-000000000001",
+  "plugins": "00000000-0000-0000-0000-000000000002",
+  "parts": {
+    "00000000-0000-0000-0000-000000000001": {
+      "id": "00000000-0000-0000-0000-000000000001",
+      "type": "application/x-alidocs-word",
+      "version": 1,
+      "data": {
+        "style": {
+          "docDefaults": {
+            "type": "paragraph",
+            "default": 1,
+            "name": "dingdocnormal",
+            "data": {
+              "rPr": {
+                "sz": 12,
+                "szUnit": "pt"
+              },
+              "pPr": {
+                "spacing": {
+                  "before": 10,
+                  "after": 10
+                }
+              }
+            }
+          },
+          "tableDefault": {
+            "type": "table",
+            "data": {
+              "tblPr": {
+                "bdr": {
+                  "bottom": {
+                    "color": "#D6D6D6",
+                    "space": 0,
+                    "sz": 1,
+                    "val": "single"
+                  },
+                  "insideH": {
+                    "color": "#D6D6D6",
+                    "space": 0,
+                    "sz": 1,
+                    "val": "single"
+                  },
+                  "insideV": {
+                    "color": "#D6D6D6",
+                    "space": 0,
+                    "sz": 1,
+                    "val": "single"
+                  },
+                  "left": {
+                    "color": "#D6D6D6",
+                    "space": 0,
+                    "sz": 1,
+                    "val": "single"
+                  },
+                  "right": {
+                    "color": "#D6D6D6",
+                    "space": 0,
+                    "sz": 1,
+                    "val": "single"
+                  },
+                  "top": {
+                    "color": "#D6D6D6",
+                    "space": 0,
+                    "sz": 1,
+                    "val": "single"
+                  }
+                }
+              }
+            }
+          },
+          "tableHeader": {
+            "type": "table",
+            "basedOn": "tableDefault",
+            "data": {
+              "tblStylePr": [
+                {
+                  "type": "firstRow",
+                  "tcPr": {
+                    "shd": {
+                      "fill": "#F5F6F7"
+                    }
+                  }
+                },
+                {
+                  "type": "firstCol",
+                  "tcPr": {
+                    "shd": {
+                      "fill": "#F5F6F7"
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        "theme": [],
+        "settings": {
+          "titleCover": {
+            "isHide": true
+          }
+        },
+        "app": {},
+        "numberings": {},
+        "headers": {},
+        "body": [
+          "root",
+          {
+            "sectPr": {
+              "pgSz": {
+                "w": 892,
+                "h": 1127
+              },
+              "pgMar": {
+                "top": 48,
+                "bottom": 48,
+                "left": 72,
+                "right": 72,
+                "header": 56.73,
+                "footer": 66.13,
+                "gutter": 0
+              }
+            },
+            "theme": {
+              "table": {
+                "tableCell": {
+                  "vAlign": "top"
+                }
+              }
+            }
+          },
+          [
+            "container",
+            {
+              "metadata": {
+                "bgcolor": "#FFFFFF",
+                "border": "#3e3eff",
+                "borderRadius": 8,
+                "padding": {
+                  "bottom": 11,
+                  "left": 11,
+                  "right": 11,
+                  "top": 11
+                },
+                "showstk": false
+              },
+              "subType": "colorBlocks",
+              "uuid": "me6quoh64se9g2hk3pe"
+            },
+            [
+              "container",
+              {
+                "metadata": {
+                  "bgcolor": "#3838fc",
+                  "border": null,
+                  "borderRadius": 8,
+                  "padding": {
+                    "bottom": 11,
+                    "left": 11,
+                    "right": 11,
+                    "top": 11
+                  },
+                  "showstk": false
+                },
+                "subType": "colorBlocks",
+                "uuid": "mery4iuudxwkph5s2v"
+              },
+              [
+                "h1",
+                {
+                  "jc": "center",
+                  "uuid": "mery4iuuxqx70si7hyo",
+                  "spacing": {
+                    "before": 32,
+                    "after": 12,
+                    "line": 0.8615384615384615
+                  }
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "text"
+                  },
+                  [
+                    "span",
+                    {
+                      "bold": false,
+                      "fonts": {
+                        "ascii": "DingTalk JinBuTi",
+                        "cs": "DingTalk JinBuTi",
+                        "eastAsia": "DingTalk JinBuTi",
+                        "hAnsi": "DingTalk JinBuTi"
+                      },
+                      "sz": 21,
+                      "szUnit": "pt",
+                      "color": "#FFFFFF",
+                      "data-type": "leaf"
+                    },
+                    "「货品全站推广-投放调优」双11大促操作建议&场景分享"
+                  ]
+                ]
+              ]
+            ],
+            [
+              "h2",
+              {
+                "uuid": "mgq93yij3l1ltk57mwt"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "bold": false,
+                    "fonts": {
+                      "ascii": "DingTalk JinBuTi",
+                      "cs": "DingTalk JinBuTi",
+                      "eastAsia": "DingTalk JinBuTi",
+                      "hAnsi": "DingTalk JinBuTi"
+                    },
+                    "color": "#3e3eff",
+                    "data-type": "leaf"
+                  },
+                  "一、大促必看操作建议"
+                ]
+              ]
+            ],
+            [
+              "table",
+              {
+                "colsWidth": [
+                  114,
+                  265,
+                  342
+                ],
+                "styleId": "tableHeader",
+                "tblLook": {
+                  "firstColumn": 0,
+                  "firstRow": 1,
+                  "lastColumn": 0,
+                  "lastRow": 0
+                },
+                "uuid": "mgolrb5mebkmerhic2d"
+              },
+              [
+                "tr",
+                {
+                  "uuid": "mgq8mwmmhmdglh4wa0w",
+                  "isTblHeader": true
+                },
+                [
+                  "tc",
+                  {
+                    "colSpan": 1,
+                    "rowSpan": 1,
+                    "uuid": "mgq8mwmm9ihn6puadd",
+                    "vAlign": "top",
+                    "fill": "",
+                    "bdr": {
+                      "left": null,
+                      "top": null,
+                      "bottom": null,
+                      "right": null
+                    }
+                  },
+                  [
+                    "p",
+                    {
+                      "uuid": "mgq8mwml29gaqn5qftj",
+                      "jc": "center"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "bold": true,
+                          "color": "#3e3eff",
+                          "data-type": "leaf"
+                        },
+                        "大促投放"
+                      ]
+                    ]
+                  ],
+                  [
+                    "p",
+                    {
+                      "uuid": "mgq8mwmmldui29wghlm",
+                      "jc": "center"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "bold": true,
+                          "color": "#3e3eff",
+                          "data-type": "leaf"
+                        },
+                        "（运营动作）"
+                      ]
+                    ]
+                  ]
+                ],
+                [
+                  "tc",
+                  {
+                    "colSpan": 1,
+                    "rowSpan": 1,
+                    "uuid": "mgq8mwmm7d3jsgixftj",
+                    "vAlign": "middle",
+                    "fill": "",
+                    "bdr": {
+                      "top": null,
+                      "bottom": null,
+                      "left": null,
+                      "right": null
+                    }
+                  },
+                  [
+                    "p",
+                    {
+                      "jc": "center",
+                      "uuid": "mgq8mwmm0yyhgzkuefk"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "bold": true,
+                          "color": "#3e3eff",
+                          "data-type": "leaf"
+                        },
+                        "平台建议"
+                      ]
+                    ]
+                  ]
+                ],
+                [
+                  "tc",
+                  {
+                    "colSpan": 1,
+                    "rowSpan": 1,
+                    "uuid": "mgq8mwmmep4y0y71x3s",
+                    "vAlign": "middle",
+                    "fill": "",
+                    "bdr": {
+                      "right": null,
+                      "top": null,
+                      "bottom": null,
+                      "left": null
+                    }
+                  },
+                  [
+                    "p",
+                    {
+                      "uuid": "mgq8mwmmj3x7hwpbpur",
+                      "jc": "center"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "bold": true,
+                          "color": "#3e3eff",
+                          "data-type": "leaf"
+                        },
+                        "为什么"
+                      ]
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tr",
+                {
+                  "uuid": "mgq8mwmm34mpzkc9kjf",
+                  "h": 168
+                },
+                [
+                  "tc",
+                  {
+                    "colSpan": 1,
+                    "rowSpan": 1,
+                    "uuid": "mgq8mwmmykfouvorq2s",
+                    "vAlign": "top",
+                    "bdr": {
+                      "top": null
+                    }
+                  },
+                  [
+                    "p",
+                    {
+                      "uuid": "mgq8mwmmoppx9w6jf2h",
+                      "jc": "center"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "bold": true,
+                          "sz": 11,
+                          "szUnit": "pt",
+                          "data-type": "leaf"
+                        },
+                        "如何选品"
+                      ]
+                    ]
+                  ]
+                ],
+                [
+                  "tc",
+                  {
+                    "colSpan": 1,
+                    "rowSpan": 1,
+                    "uuid": "mgq8mwmmjzkr1wi1xw8",
+                    "vAlign": "top",
+                    "bdr": {
+                      "top": null
+                    }
+                  },
+                  [
+                    "p",
+                    {
+                      "uuid": "mgq8mwmmaklcc4knp2",
+                      "jc": "left"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "sz": 11,
+                          "szUnit": "pt",
+                          "data-type": "leaf"
+                        },
+                        "1、"
+                      ],
+                      [
+                        "span",
+                        {
+                          "bold": true,
+                          "sz": 11,
+                          "szUnit": "pt",
+                          "data-type": "leaf"
+                        },
+                        "节促必投商品："
+                      ],
+                      [
+                        "span",
+                        {
+                          "sz": 11,
+                          "szUnit": "pt",
+                          "data-type": "leaf"
+                        },
+                        " 投放全站推高预算商品"
+                      ]
+                    ]
+                  ],
+                  [
+                    "p",
+                    {
+                      "uuid": "mgq8mwmm0jjyqboov3ih",
+                      "jc": "left"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "sz": 11,
+                          "szUnit": "pt",
+                          "data-type": "leaf"
+                        },
+                        "（预算 top10 必投）"
+                      ]
+                    ]
+                  ],
+                  [
+                    "p",
+                    {
+                      "uuid": "mgq8mwmmokk4kcagqso",
+                      "jc": "left"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "sz": 11,
+                          "szUnit": "pt",
+                          "data-type": "leaf"
+                        },
+                        "2、"
+                      ],
+                      [
+                        "span",
+                        {
+                          "bold": true,
+                          "sz": 11,
+                          "szUnit": "pt",
+                          "data-type": "leaf"
+                        },
+                        " 建议商品："
+                      ],
+                      [
+                        "span",
+                        {
+                          "sz": 11,
+                          "szUnit": "pt",
+                          "data-type": "leaf"
+                        },
+                        "遇到增量困难的商品均可投放；"
+                      ]
+                    ]
+                  ]
+                ],
+                [
+                  "tc",
+                  {
+                    "colSpan": 1,
+                    "rowSpan": 1,
+                    "uuid": "mgq8mwmmlzlvzoxqrsm",
+                    "vAlign": "top",
+                    "bdr": {
+                      "top": null
+                    }
+                  },
+                  [
+                    "p",
+                    {
+                      "uuid": "mgq8mwmmperp25ubvjk",
+                      "jc": "left"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "sz": 11,
+                          "szUnit": "pt",
+                          "data-type": "leaf"
+                        },
+                        "1、 "
+                      ],
+                      [
+                        "span",
+                        {
+                          "bold": true,
+                          "sz": 11,
+                          "szUnit": "pt",
+                          "data-type": "leaf"
+                        },
+                        "必投："
+                      ],
+                      [
+                        "span",
+                        {
+                          "sz": 11,
+                          "szUnit": "pt",
+                          "data-type": "leaf"
+                        },
+                        "高预算商品承担更多的GMV目标，开启多目标可以有效的带动核心计划的竞争力，抓住大促的成交爆发；"
+                      ]
+                    ]
+                  ],
+                  [
+                    "p",
+                    {
+                      "uuid": "mgq8mwmma6db0t8e375",
+                      "jc": "left"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "sz": 11,
+                          "szUnit": "pt",
+                          "data-type": "leaf"
+                        },
+                        "2、"
+                      ],
+                      [
+                        "span",
+                        {
+                          "bold": true,
+                          "sz": 11,
+                          "szUnit": "pt",
+                          "data-type": "leaf"
+                        },
+                        "建议投："
+                      ],
+                      [
+                        "span",
+                        {
+                          "sz": 11,
+                          "szUnit": "pt",
+                          "data-type": "leaf"
+                        },
+                        "增量遇到困难的商品，短期难以增加产品基础分，建议开启多目标/起量增加竞价能力，短期内提升 GMV，突破瓶颈期；"
+                      ]
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tr",
+                {
+                  "uuid": "mgq8mwmmnukqua6elwl"
+                },
+                [
+                  "tc",
+                  {
+                    "colSpan": 1,
+                    "rowSpan": 1,
+                    "uuid": "mgq8mwmmblfmygagnkk",
+                    "vAlign": "top"
+                  },
+                  [
+                    "p",
+                    {
+                      "uuid": "mgq8mwmmo8dq7pvfp5n",
+                      "jc": "center"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "bold": true,
+                          "sz": 11,
+                          "szUnit": "pt",
+                          "data-type": "leaf"
+                        },
+                        "如何设置预算"
+                      ]
+                    ]
+                  ]
+                ],
+                [
+                  "tc",
+                  {
+                    "colSpan": 1,
+                    "rowSpan": 1,
+                    "uuid": "mgq8mwmmagmusch9wg",
+                    "vAlign": "top"
+                  },
+                  [
+                    "p",
+                    {
+                      "uuid": "mgq8mwmm5jqdxaz0jyh",
+                      "jc": "left"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "sz": 11,
+                          "szUnit": "pt",
+                          "data-type": "leaf"
+                        },
+                        "主体逻辑为，少量多次的增加预算，从10%的基础预算逐步增加至 30%预算；"
+                      ],
+                      [
+                        "span",
+                        {
+                          "bold": true,
+                          "sz": 11,
+                          "szUnit": "pt",
+                          "color": "#FE0300",
+                          "data-type": "leaf"
+                        },
+                        "核心现货期及爆发日当天，必投"
+                      ]
+                    ]
+                  ]
+                ],
+                [
+                  "tc",
+                  {
+                    "colSpan": 1,
+                    "rowSpan": 1,
+                    "uuid": "mgq8mwmmhmfpj8wf9zq",
+                    "vAlign": "top"
+                  },
+                  [
+                    "p",
+                    {
+                      "uuid": "mgq8mwmmz1c0fy6m13s",
+                      "jc": "left"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "sz": 11,
+                          "szUnit": "pt",
+                          "data-type": "leaf"
+                        },
+                        "突然设置较高的投放调优预算，会导致对于预算使用率低的计划造成较大的ROI交付波动，"
+                      ],
+                      [
+                        "span",
+                        {
+                          "bold": true,
+                          "sz": 11,
+                          "szUnit": "pt",
+                          "data-type": "leaf"
+                        },
+                        "少量多次的预算增加"
+                      ],
+                      [
+                        "span",
+                        {
+                          "sz": 11,
+                          "szUnit": "pt",
+                          "data-type": "leaf"
+                        },
+                        "，可以更有效的探索增量空间"
+                      ]
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tr",
+                {
+                  "uuid": "mgq8mwmm0d63x0h1zzmm"
+                },
+                [
+                  "tc",
+                  {
+                    "colSpan": 1,
+                    "rowSpan": 1,
+                    "uuid": "mgq8mwmmjmunxlnn10g",
+                    "vAlign": "top"
+                  },
+                  [
+                    "p",
+                    {
+                      "uuid": "mgq8mwmmnp0okuzuznc",
+                      "jc": "center"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "bold": true,
+                          "sz": 11,
+                          "szUnit": "pt",
+                          "data-type": "leaf"
+                        },
+                        "如何监控效果"
+                      ]
+                    ]
+                  ]
+                ],
+                [
+                  "tc",
+                  {
+                    "colSpan": 1,
+                    "rowSpan": 1,
+                    "uuid": "mgq8mwmmezgqoow7bnt",
+                    "vAlign": "top"
+                  },
+                  [
+                    "p",
+                    {
+                      "uuid": "mgq8mwmm3uj6cab1ahf",
+                      "jc": "left"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "sz": 11,
+                          "szUnit": "pt",
+                          "data-type": "leaf"
+                        },
+                        "1、 "
+                      ],
+                      [
+                        "span",
+                        {
+                          "bold": true,
+                          "sz": 11,
+                          "szUnit": "pt",
+                          "data-type": "leaf"
+                        },
+                        "在哪里看效果："
+                      ],
+                      [
+                        "span",
+                        {
+                          "sz": 11,
+                          "szUnit": "pt",
+                          "data-type": "leaf"
+                        },
+                        "在投放调优板专属效果板块监控投放效果；"
+                      ]
+                    ]
+                  ],
+                  [
+                    "p",
+                    {
+                      "uuid": "mgq8mwmmv7v0n273bqm",
+                      "jc": "left"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "sz": 11,
+                          "szUnit": "pt",
+                          "data-type": "leaf"
+                        },
+                        "2、 "
+                      ],
+                      [
+                        "span",
+                        {
+                          "bold": true,
+                          "sz": 11,
+                          "szUnit": "pt",
+                          "data-type": "leaf"
+                        },
+                        "如何判断效果："
+                      ],
+                      [
+                        "span",
+                        {
+                          "sz": 11,
+                          "szUnit": "pt",
+                          "data-type": "leaf"
+                        },
+                        "关注计划整体的GMV变化及计划整体的消耗变化，大促适当降低对ROI/PPC 的波动关注，抓住GMV增长"
+                      ]
+                    ]
+                  ]
+                ],
+                [
+                  "tc",
+                  {
+                    "colSpan": 1,
+                    "rowSpan": 1,
+                    "uuid": "mgq8mwmmq8x3gocllh",
+                    "vAlign": "top"
+                  },
+                  [
+                    "p",
+                    {
+                      "uuid": "mgq8mwmmxcbm0kyucrl",
+                      "jc": "left"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "sz": 11,
+                          "szUnit": "pt",
+                          "data-type": "leaf"
+                        },
+                        "投放调优是助力商家在产品分无明显波动的情况下（质量分及价格均无变动规划），广告侧竞争力可以通过"
+                      ],
+                      [
+                        "span",
+                        {
+                          "bold": true,
+                          "sz": 11,
+                          "szUnit": "pt",
+                          "data-type": "leaf"
+                        },
+                        "投放调优增加，带动主计划增长"
+                      ],
+                      [
+                        "span",
+                        {
+                          "sz": 11,
+                          "szUnit": "pt",
+                          "data-type": "leaf"
+                        },
+                        "，同时交付个性化指标（加购/直接成交/起量）"
+                      ]
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tr",
+                {
+                  "uuid": "mgz15rlqrcl4dj0cuti"
+                },
+                [
+                  "tc",
+                  {
+                    "colSpan": 1,
+                    "rowSpan": 2,
+                    "uuid": "mgz15rlqyp9hkmi1plb",
+                    "vAlign": "middle"
+                  },
+                  [
+                    "p",
+                    {
+                      "uuid": "mgz15rlq5to3tg6ojj",
+                      "jc": "center"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "bold": true,
+                          "sz": 11,
+                          "szUnit": "pt",
+                          "data-type": "leaf"
+                        },
+                        "小 tip"
+                      ]
+                    ]
+                  ]
+                ],
+                [
+                  "tc",
+                  {
+                    "colSpan": 1,
+                    "rowSpan": 1,
+                    "uuid": "mgz15rlqsoc0b3t3wx",
+                    "vAlign": "top"
+                  },
+                  [
+                    "p",
+                    {
+                      "uuid": "mgz15rlqo2iz49b0y2m"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "leaf"
+                        },
+                        "爆发日当天建议把"
+                      ],
+                      [
+                        "span",
+                        {
+                          "bold": true,
+                          "data-type": "leaf"
+                        },
+                        "「投放调优」的预算设置在基础预算的 30%"
+                      ],
+                      [
+                        "span",
+                        {
+                          "data-type": "leaf"
+                        },
+                        "；"
+                      ]
+                    ]
+                  ]
+                ],
+                [
+                  "tc",
+                  {
+                    "colSpan": 1,
+                    "rowSpan": 1,
+                    "uuid": "mgz15rlqp6pwtez7ane",
+                    "vAlign": "top"
+                  },
+                  [
+                    "p",
+                    {
+                      "uuid": "mgz15rlqkllmsm0etl"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "leaf"
+                        },
+                        "大促期间流量激增，同时竞争激烈，"
+                      ],
+                      [
+                        "span",
+                        {
+                          "bold": true,
+                          "data-type": "leaf"
+                        },
+                        "避免下午临时增加预算，系统调控时间较短导致放量困难"
+                      ]
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tr",
+                {
+                  "uuid": "mgz1tb3e8moufktcqm"
+                },
+                [
+                  "tc",
+                  {
+                    "colSpan": 1,
+                    "rowSpan": 1,
+                    "uuid": "mgz1tb3ezohw3eftjj",
+                    "hidden": true,
+                    "vAlign": "middle"
+                  },
+                  [
+                    "p",
+                    {
+                      "uuid": "mgz1tb3eif2w2qrvek9"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "leaf"
+                        },
+                        ""
+                      ]
+                    ]
+                  ]
+                ],
+                [
+                  "tc",
+                  {
+                    "colSpan": 1,
+                    "rowSpan": 1,
+                    "uuid": "mgz1tb3eli4rrvocz0a",
+                    "vAlign": "top"
+                  },
+                  [
+                    "p",
+                    {
+                      "uuid": "mgz1tb3eeh36b53c8j6"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "leaf"
+                        },
+                        "不要"
+                      ],
+                      [
+                        "span",
+                        {
+                          "bold": true,
+                          "data-type": "leaf"
+                        },
+                        "频繁切换「投放调优」优化方向"
+                      ]
+                    ]
+                  ]
+                ],
+                [
+                  "tc",
+                  {
+                    "colSpan": 1,
+                    "rowSpan": 1,
+                    "uuid": "mgz1tb3e4rfdy3h7p5p",
+                    "vAlign": "top"
+                  },
+                  [
+                    "p",
+                    {
+                      "uuid": "mgz1tb3ef88xpcs8jpf"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "leaf"
+                        },
+                        "切换会让系统进行调整，错过大促爆发流量增幅"
+                      ]
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "h2",
+              {
+                "uuid": "mgyzlzd9taqlmzbn5k",
+                "spacing": {
+                  "before": 28,
+                  "after": 10,
+                  "line": 0.8615384615384615
+                }
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "bold": false,
+                    "fonts": {
+                      "ascii": "DingTalk JinBuTi",
+                      "cs": "DingTalk JinBuTi",
+                      "eastAsia": "DingTalk JinBuTi",
+                      "hAnsi": "DingTalk JinBuTi"
+                    },
+                    "sz": 18,
+                    "szUnit": "pt",
+                    "color": "#3e3eff",
+                    "data-type": "leaf"
+                  },
+                  "二、大促各场景操作分享"
+                ]
+              ]
+            ],
+            [
+              "container",
+              {
+                "metadata": {
+                  "bgcolor": "#F5F6F7",
+                  "border": null,
+                  "borderRadius": 8,
+                  "padding": {
+                    "bottom": 11,
+                    "left": 11,
+                    "right": 11,
+                    "top": 11
+                  },
+                  "showstk": false
+                },
+                "subType": "colorBlocks",
+                "uuid": "merxgcgnefzbxxau7x4"
+              },
+              [
+                "h1",
+                {
+                  "jc": "center",
+                  "spacing": {
+                    "after": 9,
+                    "before": 26.666666666666664,
+                    "line": 0.8529411764705882
+                  },
+                  "uuid": "mery3vsft0lppq03w9"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "text"
+                  },
+                  [
+                    "span",
+                    {
+                      "bold": false,
+                      "fonts": {
+                        "ascii": "DingTalk JinBuTi",
+                        "cs": "DingTalk JinBuTi",
+                        "eastAsia": "DingTalk JinBuTi",
+                        "hAnsi": "DingTalk JinBuTi"
+                      },
+                      "sz": 16,
+                      "szUnit": "pt",
+                      "color": "#3e3eff",
+                      "data-type": "leaf"
+                    },
+                    " 基础预算放量困难"
+                  ]
+                ]
+              ],
+              [
+                "container",
+                {
+                  "metadata": {
+                    "bgcolor": "#FFFFFF",
+                    "border": null,
+                    "borderRadius": 8,
+                    "padding": {
+                      "bottom": 11,
+                      "left": 11,
+                      "right": 11,
+                      "top": 11
+                    },
+                    "showstk": false
+                  },
+                  "subType": "colorBlocks",
+                  "uuid": "merxgjqb87hlimvlqf4"
+                },
+                [
+                  "p",
+                  {
+                    "ind": {
+                      "left": 0
+                    },
+                    "spacing": {
+                      "line": 1.15,
+                      "lineRule": "auto"
+                    },
+                    "uuid": "mer21uotht7f46l7qdv"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "data-type": "leaf"
+                      },
+                      "Q：想要高 ROI，又想要 GMV 增长，降低 ROI 后放量还是困难，怎么办？"
+                    ]
+                  ]
+                ],
+                [
+                  "container",
+                  {
+                    "metadata": {
+                      "bgcolor": "#F5F6F7",
+                      "border": null,
+                      "borderRadius": 8,
+                      "padding": {
+                        "bottom": 11,
+                        "left": 11,
+                        "right": 11,
+                        "top": 11
+                      },
+                      "showstk": true,
+                      "sticker": {
+                        "id": "emotion_146",
+                        "name": "[钉子]",
+                        "type": "dingding",
+                        "url": "https://g.alicdn.com/dingding/emotion-assets/0.76.0/mobile/emotion_146.png"
+                      }
+                    },
+                    "subType": "colorBlocks",
+                    "uuid": "merxnc8x14fs6yo8orb"
+                  },
+                  [
+                    "p",
+                    {
+                      "ind": {
+                        "left": 0
+                      },
+                      "uuid": "merxnc8xg2kcez5m0h6"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "sz": 11,
+                          "szUnit": "pt",
+                          "data-type": "leaf"
+                        },
+                        "开启一键起量，主计划预算与起量预算为相互独立的预算；主计划部分预算可以"
+                      ],
+                      [
+                        "span",
+                        {
+                          "bold": true,
+                          "sz": 11,
+                          "szUnit": "pt",
+                          "data-type": "leaf"
+                        },
+                        "追求 ROI 稳定交付"
+                      ],
+                      [
+                        "span",
+                        {
+                          "sz": 11,
+                          "szUnit": "pt",
+                          "data-type": "leaf"
+                        },
+                        "，单独起量部分预算可以进行"
+                      ],
+                      [
+                        "span",
+                        {
+                          "bold": true,
+                          "sz": 11,
+                          "szUnit": "pt",
+                          "data-type": "leaf"
+                        },
+                        "成交的增量探索"
+                      ],
+                      [
+                        "span",
+                        {
+                          "sz": 11,
+                          "szUnit": "pt",
+                          "data-type": "leaf"
+                        },
+                        "，同时子计划可以增加计划整体的权重增加计划整体的成交阈值，真正做到 ROI 稳定交付的同时，探索成交增量；"
+                      ]
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "ind": {},
+                    "spacing": {
+                      "line": 1.15,
+                      "lineRule": "auto"
+                    },
+                    "uuid": "mer2guq80ipukmztm60u"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "data-type": "leaf"
+                      },
+                      "A：操作指南如下"
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "ind": {
+                      "left": 0
+                    },
+                    "list": {
+                      "isOrdered": false,
+                      "isTaskList": false,
+                      "level": 0,
+                      "listId": "mpn3a91degs",
+                      "listStyle": {
+                        "align": "left",
+                        "format": "bullet",
+                        "text": "●"
+                      },
+                      "listStyleType": "SCIR_ECIR_SREC",
+                      "symbolStyle": {
+                        "sz": 11
+                      }
+                    },
+                    "spacing": {
+                      "line": 1.15,
+                      "lineRule": "auto"
+                    },
+                    "uuid": "mer24mmbllwdp6v6a5"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "italic": true,
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      "预算设置："
+                    ],
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      "开启一键起量，设置预算为昨日消耗的 10%，期间监控效果逐步增加预算至 30%-50%；"
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "ind": {
+                      "left": 0
+                    },
+                    "list": {
+                      "extraData": {},
+                      "hideSymbol": false,
+                      "isChecked": false,
+                      "isOrdered": false,
+                      "isTaskList": false,
+                      "level": 0,
+                      "listId": "mpn3a91degs",
+                      "listStyle": {
+                        "align": "left",
+                        "format": "bullet",
+                        "text": "●"
+                      },
+                      "listStyleType": "SCIR_ECIR_SREC",
+                      "symbolStyle": {
+                        "sz": 11
+                      }
+                    },
+                    "spacing": {
+                      "line": 1.15,
+                      "lineRule": "auto"
+                    },
+                    "uuid": "merxo0jc9raruouaxe5"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "italic": true,
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      "监控效果："
+                    ],
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      "关注计划整体的 GMV 的增长，开启后会导致 ROI 波动，因为持续在探索产品成交边际，预算越高导致 ROI 波动越大，建议商家从低预算逐步尝试，直至自己可以接受的盈亏平衡；"
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "ind": {
+                      "left": 0
+                    },
+                    "list": {
+                      "extraData": {},
+                      "hideSymbol": false,
+                      "isChecked": false,
+                      "isOrdered": false,
+                      "isTaskList": false,
+                      "level": 0,
+                      "listId": "mpn3a91degs",
+                      "listStyle": {
+                        "align": "left",
+                        "format": "bullet",
+                        "text": "●"
+                      },
+                      "listStyleType": "SCIR_ECIR_SREC",
+                      "symbolStyle": {
+                        "sz": 11
+                      }
+                    },
+                    "spacing": {
+                      "line": 1.15,
+                      "lineRule": "auto"
+                    },
+                    "uuid": "merxo2nckcce5b42h3h"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "italic": true,
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      "历史效果："
+                    ],
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      "开启一键起量后 GMV 整体增幅在 30%，当日即可看到效果，ROI 波动因产品而异，建议实时关注 GMV 增长情况及 ROI 波动情况，少量多次的增加预算；"
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "uuid": "mgyzxyvapdh8pqhp37"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ],
+                  [
+                    "img",
+                    {
+                      "uuid": "mgz1ylsazzckipmpdqk",
+                      "name": "image.png",
+                      "size": 493382,
+                      "width": 676,
+                      "height": 315.4666666666667,
+                      "src": "/core/api/resources/img/5eecdaf48460cde558b02dbf9e3710ebc964eb8bd288aef775b8339e1c4c24831b75b38faadcd24bec177c308ebd5304138748f4d2ca781aae8ec578960c031c8e55a2b8eb26fc403c64c4b81aae3d135d49378effcc6f794fb4c8ed7016461c",
+                      "extraData": {
+                        "resourceId": "0b38512e-83a2-463e-9230-f998ee8fe8e6",
+                        "metaData": {
+                          "size": 493382,
+                          "originWidth": 1215,
+                          "originHeight": 567,
+                          "format": "png",
+                          "ratio": 1
+                        }
+                      }
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "leaf"
+                        },
+                        ""
+                      ]
+                    ]
+                  ],
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "h1",
+                {
+                  "jc": "center",
+                  "spacing": {
+                    "after": 9,
+                    "before": 26.666666666666664,
+                    "line": 0.8529411764705882
+                  },
+                  "uuid": "mer20ehiac54xfo83so"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "text"
+                  },
+                  [
+                    "span",
+                    {
+                      "bold": false,
+                      "fonts": {
+                        "ascii": "DingTalk JinBuTi",
+                        "cs": "DingTalk JinBuTi",
+                        "eastAsia": "DingTalk JinBuTi",
+                        "hAnsi": "DingTalk JinBuTi"
+                      },
+                      "sz": 16,
+                      "szUnit": "pt",
+                      "color": "#3e3eff",
+                      "data-type": "leaf"
+                    },
+                    "经营地域个性化设置"
+                  ]
+                ]
+              ],
+              [
+                "container",
+                {
+                  "metadata": {
+                    "bgcolor": "#FFFFFF",
+                    "border": null,
+                    "borderRadius": 8,
+                    "padding": {
+                      "bottom": 11,
+                      "left": 11,
+                      "right": 11,
+                      "top": 11
+                    },
+                    "showstk": false
+                  },
+                  "subType": "colorBlocks",
+                  "uuid": "merxh5iak0fe5ut6lg"
+                },
+                [
+                  "p",
+                  {
+                    "ind": {
+                      "left": 0
+                    },
+                    "spacing": {
+                      "line": 1.15,
+                      "lineRule": "auto"
+                    },
+                    "uuid": "merxx1xyoqbjo7xdyim"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "data-type": "leaf"
+                      },
+                      "Q：货品全站推广太智能，太黑盒，希望按照自己的个性化运营进行提效，如何操作？"
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "ind": {},
+                    "spacing": {
+                      "line": 1.15,
+                      "lineRule": "auto"
+                    },
+                    "uuid": "merxx1xy1fa1857nxrv"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "data-type": "leaf"
+                      },
+                      "A："
+                    ],
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "本质商家朋友第一追求是为了 ROI 的高交付，第二追求是为了 GMV 的增长；"
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "ind": {
+                      "left": 0
+                    },
+                    "list": {
+                      "extraData": {},
+                      "hideSymbol": false,
+                      "isChecked": false,
+                      "isOrdered": false,
+                      "isTaskList": false,
+                      "level": 0,
+                      "listId": "mpn3a91degs",
+                      "listStyle": {
+                        "align": "left",
+                        "format": "bullet",
+                        "text": "●"
+                      },
+                      "listStyleType": "SCIR_ECIR_SREC",
+                      "symbolStyle": {
+                        "sz": 11
+                      }
+                    },
+                    "spacing": {
+                      "line": 1.15,
+                      "lineRule": "auto"
+                    },
+                    "uuid": "mer2pneposjsw202v8d"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": false,
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      "商家朋友认为晚上的流量是无效流量，这个观念正确吗？是不正确的，全站推会用合适的价格拿到合适的流量，每一个流量都有对应的成交值，没有差流量，只有用合适的价格拿到合适的流量；"
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "ind": {
+                      "left": 0
+                    },
+                    "list": {
+                      "extraData": {},
+                      "hideSymbol": false,
+                      "isChecked": false,
+                      "isOrdered": false,
+                      "isTaskList": false,
+                      "level": 0,
+                      "listId": "mpn3a91degs",
+                      "listStyle": {
+                        "align": "left",
+                        "format": "bullet",
+                        "text": "●"
+                      },
+                      "listStyleType": "SCIR_ECIR_SREC",
+                      "symbolStyle": {
+                        "sz": 11
+                      }
+                    },
+                    "spacing": {
+                      "line": 1.15,
+                      "lineRule": "auto"
+                    },
+                    "uuid": "merxz49a7vmvw3i5719"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": false,
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      "部分商家朋友有确定的经营范围，投放非经营区域，属于无效投放；"
+                    ]
+                  ]
+                ],
+                [
+                  "container",
+                  {
+                    "metadata": {
+                      "bgcolor": "#F5F6F7",
+                      "border": null,
+                      "borderRadius": 8,
+                      "padding": {
+                        "bottom": 11,
+                        "left": 11,
+                        "right": 11,
+                        "top": 11
+                      },
+                      "showstk": true,
+                      "sticker": {
+                        "id": "emotion_146",
+                        "name": "[钉子]",
+                        "type": "dingding",
+                        "url": "https://g.alicdn.com/dingding/emotion-assets/0.76.0/mobile/emotion_146.png"
+                      }
+                    },
+                    "subType": "colorBlocks",
+                    "uuid": "merxywryrzod9kp8isb"
+                  },
+                  [
+                    "p",
+                    {
+                      "ind": {
+                        "left": 0
+                      },
+                      "spacing": {
+                        "line": 1.15,
+                        "lineRule": "auto"
+                      },
+                      "uuid": "merxywryuij0o1u4ju"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "bold": false,
+                          "sz": 11,
+                          "szUnit": "pt",
+                          "data-type": "leaf"
+                        },
+                        "一键起量支持商家设置"
+                      ],
+                      [
+                        "span",
+                        {
+                          "bold": true,
+                          "sz": 11,
+                          "szUnit": "pt",
+                          "data-type": "leaf"
+                        },
+                        "放量时段/支持地域设置"
+                      ],
+                      [
+                        "span",
+                        {
+                          "bold": false,
+                          "sz": 11,
+                          "szUnit": "pt",
+                          "data-type": "leaf"
+                        },
+                        "，商家朋友希望投放 10 点、1 点、6 点时段，可以设置 9-10 点，覆盖你心里的核心时段；屏蔽非发货地域，避免无效点击扣费；"
+                      ]
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "uuid": "mgyzubpf8075s20djkh"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ],
+                  [
+                    "img",
+                    {
+                      "uuid": "mgz1ylsbzzj0p28lg7",
+                      "name": "image.png",
+                      "size": 737969,
+                      "width": 676,
+                      "height": 456.4014501049418,
+                      "src": "/core/api/resources/img/5eecdaf48460cde558b02dbf9e3710ebc964eb8bd288aef775b8339e1c4c24831b75b38faadcd24bec177c308ebd53048634e7f6679bf864279aaa5ce82f9eb06003e4977a357acec371c3aa29341d3c065c2f7d5e7107594fb4c8ed7016461c",
+                      "extraData": {
+                        "resourceId": "b4e445fb-a490-41ab-827d-f2ed9720c4cd",
+                        "metaData": {
+                          "size": 737969,
+                          "originWidth": 1022,
+                          "originHeight": 690,
+                          "format": "png",
+                          "ratio": 1
+                        }
+                      }
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "leaf"
+                        },
+                        ""
+                      ]
+                    ]
+                  ],
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "h1",
+                {
+                  "jc": "center",
+                  "spacing": {
+                    "after": 9,
+                    "before": 26.666666666666664,
+                    "line": 0.8529411764705882
+                  },
+                  "uuid": "merxhjvr7wms7i6xj4g"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "text"
+                  },
+                  [
+                    "span",
+                    {
+                      "bold": false,
+                      "fonts": {
+                        "ascii": "DingTalk JinBuTi",
+                        "cs": "DingTalk JinBuTi",
+                        "eastAsia": "DingTalk JinBuTi",
+                        "hAnsi": "DingTalk JinBuTi"
+                      },
+                      "sz": 16,
+                      "szUnit": "pt",
+                      "color": "#3e3eff",
+                      "data-type": "leaf"
+                    },
+                    "新品快速度过冷启动"
+                  ]
+                ]
+              ],
+              [
+                "container",
+                {
+                  "metadata": {
+                    "bgcolor": "#FFFFFF",
+                    "border": null,
+                    "borderRadius": 8,
+                    "padding": {
+                      "bottom": 11,
+                      "left": 11,
+                      "right": 11,
+                      "top": 11
+                    },
+                    "showstk": false
+                  },
+                  "subType": "colorBlocks",
+                  "uuid": "merxigjt4rluqv37268"
+                },
+                [
+                  "p",
+                  {
+                    "ind": {
+                      "left": 0
+                    },
+                    "spacing": {
+                      "line": 1.15,
+                      "lineRule": "auto"
+                    },
+                    "uuid": "mery9uwzftwfvzkcsdi"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "data-type": "leaf"
+                      },
+                      "Q：新品无成交基础，放不出去量，ROI 又不高，GMV 又不高，怎么办？"
+                    ]
+                  ]
+                ],
+                [
+                  "container",
+                  {
+                    "metadata": {
+                      "bgcolor": "#F5F6F7",
+                      "border": null,
+                      "borderRadius": 8,
+                      "padding": {
+                        "bottom": 11,
+                        "left": 11,
+                        "right": 11,
+                        "top": 11
+                      },
+                      "showstk": true,
+                      "sticker": {
+                        "id": "emotion_146",
+                        "name": "[钉子]",
+                        "type": "dingding",
+                        "url": "https://g.alicdn.com/dingding/emotion-assets/0.76.0/mobile/emotion_146.png"
+                      }
+                    },
+                    "subType": "colorBlocks",
+                    "uuid": "meryabru2o96m4hjhza"
+                  },
+                  [
+                    "p",
+                    {
+                      "ind": {
+                        "left": 0
+                      },
+                      "spacing": {
+                        "line": 1.15,
+                        "lineRule": "auto"
+                      },
+                      "uuid": "meryahd031dq1vl4ssf"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "bold": false,
+                          "sz": 11,
+                          "szUnit": "pt",
+                          "data-type": "leaf"
+                        },
+                        "新品初期对于 ROI 的预期相对较为宽容，本周期的核心目标是快速积累销量数据，达到潜力品/爆品周期；"
+                      ]
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "ind": {},
+                    "spacing": {
+                      "line": 1.15,
+                      "lineRule": "auto"
+                    },
+                    "uuid": "meryabrwujwsrz0u5mp"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "data-type": "leaf"
+                      },
+                      "A：操作指南如下"
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "ind": {
+                      "left": 0
+                    },
+                    "list": {
+                      "isOrdered": false,
+                      "isTaskList": false,
+                      "level": 0,
+                      "listId": "ut9clp8g6hq",
+                      "listStyle": {
+                        "align": "left",
+                        "format": "bullet",
+                        "text": "●"
+                      },
+                      "listStyleType": "SCIR_ECIR_SREC",
+                      "symbolStyle": {}
+                    },
+                    "spacing": {
+                      "line": 1.15,
+                      "lineRule": "auto"
+                    },
+                    "uuid": "meryay3mmqr57vaixvh"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "italic": true,
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      "开启最大化拿量出价方式：“"
+                    ],
+                    [
+                      "span",
+                      {
+                        "bold": false,
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      "进行最大化成交探索，快速积累销量数据，最大化拿量相对不可控，建议商家逐步增加预算，达到自己心里的盈亏平衡点；"
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "ind": {
+                      "left": 0
+                    },
+                    "list": {
+                      "extraData": {},
+                      "hideSymbol": false,
+                      "isChecked": false,
+                      "isOrdered": false,
+                      "isTaskList": false,
+                      "level": 0,
+                      "listId": "ut9clp8g6hq",
+                      "listStyle": {
+                        "align": "left",
+                        "format": "bullet",
+                        "text": "●"
+                      },
+                      "listStyleType": "SCIR_ECIR_SREC",
+                      "symbolStyle": {
+                        "bold": true,
+                        "italic": true
+                      }
+                    },
+                    "spacing": {
+                      "line": 1.15,
+                      "lineRule": "auto"
+                    },
+                    "uuid": "meryb8h3xqrc2w1km0l"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "italic": true,
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      "如果觉得最大化拿量风险较大，怎么办？"
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "ind": {
+                      "left": 32
+                    },
+                    "spacing": {
+                      "line": 1.15,
+                      "lineRule": "auto"
+                    },
+                    "uuid": "meryay3mnwik2gcrt0r"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      "开启一键起量："
+                    ],
+                    [
+                      "span",
+                      {
+                        "bold": false,
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      "一键起量主计划预算与起量预算为相互独立的预算；主计划部分预算可以"
+                    ],
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      "追求 ROI 稳定交付"
+                    ],
+                    [
+                      "span",
+                      {
+                        "bold": false,
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      "，单独起量部分预算可以进行"
+                    ],
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      "成交的增量探索"
+                    ],
+                    [
+                      "span",
+                      {
+                        "bold": false,
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      "，同时子计划可以增加计划整体的权重增加计划整体的成交阈值，"
+                    ],
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      "真正做到 ROI 稳定交付的同时，探索成交增量，天然适配新品期"
+                    ],
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "；"
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "ind": {
+                      "left": 32
+                    },
+                    "spacing": {
+                      "line": 1.15,
+                      "lineRule": "auto"
+                    },
+                    "uuid": "metopf30frluyucl3nl"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      "开启多目标出价："
+                    ],
+                    [
+                      "span",
+                      {
+                        "bold": false,
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      "在基础预算下可以设置"
+                    ],
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      "「加购」、「直接成交」 "
+                    ],
+                    [
+                      "span",
+                      {
+                        "bold": false,
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      "的多维目标，可以在保障基础预算 roi 交付下进行多维增量探索，开启多目标增强计划整体竞价能力，"
+                    ],
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      "让计划效果 \"1+1>2\"，解决商家因为竞争力不足而无法放量的问题"
+                    ],
+                    [
+                      "span",
+                      {
+                        "bold": false,
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      "，增加 gmv 同时进行增量指标的交付，满足多种场景的运营需求"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "h1",
+                {
+                  "jc": "center",
+                  "spacing": {
+                    "after": 9,
+                    "before": 26.666666666666664,
+                    "line": 0.8529411764705882
+                  },
+                  "uuid": "merxkq5pnmgo00zg4sl"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "text"
+                  },
+                  [
+                    "span",
+                    {
+                      "bold": false,
+                      "fonts": {
+                        "ascii": "DingTalk JinBuTi",
+                        "cs": "DingTalk JinBuTi",
+                        "eastAsia": "DingTalk JinBuTi",
+                        "hAnsi": "DingTalk JinBuTi"
+                      },
+                      "sz": 16,
+                      "szUnit": "pt",
+                      "color": "#3e3eff",
+                      "data-type": "leaf"
+                    },
+                    "增量放量能力，平销期间高效蓄水，大促期单品打爆"
+                  ]
+                ]
+              ],
+              [
+                "table",
+                {
+                  "colsWidth": [
+                    325,
+                    325
+                  ],
+                  "ind": {},
+                  "sr": true,
+                  "uuid": "merxjhkghcxbg4sfdpb"
+                },
+                [
+                  "tr",
+                  {
+                    "uuid": "merxjhkgdnga04m6sd6"
+                  },
+                  [
+                    "tc",
+                    {
+                      "colSpan": 1,
+                      "fill": "#FFFFFF",
+                      "rowSpan": 1,
+                      "uuid": "merxjhkg55f6f1l9euw",
+                      "vAlign": "top"
+                    },
+                    [
+                      "container",
+                      {
+                        "subType": "colorBlocks",
+                        "metadata": {
+                          "padding": {
+                            "top": 11,
+                            "right": 11,
+                            "bottom": 11,
+                            "left": 11
+                          },
+                          "borderRadius": 8,
+                          "sticker": {
+                            "type": "dingding",
+                            "id": "alidocs_emotion_034",
+                            "name": "[星星转动]",
+                            "url": "https://g.alicdn.com/alidocs/emotion-assets/0.0.6/alidocs_emotion_034.png"
+                          },
+                          "bgcolor": "#F5F6F7",
+                          "showstk": true,
+                          "border": null
+                        },
+                        "uuid": "meryeqs14x1toeeqxr5"
+                      },
+                      [
+                        "p",
+                        {
+                          "jc": "center",
+                          "uuid": "meryeqs1spzxoiidxya"
+                        },
+                        [
+                          "span",
+                          {
+                            "data-type": "text"
+                          },
+                          [
+                            "span",
+                            {
+                              "bold": true,
+                              "data-type": "leaf"
+                            },
+                            "增强放量能力，预热期进行加购蓄水"
+                          ]
+                        ]
+                      ]
+                    ],
+                    [
+                      "p",
+                      {
+                        "ind": {
+                          "left": 0
+                        },
+                        "spacing": {
+                          "line": 1.15,
+                          "lineRule": "auto"
+                        },
+                        "uuid": "meryepkofjb28laywv9"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "text"
+                        },
+                        [
+                          "span",
+                          {
+                            "bold": true,
+                            "data-type": "leaf"
+                          },
+                          "Q："
+                        ],
+                        [
+                          "span",
+                          {
+                            "bold": true,
+                            "sz": 11,
+                            "szUnit": "pt",
+                            "data-type": "leaf"
+                          },
+                          "平销期希望不降低 ROI，追求更高的 GMV，同时还可以高效的进行兴趣人群的获取，如何操作？"
+                        ]
+                      ]
+                    ],
+                    [
+                      "p",
+                      {
+                        "ind": {
+                          "left": 0
+                        },
+                        "spacing": {
+                          "line": 1.15,
+                          "lineRule": "auto"
+                        },
+                        "uuid": "merxjhkg2w7y3s84gx6"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "text"
+                        },
+                        [
+                          "span",
+                          {
+                            "bold": true,
+                            "data-type": "leaf"
+                          },
+                          "A："
+                        ],
+                        [
+                          "span",
+                          {
+                            "bold": true,
+                            "sz": 11,
+                            "szUnit": "pt",
+                            "data-type": "leaf"
+                          },
+                          "操作指南如下"
+                        ]
+                      ]
+                    ],
+                    [
+                      "p",
+                      {
+                        "uuid": "merxjhkgol3inj73yz",
+                        "ind": {
+                          "left": 0
+                        },
+                        "spacing": {
+                          "line": 1.15,
+                          "lineRule": "auto"
+                        },
+                        "list": {
+                          "listId": "jcnnpomed3b",
+                          "level": 0,
+                          "isTaskList": false,
+                          "isOrdered": false,
+                          "listStyleType": "SCIR_ECIR_SREC",
+                          "symbolStyle": {
+                            "sz": 11
+                          },
+                          "listStyle": {
+                            "format": "bullet",
+                            "text": "●",
+                            "align": "left"
+                          }
+                        }
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "text"
+                        },
+                        [
+                          "span",
+                          {
+                            "sz": 11,
+                            "szUnit": "pt",
+                            "data-type": "leaf"
+                          },
+                          "开启加购，设置加购预算，基础预算设置为昨日消耗的 10%，根据目标和效果逐步增加至 30%；"
+                        ]
+                      ]
+                    ],
+                    [
+                      "p",
+                      {
+                        "uuid": "merxjhkggfnnnbx241u",
+                        "ind": {
+                          "left": 0
+                        },
+                        "spacing": {
+                          "line": 1.15,
+                          "lineRule": "auto"
+                        },
+                        "list": {
+                          "listId": "jcnnpomed3b",
+                          "level": 0,
+                          "isTaskList": false,
+                          "isOrdered": false,
+                          "listStyleType": "SCIR_ECIR_SREC",
+                          "symbolStyle": {
+                            "sz": 11
+                          },
+                          "listStyle": {
+                            "format": "bullet",
+                            "text": "●",
+                            "align": "left"
+                          }
+                        }
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "text"
+                        },
+                        [
+                          "span",
+                          {
+                            "sz": 11,
+                            "szUnit": "pt",
+                            "data-type": "leaf"
+                          },
+                          "关注计划整体的 GMV 增长，加购量变化；"
+                        ]
+                      ]
+                    ],
+                    [
+                      "p",
+                      {
+                        "uuid": "mgz031q7ftik8wa66ga",
+                        "ind": {
+                          "left": 0
+                        },
+                        "spacing": {
+                          "line": 1.15,
+                          "lineRule": "auto"
+                        }
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "text"
+                        },
+                        [
+                          "span",
+                          {
+                            "sz": 11,
+                            "szUnit": "pt",
+                            "data-type": "leaf"
+                          },
+                          ""
+                        ]
+                      ],
+                      [
+                        "img",
+                        {
+                          "uuid": "mgz1ylsb5nwo379kspv",
+                          "name": "image.png",
+                          "size": 39451,
+                          "width": 295.33,
+                          "height": 107.33,
+                          "src": "/core/api/resources/img/5eecdaf48460cde558b02dbf9e3710ebc964eb8bd288aef775b8339e1c4c24831b75b38faadcd24bec177c308ebd530452bf7a6a6ec7f488b23a9ff8b8219d883856d47ed17967e457e8b51621c6cab8510512f79d272c5b4fb4c8ed7016461c",
+                          "extraData": {
+                            "resourceId": "76a3387c-02f7-4ba1-ada3-09d69c255c5b",
+                            "metaData": {
+                              "size": 39451,
+                              "originWidth": 443,
+                              "originHeight": 161,
+                              "format": "png",
+                              "ratio": 1
+                            }
+                          }
+                        },
+                        [
+                          "span",
+                          {
+                            "data-type": "text"
+                          },
+                          [
+                            "span",
+                            {
+                              "data-type": "leaf"
+                            },
+                            ""
+                          ]
+                        ]
+                      ],
+                      [
+                        "span",
+                        {
+                          "data-type": "text"
+                        },
+                        [
+                          "span",
+                          {
+                            "sz": 11,
+                            "szUnit": "pt",
+                            "data-type": "leaf"
+                          },
+                          ""
+                        ]
+                      ]
+                    ]
+                  ],
+                  [
+                    "tc",
+                    {
+                      "colSpan": 1,
+                      "fill": "#FFFFFF",
+                      "rowSpan": 1,
+                      "uuid": "merxjhkgywbv95visg",
+                      "vAlign": "top"
+                    },
+                    [
+                      "container",
+                      {
+                        "subType": "colorBlocks",
+                        "metadata": {
+                          "padding": {
+                            "top": 11,
+                            "right": 11,
+                            "bottom": 11,
+                            "left": 11
+                          },
+                          "borderRadius": 8,
+                          "sticker": {
+                            "type": "dingding",
+                            "id": "alidocs_emotion_034",
+                            "name": "[星星转动]",
+                            "url": "https://g.alicdn.com/alidocs/emotion-assets/0.0.6/alidocs_emotion_034.png"
+                          },
+                          "bgcolor": "#F5F6F7",
+                          "showstk": true,
+                          "border": null
+                        },
+                        "uuid": "meryez59v5jmgjydw0l"
+                      },
+                      [
+                        "p",
+                        {
+                          "jc": "center",
+                          "uuid": "meryez59v4xxyj9ypvc"
+                        },
+                        [
+                          "span",
+                          {
+                            "data-type": "text"
+                          },
+                          [
+                            "span",
+                            {
+                              "bold": true,
+                              "data-type": "leaf"
+                            },
+                            "增强放量能力，爆发期聚焦单品打爆"
+                          ]
+                        ]
+                      ]
+                    ],
+                    [
+                      "p",
+                      {
+                        "ind": {
+                          "left": 0
+                        },
+                        "spacing": {
+                          "line": 1.15,
+                          "lineRule": "auto"
+                        },
+                        "uuid": "meryey3np23kvqm0d2f"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "text"
+                        },
+                        [
+                          "span",
+                          {
+                            "bold": true,
+                            "data-type": "leaf"
+                          },
+                          "Q："
+                        ],
+                        [
+                          "span",
+                          {
+                            "bold": true,
+                            "sz": 11,
+                            "szUnit": "pt",
+                            "data-type": "leaf"
+                          },
+                          "大促期间希望要更高的成交，同时希望打爆品，快速让商品行业排名提升，如何操作？"
+                        ]
+                      ]
+                    ],
+                    [
+                      "p",
+                      {
+                        "ind": {
+                          "left": 0
+                        },
+                        "spacing": {
+                          "line": 1.15,
+                          "lineRule": "auto"
+                        },
+                        "uuid": "merxjhkg3knh38ruczu"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "text"
+                        },
+                        [
+                          "span",
+                          {
+                            "bold": true,
+                            "data-type": "leaf"
+                          },
+                          "A："
+                        ],
+                        [
+                          "span",
+                          {
+                            "bold": true,
+                            "sz": 11,
+                            "szUnit": "pt",
+                            "data-type": "leaf"
+                          },
+                          "操作指南如下"
+                        ]
+                      ]
+                    ],
+                    [
+                      "p",
+                      {
+                        "uuid": "merxjhkg36wwqwxgq1",
+                        "ind": {
+                          "left": 0
+                        },
+                        "spacing": {
+                          "line": 1.15,
+                          "lineRule": "auto"
+                        },
+                        "list": {
+                          "listId": "5tmbay2j07j",
+                          "level": 0,
+                          "isTaskList": false,
+                          "isOrdered": false,
+                          "listStyleType": "SCIR_ECIR_SREC",
+                          "symbolStyle": {
+                            "sz": 11
+                          },
+                          "listStyle": {
+                            "format": "bullet",
+                            "text": "●",
+                            "align": "left"
+                          }
+                        }
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "text"
+                        },
+                        [
+                          "span",
+                          {
+                            "sz": 11,
+                            "szUnit": "pt",
+                            "data-type": "leaf"
+                          },
+                          "开启直接成交，设置加购预算，基础预算设置为昨日消耗的 10%，根据目标和效果逐步增加至 30%；"
+                        ]
+                      ]
+                    ],
+                    [
+                      "p",
+                      {
+                        "uuid": "merxjhkgb02c8uxrlt6",
+                        "ind": {
+                          "left": 0
+                        },
+                        "spacing": {
+                          "line": 1.15,
+                          "lineRule": "auto"
+                        },
+                        "list": {
+                          "listId": "5tmbay2j07j",
+                          "level": 0,
+                          "isTaskList": false,
+                          "isOrdered": false,
+                          "listStyleType": "SCIR_ECIR_SREC",
+                          "symbolStyle": {
+                            "sz": 11
+                          },
+                          "listStyle": {
+                            "format": "bullet",
+                            "text": "●",
+                            "align": "left"
+                          }
+                        }
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "text"
+                        },
+                        [
+                          "span",
+                          {
+                            "sz": 11,
+                            "szUnit": "pt",
+                            "data-type": "leaf"
+                          },
+                          "关注计划整体的 GMV 增长，直接成交变化；"
+                        ]
+                      ],
+                      [
+                        "img",
+                        {
+                          "uuid": "mgz1ylsb8ua0f2e9sye",
+                          "name": "image.png",
+                          "size": 42516,
+                          "width": 322,
+                          "height": 118.47855530474041,
+                          "src": "/core/api/resources/img/5eecdaf48460cde558b02dbf9e3710ebc964eb8bd288aef775b8339e1c4c24831b75b38faadcd24bec177c308ebd530477eeecdf4967231a41d028c7ace5a7186dd9fa817b18edbba33c3711fcda33af186975f4f016ef124fb4c8ed7016461c",
+                          "extraData": {
+                            "resourceId": "aca708f0-ab66-46b5-ac83-6721e35f5efc",
+                            "metaData": {
+                              "size": 42516,
+                              "originWidth": 443,
+                              "originHeight": 163,
+                              "format": "png",
+                              "ratio": 1
+                            }
+                          },
+                          "rotation": 0
+                        },
+                        [
+                          "span",
+                          {
+                            "data-type": "text"
+                          },
+                          [
+                            "span",
+                            {
+                              "data-type": "leaf"
+                            },
+                            ""
+                          ]
+                        ]
+                      ],
+                      [
+                        "span",
+                        {
+                          "data-type": "text"
+                        },
+                        [
+                          "span",
+                          {
+                            "sz": 11,
+                            "szUnit": "pt",
+                            "data-type": "leaf"
+                          },
+                          ""
+                        ]
+                      ]
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "p",
+                {
+                  "jc": "left",
+                  "uuid": "meryl42o3hkc6831tyk"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "text"
+                  },
+                  [
+                    "span",
+                    {
+                      "color": "#C10002",
+                      "data-type": "leaf"
+                    },
+                    ""
+                  ]
+                ],
+                [
+                  "img",
+                  {
+                    "uuid": "mgz1ylsbf27m2aw3j67",
+                    "name": "image.png",
+                    "size": 406420,
+                    "width": 707,
+                    "height": 382.84459459459464,
+                    "src": "/core/api/resources/img/5eecdaf48460cde558b02dbf9e3710ebc964eb8bd288aef775b8339e1c4c24831b75b38faadcd24bec177c308ebd5304dd06c95a7bb59765f22bd60ff146f4f0d4ce255a79138684a08825c5228fadb59b09fbe7425d6a8a4fb4c8ed7016461c",
+                    "extraData": {
+                      "resourceId": "09dbb7a1-d556-4b61-85f0-c270053db51d",
+                      "metaData": {
+                        "size": 406420,
+                        "originWidth": 1036,
+                        "originHeight": 561,
+                        "format": "png",
+                        "ratio": 1
+                      }
+                    },
+                    "rotation": 0
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ]
+                ],
+                [
+                  "span",
+                  {
+                    "data-type": "text"
+                  },
+                  [
+                    "span",
+                    {
+                      "color": "#C10002",
+                      "data-type": "leaf"
+                    },
+                    ""
+                  ]
+                ]
+              ]
+            ],
+            [
+              "h1",
+              {
+                "jc": "center",
+                "spacing": {
+                  "after": 9,
+                  "before": 26.666666666666664,
+                  "line": 0.8529411764705882
+                },
+                "uuid": "metswoq43k8o2fy6pki"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "bold": false,
+                    "fonts": {
+                      "ascii": "DingTalk JinBuTi",
+                      "cs": "DingTalk JinBuTi",
+                      "eastAsia": "DingTalk JinBuTi",
+                      "hAnsi": "DingTalk JinBuTi"
+                    },
+                    "sz": 16,
+                    "szUnit": "pt",
+                    "color": "#3e3eff",
+                    "data-type": "leaf"
+                  },
+                  "<具体介绍请钉钉扫码查看>"
+                ]
+              ]
+            ],
+            [
+              "table",
+              {
+                "colsWidth": [
+                  325,
+                  325,
+                  325,
+                  325
+                ],
+                "sr": true,
+                "uuid": "metsqj3pc6dfol8x8n7"
+              },
+              [
+                "tr",
+                {
+                  "uuid": "metsqj3ot6tiwqcqnf"
+                },
+                [
+                  "tc",
+                  {
+                    "fill": "#F5F6F7",
+                    "vAlign": "top",
+                    "uuid": "metsqj3ovcdkpoe0f6q",
+                    "rowSpan": 1,
+                    "colSpan": 1
+                  },
+                  [
+                    "p",
+                    {
+                      "uuid": "metsqj3osn83df6gn7i",
+                      "jc": "center"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "bold": true,
+                          "sz": 9,
+                          "szUnit": "pt",
+                          "color": "#3e3eff",
+                          "data-type": "leaf"
+                        },
+                        "\"一键起量\"详情看这里↓"
+                      ]
+                    ]
+                  ],
+                  [
+                    "p",
+                    {
+                      "uuid": "metsr1dy27r5ywi9mfp",
+                      "jc": "center"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "leaf"
+                        },
+                        ""
+                      ]
+                    ],
+                    [
+                      "img",
+                      {
+                        "uuid": "mgz1ylsbnh5kkrfq3nq",
+                        "name": "c5bfc3d86fd5acfd58d4a98a23444f13.png",
+                        "size": 3957,
+                        "width": 186.67,
+                        "height": 186.67,
+                        "src": "/core/api/resources/img/5eecdaf48460cde558b02dbf9e3710ebc964eb8bd288aef775b8339e1c4c24831b75b38faadcd24bec177c308ebd53046f1fe7a1c668effd7f1f216945733e347d93ee96943076aa3f670fbaf07ee693051e3c4885e44a294fb4c8ed7016461c",
+                        "extraData": {
+                          "resourceId": "3fd77e67-e34d-49d0-baec-18ad77338299",
+                          "metaData": {
+                            "size": 3957,
+                            "originWidth": 280,
+                            "originHeight": 280,
+                            "format": "png",
+                            "ratio": 1
+                          }
+                        }
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "text"
+                        },
+                        [
+                          "span",
+                          {
+                            "data-type": "leaf"
+                          },
+                          ""
+                        ]
+                      ]
+                    ],
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "leaf"
+                        },
+                        ""
+                      ]
+                    ]
+                  ]
+                ],
+                [
+                  "tc",
+                  {
+                    "vAlign": "top",
+                    "fill": "#F5F6F7",
+                    "uuid": "metsqjvgx8gpjp6z0s9",
+                    "rowSpan": 1,
+                    "colSpan": 1
+                  },
+                  [
+                    "p",
+                    {
+                      "uuid": "metsqjvgio87ocx1tlm",
+                      "jc": "center"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "bold": true,
+                          "sz": 9,
+                          "szUnit": "pt",
+                          "color": "#3e3eff",
+                          "data-type": "leaf"
+                        },
+                        "\"多目标出价\"详情看这里↓"
+                      ]
+                    ]
+                  ],
+                  [
+                    "p",
+                    {
+                      "uuid": "metsqoqovk69bs3bdff",
+                      "jc": "center"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "bold": true,
+                          "sz": 10,
+                          "szUnit": "pt",
+                          "color": "#f108c3",
+                          "data-type": "leaf"
+                        },
+                        ""
+                      ]
+                    ],
+                    [
+                      "img",
+                      {
+                        "uuid": "mgz1ylsb7h9nlagcnvp",
+                        "name": "320186c069060cf6b0c156363b557b1f.png",
+                        "size": 2566,
+                        "width": 186.67,
+                        "height": 186.67,
+                        "src": "/core/api/resources/img/5eecdaf48460cde558b02dbf9e3710ebc964eb8bd288aef775b8339e1c4c24831b75b38faadcd24bec177c308ebd5304daea160ca9dc4d35e877fa6b3fb821cecdb427863bfc2bc1ff2ecfe4bd52e13ae9d27650075e717e4fb4c8ed7016461c",
+                        "extraData": {
+                          "resourceId": "cde24b12-2705-4c90-be7b-dd4435c839dd",
+                          "metaData": {
+                            "size": 2566,
+                            "originWidth": 280,
+                            "originHeight": 280,
+                            "format": "png",
+                            "ratio": 1
+                          }
+                        }
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "text"
+                        },
+                        [
+                          "span",
+                          {
+                            "data-type": "leaf"
+                          },
+                          ""
+                        ]
+                      ]
+                    ],
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "bold": true,
+                          "sz": 10,
+                          "szUnit": "pt",
+                          "color": "#f108c3",
+                          "data-type": "leaf"
+                        },
+                        ""
+                      ]
+                    ]
+                  ]
+                ],
+                [
+                  "tc",
+                  {
+                    "vAlign": "top",
+                    "fill": "#F5F6F7",
+                    "uuid": "metssaa7lxxqa9u8k2",
+                    "rowSpan": 1,
+                    "colSpan": 1
+                  },
+                  [
+                    "p",
+                    {
+                      "uuid": "metsscrg92prlxkl6p5",
+                      "jc": "center"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "bold": true,
+                          "sz": 9,
+                          "szUnit": "pt",
+                          "color": "#3e3eff",
+                          "data-type": "leaf"
+                        },
+                        "\"最大化拿量\"详情看这里↓"
+                      ]
+                    ],
+                    [
+                      "img",
+                      {
+                        "uuid": "mgz1ylsb3qd0wofer6",
+                        "name": "c50b57951aa74bd077d484a994e1bfce.png",
+                        "size": 3980,
+                        "width": 186.67,
+                        "height": 186.67,
+                        "src": "/core/api/resources/img/5eecdaf48460cde558b02dbf9e3710ebc964eb8bd288aef775b8339e1c4c24831b75b38faadcd24bec177c308ebd5304c0e13199ba09fbceebb737808f5723de15fc1ac846d9abb929459de4691c9057d365a12a73784cba4fb4c8ed7016461c",
+                        "extraData": {
+                          "resourceId": "699c342c-559d-4c9e-ab85-1d02ed472104",
+                          "metaData": {
+                            "size": 3980,
+                            "originWidth": 280,
+                            "originHeight": 280,
+                            "format": "png",
+                            "ratio": 1
+                          }
+                        }
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "text"
+                        },
+                        [
+                          "span",
+                          {
+                            "bold": true,
+                            "sz": 9,
+                            "szUnit": "pt",
+                            "color": "#3e3eff",
+                            "data-type": "leaf"
+                          },
+                          ""
+                        ]
+                      ]
+                    ],
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "bold": true,
+                          "sz": 9,
+                          "szUnit": "pt",
+                          "color": "#3e3eff",
+                          "data-type": "leaf"
+                        },
+                        ""
+                      ]
+                    ]
+                  ]
+                ],
+                [
+                  "tc",
+                  {
+                    "fill": "#F5F6F7",
+                    "vAlign": "top",
+                    "uuid": "metsqj3o3lumhn83nhg",
+                    "rowSpan": 1,
+                    "colSpan": 1
+                  },
+                  [
+                    "p",
+                    {
+                      "uuid": "mcvdp50x1uiwc1pufuj",
+                      "jc": "center"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "bold": true,
+                          "sz": 9,
+                          "szUnit": "pt",
+                          "color": "#3e3eff",
+                          "data-type": "leaf"
+                        },
+                        "货品全站推广答疑来这里↓"
+                      ]
+                    ]
+                  ],
+                  [
+                    "p",
+                    {
+                      "uuid": "metsupopu7inm83s8fk",
+                      "jc": "center"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "bold": true,
+                          "sz": 11,
+                          "szUnit": "pt",
+                          "color": "#3e3eff",
+                          "data-type": "leaf"
+                        },
+                        ""
+                      ]
+                    ],
+                    [
+                      "img",
+                      {
+                        "uuid": "mr8xncpfn35j9eo6o8",
+                        "name": "image.png",
+                        "size": 154463,
+                        "width": 143,
+                        "height": 148,
+                        "src": "/core/api/resources/img/5eecdaf48460cde5eadaed293fe695e48c9221cffb67fd6175b8339e1c4c24831b75b38faadcd24bec177c308ebd5304633e7cc2fcc8e0592ae74c0ea0b2ba6868fcd19c9367264316de47e5946ebdb7eeef321fccae135c4fb4c8ed7016461c",
+                        "extraData": {
+                          "resourceId": "936926f9-43b5-4443-8232-af6ed7295e96",
+                          "metaData": {
+                            "size": 154463,
+                            "originWidth": 356,
+                            "originHeight": 370,
+                            "format": "png",
+                            "ratio": 1
+                          }
+                        },
+                        "rotation": 0
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "text"
+                        },
+                        [
+                          "span",
+                          {
+                            "data-type": "leaf"
+                          },
+                          ""
+                        ]
+                      ]
+                    ],
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "bold": true,
+                          "sz": 11,
+                          "szUnit": "pt",
+                          "color": "#3e3eff",
+                          "data-type": "leaf"
+                        },
+                        ""
+                      ]
+                    ]
+                  ]
+                ]
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mhbdrigs8addf2shp7"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ]
+        ],
+        "footers": {},
+        "version": 1
+      },
+      "refs": {}
+    }
+  }
+}

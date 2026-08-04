@@ -1,0 +1,2647 @@
+{
+  "version": 1,
+  "type": "application/x-alidocs-package",
+  "main": "00000000-0000-0000-0000-000000000001",
+  "plugins": "00000000-0000-0000-0000-000000000002",
+  "parts": {
+    "00000000-0000-0000-0000-000000000001": {
+      "id": "00000000-0000-0000-0000-000000000001",
+      "type": "application/x-alidocs-word",
+      "version": 1,
+      "data": {
+        "style": {
+          "docDefaults": {
+            "type": "paragraph",
+            "default": 1,
+            "name": "dingdocnormal",
+            "data": {
+              "rPr": {
+                "sz": 12,
+                "szUnit": "pt"
+              },
+              "pPr": {
+                "spacing": {
+                  "before": 8,
+                  "after": 8
+                }
+              }
+            }
+          },
+          "tableDefault": {
+            "type": "table",
+            "data": {
+              "tblPr": {
+                "bdr": {
+                  "bottom": {
+                    "color": "#D6D6D6",
+                    "space": 0,
+                    "sz": 1,
+                    "val": "single"
+                  },
+                  "insideH": {
+                    "color": "#D6D6D6",
+                    "space": 0,
+                    "sz": 1,
+                    "val": "single"
+                  },
+                  "insideV": {
+                    "color": "#D6D6D6",
+                    "space": 0,
+                    "sz": 1,
+                    "val": "single"
+                  },
+                  "left": {
+                    "color": "#D6D6D6",
+                    "space": 0,
+                    "sz": 1,
+                    "val": "single"
+                  },
+                  "right": {
+                    "color": "#D6D6D6",
+                    "space": 0,
+                    "sz": 1,
+                    "val": "single"
+                  },
+                  "top": {
+                    "color": "#D6D6D6",
+                    "space": 0,
+                    "sz": 1,
+                    "val": "single"
+                  }
+                }
+              }
+            }
+          },
+          "tableHeader": {
+            "type": "table",
+            "basedOn": "tableDefault",
+            "data": {
+              "tblStylePr": [
+                {
+                  "type": "firstRow",
+                  "tcPr": {
+                    "shd": {
+                      "fill": "#F5F6F7"
+                    }
+                  }
+                },
+                {
+                  "type": "firstCol",
+                  "tcPr": {
+                    "shd": {
+                      "fill": "#F5F6F7"
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        "theme": [],
+        "settings": {
+          "titleCover": {
+            "isHide": true
+          }
+        },
+        "app": {},
+        "numberings": {},
+        "headers": {},
+        "body": [
+          "root",
+          {
+            "sectPr": {
+              "pgSz": {
+                "w": 892,
+                "h": 1127
+              },
+              "pgMar": {
+                "top": 48,
+                "bottom": 48,
+                "left": 72,
+                "right": 72,
+                "header": 56.73,
+                "footer": 66.13,
+                "gutter": 0
+              }
+            },
+            "theme": {
+              "table": {
+                "tableCell": {
+                  "vAlign": "top"
+                }
+              }
+            }
+          },
+          [
+            "container",
+            {
+              "subType": "colorBlocks",
+              "metadata": {
+                "padding": {
+                  "top": 11,
+                  "right": 11,
+                  "bottom": 11,
+                  "left": 11
+                },
+                "borderRadius": 8,
+                "bgcolor": "#FFFFFF",
+                "showstk": false,
+                "border": "#9A6DD7"
+              },
+              "uuid": "mb7dqkafnpuj4crg34",
+              "ind": {
+                "left": 32
+              }
+            },
+            [
+              "p",
+              {
+                "jc": "center",
+                "uuid": "mb7dqkafkrnyrqekrkb"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "bold": false,
+                    "sz": 16,
+                    "szUnit": "pt",
+                    "color": "linear-gradient(90deg, #28B4BE 0%, #3935DD 100%)",
+                    "data-type": "leaf"
+                  },
+                  "【重要通知】商品支持「货品全站推广」与「其他场景」同时投放！"
+                ]
+              ]
+            ],
+            [
+              "p",
+              {
+                "uuid": "mb7drtu90lis3eekqifc",
+                "jc": "left",
+                "ind": {
+                  "firstLine": 32
+                }
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "sz": 12,
+                    "szUnit": "pt",
+                    "color": "#222328",
+                    "data-type": "leaf"
+                  },
+                  "为助力商家高效增长，万相台无界-货品全站推广现面向受邀商家限时开放「货品全站推广投放门槛降低」权益！6月2日起，受邀商家的商品"
+                ],
+                [
+                  "span",
+                  {
+                    "bold": true,
+                    "sz": 12,
+                    "szUnit": "pt",
+                    "color": "#FE0300",
+                    "data-type": "leaf"
+                  },
+                  "可开启「货品全站推广」计划，与「其他场景」计划同时投放"
+                ],
+                [
+                  "span",
+                  {
+                    "sz": 12,
+                    "szUnit": "pt",
+                    "color": "#222328",
+                    "data-type": "leaf"
+                  },
+                  "，满足商品多渠道投放的运营诉求！"
+                ]
+              ]
+            ],
+            [
+              "p",
+              {
+                "uuid": "mbg5sht50sz6lf606y3g",
+                "jc": "left",
+                "ind": {
+                  "firstLine": 32
+                }
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "sz": 12,
+                    "szUnit": "pt",
+                    "color": "#222328",
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ]
+            ],
+            [
+              "p",
+              {
+                "uuid": "mbg5s9r3cto1j4z1p3h",
+                "jc": "center",
+                "ind": {
+                  "firstLine": 32
+                }
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "sz": 12,
+                    "szUnit": "pt",
+                    "color": "#222328",
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ],
+              [
+                "span",
+                {
+                  "uuid": "mbg5snfx3n8a2vbh1xa",
+                  "code": "烟花",
+                  "newCode": {
+                    "type": "dingding",
+                    "id": "emotion_197",
+                    "name": "[烟花]",
+                    "url": "https://g.alicdn.com/dingding/emotion-assets/0.76.0/mobile/emotion_197.png"
+                  },
+                  "data-type": "emoji"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "text"
+                  },
+                  [
+                    "span",
+                    {
+                      "highlight": null,
+                      "sz": 12,
+                      "szUnit": "pt",
+                      "color": "#222328",
+                      "data-type": "leaf"
+                    },
+                    ""
+                  ]
+                ]
+              ],
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "highlight": null,
+                    "sz": 12,
+                    "szUnit": "pt",
+                    "color": "#222328",
+                    "data-type": "leaf"
+                  },
+                  " "
+                ],
+                [
+                  "span",
+                  {
+                    "sz": 12,
+                    "szUnit": "pt",
+                    "color": "#222328",
+                    "data-type": "leaf"
+                  },
+                  "核心变化抢先看 "
+                ]
+              ],
+              [
+                "span",
+                {
+                  "uuid": "mbg5szdc6xgfq7ajfo",
+                  "code": "烟花",
+                  "newCode": {
+                    "type": "dingding",
+                    "id": "emotion_197",
+                    "name": "[烟花]",
+                    "url": "https://g.alicdn.com/dingding/emotion-assets/0.76.0/mobile/emotion_197.png"
+                  },
+                  "data-type": "emoji"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "text"
+                  },
+                  [
+                    "span",
+                    {
+                      "highlight": null,
+                      "sz": 12,
+                      "szUnit": "pt",
+                      "color": "#222328",
+                      "data-type": "leaf"
+                    },
+                    ""
+                  ]
+                ]
+              ],
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "sz": 12,
+                    "szUnit": "pt",
+                    "color": "#222328",
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ]
+            ],
+            [
+              "p",
+              {
+                "uuid": "mb7dyxr5fw1um42tbj",
+                "jc": "left",
+                "ind": {
+                  "left": 32
+                }
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "sz": 12,
+                    "szUnit": "pt",
+                    "color": "#222328",
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ],
+              [
+                "span",
+                {
+                  "uuid": "mb7dz7zr86d2ikhhrcn",
+                  "code": "实心星星",
+                  "newCode": {
+                    "type": "dingding",
+                    "id": "alidocs_emotion_037",
+                    "name": "[实心星星]",
+                    "url": "https://g.alicdn.com/alidocs/emotion-assets/0.0.6/alidocs_emotion_037.png"
+                  },
+                  "data-type": "emoji"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "text"
+                  },
+                  [
+                    "span",
+                    {
+                      "highlight": null,
+                      "sz": 12,
+                      "szUnit": "pt",
+                      "color": "#222328",
+                      "data-type": "leaf"
+                    },
+                    ""
+                  ]
+                ]
+              ],
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "highlight": null,
+                    "sz": 12,
+                    "szUnit": "pt",
+                    "color": "#222328",
+                    "data-type": "leaf"
+                  },
+                  "1."
+                ],
+                [
+                  "span",
+                  {
+                    "bold": false,
+                    "highlight": null,
+                    "sz": 12,
+                    "szUnit": "pt",
+                    "color": "#222328",
+                    "data-type": "leaf"
+                  },
+                  "无界多场景可同时投放：商品"
+                ],
+                [
+                  "span",
+                  {
+                    "bold": true,
+                    "sz": 12,
+                    "szUnit": "pt",
+                    "color": "#222328",
+                    "data-type": "leaf"
+                  },
+                  "可开启「货品全站推广」计划，与「其他场景」计划"
+                ],
+                [
+                  "span",
+                  {
+                    "bold": true,
+                    "sz": 12,
+                    "szUnit": "pt",
+                    "color": "#FE0300",
+                    "data-type": "leaf"
+                  },
+                  "同时投放"
+                ],
+                [
+                  "span",
+                  {
+                    "bold": true,
+                    "sz": 12,
+                    "szUnit": "pt",
+                    "color": "#222328",
+                    "data-type": "leaf"
+                  },
+                  "; "
+                ]
+              ]
+            ],
+            [
+              "p",
+              {
+                "uuid": "mb7dzj7bqsp2kw42tbm",
+                "jc": "left",
+                "ind": {
+                  "left": 32
+                }
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "bold": false,
+                    "highlight": null,
+                    "sz": 12,
+                    "szUnit": "pt",
+                    "color": "#222328",
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ],
+              [
+                "span",
+                {
+                  "uuid": "mb7dzje7e01e7inuw3",
+                  "code": "实心星星",
+                  "newCode": {
+                    "type": "dingding",
+                    "id": "alidocs_emotion_037",
+                    "name": "[实心星星]",
+                    "url": "https://g.alicdn.com/alidocs/emotion-assets/0.0.6/alidocs_emotion_037.png"
+                  },
+                  "data-type": "emoji"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "text"
+                  },
+                  [
+                    "span",
+                    {
+                      "bold": false,
+                      "highlight": null,
+                      "sz": 12,
+                      "szUnit": "pt",
+                      "color": "#222328",
+                      "data-type": "leaf"
+                    },
+                    ""
+                  ]
+                ]
+              ],
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "bold": false,
+                    "highlight": null,
+                    "sz": 12,
+                    "szUnit": "pt",
+                    "color": "#222328",
+                    "data-type": "leaf"
+                  },
+                  "2"
+                ],
+                [
+                  "span",
+                  {
+                    "bold": false,
+                    "sz": 12,
+                    "szUnit": "pt",
+                    "color": "#222328",
+                    "data-type": "leaf"
+                  },
+                  ".即刻投放货品全站推广，即享"
+                ],
+                [
+                  "span",
+                  {
+                    "bold": true,
+                    "sz": 12,
+                    "szUnit": "pt",
+                    "color": "#222328",
+                    "data-type": "leaf"
+                  },
+                  "「"
+                ],
+                [
+                  "span",
+                  {
+                    "bold": false,
+                    "sz": 12,
+                    "szUnit": "pt",
+                    "color": "#222328",
+                    "data-type": "leaf"
+                  },
+                  "货品全站推广"
+                ],
+                [
+                  "span",
+                  {
+                    "bold": true,
+                    "sz": 12,
+                    "szUnit": "pt",
+                    "color": "#222328",
+                    "data-type": "leaf"
+                  },
+                  "」"
+                ],
+                [
+                  "span",
+                  {
+                    "bold": false,
+                    "sz": 12,
+                    "szUnit": "pt",
+                    "color": "#222328",
+                    "data-type": "leaf"
+                  },
+                  "升级红利"
+                ],
+                [
+                  "span",
+                  {
+                    "bold": false,
+                    "highlight": null,
+                    "sz": 12,
+                    "szUnit": "pt",
+                    "color": "#222328",
+                    "data-type": "leaf"
+                  },
+                  "："
+                ],
+                [
+                  "span",
+                  {
+                    "bold": false,
+                    "highlight": null,
+                    "sz": 12,
+                    "szUnit": "pt",
+                    "color": "#FE0300",
+                    "data-type": "leaf"
+                  },
+                  "围绕货品生命周期建设新品、潜力品、机会爆品成长的能力"
+                ],
+                [
+                  "span",
+                  {
+                    "sz": 12,
+                    "szUnit": "pt",
+                    "color": "#222328",
+                    "data-type": "leaf"
+                  },
+                  "，助力「新品」拿量速度更快、「潜力品」GMV增长更多、「机会爆品」流量增量更大"
+                ],
+                [
+                  "span",
+                  {
+                    "bold": true,
+                    "sz": 12,
+                    "szUnit": "pt",
+                    "color": "#222328",
+                    "data-type": "leaf"
+                  },
+                  "; "
+                ]
+              ]
+            ],
+            [
+              "p",
+              {
+                "uuid": "mb7dzjni668x4u5x9ox",
+                "jc": "left",
+                "ind": {
+                  "left": 32
+                }
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "bold": false,
+                    "highlight": null,
+                    "sz": 12,
+                    "szUnit": "pt",
+                    "color": "#222328",
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ],
+              [
+                "span",
+                {
+                  "uuid": "mb7dzkb7tq3x79cpy6",
+                  "code": "实心星星",
+                  "newCode": {
+                    "type": "dingding",
+                    "id": "alidocs_emotion_037",
+                    "name": "[实心星星]",
+                    "url": "https://g.alicdn.com/alidocs/emotion-assets/0.0.6/alidocs_emotion_037.png"
+                  },
+                  "data-type": "emoji"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "text"
+                  },
+                  [
+                    "span",
+                    {
+                      "bold": false,
+                      "highlight": null,
+                      "sz": 12,
+                      "szUnit": "pt",
+                      "color": "#222328",
+                      "data-type": "leaf"
+                    },
+                    ""
+                  ]
+                ]
+              ],
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "bold": false,
+                    "highlight": null,
+                    "sz": 12,
+                    "szUnit": "pt",
+                    "color": "#222328",
+                    "data-type": "leaf"
+                  },
+                  "3."
+                ],
+                [
+                  "span",
+                  {
+                    "highlight": null,
+                    "sz": 12,
+                    "szUnit": "pt",
+                    "color": "#222328",
+                    "data-type": "leaf"
+                  },
+                  "商品起投门槛降低："
+                ],
+                [
+                  "span",
+                  {
+                    "sz": 12,
+                    "szUnit": "pt",
+                    "color": "#222328",
+                    "data-type": "leaf"
+                  },
+                  "货品全站推广投放最低门槛全面降低！全部商品"
+                ],
+                [
+                  "span",
+                  {
+                    "bold": true,
+                    "sz": 12,
+                    "szUnit": "pt",
+                    "color": "#FE0300",
+                    "data-type": "leaf"
+                  },
+                  "起投门槛降至50元"
+                ],
+                [
+                  "span",
+                  {
+                    "bold": true,
+                    "sz": 12,
+                    "szUnit": "pt",
+                    "color": "#222328",
+                    "data-type": "leaf"
+                  },
+                  ";"
+                ]
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mbg5tqvmhl518zemssp"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "h1",
+            {
+              "uuid": "mbg5tr2x1nhmghpz1op",
+              "spacing": {
+                "before": 26.666666666666664,
+                "after": 9,
+                "line": 0.8529411764705882
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 20,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "Q&A："
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mbgc6vnpy2fu65fxcac"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mbgajmxwq7mujospv2f"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "Q：为什么我没有开通这个功能？"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mbgajtuu66snc4nceqa"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": false,
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "A：本功能目前处于迭代阶段，该功能为平台邀约制，是仅向受邀商家开通的限时权益，暂不支持主动提报；如有更多问题，可扫描文档最后方二维码入群沟通"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mbgc6wir6qn8z73mb0r"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mbg5um0vqkqj2efj8no"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "Q：无界其他场景与货品全站推广可同时投放后，在配合投放的策略上，有什么建议吗？"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mbg5vqwmprk8cnyfzel"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "A：货品全站推广已建设"
+              ],
+              [
+                "span",
+                {
+                  "bold": false,
+                  "highlight": null,
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "#FE0300",
+                  "data-type": "leaf"
+                },
+                "围绕货品生命周期建设新品、潜力品、机会爆品成长的能力"
+              ],
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "#222328",
+                  "data-type": "leaf"
+                },
+                "，助力「新品」拿量速度更快、「潜力品」GMV增长更多、「机会爆品」流量增量更大；对于处于不同生命周期的货品，商家可以基于自身的投放诉求，"
+              ],
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "#FE0300",
+                  "data-type": "leaf"
+                },
+                "参考以下的推荐出价和调优方向"
+              ],
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "#222328",
+                  "data-type": "leaf"
+                },
+                "进行货品全站推广计划的设置，与其他场景配合投放；同时对于货品全站推广的控投产计划，请"
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "#FE0300",
+                  "data-type": "leaf"
+                },
+                "尽可能采纳平台的推荐ROI进行设置"
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "",
+                  "data-type": "leaf"
+                },
+                "；"
+              ]
+            ]
+          ],
+          [
+            "table",
+            {
+              "colsWidth": [
+                116,
+                85,
+                149,
+                374
+              ],
+              "uuid": "m7d2k6dpidyill8ois",
+              "ind": {
+                "left": 32
+              }
+            },
+            [
+              "tr",
+              {
+                "uuid": "maozcmcdxuxx7xklxdd",
+                "h": 49
+              },
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "vAlign": "top",
+                  "uuid": "maozcmcdhpmsd07dhcn"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "maozcmcdjabzr6di0ip",
+                    "jc": "center"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "sz": 12,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      "货品生命周期"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "vAlign": "top",
+                  "uuid": "maozcmcd4n2k3kh7fph"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "maozcmcd7213og9ao09",
+                    "jc": "center"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "data-type": "leaf"
+                      },
+                      "是否新品"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "vAlign": "top",
+                  "uuid": "maozcmcdlznf9yopc1"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "maozcmcdrhfmg2pik1",
+                    "jc": "center"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "data-type": "leaf"
+                      },
+                      "推荐出价及投放调优"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "vAlign": "top",
+                  "uuid": "maozcmcdsa8w12e1uu"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "maozcmcdfrc9j8zrny",
+                    "jc": "center"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "data-type": "leaf"
+                      },
+                      "推荐理由"
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {
+                "uuid": "m7d2k6dpsg5886goht"
+              },
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "maozi9dq0h0uptd56yk",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "maozi9dqmjvc1du0ce"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "新品冷启期"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "maozi9dq6wlbhava49m",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "maozi9dqq7dpl3ylfu9"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "是"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "maozi9dqqsnelige23p",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "maozi9dq8b7dw77qvy3",
+                    "ind": {
+                      "left": 0
+                    },
+                    "list": {
+                      "listId": "ieh8js2ixi",
+                      "level": 0,
+                      "isTaskList": false,
+                      "isOrdered": false,
+                      "listStyleType": "SCIR_ECIR_SREC",
+                      "symbolStyle": {},
+                      "listStyle": {
+                        "format": "bullet",
+                        "text": "●",
+                        "align": "left"
+                      }
+                    }
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "最大化拿量"
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "uuid": "maoze9h9ktln4mkcmb",
+                    "ind": {
+                      "left": 0
+                    },
+                    "list": {
+                      "listId": "ieh8js2ixi",
+                      "level": 0,
+                      "isTaskList": false,
+                      "isOrdered": false,
+                      "listStyleType": "SCIR_ECIR_SREC",
+                      "symbolStyle": {},
+                      "listStyle": {
+                        "format": "bullet",
+                        "text": "●",
+                        "align": "left"
+                      }
+                    }
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "加购目标"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "m8mgzysv9z5kgkvfa4c",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "m8mgzysvbv1i08jz4or"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "color": "",
+                        "data-type": "leaf"
+                      },
+                      "新品加速"
+                    ],
+                    [
+                      "span",
+                      {
+                        "color": "",
+                        "data-type": "leaf"
+                      },
+                      "：当前商品处于新品阶段，推荐使用最大化拿量，并打开加购目标，实现成长跃迁"
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {
+                "uuid": "maozcmcdk4o7aosbwz"
+              },
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "maozi9dqmnv6cpylpn",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "maozi9dqzc48sfsimsi"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "新品成长期"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "maozi9dqfcadrmsw39p",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "maozi9dqk9u76msdy7m"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "是"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "maozi9dqoj1oxd0z6b",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "maozi9dq05r90fl9m4tw",
+                    "ind": {
+                      "left": 0
+                    },
+                    "list": {
+                      "listId": "h5o21l347rf",
+                      "level": 0,
+                      "isTaskList": false,
+                      "isOrdered": false,
+                      "listStyleType": "SCIR_ECIR_SREC",
+                      "symbolStyle": {},
+                      "listStyle": {
+                        "format": "bullet",
+                        "text": "●",
+                        "align": "left"
+                      }
+                    }
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "color": "",
+                        "data-type": "leaf"
+                      },
+                      "最大化拿量"
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "uuid": "maozegf8bu7ync91fc",
+                    "ind": {
+                      "left": 0
+                    },
+                    "list": {
+                      "listId": "h5o21l347rf",
+                      "level": 0,
+                      "isTaskList": false,
+                      "isOrdered": false,
+                      "listStyleType": "SCIR_ECIR_SREC",
+                      "symbolStyle": {},
+                      "listStyle": {
+                        "format": "bullet",
+                        "text": "●",
+                        "align": "left"
+                      }
+                    }
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "color": "",
+                        "data-type": "leaf"
+                      },
+                      "加购目标"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "m8mgzysv3b9k0g29cwq",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "m8mgzysvon69nd7xyft"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "color": "",
+                        "data-type": "leaf"
+                      },
+                      "新品加速"
+                    ],
+                    [
+                      "span",
+                      {
+                        "color": "",
+                        "data-type": "leaf"
+                      },
+                      "：当前商品处于新品阶段，推荐使用最大化拿量，并打开加购目标，实现成长跃迁"
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {
+                "uuid": "maozcmcdmj9ixe83nyn"
+              },
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "maozi9dq9jvizlovwmn",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "maozi9dq9i2ae09kyhf"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "新品爆发期"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "maozi9dqzaoo9d7sj3",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "maozi9dqwmttntj63k"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "是"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "maozi9dqposrg81j6qc",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "maozi9dqgp81i4luxss",
+                    "ind": {
+                      "left": 0
+                    },
+                    "list": {
+                      "listId": "h5o21l347rf",
+                      "level": 0,
+                      "isTaskList": false,
+                      "isOrdered": false,
+                      "listStyleType": "SCIR_ECIR_SREC",
+                      "symbolStyle": {},
+                      "listStyle": {
+                        "format": "bullet",
+                        "text": "●",
+                        "align": "left"
+                      }
+                    }
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "控投产"
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "uuid": "maozei105q7ytpvbrps",
+                    "ind": {
+                      "left": 0
+                    },
+                    "list": {
+                      "listId": "h5o21l347rf",
+                      "level": 0,
+                      "isTaskList": false,
+                      "isOrdered": false,
+                      "listStyleType": "SCIR_ECIR_SREC",
+                      "symbolStyle": {},
+                      "listStyle": {
+                        "format": "bullet",
+                        "text": "●",
+                        "align": "left"
+                      }
+                    }
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "加购目标"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "m8mh0saz5qq3ex7c4i5",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "m8mh0sazzeg2v9mgykd"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "color": "",
+                        "data-type": "leaf"
+                      },
+                      "新品加速"
+                    ],
+                    [
+                      "span",
+                      {
+                        "color": "",
+                        "data-type": "leaf"
+                      },
+                      "："
+                    ],
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "当前商品处于新品爆发期，推荐使用控投产出价，并打开加购目标，提升成交爆发"
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {
+                "uuid": "maozddvroaag6unuuwp"
+              },
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "maozi9dq2sm08qn7b57",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "maozi9dq9nub5jvvbbq"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "成长期"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "maozi9dq8hnxawfx8t5",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "maozi9dqo103zx4q73"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "否"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "maozi9dq2sxojd5zz5o",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "maozi9dqtq22dyp3cem",
+                    "ind": {
+                      "left": 0
+                    },
+                    "list": {
+                      "listId": "h5o21l347rf",
+                      "level": 0,
+                      "isTaskList": false,
+                      "isOrdered": false,
+                      "listStyleType": "SCIR_ECIR_SREC",
+                      "symbolStyle": {
+                        "color": ""
+                      },
+                      "listStyle": {
+                        "format": "bullet",
+                        "text": "●",
+                        "align": "left"
+                      }
+                    }
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "color": "",
+                        "data-type": "leaf"
+                      },
+                      "控投产"
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "uuid": "maozejxex5dk0lfwad",
+                    "ind": {
+                      "left": 0
+                    },
+                    "list": {
+                      "listId": "h5o21l347rf",
+                      "level": 0,
+                      "isTaskList": false,
+                      "isOrdered": false,
+                      "listStyleType": "SCIR_ECIR_SREC",
+                      "symbolStyle": {
+                        "color": ""
+                      },
+                      "listStyle": {
+                        "format": "bullet",
+                        "text": "●",
+                        "align": "left"
+                      }
+                    }
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "color": "",
+                        "data-type": "leaf"
+                      },
+                      "直接成交目标"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "m8mh1eozwlbf3jvnh9h",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "m8mh1eozxj7tbgojmt"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "data-type": "leaf"
+                      },
+                      "尖货打爆"
+                    ],
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "：当前商品处于成长期，推荐使用控投产比出价，并打开直接成交调优，实现单品GMV增长，快速打爆"
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {
+                "uuid": "maozddvs2ponr12xikv"
+              },
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "maozi9dq0law9hm3umg",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "maozi9dqj4tjxc0wxf"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "爆发期"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "maozi9dq2jagaklegue",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "maozi9dqbwyddug16pq"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "否"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "maozi9dqoh4rze90p7o",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "maozi9dqpd4y5crj8w8",
+                    "ind": {
+                      "left": 0
+                    },
+                    "list": {
+                      "listId": "h5o21l347rf",
+                      "level": 0,
+                      "isTaskList": false,
+                      "isOrdered": false,
+                      "listStyleType": "SCIR_ECIR_SREC",
+                      "symbolStyle": {},
+                      "listStyle": {
+                        "format": "bullet",
+                        "text": "●",
+                        "align": "left"
+                      }
+                    }
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "控投产"
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "uuid": "maozelemkhorvsapgbq",
+                    "ind": {
+                      "left": 0
+                    },
+                    "list": {
+                      "listId": "h5o21l347rf",
+                      "level": 0,
+                      "isTaskList": false,
+                      "isOrdered": false,
+                      "listStyleType": "SCIR_ECIR_SREC",
+                      "symbolStyle": {},
+                      "listStyle": {
+                        "format": "bullet",
+                        "text": "●",
+                        "align": "left"
+                      }
+                    }
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "加购目标"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "m8mh1h4aipeub5t2s0n",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "m8mh1h4an31bm17jj"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "data-type": "leaf"
+                      },
+                      "流量增长"
+                    ],
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "：该商品为机会爆品，推荐使用控投产比出价方式，并打开加购目标调优，稳定爆品排名，撬动全域流量增长；"
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {
+                "uuid": "maozddvsmhkzxhkgl6"
+              },
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "maozi9dqsvayomtz3iq",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "maozi9dqwhispzabkoo"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "平销期"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "maozi9dq3j8c8hnq1z6",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "maozi9dqm6eq00zwk5"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "是"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "maozi9dq1vr7a851ull",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "maozi9dq50xstb3sgjw",
+                    "ind": {
+                      "left": 0
+                    },
+                    "list": {
+                      "listId": "6ycjhykhmsg",
+                      "level": 0,
+                      "isTaskList": false,
+                      "isOrdered": false,
+                      "listStyleType": "SCIR_ECIR_SREC",
+                      "symbolStyle": {},
+                      "listStyle": {
+                        "format": "bullet",
+                        "text": "●",
+                        "align": "left"
+                      }
+                    }
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "控投产"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "m8mh0zej668kj6fgdbi",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "m8mh0zejvhu83jipojd"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "data-type": "leaf"
+                      },
+                      "稳定获量"
+                    ],
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "：当前商品处于平销期，推荐使用控投产出价稳定利润延长生命周期"
+                    ]
+                  ]
+                ]
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mbrjubdl1evxeb4cd1f"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mbrjubh4n0zxh8bs59g"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "Q：为什么解除互斥后新建货品运营计划仍然提示存在货品全站推广在投计划？"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mbrjv5packfggdvl7ea"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "A：本次解除互斥的范围仅包含货品全站推广与关键词推广场景和人群推广场景和互斥，因货品运营/全店智投/多目标直投场景已下线，本次解除互斥暂未做处理"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mc00ux2w124iaovzcbu"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "me89ficdmdd30gyafa"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "Q：我的其他店铺都已经可以全站推和人/词同时投放了，为什么我当前店铺不可以？"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "me89g6rflfdceorumfd"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "A：本次需求为平台邀约值，经过平台圈选后按商家主账号维度逐一开放，未开通的店铺请耐心等待"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "me89fj84lil18vo2qzl"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mc00ux88tse17l7rnfn"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "Q：货品全站推广的成交会跟其他工具重复计算吗？"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mc00vkwvnqih04bpt1l"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "A：货品全站推广与无界其他场景均为末次触点归因，成交不会同时计算"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "me899mik66t2l698m0k"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "me899p8v7m1mxnap66b"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "Q：解除互斥后，货品全站推广单品计划与全店模式是否互斥？"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "me899p8wwoiwnt14uo"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "A：是的，同一商品在整个货品全站推广场景下只能存在一条计划"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "me89btz57c3nxyq58h5"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "me89c9o88r77cho8wew"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "Q：超级短视频投放和货品全站推广能一起开吗？"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "me89ccqh9lnj8235t1i"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "A：可以，无论是否开通本次解除互斥的功能，超级短视频和货品全站推广都可以同时投放"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "me89cfz4pq9dkljwcc"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mbgajmrbkbvvpo881k"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "h1",
+            {
+              "uuid": "mbg5um8fe0bqtoq1wbc",
+              "spacing": {
+                "before": 26.666666666666664,
+                "after": 9,
+                "line": 0.8529411764705882
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 20,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "问题反馈："
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mbg5uuil3f1mxweybfr",
+              "jc": "center"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ],
+            [
+              "img",
+              {
+                "uuid": "0a5zef",
+                "name": "image.png",
+                "size": 502006,
+                "width": 389,
+                "height": 415,
+                "src": "/core/api/resources/img/5eecdaf48460cde570a598fbde87d17c74dc40464594e4e675b8339e1c4c24831b75b38faadcd24bec177c308ebd5304fffafe80d961125126bdb01b0849e4d3fd82634a7b4133206ed26df59959d90306d021eb59d9c4d04fb4c8ed7016461c",
+                "extraData": {
+                  "resourceId": "0de530bb-a586-4274-8475-b1dc97a96d8e",
+                  "metaData": {
+                    "size": 502006,
+                    "originWidth": 740,
+                    "originHeight": 790,
+                    "format": "png",
+                    "ratio": 1
+                  }
+                },
+                "rotation": 0
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ]
+        ],
+        "footers": {},
+        "version": 1
+      },
+      "refs": {}
+    }
+  }
+}

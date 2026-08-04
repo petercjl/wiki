@@ -1,0 +1,4104 @@
+{
+  "version": 1,
+  "type": "application/x-alidocs-package",
+  "main": "00000000-0000-0000-0000-000000000001",
+  "plugins": "00000000-0000-0000-0000-000000000002",
+  "parts": {
+    "00000000-0000-0000-0000-000000000001": {
+      "id": "00000000-0000-0000-0000-000000000001",
+      "type": "application/x-alidocs-word",
+      "version": 1,
+      "data": {
+        "style": {
+          "docDefaults": {
+            "type": "paragraph",
+            "default": 1,
+            "name": "dingdocnormal",
+            "data": {
+              "rPr": {
+                "sz": 12,
+                "szUnit": "pt"
+              },
+              "pPr": {
+                "spacing": {
+                  "before": 8,
+                  "after": 8
+                }
+              }
+            }
+          },
+          "tableDefault": {
+            "type": "table",
+            "data": {
+              "tblPr": {
+                "bdr": {
+                  "bottom": {
+                    "color": "#D6D6D6",
+                    "space": 0,
+                    "sz": 1,
+                    "val": "single"
+                  },
+                  "insideH": {
+                    "color": "#D6D6D6",
+                    "space": 0,
+                    "sz": 1,
+                    "val": "single"
+                  },
+                  "insideV": {
+                    "color": "#D6D6D6",
+                    "space": 0,
+                    "sz": 1,
+                    "val": "single"
+                  },
+                  "left": {
+                    "color": "#D6D6D6",
+                    "space": 0,
+                    "sz": 1,
+                    "val": "single"
+                  },
+                  "right": {
+                    "color": "#D6D6D6",
+                    "space": 0,
+                    "sz": 1,
+                    "val": "single"
+                  },
+                  "top": {
+                    "color": "#D6D6D6",
+                    "space": 0,
+                    "sz": 1,
+                    "val": "single"
+                  }
+                }
+              }
+            }
+          },
+          "tableHeader": {
+            "type": "table",
+            "basedOn": "tableDefault",
+            "data": {
+              "tblStylePr": [
+                {
+                  "type": "firstRow",
+                  "tcPr": {
+                    "shd": {
+                      "fill": "#F5F6F7"
+                    }
+                  }
+                },
+                {
+                  "type": "firstCol",
+                  "tcPr": {
+                    "shd": {
+                      "fill": "#F5F6F7"
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        "theme": [],
+        "settings": {
+          "titleCover": {
+            "isHide": true
+          }
+        },
+        "app": {},
+        "numberings": {},
+        "headers": {},
+        "body": [
+          "root",
+          {
+            "sectPr": {
+              "pgSz": {
+                "w": 1127,
+                "h": 1588
+              },
+              "pgMar": {
+                "top": 48,
+                "bottom": 48,
+                "left": 72,
+                "right": 72,
+                "header": 56.73,
+                "footer": 66.13,
+                "gutter": 0
+              }
+            },
+            "theme": {
+              "table": {
+                "tableCell": {
+                  "vAlign": "top"
+                }
+              }
+            }
+          },
+          [
+            "container",
+            {
+              "subType": "colorBlocks",
+              "metadata": {
+                "padding": {
+                  "top": 11,
+                  "right": 11,
+                  "bottom": 11,
+                  "left": 11
+                },
+                "borderRadius": 8,
+                "sticker": {
+                  "type": "dingding",
+                  "id": "alidocs_emotion_002",
+                  "name": "[优先级: 2]",
+                  "url": "https://g.alicdn.com/alidocs/emotion-assets/0.0.2/alidocs_emotion_002.png"
+                },
+                "bgcolor": "radial-gradient(68% 68% at 68% 100%, #F2F7F7 0%, rgba(242, 245, 255, 0) 100%), radial-gradient(53% 53% at 16% -12%, #FEF2F2 0%, rgba(242, 245, 255, 0) 100%), radial-gradient(55% 141% at 100% 100%, #E4EBFF 0%, rgba(242, 245, 255, 0) 100%), linear-gradient(99deg, #E9E7FF 0%, #E4EBFF 100%)",
+                "showstk": false,
+                "border": null
+              },
+              "uuid": "migu31a1nmuhsqt0u6e"
+            },
+            [
+              "h1",
+              {
+                "uuid": "migu3fix8wkgp5sznul",
+                "jc": "center",
+                "spacing": {
+                  "before": 32,
+                  "after": 12,
+                  "line": 0.8615384615384615
+                }
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "bold": true,
+                    "sz": 21,
+                    "szUnit": "pt",
+                    "color": "linear-gradient(90deg, #2449FE 0%, #CA4BA7 100%)",
+                    "data-type": "leaf"
+                  },
+                  "AI推人2期重磅升级"
+                ]
+              ]
+            ],
+            [
+              "p",
+              {
+                "uuid": "migu2odjg788x4adr25",
+                "jc": "center"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "sz": 14,
+                    "szUnit": "pt",
+                    "data-type": "leaf"
+                  },
+                  "轻松锁定高潜力人群，抢占流量先机，更准更快更强！"
+                ]
+              ]
+            ],
+            [
+              "h3",
+              {
+                "uuid": "migtzry0k8jfcfddhj9",
+                "spacing": {
+                  "before": 24,
+                  "after": 8.666666666666666,
+                  "line": 0.8615384615384615
+                }
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "bold": true,
+                    "sz": 14.5,
+                    "szUnit": "pt",
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ],
+              [
+                "span",
+                {
+                  "uuid": "migu3fiyzgrwf9fhh4g",
+                  "code": "",
+                  "newCode": {
+                    "type": "unicode",
+                    "value": "✅"
+                  },
+                  "data-type": "emoji"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "text"
+                  },
+                  [
+                    "span",
+                    {
+                      "bold": true,
+                      "highlight": null,
+                      "sz": 14.5,
+                      "szUnit": "pt",
+                      "data-type": "leaf"
+                    },
+                    ""
+                  ]
+                ]
+              ],
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "bold": true,
+                    "highlight": null,
+                    "sz": 14.5,
+                    "szUnit": "pt",
+                    "data-type": "leaf"
+                  },
+                  " "
+                ],
+                [
+                  "span",
+                  {
+                    "bold": true,
+                    "sz": 14.5,
+                    "szUnit": "pt",
+                    "data-type": "leaf"
+                  },
+                  "升级点1，"
+                ],
+                [
+                  "span",
+                  {
+                    "bold": true,
+                    "highlight": "#FFA726",
+                    "sz": 14.5,
+                    "szUnit": "pt",
+                    "color": "#FFFFFF",
+                    "data-type": "leaf"
+                  },
+                  "新增【学习同行推人】"
+                ],
+                [
+                  "span",
+                  {
+                    "bold": true,
+                    "sz": 14.5,
+                    "szUnit": "pt",
+                    "data-type": "leaf"
+                  },
+                  "，AI智能找到同层级同行近14天的正在真实使用的人群，一键追投抢占机会！"
+                ]
+              ]
+            ],
+            [
+              "h3",
+              {
+                "uuid": "migtzry0ohy7u7833fl",
+                "spacing": {
+                  "before": 24,
+                  "after": 8.666666666666666,
+                  "line": 0.8615384615384615
+                }
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "bold": true,
+                    "sz": 14.5,
+                    "szUnit": "pt",
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ],
+              [
+                "span",
+                {
+                  "uuid": "migu3fiydd93s746in",
+                  "code": "",
+                  "newCode": {
+                    "type": "unicode",
+                    "value": "✅"
+                  },
+                  "data-type": "emoji"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "text"
+                  },
+                  [
+                    "span",
+                    {
+                      "bold": true,
+                      "highlight": null,
+                      "sz": 14.5,
+                      "szUnit": "pt",
+                      "data-type": "leaf"
+                    },
+                    ""
+                  ]
+                ]
+              ],
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "bold": true,
+                    "highlight": null,
+                    "sz": 14.5,
+                    "szUnit": "pt",
+                    "data-type": "leaf"
+                  },
+                  " "
+                ],
+                [
+                  "span",
+                  {
+                    "bold": true,
+                    "sz": 14.5,
+                    "szUnit": "pt",
+                    "data-type": "leaf"
+                  },
+                  "升级点2，"
+                ],
+                [
+                  "span",
+                  {
+                    "bold": true,
+                    "highlight": "#FFA726",
+                    "sz": 14.5,
+                    "szUnit": "pt",
+                    "color": "#FFFFFF",
+                    "data-type": "leaf"
+                  },
+                  "竞争推人能力升级"
+                ],
+                [
+                  "span",
+                  {
+                    "bold": true,
+                    "sz": 14.5,
+                    "szUnit": "pt",
+                    "data-type": "leaf"
+                  },
+                  "，支持竞店及竞品双维度精准圈选相似竞争店铺，并通过AI解析本店及竞店经营数据，直击竞争核心！"
+                ]
+              ]
+            ],
+            [
+              "h3",
+              {
+                "uuid": "migtzry0vkaqidv1q5s",
+                "spacing": {
+                  "before": 24,
+                  "after": 8.666666666666666,
+                  "line": 0.8615384615384615
+                }
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "bold": true,
+                    "sz": 14.5,
+                    "szUnit": "pt",
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ],
+              [
+                "span",
+                {
+                  "uuid": "migu3fizhzj0hdpu6kh",
+                  "code": "",
+                  "newCode": {
+                    "type": "unicode",
+                    "value": "✅"
+                  },
+                  "data-type": "emoji"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "text"
+                  },
+                  [
+                    "span",
+                    {
+                      "bold": true,
+                      "highlight": null,
+                      "sz": 14.5,
+                      "szUnit": "pt",
+                      "data-type": "leaf"
+                    },
+                    ""
+                  ]
+                ]
+              ],
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "bold": true,
+                    "highlight": null,
+                    "sz": 14.5,
+                    "szUnit": "pt",
+                    "data-type": "leaf"
+                  },
+                  " "
+                ],
+                [
+                  "span",
+                  {
+                    "bold": true,
+                    "sz": 14.5,
+                    "szUnit": "pt",
+                    "data-type": "leaf"
+                  },
+                  "升级点3，告别繁琐手动添加！AI自动为你匹配并添加优质人群，同时完善AI推理过程与结果，人群更精准，投放效果更显著！"
+                ]
+              ]
+            ],
+            [
+              "p",
+              {
+                "uuid": "migu2k5gcpsqhroioiv"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ]
+            ],
+            [
+              "p",
+              {
+                "uuid": "migtyilzlyq1fdpnkp"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  "目前产品内测限时开启，名额有限，立即体验！更多产品信息欢迎加入官方钉钉群"
+                ],
+                [
+                  "span",
+                  {
+                    "underline": {
+                      "value": "single"
+                    },
+                    "data-type": "leaf"
+                  },
+                  "【 161765006254】"
+                ]
+              ]
+            ]
+          ],
+          [
+            "h1",
+            {
+              "uuid": "migtyih4tb1dfuq3xzs",
+              "jc": "center",
+              "spacing": {
+                "before": 32,
+                "after": 12,
+                "line": 0.8615384615384615
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 21,
+                  "szUnit": "pt",
+                  "color": "#C10002",
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ],
+            [
+              "img",
+              {
+                "uuid": "13biqa",
+                "name": "20251126142931.jpeg",
+                "size": 232865,
+                "width": 983,
+                "height": 461.5556722689076,
+                "src": "/core/api/resources/img/5eecdaf48460cde5f849d0fd88e9879680cf946c48ae169d75b8339e1c4c24831b75b38faadcd24bec177c308ebd53040aafd8ec17bcfa8f2e16dbea69e4989af49efeccdc95ff9dd995d7b11c6f5ac024a71e64937aa0954fb4c8ed7016461c",
+                "extraData": {
+                  "resourceId": "0c420b35-af81-42af-9b2b-a5bae4de2e76",
+                  "metaData": {
+                    "size": 232865,
+                    "originWidth": 1904,
+                    "originHeight": 894,
+                    "format": "jpg",
+                    "ratio": 1
+                  }
+                },
+                "outline": {},
+                "radius": 2,
+                "shadow": "var(--we_m_shadow, 0px 4px 24px 0px rgba(0, 0, 0, 0.1))"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 21,
+                  "szUnit": "pt",
+                  "color": "#C10002",
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "migu7j08dcq1336qx0u"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "migu40uatpt8396ijig"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "hr",
+            {
+              "id": "46ughk",
+              "uuid": "migtyydhgt0dfljk5ip",
+              "width": "100%"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "container",
+            {
+              "subType": "colorBlocks",
+              "metadata": {
+                "padding": {
+                  "top": 11,
+                  "right": 11,
+                  "bottom": 11,
+                  "left": 11
+                },
+                "borderRadius": 8,
+                "sticker": {
+                  "type": "dingding",
+                  "id": "alidocs_emotion_002",
+                  "name": "[优先级: 2]",
+                  "url": "https://g.alicdn.com/alidocs/emotion-assets/0.0.2/alidocs_emotion_002.png"
+                },
+                "bgcolor": "#FFFFFF",
+                "showstk": false,
+                "border": null
+              },
+              "uuid": "mdmuou3dmc8vxgiynr"
+            },
+            [
+              "p",
+              {
+                "uuid": "mdmup47sokclvt4b5a",
+                "jc": "center"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "bold": true,
+                    "sz": 18,
+                    "szUnit": "pt",
+                    "color": "",
+                    "data-type": "leaf"
+                  },
+                  "【AI推人】重磅来袭，AI驱动人群提效"
+                ]
+              ]
+            ],
+            [
+              "p",
+              {
+                "uuid": "mdmupp67h9zfsxk0ljo",
+                "jc": "center"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ],
+              [
+                "span",
+                {
+                  "uuid": "mdmur8ao9wqm38dbqg9",
+                  "code": "魔法棒挥动",
+                  "newCode": {
+                    "type": "dingding",
+                    "id": "alidocs_emotion_033",
+                    "name": "[魔法棒挥动]",
+                    "url": "https://g.alicdn.com/alidocs/emotion-assets/0.0.6/alidocs_emotion_033.png"
+                  },
+                  "data-type": "emoji"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "text"
+                  },
+                  [
+                    "span",
+                    {
+                      "bold": true,
+                      "highlight": null,
+                      "sz": 12,
+                      "szUnit": "pt",
+                      "color": "",
+                      "data-type": "leaf"
+                    },
+                    ""
+                  ]
+                ]
+              ],
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  "人群场景重磅推出的全智能"
+                ],
+                [
+                  "span",
+                  {
+                    "bold": true,
+                    "sz": 14,
+                    "szUnit": "pt",
+                    "color": "",
+                    "data-type": "leaf"
+                  },
+                  "AI人群定向能力"
+                ],
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  "，你可以自由输入人群或生意需求，系统将通过AI大模型深度解析并结合平台海量数据及社会知识学习等"
+                ],
+                [
+                  "span",
+                  {
+                    "bold": true,
+                    "sz": 14,
+                    "szUnit": "pt",
+                    "data-type": "leaf"
+                  },
+                  "自动识别并匹配最合适的人群"
+                ],
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  "，有效减少人群试错成本，显著提升计划效率！"
+                ]
+              ]
+            ],
+            [
+              "table",
+              {
+                "colsWidth": [
+                  491,
+                  491
+                ],
+                "tblW": {
+                  "w": 100,
+                  "type": "pct"
+                },
+                "uuid": "mdmpaudzv96u0gdqek",
+                "styleId": "tableHeader",
+                "tblLook": {
+                  "firstRow": 1,
+                  "firstColumn": 0,
+                  "lastRow": 0,
+                  "lastColumn": 0
+                }
+              },
+              [
+                "tr",
+                {
+                  "uuid": "mdmupa3937tsj7v0q3j",
+                  "isTblHeader": true
+                },
+                [
+                  "tc",
+                  {
+                    "colSpan": 1,
+                    "rowSpan": 1,
+                    "uuid": "mdmupa39g97qgj4n2eb",
+                    "vAlign": "top",
+                    "fill": "#B7DCFB"
+                  },
+                  [
+                    "p",
+                    {
+                      "uuid": "mdmupa39oz8b0wohwx"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "bold": true,
+                          "data-type": "leaf"
+                        },
+                        "小万人群"
+                      ]
+                    ]
+                  ]
+                ],
+                [
+                  "tc",
+                  {
+                    "colSpan": 1,
+                    "rowSpan": 1,
+                    "uuid": "mdmupa39om2719koa2",
+                    "vAlign": "top",
+                    "fill": "#B7DCFB"
+                  },
+                  [
+                    "p",
+                    {
+                      "uuid": "mdmupa39lkm0gshegka"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "leaf"
+                        },
+                        "vs 自定义人群"
+                      ]
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tr",
+                {
+                  "uuid": "mdmupa39v5fo6els96a"
+                },
+                [
+                  "tc",
+                  {
+                    "colSpan": 1,
+                    "rowSpan": 1,
+                    "uuid": "mdmupa39pkwzz14r1bc",
+                    "vAlign": "top",
+                    "fill": "#FFFFFF"
+                  },
+                  [
+                    "p",
+                    {
+                      "uuid": "mdmupa39ku6y7ppap1i"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "leaf"
+                        },
+                        "支持客户自由表达人群，"
+                      ],
+                      [
+                        "span",
+                        {
+                          "bold": true,
+                          "data-type": "leaf"
+                        },
+                        "人群更灵活可控"
+                      ]
+                    ]
+                  ]
+                ],
+                [
+                  "tc",
+                  {
+                    "colSpan": 1,
+                    "rowSpan": 1,
+                    "uuid": "mdmupa39tviav3a55ca",
+                    "vAlign": "top",
+                    "fill": "#FFFFFF"
+                  },
+                  [
+                    "p",
+                    {
+                      "uuid": "mdmupa39oz466c31qe"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "leaf"
+                        },
+                        "系统预设的人群，人群选择有限"
+                      ]
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tr",
+                {
+                  "uuid": "mdmupa395asr12x35vr"
+                },
+                [
+                  "tc",
+                  {
+                    "colSpan": 1,
+                    "rowSpan": 1,
+                    "uuid": "mdmupa39f4ndlttfq17",
+                    "vAlign": "top",
+                    "fill": "#FFFFFF"
+                  },
+                  [
+                    "p",
+                    {
+                      "uuid": "mdmpaudzholtvz3izfb"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "leaf"
+                        },
+                        "AI大模型下人群优选，"
+                      ],
+                      [
+                        "span",
+                        {
+                          "bold": true,
+                          "data-type": "leaf"
+                        },
+                        "提升人群投放效率"
+                      ]
+                    ]
+                  ]
+                ],
+                [
+                  "tc",
+                  {
+                    "colSpan": 1,
+                    "rowSpan": 1,
+                    "uuid": "mdmupa398vzf3xhk3wx",
+                    "vAlign": "top",
+                    "fill": "#FFFFFF"
+                  },
+                  [
+                    "p",
+                    {
+                      "uuid": "mdmupa39oxoysfjfz9m"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "leaf"
+                        },
+                        "人群定向类型多，需自行甄别判定，试错成本高"
+                      ]
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tr",
+                {
+                  "uuid": "mdmupa39ca24eh6pnk5"
+                },
+                [
+                  "tc",
+                  {
+                    "colSpan": 1,
+                    "rowSpan": 1,
+                    "uuid": "mdmupa39x6txgjl9fn",
+                    "vAlign": "top",
+                    "fill": "#FFFFFF"
+                  },
+                  [
+                    "p",
+                    {
+                      "uuid": "mdmupa39h729dkyihif"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "leaf"
+                        },
+                        "对话式人群选择推荐，"
+                      ],
+                      [
+                        "span",
+                        {
+                          "bold": true,
+                          "data-type": "leaf"
+                        },
+                        "满足不同人群投放需求"
+                      ]
+                    ]
+                  ]
+                ],
+                [
+                  "tc",
+                  {
+                    "colSpan": 1,
+                    "rowSpan": 1,
+                    "uuid": "mdmupa390e0w7rt01yg9",
+                    "vAlign": "top",
+                    "fill": "#FFFFFF"
+                  },
+                  [
+                    "p",
+                    {
+                      "uuid": "mdmupa39hmwynonuajl"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "leaf"
+                        },
+                        "需手动一个个选择，操作繁琐，人群选择不清晰"
+                      ]
+                    ]
+                  ]
+                ]
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mdmutb5xxbivw7frc5"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "h2",
+            {
+              "uuid": "mdmumap2ohsfbc8orof",
+              "spacing": {
+                "before": 21.333333333333332,
+                "after": 9,
+                "line": 0.8529411764705882
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 16,
+                  "szUnit": "pt",
+                  "color": "linear-gradient(90deg, #2449FE 0%, #CA4BA7 100%)",
+                  "data-type": "leaf"
+                },
+                "【AI推人】操作指引"
+              ]
+            ]
+          ],
+          [
+            "h4",
+            {
+              "uuid": "mdmuyiloh09nsby2lif",
+              "spacing": {
+                "before": 16,
+                "after": 8,
+                "line": 0.8529411764705882
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "1、产品入口"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mdmuywegk8363hrxpm"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "万相台无界--人群场景--高效拉新/常客转化/自定义推广"
+              ],
+              [
+                "span",
+                {
+                  "sz": 10,
+                  "szUnit": "pt",
+                  "color": "#858689",
+                  "data-type": "leaf"
+                },
+                "（人群超市暂不支持）"
+              ],
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "--人群设置--AI推人"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mdmv1v850w0mtfrkbrqg"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ],
+            [
+              "img",
+              {
+                "uuid": "mdpml1cdjb9uibux4sq",
+                "name": "image.png",
+                "size": 1406826,
+                "width": 667,
+                "height": 378.83515625,
+                "src": "/core/api/resources/img/5eecdaf48460cde58ef270b6e134c9f26be93f0fe2a5efd775b8339e1c4c24831b75b38faadcd24bec177c308ebd5304bddcb6a52ce91875468e0d44f878fd0c670788066c1bb86a7b5a64d70e6000347c1287b7aa24f6954fb4c8ed7016461c",
+                "extraData": {
+                  "resourceId": "761d3c73-6bfb-4575-a7cc-a5aa8974d56c",
+                  "metaData": {
+                    "size": 1406826,
+                    "originWidth": 2045,
+                    "originHeight": 1161,
+                    "format": "png",
+                    "ratio": 1
+                  }
+                },
+                "rotation": 0
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mdmv77f63uts5lgt4jn"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "h4",
+            {
+              "uuid": "mdmv23ws0fvfc7u3c08l",
+              "spacing": {
+                "before": 16,
+                "after": 8,
+                "line": 0.8529411764705882
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "2、AI人群设置"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mdmv2lmh3aejru9iiu"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "在你选择万营销目标及投放宝贝后，在小万人群模块平台已准备好常用的"
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "7大人群圈选模板"
+              ],
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "，你可以根据自己的需求进行补完信息，同时也支持你自由表达想要的人群需求，填写完成后点击"
+              ],
+              [
+                "span",
+                {
+                  "underline": {
+                    "value": "single"
+                  },
+                  "data-type": "leaf"
+                },
+                "智能生成"
+              ],
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "开启AI推理；"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mdmv6j0d3epzj3osj72"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ],
+            [
+              "img",
+              {
+                "uuid": "mdpml1cdnu7qgczua4c",
+                "name": "image.png",
+                "size": 433196,
+                "width": 983,
+                "height": 141.30624999999998,
+                "src": "/core/api/resources/img/5eecdaf48460cde58ef270b6e134c9f26be93f0fe2a5efd775b8339e1c4c24831b75b38faadcd24bec177c308ebd530401645c401d4ad1da79e95140d636afeb5bdd5cac94063174b19fdf5361f1da9fc629018d9e0e99d44fb4c8ed7016461c",
+                "extraData": {
+                  "resourceId": "697dcbce-6336-4520-9993-ce47fbb171a1",
+                  "metaData": {
+                    "size": 433196,
+                    "originWidth": 1956,
+                    "originHeight": 281,
+                    "format": "png",
+                    "ratio": 1
+                  }
+                }
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mdmsl1n7nm3g135njrg"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "data-type": "leaf"
+                },
+                "根据海量商家数据，总结的3种最高频操盘方法，"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mdmsuao5ikazptudlsj",
+              "ind": {
+                "left": 0
+              },
+              "list": {
+                "listId": "p810cgybs9p",
+                "level": 0,
+                "isTaskList": false,
+                "isOrdered": true,
+                "listStyleType": "DEC_LEN_LROM_P",
+                "listStyle": {
+                  "format": "decimal",
+                  "text": "%1.",
+                  "align": "left"
+                },
+                "symbolStyle": {
+                  "color": "linear-gradient(90deg, #2449FE 0%, #CA4BA7 100%)",
+                  "bold": true
+                }
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "color": "linear-gradient(90deg, #2449FE 0%, #CA4BA7 100%)",
+                  "data-type": "leaf"
+                },
+                "小万竞争推人：自由定向您要的竞争店铺、竞争宝贝以及可选竞争力偏高/偏低的对手！"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mdmsvgyasdw2jilv43e",
+              "ind": {
+                "left": 0
+              },
+              "list": {
+                "listId": "p810cgybs9p",
+                "level": 0,
+                "isTaskList": false,
+                "isOrdered": true,
+                "listStyleType": "DEC_LEN_LROM_P",
+                "listStyle": {
+                  "format": "decimal",
+                  "text": "%1.",
+                  "align": "left"
+                },
+                "symbolStyle": {
+                  "color": "linear-gradient(90deg, #2449FE 0%, #CA4BA7 100%)",
+                  "bold": true
+                },
+                "extraData": {},
+                "isChecked": false,
+                "hideSymbol": false
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "color": "linear-gradient(90deg, #2449FE 0%, #CA4BA7 100%)",
+                  "data-type": "leaf"
+                },
+                "小万效果推人：自由选择您的推广目标，根据点击率/收加率/投产比等指标找合适人群！"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mdmsxmc65ooek21o4ja",
+              "ind": {
+                "left": 0
+              },
+              "list": {
+                "listId": "p810cgybs9p",
+                "level": 0,
+                "isTaskList": false,
+                "isOrdered": true,
+                "listStyleType": "DEC_LEN_LROM_P",
+                "listStyle": {
+                  "format": "decimal",
+                  "text": "%1.",
+                  "align": "left"
+                },
+                "symbolStyle": {
+                  "color": "linear-gradient(90deg, #2449FE 0%, #CA4BA7 100%)",
+                  "bold": true
+                },
+                "extraData": {},
+                "isChecked": false,
+                "hideSymbol": false
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "color": "linear-gradient(90deg, #2449FE 0%, #CA4BA7 100%)",
+                  "data-type": "leaf"
+                },
+                "小万行业推人：自由选择您想要拓展的类目人群，帮你找到额外机会，增量拉新客！"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mdpqqc3y0zvdflzdglrd",
+              "ind": {
+                "left": 0
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mdppbemrbw8vznmspse",
+              "ind": {
+                "left": 0
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 11,
+                  "szUnit": "pt",
+                  "color": "#222328",
+                  "data-type": "leaf"
+                },
+                "*更多AI人群模板如下："
+              ]
+            ]
+          ],
+          [
+            "table",
+            {
+              "colsWidth": [
+                105,
+                54,
+                919
+              ],
+              "uuid": "m9b0k3v8j50v2z0cugh",
+              "styleId": "tableHeader",
+              "tblLook": {
+                "firstRow": 1,
+                "firstColumn": 0,
+                "lastRow": 0,
+                "lastColumn": 0
+              },
+              "ind": {}
+            },
+            [
+              "tr",
+              {
+                "uuid": "m9b0k3v8mp6wywbykwq",
+                "isTblHeader": true
+              },
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "m9b0k3v883cx2sgrddy",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "m9b0k3v8tsxludq1org",
+                    "ind": {
+                      "left": 0
+                    }
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      "人群分类"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "m9gzr8oluca048mbb9",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "m9gzr8olu1g54ghrdmp",
+                    "ind": {
+                      "left": 0
+                    }
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      "排序"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "m9b0k3v88zxu9wv5dsf",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "m9b0k3v8u7p7db095op",
+                    "ind": {
+                      "left": 0
+                    }
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      "输入框的默认内容"
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {
+                "uuid": "m9b0k7lt2olug8d03gf"
+              },
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "m9b0k7ltfqfsot6stbt",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "m9b0k7lt5yorucfjnws",
+                    "ind": {
+                      "left": 0
+                    }
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      "竞争推人"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "m9gzr8otohzidd3i25r",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "m9gzr8ot0f81n4ukjrj",
+                    "ind": {
+                      "left": 0
+                    }
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      "1"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "m9b0k7ltbzyf9g0jwi",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "m9gwr2lrtr9xn6j8gn",
+                    "ind": {
+                      "left": 0
+                    }
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      "基于我选择的营销目标和宝贝，帮我挑出人群：竞争对手"
+                    ]
+                  ],
+                  [
+                    "cangjie-textinline",
+                    {
+                      "data": {
+                        "bgColor": "#D9E7FF",
+                        "color": "var(--we_brand1_color, rgba(63, 133, 255, 1))"
+                      },
+                      "subType": "label",
+                      "uuid": "m9gwr2lrvsyozweo5l"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "bold": true,
+                          "sz": 11,
+                          "szUnit": "pt",
+                          "data-type": "leaf"
+                        },
+                        "请输入您的竞争店铺名称"
+                      ]
+                    ]
+                  ],
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      "或者"
+                    ]
+                  ],
+                  [
+                    "cangjie-textinline",
+                    {
+                      "data": {
+                        "bgColor": "#D9E7FF",
+                        "color": "var(--we_brand1_color, rgba(63, 133, 255, 1))"
+                      },
+                      "subType": "label",
+                      "uuid": "m9gwr2lrktqwl2fa8l"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "bold": true,
+                          "sz": 11,
+                          "szUnit": "pt",
+                          "data-type": "leaf"
+                        },
+                        "请输入您的竞争宝贝id"
+                      ]
+                    ]
+                  ],
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      "的潜在客户人群"
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "uuid": "m9gwr2lvtvui40ejdl",
+                    "ind": {
+                      "left": 32
+                    }
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      "竞争店铺：支持客户输入全淘宝的店铺名称（其他店铺）"
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "uuid": "m9gwr2lvaf5wg4iqeve",
+                    "ind": {
+                      "left": 32
+                    }
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      "竞争宝贝id：支持客户搜索全淘宝的id"
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {
+                "uuid": "m9gzv2hka3ts1xvi5pe"
+              },
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "m9gzv2y7ep3nv30fc1",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "m9b1trz8c6kqbnlc8g",
+                    "ind": {
+                      "left": 0
+                    }
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      "推广效果推人"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "m9gzv2y8aatux7zre4t",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "m9gzr8ouguayde1dx5g",
+                    "ind": {
+                      "left": 0
+                    }
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      "2"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "m9gzv2yaro2zx5wpqag",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "m9gx9y4ievgudhxgmm4",
+                    "ind": {
+                      "left": 0
+                    }
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      "基于我选择的营销目标和宝贝，帮我挑出人群："
+                    ]
+                  ],
+                  [
+                    "cangjie-textinline",
+                    {
+                      "data": {
+                        "bgColor": "#D9E7FF",
+                        "color": "var(--we_brand1_color, rgba(63, 133, 255, 1))"
+                      },
+                      "subType": "label",
+                      "uuid": "m9gzv2yaj56pjanv9e"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "bold": true,
+                          "sz": 11,
+                          "szUnit": "pt",
+                          "data-type": "leaf"
+                        },
+                        "平均点击花费"
+                      ]
+                    ]
+                  ],
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ],
+                  [
+                    "cangjie-textinline",
+                    {
+                      "data": {
+                        "bgColor": "#D9E7FF",
+                        "color": "var(--we_brand1_color, rgba(63, 133, 255, 1))"
+                      },
+                      "subType": "label",
+                      "uuid": "m9gzv2ya0we9icx37n2"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "bold": true,
+                          "sz": 11,
+                          "szUnit": "pt",
+                          "data-type": "leaf"
+                        },
+                        "小于"
+                      ]
+                    ]
+                  ],
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ],
+                  [
+                    "cangjie-textinline",
+                    {
+                      "data": {
+                        "bgColor": "#D9E7FF",
+                        "color": "var(--we_brand1_color, rgba(63, 133, 255, 1))"
+                      },
+                      "subType": "label",
+                      "uuid": "m9gzv2yac1x48tfohr"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "bold": true,
+                          "sz": 11,
+                          "szUnit": "pt",
+                          "data-type": "leaf"
+                        },
+                        "数值"
+                      ]
+                    ]
+                  ],
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      "的兴趣人群"
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "uuid": "m9gxbekgwfttoz77q9c",
+                    "ind": {
+                      "left": 32
+                    }
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      "数据指标：支持选择投入产出比、平均点击花费、点击转化率、收藏加购率"
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "uuid": "m9gxd7hebx0nl32ubgt",
+                    "ind": {
+                      "left": 32
+                    }
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      "对比：小于、大于"
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "uuid": "m9gxdff9clcfoqyxjgb",
+                    "ind": {
+                      "left": 32
+                    }
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      "数值：具体值"
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {
+                "uuid": "m9b1tiw6mdq08rdrvx"
+              },
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "m9b1tiw64gns1vk3s2e",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "m9b1tiw6vzx83qww91",
+                    "ind": {
+                      "left": 0
+                    }
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      "画像推人"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "m9gzr8ou9djmi6fa7lo",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "m9gzr8outhhmjuxc02",
+                    "ind": {
+                      "left": 0
+                    }
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      "3"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "m9b1tiw6p5scesc7w4n",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "m9gx6j7rsy9x0mkble",
+                    "ind": {
+                      "left": 0
+                    }
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      "基于我选择的营销目标和宝贝，帮我挑出人群："
+                    ]
+                  ],
+                  [
+                    "cangjie-textinline",
+                    {
+                      "data": {
+                        "bgColor": "#D9E7FF",
+                        "color": "var(--we_brand1_color, rgba(63, 133, 255, 1))"
+                      },
+                      "subType": "label",
+                      "uuid": "m9gx6j7rz98wg76rzg"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "bold": true,
+                          "sz": 11,
+                          "szUnit": "pt",
+                          "data-type": "leaf"
+                        },
+                        "请输入消费者的特征，如月消费3000以上的30岁女性"
+                      ]
+                    ]
+                  ],
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      "的兴趣人群"
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {
+                "uuid": "m9gzro2280jtkgp9ads"
+              },
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "m9gzrog4xq853f20b7",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "m9b0k3v8ry7yovpajn",
+                    "ind": {
+                      "left": 0
+                    }
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      "本店推人"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "m9gzrog586b6hnptjbm",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "m9gzr8oswg2fz5yhzpn",
+                    "ind": {
+                      "left": 0
+                    }
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      "4"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "m9gzrog7oap5x9ivisa",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "m9b0k3v82ulpa7to8pt",
+                    "ind": {
+                      "left": 0
+                    }
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      " 基于我选择的营销目标和宝贝，帮我挑出人群：店铺和店铺中"
+                    ]
+                  ],
+                  [
+                    "cangjie-textinline",
+                    {
+                      "data": {
+                        "bgColor": "#D9E7FF",
+                        "color": "var(--we_brand1_color, rgba(63, 133, 255, 1))"
+                      },
+                      "subType": "label",
+                      "uuid": "m9gzrog6drpzjun36dp"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "bold": true,
+                          "sz": 11,
+                          "szUnit": "pt",
+                          "data-type": "leaf"
+                        },
+                        "请输入本店宝贝名称"
+                      ]
+                    ]
+                  ],
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      "的"
+                    ]
+                  ],
+                  [
+                    "cangjie-textinline",
+                    {
+                      "data": {
+                        "bgColor": "#D9E7FF",
+                        "color": "var(--we_brand1_color, rgba(63, 133, 255, 1))"
+                      },
+                      "subType": "label",
+                      "uuid": "m9gzrog6252ibkfbwoo"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "bold": true,
+                          "sz": 11,
+                          "szUnit": "pt",
+                          "data-type": "leaf"
+                        },
+                        "收藏加购"
+                      ]
+                    ]
+                  ],
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      "的人群"
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "ind": {
+                      "left": 32
+                    },
+                    "uuid": "m9gwovnsqrlw7jufai"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      "宝贝名称：支持客户输入宝贝名称进行查询店铺可推广宝贝"
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "ind": {
+                      "left": 32
+                    },
+                    "uuid": "m9gwphklvp1d10vpdo"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      "收藏加购：支持收藏加购/高频搜索/即将成交/粉丝"
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {
+                "uuid": "m9gzrkj5asrom63j4am"
+              },
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "m9gzrkwec3deppoubw6",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "m9b0k82fekqc8kb9dc",
+                    "ind": {
+                      "left": 0
+                    }
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      "行业推人"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "m9gzrkwf50a66ejcyt5",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "m9gzr8otft9w3iz5ibl",
+                    "ind": {
+                      "left": 0
+                    }
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      "5"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "m9gzrkwgevqqwhm6xl",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "m9gwsgzo5yxe39eup9l",
+                    "ind": {
+                      "left": 0
+                    }
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      "基于我选择的营销目标和宝贝，帮我挑出人群：对"
+                    ]
+                  ],
+                  [
+                    "cangjie-textinline",
+                    {
+                      "data": {
+                        "bgColor": "#D9E7FF",
+                        "color": "var(--we_brand1_color, rgba(63, 133, 255, 1))"
+                      },
+                      "subType": "label",
+                      "uuid": "m9gzrkwgqw5tch3dwf"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "bold": true,
+                          "sz": 11,
+                          "szUnit": "pt",
+                          "data-type": "leaf"
+                        },
+                        "请输入淘宝类目或关键词"
+                      ]
+                    ]
+                  ],
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      "感兴趣并频繁搜索的人群"
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "uuid": "m9h01bgp9zgilve6hau",
+                    "ind": {
+                      "left": 32
+                    }
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      "淘宝类目：支持选择二级类目"
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {
+                "uuid": "m9b1tuqtpl9knultywk"
+              },
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "m9b1tuqtuf0tm7puokq",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "m9b1tuqtszgy2inw22g",
+                    "ind": {
+                      "left": 0
+                    }
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      "推理机会人群"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "m9gzr8ovl6n72eau2ej",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "m9gzr8ovfry8cuw4psw",
+                    "ind": {
+                      "left": 0
+                    }
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      "6"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "m9b1tuqtpo7j8cf2f4m",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "m9gxe036u2djt45q059",
+                    "ind": {
+                      "left": 0
+                    }
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      "根据我店铺已有的人群资产和推广数据，学习和分析我店铺的已成交的人群的特征和画像，智能帮挑出淘宝中"
+                    ]
+                  ],
+                  [
+                    "cangjie-textinline",
+                    {
+                      "data": {
+                        "bgColor": "#D9E7FF",
+                        "color": "var(--we_brand1_color, rgba(63, 133, 255, 1))"
+                      },
+                      "subType": "label",
+                      "uuid": "m9h00fq554rrqnd2bk"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "bold": true,
+                          "sz": 11,
+                          "szUnit": "pt",
+                          "data-type": "leaf"
+                        },
+                        "相似度最高"
+                      ]
+                    ]
+                  ],
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      "人群"
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "uuid": "m9h00wk0eb7rll80fn",
+                    "ind": {
+                      "left": 32
+                    }
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      "类型：相似度最高/转化效率最好"
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {
+                "uuid": "m9gzvg4o0sm1s52hl20i",
+                "h": 76
+              },
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "m9gzvgf7dtd851pjfat",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "m9b1tme3yxts2n8k0f8",
+                    "ind": {
+                      "left": 0
+                    }
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      "经营特征推人"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "m9gzvgf86ipzsll8m7e",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "m9gzr8ov6vq6t94s3kd",
+                    "ind": {
+                      "left": 0
+                    }
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      "7"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "m9gzvgf99z137nzh5y5",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "m9b1tme3bzk4beh6207",
+                    "ind": {
+                      "left": 0
+                    }
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      "基于我的行业特性，帮我挑出已购买"
+                    ]
+                  ],
+                  [
+                    "cangjie-textinline",
+                    {
+                      "data": {
+                        "bgColor": "#D9E7FF",
+                        "color": "var(--we_brand1_color, rgba(63, 133, 255, 1))"
+                      },
+                      "subType": "label",
+                      "uuid": "m9gzwdy0gibufryfyq"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "bold": true,
+                          "sz": 11,
+                          "szUnit": "pt",
+                          "data-type": "leaf"
+                        },
+                        "请输入宝贝的叶子类目"
+                      ]
+                    ]
+                  ],
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      "在"
+                    ]
+                  ],
+                  [
+                    "cangjie-textinline",
+                    {
+                      "data": {
+                        "bgColor": "#D9E7FF",
+                        "color": "var(--we_brand1_color, rgba(63, 133, 255, 1))"
+                      },
+                      "subType": "label",
+                      "uuid": "m9gzxbc1tv8w771vwwi"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "bold": true,
+                          "sz": 11,
+                          "szUnit": "pt",
+                          "data-type": "leaf"
+                        },
+                        "请输入天数范围，如10～50"
+                      ]
+                    ]
+                  ],
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      "天 的人群"
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "ind": {
+                      "left": 32
+                    },
+                    "uuid": "m9gzz28qpxx3ykniujs"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      "宝贝叶子类目：支持选择商品的叶子类目"
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "ind": {
+                      "left": 32
+                    },
+                    "uuid": "m9gzzaee8lbm0c9wy1t"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      "天数范围：0～999"
+                    ]
+                  ]
+                ]
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mdmv8ksg2kxcaclq2yv"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "h4",
+            {
+              "uuid": "mdmv8nzposn3ketv17o",
+              "spacing": {
+                "before": 16,
+                "after": 8,
+                "line": 0.8529411764705882
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "3、AI人群生成"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mdmv95mcbv5a0u52nd6"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": false,
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "以"
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "平台推荐海量召回数据"
+              ],
+              [
+                "span",
+                {
+                  "bold": false,
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "（消费者特征/商品特征/交叉特征以及行为序列特征等）为基础，结合社会知识&流量现状通过"
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "AI大模型"
+              ],
+              [
+                "span",
+                {
+                  "bold": false,
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "推理符合营销意图的特征人群，并可视化预测推理人群投放逻辑"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mdmvg5pfh35oj2izs4p"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": false,
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ],
+            [
+              "img",
+              {
+                "uuid": "mdpml1cdy2p8v9ruzaa",
+                "name": "image.png",
+                "size": 711325,
+                "width": 983,
+                "height": 285.684375,
+                "src": "/core/api/resources/img/5eecdaf48460cde58ef270b6e134c9f26be93f0fe2a5efd775b8339e1c4c24831b75b38faadcd24bec177c308ebd530452ee13a7990506fa5b838ca3254d884787b016371982dac872e3ac68c5e5508c06ecf2b0663905f94fb4c8ed7016461c",
+                "extraData": {
+                  "resourceId": "ce340d6f-c8a2-4bd6-8afe-08175851b9aa",
+                  "metaData": {
+                    "size": 711325,
+                    "originWidth": 1943,
+                    "originHeight": 565,
+                    "format": "png",
+                    "ratio": 1
+                  }
+                }
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": false,
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mdmvg62qjtouxzydzo"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "h4",
+            {
+              "uuid": "mdmvgb0k8dptvy5ex15",
+              "spacing": {
+                "before": 16,
+                "after": 8,
+                "line": 0.8529411764705882
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "4、AI人群投放"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mdmvgqn6cdlb7hqd5k"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "你可以根据自己的需求选择AI生成的人群"
+              ],
+              [
+                "span",
+                {
+                  "underline": {
+                    "value": "single"
+                  },
+                  "data-type": "leaf"
+                },
+                "添加至目标人群"
+              ],
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "后，完成出价及预算等设置成功创建计划即可，后续你可在计划列表页查看AI人群投放数据等；"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mdpperizmvb04akwew"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mdpperqiyh54719imr"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "h2",
+            {
+              "uuid": "mdpqqc40lnq0bzey8pe",
+              "spacing": {
+                "before": 21.333333333333332,
+                "after": 9,
+                "line": 0.8529411764705882
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 16,
+                  "szUnit": "pt",
+                  "color": "linear-gradient(90deg, #2449FE 0%, #CA4BA7 100%)",
+                  "data-type": "leaf"
+                },
+                "【小万人群】常见问题"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mdpqqc411qkz6xenrnh"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "color": "",
+                  "data-type": "leaf"
+                },
+                "1、商家可以通过哪些方式进行AI小万人群的添加编辑？"
+              ]
+            ]
+          ],
+          [
+            "table",
+            {
+              "colsWidth": [
+                214,
+                308,
+                225
+              ],
+              "tblW": {
+                "w": 100,
+                "type": "pct"
+              },
+              "uuid": "mdmue4ayr25apwvqhyb",
+              "styleId": "tableHeader",
+              "tblLook": {
+                "firstRow": 1,
+                "firstColumn": 0,
+                "lastRow": 0,
+                "lastColumn": 0
+              }
+            },
+            [
+              "tr",
+              {
+                "uuid": "mdmue4aylgt38tjfld",
+                "isTblHeader": true
+              },
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mdmue4ay4pry5dkg27h",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mdmue4ay3ia6ttl2cf3"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "color": "",
+                        "data-type": "leaf"
+                      },
+                      "新建计划"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mdmue4ayobpil8i8ler",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mdmue4ay7xowlroxuwt"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "color": "",
+                        "data-type": "leaf"
+                      },
+                      "存量计划编辑、添加人群"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mdmufaksw1ytb8avjn",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mdmufakse9sueid2erv"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "data-type": "leaf"
+                      },
+                      "AI小万助手"
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {
+                "uuid": "mdmue4aymdev0z9fpi"
+              },
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mdmue4ayjx7mqu8hgj",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mdmue4ayyf4elzo6tnk"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "color": "linear-gradient(90deg, #2449FE 0%, #CA4BA7 100%)",
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ],
+                  [
+                    "img",
+                    {
+                      "uuid": "mdppgn16hex3d3qsrdc",
+                      "name": "image.png",
+                      "size": 1061364,
+                      "width": 748,
+                      "height": 736.5099846390169,
+                      "src": "/core/api/resources/img/5eecdaf48460cde528ec1e2fb3649c5ed41d1da1b66c0d3a75b8339e1c4c24831b75b38faadcd24bec177c308ebd53040d989a59ab5d69868890dc23920f35e39c5126d00f8a00b1155e40df17b8ca6bf6900ddb48f825544fb4c8ed7016461c",
+                      "extraData": {
+                        "resourceId": "bcb837ec-dad6-43bc-af2a-b293f22eb47a",
+                        "metaData": {
+                          "size": 1061364,
+                          "originWidth": 1302,
+                          "originHeight": 1282,
+                          "format": "png",
+                          "ratio": 1
+                        }
+                      }
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "leaf"
+                        },
+                        ""
+                      ]
+                    ]
+                  ],
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "color": "linear-gradient(90deg, #2449FE 0%, #CA4BA7 100%)",
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mdmue4aypsqtpwyce6g",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mdmue4ayi5hxtx87q5b"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "color": "linear-gradient(90deg, #2449FE 0%, #CA4BA7 100%)",
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ],
+                  [
+                    "img",
+                    {
+                      "uuid": "mdppgn16rt0dpxd7pj",
+                      "name": "image.png",
+                      "size": 677875,
+                      "width": 308,
+                      "height": 194.47435897435898,
+                      "src": "/core/api/resources/img/5eecdaf48460cde528ec1e2fb3649c5ed41d1da1b66c0d3a75b8339e1c4c24831b75b38faadcd24bec177c308ebd5304e408d272675af4c6dab642be2e685fb08230f0dba6782f4703edc0c422cadc65c66e8efd6757df6e4fb4c8ed7016461c",
+                      "extraData": {
+                        "resourceId": "d091c931-15b6-453a-a996-941b87eadd39",
+                        "metaData": {
+                          "size": 677875,
+                          "originWidth": 1248,
+                          "originHeight": 788,
+                          "format": "png",
+                          "ratio": 1
+                        }
+                      },
+                      "rotation": 0
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "leaf"
+                        },
+                        ""
+                      ]
+                    ]
+                  ],
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "color": "linear-gradient(90deg, #2449FE 0%, #CA4BA7 100%)",
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "uuid": "mdmue5cl6wpbwwr2s6v"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mdmufakt0gq75z33od",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mdmufaktg1vjote2ug9"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ],
+                  [
+                    "img",
+                    {
+                      "uuid": "mdppgn16clbpmb34qq",
+                      "name": "image.png",
+                      "size": 1126603,
+                      "width": 194,
+                      "height": 227,
+                      "src": "/core/api/resources/img/5eecdaf48460cde528ec1e2fb3649c5ed41d1da1b66c0d3a75b8339e1c4c24831b75b38faadcd24bec177c308ebd530499b863f0f88ff749d5642747ecbd900f4ebcc3ef5893363bd6c490351c971cafc38a2469ce9fb0674fb4c8ed7016461c",
+                      "extraData": {
+                        "resourceId": "8c81832c-27e4-4c2e-a833-b99e351c0aec",
+                        "metaData": {
+                          "size": 1126603,
+                          "originWidth": 1088,
+                          "originHeight": 1272,
+                          "format": "png",
+                          "ratio": 1
+                        }
+                      },
+                      "rotation": 0
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "leaf"
+                        },
+                        ""
+                      ]
+                    ]
+                  ],
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "uuid": "mdmulq4sngn6trbhivj"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ]
+                ]
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mdmuozowh3tox5my0gu"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ]
+        ],
+        "footers": {},
+        "version": 1
+      },
+      "refs": {}
+    }
+  }
+}

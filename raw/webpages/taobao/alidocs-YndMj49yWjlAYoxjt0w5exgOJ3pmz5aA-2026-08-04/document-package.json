@@ -1,0 +1,1474 @@
+{
+  "version": 1,
+  "type": "application/x-alidocs-package",
+  "main": "00000000-0000-0000-0000-000000000001",
+  "plugins": "00000000-0000-0000-0000-000000000002",
+  "parts": {
+    "46336150-ebdb-4083-8fe8-f3d62c223a71": {
+      "id": "46336150-ebdb-4083-8fe8-f3d62c223a71",
+      "type": "application/x-alidocs-plugin-mind",
+      "version": 1,
+      "data": {
+        "data": {
+          "id": "4SAaUQan6",
+          "sheets": [
+            {
+              "id": "sheet1",
+              "theme": "orange",
+              "root": {
+                "id": "_DHuXY2B4N",
+                "subject": "旺咨成本/线索成本上涨",
+                "state": 1,
+                "seal": false,
+                "encrypted": false,
+                "children": [
+                  {
+                    "id": "4JCcZHuNx",
+                    "subject": "⓵判断是否为异常波动",
+                    "state": 1,
+                    "seal": false,
+                    "encrypted": false,
+                    "children": [
+                      {
+                        "id": "dsL7J9a9JD",
+                        "subject": "关键：拉长周期7天/15天看看数据",
+                        "state": 1,
+                        "seal": false,
+                        "encrypted": false
+                      },
+                      {
+                        "id": "0htMQr5FpL",
+                        "subject": "👉若仅是某天/某个时间段下滑，后续数据又回升至正常水平",
+                        "state": 1,
+                        "seal": false,
+                        "encrypted": false,
+                        "children": [
+                          {
+                            "id": "18Anw7EvTN",
+                            "subject": "🚩正常波动",
+                            "state": 1,
+                            "seal": false,
+                            "encrypted": false,
+                            "children": [
+                              {
+                                "id": "Dt9P8eFGw",
+                                "subject": "原因：竞价环境受市场、其他商家等综合影响，偶尔存在数据波动是正常的，同时也可能因为预算量级太小，算法能获取的咨询/线索样本量较少，导致模型预估不准，建议商家拉长周期来看数据变化",
+                                "state": 1,
+                                "seal": false,
+                                "encrypted": false
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "sVuhZzQbq",
+                    "subject": "②是否调整过计划预算",
+                    "state": 1,
+                    "seal": false,
+                    "encrypted": false,
+                    "children": [
+                      {
+                        "id": "GySgQKCsdZ",
+                        "subject": "调整过/调整频繁",
+                        "state": 1,
+                        "seal": false,
+                        "encrypted": false,
+                        "children": [
+                          {
+                            "id": "g6alQUku_",
+                            "subject": "🚩正常波动",
+                            "state": 1,
+                            "seal": false,
+                            "encrypted": false,
+                            "children": [
+                              {
+                                "id": "YEOcf4f8IO",
+                                "subject": "原因：当预算调高后，人为干扰了系统平稳投放，算法需要重新学习预算增加后的数据样本，大概2天后会恢复正常，建议不要频繁调整预算，并持续关注稳定投放后的数据",
+                                "state": 1,
+                                "seal": false,
+                                "encrypted": false
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "id": "zZKlwmphm",
+                        "subject": "未调整过",
+                        "state": 1,
+                        "seal": false,
+                        "encrypted": false,
+                        "children": [
+                          {
+                            "id": "2Bukz6WsRU",
+                            "subject": "‼️继续往下排查",
+                            "state": 1,
+                            "seal": false,
+                            "encrypted": false
+                          }
+                        ]
+                      },
+                      {
+                        "id": "35IB8pRzRE",
+                        "subject": "👉数据持续下滑，并无回升等表现",
+                        "state": 1,
+                        "seal": false,
+                        "encrypted": false,
+                        "children": [
+                          {
+                            "id": "wb0zIHqCJ",
+                            "subject": "‼️继续往下排查",
+                            "state": 1,
+                            "seal": false,
+                            "encrypted": false
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "j1yZ-pvv8",
+                    "subject": "③自查商品/计划的自身竞争力如何",
+                    "state": 1,
+                    "seal": false,
+                    "encrypted": false,
+                    "children": [
+                      {
+                        "id": "d-dYcgbYyCq",
+                        "subject": "关键：优化商品出价、点击率、旺旺咨询率、留资率4大指标\n咨询成本= 消耗/旺旺咨询量 = 消耗/(pv*点击率*旺旺咨询率）\n线索成本= 消耗/线索量 = 消耗/(pv*点击率*旺旺咨询率*留资率）",
+                        "state": 1,
+                        "seal": false,
+                        "encrypted": false
+                      },
+                      {
+                        "id": "T6aVwTFdo",
+                        "subject": "1️⃣商品基础权重",
+                        "state": 1,
+                        "seal": false,
+                        "encrypted": false,
+                        "children": [
+                          {
+                            "id": "ROeelEGa2",
+                            "subject": "投放的新品，没有历史数据积累",
+                            "state": 1,
+                            "seal": false,
+                            "encrypted": false,
+                            "children": [
+                              {
+                                "id": "JOANe9Z9J",
+                                "subject": "🚩正常波动",
+                                "state": 1,
+                                "seal": false,
+                                "encrypted": false,
+                                "children": [
+                                  {
+                                    "id": "JxvwM948Vk",
+                                    "subject": "原因：新品缺少历史数据积累，算法在探索潜在意向人群需要更多时间",
+                                    "state": 1,
+                                    "seal": false,
+                                    "encrypted": false
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "id": "qvHsM67cD",
+                            "subject": "投放的是有基础销量、发布时间较久、有投放历史数据的品",
+                            "state": 1,
+                            "seal": false,
+                            "encrypted": false,
+                            "children": [
+                              {
+                                "id": "ylX9Z_wCn",
+                                "subject": "‼️继续往下排查",
+                                "state": 1,
+                                "seal": false,
+                                "encrypted": false
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "id": "E4AH1YZTpRg",
+                        "subject": "2️⃣点击率",
+                        "state": 1,
+                        "seal": false,
+                        "encrypted": false,
+                        "children": [
+                          {
+                            "id": "Tk4oirffjBc",
+                            "subject": "关键：用自身商品跟店铺其他商品/大盘行业平均水位对比",
+                            "state": 1,
+                            "seal": false,
+                            "encrypted": false
+                          },
+                          {
+                            "id": "cvMmSOtm4",
+                            "subject": "较低",
+                            "state": 1,
+                            "seal": false,
+                            "encrypted": false,
+                            "children": [
+                              {
+                                "id": "-OY9HXVN-lO",
+                                "subject": "优化手段：在商品主图里增加引导到旺咨的文案。 🔥重要🔥",
+                                "state": 1,
+                                "seal": false,
+                                "encrypted": false,
+                                "backgroundColorIndex": "0"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "id": "tmfZGaLaO",
+                        "subject": "3️⃣旺旺咨询率",
+                        "state": 1,
+                        "seal": false,
+                        "encrypted": false,
+                        "children": [
+                          {
+                            "id": "TGhmUQnY3",
+                            "subject": "较低：增加咨询客服的引导，同时配置智能单品页",
+                            "state": 1,
+                            "seal": false,
+                            "encrypted": false,
+                            "backgroundColorIndex": "0"
+                          }
+                        ]
+                      },
+                      {
+                        "id": "PTVYKJ2qN",
+                        "subject": "4️⃣留资率",
+                        "state": 1,
+                        "seal": false,
+                        "encrypted": false,
+                        "children": [
+                          {
+                            "id": "ji_sZFH_VR6",
+                            "subject": "偏低",
+                            "state": 1,
+                            "seal": false,
+                            "encrypted": false,
+                            "children": [
+                              {
+                                "id": "9beMCEi6cNr",
+                                "subject": "优化手段：巧用客服工具，通过欢迎语、旺旺留资卡片、淘积木落地页引导消费者留资，有效承接意向用户。",
+                                "state": 1,
+                                "seal": false,
+                                "encrypted": false,
+                                "backgroundColorIndex": "0"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "-VqGY0zL7",
+                    "subject": "④都无问题",
+                    "state": 1,
+                    "seal": false,
+                    "encrypted": false,
+                    "children": [
+                      {
+                        "id": "Vh434xX2T4G",
+                        "subject": "找阿里妈妈官方客服提交问题排查",
+                        "state": 1,
+                        "seal": false,
+                        "encrypted": false
+                      }
+                    ]
+                  }
+                ]
+              },
+              "title": ""
+            }
+          ]
+        },
+        "height": 400
+      }
+    },
+    "cfc30ef7-dea1-4f70-95da-612a000d2ec4": {
+      "id": "cfc30ef7-dea1-4f70-95da-612a000d2ec4",
+      "type": "application/x-alidocs-plugin-mind",
+      "version": 1,
+      "data": {
+        "data": {
+          "id": "Hcj4TMrAC",
+          "sheets": [
+            {
+              "id": "sheet1",
+              "theme": "orange",
+              "root": {
+                "id": "_DHuXY2B4N",
+                "subject": "放不出去量",
+                "state": 1,
+                "seal": false,
+                "encrypted": false,
+                "children": [
+                  {
+                    "id": "HMoqS3-UZL",
+                    "subject": "⓵预算是否充足、历史是否有余额不足的情况",
+                    "state": 1,
+                    "seal": false,
+                    "encrypted": false,
+                    "children": [
+                      {
+                        "id": "8SlOZpG88x",
+                        "subject": "余额不足",
+                        "state": 1,
+                        "seal": false,
+                        "encrypted": false,
+                        "children": [
+                          {
+                            "id": "gM_urKn4AX",
+                            "subject": "🚩正常波动",
+                            "state": 1,
+                            "seal": false,
+                            "encrypted": false,
+                            "children": [
+                              {
+                                "id": "-VLzzClSpm",
+                                "subject": "原因：预算不足、日中后期才充值，从无余额状态转为有余额，人为干扰了系统平稳投放，可能会有2-3h冷启期，建议商家日常保持日预算充足",
+                                "state": 1,
+                                "seal": false,
+                                "encrypted": false
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "id": "SARYcMwOOK",
+                        "subject": "预算充足",
+                        "state": 1,
+                        "seal": false,
+                        "encrypted": false,
+                        "children": [
+                          {
+                            "id": "HcXG0YLi6W",
+                            "subject": "❗️❗️继续往后排查",
+                            "state": 1,
+                            "seal": false,
+                            "encrypted": false
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "kF47EsE2c",
+                    "subject": "②是否有暂停/开启过计划",
+                    "state": 1,
+                    "seal": false,
+                    "encrypted": false,
+                    "children": [
+                      {
+                        "id": "OEotRGo9v",
+                        "subject": "开启/暂停过计划",
+                        "state": 1,
+                        "seal": false,
+                        "encrypted": false,
+                        "children": [
+                          {
+                            "id": "KpDEXQ1DS",
+                            "subject": "🚩正常波动",
+                            "state": 1,
+                            "seal": false,
+                            "encrypted": false,
+                            "children": [
+                              {
+                                "id": "QcX1T3ALyI",
+                                "subject": "原因：人为干扰了系统平稳投放，在暂停/开启计划后，系统可能再重新调整流量出现流量波动，建议不要频繁修改计划设置，并持续关注稳定投放后的数据",
+                                "state": 1,
+                                "seal": false,
+                                "encrypted": false
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "id": "srQgDBAnL",
+                        "subject": "未调整过",
+                        "state": 1,
+                        "seal": false,
+                        "encrypted": false,
+                        "children": [
+                          {
+                            "id": "MGZtGicWG",
+                            "subject": "❗️❗️继续往后排查",
+                            "state": 1,
+                            "seal": false,
+                            "encrypted": false
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "lGnKcAe8X",
+                    "subject": "③  开启了分时折扣/投放特定地域",
+                    "state": 1,
+                    "seal": false,
+                    "encrypted": false,
+                    "children": [
+                      {
+                        "id": "J7xMslIVi",
+                        "subject": "开启了/只投特定几个城市",
+                        "state": 1,
+                        "seal": false,
+                        "encrypted": false,
+                        "children": [
+                          {
+                            "id": "WOlANs4qm7T",
+                            "subject": "🚩正常波动",
+                            "state": 1,
+                            "seal": false,
+                            "encrypted": false,
+                            "children": [
+                              {
+                                "id": "YtRKSiPMc5v",
+                                "subject": "原因：分时投放/限定地域投放，导致可投流量减少，导致展现/点击/消耗下降，建议增加可投放城市 或者全时间段",
+                                "state": 1,
+                                "seal": false,
+                                "encrypted": false
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "id": "blW5zvQTm",
+                        "subject": "全时段/全国地域可投",
+                        "state": 1,
+                        "seal": false,
+                        "encrypted": false,
+                        "children": [
+                          {
+                            "id": "VTg8KwDD4",
+                            "subject": "❗️❗️继续往后排查",
+                            "state": 1,
+                            "seal": false,
+                            "encrypted": false
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "rWznqhGMk5",
+                    "subject": "④ 检查出价（是否使用的是控成本投放）",
+                    "state": 1,
+                    "seal": false,
+                    "encrypted": false,
+                    "children": [
+                      {
+                        "id": "5WdnVKLMyi",
+                        "subject": "使用「控成本投放」且成本设置严格",
+                        "state": 1,
+                        "seal": false,
+                        "encrypted": false,
+                        "children": [
+                          {
+                            "id": "_M6URIIwl",
+                            "subject": "🚩正常波动",
+                            "state": 1,
+                            "seal": false,
+                            "encrypted": false,
+                            "children": [
+                              {
+                                "id": "ruFmR9IQoU",
+                                "subject": "原因：目前整体控成本出价计划预算使用率只有50%-60%，建议您拔高出价或者提升日预算，或者直接改用最大化拿量去跑。",
+                                "state": 1,
+                                "seal": false,
+                                "encrypted": false
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "id": "h_ktyXZ6o",
+                        "subject": "使用「最大化拿量」",
+                        "state": 1,
+                        "seal": false,
+                        "encrypted": false,
+                        "children": [
+                          {
+                            "id": "75ZZEPyQXR",
+                            "subject": "找阿里妈妈官方客服提交问题排查",
+                            "state": 1,
+                            "seal": false,
+                            "encrypted": false
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              "title": ""
+            }
+          ]
+        },
+        "height": 400
+      }
+    },
+    "00000000-0000-0000-0000-000000000001": {
+      "id": "00000000-0000-0000-0000-000000000001",
+      "type": "application/x-alidocs-word",
+      "version": 1,
+      "data": {
+        "style": {},
+        "theme": [],
+        "settings": {},
+        "app": {},
+        "numberings": {},
+        "headers": {},
+        "body": [
+          "root",
+          {},
+          [
+            "p",
+            {
+              "uuid": "mcy70up5u40ppdx6t5n"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "日常广告投放过程中，出现了效果波动类问题怎么办？如"
+              ],
+              [
+                "span",
+                {
+                  "bold": false,
+                  "sz": 11,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "『"
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "#DF2A3F",
+                  "data-type": "leaf"
+                },
+                "旺咨成本/线索成本上涨"
+              ],
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "』、『"
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "#DF2A3F",
+                  "data-type": "leaf"
+                },
+                "消耗不出去"
+              ],
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "』等"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {},
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "为提升问题解决效率，小二为您推荐以下自查手册，并针对不同的情况给出优化建议。"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {},
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "可在5分钟内帮您完成自查，快跟小二一起来看看吧~"
+              ]
+            ]
+          ],
+          [
+            "h1",
+            {},
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "一、商家自查SOP"
+              ]
+            ]
+          ],
+          [
+            "h3",
+            {
+              "uuid": "mcy72u3zjtrl6fdc3ge"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "1、旺咨成本/线索成本上涨"
+              ]
+            ]
+          ],
+          [
+            "card",
+            {
+              "cardType": "hetu",
+              "height": 402,
+              "metadata": {
+                "id": "46336150-ebdb-4083-8fe8-f3d62c223a71",
+                "type": "application/x-alidocs-plugin-mind"
+              },
+              "uuid": "mcy72ykpldqwao90kji"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mcy72u40v73geyu1qg"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "具体优化指南请看："
+              ]
+            ]
+          ],
+          [
+            "card",
+            {
+              "cardType": "url",
+              "height": 60,
+              "metadata": {
+                "type": "abstract",
+                "url": "https://www.yuque.com/u209206/qnqph6/uvwzgchgq0uepvgg#vJI0O",
+                "urlInfo": {
+                  "desc": "",
+                  "imgURL": "https://alidocs.cn-zhangjiakou.oss.aliyuncs.com/collab/4j6OJ5jZo85PKq3p/cca37c8b-83ce-46af-ad95-0b1b8b01c6da.png",
+                  "title": "【线索推广】新客成长干货指南 · 语雀"
+                }
+              },
+              "spacing": {
+                "after": 10,
+                "before": 10
+              },
+              "uuid": "mcyhh0uqujz4yebwbpp"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mc4ftlu3igby5v4apxq"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "h3",
+            {
+              "uuid": "mcyhi06iw7vapdq98me"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "2、放不出去量"
+              ]
+            ]
+          ],
+          [
+            "card",
+            {
+              "cardType": "hetu",
+              "height": 402,
+              "metadata": {
+                "id": "cfc30ef7-dea1-4f70-95da-612a000d2ec4",
+                "type": "application/x-alidocs-plugin-mind"
+              },
+              "uuid": "mcyhiqznrq7sgrevd4"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mcyhi3gyth931gkeu4p"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "h3",
+            {
+              "uuid": "mcykwtmczcaqibfu6fk"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "3、"
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 14,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "ppc很低/很高"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mcykxch6b36elt3t6a"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "ind": {
+                "left": 0
+              },
+              "uuid": "manabt5dvlmz7dqyt5b"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "color": "rgb(0, 0, 0)",
+                  "data-type": "leaf"
+                },
+                "线索推广是按CPC扣费，但是最终交付的是咨询/线索成本。不用实时盯着点击成本，重点关注咨询成本。"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "ind": {
+                "left": 0
+              },
+              "uuid": "manabv5f834ipmh8i1h"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "color": "rgb(0, 0, 0)",
+                  "data-type": "leaf"
+                },
+                "PPC过高可能是因为算法模型认为此人有100%概率咨询，正好此人也是竞对的高转化用户，那模型会出很高的价格来和竞对抢夺，所以点击成本会变高，但这个人抢下来会给你带来更多生意的增量。竞得的流量更有价值，一般来说主要是集中在搜索域，流量更精准也更贵。"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "ind": {
+                "left": 0
+              },
+              "uuid": "mcykxmdafa822loaldu"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "color": "rgb(0, 0, 0)",
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "ind": {
+                "left": 0
+              },
+              "uuid": "manac21qhe874a8lcqb"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "color": "rgb(0, 0, 0)",
+                  "data-type": "leaf"
+                },
+                "PPC过低可能是因为自身商品、店铺权重较低，预估转化率不足，同时预算和出价较少的情况下，导致抢不到这部分搜索优质流量，算法只能去推荐或其他场所拿量，ppc就会低。"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "ind": {
+                "left": 0
+              },
+              "uuid": "mcykxol1hiwapbyjt4p"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "color": "rgb(0, 0, 0)",
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "ind": {
+                "left": 0
+              },
+              "uuid": "manafu0hycli614votg"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "color": "rgb(0, 0, 0)",
+                  "data-type": "leaf"
+                },
+                "优化方法：ppc过高不用过分关注，ppc过低需要提高商品自身权重、预算、出价的方式提升拿到优质流量的概率。"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "ind": {
+                "left": 0
+              },
+              "uuid": "mcykxktj1spvejro76n"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "color": "rgb(0, 0, 0)",
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "ind": {
+                "left": 0
+              },
+              "uuid": "mcykxkx1kv3l5yg8f4"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "color": "rgb(0, 0, 0)",
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "h1",
+            {},
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "二、常见QA"
+              ]
+            ]
+          ],
+          [
+            "h3",
+            {},
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "1、如何查看操作记录？"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {},
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "操作路径：推广-我的设置-我的操作记录，如下图："
+              ]
+            ]
+          ],
+          [
+            "p",
+            {},
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ],
+            [
+              "img",
+              {
+                "height": 317,
+                "name": "",
+                "src": "https://alidocs.oss-cn-zhangjiakou.aliyuncs.com/lark/https://yuque.antfin.com/chenchun.chen/gqhty9/vnxy1sa0dgchn9p0/imgHvVUWCMJqc.png",
+                "width": 1118
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {},
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "​"
+              ]
+            ]
+          ],
+          [
+            "h3",
+            {},
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "2、如何找小二提交问题排查"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {},
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "#DF2A3F",
+                  "data-type": "leaf"
+                },
+                "注意：给小二提交问题排查前，请务必先按照文档自查"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {},
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "data-type": "leaf"
+                },
+                "（1）方式一：商家钉钉群"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {},
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "在邀请商家迁移万相台无界时，消息里有商家钉钉群的群号，商家可在群里【按照群公告格式】反馈问题。"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {},
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "data-type": "leaf"
+                },
+                "（2）方式二："
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "color": "#111111",
+                  "data-type": "leaf"
+                },
+                "袋小蜜"
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "data-type": "leaf"
+                },
+                "在线客服"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {},
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "登录万相台无界版后台，在右下角可找到在线客服（如下图），商家可"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {},
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ],
+            [
+              "img",
+              {
+                "height": 278,
+                "name": "",
+                "src": "https://alidocs.oss-cn-zhangjiakou.aliyuncs.com/lark/https://yuque.antfin.com/chenchun.chen/gqhty9/vnxy1sa0dgchn9p0/imgQ2BFmzIh89.png",
+                "width": 177
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ],
+            [
+              "img",
+              {
+                "height": 326,
+                "name": "",
+                "src": "https://alidocs.oss-cn-zhangjiakou.aliyuncs.com/lark/https://yuque.antfin.com/chenchun.chen/gqhty9/vnxy1sa0dgchn9p0/imgSUAn0h5w9W.png",
+                "width": 446.5
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {},
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {},
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {},
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {},
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ]
+        ],
+        "footers": {},
+        "version": 1
+      },
+      "refs": {}
+    }
+  }
+}

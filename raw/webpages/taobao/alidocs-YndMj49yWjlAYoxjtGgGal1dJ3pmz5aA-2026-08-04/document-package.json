@@ -1,0 +1,3986 @@
+{
+  "version": 1,
+  "type": "application/x-alidocs-package",
+  "main": "00000000-0000-0000-0000-000000000001",
+  "plugins": "00000000-0000-0000-0000-000000000002",
+  "parts": {
+    "00000000-0000-0000-0000-000000000001": {
+      "id": "00000000-0000-0000-0000-000000000001",
+      "type": "application/x-alidocs-word",
+      "version": 1,
+      "data": {
+        "style": {
+          "docDefaults": {
+            "type": "paragraph",
+            "default": 1,
+            "name": "dingdocnormal",
+            "data": {
+              "rPr": {
+                "sz": 12,
+                "szUnit": "pt"
+              },
+              "pPr": {
+                "spacing": {
+                  "before": 8,
+                  "after": 8
+                }
+              }
+            }
+          },
+          "tableDefault": {
+            "type": "table",
+            "data": {
+              "tblPr": {
+                "bdr": {
+                  "bottom": {
+                    "color": "#D6D6D6",
+                    "space": 0,
+                    "sz": 1,
+                    "val": "single"
+                  },
+                  "insideH": {
+                    "color": "#D6D6D6",
+                    "space": 0,
+                    "sz": 1,
+                    "val": "single"
+                  },
+                  "insideV": {
+                    "color": "#D6D6D6",
+                    "space": 0,
+                    "sz": 1,
+                    "val": "single"
+                  },
+                  "left": {
+                    "color": "#D6D6D6",
+                    "space": 0,
+                    "sz": 1,
+                    "val": "single"
+                  },
+                  "right": {
+                    "color": "#D6D6D6",
+                    "space": 0,
+                    "sz": 1,
+                    "val": "single"
+                  },
+                  "top": {
+                    "color": "#D6D6D6",
+                    "space": 0,
+                    "sz": 1,
+                    "val": "single"
+                  }
+                }
+              }
+            }
+          },
+          "tableHeader": {
+            "type": "table",
+            "basedOn": "tableDefault",
+            "data": {
+              "tblStylePr": [
+                {
+                  "type": "firstRow",
+                  "tcPr": {
+                    "shd": {
+                      "fill": "#F5F6F7"
+                    }
+                  }
+                },
+                {
+                  "type": "firstCol",
+                  "tcPr": {
+                    "shd": {
+                      "fill": "#F5F6F7"
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        "theme": [],
+        "settings": {
+          "titleCover": {
+            "isHide": true
+          }
+        },
+        "app": {},
+        "numberings": {},
+        "headers": {},
+        "body": [
+          "root",
+          {
+            "sectPr": {
+              "pgSz": {
+                "w": 1588,
+                "h": 1127
+              },
+              "pgMar": {
+                "header": 56.73,
+                "footer": 66.13,
+                "top": 48,
+                "bottom": 48,
+                "left": 72,
+                "right": 72,
+                "gutter": 0
+              }
+            },
+            "theme": {
+              "table": {
+                "tableCell": {
+                  "vAlign": "top"
+                }
+              }
+            },
+            "uuid": "m85dhnf7wn7pv3cc9n"
+          },
+          [
+            "p",
+            {
+              "uuid": "mn6v9jfntt2t2agoexm"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "m85d9cs9yvp4t3vfq0p"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 14,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "一句话简介：货品全站推广支持商家以「"
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 14,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "增加净成交金额」"
+              ],
+              [
+                "span",
+                {
+                  "sz": 14,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "为"
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 14,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "出价目标"
+              ],
+              [
+                "span",
+                {
+                  "sz": 14,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "，"
+              ],
+              [
+                "span",
+                {
+                  "sz": 14,
+                  "szUnit": "pt",
+                  "color": "rgb(0, 0, 0)",
+                  "data-type": "leaf"
+                },
+                "AI智能预判，优化净成交金额，从而降低"
+              ],
+              [
+                "span",
+                {
+                  "sz": 14,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "未发货前消费者"
+              ],
+              [
+                "span",
+                {
+                  "sz": 14,
+                  "szUnit": "pt",
+                  "color": "rgb(0, 0, 0)",
+                  "data-type": "leaf"
+                },
+                "退款订单对商家的影响，助力商家经营提效。"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mf3q48iahdct6jkqs69"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "italic": true,
+                  "sz": 14,
+                  "szUnit": "pt",
+                  "color": "#FE0300",
+                  "data-type": "leaf"
+                },
+                "new"
+              ],
+              [
+                "span",
+                {
+                  "sz": 14,
+                  "szUnit": "pt",
+                  "color": "rgb(0, 0, 0)",
+                  "data-type": "leaf"
+                },
+                "净成交出价"
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 14,
+                  "szUnit": "pt",
+                  "color": "rgb(0, 0, 0)",
+                  "data-type": "leaf"
+                },
+                "已升级兼容多目标出价"
+              ],
+              [
+                "span",
+                {
+                  "sz": 14,
+                  "szUnit": "pt",
+                  "color": "rgb(0, 0, 0)",
+                  "data-type": "leaf"
+                },
+                "，同一计划可同时设置净成交及多目标！"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "ma8aizwuwii4v6l0fl"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 14,
+                  "szUnit": "pt",
+                  "color": "rgb(0, 0, 0)",
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "ma8aja8664u503mkfkv"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 16,
+                  "szUnit": "pt",
+                  "color": "linear-gradient(152deg, #C676FF 0%, #654CFF 41%, #405EFF 75%, #007FFF 99%)",
+                  "data-type": "leaf"
+                },
+                "小二建议"
+              ]
+            ]
+          ],
+          [
+            "container",
+            {
+              "subType": "colorBlocks",
+              "metadata": {
+                "padding": {
+                  "top": 11,
+                  "right": 11,
+                  "bottom": 11,
+                  "left": 11
+                },
+                "borderRadius": 8,
+                "sticker": "气泡",
+                "bgcolor": "radial-gradient(68% 68% at 68% 100%, #F2F7F7 0%, rgba(242, 245, 255, 0) 100%), radial-gradient(53% 53% at 16% -12%, #FEF2F2 0%, rgba(242, 245, 255, 0) 100%), radial-gradient(55% 141% at 100% 100%, #E4EBFF 0%, rgba(242, 245, 255, 0) 100%), linear-gradient(99deg, #E9E7FF 0%, #E4EBFF 100%)",
+                "showstk": false
+              },
+              "uuid": "ma8aj2pbhdfudw76ma"
+            },
+            [
+              "p",
+              {
+                "uuid": "ma8al223v2adx5av9k7"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "sz": 14,
+                    "szUnit": "pt",
+                    "color": "rgb(0, 0, 0)",
+                    "data-type": "leaf"
+                  },
+                  "ꔷ 在投计划强烈建议将出价目标"
+                ],
+                [
+                  "span",
+                  {
+                    "bold": true,
+                    "sz": 14,
+                    "szUnit": "pt",
+                    "color": "rgb(0, 0, 0)",
+                    "data-type": "leaf"
+                  },
+                  "切换至净成交"
+                ],
+                [
+                  "span",
+                  {
+                    "sz": 14,
+                    "szUnit": "pt",
+                    "color": "rgb(0, 0, 0)",
+                    "data-type": "leaf"
+                  },
+                  "；新建计划建议选择出价目标为"
+                ],
+                [
+                  "span",
+                  {
+                    "bold": true,
+                    "sz": 14,
+                    "szUnit": "pt",
+                    "color": "rgb(0, 0, 0)",
+                    "data-type": "leaf"
+                  },
+                  "增加净成交金额"
+                ]
+              ]
+            ],
+            [
+              "p",
+              {
+                "uuid": "ma8al223syf1r1rxdm"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "sz": 14,
+                    "szUnit": "pt",
+                    "color": "rgb(0, 0, 0)",
+                    "data-type": "leaf"
+                  },
+                  "ꔷ 切换至净成交，"
+                ],
+                [
+                  "span",
+                  {
+                    "bold": true,
+                    "sz": 14,
+                    "szUnit": "pt",
+                    "color": "rgb(0, 0, 0)",
+                    "data-type": "leaf"
+                  },
+                  "可降低"
+                ],
+                [
+                  "span",
+                  {
+                    "sz": 14,
+                    "szUnit": "pt",
+                    "color": "rgb(0, 0, 0)",
+                    "data-type": "leaf"
+                  },
+                  "后续流量波动和活动凑单等退款提升带来的推广成本上涨"
+                ],
+                [
+                  "span",
+                  {
+                    "bold": true,
+                    "sz": 14,
+                    "szUnit": "pt",
+                    "color": "rgb(0, 0, 0)",
+                    "data-type": "leaf"
+                  },
+                  "风险"
+                ],
+                [
+                  "span",
+                  {
+                    "sz": 14,
+                    "szUnit": "pt",
+                    "color": "rgb(0, 0, 0)",
+                    "data-type": "leaf"
+                  },
+                  "，"
+                ],
+                [
+                  "span",
+                  {
+                    "bold": true,
+                    "sz": 14,
+                    "szUnit": "pt",
+                    "color": "rgb(0, 0, 0)",
+                    "data-type": "leaf"
+                  },
+                  "稳定净成交投产比的交付"
+                ]
+              ]
+            ],
+            [
+              "p",
+              {
+                "uuid": "ma8al2236lxqndu1np9"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "sz": 14,
+                    "szUnit": "pt",
+                    "color": "rgb(0, 0, 0)",
+                    "data-type": "leaf"
+                  },
+                  "ꔷ 大促期流量竞争激烈，"
+                ],
+                [
+                  "span",
+                  {
+                    "bold": true,
+                    "sz": 14,
+                    "szUnit": "pt",
+                    "color": "rgb(0, 0, 0)",
+                    "data-type": "leaf"
+                  },
+                  "高秒退率商品建议降低净目标投产比，提升计划预算"
+                ],
+                [
+                  "span",
+                  {
+                    "sz": 14,
+                    "szUnit": "pt",
+                    "color": "rgb(0, 0, 0)",
+                    "data-type": "leaf"
+                  },
+                  "，保障对净成交订单的拿量竞争力"
+                ]
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "m85df5ihu6szgdqjgn"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "rgb(0, 0, 0)",
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "m9tyzmrp9txs0gxkaz7"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 16,
+                  "szUnit": "pt",
+                  "color": "linear-gradient(152deg, #C676FF 0%, #654CFF 41%, #405EFF 75%, #007FFF 99%)",
+                  "data-type": "leaf"
+                },
+                "核心优势"
+              ]
+            ]
+          ],
+          [
+            "container",
+            {
+              "subType": "colorBlocks",
+              "metadata": {
+                "padding": {
+                  "top": 11,
+                  "right": 11,
+                  "bottom": 11,
+                  "left": 11
+                },
+                "borderRadius": 8,
+                "sticker": "气泡",
+                "bgcolor": "#B7DCFB",
+                "showstk": false
+              },
+              "uuid": "m85dfansjvi24kcb0eh"
+            },
+            [
+              "p",
+              {
+                "uuid": "m7e6ds9jg39ixeprz5f",
+                "ind": {
+                  "left": 0
+                }
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "bold": true,
+                    "sz": 14,
+                    "szUnit": "pt",
+                    "color": "rgb(0, 0, 0)",
+                    "data-type": "leaf"
+                  },
+                  "交付质量更高"
+                ]
+              ]
+            ],
+            [
+              "p",
+              {
+                "uuid": "m7e6e15nah09hzkop9j",
+                "ind": {}
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "bold": true,
+                    "sz": 14,
+                    "szUnit": "pt",
+                    "color": "rgb(0, 0, 0)",
+                    "data-type": "leaf"
+                  },
+                  "优化净成交金额，按净目标投产比达成"
+                ],
+                [
+                  "span",
+                  {
+                    "sz": 14,
+                    "szUnit": "pt",
+                    "color": "rgb(0, 0, 0)",
+                    "data-type": "leaf"
+                  },
+                  "。新增出价目标，支持选择增加净成交金额，系统尽可能优化计划净成交金额，提高净成交投产比确定性，助力商家经营提效。"
+                ],
+                [
+                  "span",
+                  {
+                    "sz": 14,
+                    "szUnit": "pt",
+                    "data-type": "leaf"
+                  },
+                  "在秒退率（当日支付且1h内退款）波动的场景，如从10%提升至30%，切换至净成交出价可保障净成交投产比"
+                ],
+                [
+                  "span",
+                  {
+                    "bold": true,
+                    "sz": 14,
+                    "szUnit": "pt",
+                    "data-type": "leaf"
+                  },
+                  "稳定交付"
+                ],
+                [
+                  "span",
+                  {
+                    "sz": 14,
+                    "szUnit": "pt",
+                    "data-type": "leaf"
+                  },
+                  "；若保持总成交出价投放，净成交投产比预计"
+                ],
+                [
+                  "span",
+                  {
+                    "bold": true,
+                    "sz": 14,
+                    "szUnit": "pt",
+                    "data-type": "leaf"
+                  },
+                  "有下降22%的风险"
+                ]
+              ]
+            ],
+            [
+              "p",
+              {
+                "ind": {},
+                "uuid": "m85dfrxyzo455sfhpch"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "sz": 14,
+                    "szUnit": "pt",
+                    "color": "rgb(0, 0, 0)",
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ]
+            ],
+            [
+              "p",
+              {
+                "uuid": "m7e6e15zp9sd86n404c",
+                "ind": {
+                  "left": 0
+                }
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "bold": true,
+                    "sz": 14,
+                    "szUnit": "pt",
+                    "color": "rgb(0, 0, 0)",
+                    "data-type": "leaf"
+                  },
+                  "退款订单优化"
+                ]
+              ]
+            ],
+            [
+              "p",
+              {
+                "uuid": "m7e6e1624smyud0dwbg",
+                "ind": {}
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "bold": true,
+                    "sz": 14,
+                    "szUnit": "pt",
+                    "color": "rgb(0, 0, 0)",
+                    "data-type": "leaf"
+                  },
+                  "智能动态出价，控制退款负向影响"
+                ],
+                [
+                  "span",
+                  {
+                    "sz": 14,
+                    "szUnit": "pt",
+                    "color": "rgb(0, 0, 0)",
+                    "data-type": "leaf"
+                  },
+                  "。AI系统深度学习海量交易数据，识别退款人群并屏蔽，通过预测退款概率，实时调整出价策略，退款概率越高出价越低，计划退款订单比例也会得到控制。"
+                ],
+                [
+                  "span",
+                  {
+                    "sz": 14,
+                    "szUnit": "pt",
+                    "data-type": "leaf"
+                  },
+                  "实验数据显示，使用净成交出价，高秒退率（当日支付且1h内退款）计划的"
+                ],
+                [
+                  "span",
+                  {
+                    "bold": true,
+                    "sz": 14,
+                    "szUnit": "pt",
+                    "data-type": "leaf"
+                  },
+                  "秒退率预计可下降17.8%"
+                ]
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "m85dekik589q8nps5fs"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "rgb(0, 0, 0)",
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "m85deli7guh0wpbip36"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 16,
+                  "szUnit": "pt",
+                  "color": "linear-gradient(152deg, #C676FF 0%, #654CFF 41%, #405EFF 75%, #007FFF 99%)",
+                  "data-type": "leaf"
+                },
+                "操作指南"
+              ]
+            ]
+          ],
+          [
+            "table",
+            {
+              "colsWidth": [
+                10.32,
+                89.68
+              ],
+              "tblW": {
+                "w": 100,
+                "type": "pct"
+              },
+              "uuid": "m85l0w17wol02xwciof",
+              "styleId": "tableHeader",
+              "tblLook": {
+                "firstRow": 1,
+                "firstColumn": 0,
+                "lastRow": 0,
+                "lastColumn": 0
+              }
+            },
+            [
+              "tr",
+              {
+                "uuid": "m85l0w176wepimihgy",
+                "h": 44
+              },
+              [
+                "tc",
+                {
+                  "colSpan": 2,
+                  "rowSpan": 1,
+                  "uuid": "m85l0w17kk7ndsb1bj8"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "m85l0w17k5k3nprasdk"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 12,
+                        "szUnit": "pt",
+                        "color": "rgb(0, 0, 0)",
+                        "data-type": "leaf"
+                      },
+                      "计划"
+                    ],
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "sz": 12,
+                        "szUnit": "pt",
+                        "color": "rgb(0, 0, 0)",
+                        "data-type": "leaf"
+                      },
+                      "新增"
+                    ],
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "data-type": "leaf"
+                      },
+                      "出价目标"
+                    ],
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "，默认是增加总成交金额，"
+                    ],
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "color": "linear-gradient(90deg, #10CCF7 0%, #AB44FB 100%)",
+                        "data-type": "leaf"
+                      },
+                      "建议切换至增加净成交金额，系统会对消费者支付成功1小时内且在当日23:59:59前退款的订单进行优化，降低退款波动带来的负向风险"
+                    ],
+                    [
+                      "span",
+                      {
+                        "bold": false,
+                        "color": "",
+                        "data-type": "leaf"
+                      },
+                      "；"
+                    ],
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "color": "",
+                        "data-type": "leaf"
+                      },
+                      "在投计划无需新建，可直接切换"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "m85l0w17ocvfr0ho67a",
+                  "hidden": true
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "m85l0w17r40runk00mp"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "sz": 12,
+                        "szUnit": "pt",
+                        "color": "rgb(0, 0, 0)",
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {
+                "uuid": "m85l0w17mrbpaze89t9"
+              },
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "m85l0w171tcvzp9kikvi"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "m85l0w17hx6rl7ht9ze"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "控投产比比投放"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "m85l0w17bxte78xkdw"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "m85l25qjkiw9bo76ql"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": false,
+                        "color": "",
+                        "data-type": "leaf"
+                      },
+                      "净目标投产比=推广商品在15日内引导用户产生的所有净成交交易金额（"
+                    ],
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "即系统会对消费者支付成功1小时内且在当日23:59:59前退款的订单进行优化）"
+                    ],
+                    [
+                      "span",
+                      {
+                        "bold": false,
+                        "color": "",
+                        "data-type": "leaf"
+                      },
+                      "/花费，系统尽可能按设置的净目标投产比达成"
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "uuid": "m85l2k84jcvoh70y1r"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": false,
+                        "color": "",
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ],
+                  [
+                    "img",
+                    {
+                      "uuid": "p1b0vu",
+                      "name": "image.png",
+                      "size": 328001,
+                      "width": 594,
+                      "height": 322,
+                      "src": "/core/api/resources/img/5eecdaf48460cde5332a5c75a6dca671504720ff67f1529e58e70b814913bc360a414d3de9277d871abf3af1cbd75249490caa6fa200ab6a869e5acc2ec24843a3d3e03cb26d4d048249efbe79996b4486d09235a3dc3483fc653b69905bac42",
+                      "extraData": {
+                        "resourceId": "f7ad1694-079f-407f-8128-57d77809f89c",
+                        "metaData": {
+                          "size": 328001,
+                          "originWidth": 1364,
+                          "originHeight": 740,
+                          "format": "png",
+                          "ratio": 1
+                        }
+                      },
+                      "rotation": 0
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "leaf"
+                        },
+                        ""
+                      ]
+                    ]
+                  ],
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": false,
+                        "color": "",
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {
+                "uuid": "m85l2luaobz8bvqf2fn"
+              },
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "m85l2luaoef4kdo6ptk"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "m85l2lua1weosfv0e6y"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": false,
+                        "color": "",
+                        "data-type": "leaf"
+                      },
+                      "最大化拿量"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "m85l2luamaarmopu46"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "m85l3ggktipgbufgf7"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "最大化净成交金额"
+                    ],
+                    [
+                      "span",
+                      {
+                        "bold": false,
+                        "color": "",
+                        "data-type": "leaf"
+                      },
+                      "（"
+                    ],
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "即系统会对消费者支付成功1小时内且在当日23:59:59前退款的订单进行优化），即推广商品在15日内引导用户产生的所有支付宝交易的净成交金额"
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "uuid": "m85l3mibyceso59ozk"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ],
+                  [
+                    "img",
+                    {
+                      "uuid": "476lrm",
+                      "name": "image.png",
+                      "size": 395977,
+                      "width": 599,
+                      "height": 353,
+                      "src": "/core/api/resources/img/5eecdaf48460cde5332a5c75a6dca671504720ff67f1529e58e70b814913bc360a414d3de9277d871abf3af1cbd75249e1273b9318562321686eaa7ee5c1e2f1adadb1dc1272e43469a7569cfff02279fbeb0d6243b78862fc653b69905bac42",
+                      "extraData": {
+                        "resourceId": "4bd45b36-4add-404f-9066-426df1d92da7",
+                        "metaData": {
+                          "size": 395977,
+                          "originWidth": 1440,
+                          "originHeight": 848,
+                          "format": "png",
+                          "ratio": 1
+                        }
+                      },
+                      "rotation": 0
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "leaf"
+                        },
+                        ""
+                      ]
+                    ]
+                  ],
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ]
+                ]
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "m85e3w2gkquezqxcbor"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": false,
+                  "color": "",
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "m85e7j2mwsv24yo7k0q"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 16,
+                  "szUnit": "pt",
+                  "color": "linear-gradient(152deg, #C676FF 0%, #654CFF 41%, #405EFF 75%, #007FFF 99%)",
+                  "data-type": "leaf"
+                },
+                "相关变更"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "m8qred1zecnai9tzin6",
+              "ind": {
+                "left": 0
+              },
+              "list": {
+                "listId": "ibh8qntxtua",
+                "level": 0,
+                "isTaskList": false,
+                "isOrdered": false,
+                "listStyleType": "SCIR_ECIR_SREC",
+                "symbolStyle": {},
+                "listStyle": {
+                  "format": "bullet",
+                  "text": "●",
+                  "align": "left"
+                }
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "color": "",
+                  "data-type": "leaf"
+                },
+                "在投计划无需新建，可直接切换"
+              ],
+              [
+                "span",
+                {
+                  "color": "",
+                  "data-type": "leaf"
+                },
+                "，在计划列表-出价方式小铅笔，点击即可修改"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "ind": {
+                "left": 0
+              },
+              "uuid": "m8qred1zi8f1ezir93e"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "color": "",
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ],
+            [
+              "img",
+              {
+                "extraData": {
+                  "metaData": {
+                    "format": "png",
+                    "originHeight": 304,
+                    "originWidth": 1654,
+                    "ratio": 1,
+                    "size": 91843
+                  },
+                  "resourceId": "08f6e6b8-6e4d-4e19-a856-86de067650c0"
+                },
+                "height": 141,
+                "name": "image.png",
+                "rotation": 0,
+                "size": 91843,
+                "src": "/core/api/resources/img/5eecdaf48460cde5332a5c75a6dca671504720ff67f1529e58e70b814913bc360a414d3de9277d871abf3af1cbd75249e9257e2096fd46de3f3053ee04d9fd399fbde3513e7d8e46b4cf87299a697cbe913761cc17ec5d80fc653b69905bac42",
+                "uuid": "m8qred1vpdtq1sx12u",
+                "width": 768
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "color": "",
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "ind": {
+                "left": 0
+              },
+              "list": {
+                "isOrdered": false,
+                "isTaskList": false,
+                "level": 0,
+                "listId": "8zsfidfi2m",
+                "listStyle": {
+                  "align": "left",
+                  "format": "bullet",
+                  "text": "●"
+                },
+                "listStyleType": "SCIR_ECIR_SREC",
+                "symbolStyle": {
+                  "bold": false,
+                  "color": ""
+                }
+              },
+              "uuid": "m85e7x4c6qcdp0932ir"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "color": "",
+                  "data-type": "leaf"
+                },
+                "在投计划列表新增"
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "data-type": "leaf"
+                },
+                "净实际投产比"
+              ],
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "、净成交金额（需勾选）、净成交笔数（需勾选）、净成交金额占比（需勾选）指标，帮助查看分析净成交的实际投放效果"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "ind": {
+                "left": 0
+              },
+              "uuid": "m85lkpn5zl6oi0y472o"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ],
+            [
+              "img",
+              {
+                "uuid": "ml4ktg",
+                "name": "image.png",
+                "size": 85573,
+                "width": 755,
+                "height": 72.62330000939103,
+                "src": "/core/api/resources/img/5eecdaf48460cde5332a5c75a6dca671504720ff67f1529e58e70b814913bc360a414d3de9277d871abf3af1cbd75249e45bc8e694bd09fcef9cac8718dc1cf155044ea4ba64eabbd5a37d0e283ed03dd5bb5c5a5c552e96fc653b69905bac42",
+                "extraData": {
+                  "resourceId": "03184d8d-2db0-45aa-b797-3c53b2706d68",
+                  "metaData": {
+                    "size": 85573,
+                    "originWidth": 1757,
+                    "originHeight": 169,
+                    "format": "png",
+                    "ratio": 1
+                  }
+                }
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "ind": {
+                "left": 0
+              },
+              "list": {
+                "extraData": {},
+                "hideSymbol": false,
+                "isChecked": false,
+                "isOrdered": false,
+                "isTaskList": false,
+                "level": 0,
+                "listId": "8zsfidfi2m",
+                "listStyle": {
+                  "align": "left",
+                  "format": "bullet",
+                  "text": "●"
+                },
+                "listStyleType": "SCIR_ECIR_SREC",
+                "symbolStyle": {
+                  "bold": false,
+                  "color": ""
+                }
+              },
+              "uuid": "m85e9j3lwqk9rko7cw"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "若计划设置了优化目标为增加净成交金额，则计划的一键起量提供净成交金额的效果预估，起量数据解读也展示净成交金额效果，交付起量预算的净成交金额最大化"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "ind": {
+                "left": 0
+              },
+              "uuid": "m85lm1xof643z266qxs"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ],
+            [
+              "img",
+              {
+                "extraData": {
+                  "metaData": {
+                    "format": "png",
+                    "originHeight": 280,
+                    "originWidth": 954,
+                    "ratio": 1,
+                    "size": 114058
+                  },
+                  "resourceId": "ae27363c-1395-43da-9a5c-8bfe29cff884"
+                },
+                "height": 140,
+                "name": "image.png",
+                "size": 114058,
+                "src": "/core/api/resources/img/5eecdaf48460cde5332a5c75a6dca671504720ff67f1529e58e70b814913bc360a414d3de9277d871abf3af1cbd752492c30d3af179f9e65a55cb2774d90b289d0be48c08edf05b603a5aa22b35f5dc26eb5a7adf41f4165fc653b69905bac42",
+                "uuid": "0f2fcz",
+                "width": 477
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "ind": {
+                "left": 0
+              },
+              "list": {
+                "extraData": {},
+                "hideSymbol": false,
+                "isChecked": false,
+                "isOrdered": false,
+                "isTaskList": false,
+                "level": 0,
+                "listId": "8zsfidfi2m",
+                "listStyle": {
+                  "align": "left",
+                  "format": "bullet",
+                  "text": "●"
+                },
+                "listStyleType": "SCIR_ECIR_SREC",
+                "symbolStyle": {
+                  "bold": false,
+                  "color": ""
+                }
+              },
+              "uuid": "m85ed5l071qrv8nh1bc"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "支持计划在增加总成交金额和增加净成交金额间切换，切换后计划状态进入效果调整期。切换至净成交时，请关注系统基于历史退款率的目标投产比换算（与当前净目标投产比出价同等竞争力的总目标投产比），"
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "data-type": "leaf"
+                },
+                "设置有竞争力的净目标投产比，避免因切换时出价竞争力不足计划掉量"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "ind": {
+                "left": 0
+              },
+              "list": {
+                "extraData": {},
+                "hideSymbol": false,
+                "isChecked": false,
+                "isOrdered": false,
+                "isTaskList": false,
+                "level": 1,
+                "listId": "8zsfidfi2m",
+                "listStyle": {
+                  "align": "left",
+                  "format": "bullet",
+                  "text": "○"
+                },
+                "listStyleType": "SCIR_ECIR_SREC",
+                "symbolStyle": {
+                  "bold": false,
+                  "color": ""
+                }
+              },
+              "uuid": "m8q26ke6nt4nb5pd8im"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "场景举例：在投增加总成交金额的计划，切换到净成交时，可能出现净成交最高可设置ROI远低于总成交最高可设ROI，系统会根据切换前7天该计划的实际总目标投产比出价，并基于历史退款率给出最高可设置的净目标投产比，确保计划切换后的出价竞争力，避免掉量。持续投放若干天后，系统会放开净成交最高可设置净目标投产比"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "ind": {
+                "left": 0
+              },
+              "list": {
+                "extraData": {},
+                "hideSymbol": false,
+                "isChecked": false,
+                "isOrdered": false,
+                "isTaskList": false,
+                "level": 0,
+                "listId": "8zsfidfi2m",
+                "listStyle": {
+                  "align": "left",
+                  "format": "bullet",
+                  "text": "●"
+                },
+                "listStyleType": "SCIR_ECIR_SREC",
+                "symbolStyle": {
+                  "bold": false,
+                  "color": ""
+                }
+              },
+              "uuid": "m85ko40dzgl9ovi6wuk"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "切换至净成交的计划，稳定投放期的成交笔数判断由总成交笔数变更至净成交笔数，变更出价目标的计划当日会进入效果调整期"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "ind": {
+                "left": 0
+              },
+              "uuid": "m8dx09ulxeqquqlxgp"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "ind": {
+                "left": 0
+              },
+              "uuid": "m8dx3saa397i618h5wj"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "ind": {
+                "left": 0
+              },
+              "uuid": "m8dx0a8pgcjivu9rnnc"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 18,
+                  "szUnit": "pt",
+                  "color": "linear-gradient(152deg, #C676FF 0%, #654CFF 41%, #405EFF 75%, #007FFF 99%)",
+                  "data-type": "leaf"
+                },
+                "Q&A"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "ind": {
+                "left": 0
+              },
+              "uuid": "m8dx0gjyymi18h8js7"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "问：净成交适合哪些商品使用？"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "ind": {
+                "left": 0
+              },
+              "uuid": "m8dx17qvjvywo0hjybt"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "答："
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "data-type": "leaf"
+                },
+                "适合所有商品使用"
+              ],
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "。退款比例较高，退款数据波动较大的商品，使用效果更显著。如您觉得推广计划的退款风险较高，可以切换出价目标至"
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "data-type": "leaf"
+                },
+                "增加净成交金额"
+              ],
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "。小二建议您"
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "data-type": "leaf"
+                },
+                "切换至净成交"
+              ],
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "，"
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "data-type": "leaf"
+                },
+                "可降低"
+              ],
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "后续流量波动和活动凑单等退款提升带来的推广成本上涨"
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "data-type": "leaf"
+                },
+                "风险"
+              ],
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "，"
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "data-type": "leaf"
+                },
+                "稳定净成交投产比的交付"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "ind": {
+                "left": 0
+              },
+              "uuid": "m8dx39ag3blw9bmqfui"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "ind": {
+                "left": 0
+              },
+              "uuid": "m8dx39h13z8w1tfjkd8"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "问：切换至净成交后，出价和预算上有什么需要注意的？"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "ind": {
+                "left": 0
+              },
+              "uuid": "m8dx3lubpsosgbj1ga"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "答：控投产比投放切换至净成交时，请关注系统"
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "data-type": "leaf"
+                },
+                "基于历史退款率的总目标投产比换算"
+              ],
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "（与当前净目标投产比出价同等竞争力的目标投产比），需要设置系统推荐的有竞争力的净目标投产比，"
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "data-type": "leaf"
+                },
+                "确保计划在有拿量竞争力"
+              ],
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "的前提下优化净成交；最大化拿量，根据系统预估的净成交提升金额及预算推荐，设置"
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "data-type": "leaf"
+                },
+                "有拿量竞争力且充足的预算 "
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "ind": {
+                "left": 0
+              },
+              "uuid": "mac65nxqtzmj9qfyyye"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "ind": {
+                "left": 0
+              },
+              "uuid": "mac65vwj127glrcdnl7e"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "问：切换至净成交，为什么可以设置的"
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "data-type": "leaf"
+                },
+                "最高净目标投产比很低"
+              ],
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "（被卡控了）？"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "ind": {
+                "left": 0
+              },
+              "uuid": "mac65vwj05eclx7lx25u"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "答：在投计划切换至净成交，系统会根据切换前7天该计划的实际总目标投产比出价，并基于历史退款率给出最高可设置的净目标投产比，是为了确保计划切换前后的整体出价水平一致，"
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "data-type": "leaf"
+                },
+                "保障计划拿量竞争力，避免掉量"
+              ],
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "。切换至净成交7天后，这一卡控会放宽，系统会根据该计划总目标投产比的最高可设置值，并基于历史退款率"
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "data-type": "leaf"
+                },
+                "更新"
+              ],
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "最高可设置的净目标投产比"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "ind": {
+                "left": 0
+              },
+              "uuid": "maxpad3hzmjyb8rw4qj"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "ind": {
+                "left": 0
+              },
+              "uuid": "mayuxg4y3nvazkqiomm"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "ind": {
+                "left": 0
+              },
+              "uuid": "mayuyer6mmh6dxriz6"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 18,
+                  "szUnit": "pt",
+                  "color": "linear-gradient(152deg, #C676FF 0%, #654CFF 41%, #405EFF 75%, #007FFF 99%)",
+                  "data-type": "leaf"
+                },
+                "案例大赏"
+              ]
+            ]
+          ],
+          [
+            "table",
+            {
+              "colsWidth": [
+                50,
+                50
+              ],
+              "tblW": {
+                "w": 100,
+                "type": "pct"
+              },
+              "uuid": "mgpzch3msdy6e87wqq9",
+              "styleId": "tableHeader",
+              "tblLook": {
+                "firstRow": 1,
+                "firstColumn": 0,
+                "lastRow": 0,
+                "lastColumn": 0
+              }
+            },
+            [
+              "tr",
+              {
+                "uuid": "mgpzhmwc1yccy1zsqiai"
+              },
+              [
+                "tc",
+                {
+                  "colSpan": 2,
+                  "rowSpan": 1,
+                  "uuid": "mgpzhmwc2cbr7qe05te"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mgpzhmwcbncjhp2o0fo",
+                    "jc": "center"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ],
+                  [
+                    "img",
+                    {
+                      "uuid": "mgpzhnpcuvog4g4m8en",
+                      "name": "image.png",
+                      "size": 2174938,
+                      "width": 836,
+                      "height": 751,
+                      "src": "/core/api/resources/img/5eecdaf48460cde5332a5c75a6dca671504720ff67f1529e58e70b814913bc360a414d3de9277d871abf3af1cbd75249ad3faaecc50d8cb70f86a02852ad524b2747b8004fa70fe2d7fe5b65e8b65de53137da26981fb747fc653b69905bac42",
+                      "extraData": {
+                        "resourceId": "163398c5-93af-4f66-8c07-be9040a8f88c",
+                        "metaData": {
+                          "size": 2174938,
+                          "originWidth": 2314,
+                          "originHeight": 2079,
+                          "format": "png",
+                          "ratio": 1
+                        }
+                      },
+                      "rotation": 0
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "leaf"
+                        },
+                        ""
+                      ]
+                    ]
+                  ],
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mgpzhmwcyaf6hmyrcrg",
+                  "hidden": true
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mgpzhmwce0200of4gjg"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {
+                "uuid": "mgpzch3m8tswea6wlsw"
+              },
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mgpzch3mzay7e7wh5dl"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mgpzch3morqisi3hr9a"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "sz": 18,
+                        "szUnit": "pt",
+                        "color": "linear-gradient(152deg, #C676FF 0%, #654CFF 41%, #405EFF 75%, #007FFF 99%)",
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ],
+                  [
+                    "img",
+                    {
+                      "uuid": "mgpzcuv5k9v4qn9u8x",
+                      "name": "aa0e18e7c4bfaa0804c28fd1a2e5745a.png",
+                      "size": 1618748,
+                      "width": 701,
+                      "height": 629.8093407984694,
+                      "src": "/core/api/resources/img/5eecdaf48460cde5811c6b2d18b5824245693d637910fef175b8339e1c4c24831b75b38faadcd24bec177c308ebd53049d75cc62a2af757e2beb51218577651f9537c98bd3713b0ab410ca129716bc18ad14c942b2a90b9e4fb4c8ed7016461c",
+                      "extraData": {
+                        "resourceId": "9c66b880-6b32-4b82-808e-29060468454e",
+                        "metaData": {
+                          "size": 1618748,
+                          "originWidth": 2314,
+                          "originHeight": 2079,
+                          "format": "png",
+                          "ratio": 1
+                        }
+                      }
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "leaf"
+                        },
+                        ""
+                      ]
+                    ]
+                  ],
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "sz": 18,
+                        "szUnit": "pt",
+                        "color": "linear-gradient(152deg, #C676FF 0%, #654CFF 41%, #405EFF 75%, #007FFF 99%)",
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mgpzch3m5tj46yui0dk"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "manr5stucinedlc0nj7"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "sz": 12,
+                        "szUnit": "pt",
+                        "color": "linear-gradient(152deg, #C676FF 0%, #654CFF 41%, #405EFF 75%, #007FFF 99%)",
+                        "data-type": "leaf"
+                      },
+                      "降低仅退款影响，改善投放效果"
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "uuid": "mgpzd4s7yq68p6z0g5a"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      "即颂旗舰店"
+                    ],
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      "作为一家专注于礼品香氛销售的电商商家，此前"
+                    ],
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      "因消费者非理性消费行为（如冲动性购买及临时性凑单）导致订单履约风险显著上升，平台高频仅退款/秒退订单对广告投放效能形成持续性冲击。为规避潜在损失，商家在竞价策略与预算分配维度普遍采取审慎策略，长期抑制了投放节奏的灵活性与预算使用和计划拿量效率。"
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "uuid": "maorfxw1h1rtady210t"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "rgb(13, 18, 57)",
+                        "data-type": "leaf"
+                      },
+                      "商家应用："
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "ind": {
+                      "left": 0
+                    },
+                    "list": {
+                      "isOrdered": false,
+                      "isTaskList": false,
+                      "level": 0,
+                      "listId": "w9bg8gjw2z",
+                      "listStyle": {
+                        "align": "left",
+                        "format": "bullet",
+                        "text": "●"
+                      },
+                      "listStyleType": "SCIR_ECIR_SREC",
+                      "symbolStyle": {
+                        "bold": true,
+                        "sz": 11
+                      }
+                    },
+                    "uuid": "maorfyli31k2hneq9ee"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      "商家将店铺所有在投计划切换至净成交出价"
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "ind": {
+                      "left": 0
+                    },
+                    "list": {
+                      "extraData": {},
+                      "hideSymbol": false,
+                      "isChecked": false,
+                      "isOrdered": false,
+                      "isTaskList": false,
+                      "level": 0,
+                      "listId": "w9bg8gjw2z",
+                      "listStyle": {
+                        "align": "left",
+                        "format": "bullet",
+                        "text": "●"
+                      },
+                      "listStyleType": "SCIR_ECIR_SREC",
+                      "symbolStyle": {
+                        "bold": true,
+                        "sz": 11
+                      }
+                    },
+                    "uuid": "mavw9bxcd0n5kv5ydkl"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      "店铺内潜力品新增货品全站推广计划，以增加净成交金额出价目标"
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "ind": {
+                      "left": 0
+                    },
+                    "list": {
+                      "extraData": {},
+                      "hideSymbol": false,
+                      "isChecked": false,
+                      "isOrdered": false,
+                      "isTaskList": false,
+                      "level": 0,
+                      "listId": "w9bg8gjw2z",
+                      "listStyle": {
+                        "align": "left",
+                        "format": "bullet",
+                        "text": "●"
+                      },
+                      "listStyleType": "SCIR_ECIR_SREC",
+                      "symbolStyle": {
+                        "bold": true,
+                        "sz": 11
+                      }
+                    },
+                    "uuid": "mavvswv1e9z8yl5x08"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      "计划日预算开启优质计划防停投，满足当天预算花费率≥70%，当天投入产出比≥3，则单次预算提升10%"
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "ind": {
+                      "left": 0
+                    },
+                    "list": {
+                      "extraData": {},
+                      "hideSymbol": false,
+                      "isChecked": false,
+                      "isOrdered": false,
+                      "isTaskList": false,
+                      "level": 0,
+                      "listId": "w9bg8gjw2z",
+                      "listStyle": {
+                        "align": "left",
+                        "format": "bullet",
+                        "text": "●"
+                      },
+                      "listStyleType": "SCIR_ECIR_SREC",
+                      "symbolStyle": {
+                        "bold": true,
+                        "sz": 11
+                      }
+                    },
+                    "uuid": "mavvyotjtvqnu0zhskd"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      "roi设置在系统推荐范围内"
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "uuid": "maorghyqrxk7oycfl2m"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      "成功实现数据层面的显著改善："
+                    ],
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "#FE0300",
+                        "data-type": "leaf"
+                      },
+                      "净成交金额占比提升12%，系统智能过滤了大量低质流量的无效曝光与点击，带动账户整体点击率与转化率明显提升，实际投产比（ROI）及净实际投产比均实现增长，较投前基础期实现8%增长"
+                    ],
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      "。商家反馈表示，"
+                    ],
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      "新策略不仅减少了非真实消费需求的订单干扰，还稳定了全站的转化与加购表现，且操作流程更加简化省心，整体运营效率与广告投放效果得到双重优化"
+                    ],
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      "。"
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {
+                "uuid": "mgpzch3mfj6mptbbks"
+              },
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mgpzch3mugzpxtntyf"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mgpzch3msj9bv63qqjl"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "sz": 18,
+                        "szUnit": "pt",
+                        "color": "linear-gradient(152deg, #C676FF 0%, #654CFF 41%, #405EFF 75%, #007FFF 99%)",
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ],
+                  [
+                    "img",
+                    {
+                      "uuid": "mgpzdzzc9iuk6pl2byi",
+                      "name": "百雀羚旗舰店.png",
+                      "size": 1721280,
+                      "width": 701,
+                      "height": 629.8093407984694,
+                      "src": "/core/api/resources/img/5eecdaf48460cde5811c6b2d18b5824245693d637910fef175b8339e1c4c24831b75b38faadcd24bec177c308ebd53044cbaabe4880fc6882680009479c82798bf773812c900af81b8f7661c0438a24b09c3a9656bce05944fb4c8ed7016461c",
+                      "extraData": {
+                        "resourceId": "b15e351f-072c-4cbc-aa91-072cbb510931",
+                        "metaData": {
+                          "size": 1721280,
+                          "originWidth": 2314,
+                          "originHeight": 2079,
+                          "format": "png",
+                          "ratio": 1
+                        }
+                      }
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "leaf"
+                        },
+                        ""
+                      ]
+                    ]
+                  ],
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "sz": 18,
+                        "szUnit": "pt",
+                        "color": "linear-gradient(152deg, #C676FF 0%, #654CFF 41%, #405EFF 75%, #007FFF 99%)",
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mgpzch3m8ikrktoatrg"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "manr608c97laff25xh"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "sz": 12,
+                        "szUnit": "pt",
+                        "color": "linear-gradient(152deg, #C676FF 0%, #654CFF 41%, #405EFF 75%, #007FFF 99%)",
+                        "data-type": "leaf"
+                      },
+                      "降低推广以及处理成本"
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "uuid": "mgpzea04pjhs6c1rqy"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "",
+                        "data-type": "leaf"
+                      },
+                      "百雀羚旗舰店"
+                    ],
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "",
+                        "data-type": "leaf"
+                      },
+                      "作为国货美妆领域的头部品牌，此前长期面临"
+                    ],
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "",
+                        "data-type": "leaf"
+                      },
+                      "仅退款会稀释实际成交金额，导致广告计划的ROI计算失真，商家难以精准评估投放效果，进一步影响预算分配与策略优化。高退款率导致商品周转效率下降，库存积压风险上升，尤其对季节性商品或快消品而言，可能造成滞销与资金占用问题。"
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "uuid": "maorhpzr5moqwvdveiu"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "rgb(13, 18, 57)",
+                        "data-type": "leaf"
+                      },
+                      "商家应用："
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "uuid": "maorhqmfchb3148j0ug",
+                    "ind": {
+                      "left": 0
+                    },
+                    "list": {
+                      "listId": "47aw6g0vwlq",
+                      "level": 0,
+                      "isTaskList": false,
+                      "isOrdered": false,
+                      "listStyleType": "SCIR_ECIR_SREC",
+                      "symbolStyle": {
+                        "sz": 11,
+                        "color": "",
+                        "bold": true
+                      },
+                      "listStyle": {
+                        "format": "bullet",
+                        "text": "●",
+                        "align": "left"
+                      }
+                    }
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "",
+                        "data-type": "leaf"
+                      },
+                      "优先选择店铺平台推荐品进行计划创建，roi设置在平台推荐范围内"
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "uuid": "maw3tcuhi51as97630j",
+                    "ind": {
+                      "left": 0
+                    },
+                    "list": {
+                      "listId": "47aw6g0vwlq",
+                      "level": 0,
+                      "isTaskList": false,
+                      "isOrdered": false,
+                      "listStyleType": "SCIR_ECIR_SREC",
+                      "symbolStyle": {
+                        "sz": 11,
+                        "color": "",
+                        "bold": true
+                      },
+                      "listStyle": {
+                        "format": "bullet",
+                        "text": "●",
+                        "align": "left"
+                      },
+                      "extraData": {},
+                      "isChecked": false,
+                      "hideSymbol": false
+                    }
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "",
+                        "data-type": "leaf"
+                      },
+                      "将70%预算分配至「平台推荐商品」，30%用于测试新品，形成「稳定收益+探索增长」的组合策略"
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "uuid": "maw3sfty3slgarkxgsd",
+                    "ind": {
+                      "left": 0
+                    },
+                    "list": {
+                      "listId": "47aw6g0vwlq",
+                      "level": 0,
+                      "isTaskList": false,
+                      "isOrdered": false,
+                      "listStyleType": "SCIR_ECIR_SREC",
+                      "symbolStyle": {
+                        "sz": 11,
+                        "color": "",
+                        "bold": true
+                      },
+                      "listStyle": {
+                        "format": "bullet",
+                        "text": "●",
+                        "align": "left"
+                      },
+                      "extraData": {},
+                      "isChecked": false,
+                      "hideSymbol": false
+                    }
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "",
+                        "data-type": "leaf"
+                      },
+                      "自4月全面启用净成交出价模式，所有在投商品均切换至以实际成交金额（扣除退款后）作为推广扣费依据"
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "uuid": "maw3pu91428kfijo6jc",
+                    "ind": {
+                      "left": 0
+                    },
+                    "list": {
+                      "listId": "47aw6g0vwlq",
+                      "level": 0,
+                      "isTaskList": false,
+                      "isOrdered": false,
+                      "listStyleType": "SCIR_ECIR_SREC",
+                      "symbolStyle": {
+                        "sz": 11,
+                        "color": "",
+                        "bold": true
+                      },
+                      "listStyle": {
+                        "format": "bullet",
+                        "text": "●",
+                        "align": "left"
+                      },
+                      "extraData": {},
+                      "isChecked": false,
+                      "hideSymbol": false
+                    }
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "",
+                        "data-type": "leaf"
+                      },
+                      "老计划直接将出价目标切换成增加净成交金额而非重新创建计划，会大幅降低计划的数据积累时间"
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "uuid": "maorimifofkg9rxp45j"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "",
+                        "data-type": "leaf"
+                      },
+                      "不仅有效控制了货品全站推广的退款问题，更实现了"
+                    ],
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "#FE0300",
+                        "data-type": "leaf"
+                      },
+                      "净成交金额占比环比提升15%、净实际投产比优化7%"
+                    ],
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "",
+                        "data-type": "leaf"
+                      },
+                      "的显著成效，"
+                    ],
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "#FE0300",
+                        "data-type": "leaf"
+                      },
+                      "较投前基础期实现11%增长"
+                    ],
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "",
+                        "data-type": "leaf"
+                      },
+                      "。"
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "uuid": "maw3xq7sxnrwteg805"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "",
+                        "data-type": "leaf"
+                      },
+                      "品牌方表示：“"
+                    ],
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "",
+                        "data-type": "leaf"
+                      },
+                      "新功能刚上线我们就果断全量切换，净成交模式既降低了退款风险，又让推广费用真正转化为实际收益，是解决长期痛点的关键举措"
+                    ],
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "",
+                        "data-type": "leaf"
+                      },
+                      "。”"
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {
+                "uuid": "mgpzepn4zk0taqzuck"
+              },
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mgpzepn47mk2s193qn3"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mgpzepn4nekcjsdjfvc"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ],
+                  [
+                    "img",
+                    {
+                      "uuid": "mgpzeu1ytozo18cvx5",
+                      "name": "Jeep服饰旗舰店.png",
+                      "size": 1449014,
+                      "width": 701,
+                      "height": 629.8093407984694,
+                      "src": "/core/api/resources/img/5eecdaf48460cde5811c6b2d18b5824245693d637910fef175b8339e1c4c24831b75b38faadcd24bec177c308ebd530492fa4fbbf1e3d295c6c535fc9efe8eb5954884ccb0e9212a00b6755251db7018f621e32da7bf10f84fb4c8ed7016461c",
+                      "extraData": {
+                        "resourceId": "cf9e84e2-f61b-4fdc-b16d-09e405d0f355",
+                        "metaData": {
+                          "size": 1449014,
+                          "originWidth": 2314,
+                          "originHeight": 2079,
+                          "format": "png",
+                          "ratio": 1
+                        }
+                      }
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "leaf"
+                        },
+                        ""
+                      ]
+                    ]
+                  ],
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mgpzepn4k99li1t1url"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "manr69itxwifvrdxfo"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "sz": 12,
+                        "szUnit": "pt",
+                        "color": "linear-gradient(152deg, #C676FF 0%, #654CFF 41%, #405EFF 75%, #007FFF 99%)",
+                        "data-type": "leaf"
+                      },
+                      "分配预算改善"
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "uuid": "mgpzf856iwptmfi8c6j"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "",
+                        "data-type": "leaf"
+                      },
+                      "Jeep服饰旗舰店"
+                    ],
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "",
+                        "data-type": "leaf"
+                      },
+                      "作为服饰类商家，此前因"
+                    ],
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "",
+                        "data-type": "leaf"
+                      },
+                      "退款问题长期困扰预算分配与投放策略"
+                    ],
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "",
+                        "data-type": "leaf"
+                      },
+                      "。"
+                    ],
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "",
+                        "data-type": "leaf"
+                      },
+                      "商家为规避风险，被迫降低广告投放力度或调整出价策略，导致曝光率下降、转化路径受阻，最终影响新品冷启动与爆品打造效率。大量仅退款订单需耗费人力处理售后流程（如沟通、退款审核），增加客服与运营成本，且可能因流程延迟引发用户投诉，进一步损害店铺信誉。"
+                    ],
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "",
+                        "data-type": "leaf"
+                      },
+                      "因此急需净成交能力改善店铺营销环境，商家目前已将80%的商品切换至净成交模式。"
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "uuid": "maorjw5gpt6u5yuxc29"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "rgb(13, 18, 57)",
+                        "data-type": "leaf"
+                      },
+                      "商家应用："
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "ind": {
+                      "left": 0
+                    },
+                    "list": {
+                      "isOrdered": false,
+                      "isTaskList": false,
+                      "level": 0,
+                      "listId": "77geo51b6my",
+                      "listStyle": {
+                        "align": "left",
+                        "format": "bullet",
+                        "text": "●"
+                      },
+                      "listStyleType": "SCIR_ECIR_SREC",
+                      "symbolStyle": {
+                        "bold": true,
+                        "color": "",
+                        "sz": 11
+                      }
+                    },
+                    "uuid": "maw51nca6b6b2tjgj7g"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "",
+                        "data-type": "leaf"
+                      },
+                      "店铺新品上架后，先用「最大化拿量+增加总成交金额」的复合打法，快速给服饰新品过数据积累期"
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "ind": {
+                      "left": 0
+                    },
+                    "list": {
+                      "extraData": {},
+                      "hideSymbol": false,
+                      "isChecked": false,
+                      "isOrdered": false,
+                      "isTaskList": false,
+                      "level": 0,
+                      "listId": "77geo51b6my",
+                      "listStyle": {
+                        "align": "left",
+                        "format": "bullet",
+                        "text": "●"
+                      },
+                      "listStyleType": "SCIR_ECIR_SREC",
+                      "symbolStyle": {
+                        "bold": true,
+                        "color": "",
+                        "sz": 11
+                      }
+                    },
+                    "uuid": "maw58mpamzww7g7case"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "",
+                        "data-type": "leaf"
+                      },
+                      "对店铺老计划，构建「高仅退款商品池」。对仅退款率≥3%的老计划切换出价目标为增加净成交金额"
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "ind": {
+                      "left": 0
+                    },
+                    "list": {
+                      "extraData": {},
+                      "hideSymbol": false,
+                      "isChecked": false,
+                      "isOrdered": false,
+                      "isTaskList": false,
+                      "level": 0,
+                      "listId": "77geo51b6my",
+                      "listStyle": {
+                        "align": "left",
+                        "format": "bullet",
+                        "text": "●"
+                      },
+                      "listStyleType": "SCIR_ECIR_SREC",
+                      "symbolStyle": {
+                        "bold": true,
+                        "color": "",
+                        "sz": 11
+                      }
+                    },
+                    "uuid": "maw58ee936tnfvinq1z"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "",
+                        "data-type": "leaf"
+                      },
+                      "对净成交切换后近7日roi达标的计划，提升计划10%日预算"
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "uuid": "maork4b2qdubq7c47dg"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "",
+                        "data-type": "leaf"
+                      },
+                      "该举措使"
+                    ],
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "#FE0300",
+                        "data-type": "leaf"
+                      },
+                      "净成交金额占比环比提升8%"
+                    ],
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "",
+                        "data-type": "leaf"
+                      },
+                      "，数据准确性显著增强，直接推动商家加大投放力度："
+                    ],
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "#FE0300",
+                        "data-type": "leaf"
+                      },
+                      "在投商品数增长20%，投放预算增加33%"
+                    ],
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "",
+                        "data-type": "leaf"
+                      },
+                      "。商家表示，"
+                    ],
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "",
+                        "data-type": "leaf"
+                      },
+                      "净成交模式有效减少了因凑单带来的无效花费，\"过去依赖费比决策，全站数据参考性不足，而净成交数据更直观透明，能精准反映实际收益，这对调整经营策略帮助极大"
+                    ],
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "",
+                        "data-type": "leaf"
+                      },
+                      "\"。"
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {
+                "uuid": "mgpzhstzfxt3tx9xggu"
+              },
+              [
+                "tc",
+                {
+                  "colSpan": 2,
+                  "rowSpan": 1,
+                  "uuid": "mgpzhstzzik38rbkgoj",
+                  "hidden": false
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mgpzhstz5t4lm6qo79c",
+                    "jc": "center"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ],
+                  [
+                    "img",
+                    {
+                      "uuid": "mgpzhvtv6v85owwxvsv",
+                      "name": "image.png",
+                      "size": 2251789,
+                      "width": 540,
+                      "height": 1633,
+                      "src": "/core/api/resources/img/5eecdaf48460cde5332a5c75a6dca671504720ff67f1529e58e70b814913bc360a414d3de9277d871abf3af1cbd752495f2b0055595f91d73ca8ae8d09391eb27818037290dd83ef21523d71349a5009bd05bd154c61f627fc653b69905bac42",
+                      "extraData": {
+                        "resourceId": "ea1dab48-9cc1-47e4-a1b9-842f87ba8a57",
+                        "metaData": {
+                          "size": 2251789,
+                          "originWidth": 1080,
+                          "originHeight": 3266,
+                          "format": "png",
+                          "ratio": 1
+                        }
+                      }
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "leaf"
+                        },
+                        ""
+                      ]
+                    ]
+                  ],
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mgpzhstzgrchwtk3vke",
+                  "hidden": true
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mgpzhstzdz2ghpg6pza",
+                    "jc": "center"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ]
+                ]
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "ind": {
+                "left": 0
+              },
+              "uuid": "mgpzcf0k8qzkoffz60b"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 18,
+                  "szUnit": "pt",
+                  "color": "linear-gradient(152deg, #C676FF 0%, #654CFF 41%, #405EFF 75%, #007FFF 99%)",
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "ind": {
+                "left": 0
+              },
+              "uuid": "mca5zeikdw41ctmjog"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "ind": {
+                "left": 0
+              },
+              "uuid": "mayuxga10pf1nlzwr6d"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "ind": {
+                "left": 0
+              },
+              "uuid": "maxpad98j7qrtbngll"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "ind": {
+                "left": 0
+              },
+              "uuid": "maxpadhyz2z9ib92gud",
+              "jc": "center"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "m85e7rxqfa5v4owlo6k"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": false,
+                  "color": "",
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ]
+        ],
+        "footers": {},
+        "version": 1
+      },
+      "refs": {}
+    }
+  }
+}

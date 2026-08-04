@@ -1,0 +1,1773 @@
+{
+  "version": 1,
+  "type": "application/x-alidocs-package",
+  "main": "00000000-0000-0000-0000-000000000001",
+  "plugins": "00000000-0000-0000-0000-000000000002",
+  "parts": {
+    "00000000-0000-0000-0000-000000000001": {
+      "id": "00000000-0000-0000-0000-000000000001",
+      "type": "application/x-alidocs-word",
+      "version": 1,
+      "data": {
+        "style": {
+          "docDefaults": {
+            "type": "paragraph",
+            "default": 1,
+            "name": "dingdocnormal",
+            "data": {
+              "rPr": {
+                "sz": 12,
+                "szUnit": "pt"
+              },
+              "pPr": {
+                "spacing": {
+                  "before": 12,
+                  "after": 12
+                }
+              }
+            }
+          },
+          "tableDefault": {
+            "type": "table",
+            "data": {
+              "tblPr": {
+                "bdr": {
+                  "bottom": {
+                    "color": "#D6D6D6",
+                    "space": 0,
+                    "sz": 1,
+                    "val": "single"
+                  },
+                  "insideH": {
+                    "color": "#D6D6D6",
+                    "space": 0,
+                    "sz": 1,
+                    "val": "single"
+                  },
+                  "insideV": {
+                    "color": "#D6D6D6",
+                    "space": 0,
+                    "sz": 1,
+                    "val": "single"
+                  },
+                  "left": {
+                    "color": "#D6D6D6",
+                    "space": 0,
+                    "sz": 1,
+                    "val": "single"
+                  },
+                  "right": {
+                    "color": "#D6D6D6",
+                    "space": 0,
+                    "sz": 1,
+                    "val": "single"
+                  },
+                  "top": {
+                    "color": "#D6D6D6",
+                    "space": 0,
+                    "sz": 1,
+                    "val": "single"
+                  }
+                }
+              }
+            }
+          },
+          "tableHeader": {
+            "type": "table",
+            "basedOn": "tableDefault",
+            "data": {
+              "tblStylePr": [
+                {
+                  "type": "firstRow",
+                  "tcPr": {
+                    "shd": {
+                      "fill": "#F5F6F7"
+                    }
+                  }
+                },
+                {
+                  "type": "firstCol",
+                  "tcPr": {
+                    "shd": {
+                      "fill": "#F5F6F7"
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        "theme": [],
+        "settings": {
+          "titleCover": {
+            "isHide": true
+          }
+        },
+        "app": {},
+        "numberings": {},
+        "headers": {},
+        "body": [
+          "root",
+          {
+            "sectPr": {
+              "pgSz": {
+                "w": 892,
+                "h": 1127
+              },
+              "pgMar": {
+                "top": 48,
+                "bottom": 48,
+                "left": 72,
+                "right": 72,
+                "header": 56.73,
+                "footer": 66.13,
+                "gutter": 0
+              }
+            },
+            "theme": {
+              "table": {
+                "tableCell": {
+                  "vAlign": "top"
+                }
+              }
+            }
+          },
+          [
+            "p",
+            {
+              "uuid": "mmlnh6o4sff08jmgvdr"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 2.0\"",
+                    "cs": "\"Alibaba PuHuiTi 2.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 2.0\""
+                  },
+                  "data-type": "leaf"
+                },
+                "致各位商家伙伴："
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mmlnh6o551zd1ljhnta"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 2.0\"",
+                    "cs": "\"Alibaba PuHuiTi 2.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 2.0\""
+                  },
+                  "data-type": "leaf"
+                },
+                "阿里妈妈线索推广场景重磅上线全新优化目标——"
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 2.0\"",
+                    "cs": "\"Alibaba PuHuiTi 2.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 2.0\""
+                  },
+                  "data-type": "leaf"
+                },
+                "【提升高意向成交】"
+              ],
+              [
+                "span",
+                {
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 2.0\"",
+                    "cs": "\"Alibaba PuHuiTi 2.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 2.0\""
+                  },
+                  "data-type": "leaf"
+                },
+                "；智能识别高意向咨询人群，主动提纯客户池，显著提升咨询用户占比；深度归因“深度咨询”行为，精准定位离成交最近的优质线索，实现高效结案，达成咨询即种草，沟通即转化。"
+              ]
+            ]
+          ],
+          [
+            "h1",
+            {
+              "uuid": "mmlnh6o5ync0nsiiijp",
+              "spacing": {
+                "before": 32,
+                "after": 12,
+                "line": 0.9333333333333332
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 2.0\"",
+                    "cs": "\"Alibaba PuHuiTi 2.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 2.0\""
+                  },
+                  "sz": 21,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "一、功能详解：全流程升级，效果一目了然"
+              ]
+            ]
+          ],
+          [
+            "container",
+            {
+              "subType": "colorBlocks",
+              "metadata": {
+                "padding": {
+                  "top": 11,
+                  "right": 11,
+                  "bottom": 11,
+                  "left": 11
+                },
+                "borderRadius": 8,
+                "sticker": "气泡",
+                "bgcolor": "#FEF6E9",
+                "showstk": false,
+                "border": "#FFA344"
+              },
+              "uuid": "mmooykv6hoggcxv1pgp"
+            },
+            [
+              "p",
+              {
+                "uuid": "mmooykv6y1hne4xo7f",
+                "jc": "center"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "bold": true,
+                    "fonts": {
+                      "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                      "hAnsi": "\"Alibaba PuHuiTi 2.0\"",
+                      "cs": "\"Alibaba PuHuiTi 2.0\"",
+                      "eastAsia": "\"Alibaba PuHuiTi 2.0\""
+                    },
+                    "sz": 14,
+                    "szUnit": "pt",
+                    "data-type": "leaf"
+                  },
+                  "产品价值"
+                ]
+              ]
+            ],
+            [
+              "p",
+              {
+                "uuid": "mmop4o1dw021grhvbia"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "fonts": {
+                      "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                      "hAnsi": "\"Alibaba PuHuiTi 2.0\"",
+                      "cs": "\"Alibaba PuHuiTi 2.0\"",
+                      "eastAsia": "\"Alibaba PuHuiTi 2.0\""
+                    },
+                    "data-type": "leaf"
+                  },
+                  "数据显示，在线索推广场景下产生售前咨询的用户，其客单价与点击转化率（CVR）显著高于直接下单或未咨询人群，咨询不是成本，而是高价值的“种草”过程。【"
+                ],
+                [
+                  "span",
+                  {
+                    "bold": true,
+                    "fonts": {
+                      "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                      "hAnsi": "\"Alibaba PuHuiTi 2.0\"",
+                      "cs": "\"Alibaba PuHuiTi 2.0\"",
+                      "eastAsia": "\"Alibaba PuHuiTi 2.0\""
+                    },
+                    "data-type": "leaf"
+                  },
+                  "提升高意向成交】目标依托阿里妈妈独有的旺咨模型（强 CWR 交付能力），精准识别“售前”高意向人群，提升售前咨询人群占比，从而提升门店客单价及交易额"
+                ],
+                [
+                  "span",
+                  {
+                    "fonts": {
+                      "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                      "hAnsi": "\"Alibaba PuHuiTi 2.0\"",
+                      "cs": "\"Alibaba PuHuiTi 2.0\"",
+                      "eastAsia": "\"Alibaba PuHuiTi 2.0\""
+                    },
+                    "data-type": "leaf"
+                  },
+                  "；并通过定制化投放结案，向您清晰展示咨询带来的实际成交贡献，让您看到的每一个咨询数字，都是离成交更近一步的真实商机！"
+                ]
+              ]
+            ]
+          ],
+          [
+            "h3",
+            {
+              "spacing": {
+                "before": 24,
+                "after": 8.666666666666666,
+                "line": 0.9333333333333332
+              },
+              "uuid": "mmooqj0k21wquslzsja"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 2.0\"",
+                    "cs": "\"Alibaba PuHuiTi 2.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 2.0\""
+                  },
+                  "sz": 14.5,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "🚀 步骤一：计划创建——一键开启高意向模式"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "spacing": {},
+              "uuid": "mmooqvbpprj190go32s"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 2.0\"",
+                    "cs": "\"Alibaba PuHuiTi 2.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 2.0\""
+                  },
+                  "data-type": "leaf"
+                },
+                "在万相台无界版·线索推广新建计划时，您将在优化目标中看到全新选项：【提升高意向成交】\n系统提示：智能识别高意向售前人群，深度归因咨询对成交的贡献，适合高客单及定制类商品。"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "spacing": {},
+              "uuid": "mmopcw9wgwxswej18hl",
+              "jc": "center"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 2.0\"",
+                    "cs": "\"Alibaba PuHuiTi 2.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 2.0\""
+                  },
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ],
+            [
+              "img",
+              {
+                "uuid": "0xgusa",
+                "name": "image.png",
+                "size": 1977575,
+                "width": 609,
+                "height": 646,
+                "src": "/core/api/resources/img/5eecdaf48460cde527c9d15b614a347c8255428888423f9f75b8339e1c4c24831b75b38faadcd24bec177c308ebd530429a2fd0eaf8b33e0161ad1c82d498a9bcca312cba9108d06da6ff353141106b666b0cd644266a9894fb4c8ed7016461c",
+                "extraData": {
+                  "resourceId": "d14da2f7-b07a-47b3-84de-c8a1da5f55d2",
+                  "metaData": {
+                    "size": 1977575,
+                    "originWidth": 1378,
+                    "originHeight": 1462,
+                    "format": "png",
+                    "ratio": 1
+                  }
+                },
+                "rotation": 0
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 2.0\"",
+                    "cs": "\"Alibaba PuHuiTi 2.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 2.0\""
+                  },
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mmlnh6o6cdlf47lbver"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 2.0\"",
+                    "cs": "\"Alibaba PuHuiTi 2.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 2.0\""
+                  },
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "h3",
+            {
+              "uuid": "mmoorasaxdsc1s7h9xb",
+              "spacing": {
+                "before": 24,
+                "after": 8.666666666666666,
+                "line": 0.9333333333333332
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 2.0\"",
+                    "cs": "\"Alibaba PuHuiTi 2.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 2.0\""
+                  },
+                  "sz": 14.5,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "📊 步骤二：投后结案——专属报告，见证价值闭环"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mmoorf29p8hbwic97p",
+              "spacing": {}
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 2.0\"",
+                    "cs": "\"Alibaba PuHuiTi 2.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 2.0\""
+                  },
+                  "data-type": "leaf"
+                },
+                "对于该类型的计划，我们在计划列表页特别新增了"
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 2.0\"",
+                    "cs": "\"Alibaba PuHuiTi 2.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 2.0\""
+                  },
+                  "data-type": "leaf"
+                },
+                "「投放结案」"
+              ],
+              [
+                "span",
+                {
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 2.0\"",
+                    "cs": "\"Alibaba PuHuiTi 2.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 2.0\""
+                  },
+                  "data-type": "leaf"
+                },
+                "按钮。点击即可从右侧弹出专属的深度分析报告，包含三大核心数据模块："
+              ]
+            ]
+          ],
+          [
+            "h5",
+            {
+              "uuid": "mmlnh6o6sml7d9f7ar",
+              "spacing": {
+                "before": 19.333333333333332,
+                "after": 8.666666666666666,
+                "line": 0.9333333333333332
+              },
+              "ind": {
+                "left": 32
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 2.0\"",
+                    "cs": "\"Alibaba PuHuiTi 2.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 2.0\""
+                  },
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "📈 模块一：场景优势验证——为什么选线索推广？"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mmlnh6o6gufftwzitvt",
+              "ind": {
+                "left": 32
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 2.0\"",
+                    "cs": "\"Alibaba PuHuiTi 2.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 2.0\""
+                  },
+                  "data-type": "leaf"
+                },
+                "数据对比：直观展示**「本计划咨询率」VS「行业大盘咨询率」**。\n核心洞察：数据将有力证明，通过线索推广专属模型触达的人群，其咨询意愿显著高于大盘平均水平。\n话术引导：“看，我们的算法帮您找到了更爱‘开口问’的优质客户，这是成交的第一步。”"
+              ]
+            ]
+          ],
+          [
+            "h4",
+            {
+              "uuid": "mmoos337bn432jgtgkg",
+              "ind": {
+                "left": 32
+              },
+              "spacing": {
+                "before": 21.333333333333332,
+                "after": 8.666666666666666,
+                "line": 0.9333333333333332
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 2.0\"",
+                    "cs": "\"Alibaba PuHuiTi 2.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 2.0\""
+                  },
+                  "sz": 13.5,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "💰 模块二：人群价值深挖——咨询人群 vs 非咨询人群"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mmoos9h7ax985raad9a",
+              "ind": {
+                "firstLine": 32
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 2.0\"",
+                    "cs": "\"Alibaba PuHuiTi 2.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 2.0\""
+                  },
+                  "data-type": "leaf"
+                },
+                "多维对比：针对您所属类目，横向对比两类人群的核心指标：\n        触达规模：覆盖了多少潜在买家？\n        客单价 (AOV)：咨询人群的客单价通常高出 XX%（数据动态展示）。\n        点击转化率 (CVR)：咨询后的下单转化效率如何？\n        "
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 2.0\"",
+                    "cs": "\"Alibaba PuHuiTi 2.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 2.0\""
+                  },
+                  "data-type": "leaf"
+                },
+                "核心洞察：用真实数据打破“咨询无效论”，证明咨询是提升客单价和转化率的关键杠杆。"
+              ]
+            ]
+          ],
+          [
+            "h4",
+            {
+              "uuid": "mmoosq4s1qxivkhqltl",
+              "ind": {
+                "firstLine": 32
+              },
+              "spacing": {
+                "before": 21.333333333333332,
+                "after": 8.666666666666666,
+                "line": 0.9333333333333332
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 2.0\"",
+                    "cs": "\"Alibaba PuHuiTi 2.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 2.0\""
+                  },
+                  "sz": 13.5,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "🛒 模块三：成交归因实录——咨询带来的真金白银"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mmoosz0gl0ymitqzcd",
+              "ind": {
+                "firstLine": 32
+              },
+              "spacing": {}
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 2.0\"",
+                    "cs": "\"Alibaba PuHuiTi 2.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 2.0\""
+                  },
+                  "data-type": "leaf"
+                },
+                "追踪周期：聚焦最近 15 天的转化表现。\n        核心指标：展示亿触达的售前咨询人群在该类目下的最终成交行为：💵 总成交金额 (GMV)"
+              ],
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "、"
+              ],
+              [
+                "span",
+                {
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 2.0\"",
+                    "cs": "\"Alibaba PuHuiTi 2.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 2.0\""
+                  },
+                  "data-type": "leaf"
+                },
+                "🧾 成交            笔数"
+              ],
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "、"
+              ],
+              [
+                "span",
+                {
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 2.0\"",
+                    "cs": "\"Alibaba PuHuiTi 2.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 2.0\""
+                  },
+                  "data-type": "leaf"
+                },
+                "👥 成交人数"
+              ],
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "、"
+              ],
+              [
+                "span",
+                {
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 2.0\"",
+                    "cs": "\"Alibaba PuHuiTi 2.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 2.0\""
+                  },
+                  "data-type": "leaf"
+                },
+                "🏷️ 最终客单价\n"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mmoouovv8zmag0e05np",
+              "ind": {
+                "firstLine": 32
+              },
+              "spacing": {}
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 2.0\"",
+                    "cs": "\"Alibaba PuHuiTi 2.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 2.0\""
+                  },
+                  "data-type": "leaf"
+                },
+                "核心洞察："
+              ],
+              [
+                "span",
+                {
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 2.0\"",
+                    "cs": "\"Alibaba PuHuiTi 2.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 2.0\""
+                  },
+                  "data-type": "leaf"
+                },
+                "直接展示“咨询人群在同类目下竞品店铺的成交情况”，基于售前咨询人群的成交价值，优           化门店客服承接话术及效率，提升门店成交效率及交易额。"
+              ]
+            ]
+          ],
+          [
+            "table",
+            {
+              "colsWidth": [
+                50,
+                50
+              ],
+              "tblW": {
+                "w": 100,
+                "type": "pct"
+              },
+              "uuid": "mmopis6xlk6ru31akao",
+              "styleId": "tableHeader",
+              "tblLook": {
+                "firstRow": 1,
+                "firstColumn": 0,
+                "lastRow": 0,
+                "lastColumn": 0
+              }
+            },
+            [
+              "tr",
+              {
+                "uuid": "mmopis6xy69rvp330e",
+                "isTblHeader": true
+              },
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mmopis6xuch83wy6uve"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mmopis6x1whlukygsdh",
+                    "jc": "center"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "fonts": {
+                          "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                          "hAnsi": "\"Alibaba PuHuiTi 2.0\"",
+                          "cs": "\"Alibaba PuHuiTi 2.0\"",
+                          "eastAsia": "\"Alibaba PuHuiTi 2.0\""
+                        },
+                        "color": "#E03E3E",
+                        "data-type": "leaf"
+                      },
+                      "报表入口（必看！！！）"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mmopis6x1y0n70gj61b"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mmopis6x55ef2lwnw19",
+                    "jc": "center"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "fonts": {
+                          "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                          "hAnsi": "\"Alibaba PuHuiTi 2.0\"",
+                          "cs": "\"Alibaba PuHuiTi 2.0\"",
+                          "eastAsia": "\"Alibaba PuHuiTi 2.0\""
+                        },
+                        "color": "#E03E3E",
+                        "data-type": "leaf"
+                      },
+                      "报表解读（必看！！！）"
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {
+                "uuid": "mmopis6xeajxjbqvmkn"
+              },
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mmopis6xo03qir9im59"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mmopis6xo5ltkwm1h2"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "fonts": {
+                          "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                          "hAnsi": "\"Alibaba PuHuiTi 2.0\"",
+                          "cs": "\"Alibaba PuHuiTi 2.0\"",
+                          "eastAsia": "\"Alibaba PuHuiTi 2.0\""
+                        },
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ],
+                  [
+                    "img",
+                    {
+                      "uuid": "mmopj6qls85m1iydo3",
+                      "name": "image.png",
+                      "size": 254162,
+                      "width": 900.62,
+                      "height": 200,
+                      "src": "/core/api/resources/img/5eecdaf48460cde5b0892d1baf20d0357a2709da5639261f75b8339e1c4c24831b75b38faadcd24bec177c308ebd5304888b5916f2bebd5bf6321162417a7f88393946e0d74fc9b581f01d6f20d240572e70881783f8170d4fb4c8ed7016461c",
+                      "extraData": {
+                        "resourceId": "eca053e0-d8ba-48d9-a77c-035af0e30cef",
+                        "metaData": {
+                          "size": 254162,
+                          "originWidth": 1441,
+                          "originHeight": 320,
+                          "format": "png",
+                          "ratio": 1
+                        }
+                      }
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "leaf"
+                        },
+                        ""
+                      ]
+                    ]
+                  ],
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "fonts": {
+                          "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                          "hAnsi": "\"Alibaba PuHuiTi 2.0\"",
+                          "cs": "\"Alibaba PuHuiTi 2.0\"",
+                          "eastAsia": "\"Alibaba PuHuiTi 2.0\""
+                        },
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mmopis6xlg1vxuhynrh"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mmopis6x7g5jertewu"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "fonts": {
+                          "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                          "hAnsi": "\"Alibaba PuHuiTi 2.0\"",
+                          "cs": "\"Alibaba PuHuiTi 2.0\"",
+                          "eastAsia": "\"Alibaba PuHuiTi 2.0\""
+                        },
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ],
+                  [
+                    "img",
+                    {
+                      "uuid": "mmopj35zjmz011ppsc",
+                      "name": "image.png",
+                      "size": 1050805,
+                      "width": 748,
+                      "height": 578.9604519774011,
+                      "src": "/core/api/resources/img/5eecdaf48460cde527c9d15b614a347c8255428888423f9f75b8339e1c4c24831b75b38faadcd24bec177c308ebd5304f8e5e64d5f7015f21d9b9859e1dce840976edf82e6eb11d9b66d5106484df374bfb83df3ac5bf7e74fb4c8ed7016461c",
+                      "extraData": {
+                        "resourceId": "23a7602c-6ec3-4479-92d9-d11e0107b2c5",
+                        "metaData": {
+                          "size": 1050805,
+                          "originWidth": 1416,
+                          "originHeight": 1096,
+                          "format": "png",
+                          "ratio": 1
+                        }
+                      }
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "data-type": "leaf"
+                        },
+                        ""
+                      ]
+                    ]
+                  ],
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "fonts": {
+                          "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                          "hAnsi": "\"Alibaba PuHuiTi 2.0\"",
+                          "cs": "\"Alibaba PuHuiTi 2.0\"",
+                          "eastAsia": "\"Alibaba PuHuiTi 2.0\""
+                        },
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ]
+                ]
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mmoous0mfqv5kvwr9h",
+              "ind": {},
+              "spacing": {}
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 2.0\"",
+                    "cs": "\"Alibaba PuHuiTi 2.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 2.0\""
+                  },
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "h1",
+            {
+              "uuid": "mmoout2uw9ir32kyhmf",
+              "ind": {},
+              "spacing": {
+                "before": 32,
+                "after": 12,
+                "line": 0.9333333333333332
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 2.0\"",
+                    "cs": "\"Alibaba PuHuiTi 2.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 2.0\""
+                  },
+                  "sz": 21,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "三、给商家的行动建议"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mmoouuzg5x5q1vn01c7",
+              "ind": {},
+              "spacing": {}
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 2.0\"",
+                    "cs": "\"Alibaba PuHuiTi 2.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 2.0\""
+                  },
+                  "data-type": "leaf"
+                },
+                "🌟 谁应该立即尝试？"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mmlnh6o73ecju26m7ku",
+              "ind": {
+                "left": 0
+              },
+              "list": {
+                "listId": "uc0e2j5ym6e",
+                "level": 0,
+                "isTaskList": false,
+                "isOrdered": false,
+                "listStyleType": "SCIR_ECIR_SREC",
+                "symbolStyle": {
+                  "fonts": "\"Alibaba PuHuiTi 2.0\""
+                },
+                "listStyle": {
+                  "format": "bullet",
+                  "text": "●",
+                  "align": "left"
+                }
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 2.0\"",
+                    "cs": "\"Alibaba PuHuiTi 2.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 2.0\""
+                  },
+                  "data-type": "leaf"
+                },
+                "客单价较高，用户决策谨慎的行业（家装、建材、大家电）。"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mmop6rhyfdjwzepd7w",
+              "ind": {
+                "left": 0
+              },
+              "list": {
+                "listId": "uc0e2j5ym6e",
+                "level": 0,
+                "isTaskList": false,
+                "isOrdered": false,
+                "listStyleType": "SCIR_ECIR_SREC",
+                "symbolStyle": {
+                  "fonts": "\"Alibaba PuHuiTi 2.0\""
+                },
+                "listStyle": {
+                  "format": "bullet",
+                  "text": "●",
+                  "align": "left"
+                },
+                "extraData": {},
+                "isChecked": false,
+                "hideSymbol": false
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 2.0\"",
+                    "cs": "\"Alibaba PuHuiTi 2.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 2.0\""
+                  },
+                  "data-type": "leaf"
+                },
+                "服务非标、需要深度沟通定制方案的行业（教育培训、定制行业、本地生活）。"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mmop6t1567ou34puhbc",
+              "ind": {
+                "left": 0
+              },
+              "list": {
+                "listId": "uc0e2j5ym6e",
+                "level": 0,
+                "isTaskList": false,
+                "isOrdered": false,
+                "listStyleType": "SCIR_ECIR_SREC",
+                "symbolStyle": {
+                  "fonts": "\"Alibaba PuHuiTi 2.0\""
+                },
+                "listStyle": {
+                  "format": "bullet",
+                  "text": "●",
+                  "align": "left"
+                },
+                "extraData": {},
+                "isChecked": false,
+                "hideSymbol": false
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 2.0\"",
+                    "cs": "\"Alibaba PuHuiTi 2.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 2.0\""
+                  },
+                  "data-type": "leaf"
+                },
+                "目前面临“有咨询无成交”困惑，急需验证推广效果的商家。"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mmop6ipoi13y1cok9dc"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 2.0\"",
+                    "cs": "\"Alibaba PuHuiTi 2.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 2.0\""
+                  },
+                  "data-type": "leaf"
+                },
+                "💡 运营小贴士："
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mmop7jpqy3f3fz2u2w",
+              "ind": {
+                "left": 0
+              },
+              "list": {
+                "listId": "t7ydv5zleq",
+                "level": 0,
+                "isTaskList": false,
+                "isOrdered": false,
+                "listStyleType": "SCIR_ECIR_SREC",
+                "symbolStyle": {
+                  "fonts": "\"Alibaba PuHuiTi 2.0\""
+                },
+                "listStyle": {
+                  "format": "bullet",
+                  "text": "●",
+                  "align": "left"
+                }
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 2.0\"",
+                    "cs": "\"Alibaba PuHuiTi 2.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 2.0\""
+                  },
+                  "data-type": "leaf"
+                },
+                "配合客服承接："
+              ],
+              [
+                "span",
+                {
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 2.0\"",
+                    "cs": "\"Alibaba PuHuiTi 2.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 2.0\""
+                  },
+                  "data-type": "leaf"
+                },
+                "开启此目标后，流量会更偏向“爱问的人”，请确保您的客服团队响应速度和专业度，接住这波高意向流量。"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mmop7oq3aykz7o9o2y4",
+              "ind": {
+                "left": 0
+              },
+              "list": {
+                "listId": "t7ydv5zleq",
+                "level": 0,
+                "isTaskList": false,
+                "isOrdered": false,
+                "listStyleType": "SCIR_ECIR_SREC",
+                "symbolStyle": {
+                  "fonts": "\"Alibaba PuHuiTi 2.0\""
+                },
+                "listStyle": {
+                  "format": "bullet",
+                  "text": "●",
+                  "align": "left"
+                },
+                "extraData": {},
+                "isChecked": false,
+                "hideSymbol": false
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 2.0\"",
+                    "cs": "\"Alibaba PuHuiTi 2.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 2.0\""
+                  },
+                  "data-type": "leaf"
+                },
+                "关注结案报告："
+              ],
+              [
+                "span",
+                {
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 2.0\"",
+                    "cs": "\"Alibaba PuHuiTi 2.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 2.0\""
+                  },
+                  "data-type": "leaf"
+                },
+                "不要只看计划投放数据，务必查看「投放结案」中的售前咨询人群近15天成交数据，你会发现长尾转化的惊喜。"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mmop8n1vkt5k1fjw0ac",
+              "ind": {
+                "left": 0
+              },
+              "list": {
+                "listId": "t7ydv5zleq",
+                "level": 0,
+                "isTaskList": false,
+                "isOrdered": false,
+                "listStyleType": "SCIR_ECIR_SREC",
+                "symbolStyle": {
+                  "fonts": "\"Alibaba PuHuiTi 2.0\""
+                },
+                "listStyle": {
+                  "format": "bullet",
+                  "text": "●",
+                  "align": "left"
+                },
+                "extraData": {},
+                "isChecked": false,
+                "hideSymbol": false
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 2.0\"",
+                    "cs": "\"Alibaba PuHuiTi 2.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 2.0\""
+                  },
+                  "data-type": "leaf"
+                },
+                "大胆扩量："
+              ],
+              [
+                "span",
+                {
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 2.0\"",
+                    "cs": "\"Alibaba PuHuiTi 2.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 2.0\""
+                  },
+                  "data-type": "leaf"
+                },
+                "一旦验证了“咨询->成交”的正向循环，请果断增加预算。线索推广的优势在于能"
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 2.0\"",
+                    "cs": "\"Alibaba PuHuiTi 2.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 2.0\""
+                  },
+                  "data-type": "leaf"
+                },
+                "依托阿里妈妈独有的旺咨模型（强 CWR 交付能力）"
+              ],
+              [
+                "span",
+                {
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 2.0\"",
+                    "cs": "\"Alibaba PuHuiTi 2.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 2.0\""
+                  },
+                  "data-type": "leaf"
+                },
+                "在全域流量挖掘“具备咨询意愿及强购买力”的客户。"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mmopas169l9q7kf9m1g",
+              "ind": {
+                "left": 0
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 2.0\"",
+                    "cs": "\"Alibaba PuHuiTi 2.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 2.0\""
+                  },
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mmopaxfq02yxsnlnnj3l",
+              "ind": {
+                "left": 0
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 2.0\"",
+                    "cs": "\"Alibaba PuHuiTi 2.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 2.0\""
+                  },
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mmlnh6o7vi0n4e0b2be"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 2.0\"",
+                    "cs": "\"Alibaba PuHuiTi 2.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 2.0\""
+                  },
+                  "data-type": "leaf"
+                },
+                "在存量竞争时代，“聊出来”的生意往往比“搜出来”的生意更稳固、客单更高。"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mmlnh6o7xurhehdjnja"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 2.0\"",
+                    "cs": "\"Alibaba PuHuiTi 2.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 2.0\""
+                  },
+                  "data-type": "leaf"
+                },
+                "阿里妈妈线索推广【提升高意向成交】目标，愿做您生意增长的加速器。让我们用数据说话，让每一次真诚的沟通，都转化为实实在在的订单！"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mmlnh6o73lvvnexr2t2"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "fonts": {
+                    "ascii": "\"Alibaba PuHuiTi 2.0\"",
+                    "hAnsi": "\"Alibaba PuHuiTi 2.0\"",
+                    "cs": "\"Alibaba PuHuiTi 2.0\"",
+                    "eastAsia": "\"Alibaba PuHuiTi 2.0\""
+                  },
+                  "data-type": "leaf"
+                },
+                "👉 立即登录万相台无界版，新建计划，选择【提升高意向成交】，开启您的高质增长之旅！"
+              ]
+            ]
+          ]
+        ],
+        "footers": {},
+        "version": 1
+      },
+      "refs": {}
+    }
+  }
+}

@@ -1,0 +1,3595 @@
+{
+  "version": 1,
+  "type": "application/x-alidocs-package",
+  "main": "00000000-0000-0000-0000-000000000001",
+  "plugins": "00000000-0000-0000-0000-000000000002",
+  "parts": {
+    "00000000-0000-0000-0000-000000000001": {
+      "id": "00000000-0000-0000-0000-000000000001",
+      "type": "application/x-alidocs-word",
+      "version": 1,
+      "data": {
+        "style": {
+          "docDefaults": {
+            "type": "paragraph",
+            "default": 1,
+            "name": "dingdocnormal",
+            "data": {
+              "rPr": {
+                "sz": 12,
+                "szUnit": "pt"
+              },
+              "pPr": {
+                "spacing": {
+                  "before": 12,
+                  "after": 12
+                }
+              }
+            }
+          },
+          "tableDefault": {
+            "type": "table",
+            "data": {
+              "tblPr": {
+                "bdr": {
+                  "bottom": {
+                    "color": "#D6D6D6",
+                    "space": 0,
+                    "sz": 1,
+                    "val": "single"
+                  },
+                  "insideH": {
+                    "color": "#D6D6D6",
+                    "space": 0,
+                    "sz": 1,
+                    "val": "single"
+                  },
+                  "insideV": {
+                    "color": "#D6D6D6",
+                    "space": 0,
+                    "sz": 1,
+                    "val": "single"
+                  },
+                  "left": {
+                    "color": "#D6D6D6",
+                    "space": 0,
+                    "sz": 1,
+                    "val": "single"
+                  },
+                  "right": {
+                    "color": "#D6D6D6",
+                    "space": 0,
+                    "sz": 1,
+                    "val": "single"
+                  },
+                  "top": {
+                    "color": "#D6D6D6",
+                    "space": 0,
+                    "sz": 1,
+                    "val": "single"
+                  }
+                }
+              }
+            }
+          },
+          "tableHeader": {
+            "type": "table",
+            "basedOn": "tableDefault",
+            "data": {
+              "tblStylePr": [
+                {
+                  "type": "firstRow",
+                  "tcPr": {
+                    "shd": {
+                      "fill": "#F5F6F7"
+                    }
+                  }
+                },
+                {
+                  "type": "firstCol",
+                  "tcPr": {
+                    "shd": {
+                      "fill": "#F5F6F7"
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        "theme": [],
+        "settings": {
+          "titleCover": {
+            "isHide": true
+          }
+        },
+        "app": {},
+        "numberings": {},
+        "headers": {},
+        "body": [
+          "root",
+          {
+            "sectPr": {
+              "pgSz": {
+                "w": 892,
+                "h": 1127
+              },
+              "pgMar": {
+                "top": 48,
+                "bottom": 48,
+                "left": 72,
+                "right": 72,
+                "header": 56.73,
+                "footer": 66.13,
+                "gutter": 0
+              }
+            },
+            "theme": {
+              "table": {
+                "tableCell": {
+                  "vAlign": "top"
+                }
+              }
+            }
+          },
+          [
+            "table",
+            {
+              "colsWidth": [
+                94,
+                140,
+                270
+              ],
+              "uuid": "mm5qi83oakoh1049r56",
+              "styleId": "tableHeader",
+              "tblLook": {
+                "firstRow": 1,
+                "firstColumn": 0,
+                "lastRow": 0,
+                "lastColumn": 0
+              },
+              "tblW": {
+                "w": 100,
+                "type": "pct"
+              }
+            },
+            [
+              "tr",
+              {
+                "uuid": "mm5t1l00pcwodiugpqq",
+                "isTblHeader": true,
+                "h": 46
+              },
+              [
+                "tc",
+                {
+                  "fill": "#F5F6F7",
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mm5t1l00dnoosyd0ln",
+                  "vAlign": "middle"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mm5t1l00w0d8s6p0y0i",
+                    "jc": "center"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "fonts": {
+                          "ascii": "\"Alibaba PuHuiTi 3.0\"",
+                          "hAnsi": "\"Alibaba PuHuiTi 3.0\"",
+                          "cs": "\"Alibaba PuHuiTi 3.0\"",
+                          "eastAsia": "\"Alibaba PuHuiTi 3.0\""
+                        },
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "",
+                        "data-type": "leaf"
+                      },
+                      "问题类型"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mm5t1l00unyb0loovx",
+                  "vAlign": "middle",
+                  "fill": "#F5F6F7"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mm5t1l00o3704jn58ge",
+                    "jc": "center"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "fonts": {
+                          "ascii": "\"Alibaba PuHuiTi 3.0\"",
+                          "hAnsi": "\"Alibaba PuHuiTi 3.0\"",
+                          "cs": "\"Alibaba PuHuiTi 3.0\"",
+                          "eastAsia": "\"Alibaba PuHuiTi 3.0\""
+                        },
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "",
+                        "data-type": "leaf"
+                      },
+                      "新手推广常见问题"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mm5t1l00fuweriu9lik",
+                  "vAlign": "middle",
+                  "fill": "#F5F6F7"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mm5t1l007b2v5lv36gg",
+                    "jc": "center"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "fonts": {
+                          "ascii": "\"Alibaba PuHuiTi 3.0\"",
+                          "hAnsi": "\"Alibaba PuHuiTi 3.0\"",
+                          "cs": "\"Alibaba PuHuiTi 3.0\"",
+                          "eastAsia": "\"Alibaba PuHuiTi 3.0\""
+                        },
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "",
+                        "data-type": "leaf"
+                      },
+                      "答疑"
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {
+                "uuid": "mm5t1l00btaxk7400aj"
+              },
+              [
+                "tc",
+                {
+                  "rowSpan": 1,
+                  "colSpan": 1,
+                  "uuid": "mm5t1l00hw9f9adku8",
+                  "vAlign": "middle"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mm5t1l00orcyfvbh13",
+                    "jc": "center"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "",
+                        "data-type": "leaf"
+                      },
+                      "趋势明星"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "rowSpan": 1,
+                  "colSpan": 1,
+                  "uuid": "mm5t1l00g35ri7tufh",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mm5t1l00actkv9whq8u"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "",
+                        "data-type": "leaf"
+                      },
+                      "趋势明星计划下的词/词包带有的符号代表什么含义？"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mm5t1l00sb1suz590u",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mm5t1l00ifbgiudp5f",
+                    "ind": {
+                      "left": 0
+                    },
+                    "list": {
+                      "listId": "kmvzc0m0m4",
+                      "level": 0,
+                      "isTaskList": false,
+                      "isOrdered": false,
+                      "listStyleType": "SCIR_ECIR_SREC",
+                      "symbolStyle": {
+                        "sz": 11,
+                        "color": ""
+                      },
+                      "listStyle": {
+                        "format": "bullet",
+                        "text": "●",
+                        "align": "left"
+                      }
+                    }
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "",
+                        "data-type": "leaf"
+                      },
+                      "关键词带有*号的表示是趋势热点词包。趋势热点词包设置了单独的跑量通道，增强了热点拿量能力；但是如果热点消退造成拿量效果不好，可以关闭；手动添加的词包带有#号，以“连衣裙”为例："
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "uuid": "mm5t1l00ek7artasw8f",
+                    "ind": {
+                      "left": 0
+                    },
+                    "list": {
+                      "listId": "kmvzc0m0m4",
+                      "level": 1,
+                      "isTaskList": false,
+                      "isOrdered": false,
+                      "listStyleType": "SCIR_ECIR_SREC",
+                      "symbolStyle": {
+                        "sz": 11,
+                        "color": ""
+                      },
+                      "listStyle": {
+                        "format": "bullet",
+                        "text": "○",
+                        "align": "left"
+                      },
+                      "extraData": {},
+                      "isChecked": false,
+                      "hideSymbol": false
+                    }
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 10,
+                        "szUnit": "pt",
+                        "color": "",
+                        "data-type": "leaf"
+                      },
+                      "趋势主题词包： *连衣裙*"
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "uuid": "mm5t1l00t6kzugp9zgg",
+                    "ind": {
+                      "left": 0
+                    },
+                    "list": {
+                      "listId": "kmvzc0m0m4",
+                      "level": 1,
+                      "isTaskList": false,
+                      "isOrdered": false,
+                      "listStyleType": "SCIR_ECIR_SREC",
+                      "symbolStyle": {
+                        "sz": 11,
+                        "color": ""
+                      },
+                      "listStyle": {
+                        "format": "bullet",
+                        "text": "○",
+                        "align": "left"
+                      },
+                      "extraData": {},
+                      "isChecked": false,
+                      "hideSymbol": false
+                    }
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 10,
+                        "szUnit": "pt",
+                        "color": "",
+                        "data-type": "leaf"
+                      },
+                      "手动添加的关键词：连衣裙"
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "uuid": "mm5t1l001jnimevk0c1",
+                    "ind": {
+                      "left": 0
+                    },
+                    "list": {
+                      "listId": "kmvzc0m0m4",
+                      "level": 1,
+                      "isTaskList": false,
+                      "isOrdered": false,
+                      "listStyleType": "SCIR_ECIR_SREC",
+                      "symbolStyle": {
+                        "sz": 11,
+                        "color": ""
+                      },
+                      "listStyle": {
+                        "format": "bullet",
+                        "text": "○",
+                        "align": "left"
+                      },
+                      "extraData": {},
+                      "isChecked": false,
+                      "hideSymbol": false
+                    }
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 10,
+                        "szUnit": "pt",
+                        "color": "",
+                        "data-type": "leaf"
+                      },
+                      "手动添加的词包：#连衣裙#"
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {
+                "uuid": "mm5t1l00jku92eye13"
+              },
+              [
+                "tc",
+                {
+                  "rowSpan": 1,
+                  "colSpan": 1,
+                  "uuid": "mm5t1l00f1ijfhb06gf",
+                  "vAlign": "middle"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mm5t1l00ccf64qz722t",
+                    "jc": "center"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "",
+                        "data-type": "leaf"
+                      },
+                      "关键词标签"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "rowSpan": 1,
+                  "colSpan": 1,
+                  "uuid": "mm5t1l00tsm95nga26b",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mm5t1l00u3qhs2x6zu"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "",
+                        "data-type": "leaf"
+                      },
+                      "关键词推广前面的方框标签选择之后有什么用？"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mm5t1l00haaezpx54n",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mm5t1l00syexouaxum",
+                    "ind": {
+                      "left": 0
+                    },
+                    "list": {
+                      "listId": "8keaia2noa4",
+                      "level": 0,
+                      "isTaskList": false,
+                      "isOrdered": false,
+                      "listStyleType": "SCIR_ECIR_SREC",
+                      "symbolStyle": {
+                        "sz": 11,
+                        "color": ""
+                      },
+                      "listStyle": {
+                        "format": "bullet",
+                        "text": "●",
+                        "align": "left"
+                      }
+                    }
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "",
+                        "data-type": "leaf"
+                      },
+                      "关键词推广计划中关键词前面有3个标签（核心/优化/重点），这个功能可以帮助您对计划中宝贝的关键词打标签（与关键词推广效果无关），并快速查看关键词当前标签状态以及数据情况"
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "uuid": "mm5t1l00mlihkgee3o",
+                    "ind": {
+                      "left": 0
+                    },
+                    "list": {
+                      "listId": "8keaia2noa4",
+                      "level": 1,
+                      "isTaskList": false,
+                      "isOrdered": false,
+                      "listStyleType": "SCIR_ECIR_SREC",
+                      "symbolStyle": {
+                        "sz": 11,
+                        "color": ""
+                      },
+                      "listStyle": {
+                        "format": "bullet",
+                        "text": "○",
+                        "align": "left"
+                      }
+                    }
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "",
+                        "data-type": "leaf"
+                      },
+                      "如何添加：选择计划进入，再选择单元，在关键词列表中的关键词前面即可看到该标签"
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "uuid": "mm5t1l00ziur09qitg",
+                    "ind": {
+                      "left": 0
+                    },
+                    "list": {
+                      "listId": "8keaia2noa4",
+                      "level": 1,
+                      "isTaskList": false,
+                      "isOrdered": false,
+                      "listStyleType": "SCIR_ECIR_SREC",
+                      "symbolStyle": {
+                        "sz": 11,
+                        "color": ""
+                      },
+                      "listStyle": {
+                        "format": "bullet",
+                        "text": "○",
+                        "align": "left"
+                      },
+                      "extraData": {},
+                      "isChecked": false,
+                      "hideSymbol": false
+                    }
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "",
+                        "data-type": "leaf"
+                      },
+                      "关键词标签添加的操作路径：勾选关键词后，点击上方的“添加标签”，选择“核心/优化重点”，点确定"
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {
+                "uuid": "mm5t1l00pg5j15xepwq"
+              },
+              [
+                "tc",
+                {
+                  "rowSpan": 1,
+                  "colSpan": 1,
+                  "uuid": "mm5t1l0074apnou867o",
+                  "vAlign": "middle"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mm5t1l00nin0fpz9pq9",
+                    "jc": "center"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "",
+                        "data-type": "leaf"
+                      },
+                      "出价目标"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "rowSpan": 1,
+                  "colSpan": 1,
+                  "uuid": "mm5t1l00dh55nxpsm4l",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mm5t1l00yy1lb0t22w"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "",
+                        "data-type": "leaf"
+                      },
+                      "自定义推广的智能出价下的各种出价目标的具体含义？"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mm5t1l00j9a1ofk4e9",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mm5t1l00hsr0zhm1co7",
+                    "ind": {
+                      "left": 0
+                    },
+                    "list": {
+                      "listId": "cib8anavyqw",
+                      "level": 0,
+                      "isTaskList": false,
+                      "isOrdered": false,
+                      "listStyleType": "SCIR_ECIR_SREC",
+                      "symbolStyle": {
+                        "sz": 11,
+                        "color": ""
+                      },
+                      "listStyle": {
+                        "format": "bullet",
+                        "text": "●",
+                        "align": "left"
+                      }
+                    }
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "",
+                        "data-type": "leaf"
+                      },
+                      "获取成交量：支持设置成交成本，预算范围内最大化获取成交量"
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "uuid": "mm5t1l00bs1eznpyc6t",
+                    "ind": {
+                      "left": 0
+                    },
+                    "list": {
+                      "listId": "cib8anavyqw",
+                      "level": 0,
+                      "isTaskList": false,
+                      "isOrdered": false,
+                      "listStyleType": "SCIR_ECIR_SREC",
+                      "symbolStyle": {
+                        "sz": 11,
+                        "color": ""
+                      },
+                      "listStyle": {
+                        "format": "bullet",
+                        "text": "●",
+                        "align": "left"
+                      }
+                    }
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "",
+                        "data-type": "leaf"
+                      },
+                      "稳定投产比：支持设置ROI目标，系统会尽可能优化7日ROI在您预期范围轻微浮动"
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "uuid": "mm5t1l00isaw3uaodo",
+                    "ind": {
+                      "left": 0
+                    },
+                    "list": {
+                      "listId": "cib8anavyqw",
+                      "level": 0,
+                      "isTaskList": false,
+                      "isOrdered": false,
+                      "listStyleType": "SCIR_ECIR_SREC",
+                      "symbolStyle": {
+                        "sz": 11,
+                        "color": ""
+                      },
+                      "listStyle": {
+                        "format": "bullet",
+                        "text": "●",
+                        "align": "left"
+                      }
+                    }
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "",
+                        "data-type": "leaf"
+                      },
+                      "增加收藏加购量：支持设置收藏加购成本，预算范围内最大化获取收藏加购量"
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "uuid": "mm5t1l006ji51dj4g4k",
+                    "ind": {
+                      "left": 0
+                    },
+                    "list": {
+                      "listId": "cib8anavyqw",
+                      "level": 0,
+                      "isTaskList": false,
+                      "isOrdered": false,
+                      "listStyleType": "SCIR_ECIR_SREC",
+                      "symbolStyle": {
+                        "sz": 11,
+                        "color": ""
+                      },
+                      "listStyle": {
+                        "format": "bullet",
+                        "text": "●",
+                        "align": "left"
+                      }
+                    }
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "",
+                        "data-type": "leaf"
+                      },
+                      "增加点击量：支持设置点击成本，预算范围内最大化获取点击量"
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "uuid": "mm5t1l00vodr3yclev",
+                    "ind": {
+                      "left": 0
+                    },
+                    "list": {
+                      "listId": "cib8anavyqw",
+                      "level": 0,
+                      "isTaskList": false,
+                      "isOrdered": false,
+                      "listStyleType": "SCIR_ECIR_SREC",
+                      "symbolStyle": {
+                        "sz": 11,
+                        "color": ""
+                      },
+                      "listStyle": {
+                        "format": "bullet",
+                        "text": "●",
+                        "align": "left"
+                      }
+                    }
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "",
+                        "data-type": "leaf"
+                      },
+                      "相似品跟投：将宝贝展示在指定商品附近，精准获取跟投商品的流量与人群，支持智能和自定义跟投"
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "uuid": "mm5t1l00my8kckj5xjs",
+                    "ind": {
+                      "left": 0
+                    },
+                    "list": {
+                      "listId": "cib8anavyqw",
+                      "level": 0,
+                      "isTaskList": false,
+                      "isOrdered": false,
+                      "listStyleType": "SCIR_ECIR_SREC",
+                      "symbolStyle": {
+                        "sz": 11,
+                        "color": ""
+                      },
+                      "listStyle": {
+                        "format": "bullet",
+                        "text": "●",
+                        "align": "left"
+                      }
+                    }
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "",
+                        "data-type": "leaf"
+                      },
+                      "提升词市场渗透：助力宝贝提升所选关键词的市场渗透率，更多流量份额，更大生意规模"
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {
+                "uuid": "mm5t1l003ui2z666k2m"
+              },
+              [
+                "tc",
+                {
+                  "rowSpan": 1,
+                  "colSpan": 1,
+                  "uuid": "mm5t1l00k2ohxo29h8",
+                  "vAlign": "middle"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mm5t1l00mbr0kzlpjbs",
+                    "jc": "center"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "",
+                        "data-type": "leaf"
+                      },
+                      "关键词设置"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "rowSpan": 1,
+                  "colSpan": 1,
+                  "uuid": "mm5t1l00r9fy6btxe5l",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mm5t1l00ozacvufa2l"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "",
+                        "data-type": "leaf"
+                      },
+                      "新建的关键词推广计划如何添加/修改关键词？"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mm5t1l00r8pgpit8l3t",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mm5t1l00b0u7bhbocnf",
+                    "ind": {
+                      "left": 0
+                    },
+                    "list": {
+                      "listId": "5lyrt5s9773",
+                      "level": 0,
+                      "isTaskList": false,
+                      "isOrdered": false,
+                      "listStyleType": "SCIR_ECIR_SREC",
+                      "symbolStyle": {
+                        "sz": 11,
+                        "color": ""
+                      },
+                      "listStyle": {
+                        "format": "bullet",
+                        "text": "●",
+                        "align": "left"
+                      }
+                    }
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "",
+                        "data-type": "leaf"
+                      },
+                      "操作流程：新建计划→自定义推广→自定义选品→添加商品→关键词设置"
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "uuid": "mm5t1l004mbv7nwzbbo",
+                    "ind": {
+                      "left": 0
+                    },
+                    "list": {
+                      "listId": "5lyrt5s9773",
+                      "level": 1,
+                      "isTaskList": false,
+                      "isOrdered": false,
+                      "listStyleType": "SCIR_ECIR_SREC",
+                      "symbolStyle": {
+                        "sz": 11,
+                        "color": ""
+                      },
+                      "listStyle": {
+                        "format": "bullet",
+                        "text": "○",
+                        "align": "left"
+                      },
+                      "extraData": {},
+                      "isChecked": false,
+                      "hideSymbol": false
+                    }
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "",
+                        "data-type": "leaf"
+                      },
+                      "步骤一：进入新建计划流程，营销目标选择“自定义推广”，选品方式选择“自定义选品”，再添加商品；>>直达关键词计划新建"
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "uuid": "mm5t1l00sxkxpoo3a3d",
+                    "ind": {
+                      "left": 0
+                    },
+                    "list": {
+                      "listId": "5lyrt5s9773",
+                      "level": 1,
+                      "isTaskList": false,
+                      "isOrdered": false,
+                      "listStyleType": "SCIR_ECIR_SREC",
+                      "symbolStyle": {
+                        "sz": 11,
+                        "color": ""
+                      },
+                      "listStyle": {
+                        "format": "bullet",
+                        "text": "○",
+                        "align": "left"
+                      },
+                      "extraData": {},
+                      "isChecked": false,
+                      "hideSymbol": false
+                    }
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "",
+                        "data-type": "leaf"
+                      },
+                      "步骤二：在「设置商品推广方案」模块有关键词设置功能，在【查看和添加关键词】前面的方框内勾选，即可看到小万选词和词包；提示：若看不到关键词设置功能，请检查步骤一的添加商品是否完成"
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "uuid": "mm5t1l00j1fegxypsur",
+                    "ind": {
+                      "left": 0
+                    },
+                    "list": {
+                      "listId": "5lyrt5s9773",
+                      "level": 1,
+                      "isTaskList": false,
+                      "isOrdered": false,
+                      "listStyleType": "SCIR_ECIR_SREC",
+                      "symbolStyle": {
+                        "sz": 11,
+                        "color": ""
+                      },
+                      "listStyle": {
+                        "format": "bullet",
+                        "text": "○",
+                        "align": "left"
+                      },
+                      "extraData": {},
+                      "isChecked": false,
+                      "hideSymbol": false
+                    }
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "",
+                        "data-type": "leaf"
+                      },
+                      "步骤三：若“小万选词”推荐的关键词无法满足您的诉求，您可以点【+更多关键词】进入，在左侧勾选关键词添加，右侧支持手动输入关键词添加；建议多使用推荐的关键词，帮助您抓住搜索热度上升趋势，提升曝光与销量"
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {
+                "uuid": "mm5t1l006mr7xivapo8"
+              },
+              [
+                "tc",
+                {
+                  "rowSpan": 1,
+                  "colSpan": 1,
+                  "uuid": "mm5t1l00yhfews3pqfp",
+                  "vAlign": "middle"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mm5t1l00nzd858hc1b",
+                    "jc": "center"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "",
+                        "data-type": "leaf"
+                      },
+                      "关键词设置"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "rowSpan": 1,
+                  "colSpan": 1,
+                  "uuid": "mm5t1l00w5fh9xwd54p",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mm5t1l00l1q44ahmj5"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "",
+                        "data-type": "leaf"
+                      },
+                      "哪些计划类型可添加关键词？"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mm5t1l00gykb19uhawk",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "list": {
+                      "listId": "6qzc5b02ydt",
+                      "isOrdered": false,
+                      "level": 0,
+                      "listStyle": {
+                        "format": "bullet",
+                        "text": "●",
+                        "align": "left"
+                      }
+                    },
+                    "uuid": "mm5t1l00lxvtgclwyhq"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": false,
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "",
+                        "data-type": "leaf"
+                      },
+                      "搜索卡位：支持手动添加关键词，可结合“小万选词”挖掘优质词，提升抢位效果"
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "list": {
+                      "listId": "6qzc5b02ydt",
+                      "isOrdered": false,
+                      "level": 0,
+                      "listStyle": {
+                        "format": "bullet",
+                        "text": "●",
+                        "align": "left"
+                      }
+                    },
+                    "uuid": "mm5t1l00l4jf2kz4q5"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": false,
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "",
+                        "data-type": "leaf"
+                      },
+                      "趋势明星：创建时暂不支持添加关键词，但创建完成后可在关键词列表中自主添加，适合趋势类商品冷启动加速"
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "list": {
+                      "listId": "6qzc5b02ydt",
+                      "isOrdered": false,
+                      "level": 0,
+                      "listStyle": {
+                        "format": "bullet",
+                        "text": "●",
+                        "align": "left"
+                      }
+                    },
+                    "uuid": "mm5t1l009grlyrrfemc"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": false,
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "",
+                        "data-type": "leaf"
+                      },
+                      "流量金卡：部分金卡类型支持添加关键词，但需以后台实际展示为准，且建好后无法修改或暂停"
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "list": {
+                      "listId": "6qzc5b02ydt",
+                      "isOrdered": false,
+                      "level": 0,
+                      "listStyle": {
+                        "format": "bullet",
+                        "text": "●",
+                        "align": "left"
+                      }
+                    },
+                    "uuid": "mm5t1l00yf51qqht0bs"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": false,
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "",
+                        "data-type": "leaf"
+                      },
+                      "自定义推广：支持关键词设置，适合上新冷启、精细化投放，可灵活选择出价方式和人群溢价"
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {
+                "uuid": "mm5t1l00c1zdsa7blck"
+              },
+              [
+                "tc",
+                {
+                  "rowSpan": 1,
+                  "colSpan": 1,
+                  "uuid": "mm5t1l00fj6hl8n778a",
+                  "vAlign": "middle"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mm5t1l00j4t1idioses",
+                    "jc": "center"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "",
+                        "data-type": "leaf"
+                      },
+                      "关键词设置"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "rowSpan": 1,
+                  "colSpan": 1,
+                  "uuid": "mm5t1l00qx86n9svqre",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mm5t1l00okuuacviufn"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "",
+                        "data-type": "leaf"
+                      },
+                      "如何添加关键词？"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mm5t1l009lorcgjbm3q",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "list": {
+                      "listId": "k7pz1t1ebf",
+                      "isOrdered": true,
+                      "level": 0,
+                      "listStyle": {
+                        "format": "bullet",
+                        "text": "●",
+                        "align": "left"
+                      }
+                    },
+                    "ind": {},
+                    "uuid": "mm5t1l00gpyzckkl9ip"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "rgb(51, 51, 51)",
+                        "data-type": "leaf"
+                      },
+                      "新建关键词推广计划时，进入"
+                    ]
+                  ],
+                  [
+                    "a",
+                    {
+                      "href": "https://one.alimama.com/index.html#!/main/index?bizCode=onebpSearch",
+                      "uuid": "mm5t1l00mmhrgf8eri9"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "text"
+                      },
+                      [
+                        "span",
+                        {
+                          "sz": 11,
+                          "szUnit": "pt",
+                          "data-type": "leaf"
+                        },
+                        "关键词推广入口"
+                      ]
+                    ]
+                  ],
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "rgb(51, 51, 51)",
+                        "data-type": "leaf"
+                      },
+                      "，在计划创建过程中添加关键词。需要注意的是，自定义推广计划中的智能选品和趋势明星计划，新建时暂不支持关键词设置，需创建完成后前往关键词列表补充添加。"
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "list": {
+                      "listId": "k7pz1t1ebf",
+                      "isOrdered": true,
+                      "level": 0,
+                      "listStyle": {
+                        "format": "bullet",
+                        "text": "●",
+                        "align": "left"
+                      }
+                    },
+                    "ind": {},
+                    "uuid": "mm5t1l00il0dkq6q7ji"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "rgb(51, 51, 51)",
+                        "data-type": "leaf"
+                      },
+                      "计划创建完成后，点击计划名称进入管理页，选择对应宝贝，进入“关键词列表”页面进行添加。路径为：点击计划名 → 宝贝名称 → 关键词列表页面，可直接复制关键词粘贴批量添加，但不支持多个宝贝同时批量添加关键词"
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {
+                "uuid": "mm5t1l00s6c9wkr4jfp"
+              },
+              [
+                "tc",
+                {
+                  "rowSpan": 1,
+                  "colSpan": 1,
+                  "uuid": "mm5t1l00lha0ulk23ss",
+                  "vAlign": "middle"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mm5t1l00kecwqj7rze",
+                    "jc": "center"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "",
+                        "data-type": "leaf"
+                      },
+                      "流量智选"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "rowSpan": 1,
+                  "colSpan": 1,
+                  "uuid": "mm5t1l00hb3jr8muul",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mm5t1l005wst89vc88l"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "",
+                        "data-type": "leaf"
+                      },
+                      "流量智选词包具体含义以及如何应用在推广中？"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mm5t1l00w9rz7zw2167",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "jc": "left",
+                    "ind": {
+                      "left": 0
+                    },
+                    "uuid": "mm5t1l00r69s58hi5y",
+                    "list": {
+                      "listId": "irpvb8m6zqj",
+                      "level": 0,
+                      "isTaskList": false,
+                      "isOrdered": false,
+                      "listStyleType": "SCIR_ECIR_SREC",
+                      "symbolStyle": {
+                        "color": "rgb(51, 51, 51)",
+                        "sz": 11
+                      },
+                      "listStyle": {
+                        "format": "bullet",
+                        "text": "●",
+                        "align": "left"
+                      }
+                    }
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "rgb(51, 51, 51)",
+                        "data-type": "leaf"
+                      },
+                      "流量智选词包是一种根据您的宝贝特征进行流量拓展的智能工具，能够触达自选词未覆盖的更多消费者搜索意图，同时支持开启关键词动态管理，帮助您更高效地获取潜在流量。它通过智能算法自动挖掘与您商品属性、类目、价格等特征匹配的优质关键词，如好词优选、捡漏词、类目优选等类型，实现精准流量扩展，提升推广效果"
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "jc": "left",
+                    "ind": {
+                      "left": 0
+                    },
+                    "uuid": "mm5t1l00b0l63izknsp",
+                    "list": {
+                      "listId": "irpvb8m6zqj",
+                      "level": 0,
+                      "isTaskList": false,
+                      "isOrdered": false,
+                      "listStyleType": "SCIR_ECIR_SREC",
+                      "symbolStyle": {
+                        "color": "rgb(51, 51, 51)",
+                        "sz": 11
+                      },
+                      "listStyle": {
+                        "format": "bullet",
+                        "text": "●",
+                        "align": "left"
+                      }
+                    }
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "rgb(51, 51, 51)",
+                        "data-type": "leaf"
+                      },
+                      "在推广中，您可以在关键词推广场景下开启流量智选词包功能，系统将自动为您匹配并投放高潜力关键词，尤其适合希望在不增加人工操作成本的前提下，拓展长尾流量、提升曝光与转化的商家。建议在投放过程中定期查看流量智选报告，分析优质词的表现数据，持续优化词包内容，实现更高效的流量获取与转化提升"
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {
+                "uuid": "mm5t1l0092urq0djvjo"
+              },
+              [
+                "tc",
+                {
+                  "rowSpan": 1,
+                  "colSpan": 1,
+                  "uuid": "mm5t1l009id7ef5cph",
+                  "vAlign": "middle"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mm5t1l00b80es7ye29i",
+                    "jc": "center"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "",
+                        "data-type": "leaf"
+                      },
+                      "关键词匹配方式"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "rowSpan": 1,
+                  "colSpan": 1,
+                  "uuid": "mm5t1l003nyj5yqik5m",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mm5t1l00r4u9esi52id"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "",
+                        "data-type": "leaf"
+                      },
+                      "关键词匹配方式的区别/含义，以及如何在推广中应用？"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mm5t1l00qovuvhdkr5",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mm5t1l001mp38c1h1hc",
+                    "ind": {
+                      "left": 0
+                    },
+                    "list": {
+                      "listId": "2mswe6gj9x",
+                      "level": 0,
+                      "isTaskList": false,
+                      "isOrdered": false,
+                      "listStyleType": "SCIR_ECIR_SREC",
+                      "symbolStyle": {
+                        "sz": 11,
+                        "color": ""
+                      },
+                      "listStyle": {
+                        "format": "bullet",
+                        "text": "●",
+                        "align": "left"
+                      }
+                    }
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "",
+                        "data-type": "leaf"
+                      },
+                      "自定义推广计划目前有两种匹配方式：广泛匹配和精确匹配"
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "uuid": "mm5t1l00exs57k6c89",
+                    "ind": {
+                      "left": 0
+                    },
+                    "list": {
+                      "listId": "2mswe6gj9x",
+                      "level": 1,
+                      "isTaskList": false,
+                      "isOrdered": false,
+                      "listStyleType": "SCIR_ECIR_SREC",
+                      "symbolStyle": {
+                        "sz": 11,
+                        "color": ""
+                      },
+                      "listStyle": {
+                        "format": "bullet",
+                        "text": "○",
+                        "align": "left"
+                      }
+                    }
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "",
+                        "data-type": "leaf"
+                      },
+                      "「广泛匹配」是指买家搜索词包含了您所设置的关键词或与其相关时，即使您并未设置这些词，您的推广宝贝也可能获得展现机会。广泛匹配有助于您得到更多的展示机会，拿到更多的流量，但流量会扩展出较多其他搜索词。注：广泛匹配适合用于需要拓展流量的小词，可以覆盖更多潜在用户群体。"
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "uuid": "mm5t1l006hf8qmdyrxw",
+                    "ind": {
+                      "left": 0
+                    },
+                    "list": {
+                      "listId": "2mswe6gj9x",
+                      "level": 2,
+                      "isTaskList": false,
+                      "isOrdered": false,
+                      "listStyleType": "SCIR_ECIR_SREC",
+                      "symbolStyle": {
+                        "sz": 11,
+                        "color": ""
+                      },
+                      "listStyle": {
+                        "format": "bullet",
+                        "text": "■",
+                        "align": "left"
+                      },
+                      "extraData": {},
+                      "isChecked": false,
+                      "hideSymbol": false
+                    }
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "",
+                        "data-type": "leaf"
+                      },
+                      "举例：后台显示不带中括号如 女连衣裙 ，搜索包含词（例：“新款女连衣裙”）或相关较高的词（例：“碎花女连衣裙”）都能展现"
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "uuid": "mm5t1l000ujz7hwzki8g",
+                    "ind": {
+                      "left": 0
+                    },
+                    "list": {
+                      "listId": "2mswe6gj9x",
+                      "level": 1,
+                      "isTaskList": false,
+                      "isOrdered": false,
+                      "listStyleType": "SCIR_ECIR_SREC",
+                      "symbolStyle": {
+                        "sz": 11,
+                        "color": ""
+                      },
+                      "listStyle": {
+                        "format": "bullet",
+                        "text": "○",
+                        "align": "left"
+                      }
+                    }
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "",
+                        "data-type": "leaf"
+                      },
+                      "「精确匹配」是指买家搜索词与所设关键词完全相同（或是同义词）时，推广宝贝才有机会展现；精确匹配是有助于您拿到更精准的流量，但相应的流量会变少，您可根据自己的需求进行设置。注：精确匹配适合应用于热门词或大词，能够有效提升核心关键词的展示效果，精准匹配适合提高转化率。"
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "uuid": "mm5t1l00nalmghve0vk",
+                    "ind": {
+                      "left": 0
+                    },
+                    "list": {
+                      "listId": "2mswe6gj9x",
+                      "level": 2,
+                      "isTaskList": false,
+                      "isOrdered": false,
+                      "listStyleType": "SCIR_ECIR_SREC",
+                      "symbolStyle": {
+                        "sz": 11,
+                        "color": ""
+                      },
+                      "listStyle": {
+                        "format": "bullet",
+                        "text": "■",
+                        "align": "left"
+                      },
+                      "extraData": {},
+                      "isChecked": false,
+                      "hideSymbol": false
+                    }
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "",
+                        "data-type": "leaf"
+                      },
+                      "举例：后台显示带中括号如 [女连衣裙]，搜索相同词（例：“女连衣裙”）或同义词（例：“女式连衣裙”）才能展现"
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "uuid": "mm5t1l00v1pr8w2cyv",
+                    "ind": {
+                      "left": 0
+                    },
+                    "list": {
+                      "listId": "2mswe6gj9x",
+                      "level": 1,
+                      "isTaskList": false,
+                      "isOrdered": false,
+                      "listStyleType": "SCIR_ECIR_SREC",
+                      "symbolStyle": {
+                        "sz": 11,
+                        "color": ""
+                      },
+                      "listStyle": {
+                        "format": "bullet",
+                        "text": "○",
+                        "align": "left"
+                      }
+                    }
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "",
+                        "data-type": "leaf"
+                      },
+                      "注意：搜索卡位计划计划还有中心词匹配，指的是买家搜索词含有您所设置的关键词时，宝贝就有机会展现，可保障投放精准度的同时放大流量覆盖范围；>>直达搜索卡位计划创建"
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "uuid": "mm5t1l008j0zzs7b7uu",
+                    "ind": {
+                      "left": 0
+                    },
+                    "list": {
+                      "listId": "2mswe6gj9x",
+                      "level": 2,
+                      "isTaskList": false,
+                      "isOrdered": false,
+                      "listStyleType": "SCIR_ECIR_SREC",
+                      "symbolStyle": {
+                        "sz": 11,
+                        "color": ""
+                      },
+                      "listStyle": {
+                        "format": "bullet",
+                        "text": "■",
+                        "align": "left"
+                      },
+                      "extraData": {},
+                      "isChecked": false,
+                      "hideSymbol": false
+                    }
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "",
+                        "data-type": "leaf"
+                      },
+                      "举例：若您设置关键词“新款连衣裙”，搜索包含词（例：“女新款连衣裙”），能展现"
+                    ]
+                  ]
+                ]
+              ]
+            ]
+          ],
+          [
+            "table",
+            {
+              "colsWidth": [
+                200.18,
+                293.34,
+                488.48
+              ],
+              "uuid": "mg1vc3otir8imzlymhg",
+              "styleId": "tableHeader",
+              "tblLook": {
+                "firstRow": 1,
+                "firstColumn": 0,
+                "lastRow": 0,
+                "lastColumn": 0
+              },
+              "tblW": {
+                "type": "pct"
+              }
+            },
+            [
+              "tr",
+              {
+                "uuid": "mg1vc3otjuuiemy0q5q",
+                "isTblHeader": true,
+                "h": 46
+              },
+              [
+                "tc",
+                {
+                  "fill": "#F5F6F7",
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mjmbs07lxzz7eh0jdsf",
+                  "vAlign": "middle"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mjmbs07l333qzynhl3d",
+                    "jc": "center"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "fonts": {
+                          "ascii": "\"Alibaba PuHuiTi 3.0\"",
+                          "hAnsi": "\"Alibaba PuHuiTi 3.0\"",
+                          "cs": "\"Alibaba PuHuiTi 3.0\"",
+                          "eastAsia": "\"Alibaba PuHuiTi 3.0\""
+                        },
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "",
+                        "data-type": "leaf"
+                      },
+                      "问题类型"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mg1vc3otz5wkfa2oqqc",
+                  "vAlign": "middle",
+                  "fill": "#F5F6F7"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mg1vc3oteeuw0ma5ok",
+                    "jc": "center"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "fonts": {
+                          "ascii": "\"Alibaba PuHuiTi 3.0\"",
+                          "hAnsi": "\"Alibaba PuHuiTi 3.0\"",
+                          "cs": "\"Alibaba PuHuiTi 3.0\"",
+                          "eastAsia": "\"Alibaba PuHuiTi 3.0\""
+                        },
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "",
+                        "data-type": "leaf"
+                      },
+                      "推广误区"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mg1vc3ot4yrupw7mr6j",
+                  "vAlign": "middle",
+                  "fill": "#F5F6F7"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mg1vc3otum9wvqpuugj",
+                    "jc": "center"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "fonts": {
+                          "ascii": "\"Alibaba PuHuiTi 3.0\"",
+                          "hAnsi": "\"Alibaba PuHuiTi 3.0\"",
+                          "cs": "\"Alibaba PuHuiTi 3.0\"",
+                          "eastAsia": "\"Alibaba PuHuiTi 3.0\""
+                        },
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "",
+                        "data-type": "leaf"
+                      },
+                      "澄清"
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {
+                "uuid": "mg1vc3ot5qe4txda39g",
+                "h": 70
+              },
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mjmbs07p0n1uvntdveqa",
+                  "vAlign": "middle"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mjmbs07p4b1l87ry49s",
+                    "jc": "center"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "",
+                        "data-type": "leaf"
+                      },
+                      "预算"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mg1vc3otqfzfys3zec",
+                  "vAlign": "middle"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mg1vc3otks27bql9xu",
+                    "jc": "center"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "fonts": {
+                          "ascii": "\"Alibaba PuHuiTi 3.0\"",
+                          "hAnsi": "\"Alibaba PuHuiTi 3.0\"",
+                          "cs": "\"Alibaba PuHuiTi 3.0\"",
+                          "eastAsia": "\"Alibaba PuHuiTi 3.0\""
+                        },
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "",
+                        "data-type": "leaf"
+                      },
+                      "“最大化拿量出价，"
+                    ],
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "",
+                        "data-type": "leaf"
+                      },
+                      "预算设置越低，成本越低"
+                    ],
+                    [
+                      "span",
+                      {
+                        "fonts": {
+                          "ascii": "\"Alibaba PuHuiTi 3.0\"",
+                          "hAnsi": "\"Alibaba PuHuiTi 3.0\"",
+                          "cs": "\"Alibaba PuHuiTi 3.0\"",
+                          "eastAsia": "\"Alibaba PuHuiTi 3.0\""
+                        },
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "",
+                        "data-type": "leaf"
+                      },
+                      "”"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mg1vc3ot4aq5e5dzkx6",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "ind": {
+                      "left": 0
+                    },
+                    "list": {
+                      "listId": "p6haoo9sivs",
+                      "level": 0,
+                      "isTaskList": false,
+                      "isOrdered": false,
+                      "listStyleType": "SCIR_ECIR_SREC",
+                      "symbolStyle": {
+                        "fonts": "\"Alibaba PuHuiTi 3.0\"",
+                        "sz": 11,
+                        "color": ""
+                      },
+                      "listStyle": {
+                        "format": "bullet",
+                        "text": "●",
+                        "align": "left"
+                      }
+                    },
+                    "uuid": "mjmhlodenay7w69or3j"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": false,
+                        "fonts": {
+                          "ascii": "\"Alibaba PuHuiTi 3.0\"",
+                          "hAnsi": "\"Alibaba PuHuiTi 3.0\"",
+                          "cs": "\"Alibaba PuHuiTi 3.0\"",
+                          "eastAsia": "\"Alibaba PuHuiTi 3.0\""
+                        },
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "",
+                        "data-type": "leaf"
+                      },
+                      "PPC与预算无直接因果关系：预算仅限制当日总花费上限，而PPC由系统根据实时竞争环境、用户价值预估、转化概率等动态计算得出。即使预算较低，若系统判断某次点击高转化潜力，仍可能出高价（即PPC较高）"
+                    ],
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "，"
+                    ],
+                    [
+                      "span",
+                      {
+                        "fonts": {
+                          "ascii": "\"Alibaba PuHuiTi 3.0\"",
+                          "hAnsi": "\"Alibaba PuHuiTi 3.0\"",
+                          "cs": "\"Alibaba PuHuiTi 3.0\"",
+                          "eastAsia": "\"Alibaba PuHuiTi 3.0\""
+                        },
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "",
+                        "data-type": "leaf"
+                      },
+                      "预算过低可能导致投放提前花完、无法持续参与竞价，从而减少总曝光量"
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "ind": {
+                      "left": 0
+                    },
+                    "list": {
+                      "listId": "p6haoo9sivs",
+                      "level": 0,
+                      "isTaskList": false,
+                      "isOrdered": false,
+                      "listStyleType": "SCIR_ECIR_SREC",
+                      "symbolStyle": {
+                        "fonts": "\"Alibaba PuHuiTi 3.0\"",
+                        "sz": 11,
+                        "color": ""
+                      },
+                      "listStyle": {
+                        "format": "bullet",
+                        "text": "●",
+                        "align": "left"
+                      }
+                    },
+                    "uuid": "mjz4b78w1n76ypsbhwc"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": false,
+                        "fonts": {
+                          "ascii": "\"Alibaba PuHuiTi 3.0\"",
+                          "hAnsi": "\"Alibaba PuHuiTi 3.0\"",
+                          "cs": "\"Alibaba PuHuiTi 3.0\"",
+                          "eastAsia": "\"Alibaba PuHuiTi 3.0\""
+                        },
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "",
+                        "data-type": "leaf"
+                      },
+                      "您设置的预算决定了每天最多花多少钱，但每次点击的实际出价是由系统根据流量质量和转化可能性智能决定的。预算低不会让系统‘压价’，反而可能因为抢不到足够优质流量而提前下线。建议根据实际ROI和获客成本合理设置预算，让算法有足够空间发挥"
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {
+                "uuid": "mg1vc3otsehk2cyty3p",
+                "h": 166
+              },
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 5,
+                  "uuid": "mjmbs07psuivjr2rjy",
+                  "vAlign": "middle"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mjmbs07p9izltrxphgs",
+                    "jc": "center"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "",
+                        "data-type": "leaf"
+                      },
+                      "关键词"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mg1vc3otmdgjusdb7lf",
+                  "vAlign": "middle"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mg1vc3otejo3khwuq0e",
+                    "jc": "center"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "fonts": {
+                          "ascii": "\"Alibaba PuHuiTi 3.0\"",
+                          "hAnsi": "\"Alibaba PuHuiTi 3.0\"",
+                          "cs": "\"Alibaba PuHuiTi 3.0\"",
+                          "eastAsia": "\"Alibaba PuHuiTi 3.0\""
+                        },
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "",
+                        "data-type": "leaf"
+                      },
+                      "“填越多关键词效果越好”"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mg1vc3otffqs5cc4lr4",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mg1vc3otxvt41a92tf",
+                    "ind": {
+                      "left": 0
+                    },
+                    "list": {
+                      "listId": "p6haoo9sivs",
+                      "level": 0,
+                      "isTaskList": false,
+                      "isOrdered": false,
+                      "listStyleType": "SCIR_ECIR_SREC",
+                      "symbolStyle": {
+                        "fonts": "\"Alibaba PuHuiTi 3.0\"",
+                        "sz": 11,
+                        "color": ""
+                      },
+                      "listStyle": {
+                        "format": "bullet",
+                        "text": "●",
+                        "align": "left"
+                      }
+                    }
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": false,
+                        "fonts": {
+                          "ascii": "\"Alibaba PuHuiTi 3.0\"",
+                          "hAnsi": "\"Alibaba PuHuiTi 3.0\"",
+                          "cs": "\"Alibaba PuHuiTi 3.0\"",
+                          "eastAsia": "\"Alibaba PuHuiTi 3.0\""
+                        },
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "",
+                        "data-type": "leaf"
+                      },
+                      "关键词贵精不贵多，系统会优先识别您填写的核心词，并结合商品标题、详情页、历史成交数据综合建模。如果关键词杂乱或包含不相关词（比如卖女装却填‘手机壳’），反而会稀释模型判断力，影响投放精准度"
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {
+                "uuid": "mjz4p5zp3bdz8hsjhgi"
+              },
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mjz4p5zpjgtma6pdhgo",
+                  "hidden": true,
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mjz51iha7mdylpvocdu"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mjz4p5zpg9asac8q95k",
+                  "vAlign": "middle"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mjz4p5zpaahaadkxbpb",
+                    "jc": "center"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": false,
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "",
+                        "data-type": "leaf"
+                      },
+                      "“"
+                    ],
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "",
+                        "data-type": "leaf"
+                      },
+                      "市面上售卖的“内部蓝海词包”“未公开高转化词”等可避开竞价，低成本获客”"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mjz4p5zpmfxlc3ou60d",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mjz4p5zp2yj52sdmkj9",
+                    "ind": {
+                      "left": 0
+                    },
+                    "list": {
+                      "listId": "dz5qj8q2ape",
+                      "level": 0,
+                      "isTaskList": false,
+                      "isOrdered": false,
+                      "listStyleType": "SCIR_ECIR_SREC",
+                      "symbolStyle": {
+                        "sz": 12,
+                        "color": "rgb(13, 18, 57)"
+                      },
+                      "listStyle": {
+                        "format": "bullet",
+                        "text": "●",
+                        "align": "left"
+                      }
+                    }
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "",
+                        "data-type": "leaf"
+                      },
+                      "所有关键词均需通过系统审核并参与实时竞价，不存在未公开的“特权词”。此类词包多为爬取公开数据拼凑而成，价值有限，甚至包含违规词导致计划拒审"
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {
+                "uuid": "mjz522z8dhxvnsrsmd5"
+              },
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mjz522z8vrmft3oc1zp",
+                  "hidden": true,
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mjz522z8j0bk2ck1qw"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mjz52a8sjyop2p2sl1",
+                  "vAlign": "middle"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mjz52a8s72pckbrd59",
+                    "jc": "center"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "fonts": {
+                          "ascii": "\"Alibaba PuHuiTi 3.0\"",
+                          "hAnsi": "\"Alibaba PuHuiTi 3.0\"",
+                          "cs": "\"Alibaba PuHuiTi 3.0\"",
+                          "eastAsia": "\"Alibaba PuHuiTi 3.0\""
+                        },
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "",
+                        "data-type": "leaf"
+                      },
+                      "“用竞品品牌词能截流”"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mfzbzyonkp34iaiss9",
+                  "vAlign": "middle"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mjz4zihhr4cvmxvoag",
+                    "ind": {
+                      "left": 0
+                    },
+                    "list": {
+                      "listId": "p6haoo9sivs",
+                      "level": 0,
+                      "isTaskList": false,
+                      "isOrdered": false,
+                      "listStyleType": "SCIR_ECIR_SREC",
+                      "symbolStyle": {
+                        "fonts": "\"Alibaba PuHuiTi 3.0\"",
+                        "sz": 11,
+                        "color": ""
+                      },
+                      "listStyle": {
+                        "format": "bullet",
+                        "text": "●",
+                        "align": "left"
+                      }
+                    }
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "fonts": {
+                          "ascii": "\"Alibaba PuHuiTi 3.0\"",
+                          "hAnsi": "\"Alibaba PuHuiTi 3.0\"",
+                          "cs": "\"Alibaba PuHuiTi 3.0\"",
+                          "eastAsia": "\"Alibaba PuHuiTi 3.0\""
+                        },
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "",
+                        "data-type": "leaf"
+                      },
+                      "品牌词有严格保护机制，非授权商家使用他人品牌词可能被拒审或限流；即便通过，用户搜索品牌词时通常已有明确购买意向，转化率往往低于预期，且易引发投诉"
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {
+                "uuid": "mjz53j29wn80yhhz80j"
+              },
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mjz53j297u8tcylthmp",
+                  "hidden": true,
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mjz53j298braiho8li"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mjz53j29s4aq6abpl",
+                  "vAlign": "middle"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mjz53j29nv3r3tmkerj",
+                    "jc": "center"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      "“关键词一旦加入计划，系统就会一直给展现”"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mjz53j29ixhl4h9jirl",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "ind": {
+                      "left": 0
+                    },
+                    "list": {
+                      "listId": "p6haoo9sivs",
+                      "level": 0,
+                      "isTaskList": false,
+                      "isOrdered": false,
+                      "listStyleType": "SCIR_ECIR_SREC",
+                      "symbolStyle": {
+                        "fonts": "\"Alibaba PuHuiTi 3.0\"",
+                        "sz": 11,
+                        "color": ""
+                      },
+                      "listStyle": {
+                        "format": "bullet",
+                        "text": "●",
+                        "align": "left"
+                      }
+                    },
+                    "uuid": "mjz541uhmgsr2t7kf8"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": false,
+                        "fonts": {
+                          "ascii": "\"Alibaba PuHuiTi 3.0\"",
+                          "hAnsi": "\"Alibaba PuHuiTi 3.0\"",
+                          "cs": "\"Alibaba PuHuiTi 3.0\"",
+                          "eastAsia": "\"Alibaba PuHuiTi 3.0\""
+                        },
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "",
+                        "data-type": "leaf"
+                      },
+                      "若关键词出价过低、点击率长期不佳，系统会判定其“竞争力不足”，自动减少甚至停止展现（即“沉底”），需定期优化或暂停低效词"
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {
+                "uuid": "mjz561el085m61ffo1xk"
+              },
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mjz561el14a2xbbq4zdo",
+                  "hidden": true,
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mjz561elwts6pbyc9gb"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mjz561eljq1myyb289",
+                  "vAlign": "middle"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mjz561elwtnsvgjsc0q",
+                    "jc": "center"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "data-type": "leaf"
+                      },
+                      "“删除关键词会丢失历史数据，影响账户健康”"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mjz561eljnx5eblbcpp",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mjz56f70j3obqbpauh",
+                    "ind": {
+                      "left": 0
+                    },
+                    "list": {
+                      "listId": "p6haoo9sivs",
+                      "level": 0,
+                      "isTaskList": false,
+                      "isOrdered": false,
+                      "listStyleType": "SCIR_ECIR_SREC",
+                      "symbolStyle": {
+                        "fonts": "\"Alibaba PuHuiTi 3.0\"",
+                        "sz": 11,
+                        "color": ""
+                      },
+                      "listStyle": {
+                        "format": "bullet",
+                        "text": "●",
+                        "align": "left"
+                      }
+                    }
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": false,
+                        "fonts": {
+                          "ascii": "\"Alibaba PuHuiTi 3.0\"",
+                          "hAnsi": "\"Alibaba PuHuiTi 3.0\"",
+                          "cs": "\"Alibaba PuHuiTi 3.0\"",
+                          "eastAsia": "\"Alibaba PuHuiTi 3.0\""
+                        },
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "",
+                        "data-type": "leaf"
+                      },
+                      "删除低效关键词不会影响账户整体质量，反而能提升计划结构清晰度，让系统更聚焦优质词。历史数据仍可在报表中回溯，无需因噎废食"
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {
+                "uuid": "mg1veoqqiz5k3kcvki"
+              },
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 2,
+                  "uuid": "mjmbs07pbnn1eh47qsa",
+                  "vAlign": "middle"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mjmbs07pm21w3q04fe",
+                    "jc": "center"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "",
+                        "data-type": "leaf"
+                      },
+                      "出价"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mg1veoqqangnud179pm",
+                  "vAlign": "middle"
+                },
+                [
+                  "h4",
+                  {
+                    "spacing": {},
+                    "uuid": "mjmiou1lkhvctrri6eb",
+                    "jc": "center"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": false,
+                        "fonts": {
+                          "ascii": "\"Alibaba PuHuiTi 3.0\"",
+                          "hAnsi": "\"Alibaba PuHuiTi 3.0\"",
+                          "cs": "\"Alibaba PuHuiTi 3.0\"",
+                          "eastAsia": "\"Alibaba PuHuiTi 3.0\""
+                        },
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "",
+                        "data-type": "leaf"
+                      },
+                      "“高出价=高权重，砸钱就能抢到好位置”"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mg1veoqqqjadn7r7fl",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mg1veoqqnxoj4ltwwa",
+                    "ind": {
+                      "left": 0
+                    },
+                    "list": {
+                      "listId": "p6haoo9sivs",
+                      "level": 0,
+                      "isTaskList": false,
+                      "isOrdered": false,
+                      "listStyleType": "SCIR_ECIR_SREC",
+                      "symbolStyle": {
+                        "fonts": "\"Alibaba PuHuiTi 3.0\"",
+                        "sz": 11,
+                        "color": ""
+                      },
+                      "listStyle": {
+                        "format": "bullet",
+                        "text": "●",
+                        "align": "left"
+                      }
+                    }
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": false,
+                        "fonts": {
+                          "ascii": "\"Alibaba PuHuiTi 3.0\"",
+                          "hAnsi": "\"Alibaba PuHuiTi 3.0\"",
+                          "cs": "\"Alibaba PuHuiTi 3.0\"",
+                          "eastAsia": "\"Alibaba PuHuiTi 3.0\""
+                        },
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "",
+                        "data-type": "leaf"
+                      },
+                      "如果竞争对手质量得分更高（比如9分 vs 您的6分），即使他出价低，综合得分也可能超过您。建议优化创意图、提升点击率、确保关键词与商品强相关，来提高质量得分"
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {
+                "uuid": "mg1vxenune9lwgw3zt",
+                "h": 189
+              },
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mjmbs07qxf3a8km97mc",
+                  "vAlign": "middle",
+                  "hidden": true
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mjz51s311hvmdeodd0b"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "data-type": "leaf"
+                      },
+                      ""
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mg1vxenuah9dhq8r1o4",
+                  "vAlign": "middle"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mg1vxenusarx7z5zdc9",
+                    "jc": "center"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "fonts": {
+                          "ascii": "\"Alibaba PuHuiTi 3.0\"",
+                          "cs": "\"Alibaba PuHuiTi 3.0\"",
+                          "eastAsia": "\"Alibaba PuHuiTi 3.0\"",
+                          "hAnsi": "\"Alibaba PuHuiTi 3.0\""
+                        },
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "",
+                        "data-type": "leaf"
+                      },
+                      "“只要出价高于同行，就一定能抢到流量”"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mg1vxenudg5dxm5i53a",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "ind": {
+                      "left": 0
+                    },
+                    "list": {
+                      "listId": "p6haoo9sivs",
+                      "level": 0,
+                      "isTaskList": false,
+                      "isOrdered": false,
+                      "listStyleType": "SCIR_ECIR_SREC",
+                      "symbolStyle": {
+                        "fonts": "\"Alibaba PuHuiTi 3.0\"",
+                        "sz": 11,
+                        "color": ""
+                      },
+                      "listStyle": {
+                        "format": "bullet",
+                        "text": "●",
+                        "align": "left"
+                      }
+                    },
+                    "uuid": "mg1vxenu549096c3h2h"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": false,
+                        "fonts": {
+                          "ascii": "\"Alibaba PuHuiTi 3.0\"",
+                          "hAnsi": "\"Alibaba PuHuiTi 3.0\"",
+                          "cs": "\"Alibaba PuHuiTi 3.0\"",
+                          "eastAsia": "\"Alibaba PuHuiTi 3.0\""
+                        },
+                        "sz": 11,
+                        "szUnit": "pt",
+                        "color": "",
+                        "data-type": "leaf"
+                      },
+                      "系统会综合考虑预估转化率、历史表现、预算节奏等因素分配流量。即使出价高，若商品转化差或人群不匹配，仍可能拿不到曝光"
+                    ]
+                  ]
+                ]
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mm5t1j3z5xqzttg2cae"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mm5sjgdavz7o4umbvpq"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ]
+        ],
+        "footers": {},
+        "version": 1
+      },
+      "refs": {}
+    }
+  }
+}

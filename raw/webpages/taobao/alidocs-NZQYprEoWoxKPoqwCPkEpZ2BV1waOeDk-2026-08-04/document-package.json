@@ -1,0 +1,586 @@
+{
+  "version": 1,
+  "type": "application/x-alidocs-package",
+  "main": "00000000-0000-0000-0000-000000000001",
+  "plugins": "00000000-0000-0000-0000-000000000002",
+  "parts": {
+    "00000000-0000-0000-0000-000000000001": {
+      "id": "00000000-0000-0000-0000-000000000001",
+      "type": "application/x-alidocs-word",
+      "version": 1,
+      "data": {
+        "style": {
+          "docDefaults": {
+            "type": "paragraph",
+            "default": 1,
+            "name": "dingdocnormal",
+            "data": {
+              "rPr": {
+                "sz": 12,
+                "szUnit": "pt"
+              },
+              "pPr": {
+                "spacing": {
+                  "before": 8,
+                  "after": 8
+                }
+              }
+            }
+          }
+        },
+        "theme": [],
+        "settings": {
+          "titleCover": {
+            "isHide": true
+          }
+        },
+        "app": {},
+        "numberings": {},
+        "headers": {},
+        "body": [
+          "root",
+          {
+            "sectPr": {
+              "pgSz": {
+                "w": 892,
+                "h": 1127
+              },
+              "pgMar": {
+                "top": 48,
+                "bottom": 48,
+                "left": 72,
+                "right": 72,
+                "header": 56.73,
+                "footer": 66.13,
+                "gutter": 0
+              }
+            },
+            "theme": {
+              "table": {
+                "tableCell": {
+                  "vAlign": "top"
+                }
+              }
+            }
+          },
+          [
+            "h3",
+            {
+              "uuid": "mbj59vkj09ze4mz9sk5s",
+              "ind": {},
+              "spacing": {
+                "before": 18.666666666666664,
+                "after": 8,
+                "line": 0.8529411764705882
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 14,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "🚀"
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "italic": true,
+                  "sz": 14,
+                  "szUnit": "pt",
+                  "color": "#E03E3E",
+                  "data-type": "leaf"
+                },
+                "人群推广 LMA-V2大模型  "
+              ]
+            ]
+          ],
+          [
+            "h3",
+            {
+              "uuid": "mbkhxj0zl35zea64dp8",
+              "ind": {},
+              "spacing": {
+                "before": 18.666666666666664,
+                "after": 8,
+                "line": 0.8529411764705882
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 14,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "利好来临请注意：本次大模型升级，自5月中旬开始逐步升级，现已全面覆盖人群推广"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "ind": {
+                "firstLine": 32
+              },
+              "uuid": "mbkgyo5d8lx1omur2a",
+              "jc": "center"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 16,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ],
+            [
+              "img",
+              {
+                "extraData": {
+                  "metaData": {
+                    "format": "png",
+                    "originHeight": 1426,
+                    "originWidth": 2200,
+                    "ratio": 1,
+                    "size": 2567205
+                  },
+                  "resourceId": "f439ca75-aa3e-4b60-affd-e8244fe3458a"
+                },
+                "height": 324,
+                "name": "image.png",
+                "outline": {
+                  "color": "var(--we_white1_color, rgba(255, 255, 255, 1))",
+                  "type": "solid",
+                  "width": 6
+                },
+                "radius": 2,
+                "rotation": 0,
+                "shadow": "var(--we_m_shadow, 0px 4px 24px 0px rgba(0, 0, 0, 0.1))",
+                "size": 2567205,
+                "src": "/core/api/resources/img/5eecdaf48460cde5b8937be60ec807927948f42737ca7be075b8339e1c4c24831b75b38faadcd24bec177c308ebd5304f74f7baee996bf60f48f1bbba2706912ad809cf21231378a445897229111469b33c9f429995032814fb4c8ed7016461c",
+                "uuid": "n5mrex",
+                "width": 500
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 16,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "h3",
+            {
+              "uuid": "mbkgu5qhl4abdw4bhbh",
+              "ind": {
+                "left": 0
+              },
+              "spacing": {
+                "before": 18.666666666666664,
+                "after": 8,
+                "line": 0.8529411764705882
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 14,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "本次创新式全面升级的3大核心优势："
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mbrrgt3ky1vrd7a73tr",
+              "ind": {
+                "left": 32
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "🚀 大模型升级，全面提升信息流的人货匹配效率，"
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "italic": true,
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "#E03E3E",
+                  "data-type": "leaf"
+                },
+                "曝光点击率和点击转化率平均提升 15%+"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mbkhcgoyp7z9hi23blq",
+              "ind": {
+                "left": 32
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "🚀 使用手动出价进行推广的计划，当投放进入稳定期后，该计划的"
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "italic": true,
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "#E03E3E",
+                  "data-type": "leaf"
+                },
+                "核心资源位"
+              ],
+              [
+                "span",
+                {
+                  "bold": false,
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "（首猜、购中后和全屏微详情）"
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "italic": true,
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "#E03E3E",
+                  "data-type": "leaf"
+                },
+                "曝光占比超 60%"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mbkhc51ub1nej89so7v",
+              "ind": {
+                "left": 32
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "🚀 “首猜扶持红利”大促期限时加码：只需在手动出价下完成"
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "italic": true,
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "#E03E3E",
+                  "data-type": "leaf"
+                },
+                "首猜溢价上调"
+              ],
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "，即可获得高价值流量扶持（"
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "italic": true,
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "#E03E3E",
+                  "data-type": "leaf"
+                },
+                "大模型提升效果翻倍"
+              ],
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "）"
+              ]
+            ]
+          ],
+          [
+            "h3",
+            {
+              "uuid": "mbujneujxcjhd6qbbp",
+              "ind": {
+                "left": 0
+              },
+              "spacing": {
+                "before": 18.666666666666664,
+                "after": 8,
+                "line": 0.8529411764705882
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 14,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "如何查看“手动出价”计划的曝光占比："
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mbuk8lo38334mcwdn57",
+              "ind": {
+                "firstLine": 32
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "通过“手动出价”编辑页面可直接查看该计划在各资源位的曝光分布占比"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mbujntmx54dltyph572"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ],
+            [
+              "img",
+              {
+                "uuid": "mbys05mb48v3yyksxzu",
+                "name": "image.png",
+                "size": 529195,
+                "width": 748,
+                "height": 317.9,
+                "src": "/core/api/resources/img/5eecdaf48460cde5b8937be60ec807927948f42737ca7be075b8339e1c4c24831b75b38faadcd24bec177c308ebd5304b517e136ed86d84e584eabc1d1bc2d674308aef20831e7bc5da4fbc6d8cd43a20aab0a133711186c4fb4c8ed7016461c",
+                "extraData": {
+                  "resourceId": "9f44dbc2-cd03-4ff5-a6fa-bec0445cb969",
+                  "metaData": {
+                    "size": 529195,
+                    "originWidth": 1757,
+                    "originHeight": 747,
+                    "format": "png",
+                    "ratio": 1
+                  }
+                },
+                "outline": {},
+                "radius": 8,
+                "shadow": ""
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "h3",
+            {
+              "uuid": "mbyjbao9kgakin68mue",
+              "ind": {
+                "left": 0
+              },
+              "spacing": {
+                "before": 18.666666666666664,
+                "after": 8,
+                "line": 0.8529411764705882
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 14,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "注意事项："
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mbyjbgrrsyhiebx97tr",
+              "ind": {
+                "left": 32
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "计划推广初期，“手动计划”的核心资源位曝光有可能占比较低，为确保核心资源位曝光占比超60%，推广请保持耐心，待计划进入稳定期后核心资源位曝光会提升。"
+              ]
+            ]
+          ]
+        ],
+        "footers": {},
+        "version": 1
+      },
+      "refs": {}
+    }
+  }
+}

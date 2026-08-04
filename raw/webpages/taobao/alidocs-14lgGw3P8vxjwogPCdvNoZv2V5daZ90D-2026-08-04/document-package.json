@@ -1,0 +1,3273 @@
+{
+  "version": 1,
+  "type": "application/x-alidocs-package",
+  "main": "00000000-0000-0000-0000-000000000001",
+  "plugins": "00000000-0000-0000-0000-000000000002",
+  "parts": {
+    "00000000-0000-0000-0000-000000000001": {
+      "id": "00000000-0000-0000-0000-000000000001",
+      "type": "application/x-alidocs-word",
+      "version": 1,
+      "data": {
+        "style": {
+          "docDefaults": {
+            "type": "paragraph",
+            "default": 1,
+            "name": "dingdocnormal",
+            "data": {
+              "rPr": {
+                "sz": 12,
+                "szUnit": "pt"
+              },
+              "pPr": {
+                "spacing": {
+                  "before": 8,
+                  "after": 8
+                }
+              }
+            }
+          },
+          "tableDefault": {
+            "type": "table",
+            "data": {
+              "tblPr": {
+                "bdr": {
+                  "bottom": {
+                    "color": "#D6D6D6",
+                    "space": 0,
+                    "sz": 1,
+                    "val": "single"
+                  },
+                  "insideH": {
+                    "color": "#D6D6D6",
+                    "space": 0,
+                    "sz": 1,
+                    "val": "single"
+                  },
+                  "insideV": {
+                    "color": "#D6D6D6",
+                    "space": 0,
+                    "sz": 1,
+                    "val": "single"
+                  },
+                  "left": {
+                    "color": "#D6D6D6",
+                    "space": 0,
+                    "sz": 1,
+                    "val": "single"
+                  },
+                  "right": {
+                    "color": "#D6D6D6",
+                    "space": 0,
+                    "sz": 1,
+                    "val": "single"
+                  },
+                  "top": {
+                    "color": "#D6D6D6",
+                    "space": 0,
+                    "sz": 1,
+                    "val": "single"
+                  }
+                }
+              }
+            }
+          },
+          "tableHeader": {
+            "type": "table",
+            "basedOn": "tableDefault",
+            "data": {
+              "tblStylePr": [
+                {
+                  "type": "firstRow",
+                  "tcPr": {
+                    "shd": {
+                      "fill": "#F5F6F7"
+                    }
+                  }
+                },
+                {
+                  "type": "firstCol",
+                  "tcPr": {
+                    "shd": {
+                      "fill": "#F5F6F7"
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        "theme": [],
+        "settings": {
+          "titleCover": {
+            "isHide": true
+          }
+        },
+        "app": {},
+        "numberings": {},
+        "headers": {},
+        "body": [
+          "root",
+          {
+            "sectPr": {
+              "pgSz": {
+                "w": 1588,
+                "h": 1127
+              },
+              "pgMar": {
+                "top": 48,
+                "bottom": 48,
+                "left": 72,
+                "right": 72,
+                "header": 56.73,
+                "footer": 66.13,
+                "gutter": 0
+              }
+            },
+            "theme": {
+              "table": {
+                "tableCell": {
+                  "vAlign": "top"
+                }
+              }
+            },
+            "uuid": "mcwt47447j89kn1g6v7"
+          },
+          [
+            "container",
+            {
+              "subType": "colorBlocks",
+              "metadata": {
+                "padding": {
+                  "top": 11,
+                  "right": 11,
+                  "bottom": 11,
+                  "left": 11
+                },
+                "borderRadius": 8,
+                "sticker": {
+                  "type": "dingding",
+                  "id": "emotion_146",
+                  "name": "[钉子]",
+                  "url": "https://g.alicdn.com/dingding/emotion-assets/0.68.0/mobile/emotion_146.png"
+                },
+                "bgcolor": "linear-gradient(316deg, #ECF9F0 -13%, #FFFEFE 52%, #D3ECE6 125%)",
+                "showstk": true
+              },
+              "uuid": "m9upoc9dtar6vvqe45"
+            },
+            [
+              "h2",
+              {
+                "uuid": "m9upoc9ddusxlrkmdi6",
+                "spacing": {
+                  "before": 21.333333333333332,
+                  "after": 9,
+                  "line": 0.8529411764705882
+                }
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "bold": true,
+                    "sz": 16,
+                    "szUnit": "pt",
+                    "data-type": "leaf"
+                  },
+                  "权益一：计划数权益"
+                ]
+              ]
+            ]
+          ],
+          [
+            "h3",
+            {
+              "uuid": "m9upp383ga7vcwq5xpr",
+              "spacing": {
+                "before": 18.666666666666664,
+                "after": 8,
+                "line": 0.8529411764705882
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 14,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "新版本"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "m9usd3r1ffoourni3r4",
+              "ind": {
+                "left": 0
+              },
+              "list": {
+                "listId": "zvmmctm1pr",
+                "level": 0,
+                "isTaskList": false,
+                "isOrdered": false,
+                "listStyleType": "SCIR_ECIR_SREC",
+                "symbolStyle": {},
+                "listStyle": {
+                  "format": "bullet",
+                  "text": "●",
+                  "align": "left"
+                }
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "data-type": "leaf"
+                },
+                "关键词计划上限"
+              ],
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "：3000"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "m9gudwar1fe2zjwvo9b",
+              "ind": {
+                "left": 0
+              },
+              "list": {
+                "listId": "zvmmctm1pr",
+                "level": 0,
+                "isTaskList": false,
+                "isOrdered": false,
+                "listStyleType": "SCIR_ECIR_SREC",
+                "symbolStyle": {
+                  "bold": true
+                },
+                "listStyle": {
+                  "format": "bullet",
+                  "text": "●",
+                  "align": "left"
+                }
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "data-type": "leaf"
+                },
+                "产品设计逻辑 "
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "m9usg9ud7gl0uch0qul",
+              "ind": {
+                "left": 0
+              },
+              "list": {
+                "listId": "zvmmctm1pr",
+                "level": 1,
+                "isTaskList": false,
+                "isOrdered": false,
+                "listStyleType": "SCIR_ECIR_SREC",
+                "symbolStyle": {},
+                "listStyle": {
+                  "format": "bullet",
+                  "text": "○",
+                  "align": "left"
+                }
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "计划数容量是指账户中可同时存在的最大在投计划数(包含正在投放，暂停投放计划，不包含已结束计划)。若账户计划数触顶(即在投计划数=账户计划数容量)，账户将无法继续新建计划。为解决现阶段平台较多客户计划数已触顶的问题，本次推出的新规则将根据客户当前"
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "data-type": "leaf"
+                },
+                "在场景的近30天累计消耗"
+              ],
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "确定"
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "data-type": "leaf"
+                },
+                "该场景的计划数容量"
+              ],
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "。若"
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "data-type": "leaf"
+                },
+                "近30天场景累计消耗"
+              ],
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "达到下一计划数容量门槛，则第二天自动升档；若客户在该场景的计划数容量升档，则在升档之日起"
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "data-type": "leaf"
+                },
+                "消耗连续30天未达当前档位门槛"
+              ],
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "，计划数容量将按照近30日内该场景的累积消耗"
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "data-type": "leaf"
+                },
+                "降低至对应的最大档位"
+              ],
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "。降档后若账户内在投计划数>计划数容量，则"
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "data-type": "leaf"
+                },
+                "无法再新建计划"
+              ],
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "，在投计划不停止依然可以调整。"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "m9gvdo2hxo44aqifptf",
+              "ind": {}
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "近30天消耗门槛与对应的计划数容量规则如下："
+              ]
+            ]
+          ],
+          [
+            "table",
+            {
+              "colsWidth": [
+                249,
+                249,
+                249
+              ],
+              "tblW": {
+                "w": 100,
+                "type": "pct"
+              },
+              "uuid": "m9gvemje20pu05fg68k",
+              "styleId": "tableHeader",
+              "tblLook": {
+                "firstRow": 1,
+                "firstColumn": 0,
+                "lastRow": 0,
+                "lastColumn": 0
+              }
+            },
+            [
+              "tr",
+              {
+                "uuid": "mkkmop6fqb1ruhq576",
+                "isTblHeader": true,
+                "h": 47
+              },
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mkkmop6f69w0ccsdj1n",
+                  "vAlign": "top",
+                  "fill": "#acc56c"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mkkmop6fm8dtb6r7pnr"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "近30天消耗要求(元)"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mkkmop6fsq5e50r8v5r",
+                  "vAlign": "top",
+                  "fill": "#acc56c"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mkkmop6flbocd2m1caa"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "计划数容量"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mkkmop6f7sfda6uplbr",
+                  "fill": "#acc56c",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mkkmop6f3tsogzo2dbe"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "开通方式"
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {
+                "uuid": "mkkmop6fikmmad0w77j"
+              },
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mkkmop6fdkdmn2ap02",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mkkmop6f1iyhn03lza5",
+                    "jc": "center"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "无"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mkkmop6fk386wlo6xuf",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mkkmop6fcjb7j988bjm",
+                    "jc": "center"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "50"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mkkmop6f9grxr2nh7q6",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mkkmop6f23f7tezfwdp"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "消耗达标，自动扩容"
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "uuid": "mkkmop6ff60lb8dzx74"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "消耗不达标，自动降挡"
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {
+                "uuid": "mkkmop6f1a6pnrys53nj",
+                "h": 74
+              },
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mkkmop6fh2loy4v9b1h",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mkkmop6f5vuhnd97bzl",
+                    "jc": "center"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "≥1,000"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "rowSpan": 1,
+                  "colSpan": 1,
+                  "uuid": "mkkmop6frozt1uodk9f",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "jc": "center",
+                    "uuid": "mkkmop6f5s3o308gc6k"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "100"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mkkmop6fzb58cir2hs",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mkkmop6ftbdqj1ziizl"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "消耗达标，自动扩容"
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "uuid": "mkkmop6fb8x1cn2ohrw"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "消耗不达标，自动降挡"
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {
+                "uuid": "mkkmop6fl49q0r6dr6o"
+              },
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mkkmop6fu2sqn9jjm1d",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mkkmop6fol6odfqk0u",
+                    "jc": "center"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "≥10,000"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "rowSpan": 1,
+                  "colSpan": 1,
+                  "uuid": "mkkmop6fi7aixx0spj",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "jc": "center",
+                    "uuid": "mkkmop6f8mk7esy26qi"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "200"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mkkmop6f3664bai151j",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mkkmop6f0b0wgpg7g7"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "消耗达标，自动扩容"
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "uuid": "mkkmop6f2blt5lcsb2n"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "消耗不达标，自动降挡"
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {
+                "uuid": "mkkmop6ff9qlv84md38"
+              },
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mkkmop6fyppdssfly3a",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mkkmop6f80tbb9rzqtb",
+                    "jc": "center"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "≥100,000"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "rowSpan": 1,
+                  "colSpan": 1,
+                  "uuid": "mkkmop6fafhgbsvu1jo",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "jc": "center",
+                    "uuid": "mkkmop6fwctpovh17we"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "300"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mkkmop6fg3n1vn0wnro",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mkkmop6f2rot2g61q2o"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "消耗达标，自动扩容"
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "uuid": "mkkmop6fdzinni8vygq"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "消耗不达标，自动降挡"
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {
+                "uuid": "mkkmop6fv44ifq2uz2"
+              },
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mkkmop6f9v94akfpae4",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mkkmop6f5gqqfex0vpw",
+                    "jc": "center"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "≥500,000"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "rowSpan": 1,
+                  "colSpan": 1,
+                  "uuid": "mkkmop6fmt17rbwd5p",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "jc": "center",
+                    "uuid": "mkkmop6frhf6e5toh1"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "500"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mkkmop6f6iiv91cf694",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mkkmop6fgx52m942huc"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "消耗达标，自动扩容"
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "uuid": "mkkmop6febfpkssyg4q"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "消耗不达标，自动降挡"
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {
+                "uuid": "mkkmop6f4umkss018wk"
+              },
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mkkmop6fwy7rkcjddqd",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mkkmop6f0l5kbcqfwtxd",
+                    "jc": "center"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "≥1,500,000"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "rowSpan": 1,
+                  "colSpan": 1,
+                  "uuid": "mkkmop6fz0zq5zxaudd",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "jc": "center",
+                    "uuid": "mkkmop6fn0hivt0dsz"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "1000"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mkkmop6fgvgqlvgopn8",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mkkmop6fv0tpst6z1is"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "消耗达标，自动扩容"
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "uuid": "mkkmop6fvip9zb3dza"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "消耗不达标，自动降挡"
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {
+                "uuid": "mkkmop6fghzef4h89ar",
+                "h": 44
+              },
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mkkmop6fpethb328u2",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mkkmop6fvu3f0u0fffp",
+                    "jc": "center"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "≥2,000,000"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "rowSpan": 1,
+                  "colSpan": 1,
+                  "uuid": "mkkmop6fn7und4nbyh",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "jc": "center",
+                    "uuid": "mkkmop6fy7aljpo211m"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "1500"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mkkmop6fzul494f4cgf",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mkkmop6f9awtys09ju4"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "消耗达标，自动扩容"
+                    ]
+                  ]
+                ],
+                [
+                  "p",
+                  {
+                    "uuid": "mkkmop6fenbmij0xfxa"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "消耗不达标，自动降挡"
+                    ]
+                  ]
+                ]
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mkkmonasbzs3o1cureh"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "container",
+            {
+              "subType": "colorBlocks",
+              "metadata": {
+                "padding": {
+                  "top": 11,
+                  "right": 11,
+                  "bottom": 11,
+                  "left": 11
+                },
+                "borderRadius": 8,
+                "sticker": {
+                  "type": "dingding",
+                  "id": "emotion_146",
+                  "name": "[钉子]",
+                  "url": "https://g.alicdn.com/dingding/emotion-assets/0.68.0/mobile/emotion_146.png"
+                },
+                "bgcolor": "linear-gradient(316deg, #ECF9F0 -13%, #FFFEFE 52%, #D3ECE6 125%)",
+                "showstk": true
+              },
+              "uuid": "mdl2t7k91c7savjc81p"
+            },
+            [
+              "h2",
+              {
+                "uuid": "mdl2t7k99urdrr3ysf",
+                "spacing": {
+                  "before": 21.333333333333332,
+                  "after": 9,
+                  "line": 0.8529411764705882
+                }
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "bold": true,
+                    "sz": 16,
+                    "szUnit": "pt",
+                    "data-type": "leaf"
+                  },
+                  "权益二：关键词数量权益（仅支持手动开通）"
+                ]
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "m9uu1oyr87u08k1mi76",
+              "ind": {
+                "left": 0
+              },
+              "list": {
+                "listId": "bnmxeekrqfg",
+                "level": 0,
+                "isTaskList": false,
+                "isOrdered": false,
+                "listStyleType": "SCIR_ECIR_SREC",
+                "symbolStyle": {},
+                "listStyle": {
+                  "format": "bullet",
+                  "text": "●",
+                  "align": "left"
+                }
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "data-type": "leaf"
+                },
+                "关键词权益数量上限："
+              ],
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "500万，和计划数挂钩（目前关键词上限10万）"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "m9uy2uyvmocdlenv15j",
+              "ind": {
+                "left": 0
+              },
+              "list": {
+                "listId": "bnmxeekrqfg",
+                "level": 0,
+                "isTaskList": false,
+                "isOrdered": false,
+                "listStyleType": "SCIR_ECIR_SREC",
+                "symbolStyle": {
+                  "bold": true
+                },
+                "listStyle": {
+                  "format": "bullet",
+                  "text": "●",
+                  "align": "left"
+                }
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "data-type": "leaf"
+                },
+                "升级需求"
+              ]
+            ]
+          ],
+          [
+            "table",
+            {
+              "colsWidth": [
+                249,
+                249,
+                249
+              ],
+              "tblW": {
+                "w": 100,
+                "type": "pct"
+              },
+              "uuid": "m9v67l1xl8xqh8hvf9p",
+              "styleId": "tableHeader",
+              "tblLook": {
+                "firstRow": 1,
+                "firstColumn": 0,
+                "lastRow": 0,
+                "lastColumn": 0
+              }
+            },
+            [
+              "tr",
+              {
+                "uuid": "m9v67l1x4m53j3540wn",
+                "isTblHeader": true
+              },
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "m9v67l1xa8o3ni5g8o",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "m9v67l1x6sri6iaj7h",
+                    "jc": "center"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "data-type": "leaf"
+                      },
+                      "账户关键词数"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "m9v67l1xz9370ttazoj",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "m9v67l1xhtrt3o4ize",
+                    "jc": "center"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "data-type": "leaf"
+                      },
+                      "达标门槛"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "m9v67l1xh6ljux7xn55",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "m9v67l1x85ypu7qnh9v",
+                    "jc": "center"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "data-type": "leaf"
+                      },
+                      "开动条件"
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {
+                "uuid": "m9v67l1x2x2i0tq8ttx"
+              },
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "m9v67l1xcjo4550je3i",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "m9v67l1xwif96u5ox4"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "20万  "
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "m9v67l1xlxm6j4l3ef8",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "m9v67l1xdjgr45v9hjb"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "color": "#E03E3E",
+                        "data-type": "leaf"
+                      },
+                      "近30天消耗大于2万"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "m9v67l1xkaujcdsk3wk",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "m9v67l1xpt2wcr9n6ol"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "手动开通"
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {
+                "uuid": "m9v67l1xsixr138g54"
+              },
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "m9v67l1xmifyqr4udy",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "m9v67l1xsx574l8z9om"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "60万   "
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "m9v67l1xi2emqa97gx8",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "m9v67l1x6t8yrdyzzjj"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "color": "#E03E3E",
+                        "data-type": "leaf"
+                      },
+                      "近30天消耗大于10万"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "m9v67l1xb59n9b5y7fk",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "m9v67l1x54fes4p1ljg"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "手动开通"
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {
+                "uuid": "m9v67l1xgvh9ierbm7t"
+              },
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "m9v67l1xz0f8psgjuno",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "m9v67l1xo3qo1dapi9i"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "100万 "
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "m9v67l1xlf7o9wv03e",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "m9v67l1xqee0lbtj9d8"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "color": "#E03E3E",
+                        "data-type": "leaf"
+                      },
+                      "近30天消耗大于20万"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "m9v67l1xdcoa72ba43",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "m9v67l1xm76rumruf"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "手动开通"
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {
+                "uuid": "m9v68cr365t8m5s1oze"
+              },
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "m9v68cr3c7fw7ady0xv",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "m9v68cr3vbm2iveft4"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "500万  "
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "m9v68cr3uwlxvw4c55a",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "m9v68cr3b32pht8im9e"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "color": "#E03E3E",
+                        "data-type": "leaf"
+                      },
+                      "近30天消耗大于60万"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "m9v68cr38f49qdz5ns5",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "m9v68cr3zto6p270fxk"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "手动开通"
+                    ]
+                  ]
+                ]
+              ]
+            ]
+          ],
+          [
+            "container",
+            {
+              "subType": "colorBlocks",
+              "metadata": {
+                "padding": {
+                  "top": 11,
+                  "right": 11,
+                  "bottom": 11,
+                  "left": 11
+                },
+                "borderRadius": 8,
+                "sticker": {
+                  "type": "dingding",
+                  "id": "emotion_146",
+                  "name": "[钉子]",
+                  "url": "https://g.alicdn.com/dingding/emotion-assets/0.68.0/mobile/emotion_146.png"
+                },
+                "bgcolor": "linear-gradient(316deg, #ECF9F0 -13%, #FFFEFE 52%, #D3ECE6 125%)",
+                "showstk": true
+              },
+              "uuid": "m9ut7l14ll286i4xqhq"
+            },
+            [
+              "h2",
+              {
+                "uuid": "m9ut7l14oh0uh615u8",
+                "spacing": {
+                  "before": 21.333333333333332,
+                  "after": 9,
+                  "line": 0.8529411764705882
+                }
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "bold": true,
+                    "sz": 16,
+                    "szUnit": "pt",
+                    "data-type": "leaf"
+                  },
+                  "权益三：关键词单元数权益"
+                ]
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "m9ut8h7zxhjbku6b0a",
+              "ind": {
+                "left": 0
+              },
+              "list": {
+                "listId": "inito960w9c",
+                "level": 0,
+                "isTaskList": false,
+                "isOrdered": false,
+                "listStyleType": "SCIR_ECIR_SREC",
+                "symbolStyle": {},
+                "listStyle": {
+                  "format": "bullet",
+                  "text": "●",
+                  "align": "left"
+                }
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "data-type": "leaf"
+                },
+                "关键词计划单元上限："
+              ],
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "500"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "m9uta5t209fxnaf0o06k",
+              "ind": {
+                "left": 0
+              },
+              "list": {
+                "listId": "inito960w9c",
+                "level": 0,
+                "isTaskList": false,
+                "isOrdered": false,
+                "listStyleType": "SCIR_ECIR_SREC",
+                "symbolStyle": {},
+                "listStyle": {
+                  "format": "bullet",
+                  "text": "●",
+                  "align": "left"
+                }
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "data-type": "leaf"
+                },
+                "开通方式："
+              ],
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "30:自动开通；100/500T+1自动开通"
+              ]
+            ]
+          ],
+          [
+            "table",
+            {
+              "colsWidth": [
+                33.3,
+                33.3,
+                33.400000000000006
+              ],
+              "tblW": {
+                "w": 100,
+                "type": "pct"
+              },
+              "uuid": "mimysp2me9ao6op2jx6",
+              "styleId": "tableHeader",
+              "tblLook": {
+                "firstRow": 1,
+                "firstColumn": 0,
+                "lastRow": 0,
+                "lastColumn": 0
+              }
+            },
+            [
+              "tr",
+              {
+                "uuid": "mimysp2mnbnydi6z95",
+                "isTblHeader": true
+              },
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mimysp2mj5or99a2at"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mimysp2m4kwox0k71gn",
+                    "jc": "center"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "data-type": "leaf"
+                      },
+                      "单元数上限"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mimysp2mg0omk97ybm6"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mimysp2mxvitha3b2p",
+                    "jc": "center"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "data-type": "leaf"
+                      },
+                      "准入门槛"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mimysp2m8jzecy7g9q"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mimysp2ml7q8kz8lyt",
+                    "jc": "center"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "data-type": "leaf"
+                      },
+                      "开通条件"
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {
+                "uuid": "mimysp2mqcaqxsmck7n"
+              },
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mimysp2m4njwuhdrakb"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mimysp2m4nlibq80a7k"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "30"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mimysp2m69fd23p69ph"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mimysp2mpqu0blbh92"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "无"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mimysp2m6zojl5oxafd"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mimysp2mdq99v6594lw"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "自动开通"
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {
+                "uuid": "mimysp2m2e2bgj16e5h"
+              },
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mimysp2mzw89uonuix"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mimysp2mkycloh273j"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "100"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mimysp2m0fdqsfyrtyy8"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mimysp2mhdppmz3rcoa"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "近30天关键词场景消耗>=600元"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mimysp2m3mwl0nj2g22"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mimysp2m94xg1ridgtf"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "门槛达标后T+1自动开通"
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {
+                "uuid": "mimytb2beuenhy7ib0u"
+              },
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mimytb2b9b5yeyu2tli"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mimytb2b8nxu4phj9bk"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "500"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mimytb2btwp1rmog6vi"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mimytb2bzb2x2udoodg"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "近30天关键词场景消耗>=1500元"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mimytb2bdujv5katvws"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mimytb2bqzn6jorexx"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "门槛达标后T+1自动开通"
+                    ]
+                  ]
+                ]
+              ]
+            ]
+          ],
+          [
+            "container",
+            {
+              "subType": "colorBlocks",
+              "metadata": {
+                "padding": {
+                  "top": 11,
+                  "right": 11,
+                  "bottom": 11,
+                  "left": 11
+                },
+                "borderRadius": 8,
+                "sticker": {
+                  "type": "dingding",
+                  "id": "emotion_146",
+                  "name": "[钉子]",
+                  "url": "https://g.alicdn.com/dingding/emotion-assets/0.68.0/mobile/emotion_146.png"
+                },
+                "bgcolor": "linear-gradient(316deg, #ECF9F0 -13%, #FFFEFE 52%, #D3ECE6 125%)",
+                "showstk": true
+              },
+              "uuid": "m9utdn3aeoj2j3vdbio"
+            },
+            [
+              "h2",
+              {
+                "uuid": "m9utdn39smz2ifb6ei9",
+                "spacing": {
+                  "before": 21.333333333333332,
+                  "after": 9,
+                  "line": 0.8529411764705882
+                }
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "bold": true,
+                    "sz": 16,
+                    "szUnit": "pt",
+                    "data-type": "leaf"
+                  },
+                  "权益四、流量智选精准屏蔽词权益"
+                ]
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "m9ute97nv2gff0nqsra",
+              "ind": {
+                "left": 0
+              },
+              "list": {
+                "listId": "x204zr6l6b",
+                "level": 0,
+                "isTaskList": false,
+                "isOrdered": false,
+                "listStyleType": "SCIR_ECIR_SREC",
+                "symbolStyle": {},
+                "listStyle": {
+                  "format": "bullet",
+                  "text": "●",
+                  "align": "left"
+                }
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "data-type": "leaf"
+                },
+                "流量智选屏蔽词上限："
+              ],
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "200"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "m9utfbo6j4hx344e0sl",
+              "ind": {
+                "left": 0
+              },
+              "list": {
+                "listId": "x204zr6l6b",
+                "level": 0,
+                "isTaskList": false,
+                "isOrdered": false,
+                "listStyleType": "SCIR_ECIR_SREC",
+                "symbolStyle": {},
+                "listStyle": {
+                  "format": "bullet",
+                  "text": "●",
+                  "align": "left"
+                }
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "data-type": "leaf"
+                },
+                "开通方式："
+              ],
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "50/100：自动开通；200申请开通"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "m9uth0xdsixtl11ty0g",
+              "ind": {
+                "left": 0
+              },
+              "list": {
+                "listId": "x204zr6l6b",
+                "level": 0,
+                "isTaskList": false,
+                "isOrdered": false,
+                "listStyleType": "SCIR_ECIR_SREC",
+                "symbolStyle": {},
+                "listStyle": {
+                  "format": "bullet",
+                  "text": "●",
+                  "align": "left"
+                },
+                "extraData": {},
+                "isChecked": false,
+                "hideSymbol": false
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "注："
+              ],
+              [
+                "span",
+                {
+                  "fonts": {
+                    "ascii": "Microsoft YaHei",
+                    "hAnsi": "Microsoft YaHei",
+                    "cs": "Microsoft YaHei",
+                    "eastAsia": "Microsoft YaHei"
+                  },
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "rgb(0, 0, 0)",
+                  "data-type": "leaf"
+                },
+                "中心词屏蔽不支持上限提升。精准词满足下列门槛时，可以开通。"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "m9uth4tr9tzicq1xnsc",
+              "ind": {
+                "left": 0
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "fonts": {
+                    "ascii": "Microsoft YaHei",
+                    "hAnsi": "Microsoft YaHei",
+                    "cs": "Microsoft YaHei",
+                    "eastAsia": "Microsoft YaHei"
+                  },
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "rgb(0, 0, 0)",
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ],
+            [
+              "img",
+              {
+                "uuid": "mcwt473y22hkb5qv51v",
+                "name": "image.png",
+                "size": 119813,
+                "width": 748,
+                "height": 152.82546201232032,
+                "src": "/core/api/resources/img/5eecdaf48460cde5d8dc6dddcf4e6a410f16f05c7daa0b7c75b8339e1c4c24831b75b38faadcd24bec177c308ebd5304bdd729f5fdb40650c92a73c97ee504ecc98edeb110aae07420a8f681a0aaff4a9f62fdb3b9dd12d74fb4c8ed7016461c",
+                "extraData": {
+                  "resourceId": "d87fedcd-aee0-4270-a220-0492c6fad72f",
+                  "metaData": {
+                    "size": 119813,
+                    "originWidth": 974,
+                    "originHeight": 199,
+                    "format": "png",
+                    "ratio": 1
+                  }
+                }
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "fonts": {
+                    "ascii": "Microsoft YaHei",
+                    "hAnsi": "Microsoft YaHei",
+                    "cs": "Microsoft YaHei",
+                    "eastAsia": "Microsoft YaHei"
+                  },
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "rgb(0, 0, 0)",
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "container",
+            {
+              "subType": "colorBlocks",
+              "metadata": {
+                "padding": {
+                  "top": 11,
+                  "right": 11,
+                  "bottom": 11,
+                  "left": 11
+                },
+                "borderRadius": 8,
+                "sticker": {
+                  "type": "dingding",
+                  "id": "emotion_146",
+                  "name": "[钉子]",
+                  "url": "https://g.alicdn.com/dingding/emotion-assets/0.68.0/mobile/emotion_146.png"
+                },
+                "bgcolor": "linear-gradient(316deg, #ECF9F0 -13%, #FFFEFE 52%, #D3ECE6 125%)",
+                "showstk": true
+              },
+              "uuid": "m9ut34969r7fr1n62ju"
+            },
+            [
+              "h2",
+              {
+                "uuid": "m9ut34962688w1b29go",
+                "spacing": {
+                  "before": 21.333333333333332,
+                  "after": 9,
+                  "line": 0.8529411764705882
+                }
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "bold": true,
+                    "sz": 16,
+                    "szUnit": "pt",
+                    "data-type": "leaf"
+                  },
+                  "权益五：DMP人群包同步数量"
+                ]
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "m9upp3meofexb8kbqhf",
+              "ind": {
+                "left": 0
+              },
+              "list": {
+                "listId": "t5obtxx7lrs",
+                "level": 0,
+                "isTaskList": false,
+                "isOrdered": false,
+                "listStyleType": "SCIR_ECIR_SREC",
+                "symbolStyle": {},
+                "listStyle": {
+                  "format": "bullet",
+                  "text": "●",
+                  "align": "left"
+                }
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "data-type": "leaf"
+                },
+                "达摩盘自主同步人群上限"
+              ],
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "：250"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "m9utjwg70zw1mhmlkrth",
+              "ind": {
+                "left": 0
+              },
+              "list": {
+                "listId": "t5obtxx7lrs",
+                "level": 0,
+                "isTaskList": false,
+                "isOrdered": false,
+                "listStyleType": "SCIR_ECIR_SREC",
+                "symbolStyle": {},
+                "listStyle": {
+                  "format": "bullet",
+                  "text": "●",
+                  "align": "left"
+                }
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "data-type": "leaf"
+                },
+                "开通方式"
+              ],
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "：达到消耗门槛T+1自动开通"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "m9utkn7hndfh16rm7do"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ],
+            [
+              "img",
+              {
+                "uuid": "mcwt473y5827zhsl9sr",
+                "name": "image.png",
+                "size": 106555,
+                "width": 748,
+                "height": 159.05747126436782,
+                "src": "/core/api/resources/img/5eecdaf48460cde5d8dc6dddcf4e6a410f16f05c7daa0b7c75b8339e1c4c24831b75b38faadcd24bec177c308ebd5304a478ab1ae2392df227a3c60462e9e3927be0ac652acf24ff21558873115b5f813d6e89a12a7aa7234fb4c8ed7016461c",
+                "extraData": {
+                  "resourceId": "ca84e379-fa42-4a1d-bb45-3df1daa49126",
+                  "metaData": {
+                    "size": 106555,
+                    "originWidth": 870,
+                    "originHeight": 185,
+                    "format": "png",
+                    "ratio": 1
+                  }
+                }
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "m9utkviiw63zv3lzv4l",
+              "ind": {
+                "left": 0
+              },
+              "list": {
+                "listId": "30exzc22rn9",
+                "level": 0,
+                "isTaskList": false,
+                "isOrdered": false,
+                "listStyleType": "SCIR_ECIR_SREC",
+                "symbolStyle": {
+                  "bold": true
+                },
+                "listStyle": {
+                  "format": "bullet",
+                  "text": "●",
+                  "align": "left"
+                }
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "data-type": "leaf"
+                },
+                "角色权限：无"
+              ]
+            ]
+          ],
+          [
+            "container",
+            {
+              "subType": "colorBlocks",
+              "metadata": {
+                "padding": {
+                  "top": 11,
+                  "right": 11,
+                  "bottom": 11,
+                  "left": 11
+                },
+                "borderRadius": 8,
+                "sticker": {
+                  "type": "dingding",
+                  "id": "emotion_146",
+                  "name": "[钉子]",
+                  "url": "https://g.alicdn.com/dingding/emotion-assets/0.68.0/mobile/emotion_146.png"
+                },
+                "bgcolor": "linear-gradient(316deg, #ECF9F0 -13%, #FFFEFE 52%, #D3ECE6 125%)",
+                "showstk": true
+              },
+              "uuid": "m9wkaegn3mxkzzyc83g"
+            },
+            [
+              "h2",
+              {
+                "uuid": "m9wkaegnxtdlngmxsua",
+                "spacing": {
+                  "before": 21.333333333333332,
+                  "after": 9,
+                  "line": 0.8529411764705882
+                }
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "bold": true,
+                    "sz": 16,
+                    "szUnit": "pt",
+                    "data-type": "leaf"
+                  },
+                  "权益六：单元创意权益"
+                ]
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "m9wku8gfvbom6q2zskj",
+              "ind": {
+                "left": 0
+              },
+              "list": {
+                "listId": "dg6du8unk2e",
+                "level": 0,
+                "isTaskList": false,
+                "isOrdered": false,
+                "listStyleType": "SCIR_ECIR_SREC",
+                "symbolStyle": {},
+                "listStyle": {
+                  "format": "bullet",
+                  "text": "●",
+                  "align": "left"
+                }
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "data-type": "leaf"
+                },
+                "权益个数上限"
+              ],
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "：8个（基础4个创意）"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "m9wku8ggpioe4xgwf7m",
+              "ind": {
+                "left": 0
+              },
+              "list": {
+                "listId": "dg6du8unk2e",
+                "level": 0,
+                "isTaskList": false,
+                "isOrdered": false,
+                "listStyleType": "SCIR_ECIR_SREC",
+                "symbolStyle": {},
+                "listStyle": {
+                  "format": "bullet",
+                  "text": "●",
+                  "align": "left"
+                }
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "data-type": "leaf"
+                },
+                "开通方式"
+              ],
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "：达到消耗门槛自动开通"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "m9upp468befgkli4bss"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ],
+            [
+              "img",
+              {
+                "uuid": "gd4bxr",
+                "name": "image.png",
+                "size": 618252,
+                "width": 873.64,
+                "height": 620.91,
+                "src": "/core/api/resources/img/5eecdaf48460cde5463b700d8535d3ea0c76cc5621d6b67f75b8339e1c4c24831b75b38faadcd24bec177c308ebd53041421c6813d0d3cd4c00180295929951cc230a7f31239476e93c2b2636a381fe0edc95522ae30833c4fb4c8ed7016461c",
+                "extraData": {
+                  "resourceId": "254d2608-0bb8-417a-abfa-552d1287a7eb",
+                  "metaData": {
+                    "size": 618252,
+                    "originWidth": 961,
+                    "originHeight": 683,
+                    "format": "png",
+                    "ratio": 1
+                  }
+                }
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mimyq2utdoya2728rbp"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "m9wkxdrj38xtj3pzol5",
+              "ind": {
+                "left": 0
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "m9upp4kg9r601b2vsn"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ]
+        ],
+        "footers": {},
+        "version": 1
+      },
+      "refs": {}
+    }
+  }
+}

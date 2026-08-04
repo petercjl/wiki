@@ -1,0 +1,2894 @@
+{
+  "version": 1,
+  "type": "application/x-alidocs-package",
+  "main": "00000000-0000-0000-0000-000000000001",
+  "plugins": "00000000-0000-0000-0000-000000000002",
+  "parts": {
+    "00000000-0000-0000-0000-000000000001": {
+      "id": "00000000-0000-0000-0000-000000000001",
+      "type": "application/x-alidocs-word",
+      "version": 1,
+      "data": {
+        "style": {
+          "docDefaults": {
+            "type": "paragraph",
+            "default": 1,
+            "name": "dingdocnormal",
+            "data": {
+              "rPr": {
+                "sz": 12,
+                "szUnit": "pt"
+              },
+              "pPr": {
+                "spacing": {
+                  "before": 8,
+                  "after": 8
+                }
+              }
+            }
+          },
+          "tableDefault": {
+            "type": "table",
+            "data": {
+              "tblPr": {
+                "bdr": {
+                  "bottom": {
+                    "color": "#D6D6D6",
+                    "space": 0,
+                    "sz": 1,
+                    "val": "single"
+                  },
+                  "insideH": {
+                    "color": "#D6D6D6",
+                    "space": 0,
+                    "sz": 1,
+                    "val": "single"
+                  },
+                  "insideV": {
+                    "color": "#D6D6D6",
+                    "space": 0,
+                    "sz": 1,
+                    "val": "single"
+                  },
+                  "left": {
+                    "color": "#D6D6D6",
+                    "space": 0,
+                    "sz": 1,
+                    "val": "single"
+                  },
+                  "right": {
+                    "color": "#D6D6D6",
+                    "space": 0,
+                    "sz": 1,
+                    "val": "single"
+                  },
+                  "top": {
+                    "color": "#D6D6D6",
+                    "space": 0,
+                    "sz": 1,
+                    "val": "single"
+                  }
+                }
+              }
+            }
+          },
+          "tableHeader": {
+            "type": "table",
+            "basedOn": "tableDefault",
+            "data": {
+              "tblStylePr": [
+                {
+                  "type": "firstRow",
+                  "tcPr": {
+                    "shd": {
+                      "fill": "#F5F6F7"
+                    }
+                  }
+                },
+                {
+                  "type": "firstCol",
+                  "tcPr": {
+                    "shd": {
+                      "fill": "#F5F6F7"
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        "theme": [],
+        "settings": {
+          "titleCover": {
+            "isHide": true
+          }
+        },
+        "app": {},
+        "numberings": {},
+        "headers": {},
+        "body": [
+          "root",
+          {
+            "sectPr": {
+              "pgSz": {
+                "w": 892,
+                "h": 1127
+              },
+              "pgMar": {
+                "top": 48,
+                "bottom": 48,
+                "left": 72,
+                "right": 72,
+                "header": 56.73,
+                "footer": 66.13,
+                "gutter": 0
+              }
+            },
+            "theme": {
+              "table": {
+                "tableCell": {
+                  "vAlign": "top"
+                }
+              }
+            }
+          },
+          [
+            "p",
+            {
+              "uuid": "mde7ot1gep12zjrwue"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "",
+                  "data-type": "leaf"
+                },
+                "新词包功能已经完成全量升级。"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mf581sg05u9op31x55v"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "highlight": "rgb(246, 246, 246)",
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "",
+                  "data-type": "leaf"
+                },
+                "“店铺直达—词包升级群2”群的钉钉群号： 35264073"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mfqm6j9i42mha9uslwm"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mfqm6pufwgyeyepmz"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "后台词包列表能看到以下飘条"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mfqm6deiuu1uw4ze1ra"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ],
+            [
+              "img",
+              {
+                "width": 407,
+                "height": 198,
+                "src": "/core/api/resources/img/5eecdaf48460cde5e27a048df3dd968f4fb717d2724baf2175b8339e1c4c24831b75b38faadcd24bec177c308ebd530469a2779f88764092e65cb2cf40357c5ef4c9ce67e1d0905a0d3aae9b7ebee5b5538f1cba9fe89aee4fb4c8ed7016461c",
+                "uuid": "mfqm6deel7mxv5ifmf9",
+                "extraData": {
+                  "resourceId": "9103f7fb-ae70-4f76-962f-21787c1fa660",
+                  "metaData": {
+                    "size": 483119,
+                    "originWidth": 2130,
+                    "originHeight": 1034,
+                    "format": "png",
+                    "ratio": 1
+                  }
+                },
+                "rotation": 0
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "sz": 12,
+                    "szUnit": "pt",
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mf581r6fqhty64mgvio"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 10,
+                  "szUnit": "pt",
+                  "color": "",
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ],
+            [
+              "img",
+              {
+                "uuid": "mf581r6aj2u3hzklnm8",
+                "name": "1753169314127.png",
+                "size": 95557,
+                "width": 225,
+                "height": 214,
+                "src": "/core/api/resources/img/5eecdaf48460cde54c3c3804ffe8bf87d0956d5c7b2d4aa475b8339e1c4c24831b75b38faadcd24bec177c308ebd53048181f82dac1fa0183a2eb86f6cafdca4f7f8015328072bcc01682ba041304abe7a47f400a5d48e684fb4c8ed7016461c",
+                "extraData": {
+                  "resourceId": "e1be9a5a-3d9b-45cd-8ac4-c2abd88408e4",
+                  "metaData": {
+                    "size": 95557,
+                    "originWidth": 864,
+                    "originHeight": 822,
+                    "format": "png",
+                    "ratio": 1
+                  }
+                },
+                "rotation": 0
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "color": "",
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 10,
+                  "szUnit": "pt",
+                  "color": "",
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "container",
+            {
+              "metadata": {
+                "bgcolor": "linear-gradient(316deg, #F0EBF7 -13%, #FFFEFE 52%, #D5C8EE 125%)",
+                "border": "#FFDC49",
+                "borderRadius": 8,
+                "padding": {
+                  "bottom": 11,
+                  "left": 11,
+                  "right": 11,
+                  "top": 11
+                },
+                "showstk": false
+              },
+              "subType": "colorBlocks",
+              "uuid": "mde7ods3myxjzwhtxj"
+            },
+            [
+              "h2",
+              {
+                "uuid": "mde7ods3ax8rbtzqkvt",
+                "spacing": {
+                  "before": 28,
+                  "after": 10,
+                  "line": 0.8615384615384615
+                }
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "bold": true,
+                    "italic": true,
+                    "sz": 18,
+                    "szUnit": "pt",
+                    "color": "rgb(0, 0, 0)",
+                    "data-type": "leaf"
+                  },
+                  "词包升级解决什么问题？"
+                ]
+              ]
+            ],
+            [
+              "p",
+              {
+                "uuid": "mf55urebttawtp98iu"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "italic": true,
+                    "sz": 12,
+                    "szUnit": "pt",
+                    "color": "rgb(0, 0, 0)",
+                    "data-type": "leaf"
+                  },
+                  "“词包里怎么没有我想要的词？”"
+                ]
+              ]
+            ],
+            [
+              "p",
+              {
+                "ind": {
+                  "left": 0
+                },
+                "uuid": "mde7ods3u12o1ms47m9"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "italic": true,
+                    "sz": 12,
+                    "szUnit": "pt",
+                    "color": "rgb(0, 0, 0)",
+                    "data-type": "leaf"
+                  },
+                  "“我们在站外做了「种草词」，结果店铺直达没有对应的词包可供投放怎么办？”"
+                ]
+              ]
+            ],
+            [
+              "p",
+              {
+                "ind": {
+                  "left": 0
+                },
+                "uuid": "mde7ods35zjn0b72gnp"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "bold": true,
+                    "sz": 12,
+                    "szUnit": "pt",
+                    "color": "rgb(0, 0, 0)",
+                    "data-type": "leaf"
+                  },
+                  "新品发售、新增代言人、趋势热搜……全场景一网打尽！"
+                ],
+                [
+                  "span",
+                  {
+                    "bold": true,
+                    "sz": 12,
+                    "szUnit": "pt",
+                    "color": "linear-gradient(90deg, #2449FE 0%, #CA4BA7 100%)",
+                    "data-type": "leaf"
+                  },
+                  "店铺直达词包火热升级上线！"
+                ]
+              ]
+            ],
+            [
+              "p",
+              {
+                "ind": {
+                  "left": 0
+                },
+                "uuid": "mde7ods3o1ni0l7we8p"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "bold": true,
+                    "sz": 12,
+                    "szUnit": "pt",
+                    "color": "linear-gradient(90deg, #2449FE 0%, #CA4BA7 100%)",
+                    "data-type": "leaf"
+                  },
+                  "解决以上「疑难杂症」，商家能够添加想要的各类词包进行投放，不错过每一个品牌搜索词！"
+                ]
+              ]
+            ],
+            [
+              "p",
+              {
+                "jc": "left",
+                "ind": {},
+                "uuid": "mfapw1p7fkvr30mjld"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "bold": true,
+                    "sz": 18,
+                    "szUnit": "pt",
+                    "color": "",
+                    "data-type": "leaf"
+                  },
+                  "√无对应词包投放"
+                ]
+              ]
+            ],
+            [
+              "p",
+              {
+                "jc": "left",
+                "ind": {},
+                "uuid": "mfaq0ch4xliafoj2u6j"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "bold": true,
+                    "sz": 18,
+                    "szUnit": "pt",
+                    "color": "",
+                    "data-type": "leaf"
+                  },
+                  "——实时捕捉新生词，"
+                ],
+                [
+                  "span",
+                  {
+                    "sz": 14,
+                    "szUnit": "pt",
+                    "color": "",
+                    "data-type": "leaf"
+                  },
+                  "新品发售、新品型号、新增代言人、趋势热搜……升级为六大类型词包，全场景搜索词一网打尽！"
+                ]
+              ]
+            ],
+            [
+              "p",
+              {
+                "jc": "left",
+                "ind": {},
+                "uuid": "mfaq1jtuovi9y85lml"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "bold": true,
+                    "sz": 18,
+                    "szUnit": "pt",
+                    "color": "",
+                    "data-type": "leaf"
+                  },
+                  "√产词不精准"
+                ]
+              ]
+            ],
+            [
+              "p",
+              {
+                "jc": "left",
+                "ind": {},
+                "uuid": "mfapqgj25dbunlpe3rt"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "bold": true,
+                    "sz": 18,
+                    "szUnit": "pt",
+                    "color": "",
+                    "data-type": "leaf"
+                  },
+                  "——精细化产词，"
+                ],
+                [
+                  "span",
+                  {
+                    "sz": 14,
+                    "szUnit": "pt",
+                    "color": "",
+                    "data-type": "leaf"
+                  },
+                  "迅速拓展品牌词、品牌品类词流量，词包种类更精细更丰富，迅速拓展品牌流量。"
+                ]
+              ]
+            ],
+            [
+              "p",
+              {
+                "jc": "left",
+                "ind": {},
+                "uuid": "mfapqzcpqiglvyfakgn"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "bold": true,
+                    "sz": 18,
+                    "szUnit": "pt",
+                    "color": "",
+                    "data-type": "leaf"
+                  },
+                  "√产词慢"
+                ]
+              ]
+            ],
+            [
+              "p",
+              {
+                "jc": "left",
+                "ind": {},
+                "uuid": "mfaq0yt4c9jlid93mql"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "bold": true,
+                    "sz": 18,
+                    "szUnit": "pt",
+                    "color": "",
+                    "data-type": "leaf"
+                  },
+                  "——提升投放效率，"
+                ],
+                [
+                  "span",
+                  {
+                    "sz": 14,
+                    "szUnit": "pt",
+                    "color": "",
+                    "data-type": "leaf"
+                  },
+                  "产词速度提升50%以上，大大提升投放效率。"
+                ]
+              ]
+            ],
+            [
+              "p",
+              {
+                "jc": "left",
+                "ind": {},
+                "uuid": "mfasum7hk4ehuwhd38a"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "bold": true,
+                    "sz": 18,
+                    "szUnit": "pt",
+                    "color": "",
+                    "data-type": "leaf"
+                  },
+                  "√词包流量小"
+                ]
+              ]
+            ],
+            [
+              "p",
+              {
+                "jc": "left",
+                "ind": {},
+                "uuid": "mfasup5pcpuydxy3lsl"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "sz": 14,
+                    "szUnit": "pt",
+                    "color": "",
+                    "data-type": "leaf"
+                  },
+                  "——新词包解决了词包流量小的问题，可投放pv整体涨幅+10%"
+                ]
+              ]
+            ],
+            [
+              "p",
+              {
+                "ind": {
+                  "left": 0
+                },
+                "uuid": "mde7ods3ny9bjpfurni"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "bold": true,
+                    "sz": 11.5,
+                    "szUnit": "pt",
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ],
+              [
+                "span",
+                {
+                  "code": "双星星",
+                  "newCode": {
+                    "id": "alidocs_emotion_036",
+                    "name": "[双星星]",
+                    "type": "dingding",
+                    "url": "https://g.alicdn.com/alidocs/emotion-assets/0.0.6/alidocs_emotion_036.png"
+                  },
+                  "uuid": "mde7ods3sc4hswyj8b",
+                  "data-type": "emoji"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "text"
+                  },
+                  [
+                    "span",
+                    {
+                      "bold": true,
+                      "highlight": null,
+                      "sz": 11.5,
+                      "szUnit": "pt",
+                      "data-type": "leaf"
+                    },
+                    ""
+                  ]
+                ]
+              ],
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "bold": true,
+                    "sz": 11.5,
+                    "szUnit": "pt",
+                    "data-type": "leaf"
+                  },
+                  "店铺直达投放入口："
+                ]
+              ],
+              [
+                "a",
+                {
+                  "href": "https://one.alimama.com/index.html#!/main/index?bizCode=onebpStarShop",
+                  "uuid": "mde7ods3no1wtuc9re"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "text"
+                  },
+                  [
+                    "span",
+                    {
+                      "sz": 11.5,
+                      "szUnit": "pt",
+                      "data-type": "leaf"
+                    },
+                    "https://one.alimama.com/index.html#!/main/index?bizCode=onebpStarShop"
+                  ]
+                ]
+              ],
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "bold": true,
+                    "sz": 11.5,
+                    "szUnit": "pt",
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ]
+            ],
+            [
+              "p",
+              {
+                "ind": {
+                  "left": 0
+                },
+                "uuid": "mf52pyyv2zoycxt5gtn"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "sz": 11.5,
+                    "szUnit": "pt",
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ],
+              [
+                "span",
+                {
+                  "code": "双星星",
+                  "newCode": {
+                    "id": "alidocs_emotion_036",
+                    "name": "[双星星]",
+                    "type": "dingding",
+                    "url": "https://g.alicdn.com/alidocs/emotion-assets/0.0.6/alidocs_emotion_036.png"
+                  },
+                  "uuid": "mfaq2r6jne4r9wzqaxp",
+                  "data-type": "emoji"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "text"
+                  },
+                  [
+                    "span",
+                    {
+                      "bold": true,
+                      "highlight": null,
+                      "sz": 11.5,
+                      "szUnit": "pt",
+                      "data-type": "leaf"
+                    },
+                    ""
+                  ]
+                ]
+              ],
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "sz": 11.5,
+                    "szUnit": "pt",
+                    "data-type": "leaf"
+                  },
+                  "明星店铺投放入口："
+                ]
+              ],
+              [
+                "a",
+                {
+                  "href": "https://branding.taobao.com/#!/home/index",
+                  "uuid": "mf52r3n14wf9p4gbw7f"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "text"
+                  },
+                  [
+                    "span",
+                    {
+                      "sz": 11.5,
+                      "szUnit": "pt",
+                      "data-type": "leaf"
+                    },
+                    "https://branding.taobao.com/#!/home/index"
+                  ]
+                ]
+              ],
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "sz": 11.5,
+                    "szUnit": "pt",
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mfaq89dvc29f9cbf0m"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "highlight": "radial-gradient(68% 68% at 68% 100%, #F2F7F7 0%, rgba(242, 245, 255, 0) 100%), radial-gradient(53% 53% at 16% -12%, #FEF2F2 0%, rgba(242, 245, 255, 0) 100%), radial-gradient(55% 141% at 100% 100%, #E4EBFF 0%, rgba(242, 245, 255, 0) 100%), linear-gradient(99deg, #E9E7FF 0%, #E4EBFF 100%)",
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "h2",
+            {
+              "ind": {
+                "left": 0
+              },
+              "uuid": "m7jw0nbztm0xqhbp72f",
+              "spacing": {
+                "before": 28,
+                "after": 10,
+                "line": 0.8615384615384615
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "highlight": "radial-gradient(68% 68% at 68% 100%, #F2F7F7 0%, rgba(242, 245, 255, 0) 100%), radial-gradient(53% 53% at 16% -12%, #FEF2F2 0%, rgba(242, 245, 255, 0) 100%), radial-gradient(55% 141% at 100% 100%, #E4EBFF 0%, rgba(242, 245, 255, 0) 100%), linear-gradient(99deg, #E9E7FF 0%, #E4EBFF 100%)",
+                  "sz": 18,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "一、升级后的新词包，词包类型更丰富、产词速度更快"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mde01g2s5g8b14hdgyf"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                " 1、由原来的两类品牌词包/品牌品类词包"
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "linear-gradient(90deg, #2449FE 0%, #CA4BA7 100%)",
+                  "data-type": "leaf"
+                },
+                "升级为六大类型词包"
+              ],
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "，"
+              ],
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "",
+                  "data-type": "leaf"
+                },
+                "商家能够添加想要的各类词包进行投放，"
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "linear-gradient(90deg, #2449FE 0%, #CA4BA7 100%)",
+                  "data-type": "leaf"
+                },
+                "不错过每一个品牌搜索词！"
+              ]
+            ]
+          ],
+          [
+            "table",
+            {
+              "colsWidth": [
+                21.55,
+                78.45
+              ],
+              "tblW": {
+                "type": "pct"
+              },
+              "uuid": "mddznh63dpems23hodr"
+            },
+            [
+              "tr",
+              {
+                "uuid": "m9xw2rf4qy1u97ekld",
+                "isTblHeader": true
+              },
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "m9xw2rf4ascl79vuaeq"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "m9xw2rf4pp9q9qbbny"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "词包类型"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "m9xw2rf4nn2lme7si5c"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "m9xw2rf41ak4nabx2q2"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "类型解释"
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {
+                "uuid": "m9xw2rf4qjblyncl1s"
+              },
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "m9xw2rf48dqqekjbyec"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "m9xw2rf47l7f7q44l43"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "纯品牌词包"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "m9xw2rf4b46t919z5j"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "m9xw2rf44c3260dat0i"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "仅包含品牌资质和店铺名，不含具体类目词，如“耐克官方旗舰店”"
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {
+                "uuid": "mgq9vp2p6bzchwjzv8u"
+              },
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mgq9vs7w64p7sgsugdn",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "madrq47kouwtkdpxiz"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "品牌别称词包"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mgq9vs7w3zv3ns8511l",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "madrq47k2oyptknyi4m"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "不含品牌全称，属于品牌独有且有明确指向性的别称词，包括系列词、产品词等，如“空军一号”“乐扣乐扣”"
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {
+                "uuid": "maduwbsoxc8jvvsqlzf",
+                "h": 71
+              },
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "maduwbso8jdb6muwzcf"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "maduwbsobj4rkwfzy5"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "特殊品牌词包"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "maduwbsoroieqcq3ggi"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "maduwbsohdjqljbkme"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "特殊品牌词，如品牌名为品类词（“苹果”）、包含多个品牌名（“蒙牛特仑苏牛奶”）、与其他品牌词同名（“dove旗舰店”会同时产出给多芬、德芙）等特殊情况"
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {
+                "uuid": "m9xw388eo423bi3qvz",
+                "h": 44
+              },
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "m9xw388e90ioy6q6yco"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "m9xw388et601sy5gkfn"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "品牌类目词包"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "m9xw388eg2ny5f0f8ye"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "m9xw388eartsuo6ior"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "根据您的授权品牌和店铺宝贝类目匹配生成，如“耐克跑步鞋”"
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {
+                "uuid": "m9xw3h4lk4pqvqe5y2l",
+                "h": 44
+              },
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "m9xw3h4l0f6vdyt4wdfc"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "m9xw3h4l2mxenmos8k4"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "品牌大事件词包"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "m9xw3h4lkb4g8qvnfva"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "m9xw3h4l4w5m4r59b5s"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "包括明星词包、IP联名词包等，根据您上传的授权品牌和媒介资质匹配生成"
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {
+                "uuid": "m9xw3kflqn1yvn4o9ie"
+              },
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "m9xw3kfl3j5r7c36rh"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "ma3oh4f7gsd3k5b11go"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "行业特性词包"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "ma3oh53n6i278phsuq9",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "m9xw3kfllz8xn1bqe6p"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "不含品牌全称，有明确品牌指向的行业特性词（如书名词、型号词、直播达人词等）"
+                    ]
+                  ]
+                ]
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mddznm4scqivxd4hb3"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mddzu0wgx7ez83knm"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "2、商家后台变化"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mfaq8ydt2te9q8bh02b"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "词包升级权限开通后，系统会在10月上旬完成底层升级，完成旧版词包映射升级，升级示例如下："
+              ]
+            ]
+          ],
+          [
+            "table",
+            {
+              "colsWidth": [
+                132,
+                217,
+                246
+              ],
+              "uuid": "mf56bmf8rvhq46yj6r"
+            },
+            [
+              "tr",
+              {
+                "uuid": "mf56bmf8bv4fih1s03u",
+                "isTblHeader": true
+              },
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mf56bmf8rsifre4dbyp",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mf56bmf8a3xqa0zoptm"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "data-type": "leaf"
+                      },
+                      "印射类型"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mf56c094ze4xibgd4z"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mf56c0946png0vtmxsv"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "data-type": "leaf"
+                      },
+                      "旧词包"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mf56bmf80nfkjgwhm7t",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mf56bmf8ouod7pvc4br"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "bold": true,
+                        "data-type": "leaf"
+                      },
+                      "新词包"
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {
+                "uuid": "mf56bmf8kztyyz2jxo"
+              },
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mf56bmf873ygchj8so5",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mf56bmf8fqwe3p4q3bu"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "同名映射"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mf56c0960idcbon11nqa"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mf56c096n14r9cgew9"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "nike/耐克-纯品牌词包"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mf56bmf8kjmh5cwr66",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mf56e7h8la0tzgs2o9l"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "nike/耐克_纯品牌词包"
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {
+                "uuid": "mf56bmf888vrjlc6wtx",
+                "h": 71
+              },
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mf56bmf8n1jrzo4c47",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mf56bmf85avyuqcnp57"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "相似映射"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mf56c096hlcr21hj0z"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mf56c0966fdb3z4q5kq"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "midea/美的-大家电-冷柜/便携冷热箱"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mf56bmf8tq4eintljrs",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mf56bmf80j75yusa9knv"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "midea/美的-大家电-冰箱"
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {
+                "uuid": "mf56bmf8aez33p4i65v",
+                "h": 44
+              },
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mf56bmf8nnpws62z7we",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mf56bmf8fgmjc7tmzrw"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "无法映射"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mf56c097fqvn563ullo"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mf56c097j7o7073w8vb"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "apple/苹果-3c数码配件-手机配件-手机贴膜"
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "tc",
+                {
+                  "colSpan": 1,
+                  "rowSpan": 1,
+                  "uuid": "mf56bmf8wdz1jyzy6kb",
+                  "vAlign": "top"
+                },
+                [
+                  "p",
+                  {
+                    "uuid": "mf56bmf8cj2dux3tkeo"
+                  },
+                  [
+                    "span",
+                    {
+                      "data-type": "text"
+                    },
+                    [
+                      "span",
+                      {
+                        "data-type": "leaf"
+                      },
+                      "无词包（店铺内没有在售苹果品牌的手机膜则不产出词包）"
+                    ]
+                  ]
+                ]
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mde01u3gror88r3yse",
+              "ind": {}
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mf56q2x89v4scs1be9t",
+              "ind": {}
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "3、如何查看词包数据？"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mfak4lxcgvzdat01dt7",
+              "ind": {}
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "color": "",
+                  "data-type": "leaf"
+                },
+                "报表数据查看路径"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "magkfar1cdy9o5u2n7u",
+              "ind": {}
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 11,
+                  "szUnit": "pt",
+                  "color": "#E03E3E",
+                  "data-type": "leaf"
+                },
+                "入口：报表-关键词报表-店铺直达数据明细"
+              ]
+            ],
+            [
+              "a",
+              {
+                "href": "https://one.alimama.com/index.html#!/report/bidword?rptType=bidword",
+                "uuid": "magkf1ihd4cg56j0e9u"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "sz": 11,
+                    "szUnit": "pt",
+                    "data-type": "leaf"
+                  },
+                  "https://one.alimama.com/index.html#!/report/bidword?rptType=bidword"
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 11,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "spacing": {
+                "line": 1,
+                "lineRule": "auto"
+              },
+              "uuid": "magkf1ii7cw7o75kvov",
+              "ind": {}
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "highlight": "#F9DDB2",
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "特殊情况说明"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mfajzbfuaynvk6c7ykv",
+              "ind": {}
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "",
+                  "data-type": "leaf"
+                },
+                "1）旧词包数据不会在「计划详情页-词包tab」透出，可以在报表-关键词报表-店铺直达数据明细查看旧词包数据。"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mfak4u1u7zthu528p5",
+              "ind": {}
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "",
+                  "data-type": "leaf"
+                },
+                "2）可能存在计划旧词包清空，未绑定新词包的情况，如果仍想投放该计划筛选词包正常添加投放即可。"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mfak0qwezrjuj7xialf",
+              "ind": {}
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 11,
+                  "szUnit": "pt",
+                  "color": "#305299",
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mde53h22nbp7i9qcyf"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mdpf7dt13wutgbmtulh"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 10,
+                  "szUnit": "pt",
+                  "color": "#C10002",
+                  "data-type": "leaf"
+                },
+                " "
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "highlight": "radial-gradient(68% 68% at 68% 100%, #F2F7F7 0%, rgba(242, 245, 255, 0) 100%), radial-gradient(53% 53% at 16% -12%, #FEF2F2 0%, rgba(242, 245, 255, 0) 100%), radial-gradient(55% 141% at 100% 100%, #E4EBFF 0%, rgba(242, 245, 255, 0) 100%), linear-gradient(99deg, #E9E7FF 0%, #E4EBFF 100%)",
+                  "sz": 18,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                "二、常见问题Q&A"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mf56jronga85x0eoy8n"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "1、词包升级后，商家需要做什么？"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mfaqy2i6mz8xeqok5id"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "linear-gradient(90deg, #2449FE 0%, #CA4BA7 100%)",
+                  "data-type": "leaf"
+                },
+                "1）登录后台检查，查看期望投放的词包是否都在正常投放中。"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mfq6w2k7aihb1zyleif"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "linear-gradient(90deg, #2449FE 0%, #CA4BA7 100%)",
+                  "data-type": "leaf"
+                },
+                "2）添加词包，"
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 14,
+                  "szUnit": "pt",
+                  "color": "#FE0300",
+                  "data-type": "leaf"
+                },
+                "如发现词包遗漏，"
+              ],
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "linear-gradient(90deg, #2449FE 0%, #CA4BA7 100%)",
+                  "data-type": "leaf"
+                },
+                "之前有投放的词包极低概率可能不在投放列表，正常手动添加词包继续投放即可；没有词包遗漏，也可以查看是否有新词包可以添加。"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mfaquj92veffwp6y5a"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mfaqujf7v4ycowppcuo"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "data-type": "leaf"
+                },
+                "2、为什么我的后台没有6类词包？"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mf56jron3ejkvnk3ozk"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "升级六类词包不是指每个商家后台一定有六类词包，根据每个商家具体情况而定。"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mf56jronqj89nkbmhcs"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mf56jronf2cnqe327co"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "data-type": "leaf"
+                },
+                "3.新词包看起来数量变少，因为："
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mf56jronwtdvwwqtqq"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "旧词包内有一些词包是「自定义词包」，是根据店铺内宝贝所属类目聚合而成的类目词包，实际产出的词也是和品牌品类词包重合的，只是词包划分逻辑不同。"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mf56jroo8kw69nqrsy"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "在新词包内没有「自定义词包」的产词方式了，所以客户体感上是词包数量变少，但实际pv没有减少。"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mf56lnxj7zzryn5uo9c"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mf573oou6j1f7y9ms9d"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "data-type": "leaf"
+                },
+                "4、计划详情页看不到旧词包数据了怎么办？"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mf576xwiayfgb9ctr9e",
+              "ind": {
+                "left": 0
+              }
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "",
+                  "data-type": "leaf"
+                },
+                "旧词包的投放效果在关键词报表仍可查看和下载，查看路径：报表-关键词报表-店铺直达数据明细"
+              ]
+            ],
+            [
+              "a",
+              {
+                "href": "https://one.alimama.com/index.html#!/report/bidword?rptType=bidword",
+                "uuid": "mf576xwkzj7hzon8h69"
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "sz": 11,
+                    "szUnit": "pt",
+                    "data-type": "leaf"
+                  },
+                  "https://one.alimama.com/index.html#!/report/bidword?rptType=bidword"
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 11,
+                  "szUnit": "pt",
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mf56lph21ka3ug18zqt"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mf573pwbcxnbnzds1zu"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "data-type": "leaf"
+                },
+                "5、极端情况某计划里全部词包都删除了，计划里一个词包都没有，无法投放，怎么办？"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mf571qxy2i35zcgfyh6"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "highlight": "#F9DDB2",
+                  "data-type": "leaf"
+                },
+                "别着急，系统判断有投放价值的词包一定会产出，如果没有，操作路径如下："
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mfakadlh9ea473npbxd"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "步骤一：商家手动添加"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mfakajkawv5nqwhb1cj"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                "步骤二：找小二"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mdpf7fnf0v9t92a4hl8"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "sz": 12,
+                  "szUnit": "pt",
+                  "color": "",
+                  "data-type": "leaf"
+                },
+                "添加钉钉群，备注您的需求：店铺名+具体问题"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mdpf7fsly0lye5vonaa"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 10,
+                  "szUnit": "pt",
+                  "color": "#C10002",
+                  "data-type": "leaf"
+                },
+                "“【商家内测】词包升级”群的钉钉群号： 10250021773"
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mde7qayy3tdm7kw8nvd"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 10,
+                  "szUnit": "pt",
+                  "color": "#C10002",
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ],
+            [
+              "img",
+              {
+                "uuid": "mdpf7dszjs8ywtepigh",
+                "name": "1753169314127.png",
+                "size": 95557,
+                "width": 225,
+                "height": 214,
+                "src": "/core/api/resources/img/5eecdaf48460cde54c3c3804ffe8bf87d0956d5c7b2d4aa475b8339e1c4c24831b75b38faadcd24bec177c308ebd53048181f82dac1fa0183a2eb86f6cafdca4f7f8015328072bcc01682ba041304abe7a47f400a5d48e684fb4c8ed7016461c",
+                "extraData": {
+                  "resourceId": "e1be9a5a-3d9b-45cd-8ac4-c2abd88408e4",
+                  "metaData": {
+                    "size": 95557,
+                    "originWidth": 864,
+                    "originHeight": 822,
+                    "format": "png",
+                    "ratio": 1
+                  }
+                },
+                "rotation": 0
+              },
+              [
+                "span",
+                {
+                  "data-type": "text"
+                },
+                [
+                  "span",
+                  {
+                    "data-type": "leaf"
+                  },
+                  ""
+                ]
+              ]
+            ],
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "sz": 10,
+                  "szUnit": "pt",
+                  "color": "#C10002",
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mddzm71v6tpy3dfeigd"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mf52uj08msnxkcws85q"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "color": "",
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mf55y2e93y723dyk617"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "color": "",
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mf55y2l77db29alhuoq"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "color": "",
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "mf55y0leljsuas5sps",
+              "ind": {}
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ],
+          [
+            "p",
+            {
+              "uuid": "maorrishhf1oicewwe"
+            },
+            [
+              "span",
+              {
+                "data-type": "text"
+              },
+              [
+                "span",
+                {
+                  "bold": true,
+                  "data-type": "leaf"
+                },
+                ""
+              ]
+            ]
+          ]
+        ],
+        "footers": {},
+        "version": 1
+      },
+      "refs": {}
+    }
+  }
+}
