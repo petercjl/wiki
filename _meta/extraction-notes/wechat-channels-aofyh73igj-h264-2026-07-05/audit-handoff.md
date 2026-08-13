@@ -29,8 +29,8 @@ status: active
 - Omission audit: `_meta/extraction-notes/wechat-channels-aofyh73igj-h264-2026-07-05/omission-audit.md`
 - Formal page plan: `_meta/extraction-notes/wechat-channels-aofyh73igj-h264-2026-07-05/formal-page-plan.md`
 - Formal pages:
-  - `domains/视觉制作/06-AI视频/30-影像美学大师风格AI短视频/index.md`
-  - `domains/视觉制作/06-AI视频/30-影像美学大师风格AI短视频/01-岩井俊二风格AI短视频制作方法.md`
+  - `domains/视觉制作/06-AI视频/85-影像风格参考/30-影像美学大师风格AI短视频.md`
+  - `domains/视觉制作/06-AI视频/85-影像风格参考/30-01-岩井俊二风格AI短视频制作方法.md`
 - Prompt evidence:
   - `raw/assets/wechat-channels-aofyh73igj-h264-2026-07-05/ch01/prompt-frames/`
   - `raw/assets/wechat-channels-aofyh73igj-h264-2026-07-05/ch01/vision-ocr.raw.txt`
@@ -54,10 +54,10 @@ status: active
   - 如何把风格分析变成秒级分镜和镜头表？
 - Pages an Agent should read first:
   - `queries/AI视频导演与分镜入口.md`
-  - `domains/视觉制作/06-AI视频/30-影像美学大师风格AI短视频/index.md`
-  - `domains/视觉制作/06-AI视频/30-影像美学大师风格AI短视频/01-岩井俊二风格AI短视频制作方法.md`
-  - `domains/视觉制作/06-AI视频/05-AI视频导演Prompt模板.md`
-  - `domains/视觉制作/06-AI视频/04-商业短视频摄影与运镜语法.md`
+  - `domains/视觉制作/06-AI视频/85-影像风格参考/30-影像美学大师风格AI短视频.md`
+  - `domains/视觉制作/06-AI视频/85-影像风格参考/30-01-岩井俊二风格AI短视频制作方法.md`
+  - `domains/视觉制作/06-AI视频/05-视频生成/05-AI视频导演Prompt模板.md`
+  - `domains/视觉制作/06-AI视频/03-分镜脚本/04-商业短视频摄影与运镜语法.md`
 - Query/playbook entries:
   - Updated route: `queries/AI视频导演与分镜入口.md`
   - New query entry: not needed; existing route updated for style-recreation/tutorial tasks.
@@ -72,8 +72,8 @@ status: active
 ## Self-Validation
 
 - Ingest contract: `llm-wiki-ingest contract OK`. Verbatim-match warnings are expected because the formal page reconstructs noisy ASR/OCR into usable prompt drafts and workflow language instead of copying raw OCR/ASR sentences.
-- Placeholder scan: `SHELL: 0`, `THIN: 0`, `OK: 2` for `domains/视觉制作/06-AI视频/30-影像美学大师风格AI短视频/`.
-- Route audit: `queries/AI视频导演与分镜入口.md` and `domains/视觉制作/06-AI视频/30-影像美学大师风格AI短视频/index.md` target reports have no warnings; active Obsidian vault is `/Users/pechen/wiki`.
+- Placeholder scan: `SHELL: 0`, `THIN: 0`, `OK: 2` for `domains/视觉制作/06-AI视频/85-影像风格参考/`.
+- Route audit: `queries/AI视频导演与分镜入口.md` and `domains/视觉制作/06-AI视频/85-影像风格参考/30-影像美学大师风格AI短视频.md` target reports have no warnings; active Obsidian vault is `/Users/pechen/wiki`.
 - Representative term search: old misclassified case-library route is cleared. New route contains `影像美学大师风格AI短视频`, `岩井俊二风格AI短视频制作方法`, `AI 短视频教程`, `风格复刻`, `秒级镜头`, `低饱和`, and `微信视频号`.
 - Index/log check: updated AI video index, root index, query entry, log, and removed the misclassified case-library route.
 - Remaining gaps: none expected; user clarified source intent as an AI short-video tutorial and notes/formal plan were updated accordingly.

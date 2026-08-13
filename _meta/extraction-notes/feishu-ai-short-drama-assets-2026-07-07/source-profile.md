@@ -20,7 +20,7 @@ status: active
 - language: Chinese
 - adapter: `markdown-doc` over Feishu Docx fetch
 - domain placement: `domains/视觉制作/06-AI视频/`
-- fusion disposition: create focused playbook and cross-link existing [[domains/视觉制作/06-AI视频/07-故事板铁三角AI视频控制法|AI视频控制资产系统]]
+- fusion disposition: create focused playbook and cross-link existing [[domains/视觉制作/06-AI视频/04-图片与控制资产/07-故事板铁三角AI视频控制法|AI视频控制资产系统]]
 - sensitivity: no credentials; platform screenshots and model names preserved in raw.
 - time sensitivity: model capabilities, prices, and审核政策 require future verification.
 - tool handling: LibTV、即梦等平台步骤不作为固定工具依赖，只抽象为模型选择、参考图输入、多角度资产生成、质量门和审核门。

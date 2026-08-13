@@ -8,7 +8,7 @@ The user accepted the recommended placement, then instructed: “好的开始编
 
 ## Pages
 
-1. `domains/视觉制作/06-AI视频/14-AI品牌TVC的气质、视觉符号与产品登场.md`
+1. `domains/视觉制作/06-AI视频/01-项目定义与剧本/04-AI品牌TVC的气质、视觉符号与产品登场.md`
 2. `domains/视觉制作/06-AI视频/90-案例库/09-香水与汽车TVC：从品牌世界到产品亮相.md`
 
 ## Boundary

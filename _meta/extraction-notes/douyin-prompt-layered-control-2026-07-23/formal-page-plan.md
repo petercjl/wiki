@@ -7,7 +7,7 @@
 ## Recommended Placement
 
 - Category: `domains/视觉制作/06-AI视频/`
-- New page: `domains/视觉制作/06-AI视频/12-AI视频Prompt分层强控方法.md`
+- New page: `domains/视觉制作/06-AI视频/05-视频生成/12-AI视频Prompt分层强控方法.md`
 - Disposition: `create-new`
 - Rationale:
   - 内容回答的是“怎样把 AI 视频 Prompt 写得更可控”，属于视觉制作的执行方法，不是 AI Agent 工程。
@@ -39,5 +39,5 @@
 
 - User confirmation: confirmed
 - Confirmation evidence: 用户在 2026-07-23 回复“确定”
-- Final confirmed path: `domains/视觉制作/06-AI视频/12-AI视频Prompt分层强控方法.md`
+- Final confirmed path: `domains/视觉制作/06-AI视频/05-视频生成/12-AI视频Prompt分层强控方法.md`
 - Final disposition: `create-new`

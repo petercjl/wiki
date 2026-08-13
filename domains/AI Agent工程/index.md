@@ -2,7 +2,7 @@
 title: AI Agent 工程知识域
 type: concept
 created: 2026-06-14
-updated: 2026-08-03
+updated: 2026-08-06
 domain: AI Agent工程
 tags: [ai-agent-engineering, index]
 sources:
@@ -12,6 +12,8 @@ sources:
   - _meta/extraction-notes/agent-driven-ecommerce-cli-methodology-2026-07-29/coverage-matrix.md
   - raw/webpages/word-document-format-design-research-2026-07-30/
   - _meta/extraction-notes/word-document-format-design-research-2026-07-30/coverage-matrix.md
+  - raw/articles/compact-commerce-ui-2026-08-06/source-evidence.md
+  - _meta/extraction-notes/compact-commerce-ui-2026-08-06/coverage-matrix.md
   - raw/articles/gigsgigscloud-shadowsocks-node-2026-08-03/source-evidence.md
   - _meta/extraction-notes/gigsgigscloud-shadowsocks-node-2026-08-03/coverage-matrix.md
 status: active
@@ -41,6 +43,7 @@ status: active
 - `07-评测与调试/`：质量门、lint、回归测试、故障定位。
 - `08-插件工程/`：Plugin、CLI、Skill、MCP、Connector、Hook 的封装、治理与分发。
 - `09-多模态理解/`：Agent 对视频等多模态资料的证据化读取、检索、推理与质量验收。
+- `11-网页设计规范/`：Agent 生成 HTML 报告、经营工作台、SaaS 后台和网页插件时的布局、视觉、组件、内容与验收标准。
 - `格式化文档/`：Agent 对 Word、PDF、电子表格、演示文稿和在线文档的结构化、格式化与质量验收；当前先建立 Word 体系。
 - `90-Skill注册表/`：由同步脚本生成的跨 Agent skill 检索资产。
 
@@ -51,14 +54,9 @@ status: active
 
 ## Skill 设计
 
-- [[domains/AI Agent工程/03-Skill设计/index|Skill 设计]]：Agent skill 的设计、测试、演化和注册方法入口。
-- [[domains/AI Agent工程/03-Skill设计/00-Skill世界观|Skill 世界观]]：把 skill 定义为大模型执行复杂任务的说明书、定向知识库和可演化执行知识体，强调主线、补丁、工作流节点和回主线机制。
-- [[domains/AI Agent工程/03-Skill设计/03-主对话与干净子Agent的Skill回归测试方法|主对话与干净子 Agent 的 Skill 回归测试方法]]：用主 agent 设计/修 skill，用干净子 agent 验证落盘和独立执行能力。
-- [[domains/AI Agent工程/03-Skill设计/04-可分享跨Agent Skill创建方法|可分享跨 Agent Skill 创建方法]]：用 portable 扩展组合当前基础 creator，并以隐私扫描、平台隔离和干净上下文测试保证可分享性。
-- [[domains/AI Agent工程/90-Skill注册表/01-个人与项目Skill注册库|个人/项目 Skill 注册库]]：只收录 用户自己创建、让 Agent 为项目定制、或明显服务于 用户项目/业务流程的 skill，是日常检索“有没有类似 skill”的优先入口。
+- [[domains/AI Agent工程/90-Skill注册表/01-个人与项目Skill注册库|个人/项目 Skill 注册库]]：只收录 wiki owner 自己创建、让 Agent 为项目定制、或明显服务于 wiki owner 项目/业务流程的 skill，是日常检索“有没有类似 skill”的优先入口。
 - [[domains/AI Agent工程/90-Skill注册表/02-跨Agent Skill注册库|跨 Agent Skill 注册库]]：统一检索 Codex、Hermes、Lark Agent、OpenClaw、SealSeek、Claude Code 的 skill，定位原始 `SKILL.md` 并判断复用或迁移可能。
 - [[domains/AI Agent工程/90-Skill注册表/03-Codex Skill注册页|Codex Skill 注册页]]：Codex 本地业务 skill 与系统 skill 的检索描述、输入方式、关键词和文件位置。
-- [[domains/视觉制作/03-AI商业视觉/03-可编辑海报PSD重建Skill|可编辑海报 PSD 重建 Skill]]：Codex skill `editable-poster-psd-rebuild`，把 AI 带字海报重建为授权字体可编辑 PSD。
 - [[domains/AI Agent工程/90-Skill注册表/04-Hermes Skill注册页|Hermes Skill 注册页]]：Hermes 主 skill 目录的检索描述、输入方式、关键词和文件位置。
 - [[domains/AI Agent工程/90-Skill注册表/05-Lark Agent Skill注册页|Lark Agent Skill 注册页]]：飞书/Lark 相关 skill 的检索描述、输入方式、关键词和文件位置。
 - [[domains/AI Agent工程/90-Skill注册表/06-OpenClaw Skill注册页|OpenClaw Skill 注册页]]：OpenClaw workspace skill 的检索描述、输入方式、关键词和文件位置。
@@ -94,9 +92,21 @@ status: active
 - [[domains/AI Agent工程/格式化文档/word文档/index|Word 文档格式化]]：Word 的格式系统、模板菜谱、常用文档结构和验收入口。
 - [[queries/Word文档格式与模板选择入口|Word 文档格式与模板选择入口]]：Agent 收到 Word 排版、美化、模板或验收请求时的路由入口。
 
+## 网页设计规范
+
+- [[domains/AI Agent工程/11-网页设计规范/index|Agent 网页设计规范]]：HTML 报告、经营工作台、SaaS 后台和网页插件的设计与验收入口。
+- [[domains/AI Agent工程/11-网页设计规范/01-网页UI设计总则|网页 UI 设计总则]]：定义紧凑商务工作台的目标、原则、适用边界与 Wiki/Skill 分工。
+- [[domains/AI Agent工程/11-网页设计规范/02-紧凑商务工作台布局规范|紧凑商务工作台布局规范]]：固化左侧菜单、左下状态、右上工具和中央豆腐块四个布局支柱。
+- [[domains/AI Agent工程/11-网页设计规范/03-设计变量与字体可读性|设计变量与字体可读性]]：规定颜色、字号、间距、圆角、表格密度与 12px 可读性下限。
+- [[domains/AI Agent工程/11-网页设计规范/04-模块与组件规范|模块与组件规范]]：定义 KPI、提醒、趋势、行动队列、表格、抽屉和命令面板的组件合同。
+- [[domains/AI Agent工程/11-网页设计规范/05-电商数据报告内容规范|电商数据报告内容规范]]：约束时间、归因、证据等级、风险、行动和数据一致性。
+- [[domains/AI Agent工程/11-网页设计规范/06-验收与反模式|网页 UI 验收与反模式]]：用于交付前检查结构、可读性、数据、交互与依赖。
+- [[domains/AI Agent工程/11-网页设计规范/07-HTML生成CLI与伴生Skill组合规范|HTML 生成 CLI 与伴生 Skill 组合规范]]：规定 CLI 内唯一 Skill 源码、跨 Agent 安装、嵌套调用、contract 演进与干净上下文测试。
+- [[queries/网页报告与SaaS界面设计入口|网页报告与 SaaS 界面设计入口]]：Agent 收到网页报告、SaaS、插件和工作台设计任务时的路由入口。
+
 ## Skill 注册表
 
-- [[domains/AI Agent工程/90-Skill注册表/01-个人与项目Skill注册库|个人/项目 Skill 注册库]]：只收录 用户自己创建、让 Agent 为项目定制、或明显服务于 用户项目/业务流程的 skill，是日常检索“有没有类似 skill”的优先入口。
+- [[domains/AI Agent工程/90-Skill注册表/01-个人与项目Skill注册库|个人/项目 Skill 注册库]]：只收录 wiki owner 自己创建、让 Agent 为项目定制、或明显服务于 wiki owner 项目/业务流程的 skill，是日常检索“有没有类似 skill”的优先入口。
 - [[domains/AI Agent工程/90-Skill注册表/02-跨Agent Skill注册库|跨 Agent Skill 注册库]]：统一检索 Codex、Hermes、Lark Agent、OpenClaw、SealSeek、Claude Code 的 skill，定位原始 `SKILL.md` 并判断复用或迁移可能。
 - [[domains/AI Agent工程/90-Skill注册表/03-Codex Skill注册页|Codex Skill 注册页]]：Codex 本地业务 skill 与系统 skill 的检索描述、输入方式、关键词和文件位置。
 - [[domains/AI Agent工程/90-Skill注册表/04-Hermes Skill注册页|Hermes Skill 注册页]]：Hermes 主 skill 目录的检索描述、输入方式、关键词和文件位置。

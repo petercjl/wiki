@@ -11,7 +11,7 @@ adapter-used: api-docs plus unknown-source
 
 ## Formal Pages
 
-- `domains/视觉制作/06-AI视频/10-Seed-Audio短视频音频一致性工作流.md`
+- `domains/视觉制作/06-AI视频/07-声音设计与BGM/10-Seed-Audio短视频音频一致性工作流.md`
 - `queries/AI视频音频与声线一致性入口.md`
 
 ## Indexes Updated

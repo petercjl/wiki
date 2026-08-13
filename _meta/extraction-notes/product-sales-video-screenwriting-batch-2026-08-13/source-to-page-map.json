@@ -1,0 +1,17 @@
+{
+  "batch": "product-sales-video-screenwriting-batch-2026-08-13",
+  "raw_sources": [
+    "raw/books/writing-short-films-2005/source.epub",
+    "raw/books/the-coffee-break-screenwriter-2010/source.epub",
+    "raw/books/hey-whipple-squeeze-this-2016/source.epub",
+    "raw/webpages/ai-video-sales-screenwriting-2026-08-13/source-evidence.md",
+    "raw/articles/life-edge-chair-pillow-case-2026-08-13/source-manifest.md"
+  ],
+  "mappings": [
+    {"source_unit_id": "B-WSF", "target_pages": ["domains/视觉制作/06-AI视频/01-项目定义与剧本/05-情感故事软广从命题到文学剧本.md", "domains/视觉制作/06-AI视频/01-项目定义与剧本/13-文学剧本格式与可视化写法.md", "domains/视觉制作/06-AI视频/01-项目定义与剧本/14-场景动作对白与潜台词.md"]},
+    {"source_unit_id": "B-CBS", "target_pages": ["domains/视觉制作/06-AI视频/01-项目定义与剧本/13-文学剧本格式与可视化写法.md", "domains/视觉制作/06-AI视频/01-项目定义与剧本/14-场景动作对白与潜台词.md", "domains/视觉制作/06-AI视频/01-项目定义与剧本/15-商业短片改稿与验收.md"]},
+    {"source_unit_id": "B-HW", "target_pages": ["domains/视觉制作/06-AI视频/01-项目定义与剧本/03-产品介绍型TVC信息结构与AV脚本.md", "domains/视觉制作/06-AI视频/01-项目定义与剧本/14-场景动作对白与潜台词.md"]},
+    {"source_unit_id": "WEB", "target_pages": ["domains/视觉制作/06-AI视频/01-项目定义与剧本/01-产品销售型短视频剧本双路线.md", "domains/视觉制作/06-AI视频/01-项目定义与剧本/03-产品介绍型TVC信息结构与AV脚本.md", "domains/视觉制作/06-AI视频/01-项目定义与剧本/13-文学剧本格式与可视化写法.md", "domains/视觉制作/06-AI视频/01-项目定义与剧本/15-商业短片改稿与验收.md"]},
+    {"source_unit_id": "CASE-EDGE", "target_pages": ["domains/视觉制作/06-AI视频/90-案例库/10-生活边缘椅子抱枕：产品TVC与情感软广双路线.md"]}
+  ]
+}

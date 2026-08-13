@@ -55,10 +55,10 @@ status: active
 - Primary domain: 视觉制作 / AI 视频.
 - Formal page disposition: create new playbook page.
 - Existing pages linked:
-  - [[domains/视觉制作/06-AI视频/02-AI商业短视频规划方法|AI商业短视频规划方法]]
-  - [[domains/视觉制作/06-AI视频/03-导演式镜头设计方法|导演式镜头设计方法]]
-  - [[domains/视觉制作/06-AI视频/05-AI视频导演Prompt模板|AI视频导演 Prompt 模板]]
-  - [[domains/视觉制作/06-AI视频/20-导演知识系统/02-视觉设计与故事板系统|视觉设计与故事板系统]]
+  - [[domains/视觉制作/06-AI视频/01-项目定义与剧本/02-AI商业短视频规划方法|AI商业短视频规划方法]]
+  - [[domains/视觉制作/06-AI视频/02-导演思维/03-导演式镜头设计方法|导演式镜头设计方法]]
+  - [[domains/视觉制作/06-AI视频/05-视频生成/05-AI视频导演Prompt模板|AI视频导演 Prompt 模板]]
+  - [[domains/视觉制作/06-AI视频/02-导演思维/21-视觉设计与故事板系统|视觉设计与故事板系统]]
 
 ## Extraction Tools
 

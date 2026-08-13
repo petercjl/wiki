@@ -1,0 +1,30 @@
+# Source Profile
+
+- source_title: AI 生图主体比例与朝向控制方法论实验
+- source_slug: ai-image-scale-direction-control-2026-08-04
+- source_type: local Markdown research notes + image-rich controlled experiments
+- adapter: markdown-doc
+- capture_date: 2026-08-04
+- language: zh-CN with English prompt blocks
+- original_sources:
+  - `/Users/pechen/大模型临时提示词/大模型临时提示词/AI生图 尺寸和朝向研究.md`
+  - `/Users/pechen/AI/Video/outputs/image-prompt-control-study-2026-08-04/README.md`
+  - `/Users/pechen/AI/Video/outputs/image-prompt-control-validation-selfie-booth-2026-08-04/README.md`
+- raw_archive: `raw/articles/ai-image-scale-direction-control-2026-08-04/`
+- asset_archive: `raw/assets/ai-image-scale-direction-control-2026-08-04/`
+- domain_candidate: 视觉制作 / 03-AI商业视觉
+- alternative_candidate: 视觉制作 / 06-AI视频（仅作为关键帧与故事板的交叉链接，不建议作为主归属）
+- existing_pages:
+  - `domains/视觉制作/03-AI商业视觉/01-AI在商业视觉设计中的应用方法与实践/04-图片工作流：提示词结构与参考控制.md`
+  - `domains/视觉制作/06-AI视频/04-图片与控制资产/07-故事板铁三角AI视频控制法.md`
+  - `domains/视觉制作/06-AI视频/01-项目定义与剧本/04-AI品牌TVC的气质、视觉符号与产品登场.md`
+- proposed_disposition: create-new，反向链接既有图片工作流与视频关键帧资产体系
+- placement_confirmation_status: confirmed
+- confirmed_path: `domains/视觉制作/03-AI商业视觉/05-AI生图主体比例与朝向控制方法.md`
+- confirmation_evidence: 用户在 2026-08-04 收到具体归位方案后回复“确认”
+- sensitivity: 无账号、凭证、个人隐私；图片为用户提供或本轮生成的研究素材
+- time_sensitivity: 方法结论针对 2026-08-04 当前图像生成模型能力，需保留“提示词不是像素级硬约束”的版本边界
+- expected_formal_artifacts:
+  - 一页比例与朝向控制 playbook
+  - 一页 Agent 查询入口
+  - AI 商业视觉、视觉制作和总索引更新

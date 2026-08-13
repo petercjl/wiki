@@ -1,8 +1,8 @@
 ---
 title: Hermes Skill 注册页
 type: concept
-created: 2026-06-14
-updated: 2026-06-14
+created: 2026-08-10
+updated: 2026-08-10
 domain: AI Agent工程
 tags: [ai-agent, hermes, skill, registry]
 sources:
@@ -20,13 +20,13 @@ status: active
 - `/Users/pechen/.hermes/skills`
 
 - 说明：Hermes main skills directory, excluding duplicated hermes-agent optional skill trees.
-- 当前记录数量：166
+- 当前记录数量：191
 
 归属分类统计：
 
-- 个人/项目自定义: 51
+- 个人/项目自定义: 75
 - 归档/备份: 1
-- 通用安装/不确定: 114
+- 通用安装/不确定: 115
 
 ## 使用规则
 
@@ -40,6 +40,10 @@ status: active
 ### 知识库 / 知识管理 / LLM Wiki
 
 - `baoyu-comic` (个人/项目自定义 / local)：Knowledge comics (知识漫画): educational, biography, tutorial.
+- `dws` (通用安装/不确定 / local)：管理钉钉产品能力(AI表格/AI搜问/日历/通讯录/群聊与机器人/待办/审批/考勤/日志/DING消息/开放平台文档/钉钉文档/钉钉云盘/AI听记/邮箱/在线电子表格/知识库等)。当用户需要操作表格数据、管理日程会议、模糊找人/查谁负责某事…
+- `lark-doc` (个人/项目自定义 / local)：飞书云文档（Docx / Wiki 文档）：读取和编辑飞书文档内容。当用户给出文档 URL 或 token，或需要查看、创建、编辑文档、插入或下载文档图片附件时使用。文档中嵌入的电子表格、多维表格、画板，先用本 skill 提取 token…
+- `lark-drive` (个人/项目自定义 / local)：飞书云空间（云盘/云存储）：管理 Drive 文件和文件夹，包含上传/下载、创建文件夹、复制/移动/删除、查看元数据、评论/权限/订阅、标题、版本和本地文件导入。用户需要整理云盘目录、处理云空间资源 URL/token，或导入 Word/M…
+- `lark-wiki` (个人/项目自定义 / local)：飞书知识库：管理知识空间、空间成员和文档节点。创建和查询知识空间、查看和管理空间成员、管理节点层级结构、在知识库中组织文档和快捷方式。当用户需要在知识库中查找或创建文档、浏览知识空间结构、查看或管理空间成员、移动或复制节点时使用。当用户给出…
 - `obsidian` (通用安装/不确定 / local)：Read, search, create, and edit notes in the Obsidian vault.
 - `douyin-link-to-knowledge` (个人/项目自定义 / local)：Ingest a Douyin video link into Peter's LLM Wiki by resolving the share URL, downloading the video with luminote-style b…
 - `llm-wiki` (个人/项目自定义 / local)：Karpathy's LLM Wiki — build and maintain a persistent, interlinked markdown knowledge base. Ingest sources, query compil…
@@ -79,6 +83,11 @@ status: active
 - `toapis-gpt-image-2` (个人/项目自定义 / local)：Use ToAPIs gpt-image-2 for text-to-image and reference-image generation via an async task workflow. Covers working reque…
 - `touchdesigner-mcp` (通用安装/不确定 / local)：Control a running TouchDesigner instance via twozero MCP — create operators, set parameters, wire connections, execute P…
 - `hermes-platform-tool-availability-debugging` (通用安装/不确定 / local)：Diagnose why Hermes on a messaging platform used the wrong tool (for example vision_analyze instead of image_generate) o…
+- `lark-event` (个人/项目自定义 / local)：Lark/Feishu real-time event listening / subscribing / consuming: stream events as NDJSON via `lark-cli event consume <Ev…
+- `lark-im` (个人/项目自定义 / local)：飞书即时通讯：收发消息和管理群聊。发送和回复消息、搜索聊天记录、管理群聊成员、上传下载图片和文件（支持大文件分片下载）、管理表情回复、发送应用内/短信/电话加急、发送和处理交互卡片（Interactive Card）、监听卡片按钮回调（ca…
+- `lark-sheets` (个人/项目自定义 / local)：飞书电子表格：创建和操作电子表格。支持创建表格、管理工作表与行列结构（增删/合并/调整尺寸/隐藏/冻结）、读写单元格（值/公式/样式/批注/单元格图片）、查找替换、多操作原子批量更新，以及图表、透视表、条件格式、筛选器、迷你图、浮动图片等对…
+- `lark-slides` (个人/项目自定义 / local)：飞书幻灯片：创建和编辑幻灯片。创建演示文稿、读取幻灯片内容、管理幻灯片页面（创建、删除、读取、局部替换）。当用户需要创建或编辑幻灯片、读取或修改单个页面时使用。当用户给出 doubao.com 的 /slides/ URL/token 时，…
+- `lark-whiteboard` (个人/项目自定义 / local)：飞书画板：查询和编辑飞书云文档中的画板。支持导出画板为预览图片、导出原始节点结构、使用多种格式更新画板内容。 当用户需要查看画板内容、导出画板图片、编辑画板时使用此 skill。不负责：飞书云文档内容编辑（lark-doc）、文档内嵌电子表…
 - `clip` (通用安装/不确定 / local)：OpenAI's model connecting vision and language. Enables zero-shot image classification, image-text matching, and cross-mo…
 - `segment-anything-model` (通用安装/不确定 / local)：SAM: zero-shot image segmentation via points, boxes, masks.
 - `stable-diffusion-image-generation` (通用安装/不确定 / local)：State-of-the-art text-to-image generation with Stable Diffusion models via HuggingFace Diffusers. Use when generating im…
@@ -115,6 +124,7 @@ status: active
 
 ### 电商 / 商品 / 品牌运营
 
+- `lark-minutes` (个人/项目自定义 / local)：飞书妙记：搜索妙记、查看妙记基础信息、下载/上传音视频、读取或编辑妙记的产物内容、改标题、替换说话人/关键词。当给出minute_token、本地音视频文件，要查/改/转妙记产物时使用；本地音视频转纪要/逐字稿优先走本 skill，不要用 …
 - `real-chrome-web-reader` (个人/项目自定义 / local)：使用本机真实 Chrome（保留登录态）+ Playwright 附加 + DOM 压缩读取网页。适合淘宝、生意参谋、千牛等需要登录态且反爬较强的网站。优先用于读取页面、压缩 DOM、点击、输入、滚动、截图。
 - `taobao-native-search-to-excel` (个人/项目自定义 / local)：使用淘宝桌面版（taobao-native / cli-rpc）搜索指定关键词，支持综合/销量排序与多页翻页，导出 Excel 到 ~/hermes/skills/taobao-native-search-to-excel/<搜索词>_<排…
 - `taobao-search-to-excel` (个人/项目自定义 / local)：使用真实 Chrome 登录态抓取淘宝搜索结果，按“综合/销量”排序抓取指定页数，并导出为 Excel 到 ~/hermes/skills/taobao-search-to-excel/<搜索词>_<排序方式>_<页数>_<时间戳>/。
@@ -134,7 +144,7 @@ status: active
 - `kanban-codex-lane` (通用安装/不确定 / local)：Use when a Hermes Kanban worker wants to run Codex CLI as an isolated implementation lane while Hermes keeps ownership o…
 - `opencode` (通用安装/不确定 / local)：Delegate coding to OpenCode CLI (features, PR review).
 - `jupyter-live-kernel` (通用安装/不确定 / local)：Iterative Python via live Jupyter kernel (hamelnb).
-- `kanban-orchestrator` (通用安装/不确定 / local)：Decomposition domains/视觉制作/04-AI生图风格库/01-极简北欧风/variants/shanju-light-kitchen-living/playbook + anti-temptation rules for an orchestrator profile routing work through Kanban. The "don't do th…
+- `kanban-orchestrator` (通用安装/不确定 / local)：Decomposition playbook + anti-temptation rules for an orchestrator profile routing work through Kanban. The "don't do th…
 - `kanban-worker` (通用安装/不确定 / local)：Pitfalls, examples, and edge cases for Hermes Kanban workers. The lifecycle itself is auto-injected into every worker's …
 - `webhook-subscriptions` (通用安装/不确定 / local)：Webhook subscriptions: event-driven agent runs.
 - `dogfood` (通用安装/不确定 / local)：Systematic exploratory QA testing of web applications — find bugs, capture evidence, and generate structured reports
@@ -147,6 +157,21 @@ status: active
 - `github-issues` (通用安装/不确定 / local)：Create, triage, label, assign GitHub issues via gh or REST.
 - `github-pr-workflow` (通用安装/不确定 / local)：GitHub PR lifecycle: branch, commit, open, CI, merge.
 - `github-repo-management` (通用安装/不确定 / local)：Clone/create/fork repos; manage remotes, releases.
+- `lark-approval` (个人/项目自定义 / local)：飞书审批：查询和处理审批待办/已办/实例，搜索可发起审批定义、查看定义详情并发起原生审批实例。当用户要处理审批任务、查看审批实例、搜索或发起审批时使用。审批待办不是飞书任务；非审批类待办走 lark-task。不负责创建审批定义；三方审批定…
+- `lark-attendance` (个人/项目自定义 / local)：飞书考勤打卡：查询自己的考勤打卡记录
+- `lark-base` (个人/项目自定义 / local)：飞书多维表格（Base）操作：建表、字段、记录、视图、统计、公式/lookup、表单、仪表盘、workflow、角色权限；遇到 Base/多维表格/bitable 或 /base/ 链接时使用。文件导入转 lark-drive，认证/授权转…
+- `lark-calendar` (个人/项目自定义 / local)：飞书日历：管理日历日程和会议室。查看/搜索日程、创建/更新日程、管理参会人、查询忙闲和推荐时段、预定会议室。当用户需要查看日程安排、创建/修改会议、查询/预定会议室时使用。不负责：查询过去的视频会议记录（走 lark-vc）、待办任务（走 …
+- `lark-contact` (个人/项目自定义 / local)：飞书 / Lark 通讯录:按姓名 / 邮箱解析成 open_id,或按 open_id 反查姓名 / 部门 / 邮箱 / 联系方式 / 个人状态 / 签名。当用户提到某人姓名要下一步发消息 / 排日程,或拿到 open_id 想查具体信息…
+- `lark-mail` (个人/项目自定义 / local)：飞书邮箱：Use when user mentions 起草邮件、写邮件、草稿、发送/回复/转发邮件、查阅邮件、看邮件、搜索邮件、邮件文件夹、邮件标签、邮件联系人、监听新邮件、邮件收信规则等；use for mail/email inten…
+- `lark-markdown` (个人/项目自定义 / local)：飞书 Markdown：查看、创建、上传、编辑和比较 Markdown 文件。当用户需要创建或编辑 Markdown 文件、读取、修改、局部 patch 或比较差异时使用。不负责将 Markdown 导入为飞书在线文档，也不负责文件搜索、权…
+- `lark-okr` (个人/项目自定义 / local)：飞书 OKR：管理目标与关键结果。查看和编辑 OKR 周期、目标、关键结果、对齐关系、量化指标和进展记录。当用户需要查看或创建 OKR、管理目标和关键结果、查看对齐关系时使用。不负责：待办任务管理（lark-task）、日程/会议安排（la…
+- `lark-openapi-explorer` (个人/项目自定义 / local)：飞书/Lark 原生 OpenAPI 探索：从官方文档库中挖掘未经 CLI 封装的原生 OpenAPI 接口。当用户的需求无法被现有 lark-* skill 或 lark-cli 已注册命令满足，需要查找并调用原生飞书 OpenAPI 时…
+- `lark-shared` (个人/项目自定义 / local)：Use for lark-cli setup/auth tasks: auth login/status/logout, user vs bot identity, business-domain permissions (--domain…
+- `lark-skill-maker` (个人/项目自定义 / local)：创建 lark-cli 的自定义 Skill。当用户需要把飞书 API 操作封装成可复用的 Skill（包装原子 API 或编排多步流程）时使用。
+- `lark-task` (个人/项目自定义 / local)：飞书任务：管理任务、清单和任务智能体。创建待办任务、查看和更新任务状态、拆分子任务、组织任务清单、分配协作成员、上传任务附件、注册或注销任务智能体、更新任务智能体的主页数据、写入智能体任务记录。当用户需要创建待办事项、查看任务列表、跟踪任务…
+- `lark-vc` (个人/项目自定义 / local)：飞书视频会议：搜索历史会议记录、查询会议纪要（总结/待办/章节/逐字稿）、查询参会人快照。当用户查询已结束的会议、获取会议产物（纪要/妙记）、查看参会人时使用；查询未来日程走 lark-calendar。不负责：Agent 真实入会/离会、…
+- `lark-workflow-meeting-summary` (个人/项目自定义 / local)：会议纪要整理工作流：汇总指定时间范围内的会议纪要并生成结构化报告。当用户需要整理会议纪要、生成会议周报、回顾一段时间内的会议内容时使用。
+- `lark-workflow-standup-report` (个人/项目自定义 / local)：日程待办摘要：编排 calendar +agenda 和 task +get-my-tasks，生成指定日期的日程与未完成任务摘要。适用于了解今天/明天/本周的安排。
 - `find-nearby` (通用安装/不确定 / local)：Find nearby places (restaurants, cafes, bars, pharmacies, etc.) using OpenStreetMap. Works with coordinates, addresses, …
 - `mcporter` (通用安装/不确定 / local)：Use the mcporter CLI to list, configure, auth, and call MCP servers/tools directly (HTTP or stdio), including ad-hoc ser…
 - `native-mcp` (通用安装/不确定 / local)：MCP client: connect servers, register tools (stdio/HTTP).
@@ -413,7 +438,7 @@ status: active
 
 - Agent / 环境：Hermes
 - 归属分类：个人/项目自定义
-- 归属依据：Hermes skill 命中 Peter 项目/业务/知识库/电商/课程/视觉等定制关键词。
+- 归属依据：Hermes skill 命中用户项目/业务/知识库/电商/课程/视觉等定制关键词。
 - 来源类型：local
 - 能力分类：视觉 / 内容 / 课件生产
 - Skill 文件位置：`/Users/pechen/.hermes/skills/creative/baoyu-article-illustrator/SKILL.md`
@@ -425,7 +450,7 @@ status: active
 
 - Agent / 环境：Hermes
 - 归属分类：个人/项目自定义
-- 归属依据：Hermes skill 命中 Peter 项目/业务/知识库/电商/课程/视觉等定制关键词。
+- 归属依据：Hermes skill 命中用户项目/业务/知识库/电商/课程/视觉等定制关键词。
 - 来源类型：local
 - 能力分类：知识库 / 知识管理 / LLM Wiki
 - Skill 文件位置：`/Users/pechen/.hermes/skills/creative/baoyu-comic/SKILL.md`
@@ -437,7 +462,7 @@ status: active
 
 - Agent / 环境：Hermes
 - 归属分类：个人/项目自定义
-- 归属依据：Hermes skill 命中 Peter 项目/业务/知识库/电商/课程/视觉等定制关键词。
+- 归属依据：Hermes skill 命中用户项目/业务/知识库/电商/课程/视觉等定制关键词。
 - 来源类型：local
 - 能力分类：视觉 / 内容 / 课件生产
 - Skill 文件位置：`/Users/pechen/.hermes/skills/creative/baoyu-infographic/SKILL.md`
@@ -521,7 +546,7 @@ status: active
 
 - Agent / 环境：Hermes
 - 归属分类：个人/项目自定义
-- 归属依据：Hermes skill 命中 Peter 项目/业务/知识库/电商/课程/视觉等定制关键词。
+- 归属依据：Hermes skill 命中用户项目/业务/知识库/电商/课程/视觉等定制关键词。
 - 来源类型：local
 - 能力分类：视觉 / 内容 / 课件生产
 - Skill 文件位置：`/Users/pechen/.hermes/skills/creative/ecommerce-image-skill-architecture/SKILL.md`
@@ -533,7 +558,7 @@ status: active
 
 - Agent / 环境：Hermes
 - 归属分类：个人/项目自定义
-- 归属依据：Hermes skill 命中 Peter 项目/业务/知识库/电商/课程/视觉等定制关键词。
+- 归属依据：Hermes skill 命中用户项目/业务/知识库/电商/课程/视觉等定制关键词。
 - 来源类型：local
 - 能力分类：视觉 / 内容 / 课件生产
 - Skill 文件位置：`/Users/pechen/.hermes/skills/creative/evolink-gpt-image-2/SKILL.md`
@@ -557,7 +582,7 @@ status: active
 
 - Agent / 环境：Hermes
 - 归属分类：个人/项目自定义
-- 归属依据：Hermes skill 命中 Peter 项目/业务/知识库/电商/课程/视觉等定制关键词。
+- 归属依据：Hermes skill 命中用户项目/业务/知识库/电商/课程/视觉等定制关键词。
 - 来源类型：local
 - 能力分类：视觉 / 内容 / 课件生产
 - Skill 文件位置：`/Users/pechen/.hermes/skills/creative/gpt-image-2-12api/SKILL.md`
@@ -569,7 +594,7 @@ status: active
 
 - Agent / 环境：Hermes
 - 归属分类：个人/项目自定义
-- 归属依据：Hermes skill 命中 Peter 项目/业务/知识库/电商/课程/视觉等定制关键词。
+- 归属依据：Hermes skill 命中用户项目/业务/知识库/电商/课程/视觉等定制关键词。
 - 来源类型：local
 - 能力分类：视觉 / 内容 / 课件生产
 - Skill 文件位置：`/Users/pechen/.hermes/skills/creative/gpt生图/SKILL.md`
@@ -665,7 +690,7 @@ status: active
 
 - Agent / 环境：Hermes
 - 归属分类：个人/项目自定义
-- 归属依据：Hermes skill 命中 Peter 项目/业务/知识库/电商/课程/视觉等定制关键词。
+- 归属依据：Hermes skill 命中用户项目/业务/知识库/电商/课程/视觉等定制关键词。
 - 来源类型：local
 - 能力分类：视觉 / 内容 / 课件生产
 - Skill 文件位置：`/Users/pechen/.hermes/skills/creative/shopping-basket-visual-planning/SKILL.md`
@@ -677,7 +702,7 @@ status: active
 
 - Agent / 环境：Hermes
 - 归属分类：个人/项目自定义
-- 归属依据：Hermes skill 命中 Peter 项目/业务/知识库/电商/课程/视觉等定制关键词。
+- 归属依据：Hermes skill 命中用户项目/业务/知识库/电商/课程/视觉等定制关键词。
 - 来源类型：local
 - 能力分类：视觉 / 内容 / 课件生产
 - Skill 文件位置：`/Users/pechen/.hermes/skills/creative/single-image-optimization/SKILL.md`
@@ -713,7 +738,7 @@ status: active
 
 - Agent / 环境：Hermes
 - 归属分类：个人/项目自定义
-- 归属依据：Hermes skill 命中 Peter 项目/业务/知识库/电商/课程/视觉等定制关键词。
+- 归属依据：Hermes skill 命中用户项目/业务/知识库/电商/课程/视觉等定制关键词。
 - 来源类型：local
 - 能力分类：视觉 / 内容 / 课件生产
 - Skill 文件位置：`/Users/pechen/.hermes/skills/creative/taobao-gpt-image-creative-main-image/SKILL.md`
@@ -725,7 +750,7 @@ status: active
 
 - Agent / 环境：Hermes
 - 归属分类：个人/项目自定义
-- 归属依据：Hermes skill 命中 Peter 项目/业务/知识库/电商/课程/视觉等定制关键词。
+- 归属依据：Hermes skill 命中用户项目/业务/知识库/电商/课程/视觉等定制关键词。
 - 来源类型：local
 - 能力分类：视觉 / 内容 / 课件生产
 - Skill 文件位置：`/Users/pechen/.hermes/skills/creative/toapis-gpt-image-2/SKILL.md`
@@ -765,9 +790,9 @@ status: active
 - 来源类型：local
 - 能力分类：Agent 工程 / Skill / Plugin / MCP
 - Skill 文件位置：`/Users/pechen/.hermes/skills/devops/kanban-orchestrator/SKILL.md`
-- 功能检索描述：Decomposition domains/视觉制作/04-AI生图风格库/01-极简北欧风/variants/shanju-light-kitchen-living/playbook + anti-temptation rules for an orchestrator profile routing work through Kanban. The "don't do the work yourself" rule and the basic lifecycle are auto-injected into every kanban worker's system prompt; this skill is the deeper domains/视觉制作/04-AI生图风格库/01-极简北欧风/variants/shanju-light-kitchen-living/playbook when you're specifically playing the orchestrator role.
+- 功能检索描述：Decomposition playbook + anti-temptation rules for an orchestrator profile routing work through Kanban. The "don't do the work yourself" rule and the basic lifecycle are auto-injected into every kanban worker's system prompt; this skill is the deeper playbook when you're specifically playing the orchestrator role.
 - 输入 / 触发方式：agent/skill/plugin 名称、目标能力、运行环境或迁移需求
-- 检索关键词：kanban-orchestrator Kanban Orchestrator — Decomposition Playbook Decomposition domains/视觉制作/04-AI生图风格库/01-极简北欧风/variants/shanju-light-kitchen-living/playbook + anti-temptation rules for an orchestrator profile routing work through Kanban. The "don't do the work yourself" rule and the basic lifecycle are auto-injected into every kanban worker's system prompt; this skill is the deeper domains/视觉制作/04-AI生图风格库/01-极简北欧风/variants/shanju-light-kitchen-living/playbook when you're specifically playing the orchestrator role. devops/kanban-orchestrator/SKILL.md local
+- 检索关键词：kanban-orchestrator Kanban Orchestrator — Decomposition Playbook Decomposition playbook + anti-temptation rules for an orchestrator profile routing work through Kanban. The "don't do the work yourself" rule and the basic lifecycle are auto-injected into every kanban worker's system prompt; this skill is the deeper playbook when you're specifically playing the orchestrator role. devops/kanban-orchestrator/SKILL.md local
 
 ### `kanban-worker`
 
@@ -816,6 +841,18 @@ status: active
 - 功能检索描述：Diagnose why Hermes on a messaging platform used the wrong tool (for example vision_analyze instead of image_generate) or why a tool appears enabled globally but is missing from an actual session.
 - 输入 / 触发方式：图片路径、视觉目标、品类/风格/生成或编辑要求；代码仓库、文件路径、PR/Issue、调试或开发任务；MCP server、工具配置、连接或封装需求；agent/skill/plugin 名称、目标能力、运行环境或迁移需求
 - 检索关键词：hermes-platform-tool-availability-debugging Diagnose why Hermes on a messaging platform used the wrong tool (for example vision_analyze instead of image_generate) or why a tool appears enabled globally but is missing from an actual session. dogfood/hermes-platform-tool-availability-debugging/SKILL.md local
+
+### `dws`
+
+- Agent / 环境：Hermes
+- 归属分类：通用安装/不确定
+- 归属依据：Hermes 通用能力库 skill，未命中个人项目关键词；保留在全量库，不进入个人库。
+- 来源类型：local
+- 能力分类：知识库 / 知识管理 / LLM Wiki
+- Skill 文件位置：`/Users/pechen/.hermes/skills/dws/SKILL.md`
+- 功能检索描述：管理钉钉产品能力(AI表格/AI搜问/日历/通讯录/群聊与机器人/待办/审批/考勤/日志/DING消息/开放平台文档/钉钉文档/钉钉云盘/AI听记/邮箱/在线电子表格/知识库等)。当用户需要操作表格数据、管理日程会议、模糊找人/查谁负责某事项、查询通讯录、管理群聊、机器人发消息、创建待办、提交审批、查看考勤、提交日报周报（钉钉日志模版）、读写钉钉文档、上传下载云盘文件、查询听记纪要、收发邮件、读写在线电子表格(axls)、管理钉钉知识库时使用。
+- 输入 / 触发方式：Excel/CSV/表格文件、字段信息或数据分析需求；API 文档 URL、接口规格、鉴权/参数/示例需求；wiki 路径、资料来源、剪藏文件、知识库查询或维护需求；飞书/钉钉资源 URL/ID、文档/表格/日程/消息等操作需求
+- 检索关键词：dws 钉钉全产品 Skill 管理钉钉产品能力(AI表格/AI搜问/日历/通讯录/群聊与机器人/待办/审批/考勤/日志/DING消息/开放平台文档/钉钉文档/钉钉云盘/AI听记/邮箱/在线电子表格/知识库等)。当用户需要操作表格数据、管理日程会议、模糊找人/查谁负责某事项、查询通讯录、管理群聊、机器人发消息、创建待办、提交审批、查看考勤、提交日报周报（钉钉日志模版）、读写钉钉文档、上传下载云盘文件、查询听记纪要、收发邮件、读写在线电子表格(axls)、管理钉钉知识库时使用。 dws/SKILL.md local
 
 ### `himalaya`
 
@@ -924,6 +961,294 @@ status: active
 - 功能检索描述：Clone/create/fork repos; manage remotes, releases.
 - 输入 / 触发方式：代码仓库、文件路径、PR/Issue、调试或开发任务
 - 检索关键词：github-repo-management GitHub Repository Management Clone/create/fork repos; manage remotes, releases. github/github-repo-management/SKILL.md local
+
+### `lark-approval`
+
+- Agent / 环境：Hermes
+- 归属分类：个人/项目自定义
+- 归属依据：Hermes skill 命中用户项目/业务/知识库/电商/课程/视觉等定制关键词。
+- 来源类型：local
+- 能力分类：Agent 工程 / Skill / Plugin / MCP
+- Skill 文件位置：`/Users/pechen/.hermes/skills/lark-approval/SKILL.md`
+- 功能检索描述：飞书审批：查询和处理审批待办/已办/实例，搜索可发起审批定义、查看定义详情并发起原生审批实例。当用户要处理审批任务、查看审批实例、搜索或发起审批时使用。审批待办不是飞书任务；非审批类待办走 lark-task。不负责创建审批定义；三方审批定义不走原生提单。
+- 输入 / 触发方式：飞书/钉钉资源 URL/ID、文档/表格/日程/消息等操作需求
+- 检索关键词：lark-approval 飞书审批：查询和处理审批待办/已办/实例，搜索可发起审批定义、查看定义详情并发起原生审批实例。当用户要处理审批任务、查看审批实例、搜索或发起审批时使用。审批待办不是飞书任务；非审批类待办走 lark-task。不负责创建审批定义；三方审批定义不走原生提单。 lark-approval/SKILL.md local
+
+### `lark-attendance`
+
+- Agent / 环境：Hermes
+- 归属分类：个人/项目自定义
+- 归属依据：Hermes skill 命中用户项目/业务/知识库/电商/课程/视觉等定制关键词。
+- 来源类型：local
+- 能力分类：Agent 工程 / Skill / Plugin / MCP
+- Skill 文件位置：`/Users/pechen/.hermes/skills/lark-attendance/SKILL.md`
+- 功能检索描述：飞书考勤打卡：查询自己的考勤打卡记录
+- 输入 / 触发方式：飞书/钉钉资源 URL/ID、文档/表格/日程/消息等操作需求
+- 检索关键词：lark-attendance attendance (v1) 飞书考勤打卡：查询自己的考勤打卡记录 lark-attendance/SKILL.md local
+
+### `lark-base`
+
+- Agent / 环境：Hermes
+- 归属分类：个人/项目自定义
+- 归属依据：Hermes skill 命中用户项目/业务/知识库/电商/课程/视觉等定制关键词。
+- 来源类型：local
+- 能力分类：Agent 工程 / Skill / Plugin / MCP
+- Skill 文件位置：`/Users/pechen/.hermes/skills/lark-base/SKILL.md`
+- 功能检索描述：飞书多维表格（Base）操作：建表、字段、记录、视图、统计、公式/lookup、表单、仪表盘、workflow、角色权限；遇到 Base/多维表格/bitable 或 /base/ 链接时使用。文件导入转 lark-drive，认证/授权转 lark-shared。
+- 输入 / 触发方式：Excel/CSV/表格文件、字段信息或数据分析需求；飞书/钉钉资源 URL/ID、文档/表格/日程/消息等操作需求
+- 检索关键词：lark-base base 飞书多维表格（Base）操作：建表、字段、记录、视图、统计、公式/lookup、表单、仪表盘、workflow、角色权限；遇到 Base/多维表格/bitable 或 /base/ 链接时使用。文件导入转 lark-drive，认证/授权转 lark-shared。 lark-base/SKILL.md local
+
+### `lark-calendar`
+
+- Agent / 环境：Hermes
+- 归属分类：个人/项目自定义
+- 归属依据：Hermes skill 命中用户项目/业务/知识库/电商/课程/视觉等定制关键词。
+- 来源类型：local
+- 能力分类：Agent 工程 / Skill / Plugin / MCP
+- Skill 文件位置：`/Users/pechen/.hermes/skills/lark-calendar/SKILL.md`
+- 功能检索描述：飞书日历：管理日历日程和会议室。查看/搜索日程、创建/更新日程、管理参会人、查询忙闲和推荐时段、预定会议室。当用户需要查看日程安排、创建/修改会议、查询/预定会议室时使用。不负责：查询过去的视频会议记录（走 lark-vc）、待办任务（走 lark-task）。
+- 输入 / 触发方式：飞书/钉钉资源 URL/ID、文档/表格/日程/消息等操作需求；音视频链接/文件、转录稿、会议纪要或内容处理需求
+- 检索关键词：lark-calendar calendar (v4) 飞书日历：管理日历日程和会议室。查看/搜索日程、创建/更新日程、管理参会人、查询忙闲和推荐时段、预定会议室。当用户需要查看日程安排、创建/修改会议、查询/预定会议室时使用。不负责：查询过去的视频会议记录（走 lark-vc）、待办任务（走 lark-task）。 lark-calendar/SKILL.md local
+
+### `lark-contact`
+
+- Agent / 环境：Hermes
+- 归属分类：个人/项目自定义
+- 归属依据：Hermes skill 命中用户项目/业务/知识库/电商/课程/视觉等定制关键词。
+- 来源类型：local
+- 能力分类：Agent 工程 / Skill / Plugin / MCP
+- Skill 文件位置：`/Users/pechen/.hermes/skills/lark-contact/SKILL.md`
+- 功能检索描述：飞书 / Lark 通讯录:按姓名 / 邮箱解析成 open_id,或按 open_id 反查姓名 / 部门 / 邮箱 / 联系方式 / 个人状态 / 签名。当用户提到某人姓名要下一步发消息 / 排日程,或拿到 open_id 想查具体信息时使用。不负责部门树遍历、按部门列员工、组织架构图,这类需求走原生 OpenAPI。
+- 输入 / 触发方式：API 文档 URL、接口规格、鉴权/参数/示例需求；飞书/钉钉资源 URL/ID、文档/表格/日程/消息等操作需求
+- 检索关键词：lark-contact 飞书 / Lark 通讯录:按姓名 / 邮箱解析成 open_id,或按 open_id 反查姓名 / 部门 / 邮箱 / 联系方式 / 个人状态 / 签名。当用户提到某人姓名要下一步发消息 / 排日程,或拿到 open_id 想查具体信息时使用。不负责部门树遍历、按部门列员工、组织架构图,这类需求走原生 OpenAPI。 lark-contact/SKILL.md local
+
+### `lark-doc`
+
+- Agent / 环境：Hermes
+- 归属分类：个人/项目自定义
+- 归属依据：Hermes skill 命中用户项目/业务/知识库/电商/课程/视觉等定制关键词。
+- 来源类型：local
+- 能力分类：知识库 / 知识管理 / LLM Wiki
+- Skill 文件位置：`/Users/pechen/.hermes/skills/lark-doc/SKILL.md`
+- 功能检索描述：飞书云文档（Docx / Wiki 文档）：读取和编辑飞书文档内容。当用户给出文档 URL 或 token，或需要查看、创建、编辑文档、插入或下载文档图片附件时使用。文档中嵌入的电子表格、多维表格、画板，先用本 skill 提取 token 再切到对应 skill。当用户给出 doubao.com 的 /docx/ 或 /wiki/ URL/token 时，也应直接使用本 skill；路由依据是 URL 路径模式和 token，而不是域名。不负责文档评论管理，也不负责表格或 Base 的数据操作。
+- 输入 / 触发方式：Excel/CSV/表格文件、字段信息或数据分析需求；图片路径、视觉目标、品类/风格/生成或编辑要求；API 文档 URL、接口规格、鉴权/参数/示例需求；wiki 路径、资料来源、剪藏文件、知识库查询或维护需求
+- 检索关键词：lark-doc docs 飞书云文档（Docx / Wiki 文档）：读取和编辑飞书文档内容。当用户给出文档 URL 或 token，或需要查看、创建、编辑文档、插入或下载文档图片附件时使用。文档中嵌入的电子表格、多维表格、画板，先用本 skill 提取 token 再切到对应 skill。当用户给出 doubao.com 的 /docx/ 或 /wiki/ URL/token 时，也应直接使用本 skill；路由依据是 URL 路径模式和 token，而不是域名。不负责文档评论管理，也不负责表格或 Base 的数据操作。 lark-doc/SKILL.md local
+
+### `lark-drive`
+
+- Agent / 环境：Hermes
+- 归属分类：个人/项目自定义
+- 归属依据：Hermes skill 命中用户项目/业务/知识库/电商/课程/视觉等定制关键词。
+- 来源类型：local
+- 能力分类：知识库 / 知识管理 / LLM Wiki
+- Skill 文件位置：`/Users/pechen/.hermes/skills/lark-drive/SKILL.md`
+- 功能检索描述：飞书云空间（云盘/云存储）：管理 Drive 文件和文件夹，包含上传/下载、创建文件夹、复制/移动/删除、查看元数据、评论/权限/订阅、标题、版本和本地文件导入。用户需要整理云盘目录、处理云空间资源 URL/token，或导入 Word/Markdown/Excel/CSV/PPTX/.base 为 docx/sheet/bitable/slides 时使用；doubao.com 云空间 URL/token 也按资源路径和 token 路由，不回退 WebFetch。不负责：文档内容编辑（走 lark-doc）、表格/Base 表内数据操作（走 lark-sheets/lark-base）、知识空间节点/成员管理（走 lark-wiki）、原生 Markdown 文件读写/patch/diff（走 lark-markdown）。
+- 输入 / 触发方式：Excel/CSV/表格文件、字段信息或数据分析需求；课程大纲、逐页内容、PPT/XMind/课件制作或修改需求；API 文档 URL、接口规格、鉴权/参数/示例需求；wiki 路径、资料来源、剪藏文件、知识库查询或维护需求
+- 检索关键词：lark-drive drive (v1) 飞书云空间（云盘/云存储）：管理 Drive 文件和文件夹，包含上传/下载、创建文件夹、复制/移动/删除、查看元数据、评论/权限/订阅、标题、版本和本地文件导入。用户需要整理云盘目录、处理云空间资源 URL/token，或导入 Word/Markdown/Excel/CSV/PPTX/.base 为 docx/sheet/bitable/slides 时使用；doubao.com 云空间 URL/token 也按资源路径和 token 路由，不回退 WebFetch。不负责：文档内容编辑（走 lark-doc）、表格/Base 表内数据操作（走 lark-sheets/lark-base）、知识空间节点/成员管理（走 lark-wiki）、原生 Markdown 文件读写/patch/diff（走 lark-markdown）。 lark-drive/SKILL.md local
+
+### `lark-event`
+
+- Agent / 环境：Hermes
+- 归属分类：个人/项目自定义
+- 归属依据：Hermes skill 命中用户项目/业务/知识库/电商/课程/视觉等定制关键词。
+- 来源类型：local
+- 能力分类：视觉 / 内容 / 课件生产
+- Skill 文件位置：`/Users/pechen/.hermes/skills/lark-event/SKILL.md`
+- 功能检索描述：Lark/Feishu real-time event listening / subscribing / consuming: stream events as NDJSON via `lark-cli event consume <EventKey>` (covers IM messages/reactions/chat changes, Task updates, VC meeting started/joined/ended, Minutes generated, Whiteboard updated, etc.). Use for Lark bots, real-time message processing, long-running subscribers, streaming webhook/push handlers. Supports `--max-events` / `--timeout` bounded runs and a stderr ready-marker contract — designed for AI agents running as subprocesses.
+- 输入 / 触发方式：飞书/钉钉资源 URL/ID、文档/表格/日程/消息等操作需求；agent/skill/plugin 名称、目标能力、运行环境或迁移需求；音视频链接/文件、转录稿、会议纪要或内容处理需求
+- 检索关键词：lark-event Lark Events Lark/Feishu real-time event listening / subscribing / consuming: stream events as NDJSON via lark-cli event consume <EventKey> (covers IM messages/reactions/chat changes, Task updates, VC meeting started/joined/ended, Minutes generated, Whiteboard updated, etc.). Use for Lark bots, real-time message processing, long-running subscribers, streaming webhook/push handlers. Supports --max-events / --timeout bounded runs and a stderr ready-marker contract — designed for AI agents running as subprocesses. lark-event/SKILL.md local
+
+### `lark-im`
+
+- Agent / 环境：Hermes
+- 归属分类：个人/项目自定义
+- 归属依据：Hermes skill 命中用户项目/业务/知识库/电商/课程/视觉等定制关键词。
+- 来源类型：local
+- 能力分类：视觉 / 内容 / 课件生产
+- Skill 文件位置：`/Users/pechen/.hermes/skills/lark-im/SKILL.md`
+- 功能检索描述：飞书即时通讯：收发消息和管理群聊。发送和回复消息、搜索聊天记录、管理群聊成员、上传下载图片和文件（支持大文件分片下载）、管理表情回复、发送应用内/短信/电话加急、发送和处理交互卡片（Interactive Card）、监听卡片按钮回调（card.action.trigger）。当用户需要发消息、查看或搜索聊天记录、下载聊天中的文件、查看群成员、搜索群、创建群聊或话题群、管理标记数据、管理 Feed 置顶（添加/移除/查询置顶会话）、管理标签数据、处理卡片回调时使用。
+- 输入 / 触发方式：图片路径、视觉目标、品类/风格/生成或编辑要求；飞书/钉钉资源 URL/ID、文档/表格/日程/消息等操作需求
+- 检索关键词：lark-im im (v1) 飞书即时通讯：收发消息和管理群聊。发送和回复消息、搜索聊天记录、管理群聊成员、上传下载图片和文件（支持大文件分片下载）、管理表情回复、发送应用内/短信/电话加急、发送和处理交互卡片（Interactive Card）、监听卡片按钮回调（card.action.trigger）。当用户需要发消息、查看或搜索聊天记录、下载聊天中的文件、查看群成员、搜索群、创建群聊或话题群、管理标记数据、管理 Feed 置顶（添加/移除/查询置顶会话）、管理标签数据、处理卡片回调时使用。 lark-im/SKILL.md local
+
+### `lark-mail`
+
+- Agent / 环境：Hermes
+- 归属分类：个人/项目自定义
+- 归属依据：Hermes skill 命中用户项目/业务/知识库/电商/课程/视觉等定制关键词。
+- 来源类型：local
+- 能力分类：Agent 工程 / Skill / Plugin / MCP
+- Skill 文件位置：`/Users/pechen/.hermes/skills/lark-mail/SKILL.md`
+- 功能检索描述：飞书邮箱：Use when user mentions 起草邮件、写邮件、草稿、发送/回复/转发邮件、查阅邮件、看邮件、搜索邮件、邮件文件夹、邮件标签、邮件联系人、监听新邮件、邮件收信规则等；use for mail/email intent only. Do not use for docs/sheets/calendar/auth setup/pure contact lookup/IM chat tasks.
+- 输入 / 触发方式：飞书/钉钉资源 URL/ID、文档/表格/日程/消息等操作需求
+- 检索关键词：lark-mail mail (v1) 飞书邮箱：Use when user mentions 起草邮件、写邮件、草稿、发送/回复/转发邮件、查阅邮件、看邮件、搜索邮件、邮件文件夹、邮件标签、邮件联系人、监听新邮件、邮件收信规则等；use for mail/email intent only. Do not use for docs/sheets/calendar/auth setup/pure contact lookup/IM chat tasks. lark-mail/SKILL.md local
+
+### `lark-markdown`
+
+- Agent / 环境：Hermes
+- 归属分类：个人/项目自定义
+- 归属依据：Hermes skill 命中用户项目/业务/知识库/电商/课程/视觉等定制关键词。
+- 来源类型：local
+- 能力分类：Agent 工程 / Skill / Plugin / MCP
+- Skill 文件位置：`/Users/pechen/.hermes/skills/lark-markdown/SKILL.md`
+- 功能检索描述：飞书 Markdown：查看、创建、上传、编辑和比较 Markdown 文件。当用户需要创建或编辑 Markdown 文件、读取、修改、局部 patch 或比较差异时使用。不负责将 Markdown 导入为飞书在线文档，也不负责文件搜索、权限、评论、移动、删除等云空间管理操作。
+- 输入 / 触发方式：API 文档 URL、接口规格、鉴权/参数/示例需求；飞书/钉钉资源 URL/ID、文档/表格/日程/消息等操作需求
+- 检索关键词：lark-markdown markdown (v1) 飞书 Markdown：查看、创建、上传、编辑和比较 Markdown 文件。当用户需要创建或编辑 Markdown 文件、读取、修改、局部 patch 或比较差异时使用。不负责将 Markdown 导入为飞书在线文档，也不负责文件搜索、权限、评论、移动、删除等云空间管理操作。 lark-markdown/SKILL.md local
+
+### `lark-minutes`
+
+- Agent / 环境：Hermes
+- 归属分类：个人/项目自定义
+- 归属依据：Hermes skill 命中用户项目/业务/知识库/电商/课程/视觉等定制关键词。
+- 来源类型：local
+- 能力分类：电商 / 商品 / 品牌运营
+- Skill 文件位置：`/Users/pechen/.hermes/skills/lark-minutes/SKILL.md`
+- 功能检索描述：飞书妙记：搜索妙记、查看妙记基础信息、下载/上传音视频、读取或编辑妙记的产物内容、改标题、替换说话人/关键词。当给出minute_token、本地音视频文件，要查/改/转妙记产物时使用；本地音视频转纪要/逐字稿优先走本 skill，不要用 ffmpeg/whisper 本地转写。不负责：获取会议关联妙记，或仅按自然语言标题定位纪要
+- 输入 / 触发方式：飞书/钉钉资源 URL/ID、文档/表格/日程/消息等操作需求；agent/skill/plugin 名称、目标能力、运行环境或迁移需求；音视频链接/文件、转录稿、会议纪要或内容处理需求；电商平台页面、商品/店铺/关键词数据、运营规则或视觉策划需求
+- 检索关键词：lark-minutes minutes (v1) 飞书妙记：搜索妙记、查看妙记基础信息、下载/上传音视频、读取或编辑妙记的产物内容、改标题、替换说话人/关键词。当给出minute_token、本地音视频文件，要查/改/转妙记产物时使用；本地音视频转纪要/逐字稿优先走本 skill，不要用 ffmpeg/whisper 本地转写。不负责：获取会议关联妙记，或仅按自然语言标题定位纪要 lark-minutes/SKILL.md local
+
+### `lark-okr`
+
+- Agent / 环境：Hermes
+- 归属分类：个人/项目自定义
+- 归属依据：Hermes skill 命中用户项目/业务/知识库/电商/课程/视觉等定制关键词。
+- 来源类型：local
+- 能力分类：Agent 工程 / Skill / Plugin / MCP
+- Skill 文件位置：`/Users/pechen/.hermes/skills/lark-okr/SKILL.md`
+- 功能检索描述：飞书 OKR：管理目标与关键结果。查看和编辑 OKR 周期、目标、关键结果、对齐关系、量化指标和进展记录。当用户需要查看或创建 OKR、管理目标和关键结果、查看对齐关系时使用。不负责：待办任务管理（lark-task）、日程/会议安排（lark-calendar）、绩效评估
+- 输入 / 触发方式：飞书/钉钉资源 URL/ID、文档/表格/日程/消息等操作需求
+- 检索关键词：lark-okr okr (v2) 飞书 OKR：管理目标与关键结果。查看和编辑 OKR 周期、目标、关键结果、对齐关系、量化指标和进展记录。当用户需要查看或创建 OKR、管理目标和关键结果、查看对齐关系时使用。不负责：待办任务管理（lark-task）、日程/会议安排（lark-calendar）、绩效评估 lark-okr/SKILL.md local
+
+### `lark-openapi-explorer`
+
+- Agent / 环境：Hermes
+- 归属分类：个人/项目自定义
+- 归属依据：Hermes skill 命中用户项目/业务/知识库/电商/课程/视觉等定制关键词。
+- 来源类型：local
+- 能力分类：Agent 工程 / Skill / Plugin / MCP
+- Skill 文件位置：`/Users/pechen/.hermes/skills/lark-openapi-explorer/SKILL.md`
+- 功能检索描述：飞书/Lark 原生 OpenAPI 探索：从官方文档库中挖掘未经 CLI 封装的原生 OpenAPI 接口。当用户的需求无法被现有 lark-* skill 或 lark-cli 已注册命令满足，需要查找并调用原生飞书 OpenAPI 时使用。
+- 输入 / 触发方式：API 文档 URL、接口规格、鉴权/参数/示例需求；飞书/钉钉资源 URL/ID、文档/表格/日程/消息等操作需求；agent/skill/plugin 名称、目标能力、运行环境或迁移需求
+- 检索关键词：lark-openapi-explorer OpenAPI Explorer 飞书/Lark 原生 OpenAPI 探索：从官方文档库中挖掘未经 CLI 封装的原生 OpenAPI 接口。当用户的需求无法被现有 lark-* skill 或 lark-cli 已注册命令满足，需要查找并调用原生飞书 OpenAPI 时使用。 lark-openapi-explorer/SKILL.md local
+
+### `lark-shared`
+
+- Agent / 环境：Hermes
+- 归属分类：个人/项目自定义
+- 归属依据：Hermes skill 命中用户项目/业务/知识库/电商/课程/视觉等定制关键词。
+- 来源类型：local
+- 能力分类：Agent 工程 / Skill / Plugin / MCP
+- Skill 文件位置：`/Users/pechen/.hermes/skills/lark-shared/SKILL.md`
+- 功能检索描述：Use for lark-cli setup/auth tasks: auth login/status/logout, user vs bot identity, business-domain permissions (--domain, including all/docs/drive), missing scopes, revoking authorization, or handling _notice JSON.
+- 输入 / 触发方式：飞书/钉钉资源 URL/ID、文档/表格/日程/消息等操作需求
+- 检索关键词：lark-shared lark-cli 共享规则 Use for lark-cli setup/auth tasks: auth login/status/logout, user vs bot identity, business-domain permissions (--domain, including all/docs/drive), missing scopes, revoking authorization, or handling _notice JSON. lark-shared/SKILL.md local
+
+### `lark-sheets`
+
+- Agent / 环境：Hermes
+- 归属分类：个人/项目自定义
+- 归属依据：Hermes skill 命中用户项目/业务/知识库/电商/课程/视觉等定制关键词。
+- 来源类型：local
+- 能力分类：视觉 / 内容 / 课件生产
+- Skill 文件位置：`/Users/pechen/.hermes/skills/lark-sheets/SKILL.md`
+- 功能检索描述：飞书电子表格：创建和操作电子表格。支持创建表格、管理工作表与行列结构（增删/合并/调整尺寸/隐藏/冻结）、读写单元格（值/公式/样式/批注/单元格图片）、查找替换、多操作原子批量更新，以及图表、透视表、条件格式、筛选器、迷你图、浮动图片等对象的创建与维护。当用户需要创建电子表格、管理工作表、批量读写或编辑数据、统计汇总与可视化、表格美化、公式计算（含 Excel 公式迁移）、金融/财务建模（DCF、三张表、预算、Sensitivity 等）等任务时使用。若用户是想按名称或关键词搜索云空间（云盘/云存储）里的表格文件，请改用 lark-drive 的 drive +search 先定位资源。当用户给出 doubao.com 的 /sheets/ URL/token 时，也应直接使用本 skill，不要因为域名不是飞书而回退到 WebFetch；路由依据是 URL 路径模式和 token，而不是域名。
+- 输入 / 触发方式：Excel/CSV/表格文件、字段信息或数据分析需求；图片路径、视觉目标、品类/风格/生成或编辑要求；飞书/钉钉资源 URL/ID、文档/表格/日程/消息等操作需求；agent/skill/plugin 名称、目标能力、运行环境或迁移需求
+- 检索关键词：lark-sheets sheets 飞书电子表格：创建和操作电子表格。支持创建表格、管理工作表与行列结构（增删/合并/调整尺寸/隐藏/冻结）、读写单元格（值/公式/样式/批注/单元格图片）、查找替换、多操作原子批量更新，以及图表、透视表、条件格式、筛选器、迷你图、浮动图片等对象的创建与维护。当用户需要创建电子表格、管理工作表、批量读写或编辑数据、统计汇总与可视化、表格美化、公式计算（含 Excel 公式迁移）、金融/财务建模（DCF、三张表、预算、Sensitivity 等）等任务时使用。若用户是想按名称或关键词搜索云空间（云盘/云存储）里的表格文件，请改用 lark-drive 的 drive +search 先定位资源。当用户给出 doubao.com 的 /sheets/ URL/token 时，也应直接使用本 skill，不要因为域名不是飞书而回退到 WebFetch；路由依据是 URL 路径模式和 token，而不是域名。 lark-sheets/SKILL.md local
+
+### `lark-skill-maker`
+
+- Agent / 环境：Hermes
+- 归属分类：个人/项目自定义
+- 归属依据：Hermes skill 命中用户项目/业务/知识库/电商/课程/视觉等定制关键词。
+- 来源类型：local
+- 能力分类：Agent 工程 / Skill / Plugin / MCP
+- Skill 文件位置：`/Users/pechen/.hermes/skills/lark-skill-maker/SKILL.md`
+- 功能检索描述：创建 lark-cli 的自定义 Skill。当用户需要把飞书 API 操作封装成可复用的 Skill（包装原子 API 或编排多步流程）时使用。
+- 输入 / 触发方式：API 文档 URL、接口规格、鉴权/参数/示例需求；飞书/钉钉资源 URL/ID、文档/表格/日程/消息等操作需求；agent/skill/plugin 名称、目标能力、运行环境或迁移需求
+- 检索关键词：lark-skill-maker Skill Maker 创建 lark-cli 的自定义 Skill。当用户需要把飞书 API 操作封装成可复用的 Skill（包装原子 API 或编排多步流程）时使用。 lark-skill-maker/SKILL.md local
+
+### `lark-slides`
+
+- Agent / 环境：Hermes
+- 归属分类：个人/项目自定义
+- 归属依据：Hermes skill 命中用户项目/业务/知识库/电商/课程/视觉等定制关键词。
+- 来源类型：local
+- 能力分类：视觉 / 内容 / 课件生产
+- Skill 文件位置：`/Users/pechen/.hermes/skills/lark-slides/SKILL.md`
+- 功能检索描述：飞书幻灯片：创建和编辑幻灯片。创建演示文稿、读取幻灯片内容、管理幻灯片页面（创建、删除、读取、局部替换）。当用户需要创建或编辑幻灯片、读取或修改单个页面时使用。当用户给出 doubao.com 的 /slides/ URL/token 时，也应直接使用本 skill，不要因为域名不是飞书而回退到 WebFetch；路由依据是 URL 路径模式和 token，而不是域名。不负责：云文档内容编辑（走 lark-doc）、云文档里的独立画板对象（走 lark-whiteboard，注意 slide 内嵌的流程图/架构图仍属本 skill）、上传或下载普通文件（走 lark-drive）。
+- 输入 / 触发方式：课程大纲、逐页内容、PPT/XMind/课件制作或修改需求；API 文档 URL、接口规格、鉴权/参数/示例需求；已打开网页、浏览器页面、插件功能或页面 API 线索；飞书/钉钉资源 URL/ID、文档/表格/日程/消息等操作需求
+- 检索关键词：lark-slides slides (v1) 飞书幻灯片：创建和编辑幻灯片。创建演示文稿、读取幻灯片内容、管理幻灯片页面（创建、删除、读取、局部替换）。当用户需要创建或编辑幻灯片、读取或修改单个页面时使用。当用户给出 doubao.com 的 /slides/ URL/token 时，也应直接使用本 skill，不要因为域名不是飞书而回退到 WebFetch；路由依据是 URL 路径模式和 token，而不是域名。不负责：云文档内容编辑（走 lark-doc）、云文档里的独立画板对象（走 lark-whiteboard，注意 slide 内嵌的流程图/架构图仍属本 skill）、上传或下载普通文件（走 lark-drive）。 lark-slides/SKILL.md local
+
+### `lark-task`
+
+- Agent / 环境：Hermes
+- 归属分类：个人/项目自定义
+- 归属依据：Hermes skill 命中用户项目/业务/知识库/电商/课程/视觉等定制关键词。
+- 来源类型：local
+- 能力分类：Agent 工程 / Skill / Plugin / MCP
+- Skill 文件位置：`/Users/pechen/.hermes/skills/lark-task/SKILL.md`
+- 功能检索描述：飞书任务：管理任务、清单和任务智能体。创建待办任务、查看和更新任务状态、拆分子任务、组织任务清单、分配协作成员、上传任务附件、注册或注销任务智能体、更新任务智能体的主页数据、写入智能体任务记录。当用户需要创建待办事项、查看任务列表、跟踪任务进度、管理项目清单或给他人分配任务、为任务上传附件文件、注册注销任务智能体、更新智能体主页数据、写入任务记录时使用。
+- 输入 / 触发方式：飞书/钉钉资源 URL/ID、文档/表格/日程/消息等操作需求
+- 检索关键词：lark-task task (v2) 飞书任务：管理任务、清单和任务智能体。创建待办任务、查看和更新任务状态、拆分子任务、组织任务清单、分配协作成员、上传任务附件、注册或注销任务智能体、更新任务智能体的主页数据、写入智能体任务记录。当用户需要创建待办事项、查看任务列表、跟踪任务进度、管理项目清单或给他人分配任务、为任务上传附件文件、注册注销任务智能体、更新智能体主页数据、写入任务记录时使用。 lark-task/SKILL.md local
+
+### `lark-vc`
+
+- Agent / 环境：Hermes
+- 归属分类：个人/项目自定义
+- 归属依据：Hermes skill 命中用户项目/业务/知识库/电商/课程/视觉等定制关键词。
+- 来源类型：local
+- 能力分类：Agent 工程 / Skill / Plugin / MCP
+- Skill 文件位置：`/Users/pechen/.hermes/skills/lark-vc/SKILL.md`
+- 功能检索描述：飞书视频会议：搜索历史会议记录、查询会议纪要（总结/待办/章节/逐字稿）、查询参会人快照。当用户查询已结束的会议、获取会议产物（纪要/妙记）、查看参会人时使用；查询未来日程走 lark-calendar。不负责：Agent 真实入会/离会、会中实时事件（走 lark-vc-agent）。
+- 输入 / 触发方式：飞书/钉钉资源 URL/ID、文档/表格/日程/消息等操作需求；agent/skill/plugin 名称、目标能力、运行环境或迁移需求；音视频链接/文件、转录稿、会议纪要或内容处理需求
+- 检索关键词：lark-vc vc (v1) 飞书视频会议：搜索历史会议记录、查询会议纪要（总结/待办/章节/逐字稿）、查询参会人快照。当用户查询已结束的会议、获取会议产物（纪要/妙记）、查看参会人时使用；查询未来日程走 lark-calendar。不负责：Agent 真实入会/离会、会中实时事件（走 lark-vc-agent）。 lark-vc/SKILL.md local
+
+### `lark-whiteboard`
+
+- Agent / 环境：Hermes
+- 归属分类：个人/项目自定义
+- 归属依据：Hermes skill 命中用户项目/业务/知识库/电商/课程/视觉等定制关键词。
+- 来源类型：local
+- 能力分类：视觉 / 内容 / 课件生产
+- Skill 文件位置：`/Users/pechen/.hermes/skills/lark-whiteboard/SKILL.md`
+- 功能检索描述：飞书画板：查询和编辑飞书云文档中的画板。支持导出画板为预览图片、导出原始节点结构、使用多种格式更新画板内容。 当用户需要查看画板内容、导出画板图片、编辑画板时使用此 skill。不负责：飞书云文档内容编辑（lark-doc）、文档内嵌电子表格/Base（lark-sheets / lark-base）。
+- 输入 / 触发方式：Excel/CSV/表格文件、字段信息或数据分析需求；图片路径、视觉目标、品类/风格/生成或编辑要求；API 文档 URL、接口规格、鉴权/参数/示例需求；飞书/钉钉资源 URL/ID、文档/表格/日程/消息等操作需求
+- 检索关键词：lark-whiteboard 飞书画板：查询和编辑飞书云文档中的画板。支持导出画板为预览图片、导出原始节点结构、使用多种格式更新画板内容。 当用户需要查看画板内容、导出画板图片、编辑画板时使用此 skill。不负责：飞书云文档内容编辑（lark-doc）、文档内嵌电子表格/Base（lark-sheets / lark-base）。 lark-whiteboard/SKILL.md local
+
+### `lark-wiki`
+
+- Agent / 环境：Hermes
+- 归属分类：个人/项目自定义
+- 归属依据：Hermes skill 命中用户项目/业务/知识库/电商/课程/视觉等定制关键词。
+- 来源类型：local
+- 能力分类：知识库 / 知识管理 / LLM Wiki
+- Skill 文件位置：`/Users/pechen/.hermes/skills/lark-wiki/SKILL.md`
+- 功能检索描述：飞书知识库：管理知识空间、空间成员和文档节点。创建和查询知识空间、查看和管理空间成员、管理节点层级结构、在知识库中组织文档和快捷方式。当用户需要在知识库中查找或创建文档、浏览知识空间结构、查看或管理空间成员、移动或复制节点时使用。当用户给出 doubao.com 的 /wiki/ URL/token 时，也应直接使用本 skill，不要因为域名不是飞书而回退到 WebFetch；路由依据是 URL 路径模式和 token，而不是域名。不负责：上传文件到知识库节点下（走 lark-drive）、编辑文档/表格/Base 内容（走 lark-doc / lark-sheets / lark-base）。
+- 输入 / 触发方式：Excel/CSV/表格文件、字段信息或数据分析需求；API 文档 URL、接口规格、鉴权/参数/示例需求；wiki 路径、资料来源、剪藏文件、知识库查询或维护需求；飞书/钉钉资源 URL/ID、文档/表格/日程/消息等操作需求
+- 检索关键词：lark-wiki wiki (v2) 飞书知识库：管理知识空间、空间成员和文档节点。创建和查询知识空间、查看和管理空间成员、管理节点层级结构、在知识库中组织文档和快捷方式。当用户需要在知识库中查找或创建文档、浏览知识空间结构、查看或管理空间成员、移动或复制节点时使用。当用户给出 doubao.com 的 /wiki/ URL/token 时，也应直接使用本 skill，不要因为域名不是飞书而回退到 WebFetch；路由依据是 URL 路径模式和 token，而不是域名。不负责：上传文件到知识库节点下（走 lark-drive）、编辑文档/表格/Base 内容（走 lark-doc / lark-sheets / lark-base）。 lark-wiki/SKILL.md local
+
+### `lark-workflow-meeting-summary`
+
+- Agent / 环境：Hermes
+- 归属分类：个人/项目自定义
+- 归属依据：Hermes skill 命中用户项目/业务/知识库/电商/课程/视觉等定制关键词。
+- 来源类型：local
+- 能力分类：Agent 工程 / Skill / Plugin / MCP
+- Skill 文件位置：`/Users/pechen/.hermes/skills/lark-workflow-meeting-summary/SKILL.md`
+- 功能检索描述：会议纪要整理工作流：汇总指定时间范围内的会议纪要并生成结构化报告。当用户需要整理会议纪要、生成会议周报、回顾一段时间内的会议内容时使用。
+- 输入 / 触发方式：飞书/钉钉资源 URL/ID、文档/表格/日程/消息等操作需求
+- 检索关键词：lark-workflow-meeting-summary 会议纪要汇总工作流 会议纪要整理工作流：汇总指定时间范围内的会议纪要并生成结构化报告。当用户需要整理会议纪要、生成会议周报、回顾一段时间内的会议内容时使用。 lark-workflow-meeting-summary/SKILL.md local
+
+### `lark-workflow-standup-report`
+
+- Agent / 环境：Hermes
+- 归属分类：个人/项目自定义
+- 归属依据：Hermes skill 命中用户项目/业务/知识库/电商/课程/视觉等定制关键词。
+- 来源类型：local
+- 能力分类：Agent 工程 / Skill / Plugin / MCP
+- Skill 文件位置：`/Users/pechen/.hermes/skills/lark-workflow-standup-report/SKILL.md`
+- 功能检索描述：日程待办摘要：编排 calendar +agenda 和 task +get-my-tasks，生成指定日期的日程与未完成任务摘要。适用于了解今天/明天/本周的安排。
+- 输入 / 触发方式：飞书/钉钉资源 URL/ID、文档/表格/日程/消息等操作需求；代码仓库、文件路径、PR/Issue、调试或开发任务
+- 检索关键词：lark-workflow-standup-report 日程待办摘要工作流 日程待办摘要：编排 calendar +agenda 和 task +get-my-tasks，生成指定日期的日程与未完成任务摘要。适用于了解今天/明天/本周的安排。 lark-workflow-standup-report/SKILL.md local
 
 ### `find-nearby`
 
@@ -1325,7 +1650,7 @@ status: active
 
 - Agent / 环境：Hermes
 - 归属分类：个人/项目自定义
-- 归属依据：Hermes skill 命中 Peter 项目/业务/知识库/电商/课程/视觉等定制关键词。
+- 归属依据：Hermes skill 命中用户项目/业务/知识库/电商/课程/视觉等定制关键词。
 - 来源类型：local
 - 能力分类：视觉 / 内容 / 课件生产
 - Skill 文件位置：`/Users/pechen/.hermes/skills/productivity/conference-static-html-courseware-review-loop/SKILL.md`
@@ -1337,7 +1662,7 @@ status: active
 
 - Agent / 环境：Hermes
 - 归属分类：个人/项目自定义
-- 归属依据：Hermes skill 命中 Peter 项目/业务/知识库/电商/课程/视觉等定制关键词。
+- 归属依据：Hermes skill 命中用户项目/业务/知识库/电商/课程/视觉等定制关键词。
 - 来源类型：local
 - 能力分类：视觉 / 内容 / 课件生产
 - Skill 文件位置：`/Users/pechen/.hermes/skills/productivity/course-html-ppt-16x9-image-pages/SKILL.md`
@@ -1349,7 +1674,7 @@ status: active
 
 - Agent / 环境：Hermes
 - 归属分类：个人/项目自定义
-- 归属依据：Hermes skill 命中 Peter 项目/业务/知识库/电商/课程/视觉等定制关键词。
+- 归属依据：Hermes skill 命中用户项目/业务/知识库/电商/课程/视觉等定制关键词。
 - 来源类型：local
 - 能力分类：知识库 / 知识管理 / LLM Wiki
 - Skill 文件位置：`/Users/pechen/.hermes/skills/productivity/douyin-link-to-knowledge/SKILL.md`
@@ -1361,7 +1686,7 @@ status: active
 
 - Agent / 环境：Hermes
 - 归属分类：个人/项目自定义
-- 归属依据：Hermes skill 命中 Peter 项目/业务/知识库/电商/课程/视觉等定制关键词。
+- 归属依据：Hermes skill 命中用户项目/业务/知识库/电商/课程/视觉等定制关键词。
 - 来源类型：local
 - 能力分类：视觉 / 内容 / 课件生产
 - Skill 文件位置：`/Users/pechen/.hermes/skills/productivity/dual-source-chapterized-html-ppt-courseware/SKILL.md`
@@ -1373,7 +1698,7 @@ status: active
 
 - Agent / 环境：Hermes
 - 归属分类：个人/项目自定义
-- 归属依据：Hermes skill 命中 Peter 项目/业务/知识库/电商/课程/视觉等定制关键词。
+- 归属依据：Hermes skill 命中用户项目/业务/知识库/电商/课程/视觉等定制关键词。
 - 来源类型：local
 - 能力分类：视觉 / 内容 / 课件生产
 - Skill 文件位置：`/Users/pechen/.hermes/skills/productivity/ecommerce-bi-operation-skill-planning/SKILL.md`
@@ -1385,7 +1710,7 @@ status: active
 
 - Agent / 环境：Hermes
 - 归属分类：个人/项目自定义
-- 归属依据：Hermes skill 命中 Peter 项目/业务/知识库/电商/课程/视觉等定制关键词。
+- 归属依据：Hermes skill 命中用户项目/业务/知识库/电商/课程/视觉等定制关键词。
 - 来源类型：local
 - 能力分类：Agent 工程 / Skill / Plugin / MCP
 - Skill 文件位置：`/Users/pechen/.hermes/skills/productivity/feishu-cli-isolated-config/SKILL.md`
@@ -1397,7 +1722,7 @@ status: active
 
 - Agent / 环境：Hermes
 - 归属分类：个人/项目自定义
-- 归属依据：Hermes skill 命中 Peter 项目/业务/知识库/电商/课程/视觉等定制关键词。
+- 归属依据：Hermes skill 命中用户项目/业务/知识库/电商/课程/视觉等定制关键词。
 - 来源类型：local
 - 能力分类：视觉 / 内容 / 课件生产
 - Skill 文件位置：`/Users/pechen/.hermes/skills/productivity/feishu-product-feature-doc/SKILL.md`
@@ -1409,7 +1734,7 @@ status: active
 
 - Agent / 环境：Hermes
 - 归属分类：个人/项目自定义
-- 归属依据：Hermes skill 命中 Peter 项目/业务/知识库/电商/课程/视觉等定制关键词。
+- 归属依据：Hermes skill 命中用户项目/业务/知识库/电商/课程/视觉等定制关键词。
 - 来源类型：local
 - 能力分类：视觉 / 内容 / 课件生产
 - Skill 文件位置：`/Users/pechen/.hermes/skills/productivity/goal-driven-daily-report-templates/SKILL.md`
@@ -1433,7 +1758,7 @@ status: active
 
 - Agent / 环境：Hermes
 - 归属分类：个人/项目自定义
-- 归属依据：Hermes skill 命中 Peter 项目/业务/知识库/电商/课程/视觉等定制关键词。
+- 归属依据：Hermes skill 命中用户项目/业务/知识库/电商/课程/视觉等定制关键词。
 - 来源类型：local
 - 能力分类：Agent 工程 / Skill / Plugin / MCP
 - Skill 文件位置：`/Users/pechen/.hermes/skills/productivity/hermes-feishu-gateway-setup/SKILL.md`
@@ -1445,7 +1770,7 @@ status: active
 
 - Agent / 环境：Hermes
 - 归属分类：个人/项目自定义
-- 归属依据：Hermes skill 命中 Peter 项目/业务/知识库/电商/课程/视觉等定制关键词。
+- 归属依据：Hermes skill 命中用户项目/业务/知识库/电商/课程/视觉等定制关键词。
 - 来源类型：local
 - 能力分类：视觉 / 内容 / 课件生产
 - Skill 文件位置：`/Users/pechen/.hermes/skills/productivity/hermes-feishu-session-debugging/SKILL.md`
@@ -1469,7 +1794,7 @@ status: active
 
 - Agent / 环境：Hermes
 - 归属分类：个人/项目自定义
-- 归属依据：Hermes skill 命中 Peter 项目/业务/知识库/电商/课程/视觉等定制关键词。
+- 归属依据：Hermes skill 命中用户项目/业务/知识库/电商/课程/视觉等定制关键词。
 - 来源类型：local
 - 能力分类：视觉 / 内容 / 课件生产
 - Skill 文件位置：`/Users/pechen/.hermes/skills/productivity/html-ppt-conference-review-loop/SKILL.md`
@@ -1481,7 +1806,7 @@ status: active
 
 - Agent / 环境：Hermes
 - 归属分类：个人/项目自定义
-- 归属依据：Hermes skill 命中 Peter 项目/业务/知识库/电商/课程/视觉等定制关键词。
+- 归属依据：Hermes skill 命中用户项目/业务/知识库/电商/课程/视觉等定制关键词。
 - 来源类型：local
 - 能力分类：视觉 / 内容 / 课件生产
 - Skill 文件位置：`/Users/pechen/.hermes/skills/productivity/html-ppt-course-deck/SKILL.md`
@@ -1493,7 +1818,7 @@ status: active
 
 - Agent / 环境：Hermes
 - 归属分类：个人/项目自定义
-- 归属依据：Hermes skill 命中 Peter 项目/业务/知识库/电商/课程/视觉等定制关键词。
+- 归属依据：Hermes skill 命中用户项目/业务/知识库/电商/课程/视觉等定制关键词。
 - 来源类型：local
 - 能力分类：视觉 / 内容 / 课件生产
 - Skill 文件位置：`/Users/pechen/.hermes/skills/productivity/html-ppt-font-standardization/SKILL.md`
@@ -1505,7 +1830,7 @@ status: active
 
 - Agent / 环境：Hermes
 - 归属分类：个人/项目自定义
-- 归属依据：Hermes skill 命中 Peter 项目/业务/知识库/电商/课程/视觉等定制关键词。
+- 归属依据：Hermes skill 命中用户项目/业务/知识库/电商/课程/视觉等定制关键词。
 - 来源类型：local
 - 能力分类：视觉 / 内容 / 课件生产
 - Skill 文件位置：`/Users/pechen/.hermes/skills/productivity/html-ppt-screenshot-review-loop/SKILL.md`
@@ -1517,7 +1842,7 @@ status: active
 
 - Agent / 环境：Hermes
 - 归属分类：个人/项目自定义
-- 归属依据：Hermes skill 命中 Peter 项目/业务/知识库/电商/课程/视觉等定制关键词。
+- 归属依据：Hermes skill 命中用户项目/业务/知识库/电商/课程/视觉等定制关键词。
 - 来源类型：local
 - 能力分类：视觉 / 内容 / 课件生产
 - Skill 文件位置：`/Users/pechen/.hermes/skills/productivity/html-ppt-stage-fit-and-background-cleanup/SKILL.md`
@@ -1529,7 +1854,7 @@ status: active
 
 - Agent / 环境：Hermes
 - 归属分类：个人/项目自定义
-- 归属依据：Hermes skill 命中 Peter 项目/业务/知识库/电商/课程/视觉等定制关键词。
+- 归属依据：Hermes skill 命中用户项目/业务/知识库/电商/课程/视觉等定制关键词。
 - 来源类型：local
 - 能力分类：视觉 / 内容 / 课件生产
 - Skill 文件位置：`/Users/pechen/.hermes/skills/productivity/html-ppt-studio-agentskill/SKILL.md`
@@ -1553,7 +1878,7 @@ status: active
 
 - Agent / 环境：Hermes
 - 归属分类：个人/项目自定义
-- 归属依据：Hermes skill 命中 Peter 项目/业务/知识库/电商/课程/视觉等定制关键词。
+- 归属依据：Hermes skill 命中用户项目/业务/知识库/电商/课程/视觉等定制关键词。
 - 来源类型：local
 - 能力分类：Agent 工程 / Skill / Plugin / MCP
 - Skill 文件位置：`/Users/pechen/.hermes/skills/productivity/macos-wechat-cli/SKILL.md`
@@ -1565,7 +1890,7 @@ status: active
 
 - Agent / 环境：Hermes
 - 归属分类：个人/项目自定义
-- 归属依据：Hermes skill 命中 Peter 项目/业务/知识库/电商/课程/视觉等定制关键词。
+- 归属依据：Hermes skill 命中用户项目/业务/知识库/电商/课程/视觉等定制关键词。
 - 来源类型：local
 - 能力分类：Agent 工程 / Skill / Plugin / MCP
 - Skill 文件位置：`/Users/pechen/.hermes/skills/productivity/macos-wechat-history-decrypt/SKILL.md`
@@ -1649,7 +1974,7 @@ status: active
 
 - Agent / 环境：Hermes
 - 归属分类：个人/项目自定义
-- 归属依据：Hermes skill 命中 Peter 项目/业务/知识库/电商/课程/视觉等定制关键词。
+- 归属依据：Hermes skill 命中用户项目/业务/知识库/电商/课程/视觉等定制关键词。
 - 来源类型：local
 - 能力分类：Agent 工程 / Skill / Plugin / MCP
 - Skill 文件位置：`/Users/pechen/.hermes/skills/productivity/official-lark-cli-feishu-workflows/SKILL.md`
@@ -1685,7 +2010,7 @@ status: active
 
 - Agent / 环境：Hermes
 - 归属分类：个人/项目自定义
-- 归属依据：Hermes skill 命中 Peter 项目/业务/知识库/电商/课程/视觉等定制关键词。
+- 归属依据：Hermes skill 命中用户项目/业务/知识库/电商/课程/视觉等定制关键词。
 - 来源类型：local
 - 能力分类：电商 / 商品 / 品牌运营
 - Skill 文件位置：`/Users/pechen/.hermes/skills/productivity/real-chrome-web-reader/SKILL.md`
@@ -1697,7 +2022,7 @@ status: active
 
 - Agent / 环境：Hermes
 - 归属分类：个人/项目自定义
-- 归属依据：Hermes skill 命中 Peter 项目/业务/知识库/电商/课程/视觉等定制关键词。
+- 归属依据：Hermes skill 命中用户项目/业务/知识库/电商/课程/视觉等定制关键词。
 - 来源类型：local
 - 能力分类：Agent 工程 / Skill / Plugin / MCP
 - Skill 文件位置：`/Users/pechen/.hermes/skills/productivity/reduce-paid-ratio-link-agent-mvp/SKILL.md`
@@ -1709,7 +2034,7 @@ status: active
 
 - Agent / 环境：Hermes
 - 归属分类：个人/项目自定义
-- 归属依据：Hermes skill 命中 Peter 项目/业务/知识库/电商/课程/视觉等定制关键词。
+- 归属依据：Hermes skill 命中用户项目/业务/知识库/电商/课程/视觉等定制关键词。
 - 来源类型：local
 - 能力分类：Agent 工程 / Skill / Plugin / MCP
 - Skill 文件位置：`/Users/pechen/.hermes/skills/productivity/reduce-paid-ratio-plan-evaluator/SKILL.md`
@@ -1721,7 +2046,7 @@ status: active
 
 - Agent / 环境：Hermes
 - 归属分类：个人/项目自定义
-- 归属依据：Hermes skill 命中 Peter 项目/业务/知识库/电商/课程/视觉等定制关键词。
+- 归属依据：Hermes skill 命中用户项目/业务/知识库/电商/课程/视觉等定制关键词。
 - 来源类型：local
 - 能力分类：视觉 / 内容 / 课件生产
 - Skill 文件位置：`/Users/pechen/.hermes/skills/productivity/review-driven-static-html-courseware/SKILL.md`
@@ -1733,7 +2058,7 @@ status: active
 
 - Agent / 环境：Hermes
 - 归属分类：个人/项目自定义
-- 归属依据：Hermes skill 命中 Peter 项目/业务/知识库/电商/课程/视觉等定制关键词。
+- 归属依据：Hermes skill 命中用户项目/业务/知识库/电商/课程/视觉等定制关键词。
 - 来源类型：local
 - 能力分类：Agent 工程 / Skill / Plugin / MCP
 - Skill 文件位置：`/Users/pechen/.hermes/skills/productivity/sealseek-feature-compare-doc/SKILL.md`
@@ -1745,7 +2070,7 @@ status: active
 
 - Agent / 环境：Hermes
 - 归属分类：个人/项目自定义
-- 归属依据：Hermes skill 命中 Peter 项目/业务/知识库/电商/课程/视觉等定制关键词。
+- 归属依据：Hermes skill 命中用户项目/业务/知识库/电商/课程/视觉等定制关键词。
 - 来源类型：local
 - 能力分类：视觉 / 内容 / 课件生产
 - Skill 文件位置：`/Users/pechen/.hermes/skills/productivity/sealseek-static-html-courseware-workflow/SKILL.md`
@@ -1757,7 +2082,7 @@ status: active
 
 - Agent / 环境：Hermes
 - 归属分类：个人/项目自定义
-- 归属依据：Hermes skill 命中 Peter 项目/业务/知识库/电商/课程/视觉等定制关键词。
+- 归属依据：Hermes skill 命中用户项目/业务/知识库/电商/课程/视觉等定制关键词。
 - 来源类型：local
 - 能力分类：视觉 / 内容 / 课件生产
 - Skill 文件位置：`/Users/pechen/.hermes/skills/productivity/shopping-basket-visual-reference-discovery/SKILL.md`
@@ -1769,7 +2094,7 @@ status: active
 
 - Agent / 环境：Hermes
 - 归属分类：个人/项目自定义
-- 归属依据：Hermes skill 命中 Peter 项目/业务/知识库/电商/课程/视觉等定制关键词。
+- 归属依据：Hermes skill 命中用户项目/业务/知识库/电商/课程/视觉等定制关键词。
 - 来源类型：local
 - 能力分类：视觉 / 内容 / 课件生产
 - Skill 文件位置：`/Users/pechen/.hermes/skills/productivity/single-file-static-html-courseware/SKILL.md`
@@ -1781,7 +2106,7 @@ status: active
 
 - Agent / 环境：Hermes
 - 归属分类：个人/项目自定义
-- 归属依据：Hermes skill 命中 Peter 项目/业务/知识库/电商/课程/视觉等定制关键词。
+- 归属依据：Hermes skill 命中用户项目/业务/知识库/电商/课程/视觉等定制关键词。
 - 来源类型：local
 - 能力分类：视觉 / 内容 / 课件生产
 - Skill 文件位置：`/Users/pechen/.hermes/skills/productivity/static-html-courseware-feedback-loop/SKILL.md`
@@ -1793,7 +2118,7 @@ status: active
 
 - Agent / 环境：Hermes
 - 归属分类：个人/项目自定义
-- 归属依据：Hermes skill 命中 Peter 项目/业务/知识库/电商/课程/视觉等定制关键词。
+- 归属依据：Hermes skill 命中用户项目/业务/知识库/电商/课程/视觉等定制关键词。
 - 来源类型：local
 - 能力分类：视觉 / 内容 / 课件生产
 - Skill 文件位置：`/Users/pechen/.hermes/skills/productivity/static-html-courseware-review-loop/SKILL.md`
@@ -1805,7 +2130,7 @@ status: active
 
 - Agent / 环境：Hermes
 - 归属分类：个人/项目自定义
-- 归属依据：Hermes skill 命中 Peter 项目/业务/知识库/电商/课程/视觉等定制关键词。
+- 归属依据：Hermes skill 命中用户项目/业务/知识库/电商/课程/视觉等定制关键词。
 - 来源类型：local
 - 能力分类：视觉 / 内容 / 课件生产
 - Skill 文件位置：`/Users/pechen/.hermes/skills/productivity/static-html-courseware-review-loop-v2/SKILL.md`
@@ -1817,7 +2142,7 @@ status: active
 
 - Agent / 环境：Hermes
 - 归属分类：个人/项目自定义
-- 归属依据：Hermes skill 命中 Peter 项目/业务/知识库/电商/课程/视觉等定制关键词。
+- 归属依据：Hermes skill 命中用户项目/业务/知识库/电商/课程/视觉等定制关键词。
 - 来源类型：local
 - 能力分类：视觉 / 内容 / 课件生产
 - Skill 文件位置：`/Users/pechen/.hermes/skills/productivity/static-html-courseware-shared-assets-and-merge/SKILL.md`
@@ -1829,7 +2154,7 @@ status: active
 
 - Agent / 环境：Hermes
 - 归属分类：个人/项目自定义
-- 归属依据：Hermes skill 命中 Peter 项目/业务/知识库/电商/课程/视觉等定制关键词。
+- 归属依据：Hermes skill 命中用户项目/业务/知识库/电商/课程/视觉等定制关键词。
 - 来源类型：local
 - 能力分类：视觉 / 内容 / 课件生产
 - Skill 文件位置：`/Users/pechen/.hermes/skills/productivity/static-html-deck-to-editable-ppt/SKILL.md`
@@ -1841,7 +2166,7 @@ status: active
 
 - Agent / 环境：Hermes
 - 归属分类：个人/项目自定义
-- 归属依据：Hermes skill 命中 Peter 项目/业务/知识库/电商/课程/视觉等定制关键词。
+- 归属依据：Hermes skill 命中用户项目/业务/知识库/电商/课程/视觉等定制关键词。
 - 来源类型：local
 - 能力分类：电商 / 商品 / 品牌运营
 - Skill 文件位置：`/Users/pechen/.hermes/skills/productivity/taobao-native-search-to-excel/SKILL.md`
@@ -1853,7 +2178,7 @@ status: active
 
 - Agent / 环境：Hermes
 - 归属分类：个人/项目自定义
-- 归属依据：Hermes skill 命中 Peter 项目/业务/知识库/电商/课程/视觉等定制关键词。
+- 归属依据：Hermes skill 命中用户项目/业务/知识库/电商/课程/视觉等定制关键词。
 - 来源类型：local
 - 能力分类：电商 / 商品 / 品牌运营
 - Skill 文件位置：`/Users/pechen/.hermes/skills/productivity/taobao-search-to-excel/SKILL.md`
@@ -1877,7 +2202,7 @@ status: active
 
 - Agent / 环境：Hermes
 - 归属分类：个人/项目自定义
-- 归属依据：Hermes skill 命中 Peter 项目/业务/知识库/电商/课程/视觉等定制关键词。
+- 归属依据：Hermes skill 命中用户项目/业务/知识库/电商/课程/视觉等定制关键词。
 - 来源类型：local
 - 能力分类：视觉 / 内容 / 课件生产
 - Skill 文件位置：`/Users/pechen/.hermes/skills/productivity/xicheng-bi-feishu-feature-doc/SKILL.md`
@@ -1925,7 +2250,7 @@ status: active
 
 - Agent / 环境：Hermes
 - 归属分类：个人/项目自定义
-- 归属依据：Hermes skill 命中 Peter 项目/业务/知识库/电商/课程/视觉等定制关键词。
+- 归属依据：Hermes skill 命中用户项目/业务/知识库/电商/课程/视觉等定制关键词。
 - 来源类型：local
 - 能力分类：知识库 / 知识管理 / LLM Wiki
 - Skill 文件位置：`/Users/pechen/.hermes/skills/research/llm-wiki/SKILL.md`
@@ -1937,7 +2262,7 @@ status: active
 
 - Agent / 环境：Hermes
 - 归属分类：个人/项目自定义
-- 归属依据：Hermes skill 命中 Peter 项目/业务/知识库/电商/课程/视觉等定制关键词。
+- 归属依据：Hermes skill 命中用户项目/业务/知识库/电商/课程/视觉等定制关键词。
 - 来源类型：local
 - 能力分类：知识库 / 知识管理 / LLM Wiki
 - Skill 文件位置：`/Users/pechen/.hermes/skills/research/llm-wiki-audit-and-optimization/SKILL.md`
@@ -2009,7 +2334,7 @@ status: active
 
 - Agent / 环境：Hermes
 - 归属分类：个人/项目自定义
-- 归属依据：Hermes skill 命中 Peter 项目/业务/知识库/电商/课程/视觉等定制关键词。
+- 归属依据：Hermes skill 命中用户项目/业务/知识库/电商/课程/视觉等定制关键词。
 - 来源类型：local
 - 能力分类：Agent 工程 / Skill / Plugin / MCP
 - Skill 文件位置：`/Users/pechen/.hermes/skills/software-development/cross-agent-skill-packaging/SKILL.md`
@@ -2105,7 +2430,7 @@ status: active
 
 - Agent / 环境：Hermes
 - 归属分类：个人/项目自定义
-- 归属依据：Hermes skill 命中 Peter 项目/业务/知识库/电商/课程/视觉等定制关键词。
+- 归属依据：Hermes skill 命中用户项目/业务/知识库/电商/课程/视觉等定制关键词。
 - 来源类型：local
 - 能力分类：视觉 / 内容 / 课件生产
 - Skill 文件位置：`/Users/pechen/.hermes/skills/software-development/sealseek-gpt-image-skill-migration/SKILL.md`
@@ -2117,7 +2442,7 @@ status: active
 
 - Agent / 环境：Hermes
 - 归属分类：个人/项目自定义
-- 归属依据：Hermes skill 命中 Peter 项目/业务/知识库/电商/课程/视觉等定制关键词。
+- 归属依据：Hermes skill 命中用户项目/业务/知识库/电商/课程/视觉等定制关键词。
 - 来源类型：local
 - 能力分类：视觉 / 内容 / 课件生产
 - Skill 文件位置：`/Users/pechen/.hermes/skills/software-development/sealseek-skill-sync-and-toolcall-fix/SKILL.md`

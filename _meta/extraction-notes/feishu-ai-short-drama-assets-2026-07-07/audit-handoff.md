@@ -28,7 +28,7 @@ status: active
 - Coverage matrix: `_meta/extraction-notes/feishu-ai-short-drama-assets-2026-07-07/coverage-checklist.md`
 - Omission audit: `_meta/extraction-notes/feishu-ai-short-drama-assets-2026-07-07/coverage-checklist.md`
 - Formal page plan: `_meta/extraction-notes/feishu-ai-short-drama-assets-2026-07-07/coverage-checklist.md`
-- Formal pages: `domains/视觉制作/06-AI视频/11-AI短剧角色场景道具资产构建方法.md`
+- Formal pages: `domains/视觉制作/06-AI视频/04-图片与控制资产/11-AI短剧角色场景道具资产构建方法.md`
 
 ## Coverage Summary
 
@@ -42,7 +42,7 @@ status: active
 ## Expected Agent Use
 
 - Future questions this source should support: AI 短剧资产设计、角色定妆、角色四视图、场景库、正反打场景、道具资产、用 API/Skill 替代平台工作流。
-- Pages an Agent should read first: `queries/AI视频导演与分镜入口.md`, then `domains/视觉制作/06-AI视频/11-AI短剧角色场景道具资产构建方法.md`.
+- Pages an Agent should read first: `queries/AI视频导演与分镜入口.md`, then `domains/视觉制作/06-AI视频/04-图片与控制资产/11-AI短剧角色场景道具资产构建方法.md`.
 - Query/playbook entries: existing `queries/AI视频导演与分镜入口.md` updated.
 
 ## Known Risks

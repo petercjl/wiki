@@ -14,11 +14,11 @@
 
 Relevant existing pages:
 
-- `domains/视觉制作/06-AI视频/02-AI商业短视频规划方法.md`
-- `domains/视觉制作/06-AI视频/03-导演式镜头设计方法.md`
-- `domains/视觉制作/06-AI视频/04-商业短视频摄影与运镜语法.md`
-- `domains/视觉制作/06-AI视频/05-AI视频导演Prompt模板.md`
-- `domains/视觉制作/06-AI视频/06-AI视频导演学习资料与数据集.md`
+- `domains/视觉制作/06-AI视频/01-项目定义与剧本/02-AI商业短视频规划方法.md`
+- `domains/视觉制作/06-AI视频/02-导演思维/03-导演式镜头设计方法.md`
+- `domains/视觉制作/06-AI视频/03-分镜脚本/04-商业短视频摄影与运镜语法.md`
+- `domains/视觉制作/06-AI视频/05-视频生成/05-AI视频导演Prompt模板.md`
+- `domains/视觉制作/06-AI视频/80-模型与工具/06-AI视频导演学习资料与数据集.md`
 - `domains/视觉制作/06-AI视频/90-案例库/index.md`
 
-Fusion disposition: extend existing pages and create a domain capability system under `domains/视觉制作/06-AI视频/20-导演知识系统/`. Do not create a separate book-summary island; the source remains evidence and coverage only.
+Fusion disposition: extend existing pages and create a domain capability system under `domains/视觉制作/06-AI视频/02-导演思维/`. Do not create a separate book-summary island; the source remains evidence and coverage only.

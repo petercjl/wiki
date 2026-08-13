@@ -15,12 +15,12 @@
 - Time sensitivity: 底层解释和方法不绑定具体模型版本；CFG 与模型架构表述应作为通用解释，不推断所有商业模型均使用同一实现
 - Candidate domain: `domains/视觉制作/06-AI视频/`
 - Existing pages found:
-  - `domains/视觉制作/06-AI视频/05-AI视频导演Prompt模板.md`
-  - `domains/视觉制作/06-AI视频/25-AI短视频分镜通用能力/09-AI短视频完整视听分镜Prompt结构.md`
+  - `domains/视觉制作/06-AI视频/05-视频生成/05-AI视频导演Prompt模板.md`
+  - `domains/视觉制作/06-AI视频/03-分镜脚本/25-09-AI短视频完整视听分镜Prompt结构.md`
   - `queries/AI视频导演与分镜入口.md`
 - Proposed disposition: 新建一页完整的“AI 视频 Prompt 分层强控方法”，从现有 Prompt 模板页和 query 入口建立关联
 - Placement confirmation: confirmed by user on 2026-07-23
-- Confirmed formal path: `domains/视觉制作/06-AI视频/12-AI视频Prompt分层强控方法.md`
+- Confirmed formal path: `domains/视觉制作/06-AI视频/05-视频生成/12-AI视频Prompt分层强控方法.md`
 
 ## Resolved Tooling
 
