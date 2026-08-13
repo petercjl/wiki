@@ -1,0 +1,923 @@
+{
+	"systeminfo": "WHISPER : COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | FP16_VA = 1 | MATMUL_INT8 = 1 | DOTPROD = 1 | SME = 1 | ACCELERATE = 1 | OPENMP = 1 | REPACK = 1 | ",
+	"model": {
+		"type": "small",
+		"multilingual": true,
+		"vocab": 51865,
+		"audio": {
+			"ctx": 1500,
+			"state": 768,
+			"head": 12,
+			"layer": 12
+		},
+		"text": {
+			"ctx": 448,
+			"state": 768,
+			"head": 12,
+			"layer": 12
+		},
+		"mels": 80,
+		"ftype": 1
+	},
+	"params": {
+		"model": "/Users/pechen/.sealseek/knowledge-space/toolchain/models/ggml-small.bin",
+		"language": "en",
+		"translate": false
+	},
+	"result": {
+		"language": "en"
+	},
+	"transcription": [
+		{
+			"timestamps": {
+				"from": "00:00:00,000",
+				"to": "00:00:27,320"
+			},
+			"offsets": {
+				"from": 0,
+				"to": 27320
+			},
+			"text": " Hi, I'm Adil, and what you just watched is an action short film made in Seedance in 4K."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:27,320",
+				"to": "00:00:28,320"
+			},
+			"offsets": {
+				"from": 27320,
+				"to": 28320
+			},
+			"text": " Crazy, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:28,320",
+				"to": "00:00:31,760"
+			},
+			"offsets": {
+				"from": 28320,
+				"to": 31760
+			},
+			"text": " So, today we're breaking down how to build shots like these across completely different"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:31,760",
+				"to": "00:00:32,760"
+			},
+			"offsets": {
+				"from": 31760,
+				"to": 32760
+			},
+			"text": " settings."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:32,760",
+				"to": "00:00:38,360"
+			},
+			"offsets": {
+				"from": 32760,
+				"to": 38360
+			},
+			"text": " A storm at sea, a desert, a jungle full of monkeys, you learn how to make shots that actually"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:38,360",
+				"to": "00:00:43,840"
+			},
+			"offsets": {
+				"from": 38360,
+				"to": 43840
+			},
+			"text": " look cinematic, how to carry a story from the first scene to the twist, and how to do"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:43,840",
+				"to": "00:00:46,660"
+			},
+			"offsets": {
+				"from": 43840,
+				"to": 46660
+			},
+			"text": " it without burning credits on random generations."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:46,660",
+				"to": "00:00:48,920"
+			},
+			"offsets": {
+				"from": 46660,
+				"to": 48920
+			},
+			"text": " And you don't need to write anything down."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:48,920",
+				"to": "00:00:54,040"
+			},
+			"offsets": {
+				"from": 48920,
+				"to": 54040
+			},
+			"text": " Everything from this video is in one blog post, the script, the prompts, the asset sheets,"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:54,040",
+				"to": "00:00:57,080"
+			},
+			"offsets": {
+				"from": 54040,
+				"to": 57080
+			},
+			"text": " and the Claude scale that writes the Seedance prompts for you."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:57,080",
+				"to": "00:00:58,080"
+			},
+			"offsets": {
+				"from": 57080,
+				"to": 58080
+			},
+			"text": " The link is below."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:58,080",
+				"to": "00:01:01,840"
+			},
+			"offsets": {
+				"from": 58080,
+				"to": 61840
+			},
+			"text": " If you want to master the full process and start making your own viral films, stick with"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:01,840",
+				"to": "00:01:02,840"
+			},
+			"offsets": {
+				"from": 61840,
+				"to": 62840
+			},
+			"text": " me until the end."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:02,840",
+				"to": "00:01:05,800"
+			},
+			"offsets": {
+				"from": 62840,
+				"to": 65800
+			},
+			"text": " Alright, before we start, let's watch the full short film."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:27,080",
+				"to": "00:01:29,080"
+			},
+			"offsets": {
+				"from": 87080,
+				"to": 89080
+			},
+			"text": " Behind us, behind us!"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:57,080",
+				"to": "00:02:05,080"
+			},
+			"offsets": {
+				"from": 117080,
+				"to": 125080
+			},
+			"text": " Seedance 2.0, Captain Rackham, parrot, desert, jungle"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:05,080",
+				"to": "00:02:07,080"
+			},
+			"offsets": {
+				"from": 125080,
+				"to": 127080
+			},
+			"text": " Seedance 2.0, Captain Rackham, parrot, desert, jungle"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:07,080",
+				"to": "00:02:09,080"
+			},
+			"offsets": {
+				"from": 127080,
+				"to": 129080
+			},
+			"text": " Seedance 2.0, Captain Rackham, parrot, desert, jungle"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:09,080",
+				"to": "00:02:11,080"
+			},
+			"offsets": {
+				"from": 129080,
+				"to": 131080
+			},
+			"text": " Seedance 2.0, Captain Rackham, parrot, desert, jungle"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:11,080",
+				"to": "00:02:13,080"
+			},
+			"offsets": {
+				"from": 131080,
+				"to": 133080
+			},
+			"text": " Seedance 2.0, Captain Rackham, parrot, desert, jungle"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:13,080",
+				"to": "00:02:15,080"
+			},
+			"offsets": {
+				"from": 133080,
+				"to": 135080
+			},
+			"text": " Seedance 2.0, Captain Rackham, parrot, desert, jungle"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:15,080",
+				"to": "00:02:17,080"
+			},
+			"offsets": {
+				"from": 135080,
+				"to": 137080
+			},
+			"text": " Seedance 2.0, Captain Rackham, parrot, desert, jungle"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:17,080",
+				"to": "00:02:19,080"
+			},
+			"offsets": {
+				"from": 137080,
+				"to": 139080
+			},
+			"text": " Seedance 2.0, Captain Rackham, parrot, desert, jungle"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:19,080",
+				"to": "00:02:21,080"
+			},
+			"offsets": {
+				"from": 139080,
+				"to": 141080
+			},
+			"text": " Seedance 2.0, Captain Rackham, parrot, desert, jungle"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:21,080",
+				"to": "00:02:23,080"
+			},
+			"offsets": {
+				"from": 141080,
+				"to": 143080
+			},
+			"text": " Seedance 2.0, Captain Rackham, parrot, desert, jungle"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:23,080",
+				"to": "00:02:25,080"
+			},
+			"offsets": {
+				"from": 143080,
+				"to": 145080
+			},
+			"text": " Seedance 2.0, Captain Rackham, parrot, desert, jungle"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:25,080",
+				"to": "00:02:27,080"
+			},
+			"offsets": {
+				"from": 145080,
+				"to": 147080
+			},
+			"text": " Seedance 2.0, Captain Rackham, parrot, desert, jungle"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:27,080",
+				"to": "00:02:29,080"
+			},
+			"offsets": {
+				"from": 147080,
+				"to": 149080
+			},
+			"text": " Seedance 2.0, Captain Rackham, parrot, desert, jungle"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:29,080",
+				"to": "00:02:31,080"
+			},
+			"offsets": {
+				"from": 149080,
+				"to": 151080
+			},
+			"text": " Seedance 2.0, Captain Rackham, parrot, desert, jungle"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:31,080",
+				"to": "00:02:33,080"
+			},
+			"offsets": {
+				"from": 151080,
+				"to": 153080
+			},
+			"text": " Seedance 2.0, Captain Rackham, parrot, desert, jungle"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:33,080",
+				"to": "00:02:35,080"
+			},
+			"offsets": {
+				"from": 153080,
+				"to": 155080
+			},
+			"text": " Seedance 2.0, Captain Rackham, parrot, desert, jungle"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:35,080",
+				"to": "00:02:37,080"
+			},
+			"offsets": {
+				"from": 155080,
+				"to": 157080
+			},
+			"text": " Seedance 2.0, Captain Rackham, parrot, desert, jungle"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:37,080",
+				"to": "00:02:39,080"
+			},
+			"offsets": {
+				"from": 157080,
+				"to": 159080
+			},
+			"text": " Seedance 2.0, Captain Rackham, parrot, desert, jungle"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:39,080",
+				"to": "00:02:41,080"
+			},
+			"offsets": {
+				"from": 159080,
+				"to": 161080
+			},
+			"text": " Seedance 2.0, Captain Rackham, parrot, desert, jungle"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:41,080",
+				"to": "00:02:43,080"
+			},
+			"offsets": {
+				"from": 161080,
+				"to": 163080
+			},
+			"text": " Seedance 2.0, Captain Rackham, parrot, desert, jungle"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:43,080",
+				"to": "00:02:45,080"
+			},
+			"offsets": {
+				"from": 163080,
+				"to": 165080
+			},
+			"text": " Seedance 2.0, Captain Rackham, parrot, desert, jungle"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:45,080",
+				"to": "00:02:47,080"
+			},
+			"offsets": {
+				"from": 165080,
+				"to": 167080
+			},
+			"text": " Seedance 2.0, Captain Rackham, parrot, desert, jungle"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:47,080",
+				"to": "00:02:55,080"
+			},
+			"offsets": {
+				"from": 167080,
+				"to": 175080
+			},
+			"text": " Seedance 2.0, Captain Rackham, parrot, desert, jungle"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:55,080",
+				"to": "00:02:57,080"
+			},
+			"offsets": {
+				"from": 175080,
+				"to": 177080
+			},
+			"text": " Seedance 2.0, Captain Rackham, parrot, desert, jungle"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:57,080",
+				"to": "00:02:59,080"
+			},
+			"offsets": {
+				"from": 177080,
+				"to": 179080
+			},
+			"text": " Seedance 2.0, Captain Rackham, parrot, desert, jungle"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:59,080",
+				"to": "00:03:01,080"
+			},
+			"offsets": {
+				"from": 179080,
+				"to": 181080
+			},
+			"text": " Seedance 2.0, Captain Rackham, parrot, desert, jungle"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:01,080",
+				"to": "00:03:03,080"
+			},
+			"offsets": {
+				"from": 181080,
+				"to": 183080
+			},
+			"text": " Seedance 2.0, Captain Rackham, parrot, desert, jungle"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:03,080",
+				"to": "00:03:05,080"
+			},
+			"offsets": {
+				"from": 183080,
+				"to": 185080
+			},
+			"text": " Seedance 2.0, Captain Rackham, parrot, desert, jungle"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:05,080",
+				"to": "00:03:07,080"
+			},
+			"offsets": {
+				"from": 185080,
+				"to": 187080
+			},
+			"text": " Seedance 2.0, Captain Rackham, parrot, desert, jungle"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:07,080",
+				"to": "00:03:09,080"
+			},
+			"offsets": {
+				"from": 187080,
+				"to": 189080
+			},
+			"text": " Seedance 2.0, Captain Rackham, parrot, desert, jungle"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:09,080",
+				"to": "00:03:11,080"
+			},
+			"offsets": {
+				"from": 189080,
+				"to": 191080
+			},
+			"text": " Seedance 2.0, Captain Rackham, parrot, desert, jungle"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:11,080",
+				"to": "00:03:13,080"
+			},
+			"offsets": {
+				"from": 191080,
+				"to": 193080
+			},
+			"text": " Seedance 2.0, Captain Rackham, parrot, desert, jungle"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:13,080",
+				"to": "00:03:15,080"
+			},
+			"offsets": {
+				"from": 193080,
+				"to": 195080
+			},
+			"text": " Seedance 2.0, Captain Rackham, parrot, desert, jungle"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:15,080",
+				"to": "00:03:17,080"
+			},
+			"offsets": {
+				"from": 195080,
+				"to": 197080
+			},
+			"text": " Seedance 2.0, Captain Rackham, parrot, desert, jungle"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:17,080",
+				"to": "00:03:19,080"
+			},
+			"offsets": {
+				"from": 197080,
+				"to": 199080
+			},
+			"text": " Seedance 2.0, Captain Rackham, parrot, desert, jungle"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:19,080",
+				"to": "00:03:21,080"
+			},
+			"offsets": {
+				"from": 199080,
+				"to": 201080
+			},
+			"text": " Seedance 2.0, Captain Rackham, parrot, desert, jungle"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:21,080",
+				"to": "00:03:23,080"
+			},
+			"offsets": {
+				"from": 201080,
+				"to": 203080
+			},
+			"text": " Seedance 2.0, Captain Rackham, parrot, desert, jungle"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:23,080",
+				"to": "00:03:25,080"
+			},
+			"offsets": {
+				"from": 203080,
+				"to": 205080
+			},
+			"text": " Seedance 2.0, Captain Rackham, parrot, desert, jungle"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:25,080",
+				"to": "00:03:27,080"
+			},
+			"offsets": {
+				"from": 205080,
+				"to": 207080
+			},
+			"text": " Seedance 2.0, Captain Rackham, parrot, desert, jungle"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:27,080",
+				"to": "00:03:29,080"
+			},
+			"offsets": {
+				"from": 207080,
+				"to": 209080
+			},
+			"text": " Seedance 2.0, Captain Rackham, parrot, desert, jungle"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:29,080",
+				"to": "00:03:31,080"
+			},
+			"offsets": {
+				"from": 209080,
+				"to": 211080
+			},
+			"text": " Seedance 2.0, Captain Rackham, parrot, desert, jungle"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:31,080",
+				"to": "00:03:33,080"
+			},
+			"offsets": {
+				"from": 211080,
+				"to": 213080
+			},
+			"text": " Seedance 2.0, Captain Rackham, parrot, desert, jungle"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:33,080",
+				"to": "00:03:35,080"
+			},
+			"offsets": {
+				"from": 213080,
+				"to": 215080
+			},
+			"text": " Seedance 2.0, Captain Rackham, parrot, desert, jungle"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:35,080",
+				"to": "00:03:37,080"
+			},
+			"offsets": {
+				"from": 215080,
+				"to": 217080
+			},
+			"text": " Seedance 2.0, Captain Rackham, parrot, desert, jungle"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:37,080",
+				"to": "00:03:46,080"
+			},
+			"offsets": {
+				"from": 217080,
+				"to": 226080
+			},
+			"text": " Seedance 2.0, Captain Rackham, parrot, desert, jungle"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:46,080",
+				"to": "00:03:48,080"
+			},
+			"offsets": {
+				"from": 226080,
+				"to": 228080
+			},
+			"text": " Seedance 2.0, Captain Rackham, parrot, desert, jungle"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:48,080",
+				"to": "00:03:50,080"
+			},
+			"offsets": {
+				"from": 228080,
+				"to": 230080
+			},
+			"text": " Seedance 2.0, Captain Rackham, parrot, desert, jungle"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:50,080",
+				"to": "00:03:52,080"
+			},
+			"offsets": {
+				"from": 230080,
+				"to": 232080
+			},
+			"text": " Seedance 2.0, Captain Rackham, parrot, desert, jungle"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:52,080",
+				"to": "00:03:54,080"
+			},
+			"offsets": {
+				"from": 232080,
+				"to": 234080
+			},
+			"text": " Seedance 2.0, Captain Rackham, parrot, desert, jungle"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:54,080",
+				"to": "00:03:56,080"
+			},
+			"offsets": {
+				"from": 234080,
+				"to": 236080
+			},
+			"text": " Seedance 2.0, Captain Rackham, parrot, desert, jungle"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:56,080",
+				"to": "00:03:58,080"
+			},
+			"offsets": {
+				"from": 236080,
+				"to": 238080
+			},
+			"text": " Seedance 2.0, Captain Rackham, parrot, desert, jungle"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:58,080",
+				"to": "00:04:00,080"
+			},
+			"offsets": {
+				"from": 238080,
+				"to": 240080
+			},
+			"text": " Seedance 2.0, Captain Rackham, parrot, desert, jungle"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:00,080",
+				"to": "00:04:02,080"
+			},
+			"offsets": {
+				"from": 240080,
+				"to": 242080
+			},
+			"text": " Seedance 2.0, Captain Rackham, parrot, desert, jungle"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:02,080",
+				"to": "00:04:04,080"
+			},
+			"offsets": {
+				"from": 242080,
+				"to": 244080
+			},
+			"text": " Seedance 2.0, Captain Rackham, parrot, desert, jungle"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:04,080",
+				"to": "00:04:06,080"
+			},
+			"offsets": {
+				"from": 244080,
+				"to": 246080
+			},
+			"text": " Seedance 2.0, Captain Rackham, parrot, desert, jungle"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:06,080",
+				"to": "00:04:08,080"
+			},
+			"offsets": {
+				"from": 246080,
+				"to": 248080
+			},
+			"text": " Seedance 2.0, Captain Rackham, parrot, desert, jungle"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:08,080",
+				"to": "00:04:10,080"
+			},
+			"offsets": {
+				"from": 248080,
+				"to": 250080
+			},
+			"text": " Seedance 2.0, Captain Rackham, parrot, desert, jungle"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:10,080",
+				"to": "00:04:12,080"
+			},
+			"offsets": {
+				"from": 250080,
+				"to": 252080
+			},
+			"text": " Seedance 2.0, Captain Rackham, parrot, desert, jungle"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:12,080",
+				"to": "00:04:14,080"
+			},
+			"offsets": {
+				"from": 252080,
+				"to": 254080
+			},
+			"text": " Seedance 2.0, Captain Rackham, parrot, desert, jungle"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:14,080",
+				"to": "00:04:16,080"
+			},
+			"offsets": {
+				"from": 254080,
+				"to": 256080
+			},
+			"text": " Seedance 2.0, Captain Rackham, parrot, desert, jungle"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:16,080",
+				"to": "00:04:18,080"
+			},
+			"offsets": {
+				"from": 256080,
+				"to": 258080
+			},
+			"text": " Seedance 2.0, Captain Rackham, parrot, desert, jungle"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:18,080",
+				"to": "00:04:20,080"
+			},
+			"offsets": {
+				"from": 258080,
+				"to": 260080
+			},
+			"text": " Seedance 2.0, Captain Rackham, parrot, desert, jungle"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:20,080",
+				"to": "00:04:22,080"
+			},
+			"offsets": {
+				"from": 260080,
+				"to": 262080
+			},
+			"text": " Seedance 2.0, Captain Rackham, parrot, desert, jungle"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:22,080",
+				"to": "00:04:24,080"
+			},
+			"offsets": {
+				"from": 262080,
+				"to": 264080
+			},
+			"text": " Seedance 2.0, Captain Rackham, parrot, desert, jungle"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:24,080",
+				"to": "00:04:26,080"
+			},
+			"offsets": {
+				"from": 264080,
+				"to": 266080
+			},
+			"text": " Seedance 2.0, Captain Rackham, parrot, desert, jungle"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:26,080",
+				"to": "00:04:28,080"
+			},
+			"offsets": {
+				"from": 266080,
+				"to": 268080
+			},
+			"text": " Seedance 2.0, Captain Rackham, parrot, desert, jungle"
+		}
+	]
+}

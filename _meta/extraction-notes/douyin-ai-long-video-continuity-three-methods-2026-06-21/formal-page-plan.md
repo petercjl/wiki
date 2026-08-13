@@ -20,4 +20,4 @@ Create one focused playbook. Do not create a source-summary page because the sou
 
 ## Query Entry Decision
 
-No new `queries/` entry was created. Existing `domains/视觉制作/06-AI视频/08-Agent使用模板：AI视频导演分镜.md` already functions as the operational query/playbook for AI video scripting, storyboarding and prompt generation. It was updated to route long-video continuity tasks to the new page.
+No new `queries/` entry was created. Existing `domains/视觉制作/06-AI视频/03-分镜脚本/08-Agent使用模板：AI视频导演分镜.md` already functions as the operational query/playbook for AI video scripting, storyboarding and prompt generation. It was updated to route long-video continuity tasks to the new page.

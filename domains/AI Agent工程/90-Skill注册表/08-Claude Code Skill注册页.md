@@ -1,8 +1,8 @@
 ---
 title: Claude Code Skill 注册页
 type: concept
-created: 2026-06-14
-updated: 2026-06-14
+created: 2026-08-10
+updated: 2026-08-10
 domain: AI Agent工程
 tags: [ai-agent, claude-code, skill, registry]
 sources:

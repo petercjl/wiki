@@ -7,7 +7,7 @@
 ## Confirmed Placement
 
 - Category: `domains/视觉制作/06-AI视频/`
-- New page: `domains/视觉制作/06-AI视频/13-AI短视频生成提示词方法论：TVC与剧情短片.md`
+- New page: `domains/视觉制作/06-AI视频/05-视频生成/13-AI短视频生成提示词方法论：TVC与剧情短片.md`
 - Disposition: `create-new`
 - Rationale:
   - `05-AI视频导演Prompt模板.md`侧重导演字段与通用模板；本页补充真实实验得出的最小充分约束、自然镜头拆分、关系绑定与参考图删减测试。
@@ -28,5 +28,5 @@
 
 - User confirmation: confirmed
 - Confirmation evidence: 用户在 2026-07-27 回复“可以的 入库吧”。
-- Final confirmed path: `domains/视觉制作/06-AI视频/13-AI短视频生成提示词方法论：TVC与剧情短片.md`
+- Final confirmed path: `domains/视觉制作/06-AI视频/05-视频生成/13-AI短视频生成提示词方法论：TVC与剧情短片.md`
 - Final disposition: `create-new`

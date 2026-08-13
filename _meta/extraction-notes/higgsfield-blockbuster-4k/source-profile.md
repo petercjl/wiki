@@ -1,0 +1,32 @@
+# Source Profile
+
+- Source title: `Make Viral AI Short Films With This Exact Workflow — Full Tutorial`
+- Source slug: `higgsfield-blockbuster-4k`
+- Primary source: official Higgsfield Blog tutorial (`case4k`)
+- Secondary source: Academy chapter `01 — One Character, Many Worlds: Watch the Film`
+- Original lesson URL: `https://higgsfield.ai/academy/courses/blockbuster-4k/one-character-many-worlds-watch-the-film`
+- Companion official blog: `https://higgsfield.ai/blog/case4k`
+- Source type: official public tutorial article + downloadable asset packages + authenticated showcase video
+- Adapter: web clipping + image knowledge + downloadable-asset inspection; transcript/video-course branch retained for the secondary source
+- Capture date: 2026-08-12
+- Language: English source; Chinese formal knowledge planned
+- Duration: 267.006 seconds
+- Media: 1920×1080, H.264, 24 fps; AAC stereo 48 kHz
+- Raw video: `raw/videos/higgsfield-blockbuster-4k/01-one-character-many-worlds-watch-the-film.mp4`
+- Raw ASR: `raw/transcripts/higgsfield-blockbuster-4k/ch01-one-character-many-worlds.raw.{txt,srt,json}`
+- Raw visual evidence: `raw/assets/higgsfield-blockbuster-4k/ch01/keyframes/`
+- Raw blog HTML: `raw/webpages/higgsfield/higgsfield-blockbuster-4k-case4k-2026-08-12.html`
+- Raw blog Markdown: `raw/webpages/higgsfield/higgsfield-blockbuster-4k-case4k-2026-08-12.md`
+- Raw blog images: `raw/assets/higgsfield-blockbuster-4k/blog/`
+- Raw downloadable packages: `raw/assets/higgsfield-blockbuster-4k/downloads/`
+- ASR tool: `/opt/homebrew/bin/whisper-cli`
+- ASR model: `/Users/pechen/.sealseek/knowledge-space/toolchain/models/ggml-small.bin`
+- Media tools: `/opt/homebrew/bin/ffmpeg`, `/opt/homebrew/bin/ffprobe`
+- Sensitivity: no credentials or private account data preserved
+- Time sensitivity: Higgsfield UI, model names, course files and download links may change
+- Existing memory candidates: `domains/视觉制作/06-AI视频/04-图片与控制资产/07-故事板铁三角AI视频控制法.md`, `domains/视觉制作/06-AI视频/06-视频剪辑与连续性/09-AI长视频连续性组接方法.md`, `domains/视觉制作/06-AI视频/04-图片与控制资产/11-AI短剧角色场景道具资产构建方法.md`, `domains/视觉制作/06-AI视频/05-视频生成/12-AI视频Prompt分层强控方法.md`, `domains/视觉制作/06-AI视频/05-视频生成/13-AI短视频生成提示词方法论：TVC与剧情短片.md`
+- Placement candidate at ingestion time: new ordered knowledge system under the then-current AI-video root; current formal pages are distributed by production stage under `00-生产总览/`, `01-项目定义与剧本/`, `04-图片与控制资产/`, `05-视频生成/` and `06-视频剪辑与连续性/`.
+- Proposed disposition: create a durable workflow system, then merge chapter-level rules into existing asset/prompt/continuity pages where appropriate
+- Placement confirmation status: pending user confirmation
+- Primary-source rationale: the video is a finished-result benchmark; the Blog contains the operational method, 18 exact prompts, downloadable Claude Skill, and four scene asset packs
+- Expected formal artifacts: workflow overview, asset pipeline, Prompt-Builder protocol, exact-prompt anatomy, scene iteration playbook, continuity/quality QA, future Agent/Skill execution contract

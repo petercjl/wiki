@@ -2,12 +2,13 @@
 title: 1688 电商平台
 type: concept
 created: 2026-07-16
-updated: 2026-07-16
+updated: 2026-08-11
 domain: 电商运营
 tags: [ecommerce, 1688, platform]
 sources:
   - raw/webpages/1688-clawhub-skill-library-2026-07-16/
   - _meta/extraction-notes/1688-clawhub-skill-library-2026-07-16/coverage-matrix.md
+  - _meta/extraction-notes/taobao-batch-modification-help-videos/coverage-matrix.md
 status: active
 ---
 
@@ -18,6 +19,7 @@ status: active
 ## 当前专题
 
 - [[domains/电商运营/07-1688/01-1688CLI/index|1688 CLI]]：牛顿Hub/ClawHub 电商 AI Skill 的能力地图、任务路由、执行安全与输出契约。
+- [[domains/电商运营/02-淘宝天猫/电商自动化/批量修改/05-1688铺货与货源关联|淘宝自动化工具中的 1688 铺货与货源关联]]：从淘宝侧批量选品、铺货、SKU 对应和多货源关联。
 
 ## 归类边界
 

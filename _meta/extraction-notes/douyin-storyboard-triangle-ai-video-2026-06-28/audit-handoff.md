@@ -31,7 +31,7 @@ status: active
 - Omission audit: `_meta/extraction-notes/douyin-storyboard-triangle-ai-video-2026-06-28/omission-audit.md`
 - Formal page plan: `_meta/extraction-notes/douyin-storyboard-triangle-ai-video-2026-06-28/formal-page-plan.md`
 - Formal pages:
-  - `domains/视觉制作/06-AI视频/07-故事板铁三角AI视频控制法.md`
+  - `domains/视觉制作/06-AI视频/04-图片与控制资产/07-故事板铁三角AI视频控制法.md`
 
 ## Coverage Summary
 

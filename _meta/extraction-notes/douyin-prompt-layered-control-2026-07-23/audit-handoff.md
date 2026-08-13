@@ -32,20 +32,20 @@ status: active
 - Omission audit: `omission-audit.md`
 - Formal page plan: `formal-page-plan.md`
 - Formal pages:
-  - `domains/视觉制作/06-AI视频/12-AI视频Prompt分层强控方法.md`
-  - `domains/视觉制作/06-AI视频/05-AI视频导演Prompt模板.md`（相关记忆）
+  - `domains/视觉制作/06-AI视频/05-视频生成/12-AI视频Prompt分层强控方法.md`
+  - `domains/视觉制作/06-AI视频/05-视频生成/05-AI视频导演Prompt模板.md`（相关记忆）
   - `queries/AI视频导演与分镜入口.md`（路由扩展）
 
 ## Placement Confirmation
 
 - Source understanding: AI 视频 Prompt 的约束竞争原理、三层强控写法和复杂镜头降压工作流
 - Existing category considered: `domains/视觉制作/06-AI视频/`
-- Recommended placement: `domains/视觉制作/06-AI视频/12-AI视频Prompt分层强控方法.md`
+- Recommended placement: `domains/视觉制作/06-AI视频/05-视频生成/12-AI视频Prompt分层强控方法.md`
 - Recommended disposition: create-new + link from existing Prompt template + extend existing query
 - Alternatives considered: merge into `05-AI视频导演Prompt模板.md`
 - User confirmation: confirmed
 - Confirmation evidence: 用户在 2026-07-23 回复“确定”
-- Final confirmed path: `domains/视觉制作/06-AI视频/12-AI视频Prompt分层强控方法.md`
+- Final confirmed path: `domains/视觉制作/06-AI视频/05-视频生成/12-AI视频Prompt分层强控方法.md`
 
 ## Coverage Summary
 

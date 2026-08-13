@@ -2,7 +2,7 @@
 
 ## What Changed
 
-- Extended `domains/视觉制作/06-AI视频/07-故事板铁三角AI视频控制法.md`.
+- Extended `domains/视觉制作/06-AI视频/04-图片与控制资产/07-故事板铁三角AI视频控制法.md`.
 - Added a corroboration section based on four selected Douyin videos.
 - Preserved search results, ranking, details, MP4 files, ASR transcripts, and keyframes.
 - Added named visual-evidence screenshots for knowledge units that are primarily visual.

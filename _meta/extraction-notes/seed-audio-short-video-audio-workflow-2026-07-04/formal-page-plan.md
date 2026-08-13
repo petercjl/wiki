@@ -12,7 +12,7 @@ Reason: the knowledge answers how to produce and maintain audio consistency for 
 
 | page | type | disposition | purpose |
 | --- | --- | --- | --- |
-| `domains/视觉制作/06-AI视频/10-Seed-Audio短视频音频一致性工作流.md` | playbook | create-new | Durable method for BGM consistency, dialogue preservation, and character voice reference asset generation. |
+| `domains/视觉制作/06-AI视频/07-声音设计与BGM/10-Seed-Audio短视频音频一致性工作流.md` | playbook | create-new | Durable method for BGM consistency, dialogue preservation, and character voice reference asset generation. |
 | `queries/AI视频音频与声线一致性入口.md` | query | create-new | Agent routing entry for future BGM, voice consistency, Seed-Audio, and `seedaudiocli` tasks. |
 
 ## Index Updates

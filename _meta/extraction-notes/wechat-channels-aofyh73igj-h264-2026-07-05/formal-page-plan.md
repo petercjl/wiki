@@ -16,8 +16,8 @@ status: active
 
 | page | disposition | reason |
 | --- | --- | --- |
-| `domains/视觉制作/06-AI视频/30-影像美学大师风格AI短视频/index.md` | create-new | Creates a dedicated topic for film-aesthetic master style references and AI short-video recreation methods. |
-| `domains/视觉制作/06-AI视频/30-影像美学大师风格AI短视频/01-岩井俊二风格AI短视频制作方法.md` | create-new | Stores the Shunji Iwai style anchor, extracted prompts, and reusable AI short-video workflow. |
+| `domains/视觉制作/06-AI视频/85-影像风格参考/30-影像美学大师风格AI短视频.md` | create-new | Creates a dedicated topic for film-aesthetic master style references and AI short-video recreation methods. |
+| `domains/视觉制作/06-AI视频/85-影像风格参考/30-01-岩井俊二风格AI短视频制作方法.md` | create-new | Stores the Shunji Iwai style anchor, extracted prompts, and reusable AI short-video workflow. |
 
 ## Index Updates
 

@@ -21,10 +21,10 @@ Search terms: `Seed-Audio`, `Seed Audio`, `seedaudio`, `seedaudiocli`, `BGM`, `�
 
 Existing related pages:
 
-- `domains/视觉制作/06-AI视频/01-Doubao-Seedance-2.0视频生成模型卡.md`
-- `domains/视觉制作/06-AI视频/02-AI商业短视频规划方法.md`
-- `domains/视觉制作/06-AI视频/07-故事板铁三角AI视频控制法.md`
-- `domains/视觉制作/06-AI视频/09-AI长视频连续性组接方法.md`
+- `domains/视觉制作/06-AI视频/80-模型与工具/01-Doubao-Seedance-2.0视频生成模型卡.md`
+- `domains/视觉制作/06-AI视频/01-项目定义与剧本/02-AI商业短视频规划方法.md`
+- `domains/视觉制作/06-AI视频/04-图片与控制资产/07-故事板铁三角AI视频控制法.md`
+- `domains/视觉制作/06-AI视频/06-视频剪辑与连续性/09-AI长视频连续性组接方法.md`
 - `queries/AI视频导演与分镜入口.md`
 
 Disposition:

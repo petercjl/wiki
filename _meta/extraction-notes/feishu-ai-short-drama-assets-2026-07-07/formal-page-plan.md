@@ -12,7 +12,7 @@ status: active
 
 # Formal Page Plan
 
-- create: [[domains/视觉制作/06-AI视频/11-AI短剧角色场景道具资产构建方法]]
+- create: [[domains/视觉制作/06-AI视频/04-图片与控制资产/11-AI短剧角色场景道具资产构建方法]]
 - update: [[domains/视觉制作/06-AI视频/index]]
 - update: [[queries/AI视频导演与分镜入口]]
 - update: root `index.md`

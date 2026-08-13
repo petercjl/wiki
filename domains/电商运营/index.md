@@ -2,7 +2,7 @@
 title: 电商运营知识域
 type: source-summary
 created: 2026-06-14
-updated: 2026-08-03
+updated: 2026-08-11
 domain: 电商运营
 tags: [ecommerce, knowledge-base]
 sources:
@@ -14,6 +14,7 @@ sources:
   - _meta/extraction-notes/agent-driven-ecommerce-cli-methodology-2026-07-29/coverage-matrix.md
   - raw/webpages/taobao/ai-keyword-selection-2026-08-03/content.md
   - _meta/extraction-notes/ai-keyword-selection-2026-08-03/coverage-matrix.md
+  - _meta/extraction-notes/taobao-batch-modification-help-videos/coverage-matrix.md
 status: active
 ---
 
@@ -53,7 +54,9 @@ status: active
 - [[domains/电商运营/02-淘宝天猫/06-淘宝智能推广与人群运营系统/index|淘宝智能推广与人群运营系统]]：基于山峰组259期6-15/6-16课程，沉淀店铺模型、人群资产、转化周期、标准/智能计划、搜索卡位、流量金卡、人群推广、空烧互抢和报表诊断。
 - [[domains/电商运营/02-淘宝天猫/万相台无界白皮书/index|万相台无界白皮书]]：阿里官方万相台无界说明书、产品规则、操作步骤、UI 证据和时效性限制。
 - [[domains/电商运营/02-淘宝天猫/万相台无界白皮书/01-关键词推广/index|万相台无界关键词推广]]：AI点睛、AI选词及后续预算、选品、选人、计划类型和洞察工具的官方资料入口。
+- [[domains/电商运营/02-淘宝天猫/电商自动化/index|淘宝天猫电商自动化]]：批量修改、跨店复制、店群同步、任务恢复与 1688 铺货操作知识。
 - [[queries/淘宝AI点睛关键词推广|淘宝 AI点睛关键词推广]]：Agent 回答 AI点睛适用性、流量诉求、需求管理、屏蔽词和报表口径前的读取入口。
+- [[queries/淘宝批量修改与店群同步工具入口|淘宝批量修改与店群同步工具入口]]：Agent 执行批量商品操作、复制和同步任务前的安全路由。
 
 ## 03 京东
 

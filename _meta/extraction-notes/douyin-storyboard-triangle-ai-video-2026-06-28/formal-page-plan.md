@@ -14,7 +14,7 @@ status: active
 
 ## Disposition
 
-- Create new formal playbook: `domains/视觉制作/06-AI视频/07-故事板铁三角AI视频控制法.md`
+- Create new formal playbook: `domains/视觉制作/06-AI视频/04-图片与控制资产/07-故事板铁三角AI视频控制法.md`
 - Update AI video index.
 - Update root wiki index.
 - Update log.

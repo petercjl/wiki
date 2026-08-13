@@ -1,0 +1,2284 @@
+{
+  "schema": "product-tvc-analysis-package",
+  "schema_version": "1.0.0",
+  "package_id": "poems-for-you-edge-chair-pillow-tvc-analysis",
+  "revision": 1,
+  "status": "ready_for_script",
+  "language": "zh-CN",
+  "created_at": "2026-08-13T00:00:00+08:00",
+  "updated_at": "2026-08-13T00:00:00+08:00",
+  "producer": {
+    "skill": "product-tvc-analyzer",
+    "skill_version": "1.0",
+    "runtime": "Codex"
+  },
+  "source_summary": {
+    "input_types": [
+      "image",
+      "url",
+      "table"
+    ],
+    "asset_count": 26,
+    "primary_evidence_refs": [
+      "hero_01",
+      "detail_02",
+      "detail_04",
+      "detail_09",
+      "detail_12",
+      "detail_15"
+    ],
+    "notes": [
+      "4 个带裁切参数的链接失效，已使用相同淘宝图片 ID 的原图地址恢复。",
+      "SKU2—SKU4为独立镜子产品，SKU5为无图占位，不纳入本次 TVC。"
+    ]
+  },
+  "source_assets": [
+    {
+      "asset_id": "hero_01",
+      "kind": "main_image",
+      "reference": "source-images/hero_01.jpg",
+      "reference_type": "package_relative",
+      "role": "目标抱枕身份、细节或场景证据",
+      "sha256": "923ce68ca0e37d147708ff45cee3cbe4f3db9a73359eb015f74bc4a6614f7703",
+      "media_type": "image/webp",
+      "render_mode": "stage_then_embed",
+      "required_for_report": true,
+      "alt_text": "白色异形椅子抱枕，表面有红色中英文诗句和蓝色椅子线稿；在户外、长椅或人物怀抱中展示。",
+      "caption": "主图 hero_01",
+      "notes": "原始地址：https://img.alicdn.com/imgextra/i3/2201196835114/O1CN01YYNn3T1neGb8WGX0N~crop,163,208,1600,2133~*!!2201196835114.jpg_q50.jpg_.webp",
+      "image_description": {
+        "summary": "白色异形椅子抱枕，表面有红色中英文诗句和蓝色椅子线稿；在户外、长椅或人物怀抱中展示。",
+        "product_state": "完整产品",
+        "scene_context": "户外生活方式场景",
+        "visible_elements": [
+          "白色椅形抱枕",
+          "红色文字",
+          "蓝色椅子线稿"
+        ],
+        "visible_text": [
+          "通常我都坐在生活边上",
+          "I Usually Sit On The Edge Of Life"
+        ],
+        "composition": "产品为主体的竖版画面",
+        "certainty_notes": [
+          "以图片锁定外形、比例、文字和色彩关系"
+        ]
+      },
+      "semantic_index": {
+        "keywords": [
+          "椅形抱枕",
+          "生活边缘",
+          "诗歌周边"
+        ],
+        "suitable_script_uses": [
+          "product_identity",
+          "scene_reference"
+        ],
+        "variant_refs": [
+          "variant_chair_pillow"
+        ],
+        "fact_refs": [
+          "fact_identity",
+          "fact_design"
+        ],
+        "value_refs": [
+          "value_symbolic_seat"
+        ],
+        "audience_refs": [
+          "audience_edge_giver"
+        ],
+        "scene_refs": [
+          "scene_last_seat"
+        ],
+        "direction_refs": [
+          "direction_edge_seat"
+        ],
+        "continuity_notes": [
+          "产品所有可见结构、比例、文字、颜色与连接关系以参考图为准"
+        ],
+        "misread_risks": [
+          "不可改成普通矩形靠枕或真实硬椅子"
+        ]
+      }
+    },
+    {
+      "asset_id": "hero_02",
+      "kind": "main_image",
+      "reference": "source-images/hero_02.webp",
+      "reference_type": "package_relative",
+      "role": "目标抱枕身份、细节或场景证据",
+      "sha256": "f15c5a70757b9e4c2f3c55dcb4074b1393d83fdac54b9b51053d54676b259c72",
+      "media_type": "image/webp",
+      "render_mode": "stage_then_embed",
+      "required_for_report": false,
+      "alt_text": "白色异形椅子抱枕，表面有红色中英文诗句和蓝色椅子线稿；在户外、长椅或人物怀抱中展示。",
+      "caption": "主图 hero_02",
+      "notes": "原始地址：https://img.alicdn.com/imgextra/i4/2201196835114/O1CN01ORR7D01neGb7wrwwT_!!2201196835114.jpg_q50.jpg_.webp",
+      "image_description": {
+        "summary": "白色异形椅子抱枕，表面有红色中英文诗句和蓝色椅子线稿；在户外、长椅或人物怀抱中展示。",
+        "product_state": "完整产品",
+        "scene_context": "户外生活方式场景",
+        "visible_elements": [
+          "白色椅形抱枕",
+          "红色文字",
+          "蓝色椅子线稿"
+        ],
+        "visible_text": [
+          "通常我都坐在生活边上",
+          "I Usually Sit On The Edge Of Life"
+        ],
+        "composition": "产品为主体的竖版画面",
+        "certainty_notes": [
+          "以图片锁定外形、比例、文字和色彩关系"
+        ]
+      },
+      "semantic_index": {
+        "keywords": [
+          "椅形抱枕",
+          "生活边缘",
+          "诗歌周边"
+        ],
+        "suitable_script_uses": [
+          "product_identity",
+          "scene_reference"
+        ],
+        "variant_refs": [
+          "variant_chair_pillow"
+        ],
+        "fact_refs": [
+          "fact_identity",
+          "fact_design"
+        ],
+        "value_refs": [
+          "value_symbolic_seat"
+        ],
+        "audience_refs": [
+          "audience_edge_giver"
+        ],
+        "scene_refs": [
+          "scene_last_seat"
+        ],
+        "direction_refs": [
+          "direction_edge_seat"
+        ],
+        "continuity_notes": [
+          "产品所有可见结构、比例、文字、颜色与连接关系以参考图为准"
+        ],
+        "misread_risks": [
+          "不可改成普通矩形靠枕或真实硬椅子"
+        ]
+      }
+    },
+    {
+      "asset_id": "hero_03",
+      "kind": "main_image",
+      "reference": "source-images/hero_03.jpg",
+      "reference_type": "package_relative",
+      "role": "目标抱枕身份、细节或场景证据",
+      "sha256": "ab83e641629abe68023feeaa7c1febfdd4f87646f441e37d2433e21f3a021de6",
+      "media_type": "image/webp",
+      "render_mode": "stage_then_embed",
+      "required_for_report": false,
+      "alt_text": "白色异形椅子抱枕，表面有红色中英文诗句和蓝色椅子线稿；在户外、长椅或人物怀抱中展示。",
+      "caption": "主图 hero_03",
+      "notes": "原始地址：https://img.alicdn.com/imgextra/i1/2201196835114/O1CN01umGIdN1neGb7wsYNN~crop,171,274,1600,2133~*!!2201196835114.jpg_q50.jpg_.webp",
+      "image_description": {
+        "summary": "白色异形椅子抱枕，表面有红色中英文诗句和蓝色椅子线稿；在户外、长椅或人物怀抱中展示。",
+        "product_state": "完整产品",
+        "scene_context": "户外生活方式场景",
+        "visible_elements": [
+          "白色椅形抱枕",
+          "红色文字",
+          "蓝色椅子线稿"
+        ],
+        "visible_text": [
+          "通常我都坐在生活边上",
+          "I Usually Sit On The Edge Of Life"
+        ],
+        "composition": "产品为主体的竖版画面",
+        "certainty_notes": [
+          "以图片锁定外形、比例、文字和色彩关系"
+        ]
+      },
+      "semantic_index": {
+        "keywords": [
+          "椅形抱枕",
+          "生活边缘",
+          "诗歌周边"
+        ],
+        "suitable_script_uses": [
+          "product_identity",
+          "scene_reference"
+        ],
+        "variant_refs": [
+          "variant_chair_pillow"
+        ],
+        "fact_refs": [
+          "fact_identity",
+          "fact_design"
+        ],
+        "value_refs": [
+          "value_symbolic_seat"
+        ],
+        "audience_refs": [
+          "audience_edge_giver"
+        ],
+        "scene_refs": [
+          "scene_last_seat"
+        ],
+        "direction_refs": [
+          "direction_edge_seat"
+        ],
+        "continuity_notes": [
+          "产品所有可见结构、比例、文字、颜色与连接关系以参考图为准"
+        ],
+        "misread_risks": [
+          "不可改成普通矩形靠枕或真实硬椅子"
+        ]
+      }
+    },
+    {
+      "asset_id": "hero_04",
+      "kind": "main_image",
+      "reference": "source-images/hero_04.jpg",
+      "reference_type": "package_relative",
+      "role": "目标抱枕身份、细节或场景证据",
+      "sha256": "f84b8f8630658f4a18d84b4f85d37a915bdbb88c035a2164495f0c99c2025fe1",
+      "media_type": "image/webp",
+      "render_mode": "stage_then_embed",
+      "required_for_report": false,
+      "alt_text": "白色异形椅子抱枕，表面有红色中英文诗句和蓝色椅子线稿；在户外、长椅或人物怀抱中展示。",
+      "caption": "主图 hero_04",
+      "notes": "原始地址：https://img.alicdn.com/imgextra/i4/2201196835114/O1CN01zXS7S51neGb2k30gM~crop,258,534,1600,2133~*!!2201196835114.jpg_q50.jpg_.webp",
+      "image_description": {
+        "summary": "白色异形椅子抱枕，表面有红色中英文诗句和蓝色椅子线稿；在户外、长椅或人物怀抱中展示。",
+        "product_state": "完整产品",
+        "scene_context": "户外生活方式场景",
+        "visible_elements": [
+          "白色椅形抱枕",
+          "红色文字",
+          "蓝色椅子线稿"
+        ],
+        "visible_text": [
+          "通常我都坐在生活边上",
+          "I Usually Sit On The Edge Of Life"
+        ],
+        "composition": "产品为主体的竖版画面",
+        "certainty_notes": [
+          "以图片锁定外形、比例、文字和色彩关系"
+        ]
+      },
+      "semantic_index": {
+        "keywords": [
+          "椅形抱枕",
+          "生活边缘",
+          "诗歌周边"
+        ],
+        "suitable_script_uses": [
+          "product_identity",
+          "scene_reference"
+        ],
+        "variant_refs": [
+          "variant_chair_pillow"
+        ],
+        "fact_refs": [
+          "fact_identity",
+          "fact_design"
+        ],
+        "value_refs": [
+          "value_symbolic_seat"
+        ],
+        "audience_refs": [
+          "audience_edge_giver"
+        ],
+        "scene_refs": [
+          "scene_last_seat"
+        ],
+        "direction_refs": [
+          "direction_edge_seat"
+        ],
+        "continuity_notes": [
+          "产品所有可见结构、比例、文字、颜色与连接关系以参考图为准"
+        ],
+        "misread_risks": [
+          "不可改成普通矩形靠枕或真实硬椅子"
+        ]
+      }
+    },
+    {
+      "asset_id": "hero_05",
+      "kind": "main_image",
+      "reference": "source-images/hero_05.webp",
+      "reference_type": "package_relative",
+      "role": "目标抱枕身份、细节或场景证据",
+      "sha256": "cb2e4e02e2b609e35c782f872292be126f9dbee58319f5b949e149a47e44556a",
+      "media_type": "image/webp",
+      "render_mode": "stage_then_embed",
+      "required_for_report": false,
+      "alt_text": "白色异形椅子抱枕，表面有红色中英文诗句和蓝色椅子线稿；在户外、长椅或人物怀抱中展示。",
+      "caption": "主图 hero_05",
+      "notes": "原始地址：https://img.alicdn.com/imgextra/i2/2201196835114/O1CN01EriyI81neGb7cDIER_!!2201196835114.jpg_q50.jpg_.webp",
+      "image_description": {
+        "summary": "白色异形椅子抱枕，表面有红色中英文诗句和蓝色椅子线稿；在户外、长椅或人物怀抱中展示。",
+        "product_state": "完整产品",
+        "scene_context": "户外生活方式场景",
+        "visible_elements": [
+          "白色椅形抱枕",
+          "红色文字",
+          "蓝色椅子线稿"
+        ],
+        "visible_text": [
+          "通常我都坐在生活边上",
+          "I Usually Sit On The Edge Of Life"
+        ],
+        "composition": "产品为主体的竖版画面",
+        "certainty_notes": [
+          "以图片锁定外形、比例、文字和色彩关系"
+        ]
+      },
+      "semantic_index": {
+        "keywords": [
+          "椅形抱枕",
+          "生活边缘",
+          "诗歌周边"
+        ],
+        "suitable_script_uses": [
+          "product_identity",
+          "scene_reference"
+        ],
+        "variant_refs": [
+          "variant_chair_pillow"
+        ],
+        "fact_refs": [
+          "fact_identity",
+          "fact_design"
+        ],
+        "value_refs": [
+          "value_symbolic_seat"
+        ],
+        "audience_refs": [
+          "audience_edge_giver"
+        ],
+        "scene_refs": [
+          "scene_last_seat"
+        ],
+        "direction_refs": [
+          "direction_edge_seat"
+        ],
+        "continuity_notes": [
+          "产品所有可见结构、比例、文字、颜色与连接关系以参考图为准"
+        ],
+        "misread_risks": [
+          "不可改成普通矩形靠枕或真实硬椅子"
+        ]
+      }
+    },
+    {
+      "asset_id": "sku_01",
+      "kind": "sku_image",
+      "reference": "source-images/sku_01.jpg",
+      "reference_type": "package_relative",
+      "role": "目标抱枕身份、细节或场景证据",
+      "sha256": "f84b8f8630658f4a18d84b4f85d37a915bdbb88c035a2164495f0c99c2025fe1",
+      "media_type": "image/webp",
+      "render_mode": "stage_then_embed",
+      "required_for_report": false,
+      "alt_text": "白色异形椅子抱枕，表面有红色中英文诗句和蓝色椅子线稿；在户外、长椅或人物怀抱中展示。",
+      "caption": "SKU图 sku_01",
+      "notes": "原始地址：https://gw.alicdn.com/bao/uploaded/i4/2201196835114/O1CN01zXS7S51neGb2k30gM~crop,120,753,1880,1880~*!!2201196835114.jpg*.webp",
+      "image_description": {
+        "summary": "白色异形椅子抱枕，表面有红色中英文诗句和蓝色椅子线稿；在户外、长椅或人物怀抱中展示。",
+        "product_state": "完整产品",
+        "scene_context": "产品或使用展示",
+        "visible_elements": [
+          "白色椅形抱枕",
+          "红色文字",
+          "蓝色椅子线稿"
+        ],
+        "visible_text": [
+          "通常我都坐在生活边上",
+          "I Usually Sit On The Edge Of Life"
+        ],
+        "composition": "产品为主体的竖版画面",
+        "certainty_notes": [
+          "以图片锁定外形、比例、文字和色彩关系"
+        ]
+      },
+      "semantic_index": {
+        "keywords": [
+          "椅形抱枕",
+          "生活边缘",
+          "诗歌周边"
+        ],
+        "suitable_script_uses": [
+          "product_identity",
+          "scene_reference"
+        ],
+        "variant_refs": [
+          "variant_chair_pillow"
+        ],
+        "fact_refs": [
+          "fact_identity",
+          "fact_design"
+        ],
+        "value_refs": [
+          "value_symbolic_seat"
+        ],
+        "audience_refs": [
+          "audience_edge_giver"
+        ],
+        "scene_refs": [
+          "scene_last_seat"
+        ],
+        "direction_refs": [
+          "direction_edge_seat"
+        ],
+        "continuity_notes": [
+          "产品所有可见结构、比例、文字、颜色与连接关系以参考图为准"
+        ],
+        "misread_risks": [
+          "不可改成普通矩形靠枕或真实硬椅子"
+        ]
+      }
+    },
+    {
+      "asset_id": "sku_02",
+      "kind": "sku_image",
+      "reference": "source-images/sku_02.webp",
+      "reference_type": "package_relative",
+      "role": "非目标 SKU 或无效占位识别",
+      "sha256": "9109fcd71d891f6384be6881e93652d9201d216b6776cbd75cee299d6c215513",
+      "media_type": "image/webp",
+      "render_mode": "not_rendered",
+      "required_for_report": false,
+      "alt_text": "独立镜子 SKU 图，与本次椅形抱枕不是同一产品。",
+      "caption": "SKU图 sku_02",
+      "notes": "原始地址：https://gw.alicdn.com/bao/uploaded/i3/2201196835114/O1CN01A8pzm91neGbjsox8Y_!!2201196835114.jpg_.webp",
+      "image_description": {
+        "summary": "独立镜子 SKU 图，与本次椅形抱枕不是同一产品。",
+        "product_state": "非目标 SKU",
+        "scene_context": "白底商品展示",
+        "visible_elements": [
+          "彩色桌面镜"
+        ],
+        "visible_text": [],
+        "composition": "方形白底商品图",
+        "certainty_notes": [
+          "不得作为抱枕外观或功能证据"
+        ]
+      },
+      "semantic_index": {
+        "keywords": [
+          "非目标SKU",
+          "不可用素材"
+        ],
+        "suitable_script_uses": [
+          "do_not_use"
+        ],
+        "variant_refs": [],
+        "fact_refs": [],
+        "value_refs": [],
+        "audience_refs": [],
+        "scene_refs": [],
+        "direction_refs": [],
+        "continuity_notes": [],
+        "misread_risks": [
+          "不得混入目标抱枕方案"
+        ]
+      }
+    },
+    {
+      "asset_id": "sku_03",
+      "kind": "sku_image",
+      "reference": "source-images/sku_03.webp",
+      "reference_type": "package_relative",
+      "role": "非目标 SKU 或无效占位识别",
+      "sha256": "cb499387c4410c2ebf6c7e055eb5b68a8d5e4be9a20d9ec17dbb8fc15953edea",
+      "media_type": "image/webp",
+      "render_mode": "not_rendered",
+      "required_for_report": false,
+      "alt_text": "独立镜子 SKU 图，与本次椅形抱枕不是同一产品。",
+      "caption": "SKU图 sku_03",
+      "notes": "原始地址：https://gw.alicdn.com/bao/uploaded/i3/2201196835114/O1CN01QaWyUR1neGbjmcZMm_!!2201196835114.jpg_.webp",
+      "image_description": {
+        "summary": "独立镜子 SKU 图，与本次椅形抱枕不是同一产品。",
+        "product_state": "非目标 SKU",
+        "scene_context": "白底商品展示",
+        "visible_elements": [
+          "彩色桌面镜"
+        ],
+        "visible_text": [],
+        "composition": "方形白底商品图",
+        "certainty_notes": [
+          "不得作为抱枕外观或功能证据"
+        ]
+      },
+      "semantic_index": {
+        "keywords": [
+          "非目标SKU",
+          "不可用素材"
+        ],
+        "suitable_script_uses": [
+          "do_not_use"
+        ],
+        "variant_refs": [],
+        "fact_refs": [],
+        "value_refs": [],
+        "audience_refs": [],
+        "scene_refs": [],
+        "direction_refs": [],
+        "continuity_notes": [],
+        "misread_risks": [
+          "不得混入目标抱枕方案"
+        ]
+      }
+    },
+    {
+      "asset_id": "sku_04",
+      "kind": "sku_image",
+      "reference": "source-images/sku_04.webp",
+      "reference_type": "package_relative",
+      "role": "非目标 SKU 或无效占位识别",
+      "sha256": "fae976842b80be6b3d2adcc7add2586da19979393fdf83f0c6d0b5f15969706a",
+      "media_type": "image/webp",
+      "render_mode": "not_rendered",
+      "required_for_report": false,
+      "alt_text": "独立镜子 SKU 图，与本次椅形抱枕不是同一产品。",
+      "caption": "SKU图 sku_04",
+      "notes": "原始地址：https://gw.alicdn.com/bao/uploaded/i4/2201196835114/O1CN012Psjce1neGbjfizn1_!!2201196835114.jpg_.webp",
+      "image_description": {
+        "summary": "独立镜子 SKU 图，与本次椅形抱枕不是同一产品。",
+        "product_state": "非目标 SKU",
+        "scene_context": "白底商品展示",
+        "visible_elements": [
+          "彩色桌面镜"
+        ],
+        "visible_text": [],
+        "composition": "方形白底商品图",
+        "certainty_notes": [
+          "不得作为抱枕外观或功能证据"
+        ]
+      },
+      "semantic_index": {
+        "keywords": [
+          "非目标SKU",
+          "不可用素材"
+        ],
+        "suitable_script_uses": [
+          "do_not_use"
+        ],
+        "variant_refs": [],
+        "fact_refs": [],
+        "value_refs": [],
+        "audience_refs": [],
+        "scene_refs": [],
+        "direction_refs": [],
+        "continuity_notes": [],
+        "misread_risks": [
+          "不得混入目标抱枕方案"
+        ]
+      }
+    },
+    {
+      "asset_id": "sku_05",
+      "kind": "sku_image",
+      "reference": "source-images/sku_05.webp",
+      "reference_type": "package_relative",
+      "role": "非目标 SKU 或无效占位识别",
+      "sha256": "ee54015814d2d160ac9cb77e60f4d07f605b01b78bcf6276d395c8d23f3ad59d",
+      "media_type": "image/webp",
+      "render_mode": "not_rendered",
+      "required_for_report": false,
+      "alt_text": "无有效目标商品信息的占位或极窄裁片。",
+      "caption": "SKU图 sku_05",
+      "notes": "原始地址：https://img.alicdn.com/imgextra/i3/O1CN01mJU70c1eWdRCoB5In_!!6000000003879-2-tps-256-256.png_.webp",
+      "image_description": {
+        "summary": "无有效目标商品信息的占位或极窄裁片。",
+        "product_state": "不可用",
+        "scene_context": "占位素材",
+        "visible_elements": [
+          "占位内容"
+        ],
+        "visible_text": [],
+        "composition": "无有效构图",
+        "certainty_notes": [
+          "不得用于脚本或产品判断"
+        ]
+      },
+      "semantic_index": {
+        "keywords": [
+          "非目标SKU",
+          "不可用素材"
+        ],
+        "suitable_script_uses": [
+          "do_not_use"
+        ],
+        "variant_refs": [],
+        "fact_refs": [],
+        "value_refs": [],
+        "audience_refs": [],
+        "scene_refs": [],
+        "direction_refs": [],
+        "continuity_notes": [],
+        "misread_risks": [
+          "不得混入目标抱枕方案"
+        ]
+      }
+    },
+    {
+      "asset_id": "detail_01",
+      "kind": "detail_image",
+      "reference": "source-images/detail_01.webp",
+      "reference_type": "package_relative",
+      "role": "目标抱枕身份、细节或场景证据",
+      "sha256": "ac3546127beb2c3caa535622cc8b51e74b4dab8b391b723490f7c7213273e625",
+      "media_type": "image/webp",
+      "render_mode": "stage_then_embed",
+      "required_for_report": false,
+      "alt_text": "白色异形椅子抱枕，表面有红色中英文诗句和蓝色椅子线稿；在户外、长椅或人物怀抱中展示。",
+      "caption": "详情图 detail_01",
+      "notes": "原始地址：https://img.alicdn.com/imgextra/i1/2201196835114/O1CN01rs3kbf1neGb954JkF_!!2201196835114.jpg",
+      "image_description": {
+        "summary": "白色异形椅子抱枕，表面有红色中英文诗句和蓝色椅子线稿；在户外、长椅或人物怀抱中展示。",
+        "product_state": "完整产品",
+        "scene_context": "产品或使用展示",
+        "visible_elements": [
+          "白色椅形抱枕",
+          "红色文字",
+          "蓝色椅子线稿"
+        ],
+        "visible_text": [
+          "通常我都坐在生活边上",
+          "I Usually Sit On The Edge Of Life"
+        ],
+        "composition": "产品为主体的竖版画面",
+        "certainty_notes": [
+          "以图片锁定外形、比例、文字和色彩关系"
+        ]
+      },
+      "semantic_index": {
+        "keywords": [
+          "椅形抱枕",
+          "生活边缘",
+          "诗歌周边"
+        ],
+        "suitable_script_uses": [
+          "product_identity",
+          "scene_reference"
+        ],
+        "variant_refs": [
+          "variant_chair_pillow"
+        ],
+        "fact_refs": [
+          "fact_identity",
+          "fact_design"
+        ],
+        "value_refs": [
+          "value_symbolic_seat"
+        ],
+        "audience_refs": [
+          "audience_edge_giver"
+        ],
+        "scene_refs": [
+          "scene_last_seat"
+        ],
+        "direction_refs": [
+          "direction_edge_seat"
+        ],
+        "continuity_notes": [
+          "产品所有可见结构、比例、文字、颜色与连接关系以参考图为准"
+        ],
+        "misread_risks": [
+          "不可改成普通矩形靠枕或真实硬椅子"
+        ]
+      }
+    },
+    {
+      "asset_id": "detail_02",
+      "kind": "detail_image",
+      "reference": "source-images/detail_02.webp",
+      "reference_type": "package_relative",
+      "role": "目标抱枕身份、细节或场景证据",
+      "sha256": "44995a39bcf8758af93d1b898e69f08a47df4ee2af8c7a95bf55f05403cf3d95",
+      "media_type": "image/webp",
+      "render_mode": "stage_then_embed",
+      "required_for_report": true,
+      "alt_text": "详情页标题说明“为你写诗 × 诗人李元胜《生活边缘》系列周边抱枕”，并呈现诗句与情绪主张。",
+      "caption": "详情图 detail_02",
+      "notes": "原始地址：https://img.alicdn.com/imgextra/i4/2201196835114/O1CN01SMz7p51neGb7c9fKQ_!!2201196835114.jpg",
+      "image_description": {
+        "summary": "详情页标题说明“为你写诗 × 诗人李元胜《生活边缘》系列周边抱枕”，并呈现诗句与情绪主张。",
+        "product_state": "文案说明",
+        "scene_context": "详情页排版",
+        "visible_elements": [
+          "联名标题",
+          "系列名称",
+          "诗句",
+          "蓝色文字"
+        ],
+        "visible_text": [
+          "为你写诗 × 诗人李元胜",
+          "生活边缘",
+          "通常我都坐在生活边上"
+        ],
+        "composition": "留白较多的竖版文字页",
+        "certainty_notes": [
+          "联名与诗句按来源页主张记录"
+        ]
+      },
+      "semantic_index": {
+        "keywords": [
+          "椅形抱枕",
+          "生活边缘",
+          "诗歌周边"
+        ],
+        "suitable_script_uses": [
+          "product_identity",
+          "scene_reference"
+        ],
+        "variant_refs": [
+          "variant_chair_pillow"
+        ],
+        "fact_refs": [
+          "fact_identity",
+          "fact_design"
+        ],
+        "value_refs": [
+          "value_symbolic_seat"
+        ],
+        "audience_refs": [
+          "audience_edge_giver"
+        ],
+        "scene_refs": [
+          "scene_last_seat"
+        ],
+        "direction_refs": [
+          "direction_edge_seat"
+        ],
+        "continuity_notes": [
+          "产品所有可见结构、比例、文字、颜色与连接关系以参考图为准"
+        ],
+        "misread_risks": [
+          "不可改成普通矩形靠枕或真实硬椅子"
+        ]
+      }
+    },
+    {
+      "asset_id": "detail_03",
+      "kind": "detail_image",
+      "reference": "source-images/detail_03.webp",
+      "reference_type": "package_relative",
+      "role": "目标抱枕身份、细节或场景证据",
+      "sha256": "9a41944eb984e401ac7742e901dcf02cddc8e03ef40f6b250f08e514bab4a77c",
+      "media_type": "image/webp",
+      "render_mode": "stage_then_embed",
+      "required_for_report": false,
+      "alt_text": "白色异形椅子抱枕，表面有红色中英文诗句和蓝色椅子线稿；在户外、长椅或人物怀抱中展示。",
+      "caption": "详情图 detail_03",
+      "notes": "原始地址：https://img.alicdn.com/imgextra/i1/2201196835114/O1CN01AafIYj1neGb7KavTP_!!2201196835114.jpg",
+      "image_description": {
+        "summary": "白色异形椅子抱枕，表面有红色中英文诗句和蓝色椅子线稿；在户外、长椅或人物怀抱中展示。",
+        "product_state": "完整产品",
+        "scene_context": "产品或使用展示",
+        "visible_elements": [
+          "白色椅形抱枕",
+          "红色文字",
+          "蓝色椅子线稿"
+        ],
+        "visible_text": [
+          "通常我都坐在生活边上",
+          "I Usually Sit On The Edge Of Life"
+        ],
+        "composition": "产品为主体的竖版画面",
+        "certainty_notes": [
+          "以图片锁定外形、比例、文字和色彩关系"
+        ]
+      },
+      "semantic_index": {
+        "keywords": [
+          "椅形抱枕",
+          "生活边缘",
+          "诗歌周边"
+        ],
+        "suitable_script_uses": [
+          "product_identity",
+          "scene_reference"
+        ],
+        "variant_refs": [
+          "variant_chair_pillow"
+        ],
+        "fact_refs": [
+          "fact_identity",
+          "fact_design"
+        ],
+        "value_refs": [
+          "value_symbolic_seat"
+        ],
+        "audience_refs": [
+          "audience_edge_giver"
+        ],
+        "scene_refs": [
+          "scene_last_seat"
+        ],
+        "direction_refs": [
+          "direction_edge_seat"
+        ],
+        "continuity_notes": [
+          "产品所有可见结构、比例、文字、颜色与连接关系以参考图为准"
+        ],
+        "misread_risks": [
+          "不可改成普通矩形靠枕或真实硬椅子"
+        ]
+      }
+    },
+    {
+      "asset_id": "detail_04",
+      "kind": "detail_image",
+      "reference": "source-images/detail_04.webp",
+      "reference_type": "package_relative",
+      "role": "目标抱枕身份、细节或场景证据",
+      "sha256": "fa4a2a63de656422ada53476f6a6adcf7b63db972bf007629a6c73b4ec82ce8a",
+      "media_type": "image/webp",
+      "render_mode": "stage_then_embed",
+      "required_for_report": true,
+      "alt_text": "详情页列出尺寸、材质和工艺信息，并展示抱枕置于草地中的完整外形。",
+      "caption": "详情图 detail_04",
+      "notes": "原始地址：https://img.alicdn.com/imgextra/i4/2201196835114/O1CN01jF5c6Z1neGb8BWGEE~crop,0,0,1500,3000~_!!2201196835114.jpg",
+      "image_description": {
+        "summary": "详情页列出尺寸、材质和工艺信息，并展示抱枕置于草地中的完整外形。",
+        "product_state": "完整产品与规格说明",
+        "scene_context": "自然环境产品展示",
+        "visible_elements": [
+          "异形椅子抱枕",
+          "45×62cm",
+          "宝宝绒",
+          "印刷"
+        ],
+        "visible_text": [
+          "尺寸：45*62cm",
+          "材质：宝宝绒",
+          "工艺：印刷"
+        ],
+        "composition": "上方参数、下方产品大图",
+        "certainty_notes": [
+          "参数为来源页声明"
+        ]
+      },
+      "semantic_index": {
+        "keywords": [
+          "椅形抱枕",
+          "生活边缘",
+          "诗歌周边"
+        ],
+        "suitable_script_uses": [
+          "product_identity",
+          "scene_reference"
+        ],
+        "variant_refs": [
+          "variant_chair_pillow"
+        ],
+        "fact_refs": [
+          "fact_identity",
+          "fact_design"
+        ],
+        "value_refs": [
+          "value_symbolic_seat"
+        ],
+        "audience_refs": [
+          "audience_edge_giver"
+        ],
+        "scene_refs": [
+          "scene_last_seat"
+        ],
+        "direction_refs": [
+          "direction_edge_seat"
+        ],
+        "continuity_notes": [
+          "产品所有可见结构、比例、文字、颜色与连接关系以参考图为准"
+        ],
+        "misread_risks": [
+          "不可改成普通矩形靠枕或真实硬椅子"
+        ]
+      }
+    },
+    {
+      "asset_id": "detail_05",
+      "kind": "detail_image",
+      "reference": "source-images/detail_05.webp",
+      "reference_type": "package_relative",
+      "role": "非目标 SKU 或无效占位识别",
+      "sha256": "3662e8a87ad60e7ba07997179e65f69456f12f2bb08581c0652fdc3d2eca947c",
+      "media_type": "image/webp",
+      "render_mode": "not_rendered",
+      "required_for_report": false,
+      "alt_text": "无有效目标商品信息的占位或极窄裁片。",
+      "caption": "详情图 detail_05",
+      "notes": "原始地址：https://img.alicdn.com/imgextra/i4/2201196835114/O1CN01jF5c6Z1neGb8BWGEE~crop,0,3000,1500,7~_!!2201196835114.jpg",
+      "image_description": {
+        "summary": "无有效目标商品信息的占位或极窄裁片。",
+        "product_state": "不可用",
+        "scene_context": "占位素材",
+        "visible_elements": [
+          "占位内容"
+        ],
+        "visible_text": [],
+        "composition": "无有效构图",
+        "certainty_notes": [
+          "不得用于脚本或产品判断"
+        ]
+      },
+      "semantic_index": {
+        "keywords": [
+          "非目标SKU",
+          "不可用素材"
+        ],
+        "suitable_script_uses": [
+          "do_not_use"
+        ],
+        "variant_refs": [],
+        "fact_refs": [],
+        "value_refs": [],
+        "audience_refs": [],
+        "scene_refs": [],
+        "direction_refs": [],
+        "continuity_notes": [],
+        "misread_risks": [
+          "不得混入目标抱枕方案"
+        ]
+      }
+    },
+    {
+      "asset_id": "detail_06",
+      "kind": "detail_image",
+      "reference": "source-images/detail_06.webp",
+      "reference_type": "package_relative",
+      "role": "目标抱枕身份、细节或场景证据",
+      "sha256": "ba471d408114a731cbf02a089932aac1091367426c1d9a40b7e9cb27981ebf91",
+      "media_type": "image/webp",
+      "render_mode": "stage_then_embed",
+      "required_for_report": false,
+      "alt_text": "详情页说明椅子造型、红蓝印刷文字与图形的设计关系。",
+      "caption": "详情图 detail_06",
+      "notes": "原始地址：https://img.alicdn.com/imgextra/i4/2201196835114/O1CN01O8tZnX1neGb8IWi4w~crop,0,0,1500,3000~_!!2201196835114.jpg",
+      "image_description": {
+        "summary": "详情页说明椅子造型、红蓝印刷文字与图形的设计关系。",
+        "product_state": "完整产品设计说明",
+        "scene_context": "室内白色背景",
+        "visible_elements": [
+          "异形椅子轮廓",
+          "红色文字",
+          "蓝色椅子线稿"
+        ],
+        "visible_text": [
+          "通常我都坐在生活边上"
+        ],
+        "composition": "文字说明与产品近景",
+        "certainty_notes": [
+          "“不易磨损”为来源页主张，不作无条件广告承诺"
+        ]
+      },
+      "semantic_index": {
+        "keywords": [
+          "椅形抱枕",
+          "生活边缘",
+          "诗歌周边"
+        ],
+        "suitable_script_uses": [
+          "product_identity",
+          "scene_reference"
+        ],
+        "variant_refs": [
+          "variant_chair_pillow"
+        ],
+        "fact_refs": [
+          "fact_identity",
+          "fact_design"
+        ],
+        "value_refs": [
+          "value_symbolic_seat"
+        ],
+        "audience_refs": [
+          "audience_edge_giver"
+        ],
+        "scene_refs": [
+          "scene_last_seat"
+        ],
+        "direction_refs": [
+          "direction_edge_seat"
+        ],
+        "continuity_notes": [
+          "产品所有可见结构、比例、文字、颜色与连接关系以参考图为准"
+        ],
+        "misread_risks": [
+          "不可改成普通矩形靠枕或真实硬椅子"
+        ]
+      }
+    },
+    {
+      "asset_id": "detail_07",
+      "kind": "detail_image",
+      "reference": "source-images/detail_07.webp",
+      "reference_type": "package_relative",
+      "role": "非目标 SKU 或无效占位识别",
+      "sha256": "ad4e858098c940e44e022ffdc83e0bf732a0aacd3bf140ab4db4c23d5ec6bb44",
+      "media_type": "image/webp",
+      "render_mode": "not_rendered",
+      "required_for_report": false,
+      "alt_text": "无有效目标商品信息的占位或极窄裁片。",
+      "caption": "详情图 detail_07",
+      "notes": "原始地址：https://img.alicdn.com/imgextra/i4/2201196835114/O1CN01O8tZnX1neGb8IWi4w~crop,0,3000,1500,204~_!!2201196835114.jpg",
+      "image_description": {
+        "summary": "无有效目标商品信息的占位或极窄裁片。",
+        "product_state": "不可用",
+        "scene_context": "占位素材",
+        "visible_elements": [
+          "占位内容"
+        ],
+        "visible_text": [],
+        "composition": "无有效构图",
+        "certainty_notes": [
+          "不得用于脚本或产品判断"
+        ]
+      },
+      "semantic_index": {
+        "keywords": [
+          "非目标SKU",
+          "不可用素材"
+        ],
+        "suitable_script_uses": [
+          "do_not_use"
+        ],
+        "variant_refs": [],
+        "fact_refs": [],
+        "value_refs": [],
+        "audience_refs": [],
+        "scene_refs": [],
+        "direction_refs": [],
+        "continuity_notes": [],
+        "misread_risks": [
+          "不得混入目标抱枕方案"
+        ]
+      }
+    },
+    {
+      "asset_id": "detail_08",
+      "kind": "detail_image",
+      "reference": "source-images/detail_08.webp",
+      "reference_type": "package_relative",
+      "role": "目标抱枕身份、细节或场景证据",
+      "sha256": "5720a385b54fc6394df8f5d8dd9619605b1d1726ed507d5b1e7fcf0dcf54eb7c",
+      "media_type": "image/webp",
+      "render_mode": "stage_then_embed",
+      "required_for_report": false,
+      "alt_text": "白色异形椅子抱枕，表面有红色中英文诗句和蓝色椅子线稿；在户外、长椅或人物怀抱中展示。",
+      "caption": "详情图 detail_08",
+      "notes": "原始地址：https://img.alicdn.com/imgextra/i3/2201196835114/O1CN010SKBwK1neGb7lsvPc_!!2201196835114.jpg",
+      "image_description": {
+        "summary": "白色异形椅子抱枕，表面有红色中英文诗句和蓝色椅子线稿；在户外、长椅或人物怀抱中展示。",
+        "product_state": "完整产品",
+        "scene_context": "产品或使用展示",
+        "visible_elements": [
+          "白色椅形抱枕",
+          "红色文字",
+          "蓝色椅子线稿"
+        ],
+        "visible_text": [
+          "通常我都坐在生活边上",
+          "I Usually Sit On The Edge Of Life"
+        ],
+        "composition": "产品为主体的竖版画面",
+        "certainty_notes": [
+          "以图片锁定外形、比例、文字和色彩关系"
+        ]
+      },
+      "semantic_index": {
+        "keywords": [
+          "椅形抱枕",
+          "生活边缘",
+          "诗歌周边"
+        ],
+        "suitable_script_uses": [
+          "product_identity",
+          "scene_reference"
+        ],
+        "variant_refs": [
+          "variant_chair_pillow"
+        ],
+        "fact_refs": [
+          "fact_identity",
+          "fact_design"
+        ],
+        "value_refs": [
+          "value_symbolic_seat"
+        ],
+        "audience_refs": [
+          "audience_edge_giver"
+        ],
+        "scene_refs": [
+          "scene_last_seat"
+        ],
+        "direction_refs": [
+          "direction_edge_seat"
+        ],
+        "continuity_notes": [
+          "产品所有可见结构、比例、文字、颜色与连接关系以参考图为准"
+        ],
+        "misread_risks": [
+          "不可改成普通矩形靠枕或真实硬椅子"
+        ]
+      }
+    },
+    {
+      "asset_id": "detail_09",
+      "kind": "detail_image",
+      "reference": "source-images/detail_09.webp",
+      "reference_type": "package_relative",
+      "role": "目标抱枕身份、细节或场景证据",
+      "sha256": "69dc43e4821985425a29ab6afda9f340ea54c07537065831855ed680667fab9a",
+      "media_type": "image/webp",
+      "render_mode": "stage_then_embed",
+      "required_for_report": true,
+      "alt_text": "手指按压抱枕表面，展示可压缩的柔软触感。",
+      "caption": "详情图 detail_09",
+      "notes": "原始地址：https://img.alicdn.com/imgextra/i2/2201196835114/O1CN01Vp9UDq1neGb8WApFZ_!!2201196835114.jpg",
+      "image_description": {
+        "summary": "手指按压抱枕表面，展示可压缩的柔软触感。",
+        "product_state": "受力按压",
+        "scene_context": "近距离功能展示",
+        "visible_elements": [
+          "手指",
+          "白色绒面",
+          "蓝色印刷线"
+        ],
+        "visible_text": [],
+        "composition": "极近景触感证明",
+        "certainty_notes": [
+          "可见按压形变；回弹、耐久等不可由静态图证实"
+        ]
+      },
+      "semantic_index": {
+        "keywords": [
+          "椅形抱枕",
+          "生活边缘",
+          "诗歌周边"
+        ],
+        "suitable_script_uses": [
+          "feature_proof",
+          "detail_closeup"
+        ],
+        "variant_refs": [
+          "variant_chair_pillow"
+        ],
+        "fact_refs": [
+          "fact_identity",
+          "fact_design"
+        ],
+        "value_refs": [
+          "value_symbolic_seat"
+        ],
+        "audience_refs": [
+          "audience_edge_giver"
+        ],
+        "scene_refs": [
+          "scene_last_seat"
+        ],
+        "direction_refs": [
+          "direction_edge_seat"
+        ],
+        "continuity_notes": [
+          "产品所有可见结构、比例、文字、颜色与连接关系以参考图为准"
+        ],
+        "misread_risks": [
+          "不可改成普通矩形靠枕或真实硬椅子"
+        ]
+      }
+    },
+    {
+      "asset_id": "detail_10",
+      "kind": "detail_image",
+      "reference": "source-images/detail_10.webp",
+      "reference_type": "package_relative",
+      "role": "目标抱枕身份、细节或场景证据",
+      "sha256": "5564fb59080f35fddf0df39e097c652722f30c745db3027c8b30760b8fdcf03f",
+      "media_type": "image/webp",
+      "render_mode": "stage_then_embed",
+      "required_for_report": false,
+      "alt_text": "白色异形椅子抱枕，表面有红色中英文诗句和蓝色椅子线稿；在户外、长椅或人物怀抱中展示。",
+      "caption": "详情图 detail_10",
+      "notes": "原始地址：https://img.alicdn.com/imgextra/i3/2201196835114/O1CN018ZfYKQ1neGb87dPse_!!2201196835114.jpg",
+      "image_description": {
+        "summary": "白色异形椅子抱枕，表面有红色中英文诗句和蓝色椅子线稿；在户外、长椅或人物怀抱中展示。",
+        "product_state": "完整产品",
+        "scene_context": "产品或使用展示",
+        "visible_elements": [
+          "白色椅形抱枕",
+          "红色文字",
+          "蓝色椅子线稿"
+        ],
+        "visible_text": [
+          "通常我都坐在生活边上",
+          "I Usually Sit On The Edge Of Life"
+        ],
+        "composition": "产品为主体的竖版画面",
+        "certainty_notes": [
+          "以图片锁定外形、比例、文字和色彩关系"
+        ]
+      },
+      "semantic_index": {
+        "keywords": [
+          "椅形抱枕",
+          "生活边缘",
+          "诗歌周边"
+        ],
+        "suitable_script_uses": [
+          "product_identity",
+          "scene_reference"
+        ],
+        "variant_refs": [
+          "variant_chair_pillow"
+        ],
+        "fact_refs": [
+          "fact_identity",
+          "fact_design"
+        ],
+        "value_refs": [
+          "value_symbolic_seat"
+        ],
+        "audience_refs": [
+          "audience_edge_giver"
+        ],
+        "scene_refs": [
+          "scene_last_seat"
+        ],
+        "direction_refs": [
+          "direction_edge_seat"
+        ],
+        "continuity_notes": [
+          "产品所有可见结构、比例、文字、颜色与连接关系以参考图为准"
+        ],
+        "misread_risks": [
+          "不可改成普通矩形靠枕或真实硬椅子"
+        ]
+      }
+    },
+    {
+      "asset_id": "detail_11",
+      "kind": "detail_image",
+      "reference": "source-images/detail_11.webp",
+      "reference_type": "package_relative",
+      "role": "目标抱枕身份、细节或场景证据",
+      "sha256": "8bd2ab618a2798d8cc34659c5bfccbfc5c2f746f8c88615c543d7cf3e1a96ed5",
+      "media_type": "image/webp",
+      "render_mode": "stage_then_embed",
+      "required_for_report": false,
+      "alt_text": "白色异形椅子抱枕，表面有红色中英文诗句和蓝色椅子线稿；在户外、长椅或人物怀抱中展示。",
+      "caption": "详情图 detail_11",
+      "notes": "原始地址：https://img.alicdn.com/imgextra/i4/2201196835114/O1CN011mmVT31neGb8IXme8_!!2201196835114.jpg",
+      "image_description": {
+        "summary": "白色异形椅子抱枕，表面有红色中英文诗句和蓝色椅子线稿；在户外、长椅或人物怀抱中展示。",
+        "product_state": "完整产品",
+        "scene_context": "产品或使用展示",
+        "visible_elements": [
+          "白色椅形抱枕",
+          "红色文字",
+          "蓝色椅子线稿"
+        ],
+        "visible_text": [
+          "通常我都坐在生活边上",
+          "I Usually Sit On The Edge Of Life"
+        ],
+        "composition": "产品为主体的竖版画面",
+        "certainty_notes": [
+          "以图片锁定外形、比例、文字和色彩关系"
+        ]
+      },
+      "semantic_index": {
+        "keywords": [
+          "椅形抱枕",
+          "生活边缘",
+          "诗歌周边"
+        ],
+        "suitable_script_uses": [
+          "product_identity",
+          "scene_reference"
+        ],
+        "variant_refs": [
+          "variant_chair_pillow"
+        ],
+        "fact_refs": [
+          "fact_identity",
+          "fact_design"
+        ],
+        "value_refs": [
+          "value_symbolic_seat"
+        ],
+        "audience_refs": [
+          "audience_edge_giver"
+        ],
+        "scene_refs": [
+          "scene_last_seat"
+        ],
+        "direction_refs": [
+          "direction_edge_seat"
+        ],
+        "continuity_notes": [
+          "产品所有可见结构、比例、文字、颜色与连接关系以参考图为准"
+        ],
+        "misread_risks": [
+          "不可改成普通矩形靠枕或真实硬椅子"
+        ]
+      }
+    },
+    {
+      "asset_id": "detail_12",
+      "kind": "detail_image",
+      "reference": "source-images/detail_12.webp",
+      "reference_type": "package_relative",
+      "role": "目标抱枕身份、细节或场景证据",
+      "sha256": "fc9fb378e0160677455b062399921d456de7bc3d0ef0223c73a86cb6e6787eca",
+      "media_type": "image/webp",
+      "render_mode": "stage_then_embed",
+      "required_for_report": true,
+      "alt_text": "人物在室内坐姿中把椅形抱枕抱在怀里，展示拥抱尺度与陪伴感。",
+      "caption": "详情图 detail_12",
+      "notes": "原始地址：https://img.alicdn.com/imgextra/i1/2201196835114/O1CN01qwuwXm1neGb2k1vvm_!!2201196835114.jpg",
+      "image_description": {
+        "summary": "人物在室内坐姿中把椅形抱枕抱在怀里，展示拥抱尺度与陪伴感。",
+        "product_state": "被人物拥抱",
+        "scene_context": "安静室内休息",
+        "people": [
+          "年轻女性"
+        ],
+        "visible_elements": [
+          "人物",
+          "椅形抱枕",
+          "座椅"
+        ],
+        "visible_text": [
+          "邀请你一起坐下",
+          "感受柔软平静的力量"
+        ],
+        "composition": "人物与抱枕中近景",
+        "certainty_notes": [
+          "人物身份不作受众事实，只作场景参考"
+        ]
+      },
+      "semantic_index": {
+        "keywords": [
+          "椅形抱枕",
+          "生活边缘",
+          "诗歌周边"
+        ],
+        "suitable_script_uses": [
+          "product_identity",
+          "scene_reference"
+        ],
+        "variant_refs": [
+          "variant_chair_pillow"
+        ],
+        "fact_refs": [
+          "fact_identity",
+          "fact_design"
+        ],
+        "value_refs": [
+          "value_symbolic_seat"
+        ],
+        "audience_refs": [
+          "audience_edge_giver"
+        ],
+        "scene_refs": [
+          "scene_last_seat"
+        ],
+        "direction_refs": [
+          "direction_edge_seat"
+        ],
+        "continuity_notes": [
+          "产品所有可见结构、比例、文字、颜色与连接关系以参考图为准"
+        ],
+        "misread_risks": [
+          "不可改成普通矩形靠枕或真实硬椅子"
+        ]
+      }
+    },
+    {
+      "asset_id": "detail_13",
+      "kind": "detail_image",
+      "reference": "source-images/detail_13.webp",
+      "reference_type": "package_relative",
+      "role": "目标抱枕身份、细节或场景证据",
+      "sha256": "44f2f83001601b76f6650fc41ac9c3f104e5cc2a85ca494eabf0c8b8d5920c14",
+      "media_type": "image/webp",
+      "render_mode": "stage_then_embed",
+      "required_for_report": true,
+      "alt_text": "抱枕分别出现在树边和椅子上，强化“生活边缘”和“座位”的视觉隐喻。",
+      "caption": "详情图 detail_13",
+      "notes": "原始地址：https://img.alicdn.com/imgextra/i3/2201196835114/O1CN01KKhlf01neGb2k0zj5~crop,0,0,1500,3000~_!!2201196835114.jpg",
+      "image_description": {
+        "summary": "抱枕分别出现在树边和椅子上，强化“生活边缘”和“座位”的视觉隐喻。",
+        "product_state": "完整陈列",
+        "scene_context": "户外树边与室内椅面",
+        "visible_elements": [
+          "椅形抱枕",
+          "树",
+          "椅子"
+        ],
+        "visible_text": [
+          "通常我都坐在生活边上"
+        ],
+        "composition": "产品与真实座位/边缘空间并置",
+        "certainty_notes": [
+          "适合作为创意情境证据"
+        ]
+      },
+      "semantic_index": {
+        "keywords": [
+          "椅形抱枕",
+          "生活边缘",
+          "诗歌周边"
+        ],
+        "suitable_script_uses": [
+          "product_identity",
+          "scene_reference"
+        ],
+        "variant_refs": [
+          "variant_chair_pillow"
+        ],
+        "fact_refs": [
+          "fact_identity",
+          "fact_design"
+        ],
+        "value_refs": [
+          "value_symbolic_seat"
+        ],
+        "audience_refs": [
+          "audience_edge_giver"
+        ],
+        "scene_refs": [
+          "scene_last_seat"
+        ],
+        "direction_refs": [
+          "direction_edge_seat"
+        ],
+        "continuity_notes": [
+          "产品所有可见结构、比例、文字、颜色与连接关系以参考图为准"
+        ],
+        "misread_risks": [
+          "不可改成普通矩形靠枕或真实硬椅子"
+        ]
+      }
+    },
+    {
+      "asset_id": "detail_14",
+      "kind": "detail_image",
+      "reference": "source-images/detail_14.webp",
+      "reference_type": "package_relative",
+      "role": "目标抱枕身份、细节或场景证据",
+      "sha256": "5cd2ef2e2aff4bbeb6c4978493d7f463cd8481aa3505a758f710985096f5ab01",
+      "media_type": "image/webp",
+      "render_mode": "stage_then_embed",
+      "required_for_report": false,
+      "alt_text": "抱枕分别出现在树边和椅子上，强化“生活边缘”和“座位”的视觉隐喻。",
+      "caption": "详情图 detail_14",
+      "notes": "原始地址：https://img.alicdn.com/imgextra/i3/2201196835114/O1CN01KKhlf01neGb2k0zj5~crop,0,3000,1500,1139~_!!2201196835114.jpg",
+      "image_description": {
+        "summary": "抱枕分别出现在树边和椅子上，强化“生活边缘”和“座位”的视觉隐喻。",
+        "product_state": "完整陈列",
+        "scene_context": "户外树边与室内椅面",
+        "visible_elements": [
+          "椅形抱枕",
+          "树",
+          "椅子"
+        ],
+        "visible_text": [
+          "通常我都坐在生活边上"
+        ],
+        "composition": "产品与真实座位/边缘空间并置",
+        "certainty_notes": [
+          "适合作为创意情境证据"
+        ]
+      },
+      "semantic_index": {
+        "keywords": [
+          "椅形抱枕",
+          "生活边缘",
+          "诗歌周边"
+        ],
+        "suitable_script_uses": [
+          "product_identity",
+          "scene_reference"
+        ],
+        "variant_refs": [
+          "variant_chair_pillow"
+        ],
+        "fact_refs": [
+          "fact_identity",
+          "fact_design"
+        ],
+        "value_refs": [
+          "value_symbolic_seat"
+        ],
+        "audience_refs": [
+          "audience_edge_giver"
+        ],
+        "scene_refs": [
+          "scene_last_seat"
+        ],
+        "direction_refs": [
+          "direction_edge_seat"
+        ],
+        "continuity_notes": [
+          "产品所有可见结构、比例、文字、颜色与连接关系以参考图为准"
+        ],
+        "misread_risks": [
+          "不可改成普通矩形靠枕或真实硬椅子"
+        ]
+      }
+    },
+    {
+      "asset_id": "detail_15",
+      "kind": "detail_image",
+      "reference": "source-images/detail_15.webp",
+      "reference_type": "package_relative",
+      "role": "目标抱枕身份、细节或场景证据",
+      "sha256": "1ec18add8917e5a36741d82cb920b0fc04ad76d3320443aad72a535db9aed865",
+      "media_type": "image/webp",
+      "render_mode": "stage_then_embed",
+      "required_for_report": true,
+      "alt_text": "完整产品收束页，呈现“我们还有诗歌 / PoemsForYou”品牌语言。",
+      "caption": "详情图 detail_15",
+      "notes": "原始地址：https://img.alicdn.com/imgextra/i1/2201196835114/O1CN01u2UiG31neGb7KdXjN_!!2201196835114.jpg",
+      "image_description": {
+        "summary": "完整产品收束页，呈现“我们还有诗歌 / PoemsForYou”品牌语言。",
+        "product_state": "完整平铺",
+        "scene_context": "详情页收束",
+        "visible_elements": [
+          "椅形抱枕",
+          "品牌文案"
+        ],
+        "visible_text": [
+          "我们还有诗歌",
+          "PoemsForYou"
+        ],
+        "composition": "居中产品与大留白",
+        "certainty_notes": [
+          "适合作为品牌收束参考"
+        ]
+      },
+      "semantic_index": {
+        "keywords": [
+          "椅形抱枕",
+          "生活边缘",
+          "诗歌周边"
+        ],
+        "suitable_script_uses": [
+          "product_identity",
+          "scene_reference"
+        ],
+        "variant_refs": [
+          "variant_chair_pillow"
+        ],
+        "fact_refs": [
+          "fact_identity",
+          "fact_design"
+        ],
+        "value_refs": [
+          "value_symbolic_seat"
+        ],
+        "audience_refs": [
+          "audience_edge_giver"
+        ],
+        "scene_refs": [
+          "scene_last_seat"
+        ],
+        "direction_refs": [
+          "direction_edge_seat"
+        ],
+        "continuity_notes": [
+          "产品所有可见结构、比例、文字、颜色与连接关系以参考图为准"
+        ],
+        "misread_risks": [
+          "不可改成普通矩形靠枕或真实硬椅子"
+        ]
+      }
+    },
+    {
+      "asset_id": "detail_16",
+      "kind": "detail_image",
+      "reference": "source-images/detail_16.png",
+      "reference_type": "package_relative",
+      "role": "目标抱枕身份、细节或场景证据",
+      "sha256": "b802f27c2c79c87b30efca4127cf626f4a2f942477ce2c465efeac8fef518ed3",
+      "media_type": "image/png",
+      "render_mode": "stage_then_embed",
+      "required_for_report": false,
+      "alt_text": "抱枕详情页或补充素材。",
+      "caption": "详情图 detail_16",
+      "notes": "原始地址：https://img.alicdn.com/imgextra/i3/O1CN01XU1Y2d1Sk7fIMOkeU_!!6000000002284-2-tps-1125-1446.png",
+      "image_description": {
+        "summary": "抱枕详情页或补充素材。",
+        "product_state": "产品相关素材",
+        "scene_context": "详情页",
+        "visible_elements": [
+          "椅形抱枕"
+        ],
+        "visible_text": [],
+        "composition": "竖版电商详情图",
+        "certainty_notes": []
+      },
+      "semantic_index": {
+        "keywords": [
+          "椅形抱枕",
+          "生活边缘",
+          "诗歌周边"
+        ],
+        "suitable_script_uses": [
+          "product_identity",
+          "scene_reference"
+        ],
+        "variant_refs": [
+          "variant_chair_pillow"
+        ],
+        "fact_refs": [
+          "fact_identity",
+          "fact_design"
+        ],
+        "value_refs": [
+          "value_symbolic_seat"
+        ],
+        "audience_refs": [
+          "audience_edge_giver"
+        ],
+        "scene_refs": [
+          "scene_last_seat"
+        ],
+        "direction_refs": [
+          "direction_edge_seat"
+        ],
+        "continuity_notes": [
+          "产品所有可见结构、比例、文字、颜色与连接关系以参考图为准"
+        ],
+        "misread_risks": [
+          "不可改成普通矩形靠枕或真实硬椅子"
+        ]
+      }
+    }
+  ],
+  "product": {
+    "brand": "为你写诗 / PoemsForYou",
+    "name": "《生活边缘》系列异形椅子抱枕",
+    "category": "诗歌文创周边抱枕",
+    "summary": "把李元胜诗句“通常我都坐在生活边上”转化成可坐、可抱、可陈列的椅形软抱枕。",
+    "hero_image_ref": "hero_01",
+    "primary_variant_id": "variant_chair_pillow",
+    "variants": [
+      {
+        "variant_id": "variant_chair_pillow",
+        "label": "白底红蓝字椅形抱枕",
+        "is_primary": true,
+        "fact_refs": [
+          "fact_identity",
+          "fact_collab",
+          "fact_size",
+          "fact_material",
+          "fact_design",
+          "fact_softness"
+        ],
+        "specifications": {
+          "size": "45×62cm",
+          "material": "宝宝绒",
+          "process": "印刷"
+        },
+        "identity_notes": "以 hero_01、hero_03、detail_01、detail_08 锁定异形轮廓与印刷关系。"
+      }
+    ],
+    "commercial_context": {
+      "price": "未提供",
+      "duration_seconds": 120,
+      "goal": "品牌故事型 TVC",
+      "platform": "未指定",
+      "aspect_ratio": "未指定"
+    }
+  },
+  "fact_ledger": [
+    {
+      "fact_id": "fact_identity",
+      "statement": "目标商品是白色异形椅子造型抱枕，带红色中英文诗句与蓝色椅子线稿。",
+      "evidence_type": "observed",
+      "confidence": 1,
+      "evidence_refs": [
+        "hero_01",
+        "detail_01",
+        "detail_08"
+      ],
+      "creative_use": "safe_to_depict"
+    },
+    {
+      "fact_id": "fact_collab",
+      "statement": "详情页称其为“为你写诗 × 诗人李元胜《生活边缘》系列周边抱枕”。",
+      "evidence_type": "source_claim",
+      "confidence": 0.98,
+      "evidence_refs": [
+        "detail_02"
+      ],
+      "creative_use": "safe_to_state"
+    },
+    {
+      "fact_id": "fact_poem",
+      "statement": "产品核心文字是“通常我都坐在生活边上 / I Usually Sit On The Edge Of Life”。",
+      "evidence_type": "observed",
+      "confidence": 1,
+      "evidence_refs": [
+        "detail_01",
+        "detail_10"
+      ],
+      "creative_use": "safe_to_state"
+    },
+    {
+      "fact_id": "fact_size",
+      "statement": "详情页标注尺寸为45×62cm。",
+      "evidence_type": "source_claim",
+      "confidence": 0.98,
+      "evidence_refs": [
+        "detail_04"
+      ],
+      "creative_use": "safe_to_state"
+    },
+    {
+      "fact_id": "fact_material",
+      "statement": "详情页标注材质为宝宝绒、工艺为印刷。",
+      "evidence_type": "source_claim",
+      "confidence": 0.98,
+      "evidence_refs": [
+        "detail_04"
+      ],
+      "creative_use": "safe_to_state"
+    },
+    {
+      "fact_id": "fact_design",
+      "statement": "异形轮廓、诗句和椅子线稿共同构成“坐在生活边上”的物化表达。",
+      "evidence_type": "strategy_inference",
+      "confidence": 0.94,
+      "evidence_refs": [
+        "detail_06",
+        "detail_13",
+        "detail_14"
+      ],
+      "creative_use": "do_not_use_as_claim"
+    },
+    {
+      "fact_id": "fact_softness",
+      "statement": "静态图可见手指按压时表面发生柔软形变。",
+      "evidence_type": "observed",
+      "confidence": 0.96,
+      "evidence_refs": [
+        "detail_09"
+      ],
+      "creative_use": "depict_only"
+    },
+    {
+      "fact_id": "fact_durability",
+      "statement": "详情页称印刷文字“不易磨损”。",
+      "evidence_type": "source_claim",
+      "confidence": 0.7,
+      "evidence_refs": [
+        "detail_06"
+      ],
+      "creative_use": "requires_substantiation"
+    }
+  ],
+  "value_map": [
+    {
+      "value_id": "value_symbolic_seat",
+      "feature_fact_refs": [
+        "fact_identity",
+        "fact_poem",
+        "fact_design"
+      ],
+      "advantage": "诗句不只被阅读，而成为一张真实存在的“边缘座位”。",
+      "functional_benefit": "既可拥抱、倚靠，也可作为有辨识度的空间陈设。",
+      "emotional_benefit": "提醒总把自己放在边上的人，也给自己留一个位置。",
+      "visual_proof_actions": [
+        "主人公多次把中心位置让给别人，最终把抱枕放下并坐在自己选择的位置",
+        "文字“生活边上”与真实空间边缘反复呼应"
+      ],
+      "priority": 1,
+      "claim_policy": "depict_preferred"
+    },
+    {
+      "value_id": "value_soft_companion",
+      "feature_fact_refs": [
+        "fact_material",
+        "fact_softness",
+        "fact_size"
+      ],
+      "advantage": "大尺寸软抱枕可被完整抱住并产生可见形变。",
+      "functional_benefit": "在阅读、独处和休息时提供身体支撑与拥抱动作。",
+      "emotional_benefit": "把抽象的安慰变成可触摸的陪伴。",
+      "visual_proof_actions": [
+        "手掌压下绒面",
+        "人物把抱枕抱在胸前，呼吸逐渐放慢"
+      ],
+      "priority": 2,
+      "claim_policy": "depict_preferred"
+    },
+    {
+      "value_id": "value_poetry_identity",
+      "feature_fact_refs": [
+        "fact_collab",
+        "fact_poem"
+      ],
+      "advantage": "文学文本与日常物件融合，区别于普通装饰靠枕。",
+      "functional_benefit": "让居住空间拥有可读、可谈论的个性标识。",
+      "emotional_benefit": "表达对诗歌、独处和细腻生活感受的认同。",
+      "visual_proof_actions": [
+        "访客读出抱枕上的句子",
+        "镜头从诗集文字过渡到抱枕文字"
+      ],
+      "priority": 3,
+      "claim_policy": "state_and_depict"
+    }
+  ],
+  "audiences": [
+    {
+      "audience_id": "audience_edge_giver",
+      "label": "总把好位置让给别人的都市独处者",
+      "basis": "inferred",
+      "life_stage": "独居或合租的年轻都市生活阶段",
+      "usage_context": "工作、通勤和社交结束后的独处时刻",
+      "jobs_to_be_done": [
+        "给自己建立一个不被打扰的休息位置",
+        "用一个物件表达自己的生活状态"
+      ],
+      "pain_points": [
+        "习惯照顾他人却忽略自己的需要",
+        "居住空间功能齐全但缺少情绪归属"
+      ],
+      "desired_state": "不再等待别人允许，主动给自己留位置",
+      "functional_need": "可抱、可倚靠、能放进小空间的软物件",
+      "emotional_need": "被允许停下来并感到安稳",
+      "identity_need": "保留敏感与诗意，而不显得矫饰",
+      "objections": [
+        "担心只是造型装饰、没有实际使用感",
+        "担心文学联名流于贴字"
+      ],
+      "value_refs": [
+        "value_symbolic_seat",
+        "value_soft_companion",
+        "value_poetry_identity"
+      ],
+      "image_refs": [
+        "hero_01",
+        "detail_09",
+        "detail_12"
+      ],
+      "score": {
+        "product_fit": 96,
+        "scene_strength": 95,
+        "differentiation": 94,
+        "visual_potential": 95,
+        "fact_support": 93,
+        "total": 95
+      }
+    },
+    {
+      "audience_id": "audience_poetry_gifter",
+      "label": "寻找有话可说的礼物购买者",
+      "basis": "inferred",
+      "life_stage": "朋友生日、搬家或情绪低谷的送礼节点",
+      "usage_context": "想表达关心但不愿说教",
+      "jobs_to_be_done": [
+        "用礼物替自己说一句克制但具体的话"
+      ],
+      "pain_points": [
+        "普通礼物缺少专属含义"
+      ],
+      "desired_state": "让对方收到一张“给自己留位置”的邀请",
+      "functional_need": "有实际使用价值且便于理解",
+      "emotional_need": "表达陪伴而非解决对方",
+      "identity_need": "礼物体现审美与分寸",
+      "objections": [
+        "不了解诗句会不会产生距离感"
+      ],
+      "value_refs": [
+        "value_symbolic_seat",
+        "value_poetry_identity"
+      ],
+      "image_refs": [
+        "detail_02",
+        "detail_15"
+      ],
+      "score": {
+        "product_fit": 87,
+        "scene_strength": 86,
+        "differentiation": 91,
+        "visual_potential": 88,
+        "fact_support": 91,
+        "total": 89
+      }
+    }
+  ],
+  "scenes": [
+    {
+      "scene_id": "scene_last_seat",
+      "title": "总是最后一个坐下的人",
+      "audience_refs": [
+        "audience_edge_giver"
+      ],
+      "time": "一个普通工作日从早到夜",
+      "place": "会议室、地铁、饭桌与独居房间",
+      "trigger": "每次出现有限座位，主人公下意识把位置让给别人",
+      "task": "完成工作、通勤和社交，同时维持体面与照顾",
+      "tension": "她一直站在画面边缘，直到回家仍没有属于自己的位置",
+      "emotion": "克制、疲惫、逐渐意识到自己的缺席",
+      "product_actions": [
+        "拆开包裹看见椅形抱枕",
+        "读到“通常我都坐在生活边上”",
+        "把抱枕从墙边移到窗边并抱住坐下"
+      ],
+      "before_state": "她把中心和座位留给别人，自己停在空间边缘",
+      "after_state": "她主动选择一个位置，安静坐下，不再为自己的停留解释",
+      "value_refs": [
+        "value_symbolic_seat",
+        "value_soft_companion"
+      ],
+      "visual_evidence": [
+        "相同构图中人物不断退到边缘",
+        "抱枕让“边缘座位”从隐喻变成真实动作"
+      ],
+      "image_refs": [
+        "hero_01",
+        "detail_12",
+        "detail_13"
+      ],
+      "score": {
+        "product_fit": 98,
+        "scene_strength": 98,
+        "differentiation": 96,
+        "visual_potential": 96,
+        "fact_support": 94,
+        "total": 97
+      }
+    },
+    {
+      "scene_id": "scene_chair_journey",
+      "title": "一把软椅子的城市边缘旅行",
+      "audience_refs": [
+        "audience_edge_giver"
+      ],
+      "time": "清晨到夜晚",
+      "place": "窗台、楼梯、长椅末端、树边、床边",
+      "trigger": "抱枕不断出现在城市与房间的边缘",
+      "task": "寻找一个真正愿意停留的人",
+      "tension": "每处边缘都有人经过，却没有人坐下",
+      "emotion": "孤独、好奇、温柔抵达",
+      "product_actions": [
+        "被带过不同地点",
+        "最终被人物抱回家"
+      ],
+      "before_state": "边缘只是被忽略的空间",
+      "after_state": "边缘成为主动选择的私人位置",
+      "value_refs": [
+        "value_symbolic_seat",
+        "value_poetry_identity"
+      ],
+      "visual_evidence": [
+        "椅形轮廓与真实座椅不断并置"
+      ],
+      "image_refs": [
+        "detail_01",
+        "detail_13",
+        "detail_14"
+      ],
+      "score": {
+        "product_fit": 91,
+        "scene_strength": 86,
+        "differentiation": 96,
+        "visual_potential": 98,
+        "fact_support": 92,
+        "total": 93
+      }
+    },
+    {
+      "scene_id": "scene_invite_sit",
+      "title": "邀请你一起坐下",
+      "audience_refs": [
+        "audience_poetry_gifter"
+      ],
+      "time": "周末傍晚",
+      "place": "刚搬入的新家",
+      "trigger": "好友发现主人公一直忙着招待却没有坐下",
+      "task": "用一件礼物让她停止忙碌",
+      "tension": "主人公拒绝休息，仍在找杯子和收拾房间",
+      "emotion": "拘谨转为被理解",
+      "product_actions": [
+        "好友把抱枕放到她怀里",
+        "两人并排坐在地板上"
+      ],
+      "before_state": "一人照顾所有人，一人不知道如何劝她",
+      "after_state": "两人不再说教，只安静坐在一起",
+      "value_refs": [
+        "value_soft_companion",
+        "value_poetry_identity"
+      ],
+      "visual_evidence": [
+        "礼物文字完成未说出口的邀请"
+      ],
+      "image_refs": [
+        "detail_02",
+        "detail_12",
+        "detail_15"
+      ],
+      "score": {
+        "product_fit": 88,
+        "scene_strength": 92,
+        "differentiation": 84,
+        "visual_potential": 89,
+        "fact_support": 91,
+        "total": 89
+      }
+    }
+  ],
+  "directions": [
+    {
+      "direction_id": "direction_edge_seat",
+      "rank": 1,
+      "title": "边缘座位",
+      "type": "light_story",
+      "audience_refs": [
+        "audience_edge_giver"
+      ],
+      "scene_refs": [
+        "scene_last_seat"
+      ],
+      "core_proposition": "总把位置让给别人，也要给自己留一个位置。",
+      "product_role": "主人公主动照顾自己的行动证据，也是一张柔软的私人座位。",
+      "primary_value_id": "value_symbolic_seat",
+      "supporting_value_ids": [
+        "value_soft_companion",
+        "value_poetry_identity"
+      ],
+      "memorability_hook": "同一句“你坐吧”出现三次；第四次，主人公把抱枕放下，对自己说“我坐这儿”。",
+      "style_coordinate": {
+        "emotion": "克制的疲惫转为安稳",
+        "setting": "城市公共空间到独居房间",
+        "color": "前段冷灰低饱和，回家后保留产品红蓝并逐渐升温",
+        "camera_rhythm": "前段人物常在边缘和被遮挡位置，后段第一次给她稳定完整的画面",
+        "sound": "座椅摩擦、报站、餐具声逐步减少，最后保留呼吸与布料声"
+      },
+      "reveal_strategy": "前45秒只以包裹与局部红蓝文字埋线，约50秒完整出现产品；后半段让产品持续参与人物选择。",
+      "proof_events": [
+        "主人公三次让座并退到画面边缘",
+        "回家后在墙边拆出椅形抱枕",
+        "她把抱枕移到自己选定的窗边位置",
+        "拥抱和按压产生可见柔软形变"
+      ],
+      "image_refs": [
+        "hero_01",
+        "detail_02",
+        "detail_09",
+        "detail_12",
+        "detail_13",
+        "detail_15"
+      ],
+      "reason_to_choose": "产品造型、诗句、柔软动作与两分钟人物变化高度统一；拿掉产品，结尾的选择就无法成立。",
+      "risks": [
+        "若表演过度会变成苦情短片",
+        "产品不能只在结尾露出，后半段必须持续参与动作",
+        "不得把柔软扩写成治疗、减压或健康功效"
+      ],
+      "score": {
+        "fact_support": 94,
+        "differentiation": 96,
+        "audience_scene_fit": 98,
+        "visual_proof": 96,
+        "generation_feasibility": 88,
+        "total": 95
+      }
+    },
+    {
+      "direction_id": "direction_chair_journey",
+      "rank": 2,
+      "title": "一把椅子去旅行",
+      "type": "brand_mood",
+      "audience_refs": [
+        "audience_edge_giver"
+      ],
+      "scene_refs": [
+        "scene_chair_journey"
+      ],
+      "core_proposition": "生活的边缘，也可以是你选择的座位。",
+      "product_role": "穿行城市边缘的诗意主角。",
+      "primary_value_id": "value_poetry_identity",
+      "supporting_value_ids": [
+        "value_symbolic_seat"
+      ],
+      "memorability_hook": "每到一处边缘，抱枕上的蓝色椅子线条都与真实环境线条短暂对齐。",
+      "style_coordinate": {
+        "emotion": "孤独但不悲伤",
+        "setting": "城市边缘空间",
+        "color": "自然低饱和与醒目红蓝",
+        "camera_rhythm": "静物长观察与少量移动",
+        "sound": "城市环境声与轻声诗句"
+      },
+      "reveal_strategy": "开场即出现局部轮廓，30秒内完整揭示。",
+      "proof_events": [
+        "产品在多种真实座位与边缘空间陈列",
+        "最后被人物抱起带走"
+      ],
+      "image_refs": [
+        "detail_01",
+        "detail_13",
+        "detail_14"
+      ],
+      "reason_to_choose": "视觉辨识度强，适合品牌形象传播。",
+      "risks": [
+        "人物动机弱",
+        "两分钟容易成为重复的产品氛围片"
+      ],
+      "score": {
+        "fact_support": 93,
+        "differentiation": 95,
+        "audience_scene_fit": 84,
+        "visual_proof": 94,
+        "generation_feasibility": 92,
+        "total": 91
+      }
+    },
+    {
+      "direction_id": "direction_invite",
+      "rank": 3,
+      "title": "请你一起坐下",
+      "type": "light_story",
+      "audience_refs": [
+        "audience_poetry_gifter"
+      ],
+      "scene_refs": [
+        "scene_invite_sit"
+      ],
+      "core_proposition": "有些陪伴，不是劝你振作，只是邀请你一起坐下。",
+      "product_role": "替送礼者说出邀请的情感媒介。",
+      "primary_value_id": "value_soft_companion",
+      "supporting_value_ids": [
+        "value_poetry_identity"
+      ],
+      "memorability_hook": "朋友没有说安慰的话，只把抱枕放进她怀里，然后在旁边坐下。",
+      "style_coordinate": {
+        "emotion": "温暖克制",
+        "setting": "搬家后的新居",
+        "color": "傍晚暖色与白色空间",
+        "camera_rhythm": "双人关系观察",
+        "sound": "纸箱、烧水、两人呼吸与短对白"
+      },
+      "reveal_strategy": "中段随礼物自然出现。",
+      "proof_events": [
+        "抱枕被完整抱住",
+        "两人从忙碌站立变为并排坐下"
+      ],
+      "image_refs": [
+        "detail_02",
+        "detail_12",
+        "detail_15"
+      ],
+      "reason_to_choose": "送礼动机清楚，情绪普适。",
+      "risks": [
+        "产品独特隐喻被关系故事稀释",
+        "容易落入常规治愈广告"
+      ],
+      "score": {
+        "fact_support": 91,
+        "differentiation": 84,
+        "audience_scene_fit": 90,
+        "visual_proof": 87,
+        "generation_feasibility": 89,
+        "total": 88
+      }
+    }
+  ],
+  "decision": {
+    "selected_direction_id": "direction_edge_seat",
+    "selection_basis": "auto_recommended",
+    "alternative_direction_ids": [
+      "direction_chair_journey",
+      "direction_invite"
+    ],
+    "rationale": "“边缘座位”把产品事实、诗句、人物困境和最终动作锁成同一条因果链，最能支撑两分钟且避免空泛文艺。",
+    "locks": {
+      "primary_variant_id": "variant_chair_pillow",
+      "audience_ids": [
+        "audience_edge_giver"
+      ],
+      "scene_ids": [
+        "scene_last_seat"
+      ],
+      "primary_value_id": "value_symbolic_seat",
+      "core_proposition": "总把位置让给别人，也要给自己留一个位置。"
+    }
+  },
+  "readiness": {
+    "ready_for_script": true,
+    "sufficiency_checks": {
+      "primary_product": true,
+      "advertising_value": true,
+      "audience_scene": true,
+      "visual_proof": true,
+      "no_identity_conflict": true
+    },
+    "blocking_questions": [],
+    "restricted_claim_fact_ids": [
+      "fact_durability"
+    ],
+    "assumptions": [
+      {
+        "field": "platform",
+        "value": "品牌短片/电商内容渠道通用",
+        "impact": "不改变故事，只影响画幅与结尾信息密度"
+      },
+      {
+        "field": "dialogue_policy",
+        "value": "少对白、少量旁白",
+        "impact": "保留表演与环境声空间"
+      }
+    ],
+    "script_inputs_missing": [
+      "platform",
+      "aspect_ratio",
+      "brand_endcard"
+    ]
+  },
+  "human_report": {
+    "path": "product-tvc-analysis.html",
+    "format": "html",
+    "generated_from_revision": 1,
+    "sha256": "387a4df185dcc06a0b3095ad81c1678b763e71b54f408f1fbc8c70cf4d421fc2",
+    "source_of_truth": "json",
+    "viewmodel": {
+      "path": "product-tvc-analysis.viewmodel.json",
+      "contract": "product-tvc-analysis-report@1.0",
+      "generated_from_revision": 1,
+      "sha256": "be4f19f0ddc88ab886de8f4a3990a9c432f8fafea8fcbf0893d0e38fe0fa89b3"
+    },
+    "renderer": {
+      "logical_skill": "compact-commerce-ui",
+      "skill_source_digest": "92a37b9839dad06e0aa65cf24754b1eeb4b046f1e75879e43bea145bdd11c614",
+      "cli": "commerce-ui",
+      "cli_version": "1.2.0",
+      "template_pack_format": "commerce-ui-template-pack@1",
+      "template_pack_id": "product-tvc-analysis-report",
+      "template_pack_version": "1.0.1",
+      "contract": "product-tvc-analysis-report@1.0",
+      "selection_basis": "semantic_fit",
+      "doctor_status": "passed",
+      "validation_status": "passed",
+      "validation_summary": "{\"ok\": true, \"path\": \"/Users/pechen/AI/Research/output/product-tvc-2026-08-12/product-tvc-analysis.html\", \"contract\": \"product-tvc-analysis-report@1.0\", \"template_pack\": \"product-tvc-analysis-report\", \"template_pack_version\": \"1.0.1\", \"view_count\": 5, \"image_count\": 21, \"errors\": []}"
+    },
+    "image_rendering": {
+      "local_image_policy": "embedded_data_uri",
+      "remote_image_policy": "stage_local_then_embed",
+      "embedded_image_count": 20,
+      "source_remote_image_count": 0,
+      "staged_remote_image_count": 0,
+      "missing_image_count": 0,
+      "offline_complete": true
+    }
+  }
+}

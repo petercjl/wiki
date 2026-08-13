@@ -10,7 +10,7 @@
   - `AI视频 角色板 故事板` (interrupted, 0 valid items)
 - Candidate pool: 93 unique candidates after deduplication and removal of the previously ingested `7648163855390149888`.
 - Selection rule: prioritize likes and comments, then preserve conceptual coverage for storyboards, identity boards, Image2/Seedance workflows, and director-space control.
-- Formal disposition: extend existing page `domains/视觉制作/06-AI视频/07-故事板铁三角AI视频控制法.md`.
+- Formal disposition: extend existing page `domains/视觉制作/06-AI视频/04-图片与控制资产/07-故事板铁三角AI视频控制法.md`.
 
 ## Selected Sources
 

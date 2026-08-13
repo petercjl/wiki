@@ -2,11 +2,13 @@
 title: AI商业视觉设计入口
 type: query
 created: 2026-07-02
-updated: 2026-07-02
+updated: 2026-08-04
 domain: 视觉制作
 tags: [visual-production, business-analysis, prompt-engineering, workflow]
 sources:
   - domains/视觉制作/03-AI商业视觉/01-AI在商业视觉设计中的应用方法与实践/index.md
+  - raw/articles/ai-image-scale-direction-control-2026-08-04/02-cross-method-experiment.md
+  - _meta/extraction-notes/ai-image-scale-direction-control-2026-08-04/coverage-matrix.md
 status: active
 ---
 
@@ -26,6 +28,7 @@ status: active
 - 需要视频工作流：读 [[domains/视觉制作/03-AI商业视觉/01-AI在商业视觉设计中的应用方法与实践/05-视频工作流：分镜、首尾帧与动态生成|视频工作流：分镜、首尾帧与动态生成]] 和 [[queries/AI视频导演与分镜入口|AI 视频导演与分镜入口]]。
 - 需要团队和智能体重构：读 [[domains/视觉制作/03-AI商业视觉/01-AI在商业视觉设计中的应用方法与实践/06-定制视觉智能体与团队重构|定制视觉智能体与团队重构]]。
 - 需要 PSD 可编辑交付：读 [[domains/视觉制作/03-AI商业视觉/03-可编辑海报PSD重建Skill|可编辑海报 PSD 重建 Skill]]。
+- 主体比例失真、方向不听指令或关键帧构图不稳：读 [[queries/AI生图主体比例与朝向控制|AI 生图主体比例与朝向控制查询入口]]。
 
 ## 工作边界
 

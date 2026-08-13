@@ -23,6 +23,6 @@
 
 ## Output Mapping
 
-- KU-001 to KU-014: `domains/视觉制作/06-AI视频/10-Seed-Audio短视频音频一致性工作流.md`
+- KU-001 to KU-014: `domains/视觉制作/06-AI视频/07-声音设计与BGM/10-Seed-Audio短视频音频一致性工作流.md`
 - KU-015: `queries/AI视频音频与声线一致性入口.md`
 

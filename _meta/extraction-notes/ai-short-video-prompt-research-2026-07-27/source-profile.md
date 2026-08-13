@@ -24,7 +24,7 @@
 - Proposed disposition: 新建针对“资产已具备后的 5 秒 TVC / 15 秒剧情生成提示词”的实证 playbook；更新既有 AI 视频 query，不新建重复 query。
 - Placement confirmation: confirmed by user on 2026-07-27.
 - Confirmation evidence: 用户在已看到路径建议后回复“可以的 入库吧”。
-- Confirmed formal path: `domains/视觉制作/06-AI视频/13-AI短视频生成提示词方法论：TVC与剧情短片.md`
+- Confirmed formal path: `domains/视觉制作/06-AI视频/05-视频生成/13-AI短视频生成提示词方法论：TVC与剧情短片.md`
 
 ## Environment
 

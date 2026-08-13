@@ -29,19 +29,19 @@ status: active
 - Omission audit: `omission-audit.md`
 - Formal page plan: `formal-page-plan.md`
 - Formal pages:
-  - `domains/视觉制作/06-AI视频/13-AI短视频生成提示词方法论：TVC与剧情短片.md`
+  - `domains/视觉制作/06-AI视频/05-视频生成/13-AI短视频生成提示词方法论：TVC与剧情短片.md`
   - `queries/AI视频导演与分镜入口.md`（路由扩展）
 
 ## Placement Confirmation
 
 - Source understanding: 已具备人物、场景、道具和风格资产时，怎样针对 5 秒 TVC 与 15 秒剧情写可控短视频生成提示词。
 - Existing category considered: `domains/视觉制作/06-AI视频/`
-- Recommended placement: `domains/视觉制作/06-AI视频/13-AI短视频生成提示词方法论：TVC与剧情短片.md`
+- Recommended placement: `domains/视觉制作/06-AI视频/05-视频生成/13-AI短视频生成提示词方法论：TVC与剧情短片.md`
 - Recommended disposition: create-new + extend-existing query
 - Alternatives considered: 扩写 `12-AI视频Prompt分层强控方法.md`
 - User confirmation: confirmed
 - Confirmation evidence: 用户于 2026-07-27 回复“可以的 入库吧”。
-- Final confirmed path: `domains/视觉制作/06-AI视频/13-AI短视频生成提示词方法论：TVC与剧情短片.md`
+- Final confirmed path: `domains/视觉制作/06-AI视频/05-视频生成/13-AI短视频生成提示词方法论：TVC与剧情短片.md`
 
 ## Coverage Summary
 

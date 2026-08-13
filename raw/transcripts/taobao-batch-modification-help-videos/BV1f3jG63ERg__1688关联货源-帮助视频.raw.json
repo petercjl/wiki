@@ -1,0 +1,164 @@
+{
+	"systeminfo": "WHISPER : COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | FP16_VA = 1 | MATMUL_INT8 = 1 | DOTPROD = 1 | SME = 1 | ACCELERATE = 1 | OPENMP = 1 | REPACK = 1 | ",
+	"model": {
+		"type": "small",
+		"multilingual": true,
+		"vocab": 51865,
+		"audio": {
+			"ctx": 1500,
+			"state": 768,
+			"head": 12,
+			"layer": 12
+		},
+		"text": {
+			"ctx": 448,
+			"state": 768,
+			"head": 12,
+			"layer": 12
+		},
+		"mels": 80,
+		"ftype": 1
+	},
+	"params": {
+		"model": "/Users/pechen/.sealseek/knowledge-space/toolchain/models/ggml-small.bin",
+		"language": "zh",
+		"translate": false
+	},
+	"result": {
+		"language": "zh"
+	},
+	"transcription": [
+		{
+			"timestamps": {
+				"from": "00:00:00,000",
+				"to": "00:00:04,000"
+			},
+			"offsets": {
+				"from": 0,
+				"to": 4000
+			},
+			"text": "大家好,下面我给大家演示一下如何关联货源。"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:04,000",
+				"to": "00:00:11,000"
+			},
+			"offsets": {
+				"from": 4000,
+				"to": 11000
+			},
+			"text": "如果是用我们软件铺货的产品,铺货的时候是直接关联的,就不需要手动去操作了。"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:11,000",
+				"to": "00:00:16,000"
+			},
+			"offsets": {
+				"from": 11000,
+				"to": 16000
+			},
+			"text": "那么下面我给大家选择一个产品演示一下,点击添加货源。"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:16,000",
+				"to": "00:00:23,000"
+			},
+			"offsets": {
+				"from": 16000,
+				"to": 23000
+			},
+			"text": "这里会出现很多货源,您可以挑选一些您满意的产品进行关联。"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:25,000",
+				"to": "00:00:30,000"
+			},
+			"offsets": {
+				"from": 25000,
+				"to": 30000
+			},
+			"text": "点击自动关联,SQ对应在一起就没问题了,点击保存。"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:30,000",
+				"to": "00:00:34,000"
+			},
+			"offsets": {
+				"from": 30000,
+				"to": 34000
+			},
+			"text": "货源就关联好了,我们可以继续添加货源。"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:34,000",
+				"to": "00:00:42,000"
+			},
+			"offsets": {
+				"from": 34000,
+				"to": 42000
+			},
+			"text": "是支持添加多个货源的,点击去关联,点击自动关联。"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:42,000",
+				"to": "00:00:49,000"
+			},
+			"offsets": {
+				"from": 42000,
+				"to": 49000
+			},
+			"text": "那么这个产品的有一些SQ是没有对应在一起的,这时候需要我们手动拖拽一下。"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:55,000",
+				"to": "00:01:11,000"
+			},
+			"offsets": {
+				"from": 55000,
+				"to": 71000
+			},
+			"text": "点击自动关联,点击自动关联,点击自动关联,点击自动关联,点击自动关联,点击自动关联,点击自动关联,点击自动关联,点击自动关联,点击自动关联。"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:11,000",
+				"to": "00:01:17,000"
+			},
+			"offsets": {
+				"from": 71000,
+				"to": 77000
+			},
+			"text": "好,能对应的都已经对应在一起了,我们点击保存就可以了。"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:17,000",
+				"to": "00:01:26,000"
+			},
+			"offsets": {
+				"from": 77000,
+				"to": 86000
+			},
+			"text": "如果您有自己的专属货源,还可以在页面的最下方输入您的专属货源链接,点击去关联就可以了。"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:26,000",
+				"to": "00:01:28,000"
+			},
+			"offsets": {
+				"from": 86000,
+				"to": 88000
+			},
+			"text": "快去试试吧!"
+		}
+	]
+}

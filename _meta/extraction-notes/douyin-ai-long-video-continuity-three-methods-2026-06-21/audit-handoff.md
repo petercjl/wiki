@@ -7,7 +7,7 @@
 | Raw media | `raw/videos/douyin-ai-long-video-continuity-three-methods-2026-06-21/source-0.mp4` |
 | Raw transcript | `raw/transcripts/douyin-ai-long-video-continuity-three-methods-2026-06-21/source.raw.txt` |
 | Raw visual evidence | `raw/assets/douyin-ai-long-video-continuity-three-methods-2026-06-21/keyframes/` and `keyframes-ocr.raw.txt` |
-| Formal page | `domains/视觉制作/06-AI视频/09-AI长视频连续性组接方法.md` |
+| Formal page | `domains/视觉制作/06-AI视频/06-视频剪辑与连续性/09-AI长视频连续性组接方法.md` |
 | Coverage matrix | `_meta/extraction-notes/douyin-ai-long-video-continuity-three-methods-2026-06-21/coverage-matrix.md` |
 | Omission audit | `_meta/extraction-notes/douyin-ai-long-video-continuity-three-methods-2026-06-21/omission-audit.md` |
 | Query entry | No new `queries/` file; existing `08-Agent使用模板：AI视频导演分镜.md` updated |
@@ -29,6 +29,6 @@
 Re-run:
 
 ```bash
-python3 /Users/pechen/.codex/skills/llm-wiki-ingest/scripts/validate_ingest_contract.py --wiki-root /Users/pechen/wiki --notes-dir /Users/pechen/wiki/_meta/extraction-notes/douyin-ai-long-video-continuity-three-methods-2026-06-21 --formal /Users/pechen/wiki/domains/视觉制作/06-AI视频/09-AI长视频连续性组接方法.md
+python3 /Users/pechen/.codex/skills/llm-wiki-ingest/scripts/validate_ingest_contract.py --wiki-root /Users/pechen/wiki --notes-dir /Users/pechen/wiki/_meta/extraction-notes/douyin-ai-long-video-continuity-three-methods-2026-06-21 --formal /Users/pechen/wiki/domains/视觉制作/06-AI视频/06-视频剪辑与连续性/09-AI长视频连续性组接方法.md
 python3 /Users/pechen/.codex/skills/llm-wiki-audit-and-optimization/scripts/placeholder_scan.py /Users/pechen/wiki/domains/视觉制作/06-AI视频
 ```

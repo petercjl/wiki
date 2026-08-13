@@ -2,6 +2,22 @@
 
 > Chronological record of all wiki actions. Append-only.
 
+## [2026-08-10] compile | 同步跨 Agent Skill 注册库
+- Updated: `domains/AI Agent工程/90-Skill注册表/02-跨Agent Skill注册库.md`
+- Updated: `domains/AI Agent工程/90-Skill注册表/01-个人与项目Skill注册库.md`
+- Updated: agent-specific skill registry pages under `domains/AI Agent工程/90-Skill注册表/`
+- Updated: `index.md`
+- Updated: `domains/AI Agent工程/index.md`
+- Notes: 扫描系统中 Codex、Hermes、Lark Agent、OpenClaw、SealSeek、Claude Code 的 `SKILL.md`，当前总计 549 个 skill，其中个人/项目自定义 282 个；Codex 60, Hermes 191, Lark Agent 41, OpenClaw 11, SealSeek 220, Claude Code 26。Touched: domains/AI Agent工程/90-Skill注册表/02-跨Agent Skill注册库.md, domains/AI Agent工程/90-Skill注册表/01-个人与项目Skill注册库.md, domains/AI Agent工程/90-Skill注册表/03-Codex Skill注册页.md, domains/AI Agent工程/90-Skill注册表/04-Hermes Skill注册页.md, domains/AI Agent工程/90-Skill注册表/05-Lark Agent Skill注册页.md, domains/AI Agent工程/90-Skill注册表/07-SealSeek Skill注册页.md, domains/AI Agent工程/index.md。
+
+## [2026-08-10] compile | 同步跨 Agent Skill 注册库
+- Updated: `domains/AI Agent工程/90-Skill注册表/02-跨Agent Skill注册库.md`
+- Updated: `domains/AI Agent工程/90-Skill注册表/01-个人与项目Skill注册库.md`
+- Updated: agent-specific skill registry pages under `domains/AI Agent工程/90-Skill注册表/`
+- Updated: `index.md`
+- Updated: `domains/AI Agent工程/index.md`
+- Notes: 扫描系统中 Codex、Hermes、Lark Agent、OpenClaw、SealSeek、Claude Code 的 `SKILL.md`，当前总计 481 个 skill，其中个人/项目自定义 247 个；Codex 58, Hermes 167, Lark Agent 40, OpenClaw 11, SealSeek 179, Claude Code 26。Touched: domains/AI Agent工程/90-Skill注册表/02-跨Agent Skill注册库.md, domains/AI Agent工程/90-Skill注册表/01-个人与项目Skill注册库.md, domains/AI Agent工程/90-Skill注册表/03-Codex Skill注册页.md, domains/AI Agent工程/90-Skill注册表/04-Hermes Skill注册页.md, domains/AI Agent工程/90-Skill注册表/05-Lark Agent Skill注册页.md, domains/AI Agent工程/90-Skill注册表/06-OpenClaw Skill注册页.md, domains/AI Agent工程/90-Skill注册表/07-SealSeek Skill注册页.md, domains/AI Agent工程/90-Skill注册表/08-Claude Code Skill注册页.md, index.md, domains/AI Agent工程/index.md。
+
 ## [2026-07-15] ingest | 可分享跨 Agent Skill 创建方法
 
 - Source: 本次关于 Skill 本机信息泄漏、跨 Agent 可移植性与 creator 组合方式的用户决策。
@@ -39,7 +55,7 @@
 
 ## [2026-07-06] create | AI短视频故事方法论
 
-- Created `domains/视觉制作/06-AI视频/40-AI短视频故事方法论/index.md`.
+- Created `domains/视觉制作/06-AI视频/01-项目定义与剧本/40-AI短视频故事方法论.md`.
 - Created `domains/视觉制作/06-AI视频/40-AI短视频故事方法论/01-故事命题与人物动机.md`.
 - Created `domains/视觉制作/06-AI视频/40-AI短视频故事方法论/02-短视频叙事结构.md`.
 - Created `domains/视觉制作/06-AI视频/40-AI短视频故事方法论/03-把故事翻译成可生成镜头.md`.
@@ -53,18 +69,18 @@
 - Adapter: `llm-wiki-ingest/adapters/transcript.md` with video-course branch, full MP4 source, Whisper ASR, and keyframe visual evidence.
 - Archived full video, extracted audio, dycli detail JSON/raw JSONL, visible page text, structured chapter summary, Whisper ASR transcript, keyframes, contact sheet, and OCR attempt under `raw/videos/douyin-storyboard-triangle-ai-video-2026-06-28/`, `raw/transcripts/douyin-storyboard-triangle-ai-video-2026-06-28/`, and `raw/assets/douyin-storyboard-triangle-ai-video-2026-06-28/`.
 - Created extraction notes at `_meta/extraction-notes/douyin-storyboard-triangle-ai-video-2026-06-28/`, including source profile, source inventory, knowledge-unit inventory, coverage matrix, omission audit, formal page plan, and audit handoff.
-- Added formal playbook `domains/视觉制作/06-AI视频/07-故事板铁三角AI视频控制法.md` and updated 视觉制作 / AI 视频 indexes plus root `index.md`. The compiled method separates source retrieval metadata from durable method knowledge: storyboards control shots, identity boards control character consistency, and style/effect images control visual tone before concise video prompts.
+- Added formal playbook `domains/视觉制作/06-AI视频/04-图片与控制资产/07-故事板铁三角AI视频控制法.md` and updated 视觉制作 / AI 视频 indexes plus root `index.md`. The compiled method separates source retrieval metadata from durable method knowledge: storyboards control shots, identity boards control character consistency, and style/effect images control visual tone before concise video prompts.
 
 ## [2026-06-28] update | 抖音故事板/身份板补充搜索与视觉证据
 - Source: Douyin search corpus for `AI视频 故事板` and `故事板 身份板`, captured 2026-06-28 with `dycli search cdp`; 93 unique candidates after deduplication and excluding the previously ingested aweme.
 - Selected four videos for corroboration and supplementation: `7643404202686020081` by 居鲁仕, `7651618528713871355` by 李一帆, `7647464806470962447` by 隋校长 AIGC, and `7649315926764827322` by Eliot学长.
 - Archived ranked search results, selected source summaries, full MP4 videos, dycli detail JSON/raw JSONL, page text, Whisper ASR transcripts, general keyframes, named visual evidence screenshots, and a contact sheet under `raw/videos/douyin-storyboard-identity-board-corroboration-2026-06-28/`, `raw/transcripts/douyin-storyboard-identity-board-corroboration-2026-06-28/`, and `raw/assets/douyin-storyboard-identity-board-corroboration-2026-06-28/`.
 - Created extraction notes at `_meta/extraction-notes/douyin-storyboard-identity-board-corroboration-2026-06-28/`, including source profile, knowledge-unit inventory, coverage matrix, visual evidence index, and audit handoff.
-- Extended `domains/视觉制作/06-AI视频/07-故事板铁三角AI视频控制法.md` with cross-source corroboration: high-engagement tutorials confirm the control-asset split and add director-table spatial staging, commercial reference-video structure transfer, product/person/scene asset libraries, and cinematic character-card identity boards.
+- Extended `domains/视觉制作/06-AI视频/04-图片与控制资产/07-故事板铁三角AI视频控制法.md` with cross-source corroboration: high-engagement tutorials confirm the control-asset split and add director-table spatial staging, commercial reference-video structure transfer, product/person/scene asset libraries, and cinematic character-card identity boards.
 - Notes: For short-video ingestion, visual-form-dependent knowledge must include screenshots as source units. Identity-board layout, motion-pose grids, storyboard arrows, director-table placement, asset libraries, and cinematic role cards cannot be fully recovered from ASR alone.
 
 ## [2026-06-28] restructure | AI 视频控制资产系统知识页
-- Reorganized `domains/视觉制作/06-AI视频/07-故事板铁三角AI视频控制法.md` from a single-source-plus-supplements structure into an integrated, self-updating knowledge page titled `AI视频控制资产系统：身份板、故事板、导演台与素材库`.
+- Reorganized `domains/视觉制作/06-AI视频/04-图片与控制资产/07-故事板铁三角AI视频控制法.md` from a single-source-plus-supplements structure into an integrated, self-updating knowledge page titled `AI视频控制资产系统：身份板、故事板、导演台与素材库`.
 - Fixed visual evidence embeds by switching from absolute filesystem Markdown image paths to vault-relative Obsidian embeds such as `![[raw/assets/...]]`, because the wiki view could not resolve the absolute `/Users/pechen/wiki/...` image paths.
 - Updated the AI 视频 index, 视觉制作 index, and root index descriptions so future Agent routing treats the page as a durable control-asset system rather than a patchwork of Douyin source notes.
 - Notes: Source traceability remains in evidence packages and extraction notes, but formal knowledge is now organized by reusable control assets: identity board, storyboard arrows, director table, commercial asset library, cinematic role card, style/effect image, prompt role, workflow templates, failure modes, and future iteration rules.
@@ -76,14 +92,14 @@
 - Notes: For ecommerce AI video, product correctness is a first-order constraint. Storyboards organize shots, but the product asset library ensures the right product appears in those shots without deformation, color drift, structural errors, or SKU confusion.
 
 ## [2026-06-28] update | 产品操作资产与机构动作参考
-- Added `产品操作资产：让模型理解真实机构` to `domains/视觉制作/06-AI视频/07-故事板铁三角AI视频控制法.md`, prompted by a double-drink-lid thermos cup example where static product images did not make the two opening/drinking methods understandable to video-generation agents.
+- Added `产品操作资产：让模型理解真实机构` to `domains/视觉制作/06-AI视频/04-图片与控制资产/07-故事板铁三角AI视频控制法.md`, prompted by a double-drink-lid thermos cup example where static product images did not make the two opening/drinking methods understandable to video-generation agents.
 - Searched Douyin with `dycli` for product consistency, operation video reference, product deformation, and ecommerce AI-video methods. Relevant results included Image2 storyboard for product consistency, reference-image preprocessing for product deformation, multi-angle product visual assets, and complex-product consistency methods.
 - Notes: For ecommerce products with moving mechanisms, product consistency includes operation consistency. Use operation demonstration videos, extracted operation keyframes, component labels, state comparison diagrams, and forbidden-misread lists to teach the model the product state machine, not only the product appearance.
 
 ## [2026-06-28] test | 双饮杯盖视频参考与产品操作资产
 - Source: Douyin favorite first item, aweme `7654020418310786330`, author `泰来百货`, captured 2026-06-28 with `dycli favorites cdp-find` and `dycli video cdp-detail`.
 - Archived the downloaded MP4, ASR transcript, three operation-focused video segments, dense contact sheets, and four named evidence frames under `raw/videos/douyin-cup-open-reference-test-2026-06-28/`.
-- Updated `domains/视觉制作/06-AI视频/07-故事板铁三角AI视频控制法.md` inside the existing `产品操作资产` section, using the双饮杯盖 as a concrete proof that video reference can capture hand action, opening direction, state transition, and component identity better than static product photos.
+- Updated `domains/视觉制作/06-AI视频/04-图片与控制资产/07-故事板铁三角AI视频控制法.md` inside the existing `产品操作资产` section, using the双饮杯盖 as a concrete proof that video reference can capture hand action, opening direction, state transition, and component identity better than static product photos.
 - Notes: Key intervals are `00:00-00:15.6` for the first dual-opening explanation and `00:22-00:38.2` for the close-up sequence that labels the coffee口 and hidden straw.
 
 ## [2026-06-28] ingest | Film Directing Shot by Shot 导演分镜书
@@ -92,7 +108,7 @@
 - Archived raw EPUB, metadata, TOC, manifest, 6 extracted spine markdown files, and 410 image references at `raw/books/film-directing-shot-by-shot-2019/`.
 - Created extraction notes at `_meta/extraction-notes/film-directing-shot-by-shot-2019/`, including source profile, source inventory, segment plan, chapter inventory, knowledge-unit inventory, coverage matrix, omission audit, formal page plan, source-to-page map, and audit handoff.
 - Created AI video director knowledge system under `domains/视觉制作/06-AI视频/20-导演知识系统/`, with 11 formal pages covering visualization, visual design/storyboards, production-cycle asset management, spatial continuity, temporal editing, shot flow, character staging, depth/camera angle/POV, moving camera, transitions/format/shadowing, and AI video extension.
-- Created Agent template: `domains/视觉制作/06-AI视频/08-Agent使用模板：AI视频导演分镜.md`.
+- Created Agent template: `domains/视觉制作/06-AI视频/03-分镜脚本/08-Agent使用模板：AI视频导演分镜.md`.
 - Updated AI video directing pages: `03-导演式镜头设计方法.md`, `04-商业短视频摄影与运镜语法.md`, `05-AI视频导演Prompt模板.md`, and `06-AI视频导演学习资料与数据集.md`.
 - Updated the AI video index, 视觉制作 domain index, and root `index.md` so future Agent routing includes Katz's visualization, storyboarding, continuity, staging, depth, POV, moving-camera, camera-cutting and coverage concepts.
 
@@ -339,9 +355,9 @@
 - Notes: 使用 `llm-wiki-ingest` 的 XMind adapter 处理三份核算方法 XMind。先识别淘宝 2.6 为 101 节点 superset，再将碎片重构为平台结算时间确认收入、快麦成本匹配、保证金/特殊账户/推广费处理和抖音、拼多多、小红书、视频号、淘宝平台核对方法。28 个截图节点已归档并标记为待 OCR/视觉审计。
 
 ## [2026-06-07] ingest | 火山方舟 Doubao-Seedance-2.0 控制台 clipping
-- Source: `raw/webpages/volcengine/volcengine-ark-domains/视觉制作/06-AI视频/01-Doubao-Seedance-2.0视频生成模型卡-2026-06-07.md`
-- Created: `_meta/extraction-notes/volcengine-ark-domains/视觉制作/06-AI视频/01-Doubao-Seedance-2.0视频生成模型卡-2026-06-07/` note set
-- Created: `domains/视觉制作/06-AI视频/01-Doubao-Seedance-2.0视频生成模型卡.md`
+- Source: `raw/webpages/volcengine/volcengine-ark-domains/视觉制作/06-AI视频/80-模型与工具/01-Doubao-Seedance-2.0视频生成模型卡-2026-06-07.md`
+- Created: `_meta/extraction-notes/volcengine-ark-domains/视觉制作/06-AI视频/80-模型与工具/01-Doubao-Seedance-2.0视频生成模型卡-2026-06-07/` note set
+- Created: `domains/视觉制作/06-AI视频/80-模型与工具/01-Doubao-Seedance-2.0视频生成模型卡.md`
 - Updated: `domains/视觉制作/index.md`
 - Updated: `domains/视觉制作/05-小红书风格AI生图/index.md`
 - Notes: 使用新的 `llm-wiki-ingest` 覆盖契约处理 clipping，保留模型 ID、API endpoint、价格快照、分辨率/帧率、任务类型、能力说明和三段 demo prompt；将无标签数值标记为 unresolved，并生成 audit handoff 供质检 skill 继续检查。
@@ -1236,7 +1252,7 @@
 ## [2026-06-26] synthesize | AI 商业短视频规划方法
 
 - Source: 罐头 Visuals 7 个已入库案例。
-- Created playbook: `domains/视觉制作/06-AI视频/02-AI商业短视频规划方法.md`.
+- Created playbook: `domains/视觉制作/06-AI视频/01-项目定义与剧本/02-AI商业短视频规划方法.md`.
 - Updated: `domains/视觉制作/06-AI视频/index.md`, `domains/视觉制作/06-AI视频/90-案例库/index.md`, `domains/视觉制作/index.md`, and root `index.md`.
 - Notes: 将 7 个案例抽象为“产品/主题诊断 -> 问题类型分类 -> 检索相似案例 -> 卖点翻译成叙事命题 -> 人物/场景/冲突/产品入场 -> 分镜图片 -> 图生视频和剪辑取舍 -> 案例回写”的规划主线，并明确未来 skill 应先做案例检索和创意命题判断，而不是直接生成脚本。
 ## 2026-06-27
@@ -1306,8 +1322,8 @@
 - Adapter: `llm-wiki-ingest/adapters/transcript.md` with video-course branch; detail captured through `dycli`, media archived from the captured video URL, ASR produced with local `whisper-cli`.
 - Created raw media and evidence: `raw/videos/douyin-ai-long-video-continuity-three-methods-2026-06-21/`, `raw/transcripts/douyin-ai-long-video-continuity-three-methods-2026-06-21/`, and `raw/assets/douyin-ai-long-video-continuity-three-methods-2026-06-21/`.
 - Created extraction notes: `_meta/extraction-notes/douyin-ai-long-video-continuity-three-methods-2026-06-21/` with source profile, source inventory, knowledge-unit inventory, coverage matrix, omission audit, formal page plan, and audit handoff.
-- Created formal page: `domains/视觉制作/06-AI视频/09-AI长视频连续性组接方法.md`.
-- Updated navigation: `domains/视觉制作/06-AI视频/index.md`, `domains/视觉制作/index.md`, root `index.md`, and `domains/视觉制作/06-AI视频/08-Agent使用模板：AI视频导演分镜.md`.
+- Created formal page: `domains/视觉制作/06-AI视频/06-视频剪辑与连续性/09-AI长视频连续性组接方法.md`.
+- Updated navigation: `domains/视觉制作/06-AI视频/index.md`, `domains/视觉制作/index.md`, root `index.md`, and `domains/视觉制作/06-AI视频/03-分镜脚本/08-Agent使用模板：AI视频导演分镜.md`.
 - Notes: 将视频中的三步法整理为“切换景别和角度、在动作中衔接、用分镜组接剧情”，并把 LibTV 具体 UI 抽象为跨工具可用的连续性组接方法。
 
 ## [2026-07-02] update | P0 query entry routing batch 1
@@ -1335,7 +1351,7 @@
 - Archived raw docs: `raw/api/evolink/seed-audio-voice-docs-2026-07-04/doubao-seed-audio-1-0-voices.md` and `.html`.
 - Created raw experiment notes: `raw/experiments/seed-audio-short-video-audio-workflow-2026-07-04/source-notes.md`.
 - Created extraction notes: `_meta/extraction-notes/seed-audio-short-video-audio-workflow-2026-07-04/`.
-- Created formal page: `domains/视觉制作/06-AI视频/10-Seed-Audio短视频音频一致性工作流.md`.
+- Created formal page: `domains/视觉制作/06-AI视频/07-声音设计与BGM/10-Seed-Audio短视频音频一致性工作流.md`.
 - Created query entry: `queries/AI视频音频与声线一致性入口.md`.
 - Updated navigation: `domains/视觉制作/06-AI视频/index.md` and root `index.md`.
 - Notes: 将 BGM 一致性沉淀为“分段视频不自带 BGM，成片后统一配乐”的后期策略；将人物声线一致性沉淀为“先选内置 `voice_type`，再用 prompt 微调性格/情绪”的参考音频资产策略，并记录直接视频理解配乐、下游视频模型声线保持等未验证边界。
@@ -1347,14 +1363,14 @@
 - Archived raw media, ASR, OCR, keyframes, and contact sheet under `raw/videos/wechat-channels-aofyh73igj-h264-2026-07-05/`, `raw/transcripts/wechat-channels-aofyh73igj-h264-2026-07-05/`, and `raw/assets/wechat-channels-aofyh73igj-h264-2026-07-05/`.
 - Added dense prompt evidence: 79 prompt frames and macOS Vision OCR at `raw/assets/wechat-channels-aofyh73igj-h264-2026-07-05/ch01/vision-ocr.raw.txt`.
 - Created extraction notes: `_meta/extraction-notes/wechat-channels-aofyh73igj-h264-2026-07-05/`.
-- Created formal topic and playbook: `domains/视觉制作/06-AI视频/30-影像美学大师风格AI短视频/index.md` and `domains/视觉制作/06-AI视频/30-影像美学大师风格AI短视频/01-岩井俊二风格AI短视频制作方法.md`.
+- Created formal topic and playbook: `domains/视觉制作/06-AI视频/85-影像风格参考/30-影像美学大师风格AI短视频.md` and `domains/视觉制作/06-AI视频/85-影像风格参考/30-01-岩井俊二风格AI短视频制作方法.md`.
 - Updated routing: AI 视频案例库、AI 视频入口、root index, and `queries/AI视频导演与分镜入口.md`.
 - Notes: 将教程主线整理为“选定风格参考 -> 提取情绪命题 -> 提取视觉符号 -> 拆成构图/光线/调色 -> 加入镜头节奏和叙事装置 -> 输出秒级镜头表和 prompt/负向限制”；按用户反馈从商业案例库改入“影像美学大师风格 AI 短视频”专题，并把画面中可识别提示词整理为可复用校正稿。
 
 ## [2026-07-05] plan | AI 短视频分镜知识库长期建设
 
-- Created planning topic: `domains/视觉制作/06-AI视频/25-AI短视频分镜通用能力/index.md`.
-- Created roadmap: `domains/视觉制作/06-AI视频/25-AI短视频分镜通用能力/00-建设路线图.md`.
+- Created planning topic: `domains/视觉制作/06-AI视频/03-分镜脚本/25-AI短视频分镜通用能力.md`.
+- Created roadmap: `domains/视觉制作/06-AI视频/99-迁移与历史索引/25-分镜知识库建设路线图.md`.
 - Updated routing: AI 视频入口、root index, and `queries/AI视频导演与分镜入口.md`.
 - Notes: 明确知识库目标为“故事大纲 -> AI 短视频分镜提示词”，采用两层结构：通用分镜能力层先吸收 Katz、Mercado、Brown、Kenworthy、Block 五本书；导演风格层按岩井俊二、王家卫、韦斯·安德森、是枝裕和、小津安二郎等风格锚点组织，并要求每个导演页提供 2 分钟短片案例和镜头级 prompt。
 
@@ -1398,7 +1414,7 @@
 
 ## [2026-07-05] revise | AI短视频完整视听分镜 Prompt 标准与王家卫样板
 
-- Created `domains/视觉制作/06-AI视频/25-AI短视频分镜通用能力/09-AI短视频完整视听分镜Prompt结构.md`.
+- Created `domains/视觉制作/06-AI视频/03-分镜脚本/25-09-AI短视频完整视听分镜Prompt结构.md`.
 - Updated `02-AI视频镜头字段标准.md` with commercial controllability fields: segment task, space anchor, dialogue/voice-over table, sound type, sound strategy, reaction shots, edit points, and no-freeplay restrictions.
 - Updated `08-Agent使用模板：故事大纲转分镜提示词.md` so Agent outputs character/space settings, dialogue and voice-over table, sound strategy, and complete audiovisual segmented prompts.
 - Rewrote `02-王家卫风格AI短视频制作方法.md` case section into a complete audiovisual Seedance prompt pack: story setting, dialogue/voice-over table, 8 independent 15-second segments, spatial anchors, sound strategy, continuity, and post-production audio notes.
@@ -1407,7 +1423,7 @@
 
 ## [2026-07-05] revise | 王家卫页加入开放抽卡到资产固化工作流
 
-- Revised `domains/视觉制作/06-AI视频/30-影像美学大师风格AI短视频/02-王家卫风格AI短视频制作方法.md`.
+- Revised `domains/视觉制作/06-AI视频/85-影像风格参考/30-02-王家卫风格AI短视频制作方法.md`.
 - Added a two-stage method: first use open-ended Wang Kar-wai style prompts for visual exploration/card draw, then extract style boards, character boards, scene boards, prop boards, sound boards, and shot boards from satisfying generated clips.
 - Added an evaluation checklist for generated exploration clips and an asset-freezing template to turn a successful exploratory clip into reusable production assets.
 - Notes: This preserves the creative value of open prompts while keeping commercial delivery controlled: exploration prompts discover image language; complete audiovisual prompts and assets control later story execution.
@@ -1422,13 +1438,13 @@
 
 ## [2026-07-05] revise | 韦斯安德森页分离抽卡音乐与分段音效规则
 
-- Revised `domains/视觉制作/06-AI视频/30-影像美学大师风格AI短视频/03-韦斯安德森风格AI短视频制作方法.md`.
+- Revised `domains/视觉制作/06-AI视频/85-影像风格参考/30-03-韦斯安德森风格AI短视频制作方法.md`.
 - Added a two-stage sound boundary: open-ended style card draws may include director-like BGM to explore sound direction; formal segmented production prompts must generate only dialogue, voice-over, environment sound, and action SFX, with music prohibited.
 - Updated the Wes Anderson 8-segment case so every `声音策略` explicitly says `只生成音效，禁止生成音乐`, while preserving specified voice-over, dialogue, spatial anchors, continuity, and negative restrictions.
 
 ## [2026-07-05] revise | 韦斯安德森页升级为故事脚本到镜头级分镜样板
 
-- Revised `domains/视觉制作/06-AI视频/30-影像美学大师风格AI短视频/03-韦斯安德森风格AI短视频制作方法.md`.
+- Revised `domains/视觉制作/06-AI视频/85-影像风格参考/30-03-韦斯安德森风格AI短视频制作方法.md`.
 - Renamed the workflow section to `范例-两阶段工作流：先抽卡，再固化资产` and reordered it around the production chain: complete story script first, then trailer-like open style card draw, then asset extraction, then segmented storyboard prompts.
 - Replaced the earlier story outline with a complete story script for `失物招领处第 17 号抽屉`, making the character motivation, rules, clue logic, memory reveal, and ending emotionally and causally coherent.
 - Upgraded all 8 Seedance prompt segments to shot-level complete wording: each 0-5 / 5-10 / 10-15 second block now includes shot size, camera movement or fixed camera, character position, sightline, action, expression, composition, light, dialogue or voice-over where needed, and concrete sound effects.
@@ -1436,7 +1452,7 @@
 
 ## [2026-07-05] revise | 王家卫页升级为合理故事脚本与镜头级分镜
 
-- Revised `domains/视觉制作/06-AI视频/30-影像美学大师风格AI短视频/02-王家卫风格AI短视频制作方法.md`.
+- Revised `domains/视觉制作/06-AI视频/85-影像风格参考/30-02-王家卫风格AI短视频制作方法.md`.
 - Renamed the workflow section to `范例-两阶段工作流：先抽卡，再固化资产` and aligned it with the same production chain as the Wes Anderson sample: complete story script, trailer-like open style card draw, asset extraction, then controlled segmented storyboard prompts.
 - Replaced the earlier implausible expired airport-ticket story with the complete story script `凌晨 1 点 12 分的电话卡`: a rain-night convenience store, a man who buys mints for a one-yuan coin to call a disconnected number, and a night-shift clerk who slips a usable phone card into his change.
 - Rewrote the open style card draw around the new phone-card story and updated asset extraction tables to use mints, coins, phone cards, the glass door, neon, and the public phone instead of tickets.
@@ -1445,21 +1461,21 @@
 
 ## [2026-07-05] revise | 韦斯安德森页分段 Prompt 改为复制即用
 
-- Revised `domains/视觉制作/06-AI视频/30-影像美学大师风格AI短视频/03-韦斯安德森风格AI短视频制作方法.md`.
+- Revised `domains/视觉制作/06-AI视频/85-影像风格参考/30-03-韦斯安德森风格AI短视频制作方法.md`.
 - Removed the external `通用全局风格，每段都复制` dependency and embedded the global style, sound policy, and negative restrictions inside each of the 8 formal Prompt blocks.
 - Replaced `旁白使用 Vn` / `说 Dn` style references with the exact voice-over or dialogue text inside each Prompt, while keeping the dialogue/voice-over table as an overview index.
 - Validation: 8 prompts, 8 embedded global-style blocks, 8 embedded original voice/dialogue fields, 8 `只生成音效，禁止生成音乐` rules, 24 timed blocks, and 24 sound-effect fields; no formal Prompt contains `使用 Vn/Dn` references or external copy requirements.
 
 ## [2026-07-05] revise | 韦斯安德森页移除 Prompt 段落头重复台词
 
-- Revised `domains/视觉制作/06-AI视频/30-影像美学大师风格AI短视频/03-韦斯安德森风格AI短视频制作方法.md`.
+- Revised `domains/视觉制作/06-AI视频/85-影像风格参考/30-03-韦斯安德森风格AI短视频制作方法.md`.
 - Removed `本段旁白原文` and `本段对白原文` fields from the heads of the 8 formal Prompt blocks to avoid duplicating dialogue/voice-over already present in timed shot descriptions.
 - Kept each Prompt copy-ready by retaining embedded global style, sound policy, negative restrictions, and exact dialogue/voice-over only inside the time-coded shot where it occurs.
 - Validation: 8 prompts, 8 embedded global-style blocks, 0 header original-text fields, 0 `使用 Vn/Dn` references, 8 timeline dialogue/voice-over lines, 24 timed blocks, and 24 sound-effect fields.
 
 ## [2026-07-05] revise | 王家卫页分段 Prompt 改为复制即用且不重复台词
 
-- Revised `domains/视觉制作/06-AI视频/30-影像美学大师风格AI短视频/02-王家卫风格AI短视频制作方法.md`.
+- Revised `domains/视觉制作/06-AI视频/85-影像风格参考/30-02-王家卫风格AI短视频制作方法.md`.
 - Removed the external `通用全局风格，每段都复制` dependency and embedded the global style, sound policy, and negative restrictions inside each of the 8 formal Prompt blocks.
 - Replaced `内心独白使用 Vn` / `当面说话使用 Dn` references with prompt-local sound rules that instruct the model to use only the exact dialogue/voice-over lines present in the timed shot descriptions.
 - Kept dialogue/voice-over text only inside the time-coded shot where it occurs, avoiding duplicate `本段旁白原文` or `本段对白原文` header fields.
@@ -1467,7 +1483,7 @@
 
 ## [2026-07-06] revise | 岩井俊二页重构为故事脚本与复制即用分镜样板
 
-- Revised `domains/视觉制作/06-AI视频/30-影像美学大师风格AI短视频/01-岩井俊二风格AI短视频制作方法.md`.
+- Revised `domains/视觉制作/06-AI视频/85-影像风格参考/30-01-岩井俊二风格AI短视频制作方法.md`.
 - Compressed the original extracted tutorial prompts into `源视频提示词资产`, preserving rain eaves, classroom crush, library book, rice field Walkman, curtain classroom, night riding, tree-hole letter, and countryside running as reusable shot assets.
 - Added `范例-两阶段工作流：先抽卡，再固化资产`, complete story script `雨停以前写给你的信`, trailer-like open card draw, and asset extraction tables.
 - Added an 8-segment copy-ready Seedance prompt pack with embedded Iwai global style, no-music sound policy, no external Vn/Dn references, no duplicated header dialogue, and dialogue/voice-over only inside timed shots.
@@ -1483,7 +1499,7 @@
 - Validation: all 7 pages passed structure checks: each has one workflow, one story script, 8 Prompt blocks, 8 embedded global-style blocks, 8 no-music sound strategies, 24 timed blocks, 24 sound-effect fields, 0 external global-style dependencies, 0 header duplicate dialogue fields, and 0 V/D reference residues.
 ## [2026-07-06] revise | AI短视频故事方法论新增“方向分叉”决策层
 
-- Added `domains/视觉制作/06-AI视频/40-AI短视频故事方法论/09-故事方向分叉与用户选择.md`.
+- Added `domains/视觉制作/06-AI视频/01-项目定义与剧本/40-09-故事方向分叉与用户选择.md`.
 - Updated the method index, query entrance, and Agent template so story planning now defaults to multiple life-story directions before single-script deepening.
 - Captured the rule that products should be hidden inside life actions, while users choose the preferred story mechanism, emotional taste, and生活观察 before分镜 or prompt work.
 ## [2026-07-06] add | 保温咖啡杯误会和解故事入库
@@ -1505,7 +1521,7 @@
 - Added guidance that regression prompts should not only test the exact bug just fixed; they should exercise the realistic workflow path affected by the change.
 ## [2026-07-07] revise | AI故事视频Skill内化资产库生图Prompt方法
 
-- Updated local `ai-story-video-studio` skill, internalizing reusable methods from `domains/视觉制作/06-AI视频/11-AI短剧角色场景道具资产构建方法.md`.
+- Updated local `ai-story-video-studio` skill, internalizing reusable methods from `domains/视觉制作/06-AI视频/04-图片与控制资产/11-AI短剧角色场景道具资产构建方法.md`.
 - Added asset-library prompt output for scenes, characters, props, and products.
 - Added the rule that open style tests must be timed storyboard prompts, not descriptive paragraphs.
 - Added scene camera coverage terms and image-reference reuse strategy for same-scene later angles.
@@ -1516,13 +1532,13 @@
 - Adapter: `llm-wiki-ingest/adapters/markdown-doc.md` over `lark-doc` fetch.
 - Archived raw section at `raw/webpages/feishu-ai-short-drama-assets-2026-07-07/section-asset-construction.md`.
 - Created extraction notes at `_meta/extraction-notes/feishu-ai-short-drama-assets-2026-07-07/`.
-- Created formal page `domains/视觉制作/06-AI视频/11-AI短剧角色场景道具资产构建方法.md`.
+- Created formal page `domains/视觉制作/06-AI视频/04-图片与控制资产/11-AI短剧角色场景道具资产构建方法.md`.
 - Updated routing: AI 视频 index, root index, and `queries/AI视频导演与分镜入口.md`.
 - Notes: 按用户要求没有固化 LibTV、即梦等工具步骤，而是提炼为角色/场景/道具资产协议、模型/API 路由、四视图、多视角场景、反打视觉锚点、道具白底资产和 QA 工作流；具体模型能力、价格与审核规则标记为执行前复核项。
 
 ## [2026-07-07] revise | AI短剧资产构建页补充生图清单与提示词模板
 
-- Revised `domains/视觉制作/06-AI视频/11-AI短剧角色场景道具资产构建方法.md`.
+- Revised `domains/视觉制作/06-AI视频/04-图片与控制资产/11-AI短剧角色场景道具资产构建方法.md`.
 - Added explicit image inventory for role, scene, and prop asset libraries: 正面全身定妆图、四视图、状态变体、表情卡、动作卡、空镜全景图、2x2 多视角场景图、反打场景图、道具白底图、多角度图、细节图和状态图.
 - Added copy-ready prompt structures for role full-body image, role four-view image, role state variant, empty scene wide shot, 2x2 multi-view scene, reverse-angle scene, and prop white-background image.
 
@@ -1792,3 +1808,91 @@
 - 根索引、官方目录与编译进度页、十个模块索引和 108 个 Markdown 文件的来源引用已统一更新；本地链接检查无缺失目标。
 - `llm-wiki-ingest` 合同校验通过，路由审计无目标页警告；完成审计材料位于 `_meta/extraction-notes/wanxiangtai-woyaotuiguang-completion-2026-08-04/`。
 - 修改前完整备份：`/Users/pechen/AI/Research/output/wiki-backups/wanxiangtai-full-corpus-before-contract-fix-2026-08-04/`；根索引收口备份：`/Users/pechen/AI/Research/output/wiki-backups/wanxiangtai-completion-before-final-index-2026-08-04/`。
+## 2026-08-04：编译 AI 生图主体比例与朝向控制方法
+
+- 归档 3 份本地研究文档和 13 张原始参考、生成及对照图片，覆盖鞋子横穿斑马线与鞋子走向自拍机两轮实验。
+- 经用户确认，主归属放在 `domains/视觉制作/03-AI商业视觉/`，新建《AI生图主体比例与朝向控制方法》；AI 视频只作为关键帧控制的交叉入口。
+- 方法将比例控制拆为同平面尺度锚点、相对尺寸、连续透视尺度链、画面占位保险和裁切边界；将朝向控制拆为画布向量、主体自身轴、角度容差、环境线、可见面和动作角色。
+- 两轮实验共同确认：方向与画面占位可跨场景迁移；物理尺寸换算、抽象包围盒和动作相位仍是软约束，严格任务应转入真实构图参考、区域控制、确定性合成或 3D。
+- 新建 `queries/AI生图主体比例与朝向控制.md`，并更新 AI 商业视觉、视觉制作、总索引及既有图片工作流和故事板控制页的关联入口。
+- 原始资料与审计材料：`raw/articles/ai-image-scale-direction-control-2026-08-04/`、`raw/assets/ai-image-scale-direction-control-2026-08-04/`、`_meta/extraction-notes/ai-image-scale-direction-control-2026-08-04/`。
+## 2026-08-06：建立紧凑商务工作台网页 UI 规范
+
+- 根据同一份电商报告的“植物图鉴社”与“紧凑插件面板”对照测试，确认紧凑商务工作台更适合作为电商经营报告、SaaS 后台和网页插件的默认方向。
+- 经用户明确确认，将规范放入 `domains/AI Agent工程/11-网页设计规范/`，建立总则、布局、设计变量、组件、电商内容和验收反模式 6 个核心页面及目录索引。
+- 固化四个布局支柱：多区域页面使用左侧菜单；左下角持续展示核心状态；搜索与时间等全局工具优先放右上角；中央采用有权重的豆腐块模块系统。
+- 将可读性升级为硬规则：用户需要阅读、比较或据此决策的信息原则上不低于 12px，正文和表格以 13px 为基线，紧凑感不得依靠缩小字体实现。
+- 新建 `queries/网页报告与SaaS界面设计入口.md`，用于 HTML 报告、SaaS 后台、经营工作台和网页插件的自然语言任务路由。
+- 原始证据与审计材料：`raw/articles/compact-commerce-ui-2026-08-06/`、`raw/assets/compact-commerce-ui-2026-08-06/` 与 `_meta/extraction-notes/compact-commerce-ui-2026-08-06/`。两张截图含业务标识，仅保留在私有 raw，不嵌入正式页。
+
+## 2026-08-10：建立 HTML CLI 伴生 Skill 与嵌套 Skill 组合规范
+
+- 通过两组干净上下文实验确认：只在调用 Skill 中声明依赖不会自动加载；按精确名称解析、完整读取并执行被调用 Skill 可以稳定组合。
+- 将 `compact-commerce-ui` 的唯一源码迁入 `commerce-ui` 安装目录；Codex 安装目录改为链接，不再维护独立副本。
+- `commerce-ui` 升级到 1.1.0，新增 `skill source/status/install/update`，`doctor` 可发现伴生 Skill；受管副本可更新，未受管内容拒绝覆盖。
+- 新建《HTML 生成 CLI 与伴生 Skill 组合规范》，固化依赖解析、输入输出交接、失败合同、返回主线、版本兼容和干净上下文 QA。
+- 更新网页设计目录、AI Agent 工程索引、根索引和网页报告查询入口；原始证据与审计材料位于 `raw/articles/commerce-ui-companion-skill-2026-08-10/` 与 `_meta/extraction-notes/commerce-ui-companion-skill-2026-08-10/`。
+# 2026-08-11：淘宝批量修改、商品复制与店群同步教程入库
+
+- 从用户当前 Bilibili 页面识别并下载当前视频及右侧教程列表，共 14 个视频、55.39 分钟；保存 MP4、元数据、封面和原始 URL 清单。
+- 使用 Whisper 生成 14 套 TXT/SRT/JSON 原始转写，提取 221 张关键帧并完成中文 OCR；语义校验修正“铺祸→铺货”“组电→主店”“SQ/STU/SKO→SKU”等高风险错词。
+- 用户明确确认该工具不属于 ERP，正式归入 `domains/电商运营/02-淘宝天猫/电商自动化/批量修改/`。
+- 建立模式与多店配置、批量修改、商品复制、手动/实时同步、1688 铺货、故障恢复 6 个正式页面及目录索引。
+- 新建 `queries/淘宝批量修改与店群同步工具入口.md`，并更新淘宝天猫、电商运营、1688 和根索引。
+- `run_ingest_validation.sh` 验证通过；查询入口路由审计在当前激活 vault `/Users/pechen/wiki` 下无警告，具有 3 个反链和 7 个出链。
+- 原始证据与审计材料位于 `raw/videos/taobao-batch-modification-help-videos/`、`raw/transcripts/taobao-batch-modification-help-videos/`、`raw/assets/taobao-batch-modification-help-videos/` 与 `_meta/extraction-notes/taobao-batch-modification-help-videos/`。
+
+## 2026-08-11：飞刀新版后台核验、认证分析与只读 CLI
+
+- 通过用户授权的 9223 电商浏览器核验“飞刀全批量修改（淘宝版）”当前新版，确认多店管理、自动补库存、自动同步、批量修改和批量导出五组现行能力。
+- 对照 14 个历史视频后，将分销商/店群模式、商品复制、手动同步和 1688 铺货标为“历史教程能力、当前新版不可见”，保留原知识而不静默覆盖。
+- 补充自动补库存规则、当前批量字段与筛选、商家编码不可清空、导出和自动同步商品关联等页面证据。
+- 静态发现 59 条前端路径；认证分析确认短会话 Cookie 约 1 天，无会话返回 `900005`，旧版回调的续期凭证当前可签发新会话但服务端寿命未公开。
+- 新建独立 `fdcli 0.2.0`，只开放资料、店铺、商品和接口目录查询；写入、刷新、上传、暂停、恢复、删除、上下架和同步配置全部阻止，6 项测试通过。
+- 新建《飞刀新版后台能力与只读 CLI》，更新批量修改目录、六个既有知识页、查询入口、淘宝天猫索引和根索引；原始快照与审计材料位于 `raw/webpages/taobao/feidao-batch-edit-console-2026-08-11.md` 和 `_meta/extraction-notes/feidao-batch-edit-console-2026-08-11/`。
+
+## 2026-08-12：编译 Higgsfield Blockbuster 4K AI电影工业化工作流
+
+- 归档官方 Blog、18 个完整 Prompt、Claude Prompt-Builder Skill、4 个场景包和 34 张场景资产图，并补充 Academy 第 2–10 课登录后可见的全部教学文字。
+- 新建 `domains/视觉制作/06-AI视频/15-AI电影工业化工作流/`，以剧本访谈、镜头拆解、资产句柄、Prompt 协议、批次修复、连续性/控费和 Agent/Skill 合同组织 7 个正式页面。
+- Academy 相比 Blog 新增的操作知识包括：让 Claude 先访谈、候选资产失败理由、草图约束空间几何、局部地点升级为独立资产、剧情状态角色表、反打地点资产和 180 度规则。
+- 官方 `higgsfield-seedance-prompt.skill` 保留在 raw 并建立只读索引；未来创建自己的 Skill 时作为结构参考，仍需另走 `portable-skill-creator` 和干净上下文测试。
+- 48 张 Academy 配图的 URL 与语义标题已登记；CloudFront 命令行下载发生 TLS 握手失败，未影响依赖文字、Blog 图片和本地场景包的正式编译。
+
+## 2026-08-12：建立AI短视频七阶段生产导航与Prompt交接协议
+
+- 根据用户确认，将 AI 短视频知识主线调整为项目定义与剧本、导演思维、分镜脚本、图片与控制资产、视频生成、视频剪辑与连续性、声音设计与 BGM 七个阶段；模型工具、影像风格和案例作为横向资料层。
+- 第一批只建立新导航层，不移动、删除、合并或改写重构前 76 篇正式页；完整旧页归属记录在 `domains/视觉制作/06-AI视频/99-迁移与历史索引/01-旧页到新阶段迁移表.md`。
+- 新建《导演决策到图片Prompt的转换协议》和《分镜与资产到视频Prompt的转换协议》，要求剧本、导演和分镜决策落实为参考职责、可执行 Prompt 字段、验收项与最小修复闭环。
+- 剪辑和声音目录只汇总已有证据并明确待补缺口，不用通用知识伪装成完整工作流。
+- 重构前备份位于 `/Users/pechen/AI/Research/output/wiki-backups/ai-video-first-batch-before-2026-08-12/`；其中 `formal-before.sha256` 记录 76 个旧正式页，`raw-before.sha256` 记录 3,659 个相关 raw 文件。
+
+## 2026-08-12：编译抖音《导演思维与分镜生成原理》
+
+- 将猪猪侠_阿亮的 9 分 51 秒抖音视频归档到 `raw/videos/douyin-director-thinking-storyboard-generation-2026-08-12/`；原文件与下载文件 SHA-256 一致。
+- 保留 TXT、SRT、JSON 三份未修订机器识别结果，并抽取 59 张每 10 秒关键帧；没有删除或覆盖原始内容。
+- 结合烧录字幕校正“海地→海蒂”“小玄境→小全景”“全世界的过程中→诠释的过程中”等识别错误，校正只发生在抽取与正式层。
+- 新建《导演动机、导演工具与分镜生成》，完整保留外部观察、人物刻画、人物权重、慢跟镜、环境压制和长镜头四组案例逻辑。
+- 把“导演动机＋导演工具”进一步编译为导演决策单以及图片/视频 Prompt 字段；该部分明确标注为知识库应用编译，不冒充视频作者原话。
+- 59 张关键帧全部登记：5 张作为知识图嵌入正式页，54 张作为连续证据保留在 raw；抽取与覆盖审计位于 `_meta/extraction-notes/douyin-director-thinking-storyboard-generation-2026-08-12/`。
+- 修改前备份位于 `/Users/pechen/AI/Research/output/wiki-backups/ai-video-second-batch-video-before-2026-08-12/`。
+- 同步启动导演书籍 raw 覆盖复审：确认《Film Directing Shot by Shot》原编译只登记 6 个知识单元，不能代表 25 章约 54 万字符正文的完整覆盖；差额与 D1–D4 重编译批次记录在 `_meta/extraction-notes/film-directing-shot-by-shot-2019-recompile-2026-08-12/coverage-gap-audit.md`，既有十个导演系统页继续保留。
+
+## 2026-08-12：完成 AI 视频正式知识页实体归类
+
+- 将原先散落在 AI 视频根目录及 6 个旧专题目录中的 66 个 Markdown 文件，实体迁入七个生产阶段及模型工具、影像风格、迁移历史等稳定目录；根目录现在只保留总 `index.md` 和分类目录。
+- 保留全部正式知识正文，不删除、不合并、不去重；跨阶段工作流按主要用途拆分归档，并通过索引和链接维持完整工作流关系。
+- 为 12 个分类目录补齐“本目录知识清单”，可直接从目录页看出已有页面数量与知识缺口；AI 视频域仍为 91 个 Markdown 文件。
+- 同步更新 domains、queries、审计与 extraction notes 中指向正式页的路径；历史迁移记录保留旧路径作为证据。
+- 精确 66 项路径映射位于 `_meta/extraction-notes/ai-video-physical-reorganization-2026-08-12/migration-map.md`。
+- 实体归类前备份位于 `/Users/pechen/AI/Research/output/wiki-backups/ai-video-physical-reorganization-before-2026-08-12/`，包含 91 页哈希清单与 3,659 个 raw 文件的基线哈希。
+# 2026-08-13：补齐产品销售型短视频剧本第一批知识
+
+- 将当前短视频剧本范围固定为以产品销售为目标的“产品介绍型 TVC”和“情感故事型软广”两条路线；前者默认进入 A/V 双栏脚本，后者先进入文学剧本，再按需要转执行稿。
+- 定向重编 `Writing Short Films`、`The Coffee Break Screenwriter` 与 `Hey, Whipple, Squeeze This` 中的短片范围、场景行动单元、动作、对白、潜台词、格式与分轮改稿；旧书 coverage 保留为历史，本批另建知识单元级矩阵，不宣称全书重编完成。
+- 归档 Academy、Fountain、Celtx、Google Ads、TikTok for Business、市场监管总局及 3 个 GitHub 候选的公开证据；平台效果数字未升级为跨平台保证，GitHub 只作为格式、语料和 Agent 工程候选。
+- 新建双路线、产品型 TVC、故事软广、文学剧本格式、场景对白、改稿验收和 Agent 模板 7 个方法页；没有删除、合并或清理原有 12 个剧本页面。
+- 以“为你写诗 × 诗人李元胜《生活边缘》系列异形椅子抱枕”为固定案例，归档产品分析、旧版规划和 26 张商品图，并完成 120 秒产品型 A/V 脚本与《边缘座位》文学剧本的对照。
+- 4 张商品图的 CDN 响应虽以 `.jpg` 命名、实际为 WebP；保留原始响应不改，并新增正确后缀的规范副本供正式页引用和图片合同校验。
+- 商品证据严格区分图片可见、商品页声称和创意推断；“给自己留一个位置”只作为广告命题，不写成产品疗愈或健康功效。
+- 修改前备份：`/Users/pechen/AI/Research/output/wiki-backups/product-sales-video-screenwriting-before-2026-08-13/`；抽取与覆盖审计：`_meta/extraction-notes/product-sales-video-screenwriting-batch-2026-08-13/`。

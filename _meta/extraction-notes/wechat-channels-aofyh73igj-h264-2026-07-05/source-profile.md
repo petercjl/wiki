@@ -37,15 +37,15 @@ status: active
 
 ## Domain Placement
 
-- Primary domain: `domains/视觉制作/06-AI视频/30-影像美学大师风格AI短视频/`
+- Primary domain: `domains/视觉制作/06-AI视频/85-影像风格参考/`
 - Primary formal artifact: film-aesthetic master style AI short-video topic and playbook
 - Related pages:
-  - `domains/视觉制作/06-AI视频/02-AI商业短视频规划方法.md`
-  - `domains/视觉制作/06-AI视频/03-导演式镜头设计方法.md`
-  - `domains/视觉制作/06-AI视频/04-商业短视频摄影与运镜语法.md`
-  - `domains/视觉制作/06-AI视频/05-AI视频导演Prompt模板.md`
-  - `domains/视觉制作/06-AI视频/07-故事板铁三角AI视频控制法.md`
-  - `domains/视觉制作/06-AI视频/30-影像美学大师风格AI短视频/index.md`
+  - `domains/视觉制作/06-AI视频/01-项目定义与剧本/02-AI商业短视频规划方法.md`
+  - `domains/视觉制作/06-AI视频/02-导演思维/03-导演式镜头设计方法.md`
+  - `domains/视觉制作/06-AI视频/03-分镜脚本/04-商业短视频摄影与运镜语法.md`
+  - `domains/视觉制作/06-AI视频/05-视频生成/05-AI视频导演Prompt模板.md`
+  - `domains/视觉制作/06-AI视频/04-图片与控制资产/07-故事板铁三角AI视频控制法.md`
+  - `domains/视觉制作/06-AI视频/85-影像风格参考/30-影像美学大师风格AI短视频.md`
 
 ## Fusion Disposition
 

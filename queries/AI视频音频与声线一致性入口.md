@@ -6,7 +6,7 @@ updated: 2026-07-04
 domain: 视觉制作
 tags: [visual-production, ai-video, workflow]
 sources:
-  - domains/视觉制作/06-AI视频/10-Seed-Audio短视频音频一致性工作流.md
+  - domains/视觉制作/06-AI视频/07-声音设计与BGM/10-Seed-Audio短视频音频一致性工作流.md
 status: active
 ---
 
@@ -14,15 +14,15 @@ status: active
 
 当用户要求处理 AI 短视频 BGM、配乐、人物配音、声线参考、一致性、原片去 BGM 保留对白、Seed-Audio 或 `seedaudiocli` 相关任务时，先读：
 
-1. [[domains/视觉制作/06-AI视频/10-Seed-Audio短视频音频一致性工作流|Seed-Audio短视频音频一致性工作流]]
+1. [[domains/视觉制作/06-AI视频/07-声音设计与BGM/10-Seed-Audio短视频音频一致性工作流|Seed-Audio短视频音频一致性工作流]]
 2. [[domains/视觉制作/06-AI视频/index|AI视频]]
-3. [[domains/视觉制作/06-AI视频/09-AI长视频连续性组接方法|AI长视频连续性组接方法]]
+3. [[domains/视觉制作/06-AI视频/06-视频剪辑与连续性/09-AI长视频连续性组接方法|AI长视频连续性组接方法]]
 
 ## 分支读取
 
 - 如果任务是写完整 AI 视频脚本、分镜、首尾帧或图生视频 prompt，同时读 [[queries/AI视频导演与分镜入口|AI视频导演与分镜入口]]。
-- 如果任务需要 Seedance 模型能力边界，同时读 [[domains/视觉制作/06-AI视频/01-Doubao-Seedance-2.0视频生成模型卡|Doubao-Seedance-2.0 视频生成模型卡]]，并复核当前官方文档。
-- 如果任务涉及人物、场景、产品等视觉一致性资产，同时读 [[domains/视觉制作/06-AI视频/07-故事板铁三角AI视频控制法|AI视频控制资产系统：身份板、故事板、导演台与素材库]]。
+- 如果任务需要 Seedance 模型能力边界，同时读 [[domains/视觉制作/06-AI视频/80-模型与工具/01-Doubao-Seedance-2.0视频生成模型卡|Doubao-Seedance-2.0 视频生成模型卡]]，并复核当前官方文档。
+- 如果任务涉及人物、场景、产品等视觉一致性资产，同时读 [[domains/视觉制作/06-AI视频/04-图片与控制资产/07-故事板铁三角AI视频控制法|AI视频控制资产系统：身份板、故事板、导演台与素材库]]。
 
 ## 标准判断步骤
 
