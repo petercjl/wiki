@@ -55,7 +55,7 @@
 
 ## [2026-07-06] create | AI短视频故事方法论
 
-- Created `domains/视觉制作/06-AI视频/01-项目定义与剧本/40-AI短视频故事方法论.md`.
+- Created `domains/视觉制作/06-AI视频/01-项目定义与剧本/06-AI短视频故事方法论.md`.
 - Created `domains/视觉制作/06-AI视频/40-AI短视频故事方法论/01-故事命题与人物动机.md`.
 - Created `domains/视觉制作/06-AI视频/40-AI短视频故事方法论/02-短视频叙事结构.md`.
 - Created `domains/视觉制作/06-AI视频/40-AI短视频故事方法论/03-把故事翻译成可生成镜头.md`.
@@ -1499,7 +1499,7 @@
 - Validation: all 7 pages passed structure checks: each has one workflow, one story script, 8 Prompt blocks, 8 embedded global-style blocks, 8 no-music sound strategies, 24 timed blocks, 24 sound-effect fields, 0 external global-style dependencies, 0 header duplicate dialogue fields, and 0 V/D reference residues.
 ## [2026-07-06] revise | AI短视频故事方法论新增“方向分叉”决策层
 
-- Added `domains/视觉制作/06-AI视频/01-项目定义与剧本/40-09-故事方向分叉与用户选择.md`.
+- Added `domains/视觉制作/06-AI视频/01-项目定义与剧本/08-故事方向分叉与用户选择.md`.
 - Updated the method index, query entrance, and Agent template so story planning now defaults to multiple life-story directions before single-script deepening.
 - Captured the rule that products should be hidden inside life actions, while users choose the preferred story mechanism, emotional taste, and生活观察 before分镜 or prompt work.
 ## [2026-07-06] add | 保温咖啡杯误会和解故事入库
@@ -1896,3 +1896,10 @@
 - 4 张商品图的 CDN 响应虽以 `.jpg` 命名、实际为 WebP；保留原始响应不改，并新增正确后缀的规范副本供正式页引用和图片合同校验。
 - 商品证据严格区分图片可见、商品页声称和创意推断；“给自己留一个位置”只作为广告命题，不写成产品疗愈或健康功效。
 - 修改前备份：`/Users/pechen/AI/Research/output/wiki-backups/product-sales-video-screenwriting-before-2026-08-13/`；抽取与覆盖审计：`_meta/extraction-notes/product-sales-video-screenwriting-batch-2026-08-13/`。
+
+## 2026-08-13：重排“项目定义与剧本”目录编号
+
+- 将 `domains/视觉制作/06-AI视频/01-项目定义与剧本/` 中 19 篇正式页按“路线判断 → 商业规划 → 产品 TVC / 情感软广 → 故事与剧本写作 → 改稿验收 → Agent 模板 → 分镜交接”重排为连续的 `01–19`。
+- 文件序号同时表达使用先后和优先级：总入口与两条主路线前置，视觉结构和镜头拆解放在末尾作为下一阶段交接。
+- 同步更新正式页面、查询入口、各级索引及 extraction notes 中的有效目标路径；未修改 `raw/` 原始资料，也未删除或合并任何知识正文。
+- 修改前 GitHub 基线为分支 `agent/reorder-ai-video-script-docs` 的提交 `09ad7795`；本次按用户要求用远端提交代替新增本地备份。

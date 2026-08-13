@@ -17,7 +17,7 @@
 - existing_pages:
   - `domains/视觉制作/03-AI商业视觉/01-AI在商业视觉设计中的应用方法与实践/04-图片工作流：提示词结构与参考控制.md`
   - `domains/视觉制作/06-AI视频/04-图片与控制资产/07-故事板铁三角AI视频控制法.md`
-  - `domains/视觉制作/06-AI视频/01-项目定义与剧本/14-AI品牌TVC的气质、视觉符号与产品登场.md`
+  - `domains/视觉制作/06-AI视频/01-项目定义与剧本/04-AI品牌TVC的气质、视觉符号与产品登场.md`
 - proposed_disposition: create-new，反向链接既有图片工作流与视频关键帧资产体系
 - placement_confirmation_status: confirmed
 - confirmed_path: `domains/视觉制作/03-AI商业视觉/05-AI生图主体比例与朝向控制方法.md`

@@ -28,7 +28,7 @@ status: active
 - Coverage matrix: `_meta/extraction-notes/feishu-ai-tvc-three-step-2026-07-29/coverage-matrix.md`
 - Omission audit: `_meta/extraction-notes/feishu-ai-tvc-three-step-2026-07-29/omission-audit.md`
 - Formal page plan: `_meta/extraction-notes/feishu-ai-tvc-three-step-2026-07-29/formal-page-plan.md`
-- Formal pages: `domains/视觉制作/06-AI视频/01-项目定义与剧本/14-AI品牌TVC的气质、视觉符号与产品登场.md`; `domains/视觉制作/06-AI视频/90-案例库/09-香水与汽车TVC：从品牌世界到产品亮相.md`
+- Formal pages: `domains/视觉制作/06-AI视频/01-项目定义与剧本/04-AI品牌TVC的气质、视觉符号与产品登场.md`; `domains/视觉制作/06-AI视频/90-案例库/09-香水与汽车TVC：从品牌世界到产品亮相.md`
 
 ## Placement Confirmation
 
@@ -39,7 +39,7 @@ status: active
 - Alternatives considered: product research and generic advertising theory
 - User confirmation: yes
 - Confirmation evidence: user accepted the previously recommended location and instructed compilation to begin
-- Final confirmed path: `domains/视觉制作/06-AI视频/01-项目定义与剧本/14-AI品牌TVC的气质、视觉符号与产品登场.md`; `domains/视觉制作/06-AI视频/90-案例库/09-香水与汽车TVC：从品牌世界到产品亮相.md`
+- Final confirmed path: `domains/视觉制作/06-AI视频/01-项目定义与剧本/04-AI品牌TVC的气质、视觉符号与产品登场.md`; `domains/视觉制作/06-AI视频/90-案例库/09-香水与汽车TVC：从品牌世界到产品亮相.md`
 
 ## Coverage Summary
 

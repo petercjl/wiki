@@ -1,7 +1,7 @@
 # Formal Page Plan
 
 - Source: The Coffee Break Screenwriter
-- Primary formal pages: `domains/视觉制作/06-AI视频/03-分镜脚本/40-AI故事到分镜生产工作流.md`, `domains/视觉制作/06-AI视频/01-项目定义与剧本/40-08-Agent使用模板：AI短视频故事策划.md`
+- Primary formal pages: `domains/视觉制作/06-AI视频/03-分镜脚本/40-AI故事到分镜生产工作流.md`, `domains/视觉制作/06-AI视频/01-项目定义与剧本/17-Agent使用模板：AI短视频故事策划.md`
 - Query entry: `queries/AI短视频故事策划.md`
 - Index updates: AI 视频 index and root wiki index.
 - Disposition: merge into cross-source methodology; do not create one page per chapter.
